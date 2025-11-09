@@ -5,7 +5,7 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="#all" version="2.0">
     <xsl:template name="nav_bar">
         <header>
-            <nav aria-label="Primary" class="navbar navbar-expand-lg bg-body-tertiary">
+            <nav aria-label="Primary" class="navbar navbar-expand-lg">
                 <div class="container-fluid">
                     <a class="navbar-brand" href="index.html">
                         <xsl:value-of select="$project_short_title"/>
@@ -35,17 +35,11 @@
                                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Register</a>
                                 <ul class="dropdown-menu">
                                     <li>
-                                        <a class="dropdown-item" href="listperson.html">Personen</a>
+                                        <a class="dropdown-item" href="listbibl.html">Textverzeichnis</a>
                                     </li>
-                                    <li>
-                                        <a class="dropdown-item" href="listplace.html">Orte</a>
-                                    </li>
-                                    <li>
-                                        <a class="dropdown-item" href="listorg.html">Organisationen</a>
-                                    </li>
-                                    <li>
-                                        <a class="dropdown-item" href="listbibl.html">Werke</a>
-                                    </li>
+                                    <!-- <li>
+                                        <a class="dropdown-item" href="listbibl.html">Autor*Innen</a>
+                                    </li> -->
                                 </ul>
                             </li>
                             <li class="nav-item">

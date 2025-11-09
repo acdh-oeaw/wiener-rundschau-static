@@ -1,15 +1,121 @@
+:root {
+  --dse-base-color: #7b0600;
+  --dse-base-hover: #ff0404a8;
+  --dse-background: #d6d8bb;
+  --dse-background-dark: #a2ad8f;
+}
+
+a {
+  color: var(--dse-base-color);
+}
+a:hover {
+  color: var(--dse-base-hover);
+}
+
+/* main {
+  background-color: var(--dse-background);
+} */
+
+nav:not([aria-label="breadcrumb"]) {
+  font-size: 1.2rem;
+  background-color: var(--dse-background-dark);
+}
+
+footer {
+  background-color: var(--dse-background-dark);
+}
+
+dd {
+  margin-left: 1rem;
+}
+
+.btn-primary {
+  --bs-btn-bg: var(--dse-base-color);
+  --bs-btn-border-color: var(--dse-base-color);
+  --bs-btn-hover-bg: var(--dse-base-hover);
+  --bs-btn-hover-border-color: var(--dse-base-color);
+  --bs-btn-active-bg: var(--dse-base-color);
+  --bs-btn-active-border-color: var(--dse-base-color);
+  --bs-btn-border-color: var(--dse-base-color);
+}
+
+.btn-outline-primary {
+  --bs-btn-color: var(--dse-base-color);
+  --bs-btn-border-color: var(--dse-base-color);
+  --bs-btn-hover-bg: var(--dse-base-hover);
+  --bs-btn-hover-border-color: var(--dse-base-color);
+  --bs-btn-active-bg: var(--dse-base-color);
+  --bs-btn-active-border-color: var(--dse-base-color);
+  --bs-btn-border-color: var(--dse-base-color);
+}
+
+button.entity {
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  font: inherit;
+  color: inherit;
+  text-align: inherit;
+  cursor: pointer;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+}
+
 /* needed for interactive map in listplace.xsl */
 div#map {
-    height: 50vh;
+  height: 50vh;
 }
 
-/* Match bootstrap navlink focus outline color. */
+div#osd_viewer {
+  height: 800px;
+}
+/** Match bootstrap navlink focus outline color. */
 :focus-visible {
-    outline: 0;
-    box-shadow: 0 0 0 .25rem rgba(13,110,253,.25);
+  outline: 0;
+  box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
 }
 
-.entity {
-    text-decoration: underline dotted;
-    cursor: pointer;
+.text-spaced {
+  letter-spacing: 0.1em;
+}
+
+.strong {
+  font-weight: bold;
+}
+
+.initial {
+  font-size: 2rem;
+}
+
+.italics {
+  font-style: italic;
+}
+
+.tei-fw {
+  text-align: center;
+  padding-bottom: 1rem;
+}
+
+.tei-title {
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+.tei-p {
+  text-indent: 0.7em;
+  margin: 0.2em 0;
+}
+
+.no-intend {
+  margin: 0 0;
+}
+
+.dse-title {
+  font-variant: small-caps;
+}
+
+.footer-logo {
+  max-width: 50%;
+  max-height: 150px;
 }
