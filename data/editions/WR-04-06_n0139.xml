@@ -35,6 +35,15 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0834">
+                  <title level="a">Lionardo da Vinci (Schluss)</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 6</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="06">6</biblScope>
+                  <biblScope unit="page" from="135" to="138"/>
+                  <idno type="fn">WR-04-06_n0135.xml</idno>
+                  <author ref="#wr-person-0269">Sachs, Otto</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0835">
                   <title level="a">Über die Abschaffung des Pöbels</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 6</title>
@@ -43,6 +52,15 @@
                   <biblScope unit="page" from="139" to="141"/>
                   <idno type="fn">WR-04-06_n0139.xml</idno>
                   <author ref="#wr-person-0191">Heidenstam, Verner von</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0836">
+                  <title level="a">Die Entstehung des socialen Problems</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 6</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="06">6</biblScope>
+                  <biblScope unit="page" from="141" to="143"/>
+                  <idno type="fn">WR-04-06_n0141.xml</idno>
+                  <author ref="#wr-person-0278">Schmitt, Eugen Heinrich</author>
                </bibl>
             </listBibl>
          </sourceDesc>

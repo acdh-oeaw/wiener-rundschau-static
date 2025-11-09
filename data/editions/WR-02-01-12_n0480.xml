@@ -36,7 +36,37 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0421">
+                  <title level="a">Marie Geistinger </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 12</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="479" to="479"/>
+                  <idno type="fn">WR-02-01-12_n0479.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0422">
+                  <title level="a">Im Lande der Hofräthe</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 12</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="479" to="480"/>
+                  <idno type="fn">WR-02-01-12_n0479.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0423">
+                  <title level="a">Prévost, »Eine Pariser Ehe«</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 12</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="480" to="480"/>
+                  <idno type="fn">WR-02-01-12_n0480.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0422">
                   <title level="a">Im Lande der Hofräthe</title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 12</title>
                   <biblScope unit="volume" n="02">2</biblScope>
@@ -56,6 +86,26 @@
                   <idno type="fn">WR-02-01-12_n0480.xml</idno>
                   <author ref="#nan"/>
                </bibl>
+               <bibl n="next text" corresp="#wr-text-0424">
+                  <title level="a">Sachs, »Von zwei Geschwistern«</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 12</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="480" to="480"/>
+                  <idno type="fn">WR-02-01-12_n0480.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0423">
+                  <title level="a">Prévost, »Eine Pariser Ehe«</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 12</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="480" to="480"/>
+                  <idno type="fn">WR-02-01-12_n0480.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0424">
                   <title level="a">Sachs, »Von zwei Geschwistern«</title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 12</title>
@@ -65,6 +115,16 @@
                   <biblScope unit="page" from="480" to="480"/>
                   <idno type="fn">WR-02-01-12_n0480.xml</idno>
                   <author ref="#nan"/>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0425">
+                  <title level="a">Ein Besuch bei Johannes Brahms</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 13</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="481" to="491"/>
+                  <idno type="fn">WR-02-02-13_n0481.xml</idno>
+                  <author ref="#wr-person-0155">Behrend, Wilhelm</author>
                </bibl>
             </listBibl>
          </sourceDesc>

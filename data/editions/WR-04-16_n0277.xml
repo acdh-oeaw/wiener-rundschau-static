@@ -35,6 +35,15 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0927">
+                  <title level="a">Bücher*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 15</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="15">15</biblScope>
+                  <biblScope unit="page" from="274" to="274"/>
+                  <idno type="fn">WR-04-15_n0274.xml</idno>
+                  <author ref="#wr-person-0190">Schlaf, Johannes</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0928">
                   <title level="a">Zur Psychologie und Überwindung des Bohémiens I.</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 16</title>
@@ -43,6 +52,15 @@
                   <biblScope unit="page" from="275" to="277"/>
                   <idno type="fn">WR-04-16_n0275.xml</idno>
                   <author ref="#wr-person-0187">Mauclair, Camille</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0929">
+                  <title level="a">Ein Brief</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 16</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="16">16</biblScope>
+                  <biblScope unit="page" from="278" to="278"/>
+                  <idno type="fn">WR-04-16_n0278.xml</idno>
+                  <author ref="#wr-person-0175">Strindberg, August</author>
                </bibl>
             </listBibl>
          </sourceDesc>

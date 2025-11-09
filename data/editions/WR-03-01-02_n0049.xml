@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0547">
+                  <title level="a">Die heilige Gudula</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="46" to="48"/>
+                  <idno type="fn">WR-03-01-02_n0046.xml</idno>
+                  <author ref="#wr-person-0179">Levetzow, Freiherr Carl von</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0548">
                   <title level="a">»Fuhrmann Henschel«</title>
                   <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 2</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="48" to="52"/>
                   <idno type="fn">WR-03-01-02_n0048.xml</idno>
                   <author ref="#wr-person-0180">Heimann, Moritz</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0549">
+                  <title level="a">Burgtheater: Gastspiel Kainz</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="52" to="52"/>
+                  <idno type="fn">WR-03-01-02_n0052.xml</idno>
+                  <author ref="#wr-person-0007">Schik, F.</author>
                </bibl>
             </listBibl>
          </sourceDesc>

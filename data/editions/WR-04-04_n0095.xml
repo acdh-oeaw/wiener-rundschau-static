@@ -35,6 +35,15 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0815">
+                  <title level="a">Zeitgenössische englische Malerei</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 4</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="92" to="94"/>
+                  <idno type="fn">WR-04-04_n0092.xml</idno>
+                  <author ref="#wr-person-0271">Drews, Arthur, Prof.</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0816">
                   <title level="a">Die Renaissance des Keltenthums</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 4</title>
@@ -43,6 +52,15 @@
                   <biblScope unit="page" from="94" to="96"/>
                   <idno type="fn">WR-04-04_n0094.xml</idno>
                   <author ref="#wr-person-0262">Graevell van Jostenoode, Harald</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0817">
+                  <title level="a">John Ruskin*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 4</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="96" to="97"/>
+                  <idno type="fn">WR-04-04_n0096.xml</idno>
+                  <author ref="#wr-person-0272">Schölermann, W.</author>
                </bibl>
             </listBibl>
          </sourceDesc>

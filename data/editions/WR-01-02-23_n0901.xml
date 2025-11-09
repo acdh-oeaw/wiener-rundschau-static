@@ -36,7 +36,37 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0286">
+                  <title level="a">Zwischen den Völkern</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 23</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="897" to="900"/>
+                  <idno type="fn">WR-01-02-23_n0897.xml</idno>
+                  <author ref="#wr-person-0089">Dix, Arthur</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0287">
+                  <title level="a">Deutsches Volkstheater</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 23</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="901" to="901"/>
+                  <idno type="fn">WR-01-02-23_n0901.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0288">
+                  <title level="a">Hof-Operntheater</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 23</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="901" to="901"/>
+                  <idno type="fn">WR-01-02-23_n0901.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0287">
                   <title level="a">Deutsches Volkstheater</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 23</title>
                   <biblScope unit="volume" n="01">1</biblScope>
@@ -54,6 +84,16 @@
                   <biblScope unit="issue" n="23">23</biblScope>
                   <biblScope unit="page" from="901" to="901"/>
                   <idno type="fn">WR-01-02-23_n0901.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0289">
+                  <title level="a">Theater an der Wien</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 23</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="902" to="903"/>
+                  <idno type="fn">WR-01-02-23_n0902.xml</idno>
                   <author ref="#nan"/>
                </bibl>
             </listBibl>

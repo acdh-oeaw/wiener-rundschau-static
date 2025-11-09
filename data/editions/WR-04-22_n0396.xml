@@ -35,7 +35,34 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0972">
+                  <title level="a">Der vierte internationale Psychologen-Congress</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 22</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="22">22</biblScope>
+                  <biblScope unit="page" from="388" to="393"/>
+                  <idno type="fn">WR-04-22_n0388.xml</idno>
+                  <author ref="#wr-person-0240">Deinhard, Ludwig</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0973">
+                  <title level="a">Rückblicke auf Paris und die Ausstellung</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 22</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="22">22</biblScope>
+                  <biblScope unit="page" from="393" to="396"/>
+                  <idno type="fn">WR-04-22_n0393.xml</idno>
+                  <author ref="#wr-person-0071">Schmitz, Oscar A. H.</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0974">
+                  <title level="a">Moderne Keramik*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 22</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="22">22</biblScope>
+                  <biblScope unit="page" from="396" to="397"/>
+                  <idno type="fn">WR-04-22_n0396.xml</idno>
+                  <author ref="#wr-person-0313">A. Lg.</author>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0973">
                   <title level="a">Rückblicke auf Paris und die Ausstellung</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 22</title>
                   <biblScope unit="volume" n="04">4</biblScope>
@@ -52,6 +79,15 @@
                   <biblScope unit="page" from="396" to="397"/>
                   <idno type="fn">WR-04-22_n0396.xml</idno>
                   <author ref="#wr-person-0313">A. Lg.</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0975">
+                  <title level="a">Rodin*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 22</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="22">22</biblScope>
+                  <biblScope unit="page" from="397" to="398"/>
+                  <idno type="fn">WR-04-22_n0397.xml</idno>
+                  <author ref="#nan"/>
                </bibl>
             </listBibl>
          </sourceDesc>

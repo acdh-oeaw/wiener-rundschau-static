@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0309">
+                  <title level="a">Burgtheater </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="38" to="38"/>
+                  <idno type="fn">WR-02-01-01_n0038.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0310">
                   <title level="a">Hermann Bahr</title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 1</title>
@@ -44,6 +54,16 @@
                   <biblScope unit="issue" n="01">1</biblScope>
                   <biblScope unit="page" from="39" to="39"/>
                   <idno type="fn">WR-02-01-01_n0039.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0311">
+                  <title level="a">Werestschagin-Ausstellung</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="40" to="40"/>
+                  <idno type="fn">WR-02-01-01_n0040.xml</idno>
                   <author ref="#nan"/>
                </bibl>
             </listBibl>

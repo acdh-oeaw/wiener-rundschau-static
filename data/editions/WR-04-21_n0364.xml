@@ -35,6 +35,15 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0962">
+                  <title level="a">Herbstklage</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 21</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="363" to="363"/>
+                  <idno type="fn">WR-04-21_n0363.xml</idno>
+                  <author ref="#wr-person-0309">Mallarmé, Stéphane</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0963">
                   <title level="a">Das Wunder der Zukunft</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 21</title>
@@ -43,6 +52,15 @@
                   <biblScope unit="page" from="364" to="364"/>
                   <idno type="fn">WR-04-21_n0364.xml</idno>
                   <author ref="#wr-person-0309">Mallarmé, Stéphane</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0964">
+                  <title level="a">Gedanken vor einem Bilde des Filippo Lippi</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 21</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="365" to="368"/>
+                  <idno type="fn">WR-04-21_n0365.xml</idno>
+                  <author ref="#wr-person-0310">Key, Ellen</author>
                </bibl>
             </listBibl>
          </sourceDesc>

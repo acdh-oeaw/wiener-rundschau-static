@@ -36,7 +36,37 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0637">
+                  <title level="a">Wagnertage</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 11</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="11">11</biblScope>
+                  <biblScope unit="page" from="249" to="252"/>
+                  <idno type="fn">WR-03-01-11_n0249.xml</idno>
+                  <author ref="#wr-person-0211">Chamberlain, Houston Stewart</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0638">
+                  <title level="a">Die Witwe von Windsor</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 11</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="11">11</biblScope>
+                  <biblScope unit="page" from="252" to="253"/>
+                  <idno type="fn">WR-03-01-11_n0252.xml</idno>
+                  <author ref="#wr-person-0212">Kipling, Rudyard</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0639">
+                  <title level="a">Der Papst</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 11</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="11">11</biblScope>
+                  <biblScope unit="page" from="253" to="255"/>
+                  <idno type="fn">WR-03-01-11_n0253.xml</idno>
+                  <author ref="#wr-person-0025">Panizza, Oscar</author>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0638">
                   <title level="a">Die Witwe von Windsor</title>
                   <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 11</title>
                   <biblScope unit="volume" n="03">3</biblScope>
@@ -55,6 +85,16 @@
                   <biblScope unit="page" from="253" to="255"/>
                   <idno type="fn">WR-03-01-11_n0253.xml</idno>
                   <author ref="#wr-person-0025">Panizza, Oscar</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0640">
+                  <title level="a">Jan Toorop I.</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 11</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="11">11</biblScope>
+                  <biblScope unit="page" from="255" to="259"/>
+                  <idno type="fn">WR-03-01-11_n0255.xml</idno>
+                  <author ref="#wr-person-0213">Zilcken, Ph.</author>
                </bibl>
             </listBibl>
          </sourceDesc>

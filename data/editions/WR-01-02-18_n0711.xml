@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0232">
+                  <title level="a">Die skandinavische Literatur und ihre Tendenzen</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 18</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="18">18</biblScope>
+                  <biblScope unit="page" from="703" to="707"/>
+                  <idno type="fn">WR-01-02-18_n0703.xml</idno>
+                  <author ref="#wr-person-0085">Herzfeld, Marie</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0233">
                   <title level="a">Die »Centenarfeier« des Grössten</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 18</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="708" to="711"/>
                   <idno type="fn">WR-01-02-18_n0708.xml</idno>
                   <author ref="#wr-person-0093">Bleibtreu, Carl</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0234">
+                  <title level="a">Ischler Brief</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 18</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="18">18</biblScope>
+                  <biblScope unit="page" from="712" to="713"/>
+                  <idno type="fn">WR-01-02-18_n0712.xml</idno>
+                  <author ref="#wr-person-0008">Kraus, Karl</author>
                </bibl>
             </listBibl>
          </sourceDesc>

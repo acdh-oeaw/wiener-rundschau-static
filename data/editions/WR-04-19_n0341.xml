@@ -35,6 +35,15 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0952">
+                  <title level="a">Zur Physiologie des Geschmacks</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 19</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="19">19</biblScope>
+                  <biblScope unit="page" from="338" to="340"/>
+                  <idno type="fn">WR-04-19_n0338.xml</idno>
+                  <author ref="#wr-person-0175">Strindberg, August</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0953">
                   <title level="a">Das »Karma« in der Literatur</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 19</title>
@@ -43,6 +52,15 @@
                   <biblScope unit="page" from="341" to="343"/>
                   <idno type="fn">WR-04-19_n0341.xml</idno>
                   <author ref="#wr-person-0093">Bleibtreu, Carl</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0954">
+                  <title level="a">Baumgartner S. J.: Geschichte der Welt-Literatur*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 19</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="19">19</biblScope>
+                  <biblScope unit="page" from="343" to="344"/>
+                  <idno type="fn">WR-04-19_n0343.xml</idno>
+                  <author ref="#wr-person-0261">Graevell, Harald</author>
                </bibl>
             </listBibl>
          </sourceDesc>

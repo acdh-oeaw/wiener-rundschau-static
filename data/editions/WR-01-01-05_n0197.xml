@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0058">
+                  <title level="a">Deutsches Volkstheater</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 5</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="196" to="196"/>
+                  <idno type="fn">WR-01-01-05_n0196.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0059">
                   <title level="a">Burgtheater</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 5</title>
@@ -44,6 +54,16 @@
                   <biblScope unit="issue" n="05">5</biblScope>
                   <biblScope unit="page" from="196" to="198"/>
                   <idno type="fn">WR-01-01-05_n0196.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0060">
+                  <title level="a">Liliencron, »Poggfred«</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 5</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="198" to="199"/>
+                  <idno type="fn">WR-01-01-05_n0198.xml</idno>
                   <author ref="#nan"/>
                </bibl>
             </listBibl>

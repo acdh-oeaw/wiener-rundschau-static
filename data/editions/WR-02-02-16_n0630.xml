@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0458">
+                  <title level="a">Riesengebirge </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 16</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="16">16</biblScope>
+                  <biblScope unit="page" from="628" to="629"/>
+                  <idno type="fn">WR-02-02-16_n0628.xml</idno>
+                  <author ref="#wr-person-0022">Hirschfeld, Georg</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0459">
                   <title level="a">Dichter</title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 16</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="630" to="630"/>
                   <idno type="fn">WR-02-02-16_n0630.xml</idno>
                   <author ref="#wr-person-0022">Hirschfeld, Georg</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0460">
+                  <title level="a">Die Neugestaltung der Schauspielschule am Conservatorium </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 16</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="16">16</biblScope>
+                  <biblScope unit="page" from="637" to="638"/>
+                  <idno type="fn">WR-02-02-16_n0637.xml</idno>
+                  <author ref="#nan"/>
                </bibl>
             </listBibl>
          </sourceDesc>

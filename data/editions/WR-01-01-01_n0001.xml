@@ -46,6 +46,16 @@
                   <idno type="fn">WR-01-01-01_n0001.xml</idno>
                   <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
                </bibl>
+               <bibl n="next text" corresp="#wr-text-0002">
+                  <title level="a">Wanjka</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="6" to="10"/>
+                  <idno type="fn">WR-01-01-01_n0006.xml</idno>
+                  <author ref="#wr-person-0002">Tchechow, Anton</author>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>

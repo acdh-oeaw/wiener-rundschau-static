@@ -36,7 +36,37 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0266">
+                  <title level="a">Ein armer Augenblick</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 22</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="22">22</biblScope>
+                  <biblScope unit="page" from="829" to="835"/>
+                  <idno type="fn">WR-01-02-22_n0829.xml</idno>
+                  <author ref="#wr-person-0103">Lassen, Helene</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0267">
+                  <title level="a">Selene</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 22</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="22">22</biblScope>
+                  <biblScope unit="page" from="836" to="836"/>
+                  <idno type="fn">WR-01-02-22_n0836.xml</idno>
+                  <author ref="#wr-person-0104">Schmitz Oscar A. H.</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0268">
+                  <title level="a">Zu einem Bild von Holman Hunt</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 22</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="22">22</biblScope>
+                  <biblScope unit="page" from="836" to="836"/>
+                  <idno type="fn">WR-01-02-22_n0836.xml</idno>
+                  <author ref="#wr-person-0105">Soulier, Gaston</author>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0267">
                   <title level="a">Selene</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 22</title>
                   <biblScope unit="volume" n="01">1</biblScope>
@@ -55,6 +85,16 @@
                   <biblScope unit="page" from="836" to="836"/>
                   <idno type="fn">WR-01-02-22_n0836.xml</idno>
                   <author ref="#wr-person-0105">Soulier, Gaston</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0269">
+                  <title level="a">Das Ergebniss der Münchener Kunstausstellung von 1897</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 22</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="22">22</biblScope>
+                  <biblScope unit="page" from="837" to="842"/>
+                  <idno type="fn">WR-01-02-22_n0837.xml</idno>
+                  <author ref="#wr-person-0049">Fuchs, Georg</author>
                </bibl>
             </listBibl>
          </sourceDesc>

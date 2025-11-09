@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0554">
+                  <title level="a">Der Zeichner Fidus</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="68" to="68"/>
+                  <idno type="fn">WR-03-01-03_n0068.xml</idno>
+                  <author ref="#wr-person-0004">Altenberg, Peter</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0555">
                   <title level="a">Konrad Ferdinand Meyer</title>
                   <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 3</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="68" to="71"/>
                   <idno type="fn">WR-03-01-03_n0068.xml</idno>
                   <author ref="#wr-person-0073">Basedow, Hans von</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0556">
+                  <title level="a">Ein Rückblick</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="71" to="73"/>
+                  <idno type="fn">WR-03-01-03_n0071.xml</idno>
+                  <author ref="#wr-person-0173">Schölermann, Wilh.</author>
                </bibl>
             </listBibl>
          </sourceDesc>

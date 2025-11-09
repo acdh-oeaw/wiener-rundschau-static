@@ -35,6 +35,15 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0896">
+                  <title level="a">Salome</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="189" to="212"/>
+                  <idno type="fn">WR-04-12_n0189.xml</idno>
+                  <author ref="#wr-person-0068">Wilde, Oscar</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0897">
                   <title level="a">Dante von Carl Federn*</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
@@ -43,6 +52,15 @@
                   <biblScope unit="page" from="213" to="214"/>
                   <idno type="fn">WR-04-12_n0213.xml</idno>
                   <author ref="#wr-person-0271">Drews, Arthur, Prof.</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0898">
+                  <title level="a">Theater*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="214" to="214"/>
+                  <idno type="fn">WR-04-12_n0214.xml</idno>
+                  <author ref="#wr-person-0296">S., B.</author>
                </bibl>
             </listBibl>
          </sourceDesc>

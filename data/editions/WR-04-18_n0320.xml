@@ -35,6 +35,15 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0944">
+                  <title level="a">Flandrische Lieder</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 18</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="18">18</biblScope>
+                  <biblScope unit="page" from="317" to="317"/>
+                  <idno type="fn">WR-04-18_n0317.xml</idno>
+                  <author ref="#wr-person-0280">Lemonnier, Camille</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0945">
                   <title level="a">Dharma und Karma</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 18</title>
@@ -43,6 +52,15 @@
                   <biblScope unit="page" from="318" to="321"/>
                   <idno type="fn">WR-04-18_n0318.xml</idno>
                   <author ref="#wr-person-0299">Arjuna van Jostenoode, Harald</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0946">
+                  <title level="a">Die blaue Blume*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 18</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="18">18</biblScope>
+                  <biblScope unit="page" from="321" to="323"/>
+                  <idno type="fn">WR-04-18_n0321.xml</idno>
+                  <author ref="#wr-person-0234">Ceconi-Huch, Ricarda</author>
                </bibl>
             </listBibl>
          </sourceDesc>

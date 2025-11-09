@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0651">
+                  <title level="a">Galerie Miethke: Thoma</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 11</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="11">11</biblScope>
+                  <biblScope unit="page" from="272" to="272"/>
+                  <idno type="fn">WR-03-01-11_n0272.xml</idno>
+                  <author ref="#wr-person-0173">Schölermann, Wilh.</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0652">
                   <title level="a">Velasquez</title>
                   <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 12</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="273" to="276"/>
                   <idno type="fn">WR-03-01-12_n0273.xml</idno>
                   <author ref="#wr-person-0218">Muther, Richard</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0653">
+                  <title level="a">Zur Entwicklung der lyrischenTechnik</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 12</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="277" to="278"/>
+                  <idno type="fn">WR-03-01-12_n0277.xml</idno>
+                  <author ref="#wr-person-0190">Schlaf, Johannes</author>
                </bibl>
             </listBibl>
          </sourceDesc>

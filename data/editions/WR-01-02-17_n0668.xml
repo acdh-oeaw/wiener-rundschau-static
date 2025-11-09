@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0225">
+                  <title level="a">Die Verzauberung Merlin’s</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 17</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="17">17</biblScope>
+                  <biblScope unit="page" from="664" to="664"/>
+                  <idno type="fn">WR-01-02-17_n0664.xml</idno>
+                  <author ref="#wr-person-0088">Perzynski, Friedrich</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0226">
                   <title level="a">Zur Charakteristik Stanislaw Przybyszewski’s</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 17</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="665" to="671"/>
                   <idno type="fn">WR-01-02-17_n0665.xml</idno>
                   <author ref="#wr-person-0035">Neumann, Alfred</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0227">
+                  <title level="a">Die Umwerthung des Schuldbegriffes</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 17</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="17">17</biblScope>
+                  <biblScope unit="page" from="672" to="676"/>
+                  <idno type="fn">WR-01-02-17_n0672.xml</idno>
+                  <author ref="#wr-person-0089">Dix, Arthur</author>
                </bibl>
             </listBibl>
          </sourceDesc>

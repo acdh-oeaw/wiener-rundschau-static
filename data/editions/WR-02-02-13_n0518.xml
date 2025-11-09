@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0431">
+                  <title level="a">Chronik</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 13</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="517" to="517"/>
+                  <idno type="fn">WR-02-02-13_n0517.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0432">
                   <title level="a">Hugo Wolf-Verein, »Gesammelte Aufsätze über Hugo Wolf«</title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 13</title>
@@ -44,6 +54,16 @@
                   <biblScope unit="issue" n="13">13</biblScope>
                   <biblScope unit="page" from="517" to="519"/>
                   <idno type="fn">WR-02-02-13_n0517.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0433">
+                  <title level="a">Scheerbart, »Der Tod der Barmekiden«</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 13</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="519" to="519"/>
+                  <idno type="fn">WR-02-02-13_n0519.xml</idno>
                   <author ref="#nan"/>
                </bibl>
             </listBibl>

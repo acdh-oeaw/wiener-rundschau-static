@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0009">
+                  <title level="a">Das Weib in Giorgione’s Malerei</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="28" to="36"/>
+                  <idno type="fn">WR-01-01-01_n0028.xml</idno>
+                  <author ref="#wr-person-0009">Schäffer, Emil</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0010">
                   <title level="a">Burgtheater</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 1</title>
@@ -44,6 +54,16 @@
                   <biblScope unit="issue" n="01">1</biblScope>
                   <biblScope unit="page" from="37" to="38"/>
                   <idno type="fn">WR-01-01-01_n0037.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0011">
+                  <title level="a">Raimund-Theater</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="38" to="38"/>
+                  <idno type="fn">WR-01-01-01_n0038.xml</idno>
                   <author ref="#nan"/>
                </bibl>
             </listBibl>

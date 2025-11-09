@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0392">
+                  <title level="a">Der Muth</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 10</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="372" to="377"/>
+                  <idno type="fn">WR-02-01-10_n0372.xml</idno>
+                  <author ref="#wr-person-0146">Berg, Leo</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0393">
                   <title level="a">Eine schweigende Runde</title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 10</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="378" to="381"/>
                   <idno type="fn">WR-02-01-10_n0378.xml</idno>
                   <author ref="#wr-person-0004">Altenberg, Peter</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0394">
+                  <title level="a">Dichterverehrung in Skandinavien </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 10</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="382" to="389"/>
+                  <idno type="fn">WR-02-01-10_n0382.xml</idno>
+                  <author ref="#wr-person-0147">Hamsun, Knut</author>
                </bibl>
             </listBibl>
          </sourceDesc>

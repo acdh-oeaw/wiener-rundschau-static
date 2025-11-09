@@ -35,7 +35,34 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0808">
+                  <title level="a">Japanische Kunstausstellung</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 3</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="70" to="71"/>
+                  <idno type="fn">WR-04-03_n0070.xml</idno>
+                  <author ref="#wr-person-0195">Zuckerkandl, B.</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0809">
+                  <title level="a">Lithographien</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 3</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="72" to="75"/>
+                  <idno type="fn">WR-04-03_n0072.xml</idno>
+                  <author ref="#wr-person-0206">Lindner, Anton</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0810">
+                  <title level="a">»The Studio«</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 3</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="75" to="76"/>
+                  <idno type="fn">WR-04-03_n0075.xml</idno>
+                  <author ref="#wr-person-0266">Sch., W.</author>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0809">
                   <title level="a">Lithographien</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 3</title>
                   <biblScope unit="volume" n="04">4</biblScope>
@@ -52,6 +79,15 @@
                   <biblScope unit="page" from="75" to="76"/>
                   <idno type="fn">WR-04-03_n0075.xml</idno>
                   <author ref="#wr-person-0266">Sch., W.</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0811">
+                  <title level="a">Augen</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 4</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="77" to="78"/>
+                  <idno type="fn">WR-04-04_n0077.xml</idno>
+                  <author ref="#wr-person-0267">d’Aurevilly, Barbey</author>
                </bibl>
             </listBibl>
          </sourceDesc>

@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0135">
+                  <title level="a">J. P. Jakobsen’s Lyrik</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 11</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="11">11</biblScope>
+                  <biblScope unit="page" from="412" to="416"/>
+                  <idno type="fn">WR-01-01-11_n0412.xml</idno>
+                  <author ref="#wr-person-0057">Menkes, Hermann</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0136">
                   <title level="a">Alfred v. Berger’s Kritiken und Studien</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 11</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="417" to="420"/>
                   <idno type="fn">WR-01-01-11_n0417.xml</idno>
                   <author ref="#wr-person-0058">Necker, Moritz</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0137">
+                  <title level="a">Th. Th. Heine</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 11</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="11">11</biblScope>
+                  <biblScope unit="page" from="421" to="426"/>
+                  <idno type="fn">WR-01-01-11_n0421.xml</idno>
+                  <author ref="#wr-person-0035">Neumann, Alfred</author>
                </bibl>
             </listBibl>
          </sourceDesc>

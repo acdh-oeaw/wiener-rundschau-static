@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0016">
+                  <title level="a">Wünsche</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="57" to="58"/>
+                  <idno type="fn">WR-01-01-02_n0057.xml</idno>
+                  <author ref="#wr-person-0012">Schaukal, Richard</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0017">
                   <title level="a">Das Meer</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 2</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="59" to="63"/>
                   <idno type="fn">WR-01-01-02_n0059.xml</idno>
                   <author ref="#wr-person-0013">Reibrach, Jean</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0018">
+                  <title level="a">Die treue Frau</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="64" to="66"/>
+                  <idno type="fn">WR-01-01-02_n0064.xml</idno>
+                  <author ref="#wr-person-0014">Strauss, Rudolf</author>
                </bibl>
             </listBibl>
          </sourceDesc>

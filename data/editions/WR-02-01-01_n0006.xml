@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0301">
+                  <title level="a">Der Herbst </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="1" to="5"/>
+                  <idno type="fn">WR-02-01-01_n0001.xml</idno>
+                  <author ref="#wr-person-0049">Fuchs, Georg</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0302">
                   <title level="a">Im Café</title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 1</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="6" to="7"/>
                   <idno type="fn">WR-02-01-01_n0006.xml</idno>
                   <author ref="#wr-person-0116">Garde, Arnold</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0303">
+                  <title level="a">Graf Leo Tolstoi und die Duchoborzen</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="11" to="18"/>
+                  <idno type="fn">WR-02-01-01_n0011.xml</idno>
+                  <author ref="#wr-person-0117">Henckel, W.</author>
                </bibl>
             </listBibl>
          </sourceDesc>

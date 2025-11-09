@@ -35,6 +35,15 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0923">
+                  <title level="a">Zur Physiologie der Frivolität und des Cynismus</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 15</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="15">15</biblScope>
+                  <biblScope unit="page" from="263" to="265"/>
+                  <idno type="fn">WR-04-15_n0263.xml</idno>
+                  <author ref="#wr-person-0290">Pudor, Heinrich</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0924">
                   <title level="a">Aphorismen über das Karma</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 15</title>
@@ -43,6 +52,15 @@
                   <biblScope unit="page" from="266" to="267"/>
                   <idno type="fn">WR-04-15_n0266.xml</idno>
                   <author ref="#wr-person-0093">Bleibtreu, Carl</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0925">
+                  <title level="a">Die platonische Liebe III.</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 15</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="15">15</biblScope>
+                  <biblScope unit="page" from="268" to="270"/>
+                  <idno type="fn">WR-04-15_n0268.xml</idno>
+                  <author ref="#wr-person-0297">Neera</author>
                </bibl>
             </listBibl>
          </sourceDesc>

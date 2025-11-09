@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0415">
+                  <title level="a">Mitterwurzer redivivus </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 12</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="461" to="462"/>
+                  <idno type="fn">WR-02-01-12_n0461.xml</idno>
+                  <author ref="#wr-person-0038">Guglia, Eugen</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0416">
                   <title level="a">Finken Helm </title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 12</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="463" to="467"/>
                   <idno type="fn">WR-02-01-12_n0463.xml</idno>
                   <author ref="#wr-person-0153">Johnsen, Rosenkrantz</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0417">
+                  <title level="a">Stiller Festzug </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 12</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="470" to="470"/>
+                  <idno type="fn">WR-02-01-12_n0470.xml</idno>
+                  <author ref="#wr-person-0154">Henckell, Karl</author>
                </bibl>
             </listBibl>
          </sourceDesc>

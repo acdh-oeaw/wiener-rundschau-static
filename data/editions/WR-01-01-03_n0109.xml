@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0032">
+                  <title level="a">Eine Rettung</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="104" to="108"/>
+                  <idno type="fn">WR-01-01-03_n0104.xml</idno>
+                  <author ref="#wr-person-0020">Elbogen, Friedrich</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0033">
                   <title level="a">Hauptmann’s neuestes Bühnenwerk</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 3</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="109" to="112"/>
                   <idno type="fn">WR-01-01-03_n0109.xml</idno>
                   <author ref="#wr-person-0007">Schik, F.</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0034">
+                  <title level="a">Die demolirte Literatur</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="113" to="118"/>
+                  <idno type="fn">WR-01-01-03_n0113.xml</idno>
+                  <author ref="#wr-person-0008">Kraus, Karl</author>
                </bibl>
             </listBibl>
          </sourceDesc>

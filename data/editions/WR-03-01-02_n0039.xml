@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0542">
+                  <title level="a">Ein »Wiener«</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="31" to="33"/>
+                  <idno type="fn">WR-03-01-02_n0031.xml</idno>
+                  <author ref="#wr-person-0004">Altenberg, Peter</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0543">
                   <title level="a">Der Künstler-Kritiker</title>
                   <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 2</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="33" to="39"/>
                   <idno type="fn">WR-03-01-02_n0033.xml</idno>
                   <author ref="#wr-person-0068">Wilde, Oscar</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0544">
+                  <title level="a">Die neue freie Sandrock</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="40" to="41"/>
+                  <idno type="fn">WR-03-01-02_n0040.xml</idno>
+                  <author ref="#wr-person-0177">Ludassy, J. v.</author>
                </bibl>
             </listBibl>
          </sourceDesc>

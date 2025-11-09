@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0161">
+                  <title level="a">Wasserfahrt</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 13</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="489" to="489"/>
+                  <idno type="fn">WR-01-02-13_n0489.xml</idno>
+                  <author ref="#wr-person-0065">Samain, A.</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0162">
                   <title level="a">Gestas</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 13</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="490" to="494"/>
                   <idno type="fn">WR-01-02-13_n0490.xml</idno>
                   <author ref="#wr-person-0066">France, Anatole</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0163">
+                  <title level="a">Spruch</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 13</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="495" to="495"/>
+                  <idno type="fn">WR-01-02-13_n0495.xml</idno>
+                  <author ref="#wr-person-0017">Evers, Franz</author>
                </bibl>
             </listBibl>
          </sourceDesc>

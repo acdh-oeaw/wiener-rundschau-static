@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0455">
+                  <title level="a">Die Maiwiese </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 16</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="16">16</biblScope>
+                  <biblScope unit="page" from="601" to="615"/>
+                  <idno type="fn">WR-02-02-16_n0601.xml</idno>
+                  <author ref="#wr-person-0160">Huch, Ricarda</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0456">
                   <title level="a">Burne-Jones</title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 16</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="616" to="619"/>
                   <idno type="fn">WR-02-02-16_n0616.xml</idno>
                   <author ref="#wr-person-0161">Schölermann, Wilhelm</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0457">
+                  <title level="a">Diese ist sein</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 16</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="16">16</biblScope>
+                  <biblScope unit="page" from="620" to="623"/>
+                  <idno type="fn">WR-02-02-16_n0620.xml</idno>
+                  <author ref="#wr-person-0004">Altenberg, Peter</author>
                </bibl>
             </listBibl>
          </sourceDesc>

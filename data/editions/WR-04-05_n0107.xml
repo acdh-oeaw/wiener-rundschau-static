@@ -35,6 +35,15 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0820">
+                  <title level="a">Lionardo da Vinci von Otto Sachs*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 4</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="100" to="100"/>
+                  <idno type="fn">WR-04-04_n0100.xml</idno>
+                  <author ref="#wr-person-0206">Lindner, Anton</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0821">
                   <title level="a">Landschaft</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 5</title>
@@ -44,6 +53,24 @@
                   <idno type="fn">WR-04-05_n0101.xml</idno>
                   <author ref="#wr-person-0273">Wenban, Sion L.</author>
                </bibl>
+               <bibl n="next text" corresp="#wr-text-0822">
+                  <title level="a">Das Lied vom Falken</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 5</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="102" to="105"/>
+                  <idno type="fn">WR-04-05_n0102.xml</idno>
+                  <author ref="#wr-person-0274">Gorkij, Maxim</author>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0822">
+                  <title level="a">Das Lied vom Falken</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 5</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="102" to="105"/>
+                  <idno type="fn">WR-04-05_n0102.xml</idno>
+                  <author ref="#wr-person-0274">Gorkij, Maxim</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0823">
                   <title level="a">Die Philosophie des Giordano Bruno II.</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 5</title>
@@ -52,6 +79,15 @@
                   <biblScope unit="page" from="105" to="109"/>
                   <idno type="fn">WR-04-05_n0105.xml</idno>
                   <author ref="#wr-person-0275">Kuhlenbeck, Ludwig, Dr.</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0824">
+                  <title level="a">Die Beziehungen zwischen Thema und Material</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 5</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="109" to="111"/>
+                  <idno type="fn">WR-04-05_n0109.xml</idno>
+                  <author ref="#wr-person-0005">Rappaport, Felix</author>
                </bibl>
             </listBibl>
          </sourceDesc>

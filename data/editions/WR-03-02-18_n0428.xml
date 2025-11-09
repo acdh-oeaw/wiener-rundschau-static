@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0704">
+                  <title level="a">Über Favretto</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 18</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="18">18</biblScope>
+                  <biblScope unit="page" from="424" to="427"/>
+                  <idno type="fn">WR-03-02-18_n0424.xml</idno>
+                  <author ref="#wr-person-0072">Schaeffer, Emil</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0705">
                   <title level="a">Pariser Brief</title>
                   <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 18</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="427" to="430"/>
                   <idno type="fn">WR-03-02-18_n0427.xml</idno>
                   <author ref="#wr-person-0203">Gourmont, Remy de</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0706">
+                  <title level="a">Piero di Cosimo</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 18</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="18">18</biblScope>
+                  <biblScope unit="page" from="430" to="434"/>
+                  <idno type="fn">WR-03-02-18_n0430.xml</idno>
+                  <author ref="#wr-person-0221">Haberfeld, Hugo</author>
                </bibl>
             </listBibl>
          </sourceDesc>

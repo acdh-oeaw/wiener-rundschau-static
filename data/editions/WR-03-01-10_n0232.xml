@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0625">
+                  <title level="a">Ehe</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 10</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="227" to="229"/>
+                  <idno type="fn">WR-03-01-10_n0227.xml</idno>
+                  <author ref="#wr-person-0208">Asenijeff, Elsa</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0626">
                   <title level="a">Über Hans Schwaiger</title>
                   <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 10</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="229" to="234"/>
                   <idno type="fn">WR-03-01-10_n0229.xml</idno>
                   <author ref="#wr-person-0206">Lindner, Anton</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0627">
+                  <title level="a">Zur Nacht</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 10</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="235" to="235"/>
+                  <idno type="fn">WR-03-01-10_n0235.xml</idno>
+                  <author ref="#wr-person-0209">Puttkamer, Alberta von</author>
                </bibl>
             </listBibl>
          </sourceDesc>

@@ -35,7 +35,34 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0963">
+                  <title level="a">Das Wunder der Zukunft</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 21</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="364" to="364"/>
+                  <idno type="fn">WR-04-21_n0364.xml</idno>
+                  <author ref="#wr-person-0309">Mallarmé, Stéphane</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0964">
+                  <title level="a">Gedanken vor einem Bilde des Filippo Lippi</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 21</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="365" to="368"/>
+                  <idno type="fn">WR-04-21_n0365.xml</idno>
+                  <author ref="#wr-person-0310">Key, Ellen</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0965">
+                  <title level="a">Die Wahrheit des Individualismus</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 21</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="368" to="370"/>
+                  <idno type="fn">WR-04-21_n0368.xml</idno>
+                  <author ref="#wr-person-0275">Kuhlenbeck, Ludwig, Dr.</author>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0964">
                   <title level="a">Gedanken vor einem Bilde des Filippo Lippi</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 21</title>
                   <biblScope unit="volume" n="04">4</biblScope>
@@ -52,6 +79,15 @@
                   <biblScope unit="page" from="368" to="370"/>
                   <idno type="fn">WR-04-21_n0368.xml</idno>
                   <author ref="#wr-person-0275">Kuhlenbeck, Ludwig, Dr.</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0966">
+                  <title level="a">Aus den Lehren der Kabbala</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 21</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="370" to="374"/>
+                  <idno type="fn">WR-04-21_n0370.xml</idno>
+                  <author ref="#wr-person-0183">Hartmann, Franz</author>
                </bibl>
             </listBibl>
          </sourceDesc>

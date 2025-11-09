@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0778">
+                  <title level="a">»Kunstschwätzer«</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 26</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="26">26</biblScope>
+                  <biblScope unit="page" from="632" to="632"/>
+                  <idno type="fn">WR-03-02-26_n0632.xml</idno>
+                  <author ref="#wr-person-0206">Lindner, Anton</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0779">
                   <title level="a">Weihnachtsphantasie aus der Vreta-Klosterkirche</title>
                   <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 27</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="633" to="635"/>
                   <idno type="fn">WR-03-02-27_n0633.xml</idno>
                   <author ref="#wr-person-0257">Mörner, Birger</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0780">
+                  <title level="a">Die Accorde Mozarts</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 27</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="27">27</biblScope>
+                  <biblScope unit="page" from="635" to="639"/>
+                  <idno type="fn">WR-03-02-27_n0635.xml</idno>
+                  <author ref="#wr-person-0099">Pastor, Willy</author>
                </bibl>
             </listBibl>
          </sourceDesc>

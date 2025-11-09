@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0112">
+                  <title level="a">Tschaperl</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 9</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="09">9</biblScope>
+                  <biblScope unit="page" from="354" to="357"/>
+                  <idno type="fn">WR-01-01-09_n0354.xml</idno>
+                  <author ref="#wr-person-0008">Kraus, Karl</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0113">
                   <title level="a">Burgtheater</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 9</title>
@@ -44,6 +54,16 @@
                   <biblScope unit="issue" n="09">9</biblScope>
                   <biblScope unit="page" from="358" to="359"/>
                   <idno type="fn">WR-01-01-09_n0358.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0114">
+                  <title level="a">Servaes, »Goethe am Ausgang des Jahrhunderts«</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 9</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="09">9</biblScope>
+                  <biblScope unit="page" from="359" to="360"/>
+                  <idno type="fn">WR-01-01-09_n0359.xml</idno>
                   <author ref="#nan"/>
                </bibl>
             </listBibl>

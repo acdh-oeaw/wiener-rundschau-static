@@ -35,7 +35,34 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0802">
+                  <title level="a">Walter Crane*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 2</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="52" to="52"/>
+                  <idno type="fn">WR-04-02_n0052.xml</idno>
+                  <author ref="#wr-person-0206">Lindner, Anton</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0803">
+                  <title level="a">Zwei Skizzen</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 3</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="53" to="55"/>
+                  <idno type="fn">WR-04-03_n0053.xml</idno>
+                  <author ref="#wr-person-0108">Obstfelder, Sigbjörn</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0804">
+                  <title level="a">Geistige Heilkunst</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 3</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="55" to="58"/>
+                  <idno type="fn">WR-04-03_n0055.xml</idno>
+                  <author ref="#wr-person-0262">Graevell van Jostenoode, Harald</author>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0803">
                   <title level="a">Zwei Skizzen</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 3</title>
                   <biblScope unit="volume" n="04">4</biblScope>
@@ -52,6 +79,15 @@
                   <biblScope unit="page" from="55" to="58"/>
                   <idno type="fn">WR-04-03_n0055.xml</idno>
                   <author ref="#wr-person-0262">Graevell van Jostenoode, Harald</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0805">
+                  <title level="a">Der Mensch im Futteral (Forts. und Schluss)</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 3</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="58" to="62"/>
+                  <idno type="fn">WR-04-03_n0058.xml</idno>
+                  <author ref="#wr-person-0064">Tschechoff, Anton</author>
                </bibl>
             </listBibl>
          </sourceDesc>

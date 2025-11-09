@@ -35,6 +35,15 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0921">
+                  <title level="a">Maurice Maeterlinck</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 15</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="15">15</biblScope>
+                  <biblScope unit="page" from="257" to="245"/>
+                  <idno type="fn">WR-04-15_n0257.xml</idno>
+                  <author ref="#wr-person-0300">Vallotton, Felix</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0922">
                   <title level="a">Glosse über den Selbstmord</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 15</title>
@@ -43,6 +52,15 @@
                   <biblScope unit="page" from="262" to="263"/>
                   <idno type="fn">WR-04-15_n0262.xml</idno>
                   <author ref="#wr-person-0301">Tolstoi, Leo</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0923">
+                  <title level="a">Zur Physiologie der Frivolität und des Cynismus</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 15</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="15">15</biblScope>
+                  <biblScope unit="page" from="263" to="265"/>
+                  <idno type="fn">WR-04-15_n0263.xml</idno>
+                  <author ref="#wr-person-0290">Pudor, Heinrich</author>
                </bibl>
             </listBibl>
          </sourceDesc>

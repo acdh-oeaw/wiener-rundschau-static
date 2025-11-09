@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0377">
+                  <title level="a">Idylle</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 9</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="09">9</biblScope>
+                  <biblScope unit="page" from="328" to="332"/>
+                  <idno type="fn">WR-02-01-09_n0328.xml</idno>
+                  <author ref="#wr-person-0141">Hofmannsthal, Hugo v.</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0378">
                   <title level="a">Aus dem Tagebuch</title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 9</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="333" to="337"/>
                   <idno type="fn">WR-02-01-09_n0333.xml</idno>
                   <author ref="#wr-person-0142">Emerson</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0379">
+                  <title level="a">Es war einmal</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 9</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="09">9</biblScope>
+                  <biblScope unit="page" from="338" to="339"/>
+                  <idno type="fn">WR-02-01-09_n0338.xml</idno>
+                  <author ref="#wr-person-0138">Wille, Bruno</author>
                </bibl>
             </listBibl>
          </sourceDesc>

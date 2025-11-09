@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0544">
+                  <title level="a">Die neue freie Sandrock</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="40" to="41"/>
+                  <idno type="fn">WR-03-01-02_n0040.xml</idno>
+                  <author ref="#wr-person-0177">Ludassy, J. v.</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0545">
                   <title level="a">»Die heilige Elisabeth«</title>
                   <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 2</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="41" to="43"/>
                   <idno type="fn">WR-03-01-02_n0041.xml</idno>
                   <author ref="#wr-person-0166">Graf, Dr. Max</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0546">
+                  <title level="a">Über das Interessante im Bösen</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="43" to="46"/>
+                  <idno type="fn">WR-03-01-02_n0043.xml</idno>
+                  <author ref="#wr-person-0178">Rubinstein, Dr. Susanna</author>
                </bibl>
             </listBibl>
          </sourceDesc>

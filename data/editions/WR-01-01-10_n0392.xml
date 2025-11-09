@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0124">
+                  <title level="a">Gegen die Emancipation des Weibes</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 10</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="387" to="391"/>
+                  <idno type="fn">WR-01-01-10_n0387.xml</idno>
+                  <author ref="#wr-person-0029">Weisengrün, Dr. Paul</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0125">
                   <title level="a">Künstlerhaus</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 10</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="392" to="394"/>
                   <idno type="fn">WR-01-01-10_n0392.xml</idno>
                   <author ref="#wr-person-0028">Wilhelm, Paul</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0126">
+                  <title level="a">Raimund-Theater</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 10</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="395" to="397"/>
+                  <idno type="fn">WR-01-01-10_n0395.xml</idno>
+                  <author ref="#wr-person-0014">Strauss, Rudolf</author>
                </bibl>
             </listBibl>
          </sourceDesc>

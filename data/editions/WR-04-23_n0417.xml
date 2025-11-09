@@ -35,7 +35,34 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0980">
+                  <title level="a">Eine erste Symphonie*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 23</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="415" to="416"/>
+                  <idno type="fn">WR-04-23_n0415.xml</idno>
+                  <author ref="#wr-person-0260">Graf, Max</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0981">
+                  <title level="a">Hof-Operntheater: »Der Bundschuh«</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 23</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="416" to="417"/>
+                  <idno type="fn">WR-04-23_n0416.xml</idno>
+                  <author ref="#wr-person-0260">Graf, Max</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0982">
+                  <title level="a">Secession*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 23</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="417" to="417"/>
+                  <idno type="fn">WR-04-23_n0417.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0981">
                   <title level="a">Hof-Operntheater: »Der Bundschuh«</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 23</title>
                   <biblScope unit="volume" n="04">4</biblScope>
@@ -53,6 +80,24 @@
                   <idno type="fn">WR-04-23_n0417.xml</idno>
                   <author ref="#nan"/>
                </bibl>
+               <bibl n="next text" corresp="#wr-text-0983">
+                  <title level="a">Max Müller</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 23</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="417" to="419"/>
+                  <idno type="fn">WR-04-23_n0417.xml</idno>
+                  <author ref="#wr-person-0315">Th., K. v.</author>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0982">
+                  <title level="a">Secession*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 23</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="417" to="417"/>
+                  <idno type="fn">WR-04-23_n0417.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0983">
                   <title level="a">Max Müller</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 23</title>
@@ -61,6 +106,15 @@
                   <biblScope unit="page" from="417" to="419"/>
                   <idno type="fn">WR-04-23_n0417.xml</idno>
                   <author ref="#wr-person-0315">Th., K. v.</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0984">
+                  <title level="a">Schauspielkunst und Mcdianimität*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 23</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="419" to="419"/>
+                  <idno type="fn">WR-04-23_n0419.xml</idno>
+                  <author ref="#nan"/>
                </bibl>
             </listBibl>
          </sourceDesc>

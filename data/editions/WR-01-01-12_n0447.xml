@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0146">
+                  <title level="a">Wölfe</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 12</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="441" to="446"/>
+                  <idno type="fn">WR-01-01-12_n0441.xml</idno>
+                  <author ref="#wr-person-0060">Forsslund, Carl Erik</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0147">
                   <title level="a">Venedig</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 12</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="447" to="447"/>
                   <idno type="fn">WR-01-01-12_n0447.xml</idno>
                   <author ref="#wr-person-0041">Rilke, René Maria</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0148">
+                  <title level="a">Die sieben Brunnen</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 12</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="448" to="451"/>
+                  <idno type="fn">WR-01-01-12_n0448.xml</idno>
+                  <author ref="#wr-person-0061">Annunzio, Gabriele D’</author>
                </bibl>
             </listBibl>
          </sourceDesc>

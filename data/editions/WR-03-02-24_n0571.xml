@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0752">
+                  <title level="a">Ein deutscher Buddhist</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 24</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="566" to="568"/>
+                  <idno type="fn">WR-03-02-24_n0566.xml</idno>
+                  <author ref="#wr-person-0223">Arjuna, Harald van Jostenoode</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0753">
                   <title level="a">Pariser Brief</title>
                   <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 24</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="569" to="572"/>
                   <idno type="fn">WR-03-02-24_n0569.xml</idno>
                   <author ref="#wr-person-0203">Gourmont, Remy de</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0754">
+                  <title level="a">Tönendes Schweigen</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 24</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="572" to="573"/>
+                  <idno type="fn">WR-03-02-24_n0572.xml</idno>
+                  <author ref="#wr-person-0230">Zillmann, Helene</author>
                </bibl>
             </listBibl>
          </sourceDesc>

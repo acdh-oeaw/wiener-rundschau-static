@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0474">
+                  <title level="a">Tschechow, »Starker Tobak«</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 18</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="18">18</biblScope>
+                  <biblScope unit="page" from="711" to="711"/>
+                  <idno type="fn">WR-02-02-18_n0711.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0475">
                   <title level="a">Wiener Freie Bühne </title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 18</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="712" to="712"/>
                   <idno type="fn">WR-02-02-18_n0712.xml</idno>
                   <author ref="#nan"/>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0476">
+                  <title level="a">Bismarck</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 19</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="19">19</biblScope>
+                  <biblScope unit="page" from="713" to="715"/>
+                  <idno type="fn">WR-02-02-19_n0713.xml</idno>
+                  <author ref="#wr-person-0007">Schik, F.</author>
                </bibl>
             </listBibl>
          </sourceDesc>

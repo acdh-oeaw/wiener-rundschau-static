@@ -35,6 +35,15 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0948">
+                  <title level="a">Londoner Vorträge. — Pariser Congresse*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 18</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="18">18</biblScope>
+                  <biblScope unit="page" from="325" to="325"/>
+                  <idno type="fn">WR-04-18_n0325.xml</idno>
+                  <author ref="#wr-person-0304">Th.</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0949">
                   <title level="a">in der Legende</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 19</title>
@@ -43,6 +52,15 @@
                   <biblScope unit="page" from="327" to="332"/>
                   <idno type="fn">WR-04-19_n0327.xml</idno>
                   <author ref="#wr-person-0305">Multatuli, Wahrheit</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0950">
+                  <title level="a">Arthur Rimbaud</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 19</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="19">19</biblScope>
+                  <biblScope unit="page" from="332" to="336"/>
+                  <idno type="fn">WR-04-19_n0332.xml</idno>
+                  <author ref="#wr-person-0025">Panizza, Oscar</author>
                </bibl>
             </listBibl>
          </sourceDesc>

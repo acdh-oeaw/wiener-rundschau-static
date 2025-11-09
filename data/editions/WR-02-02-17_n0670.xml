@@ -36,7 +36,37 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0466">
+                  <title level="a">Jakob Böhme</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 17</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="17">17</biblScope>
+                  <biblScope unit="page" from="651" to="657"/>
+                  <idno type="fn">WR-02-02-17_n0651.xml</idno>
+                  <author ref="#wr-person-0162">Thomassin, Ch. v..</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0467">
+                  <title level="a">Der Petschenjeg</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 17</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="17">17</biblScope>
+                  <biblScope unit="page" from="658" to="676"/>
+                  <idno type="fn">WR-02-02-17_n0658.xml</idno>
+                  <author ref="#wr-person-0135">Tschechow, Anton</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0468">
+                  <title level="a">Aufzug</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 17</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="17">17</biblScope>
+                  <biblScope unit="page" from="670" to="670"/>
+                  <idno type="fn">WR-02-02-17_n0670.xml</idno>
+                  <author ref="#wr-person-0006">Verlaine, Paul</author>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0467">
                   <title level="a">Der Petschenjeg</title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 17</title>
                   <biblScope unit="volume" n="02">2</biblScope>
@@ -55,6 +85,16 @@
                   <biblScope unit="page" from="670" to="670"/>
                   <idno type="fn">WR-02-02-17_n0670.xml</idno>
                   <author ref="#wr-person-0006">Verlaine, Paul</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0469">
+                  <title level="a">Mörner, »Allerhöchst Plaisir«</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 17</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="17">17</biblScope>
+                  <biblScope unit="page" from="676" to="676"/>
+                  <idno type="fn">WR-02-02-17_n0676.xml</idno>
+                  <author ref="#nan"/>
                </bibl>
             </listBibl>
          </sourceDesc>

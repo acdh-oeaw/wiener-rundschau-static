@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0730">
+                  <title level="a">Zur Psychologie des Hellsehens</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 21</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="506" to="511"/>
+                  <idno type="fn">WR-03-02-21_n0506.xml</idno>
+                  <author ref="#wr-person-0240">Deinhard, Ludwig</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0731">
                   <title level="a">Carl du Prel: Die Magie als Naturwissenschaft</title>
                   <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 21</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="511" to="512"/>
                   <idno type="fn">WR-03-02-21_n0511.xml</idno>
                   <author ref="#wr-person-0200">Graevell, Harald van Jostenoode</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0732">
+                  <title level="a">Laus Veneris III.</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 22</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="22">22</biblScope>
+                  <biblScope unit="page" from="513" to="517"/>
+                  <idno type="fn">WR-03-02-22_n0513.xml</idno>
+                  <author ref="#wr-person-0228">Swinburne, Algernon Charles</author>
                </bibl>
             </listBibl>
          </sourceDesc>

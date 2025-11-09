@@ -35,6 +35,15 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0884">
+                  <title level="a">Das tönende Phänomen in der Natur I</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 11</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="11">11</biblScope>
+                  <biblScope unit="page" from="167" to="172"/>
+                  <idno type="fn">WR-04-11_n0167.xml</idno>
+                  <author ref="#wr-person-0292">Bailly, Edmund</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0885">
                   <title level="a">Ibsen, der Bekenner</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 11</title>
@@ -43,6 +52,15 @@
                   <biblScope unit="page" from="172" to="176"/>
                   <idno type="fn">WR-04-11_n0172.xml</idno>
                   <author ref="#wr-person-0293">Brausewetter, Ernst</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0886">
+                  <title level="a">Sophus Michaelis: »Aebelö«. — Hunger und Liebe. Von Irma v. Troll-Borostyáni*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 11</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="11">11</biblScope>
+                  <biblScope unit="page" from="176" to="177"/>
+                  <idno type="fn">WR-04-11_n0176.xml</idno>
+                  <author ref="#wr-person-0190">Schlaf, Johannes</author>
                </bibl>
             </listBibl>
          </sourceDesc>

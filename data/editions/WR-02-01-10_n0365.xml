@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0389">
+                  <title level="a">Wenn die Zeitungsschreiber symbolistisch werden</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 9</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="09">9</biblScope>
+                  <biblScope unit="page" from="359" to="360"/>
+                  <idno type="fn">WR-02-01-09_n0359.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0390">
                   <title level="a">Wie Jonas Lie lebt und dichtet </title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 10</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="361" to="367"/>
                   <idno type="fn">WR-02-01-10_n0361.xml</idno>
                   <author ref="#wr-person-0140">Garborg, Arne</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0391">
+                  <title level="a">Stücke aus einem Roman in Romanzen »Zwei Menschen«</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 10</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="368" to="371"/>
+                  <idno type="fn">WR-02-01-10_n0368.xml</idno>
+                  <author ref="#wr-person-0018">Dehmel, Richard</author>
                </bibl>
             </listBibl>
          </sourceDesc>

@@ -35,6 +35,15 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0967">
+                  <title level="a">Wagner und das »Repertoire«</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 21</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="375" to="377"/>
+                  <idno type="fn">WR-04-21_n0375.xml</idno>
+                  <author ref="#wr-person-0219">Kolb, Annette</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0968">
                   <title level="a">Religionsphilosophische Vorträge *</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 21</title>
@@ -43,6 +52,15 @@
                   <biblScope unit="page" from="378" to="379"/>
                   <idno type="fn">WR-04-21_n0378.xml</idno>
                   <author ref="#wr-person-0304">Th.</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0969">
+                  <title level="a">Die C-moll-Symphonie*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 21</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="379" to="380"/>
+                  <idno type="fn">WR-04-21_n0379.xml</idno>
+                  <author ref="#wr-person-0311">K. A.</author>
                </bibl>
             </listBibl>
          </sourceDesc>

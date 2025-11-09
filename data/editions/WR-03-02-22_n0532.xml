@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0737">
+                  <title level="a">Indische Renaissance</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 22</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="22">22</biblScope>
+                  <biblScope unit="page" from="529" to="531"/>
+                  <idno type="fn">WR-03-02-22_n0529.xml</idno>
+                  <author ref="#wr-person-0158">Schmitt, Dr. Eugen Heinrich</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0738">
                   <title level="a">Alexandrinismus</title>
                   <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 22</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="532" to="534"/>
                   <idno type="fn">WR-03-02-22_n0532.xml</idno>
                   <author ref="#wr-person-0190">Schlaf, Johannes</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0739">
+                  <title level="a">Mascagnis »Iris«</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 22</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="22">22</biblScope>
+                  <biblScope unit="page" from="534" to="536"/>
+                  <idno type="fn">WR-03-02-22_n0534.xml</idno>
+                  <author ref="#wr-person-0248">Torchi, Ludwig</author>
                </bibl>
             </listBibl>
          </sourceDesc>

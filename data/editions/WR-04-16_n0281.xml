@@ -35,6 +35,15 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0929">
+                  <title level="a">Ein Brief</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 16</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="16">16</biblScope>
+                  <biblScope unit="page" from="278" to="278"/>
+                  <idno type="fn">WR-04-16_n0278.xml</idno>
+                  <author ref="#wr-person-0175">Strindberg, August</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0930">
                   <title level="a">Brief aus Paris</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 16</title>
@@ -43,6 +52,15 @@
                   <biblScope unit="page" from="279" to="282"/>
                   <idno type="fn">WR-04-16_n0279.xml</idno>
                   <author ref="#wr-person-0025">Panizza, Oscar</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0931">
+                  <title level="a">Die deutsche Literatur des neunzehnten Jahrhunderts</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 16</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="16">16</biblScope>
+                  <biblScope unit="page" from="282" to="285"/>
+                  <idno type="fn">WR-04-16_n0282.xml</idno>
+                  <author ref="#wr-person-0271">Drews, Arthur, Prof.</author>
                </bibl>
             </listBibl>
          </sourceDesc>

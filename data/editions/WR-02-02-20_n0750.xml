@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0482">
+                  <title level="a">Hardt, »Priester des Todes«</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 19</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="19">19</biblScope>
+                  <biblScope unit="page" from="747" to="748"/>
+                  <idno type="fn">WR-02-02-19_n0747.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0483">
                   <title level="a">Bismarck-Socialdemokraten</title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 20</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="749" to="751"/>
                   <idno type="fn">WR-02-02-20_n0749.xml</idno>
                   <author ref="#wr-person-0007">Schik, F.</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0484">
+                  <title level="a">Ein Vortrag </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 20</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="20">20</biblScope>
+                  <biblScope unit="page" from="752" to="758"/>
+                  <idno type="fn">WR-02-02-20_n0752.xml</idno>
+                  <author ref="#wr-person-0165">Emerson, R. W.</author>
                </bibl>
             </listBibl>
          </sourceDesc>

@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0562">
+                  <title level="a">»Freie Bühne«</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="79" to="79"/>
+                  <idno type="fn">WR-03-01-03_n0079.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0563">
                   <title level="a">Die Schlüssel des Himmelreichs. (Commentar. Dritter und Fünfter Act)</title>
                   <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 4</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="81" to="87"/>
                   <idno type="fn">WR-03-01-04_n0081.xml</idno>
                   <author ref="#wr-person-0175">Strindberg, August</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0564">
+                  <title level="a">Die Besiegten</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 4</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="88" to="89"/>
+                  <idno type="fn">WR-03-01-04_n0088.xml</idno>
+                  <author ref="#wr-person-0006">Verlaine, Paul</author>
                </bibl>
             </listBibl>
          </sourceDesc>

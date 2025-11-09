@@ -35,7 +35,34 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0958">
+                  <title level="a">Die Wahrheit über Friedrich Nietzsche</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 20</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="20">20</biblScope>
+                  <biblScope unit="page" from="353" to="359"/>
+                  <idno type="fn">WR-04-20_n0353.xml</idno>
+                  <author ref="#wr-person-0307">Deussen, Paul, Prof.</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0959">
+                  <title level="a">Telepathie</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 20</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="20">20</biblScope>
+                  <biblScope unit="page" from="359" to="361"/>
+                  <idno type="fn">WR-04-20_n0359.xml</idno>
+                  <author ref="#wr-person-0308">Driesmans, Heinrich</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0960">
+                  <title level="a">Hof-Operntheater: »Così fan tutte«*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 20</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="20">20</biblScope>
+                  <biblScope unit="page" from="361" to="361"/>
+                  <idno type="fn">WR-04-20_n0361.xml</idno>
+                  <author ref="#wr-person-0260">Graf, Max</author>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0959">
                   <title level="a">Telepathie</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 20</title>
                   <biblScope unit="volume" n="04">4</biblScope>
@@ -52,6 +79,15 @@
                   <biblScope unit="page" from="361" to="361"/>
                   <idno type="fn">WR-04-20_n0361.xml</idno>
                   <author ref="#wr-person-0260">Graf, Max</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0961">
+                  <title level="a">Vererbung künstlerischer Talente*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 20</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="20">20</biblScope>
+                  <biblScope unit="page" from="362" to="362"/>
+                  <idno type="fn">WR-04-20_n0362.xml</idno>
+                  <author ref="#nan"/>
                </bibl>
             </listBibl>
          </sourceDesc>

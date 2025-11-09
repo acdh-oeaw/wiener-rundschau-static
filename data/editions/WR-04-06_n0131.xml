@@ -35,7 +35,34 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0830">
+                  <title level="a">Sonette</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 6</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="06">6</biblScope>
+                  <biblScope unit="page" from="129" to="130"/>
+                  <idno type="fn">WR-04-06_n0129.xml</idno>
+                  <author ref="#wr-person-0225">Rossetti, Dante Gabriel</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0831">
+                  <title level="a">Theater-Abend</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 6</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="06">6</biblScope>
+                  <biblScope unit="page" from="131" to="132"/>
+                  <idno type="fn">WR-04-06_n0131.xml</idno>
+                  <author ref="#wr-person-0004">Altenberg, Peter</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0832">
+                  <title level="a">Gattin</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 6</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="06">6</biblScope>
+                  <biblScope unit="page" from="131" to="131"/>
+                  <idno type="fn">WR-04-06_n0131.xml</idno>
+                  <author ref="#wr-person-0108">Obstfelder, Sigbjörn</author>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0831">
                   <title level="a">Theater-Abend</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 6</title>
                   <biblScope unit="volume" n="04">4</biblScope>
@@ -52,6 +79,15 @@
                   <biblScope unit="page" from="131" to="131"/>
                   <idno type="fn">WR-04-06_n0131.xml</idno>
                   <author ref="#wr-person-0108">Obstfelder, Sigbjörn</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0833">
+                  <title level="a">Sigbjörn Obstfelder</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 6</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="06">6</biblScope>
+                  <biblScope unit="page" from="132" to="135"/>
+                  <idno type="fn">WR-04-06_n0132.xml</idno>
+                  <author ref="#wr-person-0057">Menkes, Hermann</author>
                </bibl>
             </listBibl>
          </sourceDesc>

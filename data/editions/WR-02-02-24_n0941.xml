@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0525">
+                  <title level="a">Tristan-Notizen</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 24</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="934" to="938"/>
+                  <idno type="fn">WR-02-02-24_n0934.xml</idno>
+                  <author ref="#wr-person-0166">Graf, Dr. Max</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0526">
                   <title level="a">Künstlerhaus</title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 24</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="941" to="943"/>
                   <idno type="fn">WR-02-02-24_n0941.xml</idno>
                   <author ref="#wr-person-0161">Schölermann, Wilhelm</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0527">
+                  <title level="a">Burgtheater </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 24</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="944" to="944"/>
+                  <idno type="fn">WR-02-02-24_n0944.xml</idno>
+                  <author ref="#nan"/>
                </bibl>
             </listBibl>
          </sourceDesc>

@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0763">
+                  <title level="a">Die Gerettete</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 25</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="25">25</biblScope>
+                  <biblScope unit="page" from="588" to="590"/>
+                  <idno type="fn">WR-03-02-25_n0588.xml</idno>
+                  <author ref="#wr-person-0185">Meyer Förster, Elsbeth</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0764">
                   <title level="a">Die materielle und moralische Stellung des Schriftstellers in Paris I.</title>
                   <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 25</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="590" to="597"/>
                   <idno type="fn">WR-03-02-25_n0590.xml</idno>
                   <author ref="#wr-person-0187">Mauclair, Camille</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0765">
+                  <title level="a">Zur Physiologie des Betens</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 25</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="25">25</biblScope>
+                  <biblScope unit="page" from="597" to="599"/>
+                  <idno type="fn">WR-03-02-25_n0597.xml</idno>
+                  <author ref="#wr-person-0223">Arjuna, Harald van Jostenoode</author>
                </bibl>
             </listBibl>
          </sourceDesc>

@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0577">
+                  <title level="a">Die Affaire Diefenbach</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 5</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="123" to="125"/>
+                  <idno type="fn">WR-03-01-05_n0123.xml</idno>
+                  <author ref="#wr-person-0188">Spaun, Paul Ritter von</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0578">
                   <title level="a">Graphologie </title>
                   <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 5</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="126" to="128"/>
                   <idno type="fn">WR-03-01-05_n0126.xml</idno>
                   <author ref="#wr-person-0189">Poppée, Dolphine</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0579">
+                  <title level="a">Hof-Operntheater: Richard Wagner</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 5</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="128" to="128"/>
+                  <idno type="fn">WR-03-01-05_n0128.xml</idno>
+                  <author ref="#wr-person-0166">Graf, Dr. Max</author>
                </bibl>
             </listBibl>
          </sourceDesc>

@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0200">
+                  <title level="a">Calderon</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 15</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="15">15</biblScope>
+                  <biblScope unit="page" from="597" to="598"/>
+                  <idno type="fn">WR-01-02-15_n0597.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0201">
                   <title level="a">D’Arc, »La steppe«</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 15</title>
@@ -43,6 +53,26 @@
                   <biblScope unit="halbband" n="02">2</biblScope>
                   <biblScope unit="issue" n="15">15</biblScope>
                   <biblScope unit="page" from="598" to="600"/>
+                  <idno type="fn">WR-01-02-15_n0598.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0202">
+                  <title level="a">Nansen, »Aus dem Tagebuche eines Verliebten«</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 15</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="15">15</biblScope>
+                  <biblScope unit="page" from="598" to="598"/>
+                  <idno type="fn">WR-01-02-15_n0598.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0202">
+                  <title level="a">Nansen, »Aus dem Tagebuche eines Verliebten«</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 15</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="15">15</biblScope>
+                  <biblScope unit="page" from="598" to="598"/>
                   <idno type="fn">WR-01-02-15_n0598.xml</idno>
                   <author ref="#nan"/>
                </bibl>
@@ -55,6 +85,16 @@
                   <biblScope unit="page" from="600" to="600"/>
                   <idno type="fn">WR-01-02-15_n0600.xml</idno>
                   <author ref="#nan"/>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0204">
+                  <title level="a">Quintin Messis</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 16</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="16">16</biblScope>
+                  <biblScope unit="page" from="601" to="607"/>
+                  <idno type="fn">WR-01-02-16_n0601.xml</idno>
+                  <author ref="#wr-person-0081">Kürnberger, Ferdinand</author>
                </bibl>
             </listBibl>
          </sourceDesc>

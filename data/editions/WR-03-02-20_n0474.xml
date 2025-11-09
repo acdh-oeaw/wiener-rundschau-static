@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0717">
+                  <title level="a">Ideen</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 20</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="20">20</biblScope>
+                  <biblScope unit="page" from="469" to="472"/>
+                  <idno type="fn">WR-03-02-20_n0469.xml</idno>
+                  <author ref="#wr-person-0242">Multatuli</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0718">
                   <title level="a">Eleonora</title>
                   <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 20</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="472" to="477"/>
                   <idno type="fn">WR-03-02-20_n0472.xml</idno>
                   <author ref="#wr-person-0235">Poe, Edgar Allan</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0719">
+                  <title level="a">Aubrey Beardsley</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 20</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="20">20</biblScope>
+                  <biblScope unit="page" from="477" to="479"/>
+                  <idno type="fn">WR-03-02-20_n0477.xml</idno>
+                  <author ref="#wr-person-0243">Klein, Rudolf</author>
                </bibl>
             </listBibl>
          </sourceDesc>

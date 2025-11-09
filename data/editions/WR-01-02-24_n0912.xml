@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0292">
+                  <title level="a">Aus Dante’s neuem Leben</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 24</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="905" to="908"/>
+                  <idno type="fn">WR-01-02-24_n0905.xml</idno>
+                  <author ref="#wr-person-0113">Dante</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0293">
                   <title level="a">Die Humanitätsfrage in der Ehe</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 24</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="909" to="914"/>
                   <idno type="fn">WR-01-02-24_n0909.xml</idno>
                   <author ref="#wr-person-0059">Jacobsen, R.</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0294">
+                  <title level="a">Georg Hirschfeld und Agnes Jordan</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 24</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="915" to="920"/>
+                  <idno type="fn">WR-01-02-24_n0915.xml</idno>
+                  <author ref="#wr-person-0114">Rilke, Rainer Maria</author>
                </bibl>
             </listBibl>
          </sourceDesc>

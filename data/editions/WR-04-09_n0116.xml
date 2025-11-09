@@ -35,6 +35,15 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0861">
+                  <title level="a">Stefan George: Der Teppich des Lebens und die Lieder von Traum und Tod</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 9</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="09">9</biblScope>
+                  <biblScope unit="page" from="109" to="115"/>
+                  <idno type="fn">WR-04-09_n0109.xml</idno>
+                  <author ref="#wr-person-0254">Gundolf, Friedrich</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0862">
                   <title level="a">Die Klippeninsel</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 9</title>
@@ -43,6 +52,15 @@
                   <biblScope unit="page" from="115" to="117"/>
                   <idno type="fn">WR-04-09_n0115.xml</idno>
                   <author ref="#wr-person-0246">Wickström, Victor Hugo</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0863">
+                  <title level="a">Gerichts-Verhandlung</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 9</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="09">9</biblScope>
+                  <biblScope unit="page" from="117" to="118"/>
+                  <idno type="fn">WR-04-09_n0117.xml</idno>
+                  <author ref="#wr-person-0004">Altenberg, Peter</author>
                </bibl>
             </listBibl>
          </sourceDesc>

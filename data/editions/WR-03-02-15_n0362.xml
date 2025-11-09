@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0688">
+                  <title level="a">Aus: Sieben Nächte am mystischen Quell</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 15</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="15">15</biblScope>
+                  <biblScope unit="page" from="360" to="361"/>
+                  <idno type="fn">WR-03-02-15_n0360.xml</idno>
+                  <author ref="#wr-person-0229">Lechter, Melchior</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0689">
                   <title level="a">Ins Innerste der Kunst</title>
                   <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 15</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="362" to="362"/>
                   <idno type="fn">WR-03-02-15_n0362.xml</idno>
                   <author ref="#wr-person-0230">Zillmann, Helene</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0690">
+                  <title level="a">Das weiße Buch </title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 15</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="15">15</biblScope>
+                  <biblScope unit="page" from="363" to="368"/>
+                  <idno type="fn">WR-03-02-15_n0363.xml</idno>
+                  <author ref="#wr-person-0231">Rafael</author>
                </bibl>
             </listBibl>
          </sourceDesc>

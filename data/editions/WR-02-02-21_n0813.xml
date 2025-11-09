@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0498">
+                  <title level="a">Ein französischer Caricaturist: Charles Léandre</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 21</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="810" to="812"/>
+                  <idno type="fn">WR-02-02-21_n0810.xml</idno>
+                  <author ref="#wr-person-0167">Schmidt, Karl Eugen</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0499">
                   <title level="a">Aus den Aufzeichnungen über den amerikanischen Bürgerkrieg (1861—64)</title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 21</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="813" to="818"/>
                   <idno type="fn">WR-02-02-21_n0813.xml</idno>
                   <author ref="#wr-person-0083">Whitman, Walt</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0500">
+                  <title level="a">Berliner Theaterbrief</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 21</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="819" to="822"/>
+                  <idno type="fn">WR-02-02-21_n0819.xml</idno>
+                  <author ref="#wr-person-0146">Berg, Leo</author>
                </bibl>
             </listBibl>
          </sourceDesc>

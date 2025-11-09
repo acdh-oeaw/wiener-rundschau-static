@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0129">
+                  <title level="a">Przybyszewski, »Satans Kinder«</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 10</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="399" to="400"/>
+                  <idno type="fn">WR-01-01-10_n0399.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0130">
                   <title level="a">Die Adlermutter</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 11</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="401" to="403"/>
                   <idno type="fn">WR-01-01-11_n0401.xml</idno>
                   <author ref="#wr-person-0053">Lie, Jonas</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0131">
+                  <title level="a">Sphynx</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 11</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="11">11</biblScope>
+                  <biblScope unit="page" from="404" to="404"/>
+                  <idno type="fn">WR-01-01-11_n0404.xml</idno>
+                  <author ref="#wr-person-0054">Montesquiou, Graf Robert von</author>
                </bibl>
             </listBibl>
          </sourceDesc>

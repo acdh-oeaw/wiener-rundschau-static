@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0197">
+                  <title level="a">Zur Psychologie des Kerkerlebens</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 15</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="15">15</biblScope>
+                  <biblScope unit="page" from="579" to="584"/>
+                  <idno type="fn">WR-01-02-15_n0579.xml</idno>
+                  <author ref="#wr-person-0080">Zerboglio, Prof. Adolfo</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0198">
                   <title level="a">Die wahre Bashkirtscheff</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 15</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="585" to="588"/>
                   <idno type="fn">WR-01-02-15_n0585.xml</idno>
                   <author ref="#wr-person-0014">Strauss, Rudolf</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0199">
+                  <title level="a">Die magische Vertiefung der modernen Naturwissenschaft</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 15</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="15">15</biblScope>
+                  <biblScope unit="page" from="589" to="596"/>
+                  <idno type="fn">WR-01-02-15_n0589.xml</idno>
+                  <author ref="#wr-person-0077">Du Prel, Dr. Carl</author>
                </bibl>
             </listBibl>
          </sourceDesc>

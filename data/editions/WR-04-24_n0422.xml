@@ -35,7 +35,34 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0984">
+                  <title level="a">Schauspielkunst und Mcdianimität*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 23</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="419" to="419"/>
+                  <idno type="fn">WR-04-23_n0419.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0985">
+                  <title level="a">Im Hause des Richters</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 24</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="421" to="422"/>
+                  <idno type="fn">WR-04-24_n0421.xml</idno>
+                  <author ref="#wr-person-0068">Wilde, Oscar</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0986">
+                  <title level="a">Das Licht und die Inscenierung</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 24</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="422" to="428"/>
+                  <idno type="fn">WR-04-24_n0422.xml</idno>
+                  <author ref="#wr-person-0316">Appia, Adolphe</author>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0985">
                   <title level="a">Im Hause des Richters</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 24</title>
                   <biblScope unit="volume" n="04">4</biblScope>
@@ -52,6 +79,15 @@
                   <biblScope unit="page" from="422" to="428"/>
                   <idno type="fn">WR-04-24_n0422.xml</idno>
                   <author ref="#wr-person-0316">Appia, Adolphe</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0987">
+                  <title level="a">Marlowe, Grabbe und Lenz</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 24</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="429" to="432"/>
+                  <idno type="fn">WR-04-24_n0429.xml</idno>
+                  <author ref="#wr-person-0093">Bleibtreu, Carl</author>
                </bibl>
             </listBibl>
          </sourceDesc>

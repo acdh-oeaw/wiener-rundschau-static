@@ -35,6 +35,15 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0807">
+                  <title level="a">Brief aus Paris</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 3</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="66" to="69"/>
+                  <idno type="fn">WR-04-03_n0066.xml</idno>
+                  <author ref="#wr-person-0203">Gourmont, Remy de</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0808">
                   <title level="a">Japanische Kunstausstellung</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 3</title>
@@ -43,6 +52,15 @@
                   <biblScope unit="page" from="70" to="71"/>
                   <idno type="fn">WR-04-03_n0070.xml</idno>
                   <author ref="#wr-person-0195">Zuckerkandl, B.</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0809">
+                  <title level="a">Lithographien</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 3</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="72" to="75"/>
+                  <idno type="fn">WR-04-03_n0072.xml</idno>
+                  <author ref="#wr-person-0206">Lindner, Anton</author>
                </bibl>
             </listBibl>
          </sourceDesc>

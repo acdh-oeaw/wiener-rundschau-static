@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0165">
+                  <title level="a">Künstler und Publicum</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 13</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="496" to="498"/>
+                  <idno type="fn">WR-01-02-13_n0496.xml</idno>
+                  <author ref="#wr-person-0068">Wilde, Oscar</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0166">
                   <title level="a">Das kriegerische Genie</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 13</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="499" to="502"/>
                   <idno type="fn">WR-01-02-13_n0499.xml</idno>
                   <author ref="#wr-person-0069">Ferrero, Guglielmo, Prof.</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0167">
+                  <title level="a">Gegen die Emancipation des Weibes</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 13</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="503" to="510"/>
+                  <idno type="fn">WR-01-02-13_n0503.xml</idno>
+                  <author ref="#wr-person-0029">Weisengrün, Dr. Paul</author>
                </bibl>
             </listBibl>
          </sourceDesc>

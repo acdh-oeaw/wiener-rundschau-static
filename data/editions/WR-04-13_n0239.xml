@@ -35,6 +35,15 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0907">
+                  <title level="a">»Il Fuoco«*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 13</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="237" to="238"/>
+                  <idno type="fn">WR-04-13_n0237.xml</idno>
+                  <author ref="#wr-person-0219">Kolb, Annette</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0908">
                   <title level="a">Iphigenie auf Tauris*</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 13</title>
@@ -43,6 +52,15 @@
                   <biblScope unit="page" from="239" to="240"/>
                   <idno type="fn">WR-04-13_n0239.xml</idno>
                   <author ref="#wr-person-0206">Lindner, Anton</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0909">
+                  <title level="a">Zuschrift *</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 13</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="240" to="240"/>
+                  <idno type="fn">WR-04-13_n0240.xml</idno>
+                  <author ref="#wr-person-0298">Förster-Nietzsche, Elisabeth</author>
                </bibl>
             </listBibl>
          </sourceDesc>

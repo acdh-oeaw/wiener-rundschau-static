@@ -36,7 +36,37 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0753">
+                  <title level="a">Pariser Brief</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 24</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="569" to="572"/>
+                  <idno type="fn">WR-03-02-24_n0569.xml</idno>
+                  <author ref="#wr-person-0203">Gourmont, Remy de</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0754">
+                  <title level="a">Tönendes Schweigen</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 24</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="572" to="573"/>
+                  <idno type="fn">WR-03-02-24_n0572.xml</idno>
+                  <author ref="#wr-person-0230">Zillmann, Helene</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0755">
+                  <title level="a">Venedig 1899</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 24</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="573" to="576"/>
+                  <idno type="fn">WR-03-02-24_n0573.xml</idno>
+                  <author ref="#wr-person-0251">Pica, Vittorio</author>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0754">
                   <title level="a">Tönendes Schweigen</title>
                   <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 24</title>
                   <biblScope unit="volume" n="03">3</biblScope>
@@ -55,6 +85,16 @@
                   <biblScope unit="page" from="573" to="576"/>
                   <idno type="fn">WR-03-02-24_n0573.xml</idno>
                   <author ref="#wr-person-0251">Pica, Vittorio</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0756">
+                  <title level="a">Burgtheater: »AgnesJordan«</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 24</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="576" to="579"/>
+                  <idno type="fn">WR-03-02-24_n0576.xml</idno>
+                  <author ref="#wr-person-0206">Lindner, Anton</author>
                </bibl>
             </listBibl>
          </sourceDesc>

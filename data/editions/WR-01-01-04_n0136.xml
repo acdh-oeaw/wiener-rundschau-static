@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0039">
+                  <title level="a">Wie war ...</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 4</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="131" to="131"/>
+                  <idno type="fn">WR-01-01-04_n0131.xml</idno>
+                  <author ref="#wr-person-0023">Hango, Hermann</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0040">
                   <title level="a">Zu den Sternen</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 4</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="132" to="138"/>
                   <idno type="fn">WR-01-01-04_n0132.xml</idno>
                   <author ref="#wr-person-0010">Ssologub, Fjodor</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0041">
+                  <title level="a">Rhythmen</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 4</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="139" to="140"/>
+                  <idno type="fn">WR-01-01-04_n0139.xml</idno>
+                  <author ref="#wr-person-0005">Rappaport, Felix</author>
                </bibl>
             </listBibl>
          </sourceDesc>

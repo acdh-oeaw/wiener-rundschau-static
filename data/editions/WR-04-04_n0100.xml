@@ -35,7 +35,34 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0818">
+                  <title level="a">Hof-Operntheater: »Es war einmal «*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 4</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="97" to="98"/>
+                  <idno type="fn">WR-04-04_n0097.xml</idno>
+                  <author ref="#wr-person-0260">Graf, Max</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0819">
+                  <title level="a">Ferdinand Bonn*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 4</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="98" to="100"/>
+                  <idno type="fn">WR-04-04_n0098.xml</idno>
+                  <author ref="#wr-person-0206">Lindner, Anton</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0820">
+                  <title level="a">Lionardo da Vinci von Otto Sachs*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 4</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="100" to="100"/>
+                  <idno type="fn">WR-04-04_n0100.xml</idno>
+                  <author ref="#wr-person-0206">Lindner, Anton</author>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0819">
                   <title level="a">Ferdinand Bonn*</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 4</title>
                   <biblScope unit="volume" n="04">4</biblScope>
@@ -52,6 +79,15 @@
                   <biblScope unit="page" from="100" to="100"/>
                   <idno type="fn">WR-04-04_n0100.xml</idno>
                   <author ref="#wr-person-0206">Lindner, Anton</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0821">
+                  <title level="a">Landschaft</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 5</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="101" to="124"/>
+                  <idno type="fn">WR-04-05_n0101.xml</idno>
+                  <author ref="#wr-person-0273">Wenban, Sion L.</author>
                </bibl>
             </listBibl>
          </sourceDesc>

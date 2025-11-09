@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0284">
+                  <title level="a">Könige. Münchener Stimmungen</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 23</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="886" to="890"/>
+                  <idno type="fn">WR-01-02-23_n0886.xml</idno>
+                  <author ref="#wr-person-0111">Robitsek, Vilma</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0285">
                   <title level="a">Die Verbrecher in den decorativen Künsten</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 23</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="891" to="896"/>
                   <idno type="fn">WR-01-02-23_n0891.xml</idno>
                   <author ref="#wr-person-0112">Ferri, Prof. Enrico</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0286">
+                  <title level="a">Zwischen den Völkern</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 23</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="897" to="900"/>
+                  <idno type="fn">WR-01-02-23_n0897.xml</idno>
+                  <author ref="#wr-person-0089">Dix, Arthur</author>
                </bibl>
             </listBibl>
          </sourceDesc>

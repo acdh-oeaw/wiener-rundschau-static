@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0640">
+                  <title level="a">Jan Toorop I.</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 11</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="11">11</biblScope>
+                  <biblScope unit="page" from="255" to="259"/>
+                  <idno type="fn">WR-03-01-11_n0255.xml</idno>
+                  <author ref="#wr-person-0213">Zilcken, Ph.</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0641">
                   <title level="a">Hugo Wolf</title>
                   <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 11</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="260" to="263"/>
                   <idno type="fn">WR-03-01-11_n0260.xml</idno>
                   <author ref="#wr-person-0214">Vancsa, Max</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0642">
+                  <title level="a">»Der Corregidor«</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 11</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="11">11</biblScope>
+                  <biblScope unit="page" from="263" to="264"/>
+                  <idno type="fn">WR-03-01-11_n0263.xml</idno>
+                  <author ref="#wr-person-0215">Haberlandt, Mich.</author>
                </bibl>
             </listBibl>
          </sourceDesc>

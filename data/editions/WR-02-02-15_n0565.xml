@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0442">
+                  <title level="a">Aus dem Tagebuch</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 15</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="15">15</biblScope>
+                  <biblScope unit="page" from="561" to="564"/>
+                  <idno type="fn">WR-02-02-15_n0561.xml</idno>
+                  <author ref="#wr-person-0142">Emerson</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0443">
                   <title level="a">Liebe von damals </title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 15</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="565" to="565"/>
                   <idno type="fn">WR-02-02-15_n0565.xml</idno>
                   <author ref="#wr-person-0095">Wassermann, Jakob</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0444">
+                  <title level="a">Der Hunger nach Kunst </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 15</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="15">15</biblScope>
+                  <biblScope unit="page" from="566" to="571"/>
+                  <idno type="fn">WR-02-02-15_n0566.xml</idno>
+                  <author ref="#wr-person-0159">Jostenoode, Harold Arjuna van</author>
                </bibl>
             </listBibl>
          </sourceDesc>

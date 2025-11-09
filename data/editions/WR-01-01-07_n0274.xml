@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0082">
+                  <title level="a">Die Somnambulen als Lehrer</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 7</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="268" to="273"/>
+                  <idno type="fn">WR-01-01-07_n0268.xml</idno>
+                  <author ref="#wr-person-0037">Prel, Dr. Carl du</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0083">
                   <title level="a">Chronik</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 7</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="274" to="276"/>
                   <idno type="fn">WR-01-01-07_n0274.xml</idno>
                   <author ref="#wr-person-0008">Kraus, Karl</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0084">
+                  <title level="a">Placatkunst</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 7</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="278" to="279"/>
+                  <idno type="fn">WR-01-01-07_n0278.xml</idno>
+                  <author ref="#nan"/>
                </bibl>
             </listBibl>
          </sourceDesc>

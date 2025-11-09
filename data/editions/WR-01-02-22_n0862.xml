@@ -36,7 +36,37 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0274">
+                  <title level="a">Die wahre Geschichte von Josua</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 22</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="22">22</biblScope>
+                  <biblScope unit="page" from="861" to="861"/>
+                  <idno type="fn">WR-01-02-22_n0861.xml</idno>
+                  <author ref="#wr-person-0107">Veber, Pierre</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0275">
+                  <title level="a">Raimund-Theater</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 22</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="22">22</biblScope>
+                  <biblScope unit="page" from="862" to="863"/>
+                  <idno type="fn">WR-01-02-22_n0862.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0276">
+                  <title level="a">Carltheater</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 22</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="22">22</biblScope>
+                  <biblScope unit="page" from="862" to="862"/>
+                  <idno type="fn">WR-01-02-22_n0862.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0275">
                   <title level="a">Raimund-Theater</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 22</title>
                   <biblScope unit="volume" n="01">1</biblScope>
@@ -54,6 +84,16 @@
                   <biblScope unit="issue" n="22">22</biblScope>
                   <biblScope unit="page" from="862" to="862"/>
                   <idno type="fn">WR-01-02-22_n0862.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0277">
+                  <title level="a">Director Emerich v. Bukovics</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 22</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="22">22</biblScope>
+                  <biblScope unit="page" from="863" to="864"/>
+                  <idno type="fn">WR-01-02-22_n0863.xml</idno>
                   <author ref="#nan"/>
                </bibl>
             </listBibl>

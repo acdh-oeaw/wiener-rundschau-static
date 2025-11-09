@@ -36,7 +36,37 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0728">
+                  <title level="a">Enrico Corradini</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 21</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="500" to="504"/>
+                  <idno type="fn">WR-03-02-21_n0500.xml</idno>
+                  <author ref="#wr-person-0210">Cippico, Anton</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0729">
+                  <title level="a">Die Schauspieler</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 21</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="504" to="506"/>
+                  <idno type="fn">WR-03-02-21_n0504.xml</idno>
+                  <author ref="#wr-person-0049">Fuchs, Georg</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0730">
+                  <title level="a">Zur Psychologie des Hellsehens</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 21</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="506" to="511"/>
+                  <idno type="fn">WR-03-02-21_n0506.xml</idno>
+                  <author ref="#wr-person-0240">Deinhard, Ludwig</author>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0729">
                   <title level="a">Die Schauspieler</title>
                   <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 21</title>
                   <biblScope unit="volume" n="03">3</biblScope>
@@ -55,6 +85,16 @@
                   <biblScope unit="page" from="506" to="511"/>
                   <idno type="fn">WR-03-02-21_n0506.xml</idno>
                   <author ref="#wr-person-0240">Deinhard, Ludwig</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0731">
+                  <title level="a">Carl du Prel: Die Magie als Naturwissenschaft</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 21</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="511" to="512"/>
+                  <idno type="fn">WR-03-02-21_n0511.xml</idno>
+                  <author ref="#wr-person-0200">Graevell, Harald van Jostenoode</author>
                </bibl>
             </listBibl>
          </sourceDesc>

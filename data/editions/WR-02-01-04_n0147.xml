@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0330">
+                  <title level="a">Die Nebel wallen </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 4</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="146" to="146"/>
+                  <idno type="fn">WR-02-01-04_n0146.xml</idno>
+                  <author ref="#wr-person-0126">Holitscher, Arthur</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0331">
                   <title level="a">Eine Madonna von Murillo</title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 4</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="147" to="147"/>
                   <idno type="fn">WR-02-01-04_n0147.xml</idno>
                   <author ref="#wr-person-0119">Schmitz, Oskar A. H.</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0332">
+                  <title level="a">Reflexionen über deutschen Stil</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 4</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="148" to="153"/>
+                  <idno type="fn">WR-02-01-04_n0148.xml</idno>
+                  <author ref="#wr-person-0101">Grossmann, Stefan</author>
                </bibl>
             </listBibl>
          </sourceDesc>

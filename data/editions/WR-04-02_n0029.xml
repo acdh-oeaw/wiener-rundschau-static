@@ -35,6 +35,15 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0794">
+                  <title level="a">Bücher</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 1</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="27" to="28"/>
+                  <idno type="fn">WR-04-01_n0027.xml</idno>
+                  <author ref="#wr-person-0262">Graevell van Jostenoode, Harald</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0795">
                   <title level="a">Drei Gedichte</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 2</title>
@@ -43,6 +52,15 @@
                   <biblScope unit="page" from="29" to="30"/>
                   <idno type="fn">WR-04-02_n0029.xml</idno>
                   <author ref="#wr-person-0263">Crane, Walter</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0796">
+                  <title level="a">Farbe und Linie II.</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 2</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="31" to="36"/>
+                  <idno type="fn">WR-04-02_n0031.xml</idno>
+                  <author ref="#wr-person-0206">Lindner, Anton</author>
                </bibl>
             </listBibl>
          </sourceDesc>

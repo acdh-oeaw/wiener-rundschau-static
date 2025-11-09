@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0426">
+                  <title level="a">Die Herrin der Gärten </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 13</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="492" to="492"/>
+                  <idno type="fn">WR-02-02-13_n0492.xml</idno>
+                  <author ref="#wr-person-0156">Ubell, Hermann</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0427">
                   <title level="a">Tulpen</title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 13</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="493" to="495"/>
                   <idno type="fn">WR-02-02-13_n0493.xml</idno>
                   <author ref="#wr-person-0004">Altenberg, Peter</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0428">
+                  <title level="a">Ljoljetschka</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 13</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="496" to="504"/>
+                  <idno type="fn">WR-02-02-13_n0496.xml</idno>
+                  <author ref="#wr-person-0010">Ssologub, Fjodor</author>
                </bibl>
             </listBibl>
          </sourceDesc>

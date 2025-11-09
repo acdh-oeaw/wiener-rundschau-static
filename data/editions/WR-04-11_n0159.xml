@@ -35,6 +35,15 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0879">
+                  <title level="a">Geschlecht der Charaktere*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 10</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="156" to="156"/>
+                  <idno type="fn">WR-04-10_n0156.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0880">
                   <title level="a">Die Isergil I.</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 11</title>
@@ -43,6 +52,15 @@
                   <biblScope unit="page" from="157" to="161"/>
                   <idno type="fn">WR-04-11_n0157.xml</idno>
                   <author ref="#wr-person-0274">Gorkij, Maxim</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0881">
+                  <title level="a">Der Gedanke</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 11</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="11">11</biblScope>
+                  <biblScope unit="page" from="161" to="163"/>
+                  <idno type="fn">WR-04-11_n0161.xml</idno>
+                  <author ref="#wr-person-0291">Topelius, Zacharias</author>
                </bibl>
             </listBibl>
          </sourceDesc>

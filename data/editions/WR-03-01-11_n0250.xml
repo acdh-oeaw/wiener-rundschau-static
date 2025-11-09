@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0636">
+                  <title level="a">Künstlerhaus</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 10</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="248" to="248"/>
+                  <idno type="fn">WR-03-01-10_n0248.xml</idno>
+                  <author ref="#wr-person-0206">Lindner, Anton</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0637">
                   <title level="a">Wagnertage</title>
                   <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 11</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="249" to="252"/>
                   <idno type="fn">WR-03-01-11_n0249.xml</idno>
                   <author ref="#wr-person-0211">Chamberlain, Houston Stewart</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0638">
+                  <title level="a">Die Witwe von Windsor</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 11</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="11">11</biblScope>
+                  <biblScope unit="page" from="252" to="253"/>
+                  <idno type="fn">WR-03-01-11_n0252.xml</idno>
+                  <author ref="#wr-person-0212">Kipling, Rudyard</author>
                </bibl>
             </listBibl>
          </sourceDesc>

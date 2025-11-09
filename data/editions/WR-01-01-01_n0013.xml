@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0003">
+                  <title level="a">Gedichte</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="11" to="12"/>
+                  <idno type="fn">WR-01-01-01_n0011.xml</idno>
+                  <author ref="#wr-person-0003">Hofmannsthal, Hugo von</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0004">
                   <title level="a">Venedig in Wien</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 1</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="13" to="14"/>
                   <idno type="fn">WR-01-01-01_n0013.xml</idno>
                   <author ref="#wr-person-0004">Altenberg, Peter</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0005">
+                  <title level="a">Isis</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="15" to="15"/>
+                  <idno type="fn">WR-01-01-01_n0015.xml</idno>
+                  <author ref="#wr-person-0005">Rappaport, Felix</author>
                </bibl>
             </listBibl>
          </sourceDesc>

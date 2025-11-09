@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0496">
+                  <title level="a">Das Wiener Couplet </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 21</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="797" to="800"/>
+                  <idno type="fn">WR-02-02-21_n0797.xml</idno>
+                  <author ref="#wr-person-0166">Graf, Dr. Max</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0497">
                   <title level="a">Ein wirklicher Brief an ein wirkliches zwölfjähriges Mädchen</title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 21</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="807" to="809"/>
                   <idno type="fn">WR-02-02-21_n0807.xml</idno>
                   <author ref="#wr-person-0004">Altenberg, Peter</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0498">
+                  <title level="a">Ein französischer Caricaturist: Charles Léandre</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 21</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="810" to="812"/>
+                  <idno type="fn">WR-02-02-21_n0810.xml</idno>
+                  <author ref="#wr-person-0167">Schmidt, Karl Eugen</author>
                </bibl>
             </listBibl>
          </sourceDesc>

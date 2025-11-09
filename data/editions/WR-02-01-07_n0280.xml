@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0365">
+                  <title level="a">Salus, »Gedichte«</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 7</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="279" to="279"/>
+                  <idno type="fn">WR-02-01-07_n0279.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0366">
                   <title level="a">Lie, »Troll«</title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 7</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="280" to="280"/>
                   <idno type="fn">WR-02-01-07_n0280.xml</idno>
                   <author ref="#nan"/>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0367">
+                  <title level="a">Ein ausgegrabener Essay</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 8</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="281" to="291"/>
+                  <idno type="fn">WR-02-01-08_n0281.xml</idno>
+                  <author ref="#wr-person-0137">Stirner, Max</author>
                </bibl>
             </listBibl>
          </sourceDesc>

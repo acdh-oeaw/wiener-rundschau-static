@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0479">
+                  <title level="a">Wilhelm Diefenbach </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 19</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="19">19</biblScope>
+                  <biblScope unit="page" from="733" to="735"/>
+                  <idno type="fn">WR-02-02-19_n0733.xml</idno>
+                  <author ref="#wr-person-0164">Fidus, Karl</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0480">
                   <title level="a">Die Unterrichtsstunde</title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 19</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="736" to="744"/>
                   <idno type="fn">WR-02-02-19_n0736.xml</idno>
                   <author ref="#wr-person-0149">Eekhoud, Georg</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0481">
+                  <title level="a">Möller, »Todtentanz«</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 19</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="19">19</biblScope>
+                  <biblScope unit="page" from="747" to="747"/>
+                  <idno type="fn">WR-02-02-19_n0747.xml</idno>
+                  <author ref="#nan"/>
                </bibl>
             </listBibl>
          </sourceDesc>

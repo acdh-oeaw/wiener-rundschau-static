@@ -35,6 +35,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0784">
+                  <title level="a">Imperium und Katholicität</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 27</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="27">27</biblScope>
+                  <biblScope unit="page" from="651" to="656"/>
+                  <idno type="fn">WR-03-02-27_n0651.xml</idno>
+                  <author ref="#wr-person-0223">Arjuna, Harald van Jostenoode</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0785">
                   <title level="a">Die Kaiserin</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 1</title>
@@ -44,7 +54,43 @@
                   <idno type="fn">WR-04-01_n0001.xml</idno>
                   <author ref="#wr-person-0232">Khnopff, Fernand</author>
                </bibl>
+               <bibl n="next text" corresp="#wr-text-0786">
+                  <title level="a">Farbe und Linie, I.</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 1</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="2" to="6"/>
+                  <idno type="fn">WR-04-01_n0002.xml</idno>
+                  <author ref="#wr-person-0206">Lindner, Anton</author>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0787">
+                  <title level="a">Aus ihrem Tagebuche : Ein December-Abend</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 1</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="6" to="8"/>
+                  <idno type="fn">WR-04-01_n0006.xml</idno>
+                  <author ref="#wr-person-0004">Altenberg, Peter</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0788">
+                  <title level="a">Rossetti*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 1</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="9" to="11"/>
+                  <idno type="fn">WR-04-01_n0009.xml</idno>
+                  <author ref="#wr-person-0206">Lindner, Anton</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0789">
+                  <title level="a">Fünf Sonette</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 1</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="9" to="11"/>
+                  <idno type="fn">WR-04-01_n0009.xml</idno>
+                  <author ref="#wr-person-0225">Rossetti, Dante Gabriel</author>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0788">
                   <title level="a">Rossetti*</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 1</title>
                   <biblScope unit="volume" n="04">4</biblScope>
@@ -61,6 +107,15 @@
                   <biblScope unit="page" from="9" to="11"/>
                   <idno type="fn">WR-04-01_n0009.xml</idno>
                   <author ref="#wr-person-0225">Rossetti, Dante Gabriel</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0790">
+                  <title level="a">Richard Wagner und das französische Publicum</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 1</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="12" to="18"/>
+                  <idno type="fn">WR-04-01_n0012.xml</idno>
+                  <author ref="#wr-person-0187">Mauclair, Camille</author>
                </bibl>
             </listBibl>
          </sourceDesc>

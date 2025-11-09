@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0445">
+                  <title level="a">Fidus</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 15</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="15">15</biblScope>
+                  <biblScope unit="page" from="575" to="578"/>
+                  <idno type="fn">WR-02-02-15_n0575.xml</idno>
+                  <author ref="#wr-person-0139">Spohr, Wilhelm</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0446">
                   <title level="a">Die Muscheln </title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 15</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="588" to="588"/>
                   <idno type="fn">WR-02-02-15_n0588.xml</idno>
                   <author ref="#wr-person-0006">Verlaine, Paul</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0447">
+                  <title level="a">Die verbotene »Ware«</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 15</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="15">15</biblScope>
+                  <biblScope unit="page" from="589" to="591"/>
+                  <idno type="fn">WR-02-02-15_n0589.xml</idno>
+                  <author ref="#wr-person-0101">Grossmann, Stefan</author>
                </bibl>
             </listBibl>
          </sourceDesc>

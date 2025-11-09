@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0339">
+                  <title level="a">Th. M. Dostojewsky über Strafprocesse</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 5</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="180" to="189"/>
+                  <idno type="fn">WR-02-01-05_n0180.xml</idno>
+                  <author ref="#wr-person-0128">Hoffmann, Nina</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0340">
                   <title level="a">Nächtlicher Weg </title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 5</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="190" to="190"/>
                   <idno type="fn">WR-02-01-05_n0190.xml</idno>
                   <author ref="#wr-person-0129">Scholz, Wilhelm von</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0341">
+                  <title level="a">Jung-Münchens Kunst</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 5</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="191" to="196"/>
+                  <idno type="fn">WR-02-01-05_n0191.xml</idno>
+                  <author ref="#wr-person-0130">Strindberg, Frieda</author>
                </bibl>
             </listBibl>
          </sourceDesc>

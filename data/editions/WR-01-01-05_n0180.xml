@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0053">
+                  <title level="a">Golgatha</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 5</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="173" to="173"/>
+                  <idno type="fn">WR-01-01-05_n0173.xml</idno>
+                  <author ref="#wr-person-0028">Wilhelm, Paul</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0054">
                   <title level="a">Alladine und Palomides</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 5</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="174" to="183"/>
                   <idno type="fn">WR-01-01-05_n0174.xml</idno>
                   <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0055">
+                  <title level="a">Der fliegende Holländer</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 5</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="184" to="185"/>
+                  <idno type="fn">WR-01-01-05_n0184.xml</idno>
+                  <author ref="#wr-person-0004">Altenberg, Peter</author>
                </bibl>
             </listBibl>
          </sourceDesc>

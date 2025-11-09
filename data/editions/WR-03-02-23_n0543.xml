@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0741">
+                  <title level="a">»Christ aux Outrages«</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 23</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="541" to="541"/>
+                  <idno type="fn">WR-03-02-23_n0541.xml</idno>
+                  <author ref="#wr-person-0249">Groux, Henry de</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0742">
                   <title level="a">Henry de Groux</title>
                   <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 23</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="542" to="545"/>
                   <idno type="fn">WR-03-02-23_n0542.xml</idno>
                   <author ref="#wr-person-0250">Buet, Charles</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0743">
+                  <title level="a">Ein Weltuntergang II.</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 23</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="545" to="547"/>
+                  <idno type="fn">WR-03-02-23_n0545.xml</idno>
+                  <author ref="#wr-person-0183">Hartmann, Franz</author>
                </bibl>
             </listBibl>
          </sourceDesc>

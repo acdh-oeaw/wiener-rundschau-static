@@ -35,6 +35,15 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0934">
+                  <title level="a">Sigbjörn Obstfelder*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 16</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="16">16</biblScope>
+                  <biblScope unit="page" from="290" to="290"/>
+                  <idno type="fn">WR-04-16_n0290.xml</idno>
+                  <author ref="#wr-person-0206">Lindner, Anton</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0935">
                   <title level="a">Der Schwachsinn des Weibes</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 17</title>
@@ -43,6 +52,15 @@
                   <biblScope unit="page" from="291" to="294"/>
                   <idno type="fn">WR-04-17_n0291.xml</idno>
                   <author ref="#wr-person-0302">Sokal, Eduard</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0936">
+                  <title level="a">Zur Psychologie und Überwindung des Bohémiens II.</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 17</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="17">17</biblScope>
+                  <biblScope unit="page" from="294" to="296"/>
+                  <idno type="fn">WR-04-17_n0294.xml</idno>
+                  <author ref="#wr-person-0187">Mauclair, Camille</author>
                </bibl>
             </listBibl>
          </sourceDesc>

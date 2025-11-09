@@ -35,6 +35,15 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0910">
+                  <title level="a">Das Mysterium der Gerechtigkeit</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 14</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="14">14</biblScope>
+                  <biblScope unit="page" from="241" to="245"/>
+                  <idno type="fn">WR-04-14_n0241.xml</idno>
+                  <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0911">
                   <title level="a">Der theosophische Congress zu Paris</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 14</title>
@@ -43,6 +52,15 @@
                   <biblScope unit="page" from="245" to="248"/>
                   <idno type="fn">WR-04-14_n0245.xml</idno>
                   <author ref="#wr-person-0299">Arjuna van Jostenoode, Harald</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0912">
+                  <title level="a">Die platonische Liebe II.</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 14</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="14">14</biblScope>
+                  <biblScope unit="page" from="248" to="250"/>
+                  <idno type="fn">WR-04-14_n0248.xml</idno>
+                  <author ref="#wr-person-0297">Neera</author>
                </bibl>
             </listBibl>
          </sourceDesc>

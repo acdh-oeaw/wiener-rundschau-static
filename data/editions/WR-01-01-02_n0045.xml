@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0012">
+                  <title level="a">Brauner, »Russische Novellen«</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="39" to="40"/>
+                  <idno type="fn">WR-01-01-01_n0039.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0013">
                   <title level="a">Alladine und Palomides</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 2</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="41" to="49"/>
                   <idno type="fn">WR-01-01-02_n0041.xml</idno>
                   <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0014">
+                  <title level="a">Zu den Sternen</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="50" to="56"/>
+                  <idno type="fn">WR-01-01-02_n0050.xml</idno>
+                  <author ref="#wr-person-0010">Ssologub, Fjodor</author>
                </bibl>
             </listBibl>
          </sourceDesc>

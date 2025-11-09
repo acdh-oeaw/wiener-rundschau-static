@@ -35,6 +35,15 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0978">
+                  <title level="a">Multatuli</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 23</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="406" to="411"/>
+                  <idno type="fn">WR-04-23_n0406.xml</idno>
+                  <author ref="#wr-person-0190">Schlaf, Johannes</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0979">
                   <title level="a">Der Abbé Galiani</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 23</title>
@@ -43,6 +52,15 @@
                   <biblScope unit="page" from="411" to="415"/>
                   <idno type="fn">WR-04-23_n0411.xml</idno>
                   <author ref="#wr-person-0294">Kassner, Rudolf</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0980">
+                  <title level="a">Eine erste Symphonie*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 23</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="415" to="416"/>
+                  <idno type="fn">WR-04-23_n0415.xml</idno>
+                  <author ref="#wr-person-0260">Graf, Max</author>
                </bibl>
             </listBibl>
          </sourceDesc>

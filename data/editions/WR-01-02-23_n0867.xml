@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0278">
+                  <title level="a">Wendriner, »Föhn«</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 22</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="22">22</biblScope>
+                  <biblScope unit="page" from="864" to="864"/>
+                  <idno type="fn">WR-01-02-22_n0864.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0279">
                   <title level="a">Herbst</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 23</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="865" to="867"/>
                   <idno type="fn">WR-01-02-23_n0865.xml</idno>
                   <author ref="#wr-person-0108">Obstfelder, Sigbjörn</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0280">
+                  <title level="a">Seelen-Freundschaft</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 23</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="868" to="869"/>
+                  <idno type="fn">WR-01-02-23_n0868.xml</idno>
+                  <author ref="#wr-person-0109">Karasek, Jiri</author>
                </bibl>
             </listBibl>
          </sourceDesc>

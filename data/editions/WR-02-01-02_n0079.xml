@@ -36,7 +36,37 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0318">
+                  <title level="a">Burgtheater </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="78" to="78"/>
+                  <idno type="fn">WR-02-01-02_n0078.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0319">
+                  <title level="a">Deutsches Volkstheater </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="78" to="79"/>
+                  <idno type="fn">WR-02-01-02_n0078.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0320">
+                  <title level="a">Franz Stuck in Wien</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="79" to="80"/>
+                  <idno type="fn">WR-02-01-02_n0079.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0319">
                   <title level="a">Deutsches Volkstheater </title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 2</title>
                   <biblScope unit="volume" n="02">2</biblScope>
@@ -55,6 +85,16 @@
                   <biblScope unit="page" from="79" to="80"/>
                   <idno type="fn">WR-02-01-02_n0079.xml</idno>
                   <author ref="#nan"/>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0321">
+                  <title level="a">Vision</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="81" to="88"/>
+                  <idno type="fn">WR-02-01-03_n0081.xml</idno>
+                  <author ref="#wr-person-0123">Tetmajer, Kazimir</author>
                </bibl>
             </listBibl>
          </sourceDesc>

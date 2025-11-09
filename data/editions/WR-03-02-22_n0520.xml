@@ -36,7 +36,37 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0732">
+                  <title level="a">Laus Veneris III.</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 22</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="22">22</biblScope>
+                  <biblScope unit="page" from="513" to="517"/>
+                  <idno type="fn">WR-03-02-22_n0513.xml</idno>
+                  <author ref="#wr-person-0228">Swinburne, Algernon Charles</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0733">
+                  <title level="a">Proteus</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 22</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="22">22</biblScope>
+                  <biblScope unit="page" from="518" to="520"/>
+                  <idno type="fn">WR-03-02-22_n0518.xml</idno>
+                  <author ref="#wr-person-0246">Wickström, Victor Hugo</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0734">
+                  <title level="a">Ein Weltuntergang I.</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 22</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="22">22</biblScope>
+                  <biblScope unit="page" from="520" to="524"/>
+                  <idno type="fn">WR-03-02-22_n0520.xml</idno>
+                  <author ref="#wr-person-0183">Hartmann, Franz</author>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0733">
                   <title level="a">Proteus</title>
                   <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 22</title>
                   <biblScope unit="volume" n="03">3</biblScope>
@@ -55,6 +85,16 @@
                   <biblScope unit="page" from="520" to="524"/>
                   <idno type="fn">WR-03-02-22_n0520.xml</idno>
                   <author ref="#wr-person-0183">Hartmann, Franz</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0735">
+                  <title level="a">Acte der Selbstopferung</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 22</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="22">22</biblScope>
+                  <biblScope unit="page" from="524" to="527"/>
+                  <idno type="fn">WR-03-02-22_n0524.xml</idno>
+                  <author ref="#wr-person-0238">Tolstoi, Leo Graf</author>
                </bibl>
             </listBibl>
          </sourceDesc>

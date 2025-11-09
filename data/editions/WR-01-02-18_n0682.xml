@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0227">
+                  <title level="a">Die Umwerthung des Schuldbegriffes</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 17</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="17">17</biblScope>
+                  <biblScope unit="page" from="672" to="676"/>
+                  <idno type="fn">WR-01-02-17_n0672.xml</idno>
+                  <author ref="#wr-person-0089">Dix, Arthur</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0228">
                   <title level="a">Severine</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 18</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="677" to="682"/>
                   <idno type="fn">WR-01-02-18_n0677.xml</idno>
                   <author ref="#wr-person-0090">Neera, Tante</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0229">
+                  <title level="a">Die Goncourts und der Kunstgedanke</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 18</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="18">18</biblScope>
+                  <biblScope unit="page" from="683" to="695"/>
+                  <idno type="fn">WR-01-02-18_n0683.xml</idno>
+                  <author ref="#wr-person-0091">Gaultier, Jules de</author>
                </bibl>
             </listBibl>
          </sourceDesc>

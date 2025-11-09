@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0672">
+                  <title level="a">Jünglinge</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 13</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="309" to="313"/>
+                  <idno type="fn">WR-03-01-13_n0309.xml</idno>
+                  <author ref="#wr-person-0222">Jacobsen, Rosalia</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0673">
                   <title level="a">Der Theosoph Franz Hartmann</title>
                   <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 13</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="313" to="315"/>
                   <idno type="fn">WR-03-01-13_n0313.xml</idno>
                   <author ref="#wr-person-0223">Arjuna, Harald van Jostenoode</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0674">
+                  <title level="a">Über Gustav Mahler</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 13</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="315" to="318"/>
+                  <idno type="fn">WR-03-01-13_n0315.xml</idno>
+                  <author ref="#wr-person-0166">Graf, Dr. Max</author>
                </bibl>
             </listBibl>
          </sourceDesc>

@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0745">
+                  <title level="a">Spielbeamte</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 23</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="550" to="553"/>
+                  <idno type="fn">WR-03-02-23_n0550.xml</idno>
+                  <author ref="#wr-person-0206">Lindner, Anton</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0746">
                   <title level="a">Giovanni Segantini</title>
                   <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 23</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="553" to="555"/>
                   <idno type="fn">WR-03-02-23_n0553.xml</idno>
                   <author ref="#wr-person-0251">Pica, Vittorio</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0747">
+                  <title level="a">Gettatori</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 23</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="556" to="558"/>
+                  <idno type="fn">WR-03-02-23_n0556.xml</idno>
+                  <author ref="#wr-person-0244">Thomassin, Carl von</author>
                </bibl>
             </listBibl>
          </sourceDesc>

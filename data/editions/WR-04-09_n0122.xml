@@ -35,6 +35,15 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0864">
+                  <title level="a">Wille und Heilung</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 9</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="09">9</biblScope>
+                  <biblScope unit="page" from="118" to="120"/>
+                  <idno type="fn">WR-04-09_n0118.xml</idno>
+                  <author ref="#wr-person-0268">Spreti, Adolf Graf von</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0865">
                   <title level="a">Occultismus und officielle Wissenschaft</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 9</title>
@@ -43,6 +52,15 @@
                   <biblScope unit="page" from="120" to="124"/>
                   <idno type="fn">WR-04-09_n0120.xml</idno>
                   <author ref="#wr-person-0284">Seiling, Max, Prof.</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0866">
+                  <title level="a">Die moderne Kunst in Frankreich seit 1870</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 9</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="09">9</biblScope>
+                  <biblScope unit="page" from="124" to="131"/>
+                  <idno type="fn">WR-04-09_n0124.xml</idno>
+                  <author ref="#wr-person-0187">Mauclair, Camille</author>
                </bibl>
             </listBibl>
          </sourceDesc>

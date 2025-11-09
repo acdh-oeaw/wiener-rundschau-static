@@ -35,7 +35,34 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0836">
+                  <title level="a">Die Entstehung des socialen Problems</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 6</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="06">6</biblScope>
+                  <biblScope unit="page" from="141" to="143"/>
+                  <idno type="fn">WR-04-06_n0141.xml</idno>
+                  <author ref="#wr-person-0278">Schmitt, Eugen Heinrich</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0837">
+                  <title level="a">Gerhart Hauptmanns »Schluck und Jau«</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 6</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="06">6</biblScope>
+                  <biblScope unit="page" from="144" to="145"/>
+                  <idno type="fn">WR-04-06_n0144.xml</idno>
+                  <author ref="#wr-person-0099">Pastor, Willy</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0838">
+                  <title level="a">Lex Heinze</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 6</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="06">6</biblScope>
+                  <biblScope unit="page" from="145" to="147"/>
+                  <idno type="fn">WR-04-06_n0145.xml</idno>
+                  <author ref="#wr-person-0206">Lindner, Anton</author>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0837">
                   <title level="a">Gerhart Hauptmanns »Schluck und Jau«</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 6</title>
                   <biblScope unit="volume" n="04">4</biblScope>
@@ -52,6 +79,15 @@
                   <biblScope unit="page" from="145" to="147"/>
                   <idno type="fn">WR-04-06_n0145.xml</idno>
                   <author ref="#wr-person-0206">Lindner, Anton</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0839">
+                  <title level="a">Notizen*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 6</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="06">6</biblScope>
+                  <biblScope unit="page" from="148" to="148"/>
+                  <idno type="fn">WR-04-06_n0148.xml</idno>
+                  <author ref="#nan"/>
                </bibl>
             </listBibl>
          </sourceDesc>

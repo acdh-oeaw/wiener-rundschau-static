@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0530">
+                  <title level="a">Über Richard Wagner</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="7" to="9"/>
+                  <idno type="fn">WR-03-01-01_n0007.xml</idno>
+                  <author ref="#wr-person-0171">Nietzsche, Friedrich</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0531">
                   <title level="a">Das Tagebuch eines Bettlers</title>
                   <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 1</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="10" to="14"/>
                   <idno type="fn">WR-03-01-01_n0010.xml</idno>
                   <author ref="#wr-person-0172">Eloesser, Arthur</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0532">
+                  <title level="a">Der Freund</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="14" to="15"/>
+                  <idno type="fn">WR-03-01-01_n0014.xml</idno>
+                  <author ref="#wr-person-0004">Altenberg, Peter</author>
                </bibl>
             </listBibl>
          </sourceDesc>

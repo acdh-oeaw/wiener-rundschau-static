@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0522">
+                  <title level="a">Nationales Königthum </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 24</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="916" to="920"/>
+                  <idno type="fn">WR-02-02-24_n0916.xml</idno>
+                  <author ref="#wr-person-0169">Ibsen, Dr. Sigurd</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0523">
                   <title level="a">Naturlehre</title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 24</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="921" to="921"/>
                   <idno type="fn">WR-02-02-24_n0921.xml</idno>
                   <author ref="#wr-person-0004">Altenberg, Peter</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0524">
+                  <title level="a">Oppenheimers »Siedlungsgenossenschaft«</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 24</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="922" to="931"/>
+                  <idno type="fn">WR-02-02-24_n0922.xml</idno>
+                  <author ref="#wr-person-0151">Gumplowicz, Dr. Ladislas</author>
                </bibl>
             </listBibl>
          </sourceDesc>

@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0356">
+                  <title level="a">Im Garten</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 7</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="254" to="254"/>
+                  <idno type="fn">WR-02-01-07_n0254.xml</idno>
+                  <author ref="#wr-person-0126">Holitscher, Arthur</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0357">
                   <title level="a">Th. M. Dostojewsky über Strafprocesse</title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 7</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="255" to="260"/>
                   <idno type="fn">WR-02-01-07_n0255.xml</idno>
                   <author ref="#wr-person-0128">Hoffmann, Nina</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0358">
+                  <title level="a">Die Kritik </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 7</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="262" to="268"/>
+                  <idno type="fn">WR-02-01-07_n0262.xml</idno>
+                  <author ref="#wr-person-0136">Hello, Ernest</author>
                </bibl>
             </listBibl>
          </sourceDesc>

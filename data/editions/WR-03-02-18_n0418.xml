@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0700">
+                  <title level="a">Literarische Schauspieler</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 17</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="17">17</biblScope>
+                  <biblScope unit="page" from="416" to="416"/>
+                  <idno type="fn">WR-03-02-17_n0416.xml</idno>
+                  <author ref="#wr-person-0007">Schik, F.</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0701">
                   <title level="a">Kaiserin Elisabeth</title>
                   <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 18</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="417" to="419"/>
                   <idno type="fn">WR-03-02-18_n0417.xml</idno>
                   <author ref="#wr-person-0030">Barrès, Maurice</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0702">
+                  <title level="a">Schweigen</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 18</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="18">18</biblScope>
+                  <biblScope unit="page" from="419" to="421"/>
+                  <idno type="fn">WR-03-02-18_n0419.xml</idno>
+                  <author ref="#wr-person-0235">Poe, Edgar Allan</author>
                </bibl>
             </listBibl>
          </sourceDesc>

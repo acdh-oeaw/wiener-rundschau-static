@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0401">
+                  <title level="a">Ernest La Jeunesse</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 11</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="11">11</biblScope>
+                  <biblScope unit="page" from="401" to="405"/>
+                  <idno type="fn">WR-02-01-11_n0401.xml</idno>
+                  <author ref="#wr-person-0148">Albert, Henri</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0402">
                   <title level="a">Die wandernden Kreuze</title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 11</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="412" to="413"/>
                   <idno type="fn">WR-02-01-11_n0412.xml</idno>
                   <author ref="#wr-person-0149">Eekhoud, Georg</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0403">
+                  <title level="a">Im Märzenschnee</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 11</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="11">11</biblScope>
+                  <biblScope unit="page" from="414" to="418"/>
+                  <idno type="fn">WR-02-01-11_n0414.xml</idno>
+                  <author ref="#wr-person-0150">Smital, Anton</author>
                </bibl>
             </listBibl>
          </sourceDesc>

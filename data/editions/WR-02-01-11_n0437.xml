@@ -36,7 +36,37 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0406">
+                  <title level="a">Wiener Kunstfrühling </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 11</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="11">11</biblScope>
+                  <biblScope unit="page" from="433" to="436"/>
+                  <idno type="fn">WR-02-01-11_n0433.xml</idno>
+                  <author ref="#wr-person-0122">Schoenaich, Gustav</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0407">
+                  <title level="a">Im Hause der Abgeordneten</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 11</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="11">11</biblScope>
+                  <biblScope unit="page" from="437" to="438"/>
+                  <idno type="fn">WR-02-01-11_n0437.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0408">
+                  <title level="a">Blind, Ranzoni, Thaler, Jordan</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 11</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="11">11</biblScope>
+                  <biblScope unit="page" from="437" to="437"/>
+                  <idno type="fn">WR-02-01-11_n0437.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0407">
                   <title level="a">Im Hause der Abgeordneten</title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 11</title>
                   <biblScope unit="volume" n="02">2</biblScope>
@@ -54,6 +84,16 @@
                   <biblScope unit="issue" n="11">11</biblScope>
                   <biblScope unit="page" from="437" to="437"/>
                   <idno type="fn">WR-02-01-11_n0437.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0409">
+                  <title level="a">Herzfeld, »Die skandinavische Literatur und ihre Tendenzen nebst anderen Essays«</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 11</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="11">11</biblScope>
+                  <biblScope unit="page" from="438" to="439"/>
+                  <idno type="fn">WR-02-01-11_n0438.xml</idno>
                   <author ref="#nan"/>
                </bibl>
             </listBibl>

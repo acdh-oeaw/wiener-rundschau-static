@@ -36,7 +36,37 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0713">
+                  <title level="a">Carl du Prel</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 19</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="19">19</biblScope>
+                  <biblScope unit="page" from="459" to="462"/>
+                  <idno type="fn">WR-03-02-19_n0459.xml</idno>
+                  <author ref="#wr-person-0240">Deinhard, Ludwig</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0714">
+                  <title level="a">Gemmel: »Die Perlenschnur«</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 19</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="19">19</biblScope>
+                  <biblScope unit="page" from="463" to="463"/>
+                  <idno type="fn">WR-03-02-19_n0463.xml</idno>
+                  <author ref="#wr-person-0241">Werner, Prof. Dr. Richard Maria</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0715">
+                  <title level="a">Die Reden Gotamo Buddhas</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 19</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="19">19</biblScope>
+                  <biblScope unit="page" from="463" to="464"/>
+                  <idno type="fn">WR-03-02-19_n0463.xml</idno>
+                  <author ref="#wr-person-0200">Graevell, Harald van Jostenoode</author>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0714">
                   <title level="a">Gemmel: »Die Perlenschnur«</title>
                   <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 19</title>
                   <biblScope unit="volume" n="03">3</biblScope>
@@ -55,6 +85,16 @@
                   <biblScope unit="page" from="463" to="464"/>
                   <idno type="fn">WR-03-02-19_n0463.xml</idno>
                   <author ref="#wr-person-0200">Graevell, Harald van Jostenoode</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0716">
+                  <title level="a">Laus Veneris I.</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 20</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="20">20</biblScope>
+                  <biblScope unit="page" from="465" to="468"/>
+                  <idno type="fn">WR-03-02-20_n0465.xml</idno>
+                  <author ref="#wr-person-0228">Swinburne, Algernon Charles</author>
                </bibl>
             </listBibl>
          </sourceDesc>

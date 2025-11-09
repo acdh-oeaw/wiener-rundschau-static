@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0121">
+                  <title level="a">Ueber die Frauen</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 10</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="377" to="382"/>
+                  <idno type="fn">WR-01-01-10_n0377.xml</idno>
+                  <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0122">
                   <title level="a">Jungpolnische Lyrik</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 10</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="383" to="386"/>
                   <idno type="fn">WR-01-01-10_n0383.xml</idno>
                   <author ref="#wr-person-0051">Szczepanski, Ludwig</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0123">
+                  <title level="a">Der Läufer</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 10</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="386" to="386"/>
+                  <idno type="fn">WR-01-01-10_n0386.xml</idno>
+                  <author ref="#wr-person-0052">Stern, Maurice von</author>
                </bibl>
             </listBibl>
          </sourceDesc>

@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0382">
+                  <title level="a">Aus Leipzig </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 9</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="09">9</biblScope>
+                  <biblScope unit="page" from="347" to="350"/>
+                  <idno type="fn">WR-02-01-09_n0347.xml</idno>
+                  <author ref="#wr-person-0144">Wolff, Ludwig</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0383">
                   <title level="a">Ibsen</title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 9</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="351" to="352"/>
                   <idno type="fn">WR-02-01-09_n0351.xml</idno>
                   <author ref="#wr-person-0007">Schik, F.</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0384">
+                  <title level="a">»Ohne alle Opportunitäten« </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 9</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="09">9</biblScope>
+                  <biblScope unit="page" from="353" to="356"/>
+                  <idno type="fn">WR-02-01-09_n0353.xml</idno>
+                  <author ref="#wr-person-0145">Egidy, M. von</author>
                </bibl>
             </listBibl>
          </sourceDesc>

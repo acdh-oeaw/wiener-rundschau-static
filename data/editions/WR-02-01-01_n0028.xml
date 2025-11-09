@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0305">
+                  <title level="a">Mittagstraum der Wandernden </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="27" to="27"/>
+                  <idno type="fn">WR-02-01-01_n0027.xml</idno>
+                  <author ref="#wr-person-0119">Schmitz, Oskar A. H.</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0306">
                   <title level="a">Zur Charakteristik der japanischen Kunst</title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 1</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="28" to="30"/>
                   <idno type="fn">WR-02-01-01_n0028.xml</idno>
                   <author ref="#wr-person-0120">Brosch, Leopold</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0307">
+                  <title level="a">Die »Jugend« — und kein Ende </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="31" to="35"/>
+                  <idno type="fn">WR-02-01-01_n0031.xml</idno>
+                  <author ref="#wr-person-0028">Wilhelm, Paul</author>
                </bibl>
             </listBibl>
          </sourceDesc>

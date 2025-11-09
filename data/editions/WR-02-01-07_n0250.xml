@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0354">
+                  <title level="a">Moriz von Egidy</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 6</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="06">6</biblScope>
+                  <biblScope unit="page" from="239" to="239"/>
+                  <idno type="fn">WR-02-01-06_n0239.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0355">
                   <title level="a">Der Bär </title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 7</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="241" to="253"/>
                   <idno type="fn">WR-02-01-07_n0241.xml</idno>
                   <author ref="#wr-person-0135">Tschechow, Anton</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0356">
+                  <title level="a">Im Garten</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 7</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="254" to="254"/>
+                  <idno type="fn">WR-02-01-07_n0254.xml</idno>
+                  <author ref="#wr-person-0126">Holitscher, Arthur</author>
                </bibl>
             </listBibl>
          </sourceDesc>

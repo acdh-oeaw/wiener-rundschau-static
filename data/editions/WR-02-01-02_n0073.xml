@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0315">
+                  <title level="a">Randglossen über London </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="66" to="71"/>
+                  <idno type="fn">WR-02-01-02_n0066.xml</idno>
+                  <author ref="#wr-person-0118">Daudet, Madame Alphonse</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0316">
                   <title level="a">Richard Wagners »Meistersinger von Nürnberg« in Paris </title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 2</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="72" to="75"/>
                   <idno type="fn">WR-02-01-02_n0072.xml</idno>
                   <author ref="#wr-person-0122">Schoenaich, Gustav</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0317">
+                  <title level="a">Das politische Wien</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="76" to="77"/>
+                  <idno type="fn">WR-02-01-02_n0076.xml</idno>
+                  <author ref="#wr-person-0007">Schik, F.</author>
                </bibl>
             </listBibl>
          </sourceDesc>

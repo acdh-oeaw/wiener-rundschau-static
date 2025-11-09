@@ -36,7 +36,37 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0029">
+                  <title level="a">Zu den Sternen</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="99" to="101"/>
+                  <idno type="fn">WR-01-01-03_n0099.xml</idno>
+                  <author ref="#wr-person-0010">Ssologub, Fjodor</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0030">
+                  <title level="a">Wiener Walzer</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="102" to="103"/>
+                  <idno type="fn">WR-01-01-03_n0102.xml</idno>
+                  <author ref="#wr-person-0018">Dehmel, Richard</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0031">
+                  <title level="a">Das innere Schweigen</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="103" to="103"/>
+                  <idno type="fn">WR-01-01-03_n0103.xml</idno>
+                  <author ref="#wr-person-0019">Christomanos, Constantin</author>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0030">
                   <title level="a">Wiener Walzer</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 3</title>
                   <biblScope unit="volume" n="01">1</biblScope>
@@ -55,6 +85,16 @@
                   <biblScope unit="page" from="103" to="103"/>
                   <idno type="fn">WR-01-01-03_n0103.xml</idno>
                   <author ref="#wr-person-0019">Christomanos, Constantin</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0032">
+                  <title level="a">Eine Rettung</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="104" to="108"/>
+                  <idno type="fn">WR-01-01-03_n0104.xml</idno>
+                  <author ref="#wr-person-0020">Elbogen, Friedrich</author>
                </bibl>
             </listBibl>
          </sourceDesc>

@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0116">
+                  <title level="a">Louys, »Aphrodite«</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 9</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="09">9</biblScope>
+                  <biblScope unit="page" from="360" to="360"/>
+                  <idno type="fn">WR-01-01-09_n0360.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0117">
                   <title level="a">Charfreitags-Zauber</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 10</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="361" to="364"/>
                   <idno type="fn">WR-01-01-10_n0361.xml</idno>
                   <author ref="#wr-person-0049">Fuchs, Georg</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0118">
+                  <title level="a">Herbst</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 10</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="365" to="365"/>
+                  <idno type="fn">WR-01-01-10_n0365.xml</idno>
+                  <author ref="#wr-person-0006">Verlaine, Paul</author>
                </bibl>
             </listBibl>
          </sourceDesc>

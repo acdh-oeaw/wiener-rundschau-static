@@ -36,7 +36,37 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0168">
+                  <title level="a">Der Gegenwartsschauspieler</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 13</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="511" to="515"/>
+                  <idno type="fn">WR-01-02-13_n0511.xml</idno>
+                  <author ref="#wr-person-0008">Kraus, Karl</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0169">
+                  <title level="a">Theater an der Wien</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 13</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="516" to="517"/>
+                  <idno type="fn">WR-01-02-13_n0516.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0170">
+                  <title level="a">Langmann, »Barthel Turaser«</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 13</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="517" to="518"/>
+                  <idno type="fn">WR-01-02-13_n0517.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0169">
                   <title level="a">Theater an der Wien</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 13</title>
                   <biblScope unit="volume" n="01">1</biblScope>
@@ -56,6 +86,26 @@
                   <idno type="fn">WR-01-02-13_n0517.xml</idno>
                   <author ref="#nan"/>
                </bibl>
+               <bibl n="next text" corresp="#wr-text-0171">
+                  <title level="a">Raimund-Theater</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 13</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="517" to="517"/>
+                  <idno type="fn">WR-01-02-13_n0517.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0170">
+                  <title level="a">Langmann, »Barthel Turaser«</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 13</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="517" to="518"/>
+                  <idno type="fn">WR-01-02-13_n0517.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0171">
                   <title level="a">Raimund-Theater</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 13</title>
@@ -64,6 +114,16 @@
                   <biblScope unit="issue" n="13">13</biblScope>
                   <biblScope unit="page" from="517" to="517"/>
                   <idno type="fn">WR-01-02-13_n0517.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0172">
+                  <title level="a">»Horatius travestitus«</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 13</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="518" to="519"/>
+                  <idno type="fn">WR-01-02-13_n0518.xml</idno>
                   <author ref="#nan"/>
                </bibl>
             </listBibl>

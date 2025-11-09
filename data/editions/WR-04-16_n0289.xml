@@ -35,6 +35,15 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0932">
+                  <title level="a">Die internationale Kunst in Paris I.</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 16</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="16">16</biblScope>
+                  <biblScope unit="page" from="285" to="288"/>
+                  <idno type="fn">WR-04-16_n0285.xml</idno>
+                  <author ref="#wr-person-0203">Gourmont, Remy de</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0933">
                   <title level="a">Materielle Stellung der deutschen Dichter und Schriftsteller*</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 16</title>
@@ -43,6 +52,15 @@
                   <biblScope unit="page" from="289" to="290"/>
                   <idno type="fn">WR-04-16_n0289.xml</idno>
                   <author ref="#nan"/>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0934">
+                  <title level="a">Sigbjörn Obstfelder*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 16</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="16">16</biblScope>
+                  <biblScope unit="page" from="290" to="290"/>
+                  <idno type="fn">WR-04-16_n0290.xml</idno>
+                  <author ref="#wr-person-0206">Lindner, Anton</author>
                </bibl>
             </listBibl>
          </sourceDesc>

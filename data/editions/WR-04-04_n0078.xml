@@ -35,6 +35,15 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0810">
+                  <title level="a">»The Studio«</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 3</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="75" to="76"/>
+                  <idno type="fn">WR-04-03_n0075.xml</idno>
+                  <author ref="#wr-person-0266">Sch., W.</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0811">
                   <title level="a">Augen</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 4</title>
@@ -43,6 +52,15 @@
                   <biblScope unit="page" from="77" to="78"/>
                   <idno type="fn">WR-04-04_n0077.xml</idno>
                   <author ref="#wr-person-0267">d’Aurevilly, Barbey</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0812">
+                  <title level="a">Das System des Védanta</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 4</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="79" to="83"/>
+                  <idno type="fn">WR-04-04_n0079.xml</idno>
+                  <author ref="#wr-person-0268">Spreti, Adolf Graf von</author>
                </bibl>
             </listBibl>
          </sourceDesc>

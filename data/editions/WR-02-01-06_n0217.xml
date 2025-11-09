@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0343">
+                  <title level="a">Künstlerherzen </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 6</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="06">6</biblScope>
+                  <biblScope unit="page" from="211" to="215"/>
+                  <idno type="fn">WR-02-01-06_n0211.xml</idno>
+                  <author ref="#wr-person-0127">Drachmann, Holger</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0344">
                   <title level="a">Th. M. Dostojewsky über Strafprocesse</title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 6</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="216" to="223"/>
                   <idno type="fn">WR-02-01-06_n0216.xml</idno>
                   <author ref="#wr-person-0128">Hoffmann, Nina</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0345">
+                  <title level="a">Ein Märtyrer der Literatur</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 6</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="06">6</biblScope>
+                  <biblScope unit="page" from="224" to="229"/>
+                  <idno type="fn">WR-02-01-06_n0224.xml</idno>
+                  <author ref="#wr-person-0132">Steinbach, Josef</author>
                </bibl>
             </listBibl>
          </sourceDesc>

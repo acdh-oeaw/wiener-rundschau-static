@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0710">
+                  <title level="a">Zur Psychologie des Betens</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 19</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="19">19</biblScope>
+                  <biblScope unit="page" from="446" to="449"/>
+                  <idno type="fn">WR-03-02-19_n0446.xml</idno>
+                  <author ref="#wr-person-0175">Strindberg, August</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0711">
                   <title level="a">Von der Frauen Scham und Freiheit</title>
                   <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 19</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="450" to="452"/>
                   <idno type="fn">WR-03-02-19_n0450.xml</idno>
                   <author ref="#wr-person-0146">Berg, Leo</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0712">
+                  <title level="a">Isländische Cultur und Literatur der Gegenwart</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 19</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="19">19</biblScope>
+                  <biblScope unit="page" from="452" to="458"/>
+                  <idno type="fn">WR-03-02-19_n0452.xml</idno>
+                  <author ref="#wr-person-0239">Poestion, Josef Calasanz</author>
                </bibl>
             </listBibl>
          </sourceDesc>

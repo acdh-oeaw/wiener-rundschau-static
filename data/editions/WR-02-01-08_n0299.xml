@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0368">
+                  <title level="a">Feldwärts</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 8</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="292" to="292"/>
+                  <idno type="fn">WR-02-01-08_n0292.xml</idno>
+                  <author ref="#wr-person-0067">Bodman, Emanuel von</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0369">
                   <title level="a">Künstlerherzen </title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 8</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="293" to="302"/>
                   <idno type="fn">WR-02-01-08_n0293.xml</idno>
                   <author ref="#wr-person-0127">Drachmann, Holger</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0370">
+                  <title level="a">Lebensmusik </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 8</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="303" to="306"/>
+                  <idno type="fn">WR-02-01-08_n0303.xml</idno>
+                  <author ref="#wr-person-0138">Wille, Bruno</author>
                </bibl>
             </listBibl>
          </sourceDesc>

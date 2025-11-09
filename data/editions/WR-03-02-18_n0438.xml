@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0707">
+                  <title level="a">Zur Kunst des Hintergrundes</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 18</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="18">18</biblScope>
+                  <biblScope unit="page" from="435" to="437"/>
+                  <idno type="fn">WR-03-02-18_n0435.xml</idno>
+                  <author ref="#wr-person-0237">Moeller-Bruck, Arthur</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0708">
                   <title level="a">Die Friedensconferenz</title>
                   <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 18</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="438" to="440"/>
                   <idno type="fn">WR-03-02-18_n0438.xml</idno>
                   <author ref="#wr-person-0238">Tolstoi, Leo Graf</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0709">
+                  <title level="a">Dichtungen nach Baudelaire</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 19</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="19">19</biblScope>
+                  <biblScope unit="page" from="441" to="445"/>
+                  <idno type="fn">WR-03-02-19_n0441.xml</idno>
+                  <author ref="#wr-person-0176">George, Stefan</author>
                </bibl>
             </listBibl>
          </sourceDesc>

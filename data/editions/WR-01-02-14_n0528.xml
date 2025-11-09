@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0175">
+                  <title level="a">Blanche</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 14</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="14">14</biblScope>
+                  <biblScope unit="page" from="526" to="526"/>
+                  <idno type="fn">WR-01-02-14_n0526.xml</idno>
+                  <author ref="#wr-person-0071">Schmitz, Oscar A. H.</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0176">
                   <title level="a">Sonnenuntergang</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 14</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="527" to="529"/>
                   <idno type="fn">WR-01-02-14_n0527.xml</idno>
                   <author ref="#wr-person-0072">Schaeffer, Emil</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0177">
+                  <title level="a">Drei Cartons von Sascha Schneider</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 14</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="14">14</biblScope>
+                  <biblScope unit="page" from="530" to="531"/>
+                  <idno type="fn">WR-01-02-14_n0530.xml</idno>
+                  <author ref="#wr-person-0073">Basedow, Hans von</author>
                </bibl>
             </listBibl>
          </sourceDesc>

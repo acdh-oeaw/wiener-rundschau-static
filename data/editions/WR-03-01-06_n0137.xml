@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0582">
+                  <title level="a">Unsere Zeitungen</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 6</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="06">6</biblScope>
+                  <biblScope unit="page" from="132" to="136"/>
+                  <idno type="fn">WR-03-01-06_n0132.xml</idno>
+                  <author ref="#wr-person-0191">Heidenstam, Verner von</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0583">
                   <title level="a">Karl Hallwachs</title>
                   <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 6</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="137" to="140"/>
                   <idno type="fn">WR-03-01-06_n0137.xml</idno>
                   <author ref="#wr-person-0049">Fuchs, Georg</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0584">
+                  <title level="a">Bei Strindbergin Lund</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 6</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="06">6</biblScope>
+                  <biblScope unit="page" from="140" to="143"/>
+                  <idno type="fn">WR-03-01-06_n0140.xml</idno>
+                  <author ref="#wr-person-0192">Uddgren, Gustaf</author>
                </bibl>
             </listBibl>
          </sourceDesc>

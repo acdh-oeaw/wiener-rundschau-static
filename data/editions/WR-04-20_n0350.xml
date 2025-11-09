@@ -35,6 +35,15 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0956">
+                  <title level="a">Aus der Ballade des Stockhauses zu Reading</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 20</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="20">20</biblScope>
+                  <biblScope unit="page" from="345" to="349"/>
+                  <idno type="fn">WR-04-20_n0345.xml</idno>
+                  <author ref="#wr-person-0068">Wilde, Oscar</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0957">
                   <title level="a">Sigbjörn Obstfelder</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 20</title>
@@ -43,6 +52,15 @@
                   <biblScope unit="page" from="349" to="352"/>
                   <idno type="fn">WR-04-20_n0349.xml</idno>
                   <author ref="#wr-person-0306">Heiberg, Gunnar</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0958">
+                  <title level="a">Die Wahrheit über Friedrich Nietzsche</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 20</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="20">20</biblScope>
+                  <biblScope unit="page" from="353" to="359"/>
+                  <idno type="fn">WR-04-20_n0353.xml</idno>
+                  <author ref="#wr-person-0307">Deussen, Paul, Prof.</author>
                </bibl>
             </listBibl>
          </sourceDesc>

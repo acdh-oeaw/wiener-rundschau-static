@@ -36,7 +36,37 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0228">
+                  <title level="a">Severine</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 18</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="18">18</biblScope>
+                  <biblScope unit="page" from="677" to="682"/>
+                  <idno type="fn">WR-01-02-18_n0677.xml</idno>
+                  <author ref="#wr-person-0090">Neera, Tante</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0229">
+                  <title level="a">Die Goncourts und der Kunstgedanke</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 18</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="18">18</biblScope>
+                  <biblScope unit="page" from="683" to="695"/>
+                  <idno type="fn">WR-01-02-18_n0683.xml</idno>
+                  <author ref="#wr-person-0091">Gaultier, Jules de</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0230">
+                  <title level="a">Die Menschen</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 18</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="18">18</biblScope>
+                  <biblScope unit="page" from="695" to="695"/>
+                  <idno type="fn">WR-01-02-18_n0695.xml</idno>
+                  <author ref="#wr-person-0067">Bodman, Emanuel von</author>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0229">
                   <title level="a">Die Goncourts und der Kunstgedanke</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 18</title>
                   <biblScope unit="volume" n="01">1</biblScope>
@@ -55,6 +85,16 @@
                   <biblScope unit="page" from="695" to="695"/>
                   <idno type="fn">WR-01-02-18_n0695.xml</idno>
                   <author ref="#wr-person-0067">Bodman, Emanuel von</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0231">
+                  <title level="a">Eine Berliner Theatersaison</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 18</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="18">18</biblScope>
+                  <biblScope unit="page" from="696" to="702"/>
+                  <idno type="fn">WR-01-02-18_n0696.xml</idno>
+                  <author ref="#wr-person-0092">Engel, Fritz</author>
                </bibl>
             </listBibl>
          </sourceDesc>

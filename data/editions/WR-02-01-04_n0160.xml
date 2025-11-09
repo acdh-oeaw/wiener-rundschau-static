@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0336">
+                  <title level="a">Przybyszewski, »Über Bord«</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 4</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="159" to="159"/>
+                  <idno type="fn">WR-02-01-04_n0159.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0337">
                   <title level="a">Fischer &amp; Franke, »Bibliothek für Bücherliebhaber«,</title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 4</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="159" to="160"/>
                   <idno type="fn">WR-02-01-04_n0159.xml</idno>
                   <author ref="#nan"/>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0338">
+                  <title level="a">Künstlerherzen </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 5</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="161" to="170"/>
+                  <idno type="fn">WR-02-01-05_n0161.xml</idno>
+                  <author ref="#wr-person-0127">Drachmann, Holger</author>
                </bibl>
             </listBibl>
          </sourceDesc>

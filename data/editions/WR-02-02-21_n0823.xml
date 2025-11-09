@@ -36,7 +36,37 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0500">
+                  <title level="a">Berliner Theaterbrief</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 21</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="819" to="822"/>
+                  <idno type="fn">WR-02-02-21_n0819.xml</idno>
+                  <author ref="#wr-person-0146">Berg, Leo</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0501">
+                  <title level="a">Stéphane Mallarmé</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 21</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="823" to="824"/>
+                  <idno type="fn">WR-02-02-21_n0823.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0502">
+                  <title level="a">Politik</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 21</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="823" to="823"/>
+                  <idno type="fn">WR-02-02-21_n0823.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0501">
                   <title level="a">Stéphane Mallarmé</title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 21</title>
                   <biblScope unit="volume" n="02">2</biblScope>
@@ -54,6 +84,16 @@
                   <biblScope unit="issue" n="21">21</biblScope>
                   <biblScope unit="page" from="823" to="823"/>
                   <idno type="fn">WR-02-02-21_n0823.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0503">
+                  <title level="a">Maeterlinck, »La sagesse et la destinée«</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 21</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="824" to="824"/>
+                  <idno type="fn">WR-02-02-21_n0824.xml</idno>
                   <author ref="#nan"/>
                </bibl>
             </listBibl>

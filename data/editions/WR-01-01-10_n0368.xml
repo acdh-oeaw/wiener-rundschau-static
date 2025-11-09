@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0118">
+                  <title level="a">Herbst</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 10</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="365" to="365"/>
+                  <idno type="fn">WR-01-01-10_n0365.xml</idno>
+                  <author ref="#wr-person-0006">Verlaine, Paul</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0119">
                   <title level="a">Santa Caterina di Siena</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 10</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="366" to="375"/>
                   <idno type="fn">WR-01-01-10_n0366.xml</idno>
                   <author ref="#wr-person-0050">Lagerlöf, Selma</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0120">
+                  <title level="a">Uebergänge</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 10</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="376" to="376"/>
+                  <idno type="fn">WR-01-01-10_n0376.xml</idno>
+                  <author ref="#wr-person-0005">Rappaport, Felix</author>
                </bibl>
             </listBibl>
          </sourceDesc>

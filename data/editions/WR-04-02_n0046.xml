@@ -35,6 +35,15 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0798">
+                  <title level="a">W. G. van Nouhuys: »Egidius und der Fremde«</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 2</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="42" to="45"/>
+                  <idno type="fn">WR-04-02_n0042.xml</idno>
+                  <author ref="#wr-person-0059">Jacobsen, R.</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0799">
                   <title level="a">Ein Quartett in Rom</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 2</title>
@@ -43,6 +52,15 @@
                   <biblScope unit="page" from="45" to="47"/>
                   <idno type="fn">WR-04-02_n0045.xml</idno>
                   <author ref="#wr-person-0219">Kolb, Annette</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0800">
+                  <title level="a">Der Mensch im Futteral</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 2</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="47" to="50"/>
+                  <idno type="fn">WR-04-02_n0047.xml</idno>
+                  <author ref="#wr-person-0064">Tschechoff, Anton</author>
                </bibl>
             </listBibl>
          </sourceDesc>

@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0324">
+                  <title level="a">Joris Carl Huysmans</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="103" to="107"/>
+                  <idno type="fn">WR-02-01-03_n0103.xml</idno>
+                  <author ref="#wr-person-0084">Benzmann, Hans</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0325">
                   <title level="a">Österreichische Logik</title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 3</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="116" to="116"/>
                   <idno type="fn">WR-02-01-03_n0116.xml</idno>
                   <author ref="#wr-person-0007">Schik, F.</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0326">
+                  <title level="a">Deutsches Volkstheater </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="117" to="117"/>
+                  <idno type="fn">WR-02-01-03_n0117.xml</idno>
+                  <author ref="#nan"/>
                </bibl>
             </listBibl>
          </sourceDesc>

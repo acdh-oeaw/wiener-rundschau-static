@@ -35,6 +35,15 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0840">
+                  <title level="a">Der Garten</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 7</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="149" to="152"/>
+                  <idno type="fn">WR-04-07_n0149.xml</idno>
+                  <author ref="#wr-person-0279">Ysaey, L.</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0841">
                   <title level="a">Flandrische Lieder</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 7</title>
@@ -43,6 +52,15 @@
                   <biblScope unit="page" from="153" to="154"/>
                   <idno type="fn">WR-04-07_n0153.xml</idno>
                   <author ref="#wr-person-0280">Lemonnier, Camille</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0842">
+                  <title level="a">Unser Leben und Tod II.</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 7</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="154" to="158"/>
+                  <idno type="fn">WR-04-07_n0154.xml</idno>
+                  <author ref="#wr-person-0276">Buttenstedt, Carl</author>
                </bibl>
             </listBibl>
          </sourceDesc>

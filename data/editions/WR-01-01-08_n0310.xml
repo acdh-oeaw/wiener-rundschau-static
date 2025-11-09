@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0095">
+                  <title level="a">Das nächste Conclave</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 8</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="305" to="309"/>
+                  <idno type="fn">WR-01-01-08_n0305.xml</idno>
+                  <author ref="#wr-person-0043">Fiamingo, Giuseppe</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0096">
                   <title level="a">Die Somnambulen als Lehrer</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 8</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="310" to="314"/>
                   <idno type="fn">WR-01-01-08_n0310.xml</idno>
                   <author ref="#wr-person-0037">Prel, Dr. Carl du</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0097">
+                  <title level="a">Chronik</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 8</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="315" to="316"/>
+                  <idno type="fn">WR-01-01-08_n0315.xml</idno>
+                  <author ref="#wr-person-0008">Kraus, Karl</author>
                </bibl>
             </listBibl>
          </sourceDesc>

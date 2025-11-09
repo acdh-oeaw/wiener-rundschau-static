@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0172">
+                  <title level="a">»Horatius travestitus«</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 13</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="518" to="519"/>
+                  <idno type="fn">WR-01-02-13_n0518.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0173">
                   <title level="a">Szczepanski,»Srebrne noce«</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 13</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="519" to="520"/>
                   <idno type="fn">WR-01-02-13_n0519.xml</idno>
                   <author ref="#nan"/>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0174">
+                  <title level="a">Bekenntnisse</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 14</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="14">14</biblScope>
+                  <biblScope unit="page" from="521" to="525"/>
+                  <idno type="fn">WR-01-02-14_n0521.xml</idno>
+                  <author ref="#wr-person-0070">Nansen, Peter</author>
                </bibl>
             </listBibl>
          </sourceDesc>

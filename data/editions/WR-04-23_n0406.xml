@@ -35,7 +35,34 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0976">
+                  <title level="a">Gedanken über ein Drama Björnsons</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 23</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="401" to="404"/>
+                  <idno type="fn">WR-04-23_n0401.xml</idno>
+                  <author ref="#wr-person-0314">Gumppenberg, E. Freiin von</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0977">
+                  <title level="a">Der Student</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 23</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="404" to="406"/>
+                  <idno type="fn">WR-04-23_n0404.xml</idno>
+                  <author ref="#wr-person-0064">Tschechoff, Anton</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0978">
+                  <title level="a">Multatuli</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 23</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="406" to="411"/>
+                  <idno type="fn">WR-04-23_n0406.xml</idno>
+                  <author ref="#wr-person-0190">Schlaf, Johannes</author>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0977">
                   <title level="a">Der Student</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 23</title>
                   <biblScope unit="volume" n="04">4</biblScope>
@@ -52,6 +79,15 @@
                   <biblScope unit="page" from="406" to="411"/>
                   <idno type="fn">WR-04-23_n0406.xml</idno>
                   <author ref="#wr-person-0190">Schlaf, Johannes</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0979">
+                  <title level="a">Der Abbé Galiani</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 23</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="411" to="415"/>
+                  <idno type="fn">WR-04-23_n0411.xml</idno>
+                  <author ref="#wr-person-0294">Kassner, Rudolf</author>
                </bibl>
             </listBibl>
          </sourceDesc>

@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0101">
+                  <title level="a">Morgenstern, »In Phanta’s Schloss«</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 8</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="319" to="319"/>
+                  <idno type="fn">WR-01-01-08_n0319.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0102">
                   <title level="a">Wrede, »Vom Baum des Lebens«</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 8</title>
@@ -43,6 +53,16 @@
                   <biblScope unit="halbband" n="01">1</biblScope>
                   <biblScope unit="issue" n="08">8</biblScope>
                   <biblScope unit="page" from="319" to="320"/>
+                  <idno type="fn">WR-01-01-08_n0319.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0103">
+                  <title level="a">Rilke, »Traumgekrönt«</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 8</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="319" to="319"/>
                   <idno type="fn">WR-01-01-08_n0319.xml</idno>
                   <author ref="#nan"/>
                </bibl>

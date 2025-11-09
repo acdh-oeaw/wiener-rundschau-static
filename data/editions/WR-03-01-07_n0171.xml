@@ -36,7 +36,37 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0595">
+                  <title level="a">Selbstbiographie</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 7</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="167" to="168"/>
+                  <idno type="fn">WR-03-01-07_n0167.xml</idno>
+                  <author ref="#wr-person-0004">Altenberg, Peter</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0596">
+                  <title level="a">Ein deutsches Drama</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 7</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="168" to="171"/>
+                  <idno type="fn">WR-03-01-07_n0168.xml</idno>
+                  <author ref="#wr-person-0071">Schmitz, Oscar A. H.</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0597">
+                  <title level="a">Über die Forderung von sogenannten Gedanken in der Dichtung</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 7</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="171" to="173"/>
+                  <idno type="fn">WR-03-01-07_n0171.xml</idno>
+                  <author ref="#wr-person-0198">Schaukal, Dr. Richard</author>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0596">
                   <title level="a">Ein deutsches Drama</title>
                   <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 7</title>
                   <biblScope unit="volume" n="03">3</biblScope>
@@ -55,6 +85,16 @@
                   <biblScope unit="page" from="171" to="173"/>
                   <idno type="fn">WR-03-01-07_n0171.xml</idno>
                   <author ref="#wr-person-0198">Schaukal, Dr. Richard</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0598">
+                  <title level="a">Brahms-Probleme</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 7</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="173" to="175"/>
+                  <idno type="fn">WR-03-01-07_n0173.xml</idno>
+                  <author ref="#wr-person-0166">Graf, Dr. Max</author>
                </bibl>
             </listBibl>
          </sourceDesc>

@@ -35,6 +35,15 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0800">
+                  <title level="a">Der Mensch im Futteral</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 2</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="47" to="50"/>
+                  <idno type="fn">WR-04-02_n0047.xml</idno>
+                  <author ref="#wr-person-0064">Tschechoff, Anton</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0801">
                   <title level="a">Carl Pawlowitsch Brjulów*</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 2</title>
@@ -43,6 +52,15 @@
                   <biblScope unit="page" from="51" to="51"/>
                   <idno type="fn">WR-04-02_n0051.xml</idno>
                   <author ref="#wr-person-0265">Ephron, Jefim</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0802">
+                  <title level="a">Walter Crane*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 2</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="52" to="52"/>
+                  <idno type="fn">WR-04-02_n0052.xml</idno>
+                  <author ref="#wr-person-0206">Lindner, Anton</author>
                </bibl>
             </listBibl>
          </sourceDesc>

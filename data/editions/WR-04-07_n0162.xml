@@ -35,7 +35,34 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0842">
+                  <title level="a">Unser Leben und Tod II.</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 7</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="154" to="158"/>
+                  <idno type="fn">WR-04-07_n0154.xml</idno>
+                  <author ref="#wr-person-0276">Buttenstedt, Carl</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0843">
+                  <title level="a">Das Princip der Geschlechter</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 7</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="158" to="162"/>
+                  <idno type="fn">WR-04-07_n0158.xml</idno>
+                  <author ref="#wr-person-0183">Hartmann, Franz</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0844">
+                  <title level="a">Classicität und Germanismus</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 7</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="162" to="166"/>
+                  <idno type="fn">WR-04-07_n0162.xml</idno>
+                  <author ref="#wr-person-0211">Chamberlain, Houston Stewart</author>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0843">
                   <title level="a">Das Princip der Geschlechter</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 7</title>
                   <biblScope unit="volume" n="04">4</biblScope>
@@ -52,6 +79,15 @@
                   <biblScope unit="page" from="162" to="166"/>
                   <idno type="fn">WR-04-07_n0162.xml</idno>
                   <author ref="#wr-person-0211">Chamberlain, Houston Stewart</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0845">
+                  <title level="a">Jan Toorop</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 7</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="172" to="173"/>
+                  <idno type="fn">WR-04-07_n0172.xml</idno>
+                  <author ref="#wr-person-0206">Lindner, Anton</author>
                </bibl>
             </listBibl>
          </sourceDesc>

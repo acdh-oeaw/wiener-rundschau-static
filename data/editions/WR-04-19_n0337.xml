@@ -35,6 +35,15 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0950">
+                  <title level="a">Arthur Rimbaud</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 19</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="19">19</biblScope>
+                  <biblScope unit="page" from="332" to="336"/>
+                  <idno type="fn">WR-04-19_n0332.xml</idno>
+                  <author ref="#wr-person-0025">Panizza, Oscar</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0951">
                   <title level="a">Über den Sinn des Lebens</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 19</title>
@@ -43,6 +52,15 @@
                   <biblScope unit="page" from="337" to="338"/>
                   <idno type="fn">WR-04-19_n0337.xml</idno>
                   <author ref="#wr-person-0301">Tolstoi, Leo</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0952">
+                  <title level="a">Zur Physiologie des Geschmacks</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 19</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="19">19</biblScope>
+                  <biblScope unit="page" from="338" to="340"/>
+                  <idno type="fn">WR-04-19_n0338.xml</idno>
+                  <author ref="#wr-person-0175">Strindberg, August</author>
                </bibl>
             </listBibl>
          </sourceDesc>

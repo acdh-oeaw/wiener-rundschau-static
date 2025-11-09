@@ -35,7 +35,34 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0953">
+                  <title level="a">Das »Karma« in der Literatur</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 19</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="19">19</biblScope>
+                  <biblScope unit="page" from="341" to="343"/>
+                  <idno type="fn">WR-04-19_n0341.xml</idno>
+                  <author ref="#wr-person-0093">Bleibtreu, Carl</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0954">
+                  <title level="a">Baumgartner S. J.: Geschichte der Welt-Literatur*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 19</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="19">19</biblScope>
+                  <biblScope unit="page" from="343" to="344"/>
+                  <idno type="fn">WR-04-19_n0343.xml</idno>
+                  <author ref="#wr-person-0261">Graevell, Harald</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0955">
+                  <title level="a">Ein Abenteuer unter den Rosenkreuzern *</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 19</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="19">19</biblScope>
+                  <biblScope unit="page" from="344" to="344"/>
+                  <idno type="fn">WR-04-19_n0344.xml</idno>
+                  <author ref="#wr-person-0261">Graevell, Harald</author>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0954">
                   <title level="a">Baumgartner S. J.: Geschichte der Welt-Literatur*</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 19</title>
                   <biblScope unit="volume" n="04">4</biblScope>
@@ -52,6 +79,15 @@
                   <biblScope unit="page" from="344" to="344"/>
                   <idno type="fn">WR-04-19_n0344.xml</idno>
                   <author ref="#wr-person-0261">Graevell, Harald</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0956">
+                  <title level="a">Aus der Ballade des Stockhauses zu Reading</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 20</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="20">20</biblScope>
+                  <biblScope unit="page" from="345" to="349"/>
+                  <idno type="fn">WR-04-20_n0345.xml</idno>
+                  <author ref="#wr-person-0068">Wilde, Oscar</author>
                </bibl>
             </listBibl>
          </sourceDesc>

@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0631">
+                  <title level="a">Perosi: »La risurrezione di Lazzaro«; Anton Bruckner: 6.Symphonie</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 10</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="245" to="245"/>
+                  <idno type="fn">WR-03-01-10_n0245.xml</idno>
+                  <author ref="#wr-person-0166">Graf, Dr. Max</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0632">
                   <title level="a">Liszt: »Faust«-Symphonie</title>
                   <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 10</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="246" to="246"/>
                   <idno type="fn">WR-03-01-10_n0246.xml</idno>
                   <author ref="#wr-person-0166">Graf, Dr. Max</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0633">
+                  <title level="a">Raimund-Theater: »Maria Magdalena«</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 10</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="247" to="247"/>
+                  <idno type="fn">WR-03-01-10_n0247.xml</idno>
+                  <author ref="#nan"/>
                </bibl>
             </listBibl>
          </sourceDesc>

@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0297">
+                  <title level="a">Zwischen den Völkern</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 24</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="936" to="939"/>
+                  <idno type="fn">WR-01-02-24_n0936.xml</idno>
+                  <author ref="#wr-person-0089">Dix, Arthur</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0298">
                   <title level="a">Ein Kainz-Ensemble</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 24</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="940" to="942"/>
                   <idno type="fn">WR-01-02-24_n0940.xml</idno>
                   <author ref="#wr-person-0007">Schik, F.</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0299">
+                  <title level="a">Carltheater</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 24</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="944" to="944"/>
+                  <idno type="fn">WR-01-02-24_n0944.xml</idno>
+                  <author ref="#nan"/>
                </bibl>
             </listBibl>
          </sourceDesc>

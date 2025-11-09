@@ -36,7 +36,37 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0205">
+                  <title level="a">Haide</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 16</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="16">16</biblScope>
+                  <biblScope unit="page" from="607" to="607"/>
+                  <idno type="fn">WR-01-02-16_n0607.xml</idno>
+                  <author ref="#wr-person-0082">Manheimer, Victor</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0206">
+                  <title level="a">Ein Sonnenbad</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 16</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="16">16</biblScope>
+                  <biblScope unit="page" from="608" to="610"/>
+                  <idno type="fn">WR-01-02-16_n0608.xml</idno>
+                  <author ref="#wr-person-0083">Whitman, Walt</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0207">
+                  <title level="a">Die Eiche und ich</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 16</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="16">16</biblScope>
+                  <biblScope unit="page" from="610" to="611"/>
+                  <idno type="fn">WR-01-02-16_n0610.xml</idno>
+                  <author ref="#wr-person-0083">Whitman, Walt</author>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0206">
                   <title level="a">Ein Sonnenbad</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 16</title>
                   <biblScope unit="volume" n="01">1</biblScope>
@@ -55,6 +85,16 @@
                   <biblScope unit="page" from="610" to="611"/>
                   <idno type="fn">WR-01-02-16_n0610.xml</idno>
                   <author ref="#wr-person-0083">Whitman, Walt</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0208">
+                  <title level="a">Der Schwimmer</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 16</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="16">16</biblScope>
+                  <biblScope unit="page" from="611" to="611"/>
+                  <idno type="fn">WR-01-02-16_n0611.xml</idno>
+                  <author ref="#wr-person-0084">Benzmann, Hans</author>
                </bibl>
             </listBibl>
          </sourceDesc>

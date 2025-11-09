@@ -36,7 +36,37 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0526">
+                  <title level="a">Künstlerhaus</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 24</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="941" to="943"/>
+                  <idno type="fn">WR-02-02-24_n0941.xml</idno>
+                  <author ref="#wr-person-0161">Schölermann, Wilhelm</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0527">
+                  <title level="a">Burgtheater </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 24</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="944" to="944"/>
+                  <idno type="fn">WR-02-02-24_n0944.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0528">
+                  <title level="a">Deutsches Volkstheater </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 24</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="944" to="944"/>
+                  <idno type="fn">WR-02-02-24_n0944.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0527">
                   <title level="a">Burgtheater </title>
                   <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 24</title>
                   <biblScope unit="volume" n="02">2</biblScope>
@@ -55,6 +85,16 @@
                   <biblScope unit="page" from="944" to="944"/>
                   <idno type="fn">WR-02-02-24_n0944.xml</idno>
                   <author ref="#nan"/>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0529">
+                  <title level="a">Leitwort zum dritten Jahrgang</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="1" to="1"/>
+                  <idno type="fn">WR-03-01-01_n0001.xml</idno>
+                  <author ref="#wr-person-0170">Wiener Rundschau</author>
                </bibl>
             </listBibl>
          </sourceDesc>

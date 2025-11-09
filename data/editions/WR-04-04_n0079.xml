@@ -35,6 +35,15 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0811">
+                  <title level="a">Augen</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 4</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="77" to="78"/>
+                  <idno type="fn">WR-04-04_n0077.xml</idno>
+                  <author ref="#wr-person-0267">d’Aurevilly, Barbey</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0812">
                   <title level="a">Das System des Védanta</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 4</title>
@@ -43,6 +52,15 @@
                   <biblScope unit="page" from="79" to="83"/>
                   <idno type="fn">WR-04-04_n0079.xml</idno>
                   <author ref="#wr-person-0268">Spreti, Adolf Graf von</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0813">
+                  <title level="a">Lionardo da Vinci</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 4</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="84" to="87"/>
+                  <idno type="fn">WR-04-04_n0084.xml</idno>
+                  <author ref="#wr-person-0269">Sachs, Otto</author>
                </bibl>
             </listBibl>
          </sourceDesc>

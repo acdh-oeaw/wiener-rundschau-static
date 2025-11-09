@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0086">
+                  <title level="a">Verlaine, »Choix de Poésies«</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 7</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="280" to="280"/>
+                  <idno type="fn">WR-01-01-07_n0280.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0087">
                   <title level="a">Stummer Kampf</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 8</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="281" to="286"/>
                   <idno type="fn">WR-01-01-08_n0281.xml</idno>
                   <author ref="#wr-person-0016">Janitschek, Maria</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0088">
+                  <title level="a">An Friedrich Mitterwurzer</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 8</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="287" to="287"/>
+                  <idno type="fn">WR-01-01-08_n0287.xml</idno>
+                  <author ref="#wr-person-0038">Guglia, Eugen</author>
                </bibl>
             </listBibl>
          </sourceDesc>

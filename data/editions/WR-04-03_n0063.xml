@@ -35,6 +35,15 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0805">
+                  <title level="a">Der Mensch im Futteral (Forts. und Schluss)</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 3</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="58" to="62"/>
+                  <idno type="fn">WR-04-03_n0058.xml</idno>
+                  <author ref="#wr-person-0064">Tschechoff, Anton</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0806">
                   <title level="a">Die Theosophin Annie Besant</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 3</title>
@@ -43,6 +52,15 @@
                   <biblScope unit="page" from="63" to="66"/>
                   <idno type="fn">WR-04-03_n0063.xml</idno>
                   <author ref="#wr-person-0244">Thomassin, Carl von</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0807">
+                  <title level="a">Brief aus Paris</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 3</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="66" to="69"/>
+                  <idno type="fn">WR-04-03_n0066.xml</idno>
+                  <author ref="#wr-person-0203">Gourmont, Remy de</author>
                </bibl>
             </listBibl>
          </sourceDesc>

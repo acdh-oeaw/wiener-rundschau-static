@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0021">
+                  <title level="a">Peter Altenberg</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="73" to="77"/>
+                  <idno type="fn">WR-01-01-02_n0073.xml</idno>
+                  <author ref="#wr-person-0009">Schäffer, Emil</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0022">
                   <title level="a">Burgtheater</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 2</title>
@@ -44,6 +54,16 @@
                   <biblScope unit="issue" n="02">2</biblScope>
                   <biblScope unit="page" from="78" to="79"/>
                   <idno type="fn">WR-01-01-02_n0078.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0023">
+                  <title level="a">Hof-Operntheater</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="79" to="79"/>
+                  <idno type="fn">WR-01-01-02_n0079.xml</idno>
                   <author ref="#nan"/>
                </bibl>
             </listBibl>

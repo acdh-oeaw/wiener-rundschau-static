@@ -35,7 +35,34 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0941">
+                  <title level="a">Eekhoud, Georges*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 17</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="17">17</biblScope>
+                  <biblScope unit="page" from="308" to="308"/>
+                  <idno type="fn">WR-04-17_n0308.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0942">
+                  <title level="a">Die Ethik der Gobelins</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 18</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="18">18</biblScope>
+                  <biblScope unit="page" from="309" to="313"/>
+                  <idno type="fn">WR-04-18_n0309.xml</idno>
+                  <author ref="#wr-person-0294">Kassner, Rudolf</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0943">
+                  <title level="a">Zur Psychologie und Überwindung des Bohémiens III.</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 18</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="18">18</biblScope>
+                  <biblScope unit="page" from="313" to="316"/>
+                  <idno type="fn">WR-04-18_n0313.xml</idno>
+                  <author ref="#wr-person-0187">Mauclair, Camille</author>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0942">
                   <title level="a">Die Ethik der Gobelins</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 18</title>
                   <biblScope unit="volume" n="04">4</biblScope>
@@ -52,6 +79,15 @@
                   <biblScope unit="page" from="313" to="316"/>
                   <idno type="fn">WR-04-18_n0313.xml</idno>
                   <author ref="#wr-person-0187">Mauclair, Camille</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0944">
+                  <title level="a">Flandrische Lieder</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 18</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="18">18</biblScope>
+                  <biblScope unit="page" from="317" to="317"/>
+                  <idno type="fn">WR-04-18_n0317.xml</idno>
+                  <author ref="#wr-person-0280">Lemonnier, Camille</author>
                </bibl>
             </listBibl>
          </sourceDesc>

@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0213">
+                  <title level="a">Carl Wilhelm Diefenbach</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 16</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="16">16</biblScope>
+                  <biblScope unit="page" from="634" to="636"/>
+                  <idno type="fn">WR-01-02-16_n0634.xml</idno>
+                  <author ref="#wr-person-0028">Wilhelm, Paul</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0214">
                   <title level="a">Dahlmann, »Briefe eines jungen Deutschen«</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 16</title>
@@ -43,6 +53,26 @@
                   <biblScope unit="halbband" n="02">2</biblScope>
                   <biblScope unit="issue" n="16">16</biblScope>
                   <biblScope unit="page" from="637" to="638"/>
+                  <idno type="fn">WR-01-02-16_n0637.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0215">
+                  <title level="a">Pastor, »Wana«</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 16</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="16">16</biblScope>
+                  <biblScope unit="page" from="637" to="637"/>
+                  <idno type="fn">WR-01-02-16_n0637.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0215">
+                  <title level="a">Pastor, »Wana«</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 16</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="16">16</biblScope>
+                  <biblScope unit="page" from="637" to="637"/>
                   <idno type="fn">WR-01-02-16_n0637.xml</idno>
                   <author ref="#nan"/>
                </bibl>
@@ -54,6 +84,16 @@
                   <biblScope unit="issue" n="16">16</biblScope>
                   <biblScope unit="page" from="638" to="639"/>
                   <idno type="fn">WR-01-02-16_n0638.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0217">
+                  <title level="a">Siebenlist, »Gespenster der Erinnerung«</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 16</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="16">16</biblScope>
+                  <biblScope unit="page" from="639" to="639"/>
+                  <idno type="fn">WR-01-02-16_n0639.xml</idno>
                   <author ref="#nan"/>
                </bibl>
             </listBibl>

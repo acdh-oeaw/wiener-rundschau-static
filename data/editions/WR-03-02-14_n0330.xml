@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0678">
+                  <title level="a">Die Wahl</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 14</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="14">14</biblScope>
+                  <biblScope unit="page" from="325" to="327"/>
+                  <idno type="fn">WR-03-02-14_n0325.xml</idno>
+                  <author ref="#wr-person-0225">Rossetti, Dante Gabriel</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0679">
                   <title level="a">Empfindende Photographien</title>
                   <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 14</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="328" to="331"/>
                   <idno type="fn">WR-03-02-14_n0328.xml</idno>
                   <author ref="#wr-person-0226">Gessmann, Gustav W.</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0680">
+                  <title level="a">Pariser Brief</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 14</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="14">14</biblScope>
+                  <biblScope unit="page" from="331" to="334"/>
+                  <idno type="fn">WR-03-02-14_n0331.xml</idno>
+                  <author ref="#wr-person-0203">Gourmont, Remy de</author>
                </bibl>
             </listBibl>
          </sourceDesc>

@@ -35,6 +35,15 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0987">
+                  <title level="a">Marlowe, Grabbe und Lenz</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 24</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="429" to="432"/>
+                  <idno type="fn">WR-04-24_n0429.xml</idno>
+                  <author ref="#wr-person-0093">Bleibtreu, Carl</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0988">
                   <title level="a">Ahnungen und Lebenswellen</title>
                   <title level="j">Wiener Rundschau, Bd. 4, Nr. 24</title>
@@ -43,6 +52,15 @@
                   <biblScope unit="page" from="432" to="436"/>
                   <idno type="fn">WR-04-24_n0432.xml</idno>
                   <author ref="#wr-person-0308">Driesmans, Heinrich</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0989">
+                  <title level="a">Was am Wege liegt</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 24</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="436" to="439"/>
+                  <idno type="fn">WR-04-24_n0436.xml</idno>
+                  <author ref="#wr-person-0317">Vick, Carl</author>
                </bibl>
             </listBibl>
          </sourceDesc>

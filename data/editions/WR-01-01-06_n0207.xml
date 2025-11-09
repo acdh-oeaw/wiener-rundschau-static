@@ -36,7 +36,37 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0062">
+                  <title level="a">Eine Schauspielerin</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 6</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="06">6</biblScope>
+                  <biblScope unit="page" from="201" to="205"/>
+                  <idno type="fn">WR-01-01-06_n0201.xml</idno>
+                  <author ref="#wr-person-0026">Reuter, Gabriele</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0063">
+                  <title level="a">Die Entarteten</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 6</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="06">6</biblScope>
+                  <biblScope unit="page" from="206" to="207"/>
+                  <idno type="fn">WR-01-01-06_n0206.xml</idno>
+                  <author ref="#wr-person-0031">Saar, Ferdinand von</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0064">
+                  <title level="a">Leben</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 6</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="06">6</biblScope>
+                  <biblScope unit="page" from="207" to="207"/>
+                  <idno type="fn">WR-01-01-06_n0207.xml</idno>
+                  <author ref="#wr-person-0027">Schmitz, Oscar</author>
+               </bibl>
+               <bibl n="previous text" corresp="#wr-text-0063">
                   <title level="a">Die Entarteten</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 6</title>
                   <biblScope unit="volume" n="01">1</biblScope>
@@ -55,6 +85,16 @@
                   <biblScope unit="page" from="207" to="207"/>
                   <idno type="fn">WR-01-01-06_n0207.xml</idno>
                   <author ref="#wr-person-0027">Schmitz, Oscar</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0065">
+                  <title level="a">Der Bobók</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 6</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="06">6</biblScope>
+                  <biblScope unit="page" from="208" to="211"/>
+                  <idno type="fn">WR-01-01-06_n0208.xml</idno>
+                  <author ref="#wr-person-0021">Dostojewsky, F. M.</author>
                </bibl>
             </listBibl>
          </sourceDesc>

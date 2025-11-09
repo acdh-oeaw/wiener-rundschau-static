@@ -36,6 +36,16 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <bibl n="previous text" corresp="#wr-text-0025">
+                  <title level="a">Kind Gottes</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="81" to="87"/>
+                  <idno type="fn">WR-01-01-03_n0081.xml</idno>
+                  <author ref="#wr-person-0016">Janitschek, Maria</author>
+               </bibl>
                <bibl n="current text" corresp="#wr-text-0026">
                   <title level="a">Alladine und Palomides</title>
                   <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 3</title>
@@ -45,6 +55,16 @@
                   <biblScope unit="page" from="88" to="95"/>
                   <idno type="fn">WR-01-01-03_n0088.xml</idno>
                   <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+               <bibl n="next text" corresp="#wr-text-0027">
+                  <title level="a">Wunder</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="96" to="96"/>
+                  <idno type="fn">WR-01-01-03_n0096.xml</idno>
+                  <author ref="#wr-person-0017">Evers, Franz</author>
                </bibl>
             </listBibl>
          </sourceDesc>
