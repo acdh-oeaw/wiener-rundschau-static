@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-03_n0097.xml" prev="WR-02-01-03_n0096.xml" next="WR-02-01-03_n0098.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 3, S. 97</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0097"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-12-15">15 12 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0323">
+                  <title level="a">Die Suggestion bei Shakespeare </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="95" to="102"/>
+                  <idno type="fn">WR-02-01-03_n0095.xml</idno>
+                  <author ref="#wr-person-0124">Unger, Franz</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DIE SUGGESTION BEI SHAKESPEARE.</fw>
+               <fw type="pn">97</fw>
+            </fw>
+            <p>Er antwortet daher:</p>
+            <milestone unit="performance-start"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Edgar</hi>.</p>
+            <lg>
+               <l>Gib’ deinen Arm,</l>
+               <l>Tom wird dich führen.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <p>Die hier gemeinte Klippe ist ein nahe bei <hi rend="text-spaced">Dover</hi>, England<lb/>
+gegen das Meer abgrenzender Kreidefelsen, »<hi rend="text-spaced">Shakespeare</hi>-<hi rend="text-spaced">Cliff</hi>«<lb/>
+genannt. Nicht dorthin führt Edgar den Herzog, sondern in eine andere<lb/>
+ebene Gegend bei Dover.</p>
+            <p>Gleich beim Beginn der sechsten Scene, wenn die Beiden wieder<lb/>
+auf die Bühne kommen, nimmt die Suggestion ihren Anfang. Sie<lb/>
+schreiten auf ebenem Boden dahin, da sagt</p>
+            <milestone unit="performance-start"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Gloster</hi>.</p>
+            <lg>
+               <l>Wann kommen wir zum Gipfel jenes Felsens?</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Edgar</hi>.</p>
+            <lg>
+               <l>Ihr klimmt ihn jetzt empor; wie wir uns müh’n!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <p>
+               <hi rend="text-spaced">Gloster</hi> nimmt die Suggestion noch nicht an, denn er erwidert:</p>
+            <milestone unit="performance-start"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Gloster</hi>.</p>
+            <lg>
+               <l>Mich dünkt, der Grund ist eben.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Edgar</hi>.</p>
+            <lg>
+               <l>Schrecklich steil.</l>
+               <l>Horcht! Hört Ihr nicht die See?</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <p>Noch immer wirkt die Suggestion nicht. Herzog <hi rend="text-spaced">Gloster</hi>, der<lb/>
+früher keine Schwierigkeit im Gehen merken und damit auf keinen<lb/>
+beschwerlichen Aufstieg zu schliessen vermochte, horcht jetzt umsonst,<lb/>
+er vernimmt nichts von dem Rauschen der See. Er drückt das aus:</p>
+            <milestone unit="performance-start"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Gloster</hi>.</p>
+            <lg>
+               <l>Nein, wahrlich nicht.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <p>Jetzt aber führt Edgar den Hauptschlag aus. Er weiss, dass der<lb/>
+Greis in Folge des ausgestandenen und noch nachwirkenden Schmerzes<lb/>
+nur zu sehr geneigt ist, auch psychischen Gebrechen, wie eine Störung<lb/>
+des Wahrnehmungsvermögens an sich gelten zu lassen. Die ihm wider-<lb break="no"/>
+fahrene Verstümmelung ist ins Gefühlsleben tief eingreifend genug, um<lb/>
+etwaige Defecte der Sinnesorgane zu rechtfertigen. Darum acceptirt<lb/>
+               <hi rend="text-spaced">Gloster</hi> die Erklärung Edgars:</p>
+            <milestone unit="performance-start"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Edgar</hi>.</p>
+            <lg>
+               <l>— — So litten Eure ander’n Sinne Schaden</l>
+               <l>Durch Eurer Augen Schmerz.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <p>mit den Worten:</p>
+            <milestone unit="performance-start"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Gloster</hi>.</p>
+            <lg>
+               <l>So mag es wirklich sein.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <p>Was ihn aber nicht hindert, die Veränderung in des vermeint-<lb break="no"/>
+lichen Narren Wesen, der mit einem Male ganz vernünftig spricht,<lb/>
+überrascht gewahr zu werden, und zur Sprache zu bringen.</p>
+            <milestone unit="performance-start"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Gloster</hi> (im Anschluss an Obiges).</p>
+            <lg>
+               <l>Geändert dünkt mich deine Stimm’, du sprichst</l>
+               <l>In Form und Inhalt besser als zuvor.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

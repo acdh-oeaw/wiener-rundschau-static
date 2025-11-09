@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-12_n0471.xml" prev="WR-02-01-12_n0470.xml" next="WR-02-01-12_n0472.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 12, S. 471</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="12"/>
+                        <biblScope unit="page" n="n0471"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-05-01">1 5 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0418">
+                  <title level="a">Wiener Kunstfrühling </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 12</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="471" to="475"/>
+                  <idno type="fn">WR-02-01-12_n0471.xml</idno>
+                  <author ref="#wr-person-0122">Schoenaich, Gustav</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">WIENER KUNSTFRÜHLING</hi>.<lb/>
+Von <rs type="person" key="">Gustav Schoenaich</rs> (Wien).<lb/>
+II.</title>
+            </ab>
+            <p>Eine der fesselndsten Erscheinungen in der Secessionsausstellucg und<lb/>
+ein echter Secessionist in dem einzig berechtigten Sinne eines Künstlers,<lb/>
+der die Dinge mit seinen eigenen Augen betrachtet und die Macht<lb/>
+hat, das von ihm Geschehene auch Andern überzeugend darzustellen,<lb/>
+ist der Italiener Giovanni <hi rend="text-spaced">Segantini</hi>. Zahl und Verschiedenartigkeit<lb/>
+der von ihm ausgestellten Werke geben auch ein ausreichendes Bild<lb/>
+sowohl von der Entwicklung als der Eigenartigkeit seiner Individualität,<lb/>
+von dem imponirenden Umfang seines Könnens und den vielen Saiten,<lb/>
+die Gesehenes in seiner reichen Natur erklingen macht. Sein künst-<lb break="no"/>
+lerisches Wesen hat einen Zug ins Grosse. Er gibt sich nicht mit<lb/>
+Kleinigkeiten ab. Seine Arbeiten bedeuten von der stofflichen Seite<lb/>
+betrachtet eine Reaction gegen die ebenso erklärliche als gerechtfertigte<lb/>
+Abneigung, welche die Modernen der grossen Natur, den Paradiesen<lb/>
+der grossen Touristik entgegen bringen. Erklärlich und gerechtfertigt<lb/>
+war diese Abneigung, weil die Gletscher- und Gebirgmalerei in’s<lb/>
+Schablonenhafte herabgesunken war, weil sich bei Künstlern und<lb/>
+Publicum ein im Inhalte immer mehr abmagernder Begriff über das<lb/>
+Malerische herausgebildet hatte. Bis zur Kartenmalerei war das grosse<lb/>
+Landschaftsbild herabgesunken, bei der ein eisstarrendes Gletscherhaupt<lb/>
+oder ein tosender Wasserfall Atout war. Die Grossartigkeit der Natur<lb/>
+wurde den Betrachtern durch eine Art Gaunersprache des Pinsels<lb/>
+vermittelt. Dem gegenüber erschien sehr natürlich, dass die wahrhaft<lb/>
+Berufenen unter den Künstlern die Wunder der Erscheinung, an denen<lb/>
+das bescheidenste Stück Natur nicht arm ist, durch liebevolles Ein-<lb break="no"/>
+gehen und Beobachten zu erfassen trachteten, dass ihnen die Reize<lb/>
+der Fläche, das Spiel der Wolken, der unerschöpfliche Reichthum der<lb/>
+Beleuchtungen und Lufttöne als die wahren Quellen erschienen, die sich<lb/>
+erfrischend über eine neue, intime Art die Natur zu erfassen und<lb/>
+darzustellen, ergiessen sollten. Wir verdanken dieser Richtung, welche<lb/>
+sich von allen Knalleffecten der Natur ängstlich ferne hält und das<lb/>
+Grosse im Kleben, das Beseeligende im Leisen, das Ueberraschende<lb/>
+im Alltäglichen aufsucht, eine Steigerung unseres inneren und äusseren<lb/>
+Sehvermögens und eine Vertiefung unserer Naturempfindung. Und diese<lb/>
+neue Weihe, welche die Kunst der Landschaftsmalerei empfing, stärkte</p>
+         </div>
+      </body>
+   </text>
+</TEI>

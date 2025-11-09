@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-03_n0092.xml" prev="WR-01-01-03_n0091.xml" next="WR-01-01-03_n0093.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 3, S. 92</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0092"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-15">15 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0026">
+                  <title level="a">Alladine und Palomides</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="88" to="95"/>
+                  <idno type="fn">WR-01-01-03_n0088.xml</idno>
+                  <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">92</fw>
+               <fw type="ctext">MAETERLINCK.</fw>
+            </fw>
+            <p rend="no-intend">
+               <milestone unit="3dots"/> Hört ihr? Es ist mein Vater <milestone unit="3dots"/> (Man hört in der Ferne singen.)<lb/>
+Verbergt euch hinter den Pfeilern <milestone unit="3dots"/> Er will nicht, dass<lb/>
+irgend Jemand über diesen Gang geht. (Sie verbergen sich. Abla-<lb break="no"/>
+more tritt ein, indem er einen Bund grosser Schlüssel schüttelt.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Ablamore</hi> (singt).</p>
+            <lg>
+               <l>Drei goldene Schlüssel das Unglück hat —</l>
+               <l>Befreite die Königin nicht —</l>
+               <l>Drei goldene Schlüssel das Unglück hat —</l>
+               <l>Fahrt hin und folgt dem Gesicht.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <p>(Er lässt sich überwältigt auf eine Bank neben der Thüre von Alladinens Gemach<lb/>
+nieder, singt noch eine Weile halblaut vor sich hin und schläft alsbald mit herab-<lb break="no"/>
+hängenden Armen und zurückgefallenem Haupte ein.)</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Astolaine</hi>.</p>
+            <p>Kommt, kommt; macht keinen Lärm. Er ist auf der<lb/>
+Bank eingeschlafen. Oh! mein armer alter Vater! Wie sein<lb/>
+Haar während dieser Tage erbleicht ist! Er ist so schwach,<lb/>
+er ist so unglücklich, dass selbst der Schlaf ihn nicht mehr<lb/>
+beschwichtigen kann. Drei volle Tage sind es nun her, dass<lb/>
+ich sein Antlitz nicht mehr anzublicken gewagt <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Eine von Palomidens Schwestern</hi>.</p>
+            <p>Er schläft tief <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Astolaine</hi>.</p>
+            <p>Er schläft tief, doch man sieht, dass seine Seele niemals<lb/>
+Ruhe findet <milestone unit="3dots"/> Die Sonne kommt und quält seine Augen<lb/>
+               <milestone unit="3dots"/> Ich will seinen Mantel über sein Angesicht breiten <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Eine andere Schwester</hi>.</p>
+            <p>Nein, nein; rührt ihn nicht an <milestone unit="3dots"/> er könnte aus dem<lb/>
+Schlaf auffahren <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Astolaine</hi>.</p>
+            <p>Es nähert sich Jemand auf dem Gange. Kommt, kommt,<lb/>
+stellt euch vor ihn <milestone unit="3dots"/> Verbergt ihn <milestone unit="3dots"/> In diesem Zustande<lb/>
+soll ihn kein Fremder sehen <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Eine von Palomidens Schwestern</hi>.</p>
+            <p>Es ist Palomides <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

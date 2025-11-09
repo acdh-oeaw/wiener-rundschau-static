@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-02_n0063.xml" prev="WR-01-01-02_n0062.xml" next="WR-01-01-02_n0064.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 2, S. 63</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0063"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-01">1 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0017">
+                  <title level="a">Das Meer</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="59" to="63"/>
+                  <idno type="fn">WR-01-01-02_n0059.xml</idno>
+                  <author ref="#wr-person-0013">Reibrach, Jean</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DAS MEER (LA GUEUSE).</fw>
+               <fw type="pn">63</fw>
+            </fw>
+            <p rend="no-intend">und Bretagner beugte sich resignirt vor dem Tode. Und seine<lb/>
+Gedanken kehrten zum Meere zurück. Mit trockener Stimme<lb/>
+fragte er:</p>
+            <p>»Um wie viel Uhr?«</p>
+            <p>»Um 5 Uhr,« sagte Jemand.</p>
+            <p>Ein Schrei entrang sich seiner Kehle, ein wildes Röcheln.<lb/>
+Um 5 Uhr! Zur Zeit, als er selbst ins Wasser sprang.</p>
+            <p>O, das Meer, das elende!</p>
+            <p>Er begriff plötzlich das sanfte Schmeicheln, das ironische<lb/>
+Lächeln, mit dem die Fluth seine Schritte begleitet hatte.<lb/>
+Während er ihr dort die Beute entriss, nahm sie ihm hier<lb/>
+seinen Sohn.</p>
+            <p>O, die Elende, die Elende!</p>
+            <p>Mit einer wilden Geberde wandte er sich gegen das<lb/>
+Meer. Heimtückisch hatte es gesiegt; jetzt noch höhnte<lb/>
+es und sang freudig und fing in den tanzenden Wellenkämmen<lb/>
+die letzten Strahlen auf. Roth stand am Horizont die Sonne,<lb/>
+von der Fluth förmlich verschlungen; blutig ward von ihrem<lb/>
+Schein das Auge des Fischers, der unzähmbar der ewigen<lb/>
+Feindin die Stirne zeigte, eine rachesinnende Stirne und ein<lb/>
+felsenfestes Antlitz. Lange sahen sie sich an, der Mensch und<lb/>
+das Meer, wie zwei Ringende, die Athem schöpfen. Sie schienen<lb/>
+auf einander zu horchen und sich zu verstehen, geheimniss-<lb break="no"/>
+volle Herausforderungen und Hasseskundgebungen auszu-<lb break="no"/>
+tauschen. Und dann verschwand die schon niedrig stehende<lb/>
+Sonne ganz. Das nun düstere Meer schien zurückzuweichen,<lb/>
+abzunehmen, und als der Wind sich über der Steppe erhob<lb/>
+und das ferne Brausen der Wellen übertönte, da schien es,<lb/>
+als ob die Wasser verstummt wären vor dem Hassesblick des<lb/>
+Menschen. — — — — — — — — — — — —</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-19_n0752.xml" prev="WR-01-02-19_n0751.xml" next="WR-01-02-20_n0753.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 19, S. 752</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="19"/>
+                        <biblScope unit="page" n="n0752"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-08-15">15 8 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0245">
+                  <title level="a">Wassermann, »Die Juden von Zirndorf«</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 19</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="19">19</biblScope>
+                  <biblScope unit="page" from="751" to="752"/>
+                  <idno type="fn">WR-01-02-19_n0751.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">752</fw>
+               <fw type="ctext">NOTIZEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>seinen finsteren Schatten über die<lb/>
+Lebenden, über Gegenwart und Zu-<lb break="no"/>
+kunft wirft. Zuweilen vergisst man<lb/>
+bei dieser grossen Kunst ganz und<lb/>
+gar daran, den todten Buchstaben<lb/>
+eines gedruckten Buches vor Augen<lb/>
+zu haben: es weht der heisse<lb/>
+Athem der Zeit, des Werdens und<lb/>
+Vergehens, des Unbewussten, Trans-<lb break="no"/>
+cendentalen aus den Seiten; ein<lb/>
+unbeschreibliches, unheimliches Et-<lb break="no"/>
+was lässt ahnen, was in den<lb/>
+Tiefen lauert, an die der Mensch</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">mit Schaudern nur zu denken<lb/>
+wagt <milestone unit="3dots"/>
+                     </p>
+                     <p>Dank und Anerkennung sei dem<lb/>
+jungen Autor gezollt, der mit<lb/>
+Wunderhand so viel des Düster-<lb break="no"/>
+Schönen auf sein Werk gestreut.<lb/>
+Die »Juden von Zirndorf« sind<lb/>
+nicht der <hi rend="text-spaced">Roman</hi> eines <hi rend="text-spaced">Schrift</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">stellers</hi>, beides in der gleich-<lb break="no"/>
+giltigen Geschäftssprache: sie sind<lb/>
+das <hi rend="text-spaced">Buch</hi> eines <hi rend="text-spaced">Künstlers</hi> in<lb/>
+des Wortes edelster Bedeutung!</p>
+                     <p>
+                        <hi rend="italics">
+                           <rs type="person" key="">Alfred Neumann</rs>.</hi>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="hr"/>
+            <milestone unit="imprint-start"/>
+            <p>Herausgeber und verantwortlicher Redacteur: <hi rend="text-spaced">Rudolf Strauss</hi>.</p>
+            <p>Ch. Reisser &amp; M. Werthner, Wien.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

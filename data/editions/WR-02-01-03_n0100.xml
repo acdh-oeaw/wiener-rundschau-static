@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-03_n0100.xml" prev="WR-02-01-03_n0099.xml" next="WR-02-01-03_n0101.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 3, S. 100</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0100"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-12-15">15 12 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0323">
+                  <title level="a">Die Suggestion bei Shakespeare </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="95" to="102"/>
+                  <idno type="fn">WR-02-01-03_n0095.xml</idno>
+                  <author ref="#wr-person-0124">Unger, Franz</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">100</fw>
+               <fw type="ctext">UNGER.</fw>
+            </fw>
+            <p>worauf <hi rend="text-spaced">Edgar</hi> im Selbstgespräch bedauert, dass</p>
+            <milestone unit="performance-start"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Edgar</hi>.</p>
+            <lg>
+               <l>Er dies Spiel mit der Verzweiflung treibe,</l>
+               <l>Um sie zu heilen.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <p>Wähnend, allein und verlassen, jedem menschlichen Blick ent-<lb break="no"/>
+rückt zu sein, schreitet <hi rend="text-spaced">Gloster</hi> an die endliche Ausführung seines<lb/>
+Vorhabens. Vorerst sinkt er in die Knie und betet:</p>
+            <milestone unit="performance-start"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Gloster</hi>.</p>
+            <lg>
+               <l>O mächt’ge Götter!</l>
+               <l>Der Welt entsag’ ich, und vor eurem Blick</l>
+               <l>Streif ich mein grosses Leid geduldig ab.</l>
+               <l>Könnt’ ich es länger tragen, nicht eurem Willen,</l>
+               <l>Dem widerspruchslos grossen widerstreitend —</l>
+               <l>Meines verhassten Lebensfadens Docht</l>
+               <l>Verzehrt’ sich selbst. Wenn Edgar lebt, Gott segn' ihn:</l>
+               <l>Nun, Freund, lebt wohl!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <p>(Springt empor und fällt der Länge nach zu Boden.)</p>
+            <milestone unit="untyped-end"/>
+            <p>So weit geht also Alles nach Wunsch. Die Suggestion hat ge-<lb break="no"/>
+wirkt, doch muss sie fortwirken, wenn <hi rend="text-spaced">Gloster</hi> gründlich von seinen<lb/>
+Selbstmordgedanken geheilt sein soll, ihre Intensität muss aber ge-<lb break="no"/>
+mildert werden, sonst tödtet die Macht der Einbildung den sich zer-<lb break="no"/>
+schmettert wähnenden Greis. Ihm wieder die Ueberzeugung des er-<lb break="no"/>
+folgten Sturzes zu benehmen, wäre eine Inconsequenz, deren Wirkung<lb/>
+verhängnissvoll werden könnte. <hi rend="text-spaced">Edgar</hi> verschwindet daher, seine Per-<lb break="no"/>
+sönlichkeit als simulirender Bettler-Narr tritt von der Bühne ab, er ist<lb/>
+zu einem unbetheiligten, zufällig des Weges kommenden Bauer umge-<lb break="no"/>
+wandelt, der in Sprache und Benehmen durchaus ein Anderer ist. Er<lb/>
+thut, als fände er Gloster am Boden liegend, sagt aber, anknüpfend<lb/>
+an die letzten Worte, die er dem sich zum imaginären Sturz An-<lb break="no"/>
+schickenden nachgerufen hat:</p>
+            <milestone unit="performance-start"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Edgar</hi>.</p>
+            <lg>
+               <l>— Fort Herr? Lebt wohl!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <p>zu sich selbst:</p>
+            <milestone unit="performance-start"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Edgar</hi>.</p>
+            <lg>
+               <l>Und doch, ich weiss nicht, ob nicht Einbildung</l>
+               <l>Den Schatz des Lebens rauben kann, wenn Leben</l>
+               <l>Geraubt sein will. War’ er, wo er sich denkt,</l>
+               <l>Wär’s mit dem Denken aus.</l>
+            </lg>
+            <p>(Nun mit veränderter Stimme laut:)</p>
+            <lg>
+               <l>He, Herr! Freund! Hört mich, Herr! So sprecht!</l>
+               <l>So könnt’ er wirklich sterben — Doch er belebt sich.</l>
+               <l>Wer seid Ihr’ Herr?</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Gloster</hi>.</p>
+            <lg>
+               <l>Hinweg! Und lasst mich sterben.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Edgar</hi>.</p>
+            <lg>
+               <l>Wärst du nicht spinnweb-, federleicht gewesen,</l>
+               <l>So viele Faden niederstürzend wär’st</l>
+               <l>Zerschellt gleich einem Ei; doch athmest du,</l>
+               <l>Hast Körperschwere, blutest nicht und sprichst,</l>
+               <l>Bist denn gesund. Zehn Mäste aufeinander könnten</l>
+               <l>Die Höh’, die du herabfielst nicht bezeichnen;</l>
+               <l>Dein Leben ist ein Wunder Sprich nochmal.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

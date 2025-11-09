@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-01_n0018.xml" prev="WR-02-01-01_n0017.xml" next="WR-02-01-01_n0019.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 1, S. 18</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0018"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-11-15">15 11 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0303">
+                  <title level="a">Graf Leo Tolstoi und die Duchoborzen</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="11" to="18"/>
+                  <idno type="fn">WR-02-01-01_n0011.xml</idno>
+                  <author ref="#wr-person-0117">Henckel, W.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">18</fw>
+               <fw type="ctext">HENCKEL.</fw>
+            </fw>
+            <p rend="no-intend">nur während der Erntezeit wurde ihre Hilfe beansprucht, jedoch nur<lb/>
+sehr kärglich bezahlt. Sie verdienten durchschnittlich 40—50 Kopeken,<lb/>
+die Frauen 15—25 Kopeken, mussten sich aber selbst beköstigen. Das<lb/>
+Brot kostete 65—80 Kopeken, in Tiflis sogar 80—100 Kopeken fürs<lb/>
+Pud. Ausserdem aber brauchen sie Salz, Arznei, Wohnung <milestone unit="3dots"/> Seit der<lb/>
+Deportation bis zum <date>1. Jänner 1897</date> starben von ihnen 460, die Be-<lb break="no"/>
+erdigung kostete 2—5 Rubel für jede Leiche <milestone unit="3dots"/>
+            </p>
+            <p>Herr Passinskij, ein bekannter russischer Schriftsteller, der gleich-<lb break="no"/>
+falls über diese Angelegenheit schrieb und dem die Duchoborzen<lb/>
+durchaus nicht sympathisch sind, der sie sogar verurtheilt, sagt u. A.:</p>
+            <milestone unit="untyped-start"/>
+            <p>»Sie sind mit Recht von der Obrigkeit als Schuldige bezeichnet und<lb/>
+mussten ihre Strafe erleiden. Aber damit war durchaus nicht beabsichtigt,<lb/>
+sie in eine so hoffnungslose Lage zu versetzen. Man muss diesen Leuten<lb/>
+helfen, denn sie haben schon deshalb ein Recht auf Hilfe, weil sie so<lb/>
+furchtbar unglücklich sind. Wir Russen helfen ja stets unseren ins<lb/>
+Unglück gerathenen Brüdern, selbst wenn sie Diebe und Mörder sind.<lb/>
+Hoffentlich ist unsere Quelle des Mitleids noch nicht versiegt, unsere<lb/>
+Wohlthätigkeit und Nächstenliebe noch nicht erloschen. Vielleicht werden<lb/>
+wir, trotz der beständigen Klage, dass es keinen Glauben mehr gibt,<lb/>
+durch unsere Thaten beweisen, dass der Glaube noch nicht ganz ver-<lb break="no"/>
+schwunden, sondern dass er lebendig ist und sich auf eine unwandelbare,<lb/>
+thätige, weder Zorn noch Rache kennende Liebe stützt.«</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

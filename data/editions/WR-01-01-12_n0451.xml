@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-12_n0451.xml" prev="WR-01-01-12_n0450.xml" next="WR-01-01-12_n0452.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 12, S. 451</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="12"/>
+                        <biblScope unit="page" n="n0451"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-05-01">1 5 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0148">
+                  <title level="a">Die sieben Brunnen</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 12</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="448" to="451"/>
+                  <idno type="fn">WR-01-01-12_n0448.xml</idno>
+                  <author ref="#wr-person-0061">Annunzio, Gabriele D’</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DIE SIEBEN BRUNNEN.</fw>
+               <fw type="pn">451</fw>
+            </fw>
+            <p>Mein Dämon aber fuhr fort und redete also: »Betrachte ruhevoll<lb/>
+die Schönheit der drei Frauen, unter denen du wählen willst. Aus<lb/>
+dieser Betrachtung blühte dir schon so viel Glück, du weisst es ja.<lb/>
+Es ist, als ob aus ihnen Melodien klängen, und du verstehst sie schon,<lb/>
+als wenn du selber sie gedichtet hättest. Aus jedem ihrer Reize wächst<lb/>
+dir die Achse einer neuen Welt. Sie geben dir die Lust eines unauf-<lb break="no"/>
+hörlichen Entdeckens und Erzeugens, sie helfen dir, von deinem eigenen<lb/>
+Wesen zu erkennen, was dir davon noch dunkel war, sie scheinen<lb/>
+Lebensfluthen in dich zurückzugiessen, die sie vor unvordenklichen Zeiten<lb/>
+von dir empfingen. Hast du sie nicht schon genossen, bevor sie dir<lb/>
+heute zugelächelt? Da du in tiefem Schweigen an ihrer Seite standest,<lb/>
+fühltest du deine Seele nicht schwer wie eine regenschwangere Wolke?«</p>
+            <p>»O Herr und Gebieter,« sagte ich, und meine Seele wendete sich<lb/>
+noch einmal mit unendlicher Sehnsucht gegen den holden Garten zurück,<lb/>
+den ich nun verliess. »O Herr und Gebieter, es ist wahr; da ich an<lb/>
+ihrer Seite schweigend stand, genoss ich einer höheren Wollust, als<lb/>
+wenn ich die schweren Flechten ihres Haares lösen oder meine Lippen<lb/>
+auf ihre weissen Schultern hätte pressen können, und noch bin ich voll<lb/>
+von dieser Wollust. Und doch möcht’ ich verstohlen zurückeilen zu<lb/>
+ihnen und unsichtbar mich über ihre jungfräulichen Brüste neigen und<lb/>
+dort lauschen, denn aus diesen Brüsten, denk’ ich, müsste eine grosse<lb/>
+Süssigkeit und eine grosse Schwermuth, wie ich sie nie mehr empfinden<lb/>
+werde, aufsteigen in die Nacht und hinüberfliessen in mein Herz.«</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

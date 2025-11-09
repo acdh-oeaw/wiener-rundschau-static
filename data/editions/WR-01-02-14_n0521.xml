@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-14_n0521.xml" prev="WR-01-02-13_n0520.xml" next="WR-01-02-14_n0522.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 14, S. 521</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="14"/>
+                        <biblScope unit="page" n="n0521"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-06-01">1 6 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0174">
+                  <title level="a">Bekenntnisse</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 14</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="14">14</biblScope>
+                  <biblScope unit="page" from="521" to="525"/>
+                  <idno type="fn">WR-01-02-14_n0521.xml</idno>
+                  <author ref="#wr-person-0070">Nansen, Peter</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>1. <hi rend="text-spaced">JUNI</hi> 1897</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>BEKENNTNISSE.<lb/>
+Scherz in französischem Styl von <rs type="person" key="">Peter Nansen</rs> (Kopenhagen).<lb/>
+(Aus dem <hi rend="text-spaced">Manuscript</hi> übersetzt.)</title>
+            </ab>
+            <p>
+               <hi rend="text-spaced">Liebe Freundin</hi>!</p>
+            <p>Sie fragten mich eines der letztenmale, als wir uns<lb/>
+sahen, mit jener sanften Nachsicht, die einen besonderen<lb/>
+Charakterzug Ihrer liebreizenden Persönlichkeit bildet, ob mir<lb/>
+irgend etwas fehle. Sie meinten, ich sei nicht so heiter und<lb/>
+fröhlich wie sonst, wenn ich mit Ihnen zusammen bin.</p>
+            <p>Ich antwortete mit einer der gesellschaftlichen Lügen,<lb/>
+die wir civilisirten Menschen stets bei der Hand haben. Ich<lb/>
+schützte — glaube ich — Verstimmtheit vor über einen Zu-<lb break="no"/>
+sammenstoss, den ich mit einem Droschkenkutscher gehabt<lb/>
+hatte, der mich übervortheilen wollte, und mit einem Schutz-<lb break="no"/>
+mann, der die Partei des Droschkenkutschers nahm. Im<lb/>
+Uebrigen erfand ich diese Geschichte, die ich in allen ihren<lb/>
+unangenehmen Einzelheiten ausmalte, keineswegs. Die Ge-<lb break="no"/>
+schichte war mir wirklich im vorigen oder im vorvorigen<lb/>
+Jahre einmal passirt, und während ich sie erzählte, erstand<lb/>
+die ganze Begebenheit wieder so lebhaft in meiner Erinne-<lb break="no"/>
+rung, dass ich meine längst verjährte Wuth von Neuem auf-<lb break="no"/>
+flammen fühlte. Es gibt nämlich nichts, was meine Würde<lb/>
+als Culturmensch tiefer kränkt, als wenn ein Droschken-<lb break="no"/>
+kutscher oder ein Dienstmann sich eine unerlaubte Einnahme<lb/>
+auf meine Kosten machen will, und es gibt nichts, was meine</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-24_n0915.xml" prev="WR-02-02-24_n0914.xml" next="WR-02-02-24_n0916.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 24, S. 915</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="24"/>
+                        <biblScope unit="page" n="n0915"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-11-01">1 11 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0521">
+                  <title level="a">Die Mondscheinsonate</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 24</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="905" to="915"/>
+                  <idno type="fn">WR-02-02-24_n0905.xml</idno>
+                  <author ref="#wr-person-0144">Wolff, Ludwig</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DIE MONDSCHEINSONATE.</fw>
+               <fw type="pn">915</fw>
+            </fw>
+            <milestone unit="scene-start"/>
+            <ab>
+               <title>12. <hi rend="text-spaced">Scene</hi>.</title>
+            </ab>
+            <p>Grete. Stransky.</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi> (kommt verlegen herein und sagt leise). Fräulein Grete.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Grete</hi>. Herr Stransky.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi>. Sie werden das alles wahrscheinlich komisch finden<lb/>
+und mir auch nicht glauben, wenn ich Ihnen sage, dass Sie mir immer<lb/>
+theuer gewesen sind. Sehen Sie, wenn ich bisher stets um Ihr Fräulein<lb/>
+Schwester war, so hatte das seinen Grund, weil Sie sich mir immer<lb/>
+fernhielten, mich kalt und gleichgiltig behandelten.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Grete</hi>. Aber nein, Herr Stransky.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi>. O ja, es war so. Fräulein Rosa war immer so freund-<lb break="no"/>
+lich zu mir, dass ich sie zu lieben glaubte. Aber, sehen Sie, vorhin,<lb/>
+als ich das endgiltige Wort sprach, da fiel es wie ein Schleier von<lb/>
+meinen Augen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Grete</hi>. O, Herr Stransky!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi>. Sie werden mir natürlich nicht glauben.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Grete</hi> (leise). O doch, Herr Stransky.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi>. Ich danke ihnen, Fräulein Grete, ich danke Ihnen.<lb/>
+Und wenn ich Sie noch in dieser Stunde bitte, die alten Irrthümer<lb/>
+zu vergessen und die meine zu werden, auf welche Antwort darf ich<lb/>
+hoffen?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Grete</hi> (zitternd). Ja, Herr Stransky.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi> (ihr die Hand küssend). Ich fühle mich ganz gedehmüthigt<lb/>
+durch Ihre grosse Güte, Fräulein Grete. Wie soll ich Ihnen danken? <milestone unit="3dots"/>
+               <lb/>
+Warum lachen Sie, Fräulein Grete?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Grete</hi>. O nein, ich lache doch nicht.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi> (feurig). Wenn ich Ihnen nur sagen könnte, wie un-<lb break="no"/>
+beschreiblich glücklich ich bin. Aber das können Worte nicht. Das<lb/>
+könnte die Musik —</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Grete</hi>. Sie lieben die Musik?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi>. O leidenschaftlich. Spielen Sie auch Clavier?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Grete</hi>. Ja, Herr Armin.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi>. Wenn Sie mir etwas vorspielen wollten —</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Grete</hi> (einfach). Gerne. Was wünschen Sie?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi>. Irgend etwas Classisches, wenn ich bitten darf. (Hin-<lb break="no"/>
+werfend.) Vielleicht die Mondscheinsonate von Beethoven.</p>
+            <milestone unit="untyped-end"/>
+            <p>(Grete geht mit kleinen, müden Schritten zum Clavier, setzt sich nieder und<lb/>
+blickt eine Weile leer auf das aufgeschlagene Notenblatt. Dann lächelt sie<lb/>
+resigniert und beginnt einen langsamen, nicht zu bekannten Walzer zu spielen.<lb/>
+Stransky setzt sich erleichtert auf einen Stuhl und wischt sich mit dem Taschen-<lb break="no"/>
+tuch den Schweiss von der Stirne.)</p>
+            <milestone unit="untyped-end"/>
+            <p>Der Vorhang fällt langsam.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

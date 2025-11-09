@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-10_n0369.xml" prev="WR-02-01-10_n0368.xml" next="WR-02-01-10_n0370.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 10, S. 369</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="10"/>
+                        <biblScope unit="page" n="n0369"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-04-01">1 4 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0391">
+                  <title level="a">Stücke aus einem Roman in Romanzen »Zwei Menschen«</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 10</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="368" to="371"/>
+                  <idno type="fn">WR-02-01-10_n0368.xml</idno>
+                  <author ref="#wr-person-0018">Dehmel, Richard</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">STÜCKE AUS EINEM ROMAN.</fw>
+               <fw type="pn">369</fw>
+            </fw>
+            <lg>
+               <l>Du bist die Fürstin Isabella Lea,</l>
+               <l>die Löwin und die Gottbeschwörerin;</l>
+               <l>aus deiner schwarzen Mähne, mea Dea,</l>
+               <l>lauscht Mutter Isis, Mutter Gäa</l>
+               <l>zum Lichtbringer Osiris hin.</l>
+               <l>Und Ich bin Lukas Luchs, dein Secretär,</l>
+               <l>das dunkle Raubthier mit den hellen Lichtern,</l>
+               <l>der Grosse Geist-Luchs der Indianermär,</l>
+               <l>verhasst wie Lucifer den Blassgesichtern.</l>
+               <l>So tauf ich uns — pass auf — mit neuem Sinn:</l>
+               <l>huh, meine grosse Geistbeschwörerin!</l>
+            </lg>
+            <lg>
+               <l>Er schlägt das Eisbärfell um sie und sich,</l>
+               <l>zwei Menschen freun sich königlich.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="asterisk"/>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">Neujahrsglocken</hi>.</title>
+            </ab>
+            <lg>
+               <l>Sylvesternacht. Viel Glocken läuten.</l>
+               <l>Fern graut die Grossstadt her; zwei Menschen sehn</l>
+               <l>den Dunst des Horizontes leuchten</l>
+               <l>und drüber die Millionen Sterne stehn.</l>
+               <l>Zwangvoll, um ein Weib nicht zu berühren,</l>
+               <l>lehnt ein Mann auf eisernem Balkon,</l>
+               <l>sagt mit trunknem, heiserm Ton,</l>
+               <l>während im Zimmer Gläser klirren:</l>
+            </lg>
+            <lg>
+               <l>Dort schläft im Dunst mein Eheweib,</l>
+               <l>und Du besiehst mit mir die Sterne;</l>
+               <l>und hinter uns trinkt Jemand Haute-Sauternes,</l>
+               <l>dem du gehörst mit deinem Leib,</l>
+               <l>mit deinem hoffnungsvollen Leib.</l>
+               <l>Himmel, o Himmel, könnt’ ich blind sein!</l>
+               <l>Bella! Isi! noch Einmal Kind sein!</l>
+               <l>Oh, du kennst wohl nicht dies Grauen:</l>
+               <l>göttlich klar zu überschauen:</l>
+               <l>nur aus Leid ist Glück zu bauen,</l>
+               <l>alles Leid ist Einsamkeit,</l>
+               <l>alles Glück Gemeinsamkeit.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

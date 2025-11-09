@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-07_n0253.xml" prev="WR-02-01-07_n0252.xml" next="WR-02-01-07_n0254.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 7, S. 253</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="07"/>
+                        <biblScope unit="page" n="n0253"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-02-15">15 2 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0355">
+                  <title level="a">Der Bär </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 7</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="241" to="253"/>
+                  <idno type="fn">WR-02-01-07_n0241.xml</idno>
+                  <author ref="#wr-person-0135">Tschechow, Anton</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DER BÄR.</fw>
+               <fw type="pn">253</fw>
+            </fw>
+            <p rend="no-intend">wie Sie <milestone unit="3dots"/> Ich bin aufgethaut, besiegt, gefesselt <milestone unit="3dots"/> Kniee wie ein Narr<lb/>
+und bitte um Ihre Hand <milestone unit="3dots"/> Schmach und Schande! Fünf Jahre war ich<lb/>
+nicht verliebt, habe es mir gelobt, und nun sitze ich fest wie eine<lb/>
+Deichselstange in einer Kutsche! Biete Herz und Hand an. Ja oder<lb/>
+nein? Wollen Sie nicht? Ist nicht nöthig! (Steht auf und geht schnell zur<lb/>
+Thüre.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Warten Sie?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi> (bleibt stehen). Nun?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Nichts, Sie können gehen <milestone unit="3dots"/> Uebrigens, warten<lb/>
+Sie <milestone unit="3dots"/> Nein, gehen Sie, gehen Sie! Ich hasse Sie! Oder nein <milestone unit="3dots"/>
+               <lb/>
+Bleiben Sie! Ach, wenn Sie wüssten, wie ich böse bin, wie böse!<lb/>
+(Wirft den Revolver auf den Tisch.) Die Finger sind mir aufgeschwollen<lb/>
+von diesem garstigen Ding <milestone unit="3dots"/> (Reisst im Zorn ihr Tuch.) Was stehen Sie<lb/>
+noch? Gehen Sie weg!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Adieu.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Ja, ja, gehen Sie nur! (Schreit.) Wohin gehen<lb/>
+Sie denn? Warten Sie <milestone unit="3dots"/> Uebrigens gehen Sie. Ach, wie böse ich bin!<lb/>
+Kommen Sie mir nicht zu nahe, kommen Sie nicht zu nahe!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi> (nähert sich ihr). Wie ärgerlich bin ich über mich<lb/>
+selbst! Habe mich wie ein Schuljunge verliebt, stand auf den Knieen <milestone unit="3dots"/>
+               <lb/>
+Es überläuft mich eiskalt <milestone unit="3dots"/> (Barsch.) Ich liebe Sie! Es fehlte noch, dass<lb/>
+ich mich verlieben sollte! Morgen muss ich Zinsen zahlen, die Heu-<lb break="no"/>
+ernte hat begonnen und da treten Sie auf <milestone unit="3dots"/> (Legt die Hand um ihre Taille.)<lb/>
+Nie werde ich’s mir verzeihen <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Weg! Die Hände weg! Ich <milestone unit="3dots"/> hasse Sie! In die<lb/>
+Schra—Schranken! (Langer Kuss.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="scene-start"/>
+            <ab>
+               <title>XI.</title>
+            </ab>
+            <p>
+               <hi rend="text-spaced">Dieselben</hi>, <hi rend="text-spaced">Lukas</hi> mit einem Beil, der <hi rend="text-spaced">Gärtner</hi> mit einem Rechen,<lb/>
+der <hi rend="text-spaced">Kutscher</hi> mit einer Mistgabel und <hi rend="text-spaced">Arbeiter</hi> mit Pfählen.</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Lukas</hi> (erblickt das Pärchen, das sich küsst). Gerechter Himmel!</p>
+            <milestone unit="untyped-end"/>
+            <p>(Pause.)</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi> (die Augen senkend). Lukas, sage dem Stallknecht,<lb/>
+dass Tobby heute gar kein Futter bekommen soll.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <p>(Der Vorhang fällt.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

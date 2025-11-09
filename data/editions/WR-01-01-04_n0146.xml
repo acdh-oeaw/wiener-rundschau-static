@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-04_n0146.xml" prev="WR-01-01-04_n0145.xml" next="WR-01-01-04_n0147.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 4, S. 146</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="04"/>
+                        <biblScope unit="page" n="n0146"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-01-01">1 1 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0042">
+                  <title level="a">Melchior Lechter</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 4</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="141" to="146"/>
+                  <idno type="fn">WR-01-01-04_n0141.xml</idno>
+                  <author ref="#wr-person-0024">Servaes, Franz</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">146</fw>
+               <fw type="ctext">SERVAES.</fw>
+            </fw>
+            <p>Aber ich sagte es schon: er ist kein Pionnier, der Berge durch-<lb break="no"/>
+bohrt und Ströme überspringt. Er ist ein stiller, beschaulicher<lb/>
+Architekt, der das vorhandene Steinwerk weise benützt.</p>
+            <p>Und Eines noch! In seiner Rolle als Zuschauer, fern von den<lb/>
+eigentlichen Geburtskämpfen unserer neuen Kunst, ist es ihm ja<lb/>
+zweifellos geglückt, sich Abgeklärtheit, Drüberstand, Priesterlichkeit zu<lb/>
+erwerben. Aber im Tiefsten und Eigensten der modernen Seele wohnt<lb/>
+er nicht. Daher ist er einer neuen Menschheit zwar ein Zeuge, aber<lb/>
+kein Künder. Er ist ein Magier, der feierlich an ihr vorüberwandelt,<lb/>
+stets in Aengsten, dass ihm sein fleckenloses Gewand einmal beschmutzt<lb/>
+werden könnte. Und er hat in der salbungsvollen Art, wie er segnet<lb/>
+und beschwört, ganz leise etwas Pfäffisches. Pfaffen waren aber noch<lb/>
+stets für unser Tiefstes und Heissestes und Wildestes blind, weil sie<lb/>
+mit süchtigen Blicken den »ewig blauen Himmel« umspannten, der<lb/>
+über der christlichen Lämmerheerde sich wölbt.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

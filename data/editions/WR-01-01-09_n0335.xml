@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="WR-01-01-09_n0335.xml"
+     prev="WR-01-01-09_n0334.xml"
+     next="WR-01-01-09_n0336.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 9, S. 335</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="09"/>
+                        <biblScope unit="page" n="n0335"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-03-15">15 3 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text">
+                  <author/>
+                  <title n=""/>
+                  <biblScope unit="page">-</biblScope>
+                  <idno/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page"><milestone unit="untyped-start"/><ab><title>KUNST.<lb/>
+Von <rs type="person" key="">Oskar Wilde</rs> (London).</title></ab><milestone unit="untyped-start"/><p>Der schönen Dinge Schöpfer ist der Künstler.</p><p>Sich selbst zu offenbaren und den Künstler zu verbergen,<lb/>
+ist Zweck der Kunst.</p><milestone unit="untyped-end"/><milestone unit="asterismDown"/><milestone unit="untyped-start"/><p>Kritiker ist der, der seinen Eindruck vom Schönen in<lb/>
+neuer Form oder neuer Technik wiedergeben kann.</p><milestone unit="untyped-end"/><milestone unit="asterismDown"/><milestone unit="untyped-start"/><p>Die höchste wie die niedrigste Kritik ist eine Art<lb/>
+Selbstbekenntnis. Die Leute, die in der Kunst niedrige<lb/>
+Gedanken finden, sind verderbt und wirken unerfreulich. Die<lb/>
+Leute, die in der Kunst hohe, schöne Gedanken finden, sind<lb/>
+gebildet. Für sie gibt es Hoffnung. — Die Auserlesenen sind<lb/>
+die, welchen die Kunst eitel Schönheit ist.</p><milestone unit="untyped-end"/><milestone unit="asterismDown"/><milestone unit="untyped-start"/><p>Bücher sind weder moralisch noch unmoralisch; sie sind<lb/>
+gut geschrieben oder schlecht geschrieben. Ein Drittes gibt<lb/>
+es nicht.</p><milestone unit="untyped-end"/><milestone unit="asterismDown"/><milestone unit="untyped-start"/><p>Das Missfallen des XIX. Jahrhunderts am <hi rend="text-spaced">Realismus</hi><lb/>
+gleicht der Wuth Caliban’s, der sein eigenes Gesicht im<lb/>
+Spiegel erblickt.</p><p>Das Missfallen des XIX. Jahrhunderts an der <hi rend="text-spaced">Romantik</hi><lb/>
+gleicht dem Caliban, der wüthet, weil er sich <hi rend="text-spaced">nicht</hi> im<lb/>
+Spiegel sieht.</p><milestone unit="untyped-end"/><milestone unit="asterismDown"/><milestone unit="untyped-start"/><p>Das moralische Leben eines Menschen ist ein Theil des<lb/>
+künstlerisch Darzustellenden; aber die Moral der Kunst<lb/>
+besteht in der vollkommenen Beherrschung eines unvoll-<lb break="no"/>
+kommenen Mittels.</p><milestone unit="untyped-end"/></div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-17_n0642.xml" prev="WR-02-02-17_n0641.xml" next="WR-02-02-17_n0643.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 17, S. 642</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="17"/>
+                        <biblScope unit="page" n="n0642"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-07-15">15 7 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0464">
+                  <title level="a">Wiener Freie Bühne</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 17</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="17">17</biblScope>
+                  <biblScope unit="page" from="641" to="642"/>
+                  <idno type="fn">WR-02-02-17_n0641.xml</idno>
+                  <author ref="#wr-person-0007">Schik, F.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">642</fw>
+               <fw type="ctext">SCHIK.</fw>
+            </fw>
+            <p rend="no-intend">leitern Erkenntnis oder Wagemuth mangelt, dann solche Bühnen-<lb break="no"/>
+werke, deren Aufführung anderen Theatern verwehrt ist. Ferner<lb/>
+gibt es heute moderne Stimmungsstücke, die in den Zuschauer-<lb break="no"/>
+räumen unserer Theater wirkungslos verhallen, während sie in<lb/>
+einem intimen Kreise all ihre stille Kunst ausstrahlen könnten.<lb/>
+So sehnen sich denn seit Jahren künstlerisch fein organisierte<lb/>
+Menschen nach einem intimen Theater.</p>
+            <p>Die Production in dieser Richtung soll nicht lahmgelegt<lb/>
+werden, sondern einstweilen eine Zufluchtsstätte finden, bis durch<lb/>
+die gereifte Darstellung moderner Schauspieler allmählich auch<lb/>
+intime Wirkungen auf ein grösseres Publicum ausgeübt werden<lb/>
+können.</p>
+            <p>Speciell für Wien hat eine »Freie Bühne« noch die Auf-<lb break="no"/>
+gabe, dem neuen Spielstil für classische wie für moderne Stücke<lb/>
+Bahn zu brechen.</p>
+            <p>Die »Wiener Freie Bühne« wird also die Ziele einer freien,<lb/>
+einer intimen und einer modernen Musterbühne verfolgen.</p>
+            <p>
+               <rs type="person" key="">F. Schik</rs>.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

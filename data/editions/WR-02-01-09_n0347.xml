@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-09_n0347.xml" prev="WR-02-01-09_n0346.xml" next="WR-02-01-09_n0348.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 9, S. 347</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="09"/>
+                        <biblScope unit="page" n="n0347"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-03-15">15 3 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0382">
+                  <title level="a">Aus Leipzig </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 9</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="09">9</biblScope>
+                  <biblScope unit="page" from="347" to="350"/>
+                  <idno type="fn">WR-02-01-09_n0347.xml</idno>
+                  <author ref="#wr-person-0144">Wolff, Ludwig</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>AUS LEIPZIG.<lb/>
+Von <rs type="person" key="">Ludwig Wolff</rs> (Wien).</title>
+            </ab>
+            <p>Wenn man aus dem aufdringlichen und selbstbewussten Lärm<lb/>
+Berlins nach Leipzig kommt, wird man in eine andere Welt versetzt.<lb/>
+Alles ist ruhiger, behaglicher, gedämpfter. Die Leute haben mehr Zeit,<lb/>
+sie gehen gemächlicher, sie reden langsamer, sie essen und trinken mit<lb/>
+mehr Musse. Sie sind viel einfacher als die Berliner, weniger complicirt,<lb/>
+ein bischen spiessbürgerlich und altfränkisch. Aber man kann sie lieb-<lb break="no"/>
+gewinnen.</p>
+            <p>Der erste Eindruck der Stadt ist sehr freundlich, anheimelnd, ein<lb/>
+Gemisch unvergessenen Mittelalters und stolzer Neuzeit. Durch die<lb/>
+schmalen Gassen, die den jungen Goethe gesehen haben, sausen die<lb/>
+elektrischen Wagen, und die verschnörkelten Giebel der alten Patricier-<lb break="no"/>
+häuser werden vom kalten Bogenlicht bestrahlt. Ein Märchen, aus-<lb break="no"/>
+gestattet mit allen technischen Errungenschaften, über das man alle<lb/>
+Bücher vergisst.</p>
+            <p>Im Verlegerviertel trägt fast jedes Haus eine oder mehrere Firmen<lb/>
+von mehr oder minder bekannten Namen. Wenn man durch dieses<lb/>
+Quartier schlendert, kann man mit einiger Phantasie ein Stückchen<lb/>
+Literaturgeschichte durchwandern. Für junge Dichter, die nicht glauben<lb/>
+wollen, dass es schon vor ihnen Dichter gegeben hat, wäre es ein<lb/>
+lehrreicher Spaziergang. Aber in Leipzig gibt es keine Dichter, nur<lb/>
+Verleger. Die Verleger! Die jungen Dichter träumen von ihnen in un-<lb break="no"/>
+ruhigen Nächten. Der Verleger, das ist ein Halbgott, der Fortunas<lb/>
+Wünschelruthe besitzt, mit der er die bezaubernden Träume unserer<lb/>
+Jugend lebendig zu machen vermag.</p>
+            <p>Man thut ihnen bitter Unrecht, den Verlegern. Sie sind sehr<lb/>
+brave und fleissige Kaufleute, die mit rührender Einhelligkeit über die<lb/>
+schlechten Zeiten klagen. Der eine ist findiger als der andere, der eine<lb/>
+hat mehr Glück, der andere weniger, dieser hat gute, jener schlimme<lb/>
+Erfahrungen gemacht. Aber diese kleinen Unterschiedlichkeiten vermögen<lb/>
+nicht den allgemeinen Typus zu verwischen.</p>
+            <p>Im Verkehre sind sie sehr biedere und freundliche deutsche<lb/>
+Männer. Das rührt wohl daher, weil sie mit Schriftstellern fast gar<lb/>
+keinen persönlichen Umgang haben. Es verirrt sich so selten einer nach<lb/>
+Klein-Paris. Und schriftlich sagt man sich auserlesene Liebenswürdig-<lb break="no"/>
+keiten.</p>
+            <p>Im Anfang erschrecken sie sehr heftig, wenn man die Unvor-<lb break="no"/>
+sichtigkeit begeht, sich nicht als Journalist vorzustellen. Sie beruhigen<lb/>
+sich erst, wenn sie sehen, dass der seltsame Besuch keine verdächtigen</p>
+         </div>
+      </body>
+   </text>
+</TEI>

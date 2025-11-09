@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-02_n0075.xml" prev="WR-01-01-02_n0074.xml" next="WR-01-01-02_n0076.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 2, S. 75</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0075"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-01">1 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0021">
+                  <title level="a">Peter Altenberg</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="73" to="77"/>
+                  <idno type="fn">WR-01-01-02_n0073.xml</idno>
+                  <author ref="#wr-person-0009">Schäffer, Emil</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">PETER ALTENBERG.</fw>
+               <fw type="pn">75</fw>
+            </fw>
+            <p rend="no-intend">Und schaudernd vernimmt er die grossen, tönenden Laute,<lb/>
+die Fanfaren einer Königin des Lebens und fühlt: »Minnie!<lb/>
+Eure königliche Hoheit! Königin Hermine! Königin über<lb/>
+das Leben, König Frühling, König Kraft!« Er schickt ihr<lb/>
+Mandarinen als Geschenk, sie sendet die Schalen zurück, und<lb/>
+er freut sich ihres königlichen Trotzes. — — Nach langer<lb/>
+Zeit schickt er wieder Mandarinen, und sie schreibt einen<lb/>
+demüthigen Dankesbrief. Da ist er entzaubert und fühlt:<lb/>
+»Minnie, Ladenmädchen!« Und antwortet ihr mit brutalem<lb/>
+Hohn: »Sie, Minnchen, Sie Kleine, Dumme, Junge, wissen<lb/>
+Sie, Sie waren eine freche, ungezogene Gans,« und schmerz-<lb break="no"/>
+lich-stolz zeichnet er: »ein König«.</p>
+            <p>Einmal wirft er eine kurze Frage hin: »Gehört die Alm-<lb break="no"/>
+wiese dem Hiasl, der sie bewirtschaftet?! Sie gehört dem<lb/>
+Wanderer, der sie empfindet!« Hiasl ist der Gatte, die Alm-<lb break="no"/>
+wiese seine Frau und Peter Altenberg der Wanderer, der<lb/>
+sie empfindet. Monsieur le mari spielt bei ihm nicht gerade<lb/>
+eine dankbare Rolle. Seine Ehemänner gleichen ein bischen<lb/>
+den Museumsdienern, die gar streng darüber wachen, dass<lb/>
+keine frevle Hand die schimmernden Schätze berühre, die<lb/>
+man ihrer Obhut anvertraut; aber dem Künstler, der die Säle<lb/>
+durchwandert, können sie es doch nicht wehren, all die frohe<lb/>
+Schönheit lechzend in seine Seele zu trinken, während sie<lb/>
+selbst, die pflichtgetreuen Beamten, mürrisch und verdriess-<lb break="no"/>
+lich in der Ecke hockend, an der glitzernden und leuchtenden<lb/>
+Pracht vorbei gedankenlos in die Luft starren.</p>
+            <p>Freilich, auch die Frauen Altenberg’s haben trotz ihrer<lb/>
+Vollkommenheit einen Fehler, aber sie theilen ihn mit allen<lb/>
+Geisteskindern stark subjectiver Väter — sie gleichen einander<lb/>
+allzu sehr, denn wie überall sucht Peter Altenberg auch bei<lb/>
+den Frauen <hi rend="text-spaced">sein</hi> Ich. Aber trotz dieser ausgeprägten Sub-<lb break="no"/>
+jectivität hat Peter Altenberg sich doch ein helles Auge<lb/>
+bewahrt, das zu erspähen, was nicht sein Ich ist, und darum<lb/>
+hat er manch tiefen verstehenden Blick gethan in jenen<lb/>
+lockenden, unergründlichen Abgrund, den wir Frauenseele<lb/>
+heissen, und Laura Marholm wird den bleichen, nervösen<lb/>
+Modernen in einer neuen Auflage ihres Buches »Wir Frauen<lb/>
+und unsere Dichter« wohl nicht gut auslassen können.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-21_n0797.xml" prev="WR-01-02-21_n0796.xml" next="WR-01-02-21_n0798.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 21, S. 797</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="21"/>
+                        <biblScope unit="page" n="n0797"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-09-15">15 9 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0256">
+                  <title level="a">Abschied</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 21</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="797" to="800"/>
+                  <idno type="fn">WR-01-02-21_n0797.xml</idno>
+                  <author ref="#wr-person-0100">Linsemann, Paul</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>ABSCHIED.<lb/>
+Von <rs type="person" key="">Paul Linsemann</rs> (Berlin).</title>
+            </ab>
+            <p>Mit dem Berliner Morgenzuge war er auf dem Nordwestbahnhof<lb/>
+in Wien angekommen. Am Mittag wollte er dann nach Ischl weiter-<lb break="no"/>
+fahren.</p>
+            <p>Es war ein prachtvoller Junimorgen. Er nahm also einen Ein-<lb break="no"/>
+spänner und gebot: Nach dem Prater. Aber langsam fahren.</p>
+            <p>Er kannte jeden Baum in der Hauptallee. In jedem der Kaffee-<lb break="no"/>
+häuser hatte er mit ihr gesessen, diesen Weg war er so oft mit ihr<lb/>
+gegangen, gefahren. Das würde nun nicht mehr sein.</p>
+            <p>Und Rolf überfiel eine tiefe Traurigkeit, eine Müdigkeit der<lb/>
+Seele. Und er musste an die drei letzten Jahre seines Lebens denken.<lb/>
+Sie hiessen Dora. Und heute wurde es ihm zur Gewissheit, dass er sie<lb/>
+nie vergessen, dass ihr Schatten ihn immer begleiten würde. Ihr Bild<lb/>
+war wie mit sympathetischer Tinte in seine Seele geschrieben: der<lb/>
+Hauch einer jeden Erinnerung erweckte es zu neuem Leben. Er würde<lb/>
+sie nicht vergessen, trotz der Anderen.</p>
+            <p>Am Blatt und Grashalm blinkte noch der silbrige Thau, über<lb/>
+den die Sonnenlichter huschten. Aber Rolf sah es nicht. In seiner<lb/>
+Seele war ein fröstelnder, langweiliger, grauer Novembertag. Oede<lb/>
+und trübe.</p>
+            <p>Drei Jahre lagen hinter ihm mit ihren Tagen des Glücks und<lb/>
+ihren Tagen der Hölle. Drei lange Jahre, die dieser Frau gehörten.<lb/>
+Und nun? Nun war es aus. Nun sollte es sein, als ob nie etwas<lb/>
+gewesen wäre.</p>
+            <p>Und er ärgerte sich über das launische Herz. Im Sande also<lb/>
+verlief seine grosse Tragödie wie eine gleichgiltige, abgeschmackte<lb/>
+Philisterkomödie. Wie konnte sie nur aufhören, diese Liebe?</p>
+            <milestone unit="asterismDown"/>
+            <p>Das fragte er sich auf der langen Fahrt nach Ischl noch oft<lb/>
+genug. Einst <milestone unit="3dots"/> ja einst, da lachte er darüber. Er konnte die Mög-<lb break="no"/>
+lichkeit nicht ausdenken. Und doch war es so gekommen und musste<lb/>
+wohl auch so kommen. Rolf aber grollte über die Armseligkeit des<lb/>
+Herzens. Er begriff es wohl, wie diese Liebe enden konnte wie die<lb/>
+Kerzenflamme, die ein starker Windhauch ausbläst. Aber er wollte<lb/>
+und konnte es nicht verstehen, wie sie endet, weil ihr Material ver-<lb break="no"/>
+zehrt ist.</p>
+            <p>Er liebte sie nicht mehr, das war ihm ganz klar. Auch war ja<lb/>
+die Andere schon da. Er verglich: sie gaben einander nichts nach.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

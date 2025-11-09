@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-15_n0564.xml" prev="WR-01-02-15_n0563.xml" next="WR-01-02-15_n0565.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 15, S. 564</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="15"/>
+                        <biblScope unit="page" n="n0564"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-06-15">15 6 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0193">
+                  <title level="a">Ihr letzter Ball</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 15</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="15">15</biblScope>
+                  <biblScope unit="page" from="564" to="572"/>
+                  <idno type="fn">WR-01-02-15_n0564.xml</idno>
+                  <author ref="#wr-person-0079">Auernheimer, Raoul</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>IHR LETZTER BALL.<lb/>
+Von <rs type="person" key="">
+                     <hi rend="text-spaced">Raoul Auernheimer</hi>
+                  </rs> (Wien).</title>
+            </ab>
+            <ab>
+               <title>I.</title>
+            </ab>
+            <p>Er war 19, sie 37. Er war ein hübscher Junge, sie eine schöne<lb/>
+Frau. Auf seiner Oberlippe lagen die ersten feinen Härchen eines<lb/>
+keimenden Bartes; und um ihre schönen Augen zogen sich die ersten<lb/>
+feinen Fältchen des ungalanten Alters.</p>
+            <p>Er stand ihr gegenüber, im schwarzen Frack, mit weissen Hand-<lb break="no"/>
+schuhen und auf der Brust ein leuchtendes Comitéabzeichen.</p>
+            <p>»Sie müssen zusagen, gnädige Frau!« sagte er, beinahe herzlich,<lb/>
+in der Hoffnung, einige Karten anzubringen.</p>
+            <p>»Ach!« sagte die schöne Frau in dem schmollenden, hätschelnden<lb/>
+Tone, in dem man zu ganz kleinen Kindern spricht. »Ich gehe nicht<lb/>
+mehr auf Bälle!«</p>
+            <p>Er entrüstete sich geläufig. »Nicht mehr!« Das war ihm ganz<lb/>
+unfassbar. »Nicht mehr!«</p>
+            <p>Da trat Frau Selma ganz nahe an ihn heran, so dass der Spitzen-<lb break="no"/>
+duft ihres Morgenkleides ein wenig erstaunt Bekanntschaft machte mit<lb/>
+dem flammenden Comitéabzeichen auf seiner Brust. Und den Kopf<lb/>
+lächelnd ein wenig gesenkt, drehte sie ihre dunkelbraunen Augen<lb/>
+nach aufwärts. Das war so ein kleiner Kunstgriff, dessen sie sich seit<lb/>
+zwanzig Jahren im Verkehr mit Männern — nicht ohne Erfolg — be-<lb break="no"/>
+diente.</p>
+            <p>Herr Richard Greif erkannte sofort, dass dieser Blick verführerisch<lb/>
+wirken solle; und er ergriff ihre herzige, kleine, warme Hand und beugte<lb/>
+sich darüber, wie verstummt vor Seligkeit.</p>
+            <p>Sie entzog ihm die Hand mit einem reizenden Lächeln — es<lb/>
+war das reizende Lächeln ihrer letzten fünfzehn Jahre.</p>
+            <p>»Und wenn ich Ja sage?« meinte sie mit berechneter Unent-<lb break="no"/>
+schlossenheit.</p>
+            <p>»Sie sagen Ja!«</p>
+            <p>»Schau’n Sie nur!« sagte sie nun wieder hätschelnd, in dem<lb/>
+traulichen Altmütterchenton, den sie seit zehn Jahren etwa ganz jungen<lb/>
+Männern gegenüber in Anwendung brachte. Und unsäglich bescheiden<lb/>
+fugte sie hinzu:</p>
+            <p>»Ich werde ja sicher sitzen bleiben!«</p>
+            <p>Darüber lacht ein Comitémitglied.</p>
+            <p>Er lachte: »O, meine Gnädige! O, Sie werden des Balles Königin<lb/>
+sein, und zwanzig Pagen werden Ihren Fächer tragen.«</p>
+         </div>
+      </body>
+   </text>
+</TEI>

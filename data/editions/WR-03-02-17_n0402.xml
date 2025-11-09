@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-17_n0402.xml" prev="WR-03-02-17_n0401.xml" next="WR-03-02-17_n0403.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 17, S. 402</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="17"/>
+                        <biblScope unit="page" n="n0402"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0699">
+                  <title level="a">»Blaubart und Ariane«</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 17</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="17">17</biblScope>
+                  <biblScope unit="page" from="393" to="415"/>
+                  <idno type="fn">WR-03-02-17_n0393.xml</idno>
+                  <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MAETERLINCK: BLAUBART UND ARIANE.</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Warum ist sie arm?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SÉLYSETTE:</p>
+            <p>Sie ist zuletzt gekommen und versteht unsre Sprache nicht <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE<lb/>
+(streckt die Arme nach Alladine aus):</p>
+            <p>Alladine! <milestone unit="3dots"/> (Alladine eilt auf sie zu und umschlingt sie mit ersticktem<lb/>
+Schluchzen): Siehst Du, ich spreche ihre Sprache, wenn ich sie so umarme <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SÉLYSETTE:</p>
+            <p>Sie hat noch nicht aufgehört zu weinen <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE<lb/>
+(blickt Sélysette und die andern Frauen erstaunt an):</p>
+            <p>Aber Du selbst lachst ja noch nicht. Du klatschst nicht in die Hände, und<lb/>
+die Andern sind stumm. Was ist denn? Wer seid Ihr denn? <milestone unit="3dots"/> Lebt Ihr<lb/>
+immer so im Schrecken? Ihr lächelt kaum und folgt meinen Bewegungen mit<lb/>
+ungläubigen Augen. Wollt Ihr denn nicht an die frohe Botschaft glauben? Seht<lb/>
+Ihr denn nicht das Licht und die Thüre weit offen und die Treppe, die zu<lb/>
+weiten grünen Gärten hinaufführt, die droben blühen? Wisst Ihr denn nicht,<lb/>
+dass es Frühling ist? Als ich durch den Park nach den Grotten gieng, die<lb/>
+hier herunterführen, ach, da sog ich Lichtstrahlen und blauen Raum und<lb/>
+Morgenduft ein <milestone unit="3dots"/> So viele Blumen blühten unter jedem meiner Schritte,<lb/>
+dass ich nicht wusste, wohin ich meine blinden Fusse setzen sollte <milestone unit="3dots"/> Habt<lb/>
+Ihr denn die Sonne vergessen und den Thau in den Bäumen und das Lächeln<lb/>
+der See? Sie lachte heute morgens, wie sie dem hellen Lichte zulacht, wenn<lb/>
+sie selig erwacht, und ihre tausend kleinen Wellchen huldigten mir am Ge-<lb break="no"/>
+stade <milestone unit="3dots"/> Kommt, folgt mir; die Thür erwartet Euch und meine Lampe <milestone unit="3dots"/>
+               <lb/>
+Oh! <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <p>(Einer der Wassertropfen, wie sie ununterbrochen die hohen Wölbungen aus-<lb break="no"/>
+schwitzen, fällt in diesem Augenblick in die Flamme der Lampe; gerade als Ariane<lb/>
+sich zur Thür wandte und sie vor sich hielt. Das Licht zittert noch einmal auf und<lb/>
+verlischt dann plötzlich ganz. Die Amme stösst einen Schreckensruf aus, und Ariane<lb/>
+steht betroffen.)</p>
+            <milestone unit="speech-start"/>
+            <p>ARIANE<lb/>
+(im Dunkeln):</p>
+            <p>Wo seid Ihr?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SÉLYSETTE:</p>
+            <p>Hier <milestone unit="3dots"/> Nehmt meine Hand. Geht nicht weiter; auf dieser Seite ist ein<lb/>
+stilles Wasser und sehr tief <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Seht Ihr denn noch?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SÉLYSETTE:</p>
+            <p>Wir haben ja lange genug in dieser Finsternis gelebt <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>MELISANDE<lb/>
+(kommt auch herbei):</p>
+            <p>Gebt mir die andere Hand. Das stille Wasser sperrt den ganzen Raum<lb/>
+nach der Thür zu.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>YGRAINE<lb/>
+(ebenfalls herbeieilend):</p>
+            <p>Ihr könnt den Weg nicht zurückfinden <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

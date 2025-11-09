@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-05_n0181.xml" prev="WR-01-01-05_n0180.xml" next="WR-01-01-05_n0182.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 5, S. 181</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="05"/>
+                        <biblScope unit="page" n="n0181"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-01-15">15 1 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0054">
+                  <title level="a">Alladine und Palomides</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 5</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="174" to="183"/>
+                  <idno type="fn">WR-01-01-05_n0174.xml</idno>
+                  <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">ALLADINE UND PALOMIDES.</fw>
+               <fw type="pn">181</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi>.</p>
+            <p>Betrachte Alles, was sich um uns her erhellt <milestone unit="3dots"/> Das<lb/>
+Licht wagt nicht mehr zu zaudern, und wir umarmen uns<lb/>
+in den Vorhallen des Himmels <milestone unit="3dots"/> Siehst du das Edelgestein<lb/>
+der Gewölbe, trunken von Leben scheint es uns zuzulächeln;<lb/>
+und die tausend und abertausend leuchtender, blauer Rosen,<lb/>
+die längs der Pfeiler emporranken <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Oh! <milestone unit="3dots"/> Ich habe gehört! <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi>.</p>
+            <p>Was?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Man hat an die Felsen geschlagen <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi>.</p>
+            <p>Nein, nein; es sind die goldenen Pforten eines neuen<lb/>
+Paradieses, die sich in unseren Seelen öffnen und in ihren<lb/>
+Angeln klingen! <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Horch’ <milestone unit="3dots"/> wieder, wieder!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi> (mit jählings veränderter Stimme).</p>
+            <p>Ja; dort ist es <milestone unit="3dots"/> Im Grunde der blauesten Gewölbe <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Sie kommen, um uns <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi>.</p>
+            <p>Ich höre das Eisen gegen den Felsen klingen <milestone unit="3dots"/> Sie<lb/>
+haben die Thüre vermauert oder können sie nicht öffnen <milestone unit="3dots"/>
+               <lb/>
+Es sind Hacken, die am Gesteine scharren <milestone unit="3dots"/> Seine Seele<lb/>
+hat ihm gesagt, dass wir glücklich waren <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <p>(Stille; dann löst sich ein Stein am äussersten Ende des Gewölbes los,<lb/>
+und ein Strahl des Tageslichtes bricht in den unterirdischen Raum ein.)</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Oh! <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi>.</p>
+            <p>Das ist ein anderes Licht <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <p>(Regungslos und beklommen sehen sie andere Steine sich langsam in<lb/>
+einer unerträglichen Deutlichkeit loslösen und fallen, einen um den andern,</p>
+         </div>
+      </body>
+   </text>
+</TEI>

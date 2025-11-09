@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-08_n0293.xml" prev="WR-01-01-08_n0292.xml" next="WR-01-01-08_n0294.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 8, S. 293</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="08"/>
+                        <biblScope unit="page" n="n0293"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-03-01">1 3 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0092">
+                  <title level="a">Pyrrhussieg</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 8</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="291" to="293"/>
+                  <idno type="fn">WR-01-01-08_n0291.xml</idno>
+                  <author ref="#wr-person-0014">Strauss, Rudolf</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">PHYRRHUSSIEG.</fw>
+               <fw type="pn">293</fw>
+            </fw>
+            <p>»Mutti, komm,« sagte sie zu der alten, starken Dame, an deren<lb/>
+Seite sie gesessen. »Da unten gehen Dinge vor, bei denen ich wirklich<lb/>
+nicht gesehen werden darf <milestone unit="3dots"/>«</p>
+            <p>»Was? Du willst fort? Ja, du bist doch sonst so modern!?«<lb/>
+klang es erstaunt zurück.</p>
+            <p>Allein Lisa hatte sich vom Logenschliesser schon den weiten,<lb/>
+dunkelblauen, pelzbesetzten Theatermantel reichen lassen; jetzt sagte<lb/>
+sie: »Na ja, Mutti, ich kann ja wirklich so Manches vertragen. Aber<lb/>
+weisst du, es kommt doch auch darauf an <milestone unit="3dots"/>«</p>
+            <p>»<hi rend="text-spaced">Wie</hi> es gesagt wird, meinst du? <milestone unit="3dots"/>«</p>
+            <p>»Nein! Aber <hi rend="text-spaced">wer</hi> es sagt!«</p>
+            <p>»<hi rend="text-spaced">Wer</hi> es sagt?« wiederholte die alte, starke Dame, indem sie<lb/>
+kopfschüttelnd der schlanken, ragenden Gestalt ihrer Tochter folgte.<lb/>
+»Das ist mir zu hoch. Das verstehe ich nicht.«</p>
+            <p>Aber Leo, der strahlend eben in der Logenthür erschien, ver-<lb break="no"/>
+stand <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-24_n0921.xml" prev="WR-01-02-24_n0920.xml" next="WR-01-02-24_n0922.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 24, S. 921</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="24"/>
+                        <biblScope unit="page" n="n0921"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-11-01">1 11 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0295">
+                  <title level="a">Die junge Generation</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 24</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="921" to="928"/>
+                  <idno type="fn">WR-01-02-24_n0921.xml</idno>
+                  <author ref="#wr-person-0071">Schmitz, Oscar A. H.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIE JUNGE GENERATION.<lb/>
+                  <hi rend="text-spaced">Von</hi>
+                  <rs type="person" key="">
+                     <hi rend="text-spaced">Oscar</hi> A. H. <hi rend="text-spaced">Schmitz</hi>
+                  </rs> (<hi rend="text-spaced">Paris</hi>).</title>
+            </ab>
+            <milestone unit="epigraph-start"/>
+            <p>
+               <hi rend="text-spaced">Motto</hi>: Nous avons dissocié l’éducation du corps, de<lb/>
+l’âme et de l’esprit. Nos sciences physiques et<lb/>
+naturelles, très avancées en elle-mêmes font ab-<lb break="no"/>
+straction du principe de l’âme et de sa diffusion<lb/>
+dans l’univers; notre religion ne satisfait pas aux<lb/>
+besoins de l’intelligence; notre médecine ne veut<lb/>
+rien savoir ni de l’âme ni de l’esprit. <hi rend="italics">L’homme<lb/>
+contemporain cherche le plaisir sans le bonheur,<lb/>
+le bonheur sans la science, et la science sans la<lb/>
+sagesse.</hi> L’antiquité n’admettait pas, qu’on put<lb/>
+séparer ces choses. Dans tous les domaines elle<lb/>
+tenait compte de la triple nature de l’homme.</p>
+            <p>(<rs type="person" key="">
+                  <hi rend="italics">Ed. Schuré</hi>
+               </rs>, Les grands Initiés.)</p>
+            <milestone unit="untyped-end"/>
+            <p>Wenn in diesem blassen Zeitalter ein Schauspiel der Betrachtung<lb/>
+würdig erscheint, so sind es die verschwiegenen Leiden derer, welche<lb/>
+in dem gepriesenen Fortschritt dieses letzten Jahrhunderts nichts als die<lb/>
+zunehmende Verfinsterung eines Gestirns erblicken können, dessen milder<lb/>
+Schimmer über allen Heiligthümern ausgegossen lag, ob sie auf den<lb/>
+Höhen über den verbrannten Ebenen der Sonnenländer oder an den<lb/>
+träumerischen Flüssen und in den geflüstervollen Hainen des Nordens<lb/>
+gehütet wurden.</p>
+            <p>Das Gefühl des Unendlichen ist verloren worden unter den<lb/>
+Menschen, aber ich habe in den Städten des kranken Europa blasse<lb/>
+Jünglinge gesehen, in deren Blicken die Trauer der Spätgeborenen liegt;<lb/>
+welche, hingesunken vor der Schönheit des Vergangenen, sich in ihrer<lb/>
+Minderzahl ohnmächtig dünken, etwas Anderes als Wissende zu sein.<lb/>
+In fast priesterlichen Kreisen abgeschlossen, von den Drängen lebend,<lb/>
+welche heute als bewundernswürdig gelten, erkennen sie sich an<lb/>
+einzelnen Worten, obgleich nie eine Uebereinkunft zwischen ihnen ge-<lb break="no"/>
+troffen wurde, und es ist nur um ein Geringes übertrieben, wenn ich<lb/>
+behaupte, dass sie sich von Anderen schon durch die Art unterscheiden,<lb/>
+wie sie Speisen und Getränke fordern. Die Wundenmale ihrer ewigen<lb/>
+Kreuzigung ersetzen ihnen ein Schiboleth, dessen Aussprache vielleicht<lb/>
+eine gewandte Zunge erlernen könnte.</p>
+            <p>In allen Zeiten — mit Ausnahme dieser — verehrte man un-<lb break="no"/>
+bewusst das Ausserordentliche. Ein bevorzugtes Geschlecht, welches<lb/>
+vielleicht nichts als sein Stolz und eine masslose Verachtung der<lb/>
+Bürgerlichkeit unterschied, leitete die menschlichen Geschicke, berathen<lb/>
+von denen, welche kraft ihrer beschaulichen Weisheit über dem end-<lb break="no"/>
+lichen Leben standen. In der dunkeln Masse derer, die nichts sind als<lb/>
+eine Zahl, konnte nur der Ausserordentliche wahrgenommen werden.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-13_n0520.xml" prev="WR-01-02-13_n0519.xml" next="WR-01-02-14_n0521.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 13, S. 520</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="13"/>
+                        <biblScope unit="page" n="n0520"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-05-15">15 5 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0173">
+                  <title level="a">Szczepanski,»Srebrne noce«</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 13</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="519" to="520"/>
+                  <idno type="fn">WR-01-02-13_n0519.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">520</fw>
+               <fw type="ctext">KRITIK.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>er seinen Weg finden. — — Wir<lb/>
+haben in dem vornehmen Buche<lb/>
+zu Ende geblättert und wenden<lb/>
+uns zum wiederholtenmale dem<lb/>
+entzückend-schönen Titelbilde zu,<lb/>
+das Heinrich Rauchinger, der be-<lb break="no"/>
+kannte Wiener Künstler, gemalt.<lb/>
+Es ist in Pastellfarben ausgeführt<lb/>
+und wirkt durch seinen intimen<lb/>
+Reiz und den von jeder Manier<lb/>
+und Schablone freien subtilen<lb/>
+Charakterzug. Wir sehen nichts<lb/>
+als ein paar krampfhaft verzogene<lb/>
+Hände, die im fieberhaften Ver-<lb break="no"/>
+langen nach der Mondscheibe<lb/>
+greifen und die weissen, schimmern-</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">den Sterne vergebens zu erhaschen<lb/>
+suchen; wir sehen nichts als die<lb/>
+sehnsüchtig gekrümmten Finger<lb/>
+und die silberne, zitternde Mond-<lb break="no"/>
+fläche mit dem strahlenden Sterne-<lb break="no"/>
+reigen. Eine eigenartige, tiefe Poesie<lb/>
+erfüllt das kleine, scheinbar unbe-<lb break="no"/>
+deutende Blatt. Wie geheimnissvoll<lb/>
+bange muthet uns der dunkle,<lb/>
+bläuliche Grundton an! Wie von<lb/>
+weichen Traumfittigen getragen,<lb/>
+schimmert durch einen fernen<lb/>
+Silberschleier der Titel des Buches<lb/>
+hindurch: Lunatica.</p>
+                     <p>
+                        <hi rend="italics">
+                           <rs type="person" key="">Leo Grünstein</rs>.</hi>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="hr"/>
+            <milestone unit="imprint-start"/>
+            <p>Herausgeber und verantwortlicher Redacteur: <hi rend="text-spaced">Rudolf Strauss</hi>.</p>
+            <p>Ch. Reisser &amp; M. Werthner, Wien.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

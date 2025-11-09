@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-01_n0026.xml" prev="WR-02-01-01_n0025.xml" next="WR-02-01-01_n0027.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 1, S. 26</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0026"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-11-15">15 11 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0304">
+                  <title level="a">Randglossen über London </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="19" to="26"/>
+                  <idno type="fn">WR-02-01-01_n0019.xml</idno>
+                  <author ref="#wr-person-0118">Daudet, Madame Alphonse</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">26</fw>
+               <fw type="ctext">DAUDET.</fw>
+            </fw>
+            <p rend="no-intend">munternden Blick, der lustig dreinschauenden Nase, dem geschwungenen<lb/>
+Mund. Alle Darstellungsweisen gleichen beinahe derjenigen, welche er<lb/>
+»die Maus nennt« — ja die kleine schlaue und boshafte Maus, und<lb/>
+so deutlich misstrauisch auf die Falle. Lawrence, hier zu amtlich, ob-<lb break="no"/>
+gleich er den Gestalten, welche er malt, einen lebhaften, weichen Blick<lb/>
+gibt, einen Blick, der denkt und in sich aufnimmt, gleichzeitig tief und<lb/>
+nachdenklich.</p>
+            <p>Unter den Meisterwerken dieses Museums, welches hieran so<lb/>
+reich ist, die Turner, die in der Färbung des orangefarbenen Himmels,<lb/>
+etwas an jene Verschiffungen unseres Claude Borrain nach Traum-<lb break="no"/>
+ländern erinnern, beim Sinken des Tages, mit Tonnen von Perlen und<lb/>
+Diamanten, mit Ballen durchwirkter Stoffe für irgend eine Prinzessin<lb/>
+aus 1001 Nacht.</p>
+            <p>(Schluss folgt.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

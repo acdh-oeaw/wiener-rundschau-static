@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-20_n0349.xml" prev="WR-04-20_n0348.xml" next="WR-04-20_n0350.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 20, S. 349</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="20"/>
+                        <biblScope unit="page" n="n0349"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0956">
+                  <title level="a">Aus der Ballade des Stockhauses zu Reading</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 20</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="20">20</biblScope>
+                  <biblScope unit="page" from="345" to="349"/>
+                  <idno type="fn">WR-04-20_n0345.xml</idno>
+                  <author ref="#wr-person-0068">Wilde, Oscar</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0957">
+                  <title level="a">Sigbjörn Obstfelder</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 20</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="20">20</biblScope>
+                  <biblScope unit="page" from="349" to="352"/>
+                  <idno type="fn">WR-04-20_n0349.xml</idno>
+                  <author ref="#wr-person-0306">Heiberg, Gunnar</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">HEIBERG: SIGBJÖRN OBSTFELDER.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <lg>
+                        <l>Und jedes Menschenherz, das bricht</l>
+                        <l>Im Kerkerhof oder Zelle,</l>
+                        <l>Ist wie der geborstene Schrein, der zum</l>
+                        <l>Licht</l>
+                        <l>Des Vaters hinaufreicht seines Schatzes</l>
+                        <l>Helle</l>
+                        <l>Und ausgießt der kostbarsten Narden Duft</l>
+                        <l>Über des Aussätzigen unreine Schwelle.</l>
+                     </lg>
+                     <lg>
+                        <l>O selig, deren Herz vergeht</l>
+                        <l>Und durch Verzeihung den Frieden ge-</l>
+                        <l>winnt!</l>
+                        <l>Wie fände der Mensch sonst den richtigen</l>
+                        <l>Weg,</l>
+                        <l>Zu reinigen sich von der Sünde?</l>
+                        <l>Wie könnt’ in ein gebrochenes Herz</l>
+                        <l>Herr Jesus Eingang finden?</l>
+                     </lg>
+                     <milestone unit="asterisk"/>
+                  </cell>
+                  <cell>
+                     <lg>
+                        <l>Und der mit dem geschwollenen Purpurhals</l>
+                        <l>Und der glotzenden Augen Gegleiß</l>
+                        <l>Erwartet die heilige Hand, die geführt</l>
+                        <l>Den Dieb ins Paradeis;</l>
+                        <l>Denn ein gebrochenes, reuiges Herz</l>
+                        <l>Der Herr nimmer von sich weist.</l>
+                     </lg>
+                     <lg>
+                        <l>Der Mann in Roth, der die Gesetze verliest,</l>
+                        <l>Gab ihm drei Wochen Frist,</l>
+                        <l>Drei kleine Wochen, damit in der Zeit</l>
+                        <l>Seine Seele er heile von ihrem Zwist</l>
+                        <l>Und wasche die letzte Spur von Blut</l>
+                        <l>Von der Hand, die der Stahl entweiht.</l>
+                     </lg>
+                     <lg>
+                        <l>Und er wusch sie in blutiger Thränenflut,</l>
+                        <l>Die Hand, die entweihte der Stahl;</l>
+                        <l>Denn Blut allein kann löschen Blut,</l>
+                        <l>Und Thränen allein machen Unheil gut;</l>
+                        <l>So wurde aus Kains grellrothem Mal</l>
+                        <l>Das schneeweiße Siegel des Christ.</l>
+                     </lg>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">SIGBJÖRN OBSTFELDER</hi>.<lb/>
+Von <rs type="person" key="">GUNNAR HEIBERG</rs> (Paris).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>
+                        <hi rend="text-spaced">Obstfelder</hi> steht in der norwegi-<lb break="no"/>
+schen Kunst neben dem Maler <hi rend="text-spaced">Munch</hi>
+                        <lb/>
+und dem Bildhauer <hi rend="text-spaced">Vigeland</hi>. Sie be-<lb break="no"/>
+wohnen eine Insel für sich. Traurig, er-<lb break="no"/>
+füllt vom Leben, vor allem vom Schmerz<lb/>
+des Lebens, stehen die Drei da; erfüllt<lb/>
+davon, wie sonderbar das Leben ist, wie<lb/>
+mystisch es ist, geboren zu sein; stehen<lb/>
+wachsam, gespannt horchend, ob die<lb/>
+Lösung des Räthsels sich aus der Natur<lb/>
+enthüllen werde; stehen, wie auf den Tod<lb/>
+vorbereitet. Ihr Eigenartiges konnten sie<lb/>
+von niemandem lernen. Denn nicht die<lb/>
+äußere Natur ist es, die sie interessiert,<lb/>
+sondern der Kern der Dinge. Kunst und<lb/>
+Leben sind eins für sie. Sie können sich<lb/>
+nicht spalten. Ihre Kunst sind Blutstropfen,<lb/>
+die sich aus ihrem Leben hervorpressen.<lb/>
+Was sie geben, ist immer erlebt. Ihre<lb/>
+Seele geben sie unmittelbar, die äußere<lb/>
+Natur nur mittelbar.</p>
+                     <p>Munch sieht quer durch die Dinge.<lb/>
+Sein Blick ist grausam, unerbittlich, wie</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">der eines jungen Imperators. Vigeland ist<lb/>
+von Mitleid mit den Menschen erfüllt.<lb/>
+Ihre Freuden sind nicht die seinigen, aber<lb/>
+ihre Leiden. Obstfelder betrachtet die<lb/>
+Menschen aus größerer Entfernung, freier.<lb/>
+Sein Mitgefühl reicht an die Freuden,<lb/>
+welche Gedankensiege, Schönheit und<lb/>
+Zusammenhang den Menschen geben.</p>
+                     <p>Es ist schwer, zu entscheiden, wer<lb/>
+von beiden der größere Künstler ist, Munch<lb/>
+oder Obstfelder. Obstfelder aber ist als<lb/>
+Mensch, als Geist reicher. Er denkt klar,<lb/>
+er empfindet musikalisch. Seine wunder-<lb break="no"/>
+vollen Symphonien »Liv« und »Die Ebene«<lb/>
+haben diese Klarheit, diese musikalische<lb/>
+Empfindung. Sie haben die weichsten<lb/>
+Töne, die je in norwegischer Poesie er-<lb break="no"/>
+klungen sind, und doch sind diese Gedichte<lb/>
+in Prosa so sicher in der Form, so klar<lb/>
+und voller Verständnis für die Menschen,<lb/>
+so voll von dem Bewusstsein, dass Freude<lb/>
+Schmerz gebären kann und dass aus dem<lb/>
+Leiden ein Trost, ein großer, befreiender</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

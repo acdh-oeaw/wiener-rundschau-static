@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-07_n0272.xml" prev="WR-02-01-07_n0271.xml" next="WR-02-01-07_n0273.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 7, S. 272</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="07"/>
+                        <biblScope unit="page" n="n0272"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-02-15">15 2 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0359">
+                  <title level="a">Über Agitatoren</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 7</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="269" to="272"/>
+                  <idno type="fn">WR-02-01-07_n0269.xml</idno>
+                  <author ref="#wr-person-0101">Grossmann, Stefan</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">272</fw>
+               <fw type="ctext">GROSSMANN.</fw>
+            </fw>
+            <p rend="no-intend">setzungen und Reden ist es, wenn sich Jemand von Polizisten aus dem<lb/>
+Saal schleppen lässt. <hi rend="text-spaced">Die Symbolik einer That verstehen Alle</hi>.<lb/>
+Ein Schelm, um bei dem Worte Goethe’s zu bleiben, hat ein gutes Beispiel<lb/>
+gegeben. Er war ein Repräsentant der Deutschen, eines Tages stand<lb/>
+er mit der Pistole seinem polnischen Deutschenfeind gegenüber. Dieses<lb/>
+Bild ist von einer sehr eindringlichen Symbolik. Ihr mögt noch so viel<lb/>
+kleinbürgerliche Bedenken gegen das Duell vorbringen, es ist doch<lb/>
+das sichtbarste, lebendige und symbolische Feindschaftsverhältniss. Die<lb/>
+Leute verstehen diese Symbolik ganz vortrefflich.</p>
+            <p>Aber wie viele Agitatoren verstehen etwas von dieser Art Agitation?<lb/>
+Statt agitatorisch zu reden, agitatorisch zu leben, wie viele Versamm-<lb break="no"/>
+lungsschwätzer wissen davon? Aber welche Verirrung: Ich habe an<lb/>
+               <hi rend="text-spaced">heroische</hi> Agitatoren gedacht! — —</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

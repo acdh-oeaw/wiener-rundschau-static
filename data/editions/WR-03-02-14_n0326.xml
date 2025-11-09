@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-14_n0326.xml" prev="WR-03-02-14_n0325.xml" next="WR-03-02-14_n0327.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 14, S. 326</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="14"/>
+                        <biblScope unit="page" n="n0326"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0678">
+                  <title level="a">Die Wahl</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 14</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="14">14</biblScope>
+                  <biblScope unit="page" from="325" to="327"/>
+                  <idno type="fn">WR-03-02-14_n0325.xml</idno>
+                  <author ref="#wr-person-0225">Rossetti, Dante Gabriel</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">ROSSETTI: DIE WAHL.</fw>
+            </fw>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>I.</title>
+            </ab>
+            <lg>
+               <l>Iss du und trink: du stirbst bevor es Tag.</l>
+               <l>Fürwahr, die weise Erde braucht uns nicht.</l>
+               <l>Lass mich aus deinen Armen nun und flicht</l>
+               <l>Dein schwüles Haar, das mir so nahe lag —</l>
+            </lg>
+            <lg>
+               <l>Dass ich dir diesen Wein credenzen mag,</l>
+               <l>Bis dir sein Goldglanz flimmert ums Gesicht,</l>
+               <l>Dein Lied — wie Springflut Schleier wirft ums Licht</l>
+               <l>Ertöne perlender beim Stundenschlag.</l>
+            </lg>
+            <lg>
+               <l>Küss mich, hochbusge Schöne, nun und glaub:</l>
+               <l>Gar manche gibt’s — sie tragen Stein an Stein</l>
+               <l>Zu eitlen Gütern und zu eitler Pflicht —</l>
+            </lg>
+            <lg>
+               <l>Kommt einmal dann ein Tag, sie sterben nicht —</l>
+               <l>Sie lebten nie — doch hören auf zu sein;</l>
+               <l>Und dicht um ihren starren Mund fällt Staub.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

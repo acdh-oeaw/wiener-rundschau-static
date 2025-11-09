@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-01_n0035.xml" prev="WR-02-01-01_n0034.xml" next="WR-02-01-01_n0036.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 1, S. 35</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0035"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-11-15">15 11 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0307">
+                  <title level="a">Die »Jugend« — und kein Ende </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="31" to="35"/>
+                  <idno type="fn">WR-02-01-01_n0031.xml</idno>
+                  <author ref="#wr-person-0028">Wilhelm, Paul</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DIE »JUGEND« — UND KEIN ENDE.</fw>
+               <fw type="pn">35</fw>
+            </fw>
+            <p rend="no-intend">sociale Tragödie, die dem modernen Drama der Jugendliebe zu-<lb break="no"/>
+grunde liegt.</p>
+            <p>So kam denn nach der letzten Literaturperiode mit ihrem matten,<lb/>
+greisenhaften Pulsschlag die junge, drängende Kunst des modernen<lb/>
+Stimmungsmenschen, dessen reiche Nerven- und Sinnenwelt nach Be-<lb break="no"/>
+freiung lechzt und durch die Freiheit in der Liebe die Pforte sucht<lb/>
+aus der Knechtschaft des Lebens. Diese junge Kunst mit ihrer tiefen<lb/>
+Befreiungssehnsucht und ihrem verzehrenden Erlösungsdrang brauchte<lb/>
+ein neues Drama der Liebe, dessen Tragik eine erschütternde An-<lb break="no"/>
+klage, eine künstlerische Revolution gegen die Tyrannei des modernen<lb/>
+Lebens bedeutete. Dieses Drama musste geschrieben werden, der Stoff<lb/>
+war vorhanden, er hing gleichsam in der Luft. Max Halbe hat glück-<lb break="no"/>
+lich zugegriffen. Es ist schade, denn er hat kein volles Kunstwerk<lb/>
+daraus zu schaffen vermocht. Er gab ein Trauerspiel, dessen Schicksal<lb/>
+das bedeutet, was es gestalten sollte: ein Stück Jugend, deren be-<lb break="no"/>
+freienden Aufschwung das plumpe Leben niederhält, über das sie<lb/>
+nicht hinwegzukommen vermag.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

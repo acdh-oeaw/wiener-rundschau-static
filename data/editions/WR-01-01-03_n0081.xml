@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-03_n0081.xml" prev="WR-01-01-02_n0080.xml" next="WR-01-01-03_n0082.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 3, S. 81</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0081"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-15">15 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0025">
+                  <title level="a">Kind Gottes</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="81" to="87"/>
+                  <idno type="fn">WR-01-01-03_n0081.xml</idno>
+                  <author ref="#wr-person-0016">Janitschek, Maria</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>15. <hi rend="text-spaced">DECEMBER</hi>, 1896</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>KIND GOTTES.<lb/>
+Skizze von <rs type="person" key="">Maria Janitschek</rs> (Berlin).</title>
+            </ab>
+            <p>Es war im Lüneburger Haideland.</p>
+            <p>Weit wölbte sich der Himmel über dem braunrothen<lb/>
+Boden wie eine ungeheuere, schützend ausgebreitete Hand.<lb/>
+Dunkelgrüne Eschengruppen, die hie und da die einförmige<lb/>
+Fläche unterbrachen, verbargen in ihren Schatten kleine,<lb/>
+wunderliche, strohgedeckte Häuser. Vor diesen Gelassen,<lb/>
+die man kaum Nachbarhäuser nennen konnte, weil sie so<lb/>
+weit von einander entfernt lagen, sass die Einsamkeit und<lb/>
+spielte auf unsichtbarer Laute ihr grosses geheimnissvolles<lb/>
+Lied. Die rüstigen Arbeiter in der Mitte des Lebens, die<lb/>
+zusehen mussten, Kisten und Truhen zu füllen, und gruben<lb/>
+und harkten und schnitten, hatten nicht Musse, darauf zu<lb/>
+lauschen. Aber die Greise und Kinder, die unthätig vor den<lb/>
+Hütten sassen, die vernahmen es und bogen die Köpfe vor<lb/>
+wie Horchende und verloren ihre Seelen in der Unermess-<lb break="no"/>
+lichkeit dieses Himmels.</p>
+            <p>Eine dieser weltfernen Niederlassungen beherbergte<lb/>
+nebst einer bejahrten Familie, deren Kinder schon längst<lb/>
+ausgeflogen waren, eine Frau und einen Knaben. Er war<lb/>
+nicht ihr eigener; sie hatte ihn angenommen, damit sie einen<lb/>
+Sohn und er eine Mutter habe. Später merkte sie, dass sie<lb/>
+ihn doch nicht so lieb haben konnte, wie sie es gewünscht<lb/>
+hätte.</p>
+            <p>Um sich aber immer zu erinnern, dass er, der Vater-<lb/>
+und Mutterlose, besonderer Güte und Sorgfalt verdiene, rief<lb/>
+sie ihn statt nach seinem Namen: Kind Gottes.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

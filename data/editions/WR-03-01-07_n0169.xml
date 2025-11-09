@@ -1,0 +1,204 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-07_n0169.xml" prev="WR-03-01-07_n0168.xml" next="WR-03-01-07_n0170.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 7, S. 169</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="07"/>
+                        <biblScope unit="page" n="n0169"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0596">
+                  <title level="a">Ein deutsches Drama</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 7</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="168" to="171"/>
+                  <idno type="fn">WR-03-01-07_n0168.xml</idno>
+                  <author ref="#wr-person-0071">Schmitz, Oscar A. H.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">SCHMITZ: EIN DEUTSCHES DRAMA.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">von Schlafkammern der Geistlichen und<lb/>
+Laien erschöpft, wie er etwa von Luther bis<lb/>
+ungefähr zum westfälischen Frieden den<lb/>
+deutschen Geschmack beherrschte, bereits<lb/>
+von der schlesischen Vorläuferin unserer<lb/>
+grossen Literatur verdrängt worden ist.<lb/>
+Wie erstaunlich ist also das Wagnis eines<lb/>
+modernen Dichters, den man zu den sym-<lb break="no"/>
+bolischen zählt — womit man in Deutsch-<lb break="no"/>
+land die Geschmackvollen meint — einen<lb/>
+so anrüchigen Stoff aus den Culturtrümmern<lb/>
+des 30jährigen Krieges hervorzuwühlen.<lb/>
+Es braucht kaum gesagt zu werden, dass<lb/>
+er zunächst seinem Helden den excremen-<lb break="no"/>
+tiellen Charakter und damit auch alle<lb/>
+Hoffnung auf die so beliebte »altdeutsche«<lb/>
+Sittenbildlichkeit benahm. Der unge-<lb break="no"/>
+brochene Schwärmer für Ahnenrohheit<lb/>
+wird vielleicht von einer weichlichen Ab-<lb break="no"/>
+schwächung einer derben und teutonischen<lb/>
+Volksfigur sprechen. Der Dichter hat den<lb/>
+Stoff so durchaus umgestaltet, dass sogar<lb/>
+die Frage müssig wird, ob der Eulen-<lb break="no"/>
+spiegeltypus im deutschen Nationalbewusst-<lb break="no"/>
+sein noch lebendig ist. In unserer hessischen<lb/>
+Heimat ist es dem Volk noch bekannt,<lb/>
+dass dieser grausame Spassmacher seine<lb/>
+Grossmutter mit der Mistgabel kitzelte,<lb/>
+dass er lachte, wenn er bergauf gieng,<lb/>
+indem er sich auf den Abstieg freute,<lb/>
+während er aus dem entgegengesetzten<lb/>
+Grunde weinte, wenn er niederstieg.<lb/>
+Diese beiden Züge des vernichtenden<lb/>
+Spottes gegen den Schwachen oder Trägen,<lb/>
+der nicht mit kann im brausenden Zuge<lb/>
+des Lebens, sowie der perversen Logik<lb/>
+des zu wörtlich Nehmens der Worte, auf<lb/>
+welche die Menschen eingeschworen sind<lb/>
+und dadurch der Umkehrung ihres Sinnes,<lb/>
+hat Fuchs in sein Charakterbild aufge-<lb break="no"/>
+nommen. Aber dieser Held wird mit seinen<lb/>
+ewigen Scherzen und Neckereien zum<lb/>
+alles bewegenden Erreger des glühendsten<lb/>
+Werdens:</p>
+                     <milestone unit="performance-start"/>
+                     <milestone unit="speech-start"/>
+                     <p>Eulenspiegel.</p>
+                     <lg>
+                        <l>»Hier ist mein Element,</l>
+                        <l>Wo Blut und Geist noch unbarmherzig brennt!</l>
+                        <l>Pfui über all das zahme Einerlei!</l>
+                        <l>Vergebens rührt man in dem schalen Brei,</l>
+                        <l>Doch am Stahle wirkt der Feuerstein:</l>
+                        <l>Funken heraus! Sonst schläft die Menschheit</l>
+                        <l>ein!«</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                     <p>Er ist das Gegenspiel des bleichen<lb/>
+Dänenprinzen, dem die erdrückende Auf-<lb break="no"/>
+gabe ward, mit schwachem Arm die Welt</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">in die Fugen zu bringen. Eulenspiegel<lb/>
+findet alles nur zu wohl gefügt, die Liebe<lb/>
+in Unbewusstheit gefesselt, die Macht in<lb/>
+todter Form erstarrt, das Handeln von<lb/>
+scheuem Brüten gehemmt.</p>
+                     <milestone unit="performance-start"/>
+                     <milestone unit="speech-start"/>
+                     <p>Eulenspiegel.</p>
+                     <lg>
+                        <l>»Erst war es still,</l>
+                        <l>Jetzt bin ich da! Jetzt klopf ich an! Der Fels</l>
+                        <l>klingt hohl;</l>
+                        <l>Ich steche den Stein: Ein Feuer spritzt,</l>
+                        <l>Ein Quell erbraust, und was da träge sitzt,</l>
+                        <l>Läuft und dürstet, schöpft und hat zu thun,</l>
+                        <l>Zankt und nützt den Quell, um besser dann</l>
+                        <l>zu ruh’n.</l>
+                        <l>Schon bin ich fort, und keiner weiss, wer ihn</l>
+                        <l>geschüttelt,</l>
+                        <l>Ich bin ein Falke, der im Äther rüttelt</l>
+                        <l>Und dann unfehlbar stösst.«</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                     <p>Er rüttelt an den Pfeilern der Sittlich-<lb break="no"/>
+keit um zum Schaffen zu erwecken. Denn<lb/>
+er ist</p>
+                     <milestone unit="untyped-start"/>
+                     <p>»Der Hort des unverfälschten Lebens«</p>
+                     <milestone unit="untyped-end"/>
+                     <p>und darum ehrt er noch lieber den Zerstörer<lb/>
+— wie aus der Achtung vor seinem<lb/>
+Gegenspieler Rother erhellt — als den<lb/>
+Lauen und Trägen.</p>
+                     <milestone unit="performance-start"/>
+                     <milestone unit="speech-start"/>
+                     <p>Eulenspiegel.</p>
+                     <lg>
+                        <l>»Dass ich nicht alle trägen Gesellen</l>
+                        <l>Von den Bänken konnte schnellen,</l>
+                        <l>Dass ich nicht mit Hagel und Blitz</l>
+                        <l>Zerstob jeden nutzlosen, feisten Besitz,</l>
+                        <l>Nicht alle verrieth, die sich feige vergruben,</l>
+                        <l>Und Fackeln warf in die dunkelsten Stuben,</l>
+                        <l>Nicht alle neckte,</l>
+                        <l>Die von Salbung triefen,</l>
+                        <l>Nicht alle weckte,</l>
+                        <l>Die das Leben, das Leben verschliefen,</l>
+                        <l>Und alle befreite, die nach Schaffen riefen:</l>
+                        <l>Das ist mir leid!«</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                     <p>Wo er nahet, schafft er Erwachen,<lb/>
+Kampf und Sieg; sein Lied berückt, sein<lb/>
+Auge entzündet, sein Arm befreit. Damit<lb/>
+ist sein Werk gethan. Mögen die Blüten,<lb/>
+die er unter den Segen des Lebens gerückt,<lb/>
+allein zur Frucht werden. Ihm ist nicht<lb/>
+gegeben, zu verweilen.</p>
+                     <milestone unit="untyped-start"/>
+                     <p>»Eulenspiegel wandert durch die Welt.«</p>
+                     <milestone unit="untyped-end"/>
+                     <p>So kommt er auf die Burg des ge-<lb break="no"/>
+ächteten Rother, der längst für todt gilt.<lb/>
+Auch dieser</p>
+                     <milestone unit="untyped-start"/>
+                     <p>»That, wie ihm gefiel, ihn schreckte nichts«</p>
+                     <milestone unit="untyped-end"/>
+                     <p>wie Eulenspiegel; doch dessen Thun ist<lb/>
+Wecken, sein Zerstören Schaffen. Er gibt,<lb/>
+gibt sich selbst. Er will nichts für sich,<lb/>
+nicht einmal die Anerkennung, noch die</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

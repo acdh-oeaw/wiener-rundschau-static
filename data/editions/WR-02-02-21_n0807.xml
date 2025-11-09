@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-21_n0807.xml" prev="WR-02-02-21_n0806.xml" next="WR-02-02-21_n0808.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 21, S. 807</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="21"/>
+                        <biblScope unit="page" n="n0807"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-09-15">15 9 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0497">
+                  <title level="a">Ein wirklicher Brief an ein wirkliches zwölfjähriges Mädchen</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 21</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="807" to="809"/>
+                  <idno type="fn">WR-02-02-21_n0807.xml</idno>
+                  <author ref="#wr-person-0004">Altenberg, Peter</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>EIN WIRKLICHER BRIEF AN EIN WIRKLICHES<lb/>
+ZWÖLFJÄHRIGES MÄDCHEN.<lb/>
+(Aus dem Cyklus »<hi rend="text-spaced">Das Leben selbst</hi>«.)<lb/>
+Von <rs type="person" key="">PETER ALTENBERG</rs> (Wien).</title>
+            </ab>
+            <milestone unit="letter-start"/>
+            <p>Piroska, meine Liebe, Sie werden natürlich das durchaus<lb/>
+nicht verstehen, was ich hiemit zu Ihnen sage und vielleicht wird<lb/>
+es Ihnen auch niemals erklärlich werden.</p>
+            <p>Denn Sie beginnen den Weg, welchen ich bereits zu Ende<lb/>
+gegangen zu sein das Vergnügen habe.</p>
+            <p>Jawohl, das Vergnügen!</p>
+            <p>Denn ich habe das Vergnügen, meine Seele, meinen Geist,<lb/>
+auf ziemlich unwegsamen Pfaden bereits dorthin gebracht zu<lb/>
+haben, wo dieselben ausruhen dürfen von den Strapazen und<lb/>
+einen gewissen Überblick haben über das Land, das Land der<lb/>
+Träume, der Realitäten und der überflüssigen Emotionen! Ich<lb/>
+wiederhole Ihnen, Piroska, meine Liebe, dass Sie diese Dinge<lb/>
+auch späterhin nicht erklärlich finden könnten, niemals; denn die<lb/>
+Wege des Mädchens und der Frau pflegen dort gerade abzu-<lb break="no"/>
+brechen, wo eben die Pfade unserer Weisheiten <hi rend="text-spaced">beginnen</hi>!</p>
+            <p>Nun, Piri, mein Liebling, das möchte ich Dir mittheilen,<lb/>
+dass alles <hi rend="text-spaced">Jugendliche</hi>, welches ich antraf auf meinen Lebens-<lb break="no"/>
+wegen, mir alt vorkam, greisenhaft, gebrechlich, leicht zu er-<lb break="no"/>
+schüttern und zu schwächen vor lauter mühseligen Hoffnungen<lb/>
+und Tages-Träumen und sehnsüchtigen Emotionen und Unent-<lb break="no"/>
+schiedenheiten in dem und in jenem. Die jungen Mädchen, welche<lb/>
+ich sah, besassen die Falten unruhiger Lebenssehnsuchten in ihrem<lb/>
+milden Antlitz, ja sogar in ihren Augen. Die Jünglinge waren<lb/>
+blass oder puterroth vor todtem, gleichsam gestocktem, durch<lb/>
+Generationen mitgeschlepptem Ehrgeiz, welcher wie Blei in ihrem<lb/>
+Nervensysteme lag.</p>
+            <p>Selbst die Natur, diese friedevolle, schien mir unruhevoll zu<lb/>
+sein und sich zu sehnen, der Sommer nach dem Herbst, das<lb/>
+baumelnde Blatt nach Fallen, Ruhen, das Wasser nach Ver-</p>
+         </div>
+      </body>
+   </text>
+</TEI>

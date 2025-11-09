@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-18_n0422.xml" prev="WR-03-02-18_n0421.xml" next="WR-03-02-18_n0423.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 18, S. 422</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="18"/>
+                        <biblScope unit="page" n="n0422"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0703">
+                  <title level="a">Gedichte</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 18</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="18">18</biblScope>
+                  <biblScope unit="page" from="422" to="423"/>
+                  <idno type="fn">WR-03-02-18_n0422.xml</idno>
+                  <author ref="#wr-person-0236">Walser, Robert</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">GEDICHTE</hi>
+                  <lb/>
+Von <rs type="person" key="">ROBERT WALSER</rs> (Thun, Schweiz).</title>
+            </ab>
+            <milestone unit="asterisk"/>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>HELLE.</title>
+            </ab>
+            <lg>
+               <l>Graue Tage, wo die Sonne</l>
+               <l>Sich wie eine blasse Nonne</l>
+               <l>Hat geberdet, sind nun hin.</l>
+               <l>Blauer Tag steht blau da oben,</l>
+               <l>Eine Welt ist frei erhoben,</l>
+               <l>Sonn’ und Sterne blitzen drin.</l>
+               <l>Alles das vollzog sich stille,</l>
+               <l>Ohne Lärm, als grosser Wille,</l>
+               <l>Der nicht Federlesens macht.</l>
+               <l>Lächelnd öffnet sich das Wunder,</l>
+               <l>Nicht Raketen und nicht Zunder</l>
+               <l>Braucht’s dazu, nur klare Nacht.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="verse-start"/>
+                     <ab>
+                        <title>ZU PHILOSOPHISCH.</title>
+                     </ab>
+                     <lg>
+                        <l>Wie geisterhaft im Sinken</l>
+                        <l>Und Steigen ist mein Leben.</l>
+                        <l>Stets seh’ ich mich mir winken,</l>
+                        <l>Dem Winkenden entschweben.</l>
+                     </lg>
+                     <lg>
+                        <l>Ich seh’ mich als Gelächter,</l>
+                        <l>Als tiefe Trauer wieder,</l>
+                        <l>Als wüsten Redeflechter,</l>
+                        <l>Doch alles dies sinkt nieder.</l>
+                     </lg>
+                     <lg>
+                        <l>Und ist zu allen Zeiten</l>
+                        <l>Doch niemals recht gewesen.</l>
+                        <l>Ich bin vergessne Weiten</l>
+                        <l>Zu wandern auserlesen.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+                  <cell>
+                     <milestone unit="verse-start"/>
+                     <ab>
+                        <title>ENTTÄUSCHUNG.</title>
+                     </ab>
+                     <lg>
+                        <l>Ich habe so lang</l>
+                        <l>Gewartet auf süsse</l>
+                        <l>Töne und Grüsse —</l>
+                        <l>Nur einen Klang.</l>
+                     </lg>
+                     <lg>
+                        <l>Nun ist mir bang.</l>
+                        <l>Nicht Töne und Klingen,</l>
+                        <l>Nur Nebel dringen</l>
+                        <l>Im Überschwang.</l>
+                     </lg>
+                     <lg>
+                        <l>Was heimlich sang</l>
+                        <l>In dunkler Lauer:</l>
+                        <l>Versüsse mir Trauer</l>
+                        <l>Jetzt schweren Gang.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>UND GIENG.</title>
+            </ab>
+            <lg>
+               <l>Er schwenkte leise seinen Hut</l>
+               <l>Und gieng, heisst es vom Wandersmann.</l>
+               <l>Er riss die Blätter von dem Baum</l>
+               <l>Und gieng, heisst es vom rauhen Herbst.</l>
+               <l>Sie theilte lächelnd Gnaden aus</l>
+               <l>Und gieng, heisst’s von der Majestät.</l>
+               <l>Es klopfte nächtlich an die Thür</l>
+               <l>Und gieng, heisst es vom Herzeleid.</l>
+               <l>Er zeigte weinend auf sein Herz</l>
+               <l>Und gieng, heisst es vom armen Mann.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

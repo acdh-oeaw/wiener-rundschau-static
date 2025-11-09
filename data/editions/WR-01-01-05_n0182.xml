@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-05_n0182.xml" prev="WR-01-01-05_n0181.xml" next="WR-01-01-05_n0183.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 5, S. 182</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="05"/>
+                        <biblScope unit="page" n="n0182"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-01-15">15 1 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0054">
+                  <title level="a">Alladine und Palomides</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 5</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="174" to="183"/>
+                  <idno type="fn">WR-01-01-05_n0174.xml</idno>
+                  <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">182</fw>
+               <fw type="ctext">MAETERLINCK.</fw>
+            </fw>
+            <p rend="no-intend">während das Licht, in unaufhaltsamen Fluthen immer mehr und mehr herein-<lb break="no"/>
+strömend, ihnen allmälig die Traurigkeit des unterirdischen Gewölbes enthüllt,<lb/>
+das sie für wunderbar gehalten; der Zaubersee wird trüb und unheimlich; das<lb/>
+Edelgestein erlischt um sie her, und die leuchtenden Rosen erscheinen als<lb/>
+Schmutz und zersetzte Ueberreste, die sie waren. Endlich stürzt ein ganzes<lb/>
+Felsstück heftig in die Grotte herab. Die Sonne dringt blendend herein. Man<lb/>
+hört Rufe und Gesänge von aussen. Alladine und Palomides weichen zurück.)</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi>.</p>
+            <p>Wo sind wir?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi> (ihn traurig umschlingend).</p>
+            <p>Ich liebe dich noch immer, Palomides <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi>.</p>
+            <p>Ich liebe dich auch, meine Alladine <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Sie kommen <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi> (blickt hinter sich, während sie noch mehr zurückweichen).</p>
+            <p>Gib Acht <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Nein, nein, gib nicht mehr Acht <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi> (indem er sie anblickt).</p>
+            <p>Alladine?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Ja <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <p>(Sie weichen immer mehr zurück vor der Ueberfluthung des Lichtes oder<lb/>
+der Gefahr, bis sie den Boden verlieren; und sie fallen und verschwinden<lb/>
+hinter dem Felsen, der über das unterirdische, jetzt dunkle Wasser ragt. —<lb/>
+Stille. — Astolaine und Palomides’ Schwestern dringen in die Grotte ein.)</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Astolaine</hi>.</p>
+            <p>Wo sind sie?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Eine von Palomides</hi>’ <hi rend="text-spaced">Schwestern</hi>.</p>
+            <p>Palomides! <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Astolaine</hi>.</p>
+            <p>Alladine! Alladine! <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Eine andere Schwester</hi>.</p>
+            <p>Palomides! <milestone unit="3dots"/> Wir sind es! <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

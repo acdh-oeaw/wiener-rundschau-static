@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-10_n0155.xml" prev="WR-04-10_n0154.xml" next="WR-04-10_n0156.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 10, S. 155</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="10"/>
+                        <biblScope unit="page" n="n0155"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0868">
+                  <title level="a">Les Muses quittent Apollon</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 10</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="133" to="156"/>
+                  <idno type="fn">WR-04-10_n0133.xml</idno>
+                  <author ref="#wr-person-0285">Moreau, Gustave</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0875">
+                  <title level="a">Cultur im Alltag*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 10</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="154" to="155"/>
+                  <idno type="fn">WR-04-10_n0154.xml</idno>
+                  <author ref="#wr-person-0206">Lindner, Anton</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BÜCHER.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">das Alltäglichste vor ihm auf. Das macht:<lb/>
+er hat den Alltag <hi rend="text-spaced">in sich</hi>. Er hat einen<lb/>
+ganz besonderen Alltag in sich, der<lb/>
+ihn in Wahrheit wie ein unaufhör-<lb break="no"/>
+licher Festtag überstrahlt. Was ihm, ihm<lb/>
+allein ureigen ist, scheint ihm Gemeingut<lb/>
+aller Anderen — so mächtig herrscht es<lb/>
+in seinen Sinnen. Was nur die Spiege-<lb break="no"/>
+lung seines schöpferischen Schauens, das<lb/>
+wechselnde Product seiner selbstthätigen<lb/>
+Seelen-Mechanik ist, scheint ihm allgemein<lb/>
+zugänglich und offen am Tage — so<lb/>
+restlos erfüllt ihn die Atmosphäre <hi rend="text-spaced">seiner</hi>
+                        <lb/>
+Alltäglichkeit. Nur in dieser Einschränkung<lb/>
+und Deutung sind, deucht mir, seine<lb/>
+Eingangsworte zu nehmen:</p>
+                     <milestone unit="untyped-start"/>
+                     <p>»Wir wurzeln Alle im Alltag. Seine<lb/>
+Gewohnheiten machen für die meisten<lb/>
+schlechthin das Leben aus. Seine Gaben<lb/>
+sind die wichtigste Speise für unsere<lb/>
+Sinne und unseren Geist. Seine Grenzen<lb/>
+sind unsere Grenzen, die nur der Genius<lb/>
+zuweilen um eine Spanne überfliegt. In<lb/>
+diesem Alltag liegt etwas sehr Großes,<lb/>
+liegt unsere Cultur. Cultur: das ist Arbeit<lb/>
+der Jahrtausende und ihre Einverleibung<lb/>
+in uns. Die ist hundertfach in ihn legiert,<lb/>
+sie durchlichtet ihn ganz und gar, und<lb/>
+ihre Goldkörner treten noch in seinem<lb/>
+trägen, weichen Sand glänzend und mühe-<lb break="no"/>
+los zutage <milestone unit="2dots"/>«</p>
+                     <milestone unit="untyped-end"/>
+                     <p>Und so sucht er die Cultur seines<lb/>
+Alltags in den unscheinbarsten Dingen,<lb/>
+Thieren, Menschen, die in der gemeinen<lb/>
+Alltäglichkeit daheim sind, aber inmitten<lb/>
+seines Bereichs alle Erdenschwere ab-<lb break="no"/>
+streifen und nach einem Augenblicke des<lb/>
+anmuthigsten Verweilens und Zögerns<lb/>
+urplötzlich ins Singuläre, Verwunderliche,<lb/>
+sagen wir: Rhythmische emporfliegen.<lb/>
+Indem er an allen Dingen, Thieren,<lb/>
+Menschen, Erscheinungen <hi rend="text-spaced">das</hi> schmäht,<lb/>
+was ihnen nicht immanent und nicht<lb/>
+der organische Ausdruck ihrer reinsten</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Wesenheit ist, <hi rend="text-spaced">das</hi> aber freudig be-<lb break="no"/>
+grüßt, was sich als essentiellstes Arom<lb/>
+aus ihrem Innersten löst und ihre ge-<lb break="no"/>
+heimste Anmuth verkündet, lehrt er, dass<lb/>
+alle innerliche Cultur, soweit sie aus<lb/>
+irgendeinem Alltag zu schöpfen ist, in<lb/>
+dem möglichsten Befreitsein von aller un-<lb break="no"/>
+zukömmlichen, fremdartigen, herabziehen-<lb break="no"/>
+den Schwere besteht. Es ist erstaun-<lb break="no"/>
+lich, aus welch absonderlich alltäglichen<lb/>
+Phänomenen er in diesem Sinne Cultur<lb/>
+herausholt: aus kleinen Heiligenbildern<lb/>
+in der Waldlichtung, aus Flocken und<lb/>
+Fußspuren im Schnee, aus seinem Vogel<lb/>
+im Käfig, aus einem wellenförmigen<lb/>
+Stück Hügelland, aus der Freundschaft<lb/>
+zu guten Thieren, aus der ästhetischen<lb/>
+Lust am Verlocken und Ködern, aus der<lb/>
+süßen menschlichen Gewohnheit des Ver-<lb break="no"/>
+plauderns, aus dem narkotischen Qualm<lb/>
+seiner Cigarre, aus dem geheimnis-<lb break="no"/>
+vollen Knistern und Spinnen eines ge-<lb break="no"/>
+heizten Ofens, aus dem lauen Hautreiz<lb/>
+warmer Bäder, aus den Capriolen pyro-<lb break="no"/>
+technischer Spiele, aus der Beflügelung<lb/>
+und lautlosen Beweglichkeit, die uns das<lb/>
+Fahrrad gibt, aus der Imaginationskraft<lb/>
+kluger Kinder, aus Kartenproblemen, aus der<lb/>
+Geschmeidigkeit eines Trapezkünsters, aus<lb/>
+der Zierlichkeit türkischer Schattenspiele,<lb/>
+aus der Geschicklichkeit der Japaner,<lb/>
+aus der Euphonie der Stille, aus der<lb/>
+Feuerbestattung, der Seelenwanderung<lb/>
+u. v. a.</p>
+                     <p>Mögen nun Viele, sehr Viele bei<lb/>
+diesem Meister intuitiver Betrachtung in<lb/>
+die Lehre gehen und der festtäglichen<lb/>
+Cultur teilhaftig werden, die ihnen sein<lb/>
+Alltag bietet. Der Verlag aber, der sich<lb/>
+bislang in einem, falschen Wienerthum<lb/>
+gefallen hat, mag nun endlich daran-<lb break="no"/>
+gehen, eine künstlerische Revision seines<lb/>
+Programmes vorzunehmen.</p>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <p>
+               <rs type="person" key="">ANTON LINDNER</rs>.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
+      </body>
+   </text>
+</TEI>

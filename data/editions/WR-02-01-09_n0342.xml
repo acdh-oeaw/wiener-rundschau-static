@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-09_n0342.xml" prev="WR-02-01-09_n0341.xml" next="WR-02-01-09_n0343.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 9, S. 342</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="09"/>
+                        <biblScope unit="page" n="n0342"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-03-15">15 3 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0380">
+                  <title level="a">Hummeln </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 9</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="09">9</biblScope>
+                  <biblScope unit="page" from="340" to="342"/>
+                  <idno type="fn">WR-02-01-09_n0340.xml</idno>
+                  <author ref="#wr-person-0083">Whitman, Walt</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">342</fw>
+               <fw type="ctext">WHITMAN.</fw>
+            </fw>
+            <p>Während ich das schreibe, zwei oder drei Wochen später, sitze<lb/>
+ich beim Bach unter dem siebzig Fuss hohen Tulpenbaum, mächtig<lb/>
+im frischen Grün seiner jungen Reife — ein prachtvolles Ding —<lb/>
+jeder Zweig, jedes Blatt vollendet. Vom Fuss bis zum Wipfel schwärmt<lb/>
+es in Myriaden von diesen wilden Bienen, sie saugen den süssen Saft<lb/>
+aus den Blüthen, und ihr lautes, gleichmässiges Summen gibt den<lb/>
+Grundton zu dem Ganzen, zu meiner Stimmung und zu dieser Stunde.<lb/>
+All das will ich zu einem Schluss bringen, indem ich aus Henry<lb/>
+A. Beer’s kleinem Buche folgende Verse herausschreibe:</p>
+            <milestone unit="verse-start"/>
+            <lg>
+               <l>»Da still ich lag im hohen Gras,</l>
+               <l>Ein Hummelchen vorüberflog,</l>
+               <l>Vom Honigpünschlein schwer berauscht,</l>
+               <l>Das sie aus tausend Blüthen sog.</l>
+               <l>Ihr Bäuchlein ist ganz aufgebauscht</l>
+               <l>Vom Gaisblattmus, so dass es kaum</l>
+               <l>Zusammenhält ihr gold’ner Gurt.</l>
+               <l>In ihrem Seelchen hat nicht Raum</l>
+               <l>Die Liederfülle, die drin surrt.</l>
+               <l>Sie muss wohl ganz begeistert sein</l>
+               <l>Von Rosenschnaps und Erbsenwein;</l>
+               <l>Durchschwärmt die Nacht, die mild und lau,</l>
+               <l>Ihr dunkler Pelz ist feucht von Thau;</l>
+               <l>Dieweil sie schwelgt im Blüthenzelt,</l>
+               <l>Durch Schlaf und Schatten kreist die Welt.</l>
+               <l>Den süssen Nectar sog sie oft,</l>
+               <l>An Kelchen durstig hängend; seht!</l>
+               <l>Auf weichen Blumenblättern hofft</l>
+               <l>Sie neuen Trunk, und trippelnd geht</l>
+               <l>Im Staubgefässe-Labyrinth</l>
+               <l>Sie suchend auf und nieder;</l>
+               <l>Das Blättchen zittert leis’ im Wind —</l>
+               <l>Sie rollt hinein kopfüber,</l>
+               <l>Und krabbelt fort, bestaubt mit Gold.</l>
+               <l>Wo anders stösst sie’s Füsschen an,</l>
+               <l>An Knösplein stolpernd fällt sie, rollt</l>
+               <l>Und taumelt in das Gras.</l>
+               <l>Da lieg nun still und brummel</l>
+               <l>Mit deinem tiefen, sanften Bass,</l>
+               <l>Du arme, trunk’ne Hummel!«</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

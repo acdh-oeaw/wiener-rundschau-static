@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-24_n0909.xml" prev="WR-02-02-24_n0908.xml" next="WR-02-02-24_n0910.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 24, S. 909</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="24"/>
+                        <biblScope unit="page" n="n0909"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-11-01">1 11 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0521">
+                  <title level="a">Die Mondscheinsonate</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 24</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="905" to="915"/>
+                  <idno type="fn">WR-02-02-24_n0905.xml</idno>
+                  <author ref="#wr-person-0144">Wolff, Ludwig</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DIE MONDSCHEINSONATE.</fw>
+               <fw type="pn">909</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi>. Ich danke, jetzt habe ich viel zu thun. Ich bin ja in<lb/>
+der Saison. Aber dennoch, das Geschäft ist schwächer als in den<lb/>
+früheren Jahren.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi>. Ja, alle Leute klagen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi>. Ich weiss nicht, wie das enden wird.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi>. Die Concurrenz ist so gross.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi>. Sie müssen sagen, die schmutzige Concurrenz ist so<lb/>
+gross. Man kann nicht reell bleiben. Die Anständigkeit wird nicht<lb/>
+mehr bezahlt.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi>. Ja, wir leben in einer schweren Zeit.</p>
+            <milestone unit="untyped-end"/>
+            <p>(Pause.)</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi>. Sie müssen uns für einen Augenblick entschuldigen,<lb/>
+Herr Stransky. Wir haben noch etwas in der Küche nachzusehen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi>. Aber bitte, bitte.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi>. Bei den heutigen Dienstboten geht das nicht anders.<lb/>
+Das sind bezahlte Feinde. Wir müssen uns um alles allein kümmern.<lb/>
+Rosa, leiste dem Herrn Stransky inzwischen ein wenig Gesellschaft.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Rosa</hi>. Ja, Mama. (Frau Klein und Grete ab.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="scene-start"/>
+            <ab>
+               <title>6. <hi rend="text-spaced">Scene</hi>.</title>
+            </ab>
+            <p>Rosa. Stransky.</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi> (nach einer Verlegenheitspause auf das Buch hinweisend).<lb/>
+Ich habe Sie im Lesen gestört?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Rosa</hi>. O, nein.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi>. Was haben Sie Schönes gelesen?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Rosa</hi>. Tolstoi.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi>. Tolstoi. So! Dürfen Sie Tolstoi lesen?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Rosa</hi>. Ja, warum denn nicht?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi>. Nun, nun, ich meinte nur, ich habe nämlich gehört,<lb/>
+Tolstoi soll, wie es scheint, pikant sein.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Rosa</hi>. O, nein.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi>. Dann vertausche ich ihn.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Rosa</hi>. Sie lesen wohl nicht viel, Herr Stransky?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi>. Aufrichtig gesagt, gar nichts. Ich habe keine Zeit<lb/>
+dazu. Sehen Sie, ich bin den ganzen Tag im Geschäft und abends<lb/>
+froh, wenn ich nur die Zeitung auslesen kann.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Rosa</hi>. Ja, das sehe ich ein.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi>. Und, sehen Sie, ich hätte das Bedürfnis zu lesen,<lb/>
+denn ich bin im Grunde genommen, eine sehr romantische Natur.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Rosa</hi>. Wirklich?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi>. Ja, ja, sehen Sie, wie ich jung war, wollte ich<lb/>
+immer Matrose werden. Als ich ein wenig älter wurde, war meine<lb/>
+Sehnsucht, Schauspieler oder Dichter zu werden, und schliesslich handle<lb/>
+ich mit Wirkwaren.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Rosa</hi>. Ja, das Leben ist grausam.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi>. Aber hübsch haben Sie es hier.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

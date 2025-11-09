@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-03_n0099.xml" prev="WR-02-01-03_n0098.xml" next="WR-02-01-03_n0100.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 3, S. 99</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0099"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-12-15">15 12 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0323">
+                  <title level="a">Die Suggestion bei Shakespeare </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="95" to="102"/>
+                  <idno type="fn">WR-02-01-03_n0095.xml</idno>
+                  <author ref="#wr-person-0124">Unger, Franz</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DIE SUGGESTION BEI SHAKESPEARE.</fw>
+               <fw type="pn">99</fw>
+            </fw>
+            <p rend="no-intend">ihren Flügeln die Luft. Man weiss, dass es diese Vögel sind, die sich<lb/>
+nicht zu hoch emporzuwagen pflegen, aber erkennen könnte man sie<lb/>
+nicht, denn sie sind von da oben aus betrachtet, kaum so gross wie<lb/>
+Bienen. Und gleichfalls in der Mitte, zwischen Himmel und Meer, wie<lb/>
+am Felsen angeklammert, hängt Einer, der das halsbrecherische Ge-<lb break="no"/>
+werbe des Meerfenchel-Einsammelns betreibt und sich zu diesem Zwecke<lb/>
+am Felsen hinabgelassen hat. Seine Gestalt ist zum Umfang seines<lb/>
+Kopfes verkleinert. Unten am Gestade gehen Fischersleute hin und<lb/>
+her. In Fortsetzung der Perspective erscheinen sie dem Beschauer wie<lb/>
+Mäuse, das stattliche Schiff, das eben vor Anker liegt, erscheint nicht<lb/>
+grösser als das ihm angehängte Boot, und dieses selbst ist nur ein<lb/>
+Tönnchen, ein Punkt, das vom freien Auge kaum mehr ausgenommen<lb/>
+werden kann. Unten tost die Brandung über die Kiesel, deren zweck-<lb break="no"/>
+loses Daliegen Shakespeare »müssig« nennt. Kein Laut dringt so hoch<lb/>
+empor, geradeso wie später das schrille Getriller der Lerchen oben<lb/>
+nicht mehr herunterdringt. Der Ausblick ist so grossartig, so weit, das<lb/>
+Gefühl der umgebenden Unendlichkeit so stark, dass die ruhige Ueber-<lb break="no"/>
+legung, das psychische Gleichgewicht den Beschauer zu verlassen droht,<lb/>
+und er den Blick wegwenden muss, sonst versagen ihm seine Sinne<lb/>
+den Dienst, und er stürzt kopfüber hinunter.</p>
+            <p>
+               <hi rend="text-spaced">Gloster</hi> stellt keine Frage. Nicht ein Zweifel regt sich in ihm<lb/>
+an der Realität des von Edgar angeblich Geschauten. Er sagt also bloss:</p>
+            <milestone unit="performance-start"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Gloster</hi>.</p>
+            <lg>
+               <l>Stell’ mich, dort, wo du stehst.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <p>
+               <hi rend="text-spaced">Edgar</hi> erfüllt scheinbar seinen Wunsch.</p>
+            <milestone unit="performance-start"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Edgar</hi>.</p>
+            <lg>
+               <l>Gebt mir die Hand. Um Fussesbreite seid</l>
+               <l>Ihr jetzt vom Rand entfernt. Um Alles unter’m Mond</l>
+               <l>Möcht’ ich nicht aufwärts springen.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <p>Damit weiss <hi rend="text-spaced">Gloster</hi> genug. Er glaubt sich hart am Rande<lb/>
+des Abgrundes, nimmt an, dass er nur einen Sprung in die Höhe zu<lb/>
+machen braucht, um in die Tiefe zu stürzen. Niemand hindert ihn, der<lb/>
+Bettler-Narr, für den er Edgar hält, ist leicht davonzuschaffen. Er thut<lb/>
+dies letztere sogleich.</p>
+            <milestone unit="performance-start"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Gloster</hi>.</p>
+            <lg>
+               <l>Lass meine Hand —</l>
+               <l>Hier, Freund, ist in der Börse ein Juwel,</l>
+               <l>Des Nehmens werth dem Armen; Feen und Götter</l>
+               <l>Gesegnen dir’s! Geh’ deines Weg’s,</l>
+               <l>Sag’ mir Lebwohl, lass mich dein Fortgeh’n hören.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Edgar</hi>.</p>
+            <lg>
+               <l>Lebt wohl, mein guter Herr!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <p>(Er thut, als ob er ginge.)</p>
+            <milestone unit="untyped-end"/>
+            <p>Indem er absichtlich erst lautere, danun allmälig sich verlierende<lb/>
+Schritte macht, erweckt <hi rend="text-spaced">Edgar</hi> bei <hi rend="text-spaced">Gloster</hi> die Gewissheit, dass er<lb/>
+wirklich abseits gehe. Noch schickt ihm dieser die Erwiderung des<lb/>
+Grusses nach:</p>
+            <milestone unit="performance-start"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Gloster</hi>.</p>
+            <lg>
+               <l>— — Von ganzem Herzen! (Dank’ ich dir.)</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

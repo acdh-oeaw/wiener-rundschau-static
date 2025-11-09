@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-07_n0256.xml" prev="WR-01-01-07_n0255.xml" next="WR-01-01-07_n0257.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 7, S. 256</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="07"/>
+                        <biblScope unit="page" n="n0256"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-02-15">15 2 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0080">
+                  <title level="a">Empfinden der Landschaft</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 7</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="255" to="260"/>
+                  <idno type="fn">WR-01-01-07_n0255.xml</idno>
+                  <author ref="#wr-person-0027">Schmitz, Oscar</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">256</fw>
+               <fw type="ctext">SCHMITZ.</fw>
+            </fw>
+            <p rend="no-intend">sich auf gute Namen stützen, aber sie vergessen, dass das,<lb/>
+was ehedem Verfeinerung hiess, unter verknüpfteren Um-<lb break="no"/>
+ständen der Aussenwelt vulgär geworden ist, was einst selbst-<lb break="no"/>
+ständiges Erlebniss Einzelner war, heute zum Gebrauch Aller<lb/>
+verpöbelt, des persönlichen Duftes entkleidet ist.</p>
+            <p>Sehe ich von denen ab, welche racelos keiner inten-<lb break="no"/>
+siven Erregbarkeit fähig oder allen oberflächlichen Reizen<lb/>
+ohne Wahlinstinct zugänglich sind, von jenen Keinseitigen<lb/>
+oder Allseitigen, so sind drei Style unterscheidbar, unter<lb/>
+denen einheitliche Entwicklungen vorkamen: der classische,<lb/>
+der romantische und jener moderne Styl, für den wir noch<lb/>
+keinen Namen haben, dessen Grenzen noch sehr fliessend<lb/>
+sind, zu dessen Erklärung auch diese Worte beitragen wollen.</p>
+            <p>Das classische Empfinden der Landschaft hat Preller in<lb/>
+künstlerischen Symbolen zum Ausdruck gebracht: jene kupfer-<lb break="no"/>
+braunen Höhen, wie man sie in der Sonne glühend an August-<lb break="no"/>
+nachmittagen am Jonischen Meer sehen kann, jene unüber-<lb break="no"/>
+sehbare blaue Fläche, die mehr Staunen vor dem Unend-<lb break="no"/>
+lichen als Sehnsucht erweckt, jene reifen, männlichen Linien<lb/>
+brauner, verwaister Gefilde, welche Namen wie Selinunt und<lb/>
+Guteoli ins Gedächtniss rufen, jenes durchsichtige Azur der<lb/>
+Luft, die durch keinen zärtlichen Nebel die starren Tempel-<lb break="no"/>
+reste verschleiert. Man denkt an den Schlegel’schen Aus-<lb break="no"/>
+druck der gefrorenen Musik, es liegt etwas Architektonisches,<lb/>
+zum Mindesten Stationäres über diesen Landschaften: edle<lb/>
+Einfalt und stille Grösse, die halkyonische Heiterkeit einer<lb/>
+gereiften Männerseele, die den Tasso oder die Iphigenie<lb/>
+schafft.</p>
+            <p>Die Romantik sucht das Toben der Wasserfälle, das<lb/>
+Geheul der Stürme, den kalten Schauer finsterer Abgründe.<lb/>
+Mehr als das halkyonische Blau liegt ihr der schwefelgelbe<lb/>
+Gewitterhimmel am Herzen, wie man ihn von verlassenen<lb/>
+Alpenhütten beobachten kann, das im Sturm grollende<lb/>
+Meer, welches vor den gährenden Kräften des Erdschosses<lb/>
+erbeben lässt, die gezackten, vernichtenden Formen der<lb/>
+Hochgebirge, an denen grosse Nebelklumpen hangen, nicht<lb/>
+mild verschleiernd, sondern gebieterisch verdeckend. Es ist<lb/>
+die Leidenschaft, nicht mehr die Ruhe, welche sie sucht,<lb/>
+die Leidenschaft des wild stürmenden Jünglings, die Goethe</p>
+         </div>
+      </body>
+   </text>
+</TEI>

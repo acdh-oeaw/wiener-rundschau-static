@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-16_n0611.xml" prev="WR-01-02-16_n0610.xml" next="WR-01-02-16_n0612.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 16, S. 611</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="16"/>
+                        <biblScope unit="page" n="n0611"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-07-01">1 7 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0207">
+                  <title level="a">Die Eiche und ich</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 16</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="16">16</biblScope>
+                  <biblScope unit="page" from="610" to="611"/>
+                  <idno type="fn">WR-01-02-16_n0610.xml</idno>
+                  <author ref="#wr-person-0083">Whitman, Walt</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0208">
+                  <title level="a">Der Schwimmer</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 16</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="16">16</biblScope>
+                  <biblScope unit="page" from="611" to="611"/>
+                  <idno type="fn">WR-01-02-16_n0611.xml</idno>
+                  <author ref="#wr-person-0084">Benzmann, Hans</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DIE EICHE UND ICH.</fw>
+               <fw type="pn">611</fw>
+            </fw>
+            <p rend="no-intend">die Schelling und Fichte so gerne betonen. Wie es kommt, weiss ich<lb/>
+nicht, aber hier empfinde ich oft eine Gegenwart, in klaren Stimmungen<lb/>
+wird sie mir zur vollen Gewissheit, und weder Chemie noch Raisonne-<lb break="no"/>
+ments noch Aesthetik werden die mindeste Aufklärung hierüber geben.<lb/>
+Während der beiden vergangenen Sommer hat sie mir den kranken<lb/>
+Leib und die kranke Seele gestärkt und genährt wie nie zuvor. Hab’<lb/>
+Dank, du unsichtbarer Arzt, für deine geheimen süssen Arzneien, für<lb/>
+Tag und Nacht, dein Wasser, deine Lüfte, für Ufer, Gras und Bäume,<lb/>
+ja für das Unkraut selbst.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">DER SCHWIMMER</hi>.</title>
+            </ab>
+            <lg>
+               <l>
+                  <hi rend="initial">Auf</hi> sturmbewegtem Meere rang</l>
+               <l>Ein Schwimmer mit den gierigen Wellen,</l>
+               <l>So oft er in die Tiefe sank,</l>
+               <l>Hob ihn der Wogen wildes Schwellen.</l>
+            </lg>
+            <lg>
+               <l>Aus seinem Auge stierte Qual,</l>
+               <l>Umflort von Gischt und Schaumesfetzen,</l>
+               <l>Irrt wie ein blutiger Sonnenstrahl</l>
+               <l>Die Hoffnung über das Entsetzen <milestone unit="4dots"/>
+               </l>
+            </lg>
+            <lg>
+               <l>Er liess sich treiben, rang und hob</l>
+               <l>Sich immer wieder aus den Wogen, —</l>
+               <l>Bis endlich ihn die Welle schob</l>
+               <l>Auf eine Küste sturmentzogen <milestone unit="4dots"/>
+               </l>
+            </lg>
+            <lg>
+               <l>Er sah noch, wie das Abendroth</l>
+               <l>Sanft spielte über Kies und Scherben,</l>
+               <l>Wie ihm das Glück die Lippen bot —</l>
+               <l>Da musste der Erschöpfte sterben <milestone unit="4dots"/>
+               </l>
+            </lg>
+            <p>Berlin. <rs type="person" key="">Hans Benzmann</rs>.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

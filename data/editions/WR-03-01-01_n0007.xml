@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-01_n0007.xml" prev="WR-03-01-01_n0006.xml" next="WR-03-01-01_n0008.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 1, S. 7</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0007"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0530">
+                  <title level="a">Über Richard Wagner</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="7" to="9"/>
+                  <idno type="fn">WR-03-01-01_n0007.xml</idno>
+                  <author ref="#wr-person-0171">Nietzsche, Friedrich</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">FRIEDRICH NIETZSCHE ÜBER RICHARD WAGNER.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Thersites</hi> (auf der Bootkante).</p>
+                     <lg>
+                        <l>Seh ich den Himmel dort sich unten</l>
+                        <l>spiegeln!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Die Oreade</hi>.</p>
+                     <lg>
+                        <l>Ja, auf der Oberfläche, tiefer blick’, Thersites.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Thersites</hi>.<lb/>
+(Das Boot schlägt um und er versinkt.)</p>
+                     <lg>
+                        <l>Zu Hilf! Ich sink’! Kein Boden unter mir!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Die Oreade</hi>.</p>
+                     <lg>
+                        <l>Das war zu tief für Dich!</l>
+                        <l>Die Wellen schlagen über Dir zusammen.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Die Nymphen</hi>.</p>
+                     <lg>
+                        <l>Gnothi Seauton!</l>
+                        <l>Das da heisst: Erkenne Dich selbst!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>(Thersites sinkt in die Tiefe. Die Frösche hüpfen<lb/>
+ihm nach hinein. Die Nymphen kehren in das<lb/>
+Dickicht, Narcissus zieht sich in die Höhlung<lb/>
+des Baumes zurück. Der See bedeckt sich mit<lb/>
+einer Grasmatte und St. Peter, der, ohne auf<lb/>
+die sich abspielende Scene zu achten, während<lb/>
+der ganzen Zeit erfolglos mit Angeln beschäftigt<lb/>
+gewesen, wird schliesslich gewahr, dass etwas<lb/>
+Ungewöhnliches vorgehe.)</p>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Nun Schmied, was dünkt Dich von dem</l>
+                        <l>Abenteuer?</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Gewiss, recht nett und auch sehr</l>
+                        <l>instructiv —</l>
+                        <l>Etwas zu tief wohl auch für mich —</l>
+                        <l>Philosophie ist just nicht meine Stärke.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Nein, nein, das geb’ ich zu! denn Leben</l>
+                        <l>erst</l>
+                     </lg>
+                  </cell>
+                  <cell>
+                     <lg>
+                        <l>Und seh’n und hören, dann summieren,</l>
+                        <l>Den Abzug machen, Wurzel, Mittel suchen,</l>
+                        <l>So spinnt sich ja der Hergang ab.</l>
+                        <l>Nicht eher lernst Du Dich erkennen,</l>
+                        <l>Als bis im kleinen Finger Du das Leben</l>
+                        <l>hast,</l>
+                        <l>Also zurück zu Fuss auf neuen Wegen.</l>
+                        <l>Wie steht’s mit unserm Freund, Apostel?</l>
+                        <l>Sind seine Rappen schon bereit?</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">St. Peter</hi>
+                        <lb/>
+(der die Angelruthe auf die Wiese ausgeworfen).</p>
+                     <lg>
+                        <l>Ich glaube, meiner Seel’, der See ist all!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Du fischest auf dem Trock’nen, alter</l>
+                        <l>Fischer,</l>
+                        <l>Komm mit und fische Menschen, Petrus.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">St. Peter</hi>.</p>
+                     <lg>
+                        <l>Das Wort hab’ ich einmal gehört</l>
+                        <l>Vor vielen, vielen Jahren schon — — —</l>
+                        <l>Wie doch das Alter mein Gedächtnis</l>
+                        <l>trübt!</l>
+                        <l>Doch sehe ich wie durch ein Gewölk</l>
+                        <l>’nen Mann so licht, so mild,</l>
+                        <l>Mit Malen an der Brust, den Händen —</l>
+                        <l>In Büchern las er niemals, sondern</l>
+                        <l>wanderte</l>
+                        <l>In Waldeseinsamkeit und auch auf Bergen,</l>
+                        <l>In Dörfern, Städten <milestone unit="3dots"/> Da, nun reisst</l>
+                        <l>der Faden ab —</l>
+                        <l>Doch immerhin; — komm’, lass uns</l>
+                        <l>Menschen fischen, Doctor!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>(Er wirft die Angelruthe weg; sie gehen.)</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                     <p>(Fortsetzung folgt.)</p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <rs type="person" key="">FRIEDRICH NIETZSCHE</rs> ÜBER RICHARD WAGNER.*</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>In meiner Jugend, wo ich vielerlei war,<lb/>
+z. B. auch Maler, habe ich einmal ein Bild<lb/>
+von Richard Wagner gemalt, unter dem<lb/>
+Titel: »Richard Wagner in Bayreuth«.<lb/>
+Einige Jahre später sagte ich mir: »Teufel,<lb/>
+es ist gar nicht ähnlich!« Noch ein paar<lb/>
+Jahre später antwortete ich: »Umso besser,<lb/>
+umso besser!« In gewissen Jahren des<lb/>
+Lebens hat man ein Recht, Dinge und<lb/>
+Menschen falsch zu sehen — Vergrösserungs-</p>
+                  </cell>
+                  <cell>
+                     <p>gläser, welche die Hoffnung uns gibt. Als<lb/>
+Knabe liebte ich Händel und Beethoven;<lb/>
+aber »Tristan und Isolde« kam, als ich<lb/>
+13 Jahre alt war, hinzu als eine mir ver-<lb break="no"/>
+ständliche Welt, während ich damals den<lb/>
+»Tannhäuser« und »Lohengrin« als »unter-<lb break="no"/>
+halb meines Geschmackes« empfand:<lb/>
+Knaben sind in Sachen des Geschmackes<lb/>
+ganz unverschämt stolz. Als ich 21 Jahre<lb/>
+alt war, war ich vielleicht der einzige</p>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* <hi rend="text-spaced">Anmerkung der Redaction</hi>. Wir freuen uns, hier den Freunden des grossen Denkers<lb/>
+einige noch ungedruckte Aphorismen bieten zu können, wenn auch dieselben bereits den Schatten<lb/>
+der Verdunklung dieses strahlenden Geistes deutlich merken lassen.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

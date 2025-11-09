@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-07_n0254.xml" prev="WR-01-01-07_n0253.xml" next="WR-01-01-07_n0255.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 7, S. 254</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="07"/>
+                        <biblScope unit="page" n="n0254"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-02-15">15 2 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0079">
+                  <title level="a">Literatur und Moral</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 7</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="250" to="254"/>
+                  <idno type="fn">WR-01-01-07_n0250.xml</idno>
+                  <author ref="#wr-person-0036">Prévost, Marcel</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">254</fw>
+               <fw type="ctext">PRÉVOST.</fw>
+            </fw>
+            <p rend="no-intend">
+               <hi rend="text-spaced">deine</hi> moralische Glaubwürdigkeit, <hi rend="text-spaced">deine</hi> genaue Lebenskenntniss —<lb/>
+der Vorwurf Sir Walter Scott’s hat auch die Stärksten schon gequält <milestone unit="3dots"/>
+               <lb/>
+»Ob es dennoch nicht anders käme —fragen sie sich immer und immer<lb/>
+wieder — »bei einem Wesen von schwacher Seele, bei einem Kind, bei<lb/>
+einem waffenlosen Geist, der nicht zu begreifen vermochte?« Und das<lb/>
+Gewissen — von Natur aus unfähig, über sich selbst zu urtheilen, wie<lb/>
+zu entscheiden, ob es selbst all das bewirkt oder ob es nicht nur ein<lb/>
+gleichgültiges Werkzeug war, zaudert, macht sich verrückt wie der Kopf<lb/>
+eines Liebenden <milestone unit="3dots"/>
+            </p>
+            <p>Glauben Sie mir, gnädige Frau, und werfen Sie auf einen Schrift-<lb break="no"/>
+steller nicht so sorglos den Vorwurf der Unmoral. Sie sind nicht allzu<lb/>
+häufig, die <hi rend="text-spaced">gegen</hi> ihr Gewissen schreiben.«</p>
+            <p>Meine Gegnerin antwortete nicht. Einige Augenblicke war ich<lb/>
+sehr stolz, sie so zum Schweigen gebracht zu haben. Aber wie ich sie<lb/>
+genauer besah, da merkte ich: sie hatte so lange nicht selbst reden<lb/>
+können <milestone unit="3dots"/> sie schlief.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

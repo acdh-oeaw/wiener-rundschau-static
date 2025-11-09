@@ -1,0 +1,282 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-04_n0085.xml" prev="WR-03-01-04_n0084.xml" next="WR-03-01-04_n0086.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 4, S. 85</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="04"/>
+                        <biblScope unit="page" n="n0085"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0563">
+                  <title level="a">Die Schlüssel des Himmelreichs. (Commentar. Dritter und Fünfter Act)</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 4</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="81" to="87"/>
+                  <idno type="fn">WR-03-01-04_n0081.xml</idno>
+                  <author ref="#wr-person-0175">Strindberg, August</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">STRINDBERG: DIE SCHLÜSSEL DES HIMMELREICHS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">allem! Mit dem Bestehenden, dem Gegen-<lb break="no"/>
+wärtigen und Zukünftigen!« dass St. Peter,<lb/>
+der anfangs glaubt, am Ziele seiner<lb/>
+Wanderung, im Himmelreiche selbst zu<lb/>
+sein, in die Worte ausbricht: »Mir scheint<lb/>
+ich bin geradewegs in die Hölle gerathen!«</p>
+                     <p>Und nun noch ein letzter Versuch,<lb/>
+die Himmelsschlüssel beim heiligen Vater<lb/>
+in Rom zu finden und endlich das Wallen<lb/>
+zum Kreuze, »ist doch der Weg zum<lb/>
+Himmel, der Weg des Kreuzes!«</p>
+                     <p>Was hier nur in flüchtigen Umrissen<lb/>
+gezeichnet werden musste, das ist in seiner<lb/>
+Ausführung von dramatischester Lebendig-<lb break="no"/>
+keit, sprühend von Witz und geistreichen<lb/>
+Einfällen. Unverkürzt seien nun zum<lb/>
+mindesten die schönen Schlusscenen hier-<lb break="no"/>
+hergesetzt. Sie sind es ja auch, die mit<lb/>
+unerwarteter Wendung Handlung und<lb/>
+Gedankengang in einen versöhnenden<lb/>
+Accord ausklingen lassen.</p>
+                     <milestone unit="performance-start"/>
+                     <p>
+                        <hi rend="text-spaced">Fünfter Act</hi>. Verwandlung. (Ein<lb/>
+Kreuzweg und ein Calvarium. Steinerner<lb/>
+Sockel, darüber Christus zwischen den<lb/>
+zwei Schachern am Kreuze, letzteres mit<lb/>
+der Rückseite gegen das Publicum.) Don<lb/>
+Quixote (sitzt am Fusse des Kreuzes).<lb/>
+Der ewige Jude (der Arzt verkleidet, tritt<lb/>
+auf, den Kramkasten am Riemen um<lb/>
+den Hals).</p>
+                     <milestone unit="scene-start"/>
+                     <ab>
+                        <title>
+                           <hi rend="text-spaced">Vierte Scene</hi>.</title>
+                     </ab>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Jude</hi>. Kauft vom ewigen Juden,<lb/>
+gestrenger Herr Ritter!</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Don Quixote</hi>. Was hast Du denn<lb/>
+noch zu verkaufen, nachdem Du Deinen<lb/>
+Herrn und Meister verkauft?</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Jude</hi>. Manschettenknöpfe und Cra-<lb break="no"/>
+vattennadeln, Spiegel und Kämme, Blei-<lb break="no"/>
+stifte und Notizbücher!</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Don Quixote</hi>. Gib mir einen Spiegel!</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Jude</hi>. Ist’s gefällig?</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Don Quixote</hi>. Was kostet er?</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Jude</hi>. Eine Mark!</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Don Quixote</hi>. Kannst Du auf dreissig<lb/>
+Silberlinge herausgeben?</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Jude</hi>. Jawohl!</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Don Quixote</hi>. Du verstehst keine<lb/>
+Satire? Jud’!</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Jude</hi>. O, ich schon! — Aber der Herr<lb/>
+Ritter? (Er spuckt auf das Geld und steckt es ein.)</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Don Quixote</hi>. Du spuckst aufs Geld?</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Jude</hi>. Ja, ich mach’ es, wie der Herr<lb/>
+Ritter mit dem Juden. Ihr spuckt ihn an<lb/>
+und nützt ihn dennoch aus.</p>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+                  <cell>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Don Quixote</hi>. Für Dein schlechtes<lb/>
+Gewissen hast Du einen merkwürdig<lb/>
+guten Humor!</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Jude</hi>. Wieso?</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Don Quixote</hi>. Nun, kreuzigtest Du<lb/>
+denn nicht <milestone unit="3dots"/>?</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Jude</hi>. O nein, das thaten der Römer<lb/>
+Pilatus und seine Kriegsknechte, und<lb/>
+musste der sich auch die Hände waschen,<lb/>
+weil sie nicht rein waren, brauch’ doch<lb/>
+ich die meinen nicht zu waschen, die<lb/>
+rein sind! (Setzt sich.)</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Don Quixote</hi>. Steh’ auf! Und geh’!<lb/>
+Geh’, geh’, so lange die Welt steht, Du,<lb/>
+der Du dem Herrn auf seinem letzten<lb/>
+Gange die Rast verweigert hast!</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Jude</hi>. Sagen, Ritter! Nichts als Sagen!<lb/>
+Übrigens, wenn ich thue wie der buss-<lb break="no"/>
+fertige Schächer und um Verzeihung bitte,<lb/>
+wird mir dann das Paradies nicht offen<lb/>
+stehen?</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Don Quixote</hi>. Hast Du denn um<lb/>
+Verzeihung gebeten?</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Jude</hi>. Ich habe noch mehr gethan:<lb/>
+ich habe meine Strafe abgebüsst und nun<lb/>
+bin ich müde.</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Don Quixote</hi>. Setz’ Dich her, armer<lb/>
+Jude, und möge der Schatten des Kreuzes<lb/>
+Dir Kühlung spenden!</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Jude</hi>. Wisst Ihr, Ritter, weshalb<lb/>
+Judas die dreissig Silberlinge wegwarf<lb/>
+und hingieng und sich erhenkte?</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Don Quixote</hi>. Nein!</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Jude</hi>. Das Geld war falsch!</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Don Quixote</hi>. Deine Gedanken<lb/>
+drehen sich fort und fort um Geld und<lb/>
+weltliche Dinge und Du bist noch weit<lb/>
+vom Kreuz.</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Jude</hi>. Ich will mit Euch nicht streiten,<lb/>
+Herr Ritter, und finde es vernünftiger,<lb/>
+Eure Meinung zu theilen; so sind wir<lb/>
+mindestens in der Hauptsache eins.</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="scene-start"/>
+                     <p>
+                        <hi rend="text-spaced">Fünfte Scene</hi>. (Die Vorigen. St.<lb/>
+Peter. Der Schmied.)</p>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">St. Peter</hi>.</p>
+                     <lg>
+                        <l>Hier, seh’ ich, sammelten sich müde</l>
+                        <l>Pilger:</l>
+                        <l>Der Ritter nahm den ersten Platz.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Don Quixote</hi>.</p>
+                     <lg>
+                        <l>Am Scheidewege treffen wir uns alle,</l>
+                        <l>Allein wir treffen uns nur, um zu scheiden!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">St. Peter</hi>.</p>
+                     <lg>
+                        <l>Du scheinst nun allen Ernstes müde, Ritter!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

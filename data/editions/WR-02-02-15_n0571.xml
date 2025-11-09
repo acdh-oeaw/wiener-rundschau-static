@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-15_n0571.xml" prev="WR-02-02-15_n0570.xml" next="WR-02-02-15_n0572.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 15, S. 571</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="15"/>
+                        <biblScope unit="page" n="n0571"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-06-15">15 6 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0444">
+                  <title level="a">Der Hunger nach Kunst </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 15</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="15">15</biblScope>
+                  <biblScope unit="page" from="566" to="571"/>
+                  <idno type="fn">WR-02-02-15_n0566.xml</idno>
+                  <author ref="#wr-person-0159">Jostenoode, Harold Arjuna van</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">HUNGER NACH KUNST.</fw>
+               <fw type="pn">571</fw>
+            </fw>
+            <p rend="no-intend">reich, wo noch echte Volkstrachten sind, sollte man alles thun,<lb/>
+um zu erhalten, was an volksthümlicher Kunst noch vorhanden ist.<lb/>
+Der Wiener Volksgesangverein ist hier auf dem richtigen Weg. Denn<lb/>
+auch dem Gesänge bleibt in der Erneuerung volksmässiger Kunstpflege<lb/>
+eine wichtige Rolle vorbehalten. Auch der Ausschuss für die deutschen<lb/>
+Nationalfestspiele hat die volksthümliche Musik in sein Programm auf-<lb break="no"/>
+genommen. Er sollte nur noch auch ein Preisausschreiben für die<lb/>
+schönsten Volkstrachten veranstalten. Dann könnte man die sämmt-<lb break="no"/>
+lichen Nationaltrachten Revue passieren sehen und sich ein Bild davon<lb/>
+machen, wie es um die ästhetische Ausbildung beim Volke steht.</p>
+            <p>Hat das Mittelalter sein Schönheitsbedürfnis durch religiöse Dar-<lb break="no"/>
+stellungen befriedigt, hat die Renaissance ein abstractes Schönheitsideal<lb/>
+auf Grund der Antike zu finden gesucht, so soll die Neuzeit dem<lb/>
+Völkergedanken in der Kunst sinnlich-schönen Ausdruck verleihen. Das<lb/>
+wäre wohl das Ideal der nächsten Zukunft.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

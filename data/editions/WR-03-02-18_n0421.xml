@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-18_n0421.xml" prev="WR-03-02-18_n0420.xml" next="WR-03-02-18_n0422.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 18, S. 421</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="18"/>
+                        <biblScope unit="page" n="n0421"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0702">
+                  <title level="a">Schweigen</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 18</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="18">18</biblScope>
+                  <biblScope unit="page" from="419" to="421"/>
+                  <idno type="fn">WR-03-02-18_n0419.xml</idno>
+                  <author ref="#wr-person-0235">Poe, Edgar Allan</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">POE: SCHWEIGEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Und meine Blicke fielen auf das An-<lb break="no"/>
+gesicht des Mannes, und sein Angesicht<lb/>
+war bleich vor Entsetzen. Voll Hast erhob<lb/>
+er das Haupt aus seiner Hand, stand<lb/>
+aufrecht auf dem Felsen und lauschte.<lb/>
+Aber aus der ungeheueren, grenzenlosen<lb/>
+Wüste klang kein Ton, und die Schriftzüge<lb/>
+auf dem Felsen waren: SCHWEIGEN.</p>
+                     <p>Und der Mann erschauerte und wandte<lb/>
+sein Angesicht ab und floh hinweg, so dass<lb/>
+ich ihn nicht mehr sehen konnte.</p>
+                     <milestone unit="asterisk"/>
+                     <p>Es stehen schöne Erzählungen in den<lb/>
+Büchern der Magier — in den eisen-<lb break="no"/>
+gebundenen, melancholischen Büchern der<lb/>
+Magier. Dort stehen, sage ich, glorreiche<lb/>
+Geschichten vom Himmel und von der<lb/>
+Erde und von dem machtvollen Meere —</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">und von den Genien, die das Meer<lb/>
+und die Erde und den hohen Himmel<lb/>
+beherrschten. Es war auch viel Weisheit<lb/>
+in den Worten, welche die Sybillen sagten;<lb/>
+und heilige, heilige Dinge haben ehemals<lb/>
+die dunklen Blätter, die um Dodona zitter-<lb break="no"/>
+ten, vernommen; aber so wahr Allah<lb/>
+lebt, die Fabel, die mir der <hi rend="text-spaced">Dämon</hi>
+                        <lb/>
+erzählte, als er im Schatten des Grabes<lb/>
+an meiner Seite sass, halte ich für das<lb/>
+Wunderbarste von Allem. Und als der<lb/>
+                        <hi rend="text-spaced">Dämon</hi> seine Geschichte beendet, stürzte<lb/>
+er sich in die Tiefen des Grabes und<lb/>
+begann zu lachen. Ich vermochte nicht mit<lb/>
+dem <hi rend="text-spaced">Dämon</hi> zu lachen, und er verfluchte<lb/>
+mich, weil ich nicht mit ihm lachen konnte.<lb/>
+Und der <hi rend="text-spaced">Luchs</hi>, der für alle Ewigkeit im<lb/>
+Grabe wohnt, kam hervor, legte sich zu<lb/>
+den Füssen des <hi rend="text-spaced">Dämons</hi> nieder und blickte<lb/>
+ihm unbeweglich ins Auge <milestone unit="3dots"/>
+                     </p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="editorialStatement-start"/>
+            <p>Wir beginnen hier mit der Publication einiger Dichtungen Edgar Allan Poes, die <hi rend="text-spaced">bisher<lb/>
+im Deutschen noch nicht erschienen sind</hi>. Die Übertragungen sind von H. Moeller-<lb break="no"/>
+Bruck besorgt und einer Ausgabe entnommen, die im Winter, gelegentlich des 50jährigen<lb/>
+Todestages des Dichters, im Verlage von S. C. C. Bruns, Minden, erscheinen wird. Die kleinen<lb/>
+Miniaturausgaben, die das deutsche Publicum bisher mit dem seltsamen Phänomen Poe be-<lb break="no"/>
+kanntzumachen suchten, waren nach heute veralteten Kriterien zusammengestellt; in über-<lb break="no"/>
+grosser Mehrzahl hatten darin jene mysteriösen Geschichten und Criminalnovellen Platz ge-<lb break="no"/>
+funden, die nur von dem scharfen <hi rend="text-spaced">Analytiker</hi> Poe Zeugnis ablegen konnten, während der<lb/>
+nervöse Visionär, der sublime Liebeslyriker, so gut wie gar nicht darin vertreten war. Wir<lb/>
+freuen uns, aus der erwähnten Ausgabe, die diesem Mangel abhelfen und den heute »modernen«<lb/>
+Poe <hi rend="text-spaced">zum erstenmale</hi> in deutscher Sprache vorführen will, einige Proben in dieser Nummer<lb/>
+und in den nächsten Heften bringen zu können. D. RED.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

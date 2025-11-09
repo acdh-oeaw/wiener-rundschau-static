@@ -1,0 +1,224 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-04_n0082.xml" prev="WR-03-01-04_n0081.xml" next="WR-03-01-04_n0083.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 4, S. 82</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="04"/>
+                        <biblScope unit="page" n="n0082"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0563">
+                  <title level="a">Die Schlüssel des Himmelreichs. (Commentar. Dritter und Fünfter Act)</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 4</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="81" to="87"/>
+                  <idno type="fn">WR-03-01-04_n0081.xml</idno>
+                  <author ref="#wr-person-0175">Strindberg, August</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">STRINDBERG: DIE SCHLÜSSEL DES HIMMELREICHS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">einem Riesen, wie es keinen grösseren<lb/>
+im ganzen Norden gibt, avanciert. Er<lb/>
+jubelt:</p>
+                     <milestone unit="performance-start"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Bin ich auch just nicht schön, bin ich</l>
+                        <l>doch schaurig gross,</l>
+                        <l>Weit blick’ ich ringsumher, viel weiter</l>
+                        <l>als die meisten.</l>
+                        <l>Ich spiegle mich im See, auch in der</l>
+                        <l>Wolke Schoss u. s. w.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                     <p>Allein ungetrübt ist seine Freude<lb/>
+nicht:</p>
+                     <milestone unit="performance-start"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Dort unten in dem Thale, da wohnt der</l>
+                        <l>Priestergreis,</l>
+                        <l>Aus seiner Kirche hör’ ich’s immer</l>
+                        <l>bimmeln,</l>
+                        <l>Das Volk in altem Trotte, hinwallet</l>
+                        <l>scharenweis,</l>
+                        <l>Um ihren weissen Balder gläubig zu</l>
+                        <l>verhimmeln.</l>
+                        <l>Doch auch den Berg, den Riesen, ehrt</l>
+                        <l>keiner mehr fürwahr,</l>
+                        <l>Obgleich an Kraft er allen überlegen;</l>
+                        <l>Er schützt im Thal die Menschen vor</l>
+                        <l>wilder Sturmgefahr.</l>
+                        <l>Die blauen Blitze fängt er in seinem</l>
+                        <l>eig’nen Haar,</l>
+                        <l>Dem Acker gibt er Wärme, die Sonnen-</l>
+                        <l>licht gebar,</l>
+                        <l>Im tiefen Schosse sammelt er den Regen.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                     <p>Das Gefühl seiner Erhabenheit über<lb/>
+das erbärmliche Volk, das sich da unten<lb/>
+angebaut, lässt ihn jedoch ihren Undank<lb/>
+verschmerzen. Voll Geringschätzung sieht<lb/>
+er sie vor dem Spuk der Nacht sich angst-<lb break="no"/>
+voll in die Betten verkriechen, Gebete<lb/>
+stammelnd.</p>
+                     <p>Er hingegen, der Riese</p>
+                     <milestone unit="performance-start"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>
+                           <milestone unit="3dots"/> liebt das Dunkel, in dem die Ruhe</l>
+                        <l>thront,</l>
+                        <l>Im Dunkel herrscht die Stille, wo der</l>
+                        <l>Gedanke wohnt,</l>
+                        <l>Denn vor der Sonne tanzen doch nur</l>
+                        <l>Mücken.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                     <p>Es erfüllt ihn mit Stolz, dass sich<lb/>
+die Eule ihm auf die Schulter setzt:</p>
+                     <milestone unit="performance-start"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Da ist mein Lieblingsvogel, mein Nacht-</l>
+                        <l>freund und Berather,</l>
+                        <l>Zwei Augen auf zwei Schwingen, mit</l>
+                        <l>Krallen wie ein Kater.</l>
+                        <l>Um Weisheit kann man dich allein befragen,</l>
+                        <l>Und niemand wird den Strauss mit Ries’</l>
+                        <l>und Vogel wagen.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                     <p>Da kommen mit Grabscheiten, Hauen<lb/>
+und Spaten die Zwerge angerückt. Unten</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">am Berge zu Füssen des Riesen, fangen<lb/>
+sie an zu hacken und zu graben. Sie<lb/>
+singen:</p>
+                     <milestone unit="performance-start"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Die Zwerge</hi>.</p>
+                     <lg>
+                        <l>Wir picken, wir hacken,</l>
+                        <l>Wir knicken, wir knacken,</l>
+                        <l>Wir geben nicht Ruh’,</l>
+                        <l>Wir hetzen, wir fetzen,</l>
+                        <l>Wir wetzen, wir setzen</l>
+                        <l>Dem Bergkönig zu.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                     <p>Mit Staunen sieht der Alte die frechen<lb/>
+Knirpse sich anschicken, seine Stellung zu<lb/>
+untergraben:</p>
+                     <milestone unit="performance-start"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Die Zwerge</hi>.</p>
+                     <p>Wir schütteln, wir schmeissen,<lb/>
+Wir rütteln, wir reissen<lb/>
+Den Riesen schon um.<lb/>
+Wir picken, wir packen,<lb/>
+Wir knicken, wir knacken,<lb/>
+Im Staub liegt er — plumm!<lb/>
+Plumm! (Lang anhaltend).</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                     <p>Er warnt sie, aber sie lassen nicht ab<lb/>
+von ihrem Vorhaben. Da niest er und<lb/>
+es regnet Gerölle, er hustet und Steine<lb/>
+stürzen herab und verschütten den Zwerg-<lb break="no"/>
+könig. Wie sich die Zwerge nun um den<lb/>
+erledigten Thron in die Haare gerathen,<lb/>
+Ränke schmieden und »nicht um ein Haar<lb/>
+besser sind als die grossen Menschen!«<lb/>
+Mitten im Gewirre tritt der Däumling in<lb/>
+Siebenmeilenstiefeln, mit seiner Gemahlin,<lb/>
+dem Aschenbrödel auf, und möchte nun<lb/>
+den Thron an sich reissen. Seinen An-<lb break="no"/>
+spruch begründet er darauf, dass er der<lb/>
+Kleinste unter den Kleinen, und wer sich<lb/>
+erniedrigt, der wird erhöht. Im Zwei-<lb break="no"/>
+kampfe soll es ausgefochten werden. Er<lb/>
+wird überlistet, um seine Siebenmeilen-<lb break="no"/>
+stiefel betrogen und bei dem entstehenden<lb/>
+Tumult und dem vom Hoberg-Alten auf<lb/>
+die Raufenden geschleuderten Steinregen<lb/>
+sammt dem Aschenbrödel getödtet. Hier<lb/>
+findet Petrus die Erschlagenen und macht<lb/>
+dem Hoberg-Alten Vorwürfe, dass er es übers<lb/>
+Herz bringen konnte, die armen Kleinen<lb/>
+zu tödten. Allein letzterer weist seine An-<lb break="no"/>
+klage zurück: »Sie hätten sonst mich ge-<lb break="no"/>
+tödtet!« »Wahr’ Dich,« ruft er ihm zu,<lb/>
+»vor Zwergen. Sie beherrschen die Welt.<lb/>
+Im Innern der Berge verbringen sie ihre<lb/>
+Zeit damit, nach Gold zu schürfen, für<lb/>
+das die Menschenkinder Glaube und Seele<lb/>
+verkaufen, und Schwerter zu schmieden,<lb/>
+mit denen die Menschenkinder einander<lb/>
+umbringen.«</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-02_n0072.xml" prev="WR-01-01-02_n0071.xml" next="WR-01-01-02_n0073.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 2, S. 72</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0072"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-01">1 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0020">
+                  <title level="a">Die demolirte Literatur</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="68" to="72"/>
+                  <idno type="fn">WR-01-01-02_n0068.xml</idno>
+                  <author ref="#wr-person-0008">Kraus, Karl</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">72</fw>
+               <fw type="ctext">KRAUS.</fw>
+            </fw>
+            <p rend="no-intend">Würdigung seiner Verdienste wird es von ihm einmal<lb/>
+heissen:</p>
+            <p>»Er war ein Dichter, der sich nicht nach der Schablone<lb/>
+anzog, eine eigenartige Begabung, die sich noch in der durch-<lb break="no"/>
+aus selbstständigen Form der Stiefletten äusserte. Dieser<lb/>
+sensitiven Natur ist ein falscher, nicht am Hemd an-<lb break="no"/>
+genähter Kragen stets stimmungswidrig gewesen. Seiner<lb/>
+scharfen Beobachtungsgabe, die noch durch ein feingeschlif-<lb break="no"/>
+fenes Monocle verstärkt war, entging kein Toilettefehler,<lb/>
+und die Empfindungen, die in ihm eine chike Cravatte her-<lb break="no"/>
+vorzurufen wusste, vermochte ihm ein Taschentuch, das zu<lb/>
+weit aus der Rocktasche heraushing, sogleich wieder zu zer-<lb break="no"/>
+stören. Die intensivsten Stimmungen, die originellsten Ge-<lb break="no"/>
+danken, welche Anderen zu literarischen Erfolgen ver-<lb break="no"/>
+holfen hätten, er hatte sie in seinen schönen Gürteln an-<lb break="no"/>
+gelegt. Dieser Dichter war eine Individualität. Gott schütze<lb/>
+uns vor seinen Epigonen!«</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

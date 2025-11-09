@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-02_n0028.xml" prev="WR-03-01-02_n0027.xml" next="WR-03-01-02_n0029.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 2, S. 28</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0028"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0540">
+                  <title level="a">Die Schlüssel des Himmelreichs. (Zweiter Act)</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="25" to="29"/>
+                  <idno type="fn">WR-03-01-02_n0025.xml</idno>
+                  <author ref="#wr-person-0175">Strindberg, August</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">STRINDBERG: DIE SCHLÜSSEL DES HIMMELREICHS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>. Du bist feig, Petrus!</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">St. Peter</hi>. Wenn man das so nennen<lb/>
+will, sich an die Gesetze und Verordnungen<lb/>
+zu halten.</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="scene-start"/>
+                     <ab>
+                        <title>Vierte Scene.</title>
+                     </ab>
+                     <p>
+                        <hi rend="strong">Die Vorigen. Don Quixote</hi> (zu Pferde kommt<lb/>
+durch das grosse Thor hereingeritten. Er ist<lb/>
+mit der traditionellen Rüstung bekleidet, doch<lb/>
+stark beleibt).</p>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Liebhaberin</hi>. Komm fort von hier,<lb/>
+Geliebter, ehe mehr Leute kommen! —<lb/>
+Ach, da ist ja dieser abscheuliche Don<lb/>
+Quixote. (Sie zieht den Schleier vors Gesicht.)</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Don Quixote</hi>. Guten Tag, liebe<lb/>
+Leutchen!</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>. Wen sucht Ihr, mit<lb/>
+Verlaub?</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Don Quixote</hi>. Ich bin der Ritter Don<lb/>
+Quixote de la Mancha, und von Romeo<lb/>
+und Julia zu ihrer silbernen Hochzeit, hier<lb/>
+im Gasthause »Zum goldenen Ross« ein-<lb break="no"/>
+geladen. Bin ich etwa fehl gegangen?</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>. Das Gasthaus ist aller-<lb break="no"/>
+dings das erste, ob aber Romeo und Julia<lb/>
+hier ihre silberne Hochzeit feiern sollen,<lb/>
+darüber kann ich keine Auskunft geben,<lb/>
+um so weniger, als ich in den Geschichts-<lb break="no"/>
+büchern nirgend eine Andeutung gefunden,<lb/>
+dass die beiden jungen Leutchen sich be-<lb break="no"/>
+kamen.</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Don Quixote</hi> (sitzt ab). In den Ge-<lb break="no"/>
+schichtsbüchern! Sprecht mir nur von<lb/>
+diesen nicht! Was haben sie nicht alles<lb/>
+über mich zusammengelogen! — Komm<lb/>
+her, Sancho Panza!</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="scene-start"/>
+                     <ab>
+                        <title>Fünfte Scene.</title>
+                     </ab>
+                     <p>
+                        <hi rend="strong">Die Vorigen. Sancho Panza</hi> (mager wie ein<lb/>
+Jockey, fasst Don Quixotes Pferd am Zügel,<lb/>
+um es in den Stall zu führen).</p>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Sancho</hi>. Zu Befehl, gestrenger Ritter!</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Don Quixote</hi>. Führ mein Vollblut<lb/>
+in den Stall und gib ihm Hafer!</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>. Mir scheint, so mager<lb/>
+Sancho Panza geworden, so fett ist jetzt<lb/>
+Rosinante.</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Don Quixote</hi>. Die Zeiten ändern sich<lb/>
+und wir mit ihnen. Selbst ich habe vom<lb/>
+Leben gelernt, meine Vernunft zu Rathe<lb/>
+gezogen und mich zum klugen Mann ent-<lb break="no"/>
+wickelt! O, ich bin jetzt verteufelt klug.</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>. Sollten, Herr Ritter,<lb/>
+sich sozusagen auch einer bestimmten Lauf-<lb break="no"/>
+bahn zugewendet haben und in die engen</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Verhältnisse des bürgerlichen Lebens einge-<lb break="no"/>
+treten sein?</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Don Quixote</hi>. Ich züchte Traber und<lb/>
+besuche Pferdemärkte. — Darf ich Sie mit<lb/>
+einer Adresse versehen?</p>
+                     <milestone unit="untyped-end"/>
+                     <p>(Reicht St. Peter einen Prospect, der ihm da-<lb break="no"/>
+gegen ein Tractätchen einhändigt.)</p>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">St. Peter</hi>. Vielen Dank, Ritter, aber<lb/>
+meine Pferde brauchen nie gewechselt zu<lb/>
+werden.</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Don Quixote</hi>. Was sind das für<lb/>
+Pferde?</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">St. Peter</hi>. Apostelpferde!</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Don Quixote</hi>. Haha, alter Spassvogel!<lb/>
+Lässt sich mit diesen Rappen gut auf und<lb/>
+davon reiten?</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">St. Peter</hi> (verletzt). Jedenfalls vor Wind-<lb break="no"/>
+mühlflügeln.</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Don Quixote</hi>. Pfui, schämt Euch!</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="scene-start"/>
+                     <ab>
+                        <title>Sechste Scene.</title>
+                     </ab>
+                     <p>
+                        <hi rend="strong">Die Vorigen.</hi> (Der Hochzeitszug aus dem<lb/>
+Brunnen hervor. Zuerst Musikanten. Hierauf)<lb/>
+                        <hi rend="strong">Montecchi</hi> (und) <hi rend="strong">Capulet</hi> (Arm in Arm. Sodann<lb/>
+die Brautführer und Brautführerinnen, nämlich)<lb/>
+Hamlet (und) <hi rend="strong">Ophelia; Othello</hi> (und) <hi rend="strong">Desde-<lb break="no"/>
+mona;</hi> Ritter <hi rend="strong">Blaubart</hi> (und seine Gattin)<lb/>
+Lady <hi rend="strong">Macbeth</hi>; (endlich) <hi rend="strong">Romeo</hi> (und) <hi rend="strong">Julia</hi>
+                        <lb/>
+(ziemlich hoch bei Jahren, mit fünf, theils er-<lb break="no"/>
+wachsenen, theils halb erwachsenen Kindern).<lb/>
+Volk. <hi rend="strong">Der Wirt</hi> (auf der Vortreppe postiert,<lb/>
+empfängt den Hochzeitszug).</p>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Don Quixote</hi>. Dazu erkoren bei dieser<lb/>
+silbernen Hochzeit die Honneurs zu machen,<lb/>
+heisse ich die Gäste im Namen des Braut-<lb break="no"/>
+paares willkommen. Ihr, alter Montecchi,<lb/>
+und Ihr Capulet, es freut mich, Euch nach<lb/>
+so vieljähriger Feindschaft, deren einstige<lb/>
+Solidität sich nur mit der Festigkeit Eurer<lb/>
+jetzigen Freundschaft vergleichen lässt, Arm<lb/>
+in Arm zu sehen; wenngleich nicht ver-<lb break="no"/>
+schwiegen werden kann, dass die Freund-<lb break="no"/>
+schaft der beiden alten Seidenfirmen Mon-<lb break="no"/>
+tecchi und Capulet in Verona, sich eigentlich<lb/>
+von dem Mailänder dreiprocentigen An-<lb break="no"/>
+lehen herdatiert.</p>
+                     <p>Es ist mir ferner eine theure Pflicht,<lb/>
+die Anwesenheit des Brautpaares, des Herrn<lb/>
+Romeo, Chef des Hauses Romeo Söhne<lb/>
+und seiner vielgeliebten Gattin Julia zu<lb/>
+constatieren. Ich möchte dieses Wiedersehen<lb/>
+gewiss zu keinem schmerzlichen gestalten,<lb/>
+noch einen Misston in ein so angenehmes<lb/>
+Familienfest bringen, kann aber gleichwohl,<lb/>
+wenn ich die beiden taubstummen Kinder</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

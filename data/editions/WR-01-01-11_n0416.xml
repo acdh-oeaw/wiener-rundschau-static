@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-11_n0416.xml" prev="WR-01-01-11_n0415.xml" next="WR-01-01-11_n0417.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 11, S. 416</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="11"/>
+                        <biblScope unit="page" n="n0416"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-04-15">15 4 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0135">
+                  <title level="a">J. P. Jakobsen’s Lyrik</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 11</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="11">11</biblScope>
+                  <biblScope unit="page" from="412" to="416"/>
+                  <idno type="fn">WR-01-01-11_n0412.xml</idno>
+                  <author ref="#wr-person-0057">Menkes, Hermann</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">416</fw>
+               <fw type="ctext">MENKES.</fw>
+            </fw>
+            <milestone unit="verse-start"/>
+            <lg>
+               <l>»Und viele (die Wünsche) sind längst mit dem Weg vertraut</l>
+               <l>Zu des Todes schweigendem Hafen,</l>
+               <l>Die andern entflattern Schaar um Schaar,</l>
+               <l>Um in Menschenherzen zu schlagen <milestone unit="3dots"/>«</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <p>Man kommt in lauter Schwelgen, wenn man hier zu citiren an-<lb break="no"/>
+fängt; der Kritiker verliert die Worte. Und Entwaffner sind ja alle<lb/>
+grossen Künstler. Darum weise ich mit zitterndem Finger noch auf<lb/>
+diese Strophe hin:</p>
+            <milestone unit="verse-start"/>
+            <lg>
+               <l>»Wir müssen, Geliebteste, leise</l>
+               <l>Hinschreiten, ich und du.</l>
+               <l>Es schläft eine Sangesweise</l>
+               <l>In Waldes nächtlicher Ruh’.</l>
+            </lg>
+            <lg>
+               <l>Verstummt sind Winde und Wellen</l>
+               <l>Und aller Singvöglein Mund,</l>
+               <l>Schweigend rinnen die Quellen</l>
+               <l>Blank über moosigen Grund.</l>
+            </lg>
+            <lg>
+               <l>Des Mondlichts stiller Reigen</l>
+               <l>Durchspielt das Buchengeheg’,</l>
+               <l>Es schlummert in süssem Schweigen</l>
+               <l>Ein silberner Streif am Weg.</l>
+            </lg>
+            <lg>
+               <l>Die Wolken selber droben</l>
+               <l>Schweben auf Flügeln breit</l>
+               <l>Und schaun’n von Glanz umwoben</l>
+               <l>In die Waldeseinsamkeit <milestone unit="3dots"/>«</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <p>Und so ist dem deutschen Leser dieses Büchlein ein schöner<lb/>
+wehmuthsvoller Nachklang aus Jacobsen’s Dichten; man weilt bei diesen<lb/>
+Strophen mit den Gefühlen, als sässe man in einer stillen, mondbe-<lb break="no"/>
+schienenen Kirche, die Orgeltöne durchrauschen; in jener grossen<lb/>
+Kirche der Schönheit, die eine ferne Zukunft der Menschheit vielleicht<lb/>
+noch bringen wird.</p>
+            <milestone unit="verse-start"/>
+            <lg>
+               <l>»Licht übers Land,</l>
+               <l>Das war’s, was wir gewollt <milestone unit="3dots"/>«</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <p>
+               <date>1884</date> hat Jacobsen dieses kleine Testament geschrieben, und ein<lb/>
+Jahr später schloss er die erschrockenen, wundervollen Augen, die so<lb/>
+früh den Tod sahen, ehe das Glück seine Hände auf sein müdes Haupt<lb/>
+gelegt.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

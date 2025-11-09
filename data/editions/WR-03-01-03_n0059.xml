@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-03_n0059.xml" prev="WR-03-01-03_n0058.xml" next="WR-03-01-03_n0060.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 3, S. 59</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0059"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0551">
+                  <title level="a">Die Alkestis des Euripides</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="55" to="62"/>
+                  <idno type="fn">WR-03-01-03_n0055.xml</idno>
+                  <author ref="#wr-person-0141">Hofmannsthal, Hugo v.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">HOFMANNSTHAL: DIE ALKESTIS DES EURIPIDES.</fw>
+            </fw>
+            <lg>
+               <l>Als müsst’ ich plötzlich, wie die Kerze lischt,</l>
+               <l>Ihr Leben mir im Arm auslöschen seh’n.</l>
+               <l>So grauenvoll ist, wenn man es bedenkt,</l>
+               <l>Das Leben. Also jetzt muss ich hingehen</l>
+               <l>Und diese Todte da begraben. Ihr</l>
+               <l>Bleibt nur indessen, lasst sie nicht allein</l>
+               <l>Und singt ein frommes Lied dem Gott, den Flehen</l>
+               <l>Nicht rührt. Doch ganz Thessalien, soweit</l>
+               <l>Mein Speer gebietet, trauere mit mir!</l>
+               <l>Die süssen Flöten, die sie aus dem Holz</l>
+               <l>Des Lotosbaumes schneiden, sollen schweigen.</l>
+               <l>Ich will nicht, dass sie mich vergessen lehren!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <p>(Er geht ins Haus. Die Frauen schmücken die Leiche und bahren sie rechts unter dem vor-<lb break="no"/>
+springenden Dache auf. Die Männer treten in den Hintergrund.)</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der kleine Eumelos</hi>.</p>
+            <lg>
+               <l>Was legten sie die Mutter auf die Trage?</l>
+               <l>Kann sie denn nicht mehr geh’n, hat sie’s verlernt?</l>
+               <l>Was zieh’n sie ihr die schönen Kleider an?</l>
+               <l>Was geben sie ihr gold’ne Spangen um?</l>
+               <l>Ist doch kein Fest!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <p>(Die alte Sclavin nimmt ihn auf den Schoss und redet mit ihm leise.)</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der kleine Eumelos</hi>.</p>
+            <lg>
+               <l>Ein fremder Mann? Wann bringt er sie denn wieder?</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Die älteren Frauen</hi> (an der Bahre).</p>
+            <lg>
+               <l>Es pflücken die Menschen die Früchte des Lebens,</l>
+               <l>Die Wunder der Weite, die Wunder der Nähe.</l>
+               <l>Sie lassen den Wind ihre Schiffe treiben,</l>
+               <l>Sie saugen den Zauber der Töne aus Flöten</l>
+               <l>Und Königsgedanken aus Träumen der Nacht.</l>
+               <l>Sie fahren im hohen Wagen des Lebens</l>
+               <l>Mit stolzen Stirnen den Wunderweg,</l>
+               <l>Da springt gegen sie mit eichener Keule</l>
+               <l>Und schlägt sie nieder das stumme Geschick.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Die jüngeren Frauen</hi>.</p>
+            <lg>
+               <l>Wir dürfen nicht fragen, wir können’s nicht fassen!</l>
+               <l>O brechet die Früchte umschlingt einander,</l>
+               <l>Beladet mit Leben die wandernden Stunden,</l>
+               <l>Mit funkelnden Blumen, weissäugigen Steinen,</l>
+               <l>Mit Lachen und Liebe, mit Herrschaft und Lust!</l>
+               <l>Was frommen die duftenden gold’nen Sandalen</l>
+               <l>Was frommen die Spangen, was frommen die Blumen,</l>
+               <l>Um nieder ins Dunkel zu folgen dem Tod?</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <p>(Sclavinnen heben die Bahre auf und der Zug geht singend, von allen Frauen geleitet, durch<lb/>
+die gewölbten Gänge rechts vorne langsam ab.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="scene-start"/>
+            <ab>
+               <title>III. DAS AUFTRETEN DES HERAKLES.</title>
+            </ab>
+            <p>(Bewegung. Wachsende Unruhe.)</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Einer oder mehrere rufen</hi>.</p>
+            <lg>
+               <l>Er ist es! Von Nemea ist’s das Fell!</l>
+               <l>Die Keule ist’s! Der Held Herakles ist’s!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

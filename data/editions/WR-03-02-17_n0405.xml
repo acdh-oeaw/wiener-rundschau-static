@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-17_n0405.xml" prev="WR-03-02-17_n0404.xml" next="WR-03-02-17_n0406.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 17, S. 405</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="17"/>
+                        <biblScope unit="page" n="n0405"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0699">
+                  <title level="a">»Blaubart und Ariane«</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 17</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="17">17</biblScope>
+                  <biblScope unit="page" from="393" to="415"/>
+                  <idno type="fn">WR-03-02-17_n0393.xml</idno>
+                  <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MAETERLINCK: BLAUBART UND ARIANE.</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>SÉLYSETTE:</p>
+            <p>Ich sehe das Meer <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>MELISANDE:</p>
+            <p>Und ich, ich sehe den Himmel. (Sie legt den Arm auf die Augen.) Nein,<lb/>
+nein, ich kann nicht, ich kann nicht <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Meine Augen beruhigen sich unter meinen Händen <milestone unit="3dots"/> Wo sind wir?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>BELLANGÈRE:</p>
+            <p>Ich will nur die Bäume sehen, wo sind sie?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>YGRAINE:</p>
+            <p>Oh, wie grün ist das Land! <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Wir sind an den Wänden des Felsens.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>YGRAINE:</p>
+            <p>Da sind Gitterstangen <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>MELISANDE:</p>
+            <p>Das Dorf dort unten <milestone unit="3dots"/> Seht Ihr das Dorf?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SÉLYSETTE:</p>
+            <p>Wo sind die Menschen?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>MELISANDE:</p>
+            <p>Da unten, da unten, ein Bauer! <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SÉLYSETTE:</p>
+            <p>Er hat uns gesehen, er blickt herauf<milestone unit="3dots"/> Ich will ihm ein Zeichen machen<lb/>
+(sie schwenkt ihr langes Haar). Er hat meine Haare gesehen. Er nimmt seinen<lb/>
+Hut ab. Er bekreuzigt sich <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>MELISANDE:</p>
+            <p>Eine Glocke! Eine Glocke! <milestone unit="3dots"/> (Sie zählt die Schläge) Sieben, acht, neun <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>BELLANGÈRE:</p>
+            <p>Zehn, elf, zwölf <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>MELISANDE:</p>
+            <p>Es ist Mittag.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>YGRAINE:</p>
+            <p>Wer singt dort so?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>MELISANDE:</p>
+            <p>Aber es sind die Vögel <milestone unit="3dots"/> Siehst Du sie nicht? Sie sitzen da zu<lb/>
+Tausenden in den grossen Pappeln <milestone unit="3dots"/> den Fluss entlang <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SÉLYSETTE:</p>
+            <p>Alladine <milestone unit="3dots"/> Ein Segel! <milestone unit="3dots"/> Wo ist sie? Alladine! Ich muss sie küssen <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>MELISANDE:</p>
+            <p>Alladine ist hier und ich küsse sie.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SÉLYSETTE:</p>
+            <p>Oh, Du bist blass, Melisande <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-09_n0352.xml" prev="WR-02-01-09_n0351.xml" next="WR-02-01-09_n0353.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 9, S. 352</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="09"/>
+                        <biblScope unit="page" n="n0352"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-03-15">15 3 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0383">
+                  <title level="a">Ibsen</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 9</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="09">9</biblScope>
+                  <biblScope unit="page" from="351" to="352"/>
+                  <idno type="fn">WR-02-01-09_n0351.xml</idno>
+                  <author ref="#wr-person-0007">Schik, F.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">352</fw>
+               <fw type="ctext">SCHIK.</fw>
+            </fw>
+            <p>Seine Stücke lassen beabsichtigter Weise die Unbefriedigtheit zurück,<lb/>
+welche uns die heutigen Zustände bereiten. Die Continuität der Genera-<lb break="no"/>
+tionen scheint zerrissen. Das Gros der Männer hat abgewirthschaftet; sie<lb/>
+verderben die Race. Nur im Weibe liegen noch die Qualitätskeime einer<lb/>
+entwicklungsfähigen Zukunft; es muss daher auf die Suche nach dem<lb/>
+»Wunderbaren« ausgehen. So enden die charakteristischen Ibsen’schen<lb/>
+Stücke ungeschlechtlich; die Wege von Mann und Weib gehen am<lb/>
+Schlusse auseinander und führen zu keiner bürgerlichen Vereinigung<lb/>
+mehr. Auf den Verfall der Gemeinschaft, aus dem die »Umwandlung«<lb/>
+sich entwickeln soll, spitzt sich Alles zu.</p>
+            <p>Die Communication der fortschreitenden Erkenntnisse der Wissen-<lb break="no"/>
+schaft mit der Kunst ist durch Ibsen energisch hergestellt worden. Nach<lb/>
+dem Gesetze der Vererbung spielen in einem Ibsen-Stücke stets mehrere<lb/>
+Generationen mit. So wenig Personen auch der Theaterzettel verzeichnet,<lb/>
+so viele Vorfahren greifen ein. Das ganze Menschenmaterial eines ver-<lb break="no"/>
+gangenen Geschlechtes bildet das nebelhafte Geleite seines Gegenwarts-<lb break="no"/>
+vertreters, der nun scheinbar allein durch die schmale dramatische Thür<lb/>
+eines Ibsen’schen Dramas tritt. Reformatorisch hat Ibsen den Motiven-<lb break="no"/>
+umfang für moderne dramatische Gestalten und die Ursachenproportionen<lb/>
+für die Beziehungen derselben fixirt. Gemäss der durchschnittlichen<lb/>
+Oekonomie der Natur hat er weder mehrere wirkliche Wesen zu einer<lb/>
+Bühnengestalt summirt, noch die Eigenschaften eines Individuums ins<lb/>
+Ueberlebensgrosse potenzirt. Bei den Classikern noch könnte man manche<lb/>
+tragische Figur auf gut zehn lebendige Menschen auftheilen, weil dort<lb/>
+die Ausstattung mit Paralleleigenschaften eine überreiche ist. Ibsen hat<lb/>
+die Veränderungen wahrgenommen, die an den Contouren des allge-<lb break="no"/>
+meinen Menschheitsbildes sich vollzogen haben. Je mehr das Wesen<lb/>
+der Seelen enthüllt wird, desto verhüllter erscheint der Charakter der<lb/>
+Gesammtmenschheit. Diese sendet nun wieder geheimnisvolle Nebel-<lb break="no"/>
+gestalten aus, die der Dichter durch seine symbolischen Figuren markirt.</p>
+            <p>Ibsen ist über seine eigene Persönlichkeit nicht sehr mittheilsam.<lb/>
+Er verweist stets von sich auf seine Werke. Und so mögen denn auch<lb/>
+zur Feier seines siebzigsten Geburtstages weniger grosse Worte Anderer<lb/>
+über ihn, als vielmehr die grossen Werke des Gefeierten selbst auf der<lb/>
+Bühne erscheinen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

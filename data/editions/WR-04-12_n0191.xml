@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-12_n0191.xml" prev="WR-04-12_n0190.xml" next="WR-04-12_n0192.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 12, S. 191</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="12"/>
+                        <biblScope unit="page" n="n0191"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0895">
+                  <title level="a">Zwei Zeichnungen</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="189" to="212"/>
+                  <idno type="fn">WR-04-12_n0189.xml</idno>
+                  <author ref="#wr-person-0295">Beardsley, Aubrey</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0896">
+                  <title level="a">Salome</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="189" to="212"/>
+                  <idno type="fn">WR-04-12_n0189.xml</idno>
+                  <author ref="#wr-person-0068">Wilde, Oscar</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="act-start"/>
+            <p>Eine große Terrasse im Palast des Herodes, die an den Bankettsaal stößt. Einige Soldaten lehnen<lb/>
+sich über die Brüstung. Rechts eine mächtige Treppe, links im Hintergrund eine alte Cisterne<lb/>
+mit einer Einfassung aus grüner Bronze. Der Mond scheint sehr hell.</p>
+            <milestone unit="speech-start"/>
+            <p>DER JUNGE SYRIER: Wie schön die Prinzessin Salome heute Abend ist!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER PAGE DER HERODIAS: Sieh’ die Mondscheibe! Wie seltsam sie aussieht.<lb/>
+Wie eine Frau, die aus dem Grabe aufsteigt. Wie eine todte Frau. Man könnte<lb/>
+meinen, sie blicke nach todten Dingen aus.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER JUNGE SYRIER: Sie ist sehr seltsam. Wie eine kleine Prinzessin, die<lb/>
+einen gelben Schleier trägt und deren Füße von Silber sind. Wie eine kleine Prinzessin,<lb/>
+deren Füße weiße Tauben sind. Man könnte meinen, sie tanze.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER PAGE DER HERODIAS: Wie eine Frau, die todt ist. Sie gleitet lang-<lb break="no"/>
+sam dahin.</p>
+            <milestone unit="untyped-end"/>
+            <p>(Lärm im Bankettsaal.)</p>
+            <milestone unit="speech-start"/>
+            <p>ERSTER SOLDAT: Was für ein Aufruhr! Was sind das für wilde Thiere,<lb/>
+die da heulen?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ZWEITER SOLDAT: Die Juden. Sie sind immer so. Sie streiten über ihre<lb/>
+Religion.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER SOLDAT: Warum streiten sie über ihre Religion?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ZWEITER SOLDAT: Ich weiß es nicht. Sie thun das immer. Die Pharisäer<lb/>
+zum Beispiel sagen, dass es Engel gibt, und die Sadducäer behaupten, dass es<lb/>
+keine gibt.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER SOLDAT: Ich finde es lächerlich, über solche Dinge zu streiten.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER JUNGE SYRIER: Wie schön die Prinzessin Salome heute Abend ist!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER PAGE DER HERODIAS: Du siehst sie immer an. Du siehst sie zuviel<lb/>
+an. Es ist gefährlich, Menschen auf diese Art anzusehen. Schreckliches kann geschehen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER JUNGE SYRIER: Sie ist sehr schön heute Abend.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER SOLDAT: Der Tetrarch sieht finster drein.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ZWEITER SOLDAT: Ja, er sieht finster drein.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER SOLDAT: Er blickt auf etwas.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ZWEITER SOLDAT: Er blickt auf jemanden.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER SOLDAT: Auf wen blickt er?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ZWEITER SOLDAT: Ich weiß es nicht.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER JUNGE SYRIER: Wie blass die Prinzessin ist. Niemals habe ich sie so<lb/>
+blass gesehen. Sie ist wie der Schatten einer weißen Rose in einem silbernen Spiegel.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER PAGE DER HERODIAS: Du musst sie nicht ansehen. Du siehst sie<lb/>
+zuviel an.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER SOLDAT: Herodias hat den Becher des Tetrarchen gefüllt.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER CAPPADOCIER: Ist das die Königin Herodias, dort mit dem perlen-<lb break="no"/>
+besetzten schwarzen Kopfputz und dem blauen Puder im Haar?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER SOLDAT: Ja, das ist Herodias, die Frau des Tetrarchen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ZWEITER SOLDAT: Der Tetrarch liebt den Wein sehr. Er hat drei Sorten<lb/>
+Wein. Den einen bringt man von der Insel Samothrake, er ist purpurn wie der<lb/>
+Mantel des Cäsar.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER CAPPADOCIER: Ich habe Cäsar nie gesehen.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

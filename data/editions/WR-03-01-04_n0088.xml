@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-04_n0088.xml" prev="WR-03-01-04_n0087.xml" next="WR-03-01-04_n0089.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 4, S. 88</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="04"/>
+                        <biblScope unit="page" n="n0088"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0564">
+                  <title level="a">Die Besiegten</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 4</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="88" to="89"/>
+                  <idno type="fn">WR-03-01-04_n0088.xml</idno>
+                  <author ref="#wr-person-0006">Verlaine, Paul</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">DIE BESIEGTEN</hi>.<lb/>
+Von <rs type="person" key="">PAUL VERLAINE</rs>.<lb/>
+Deutsch von <rs type="person" key="">MARGARET HONIGSBERG</rs>.</title>
+            </ab>
+            <ab>
+               <title>I.</title>
+            </ab>
+            <lg>
+               <l>Das Leben siegt, das Ideal ist todt;</l>
+               <l>Des Siegers trunknes Pferd schäumt in die Sielen</l>
+               <l>Und wiehert in den Wind; sein Biss bedroht</l>
+               <l>Die Brüder noch, die doch in Ehren fielen.</l>
+            </lg>
+            <lg>
+               <l>Wir, die das Schicksal überleben liess,</l>
+               <l>Mit schwerem Haupt, verstümmelt, irren Blickes,</l>
+               <l>Ehrlos, vernichtet, blutend, ungewiss,</l>
+               <l>Wir gehn und klagen lautlos des Geschickes.</l>
+            </lg>
+            <lg>
+               <l>Gehn, wie des Wegs, des Abends Zufall will,</l>
+               <l>Den Mördern, Ehrvergessnen gleich, Gesellen</l>
+               <l>Des Elends, obdachlos, verwaist und still</l>
+               <l>Im Wald, des Tiefes Dunkel Flammen hellen.</l>
+            </lg>
+            <lg>
+               <l>O da doch ganz erfüllt ist unser Los,</l>
+               <l>Die Hoffnung selbst am Ende ganz zerstöret,</l>
+               <l>Die Müh’ vergebens, wär’ sie riesengross,</l>
+               <l>Da keiner Todtenfeier Glanz bethöret</l>
+            </lg>
+            <lg>
+               <l>Da alle Glut, selbst unser Hass verloht:</l>
+               <l>Zur Stunde, da es nun um uns will nachten,</l>
+               <l>Bleibt nichts uns, als ein leiser, dunkler Tod,</l>
+               <l>Wie’s den Besiegten ziemt der grossen Schlachten.</l>
+            </lg>
+            <ab>
+               <title>II.</title>
+            </ab>
+            <lg>
+               <l>Ein schwaches Licht am Horizont erbebt.</l>
+               <l>Ein eis’ger Wind erhebt sich, der die Rosen</l>
+               <l>Und Blüten und des Waldes Laub belebt.</l>
+               <l>Der Morgen! Alles weckt sein kaltes Kosen.</l>
+            </lg>
+            <lg>
+               <l>Der Osten erst noch gelb wird rosig; golden blinkt</l>
+               <l>Des Himmels Blau; der Sterne Glanz erbleicht;</l>
+               <l>Es kräht der Wächter Hahn; die Wachtel singt</l>
+               <l>Und steigt. Das Morgenroth. Die Nacht entweicht <milestone unit="3dots"/>
+               </l>
+            </lg>
+            <lg>
+               <l>Die Sonne hebt sich leuchtend, es ist Morgen,</l>
+               <l>Der Morgen, Freunde, dessen froher Strahl</l>
+               <l>Den schweren Schlaf euch stört und tief verborgen</l>
+               <l>Im Wald der Thiere schaudervolles Mahl.</l>
+            </lg>
+            <lg>
+               <l>O Wunder! Auch in unsern Herzen weckt</l>
+               <l>Sein Strahl den Wunsch, das Leben und das Hassen,</l>
+               <l>Tief unterm Panzer der die Brust bedeckt,</l>
+               <l>Den Zorn und Stolz der alten guten Rassen.</l>
+            </lg>
+            <lg>
+               <l>Vorwärts! Und auf! Vorwärts! Und auf! Und Muth!</l>
+               <l>Genug der Schande und der Ruh’, der trägen.</l>
+               <l>Zum Kampf, zum Kampf! Es lechzt das heisse Blut</l>
+               <l>Zu rauchen von der Spitze blanker Degen.</l>
+            </lg>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

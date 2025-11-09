@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-07_n0149.xml" prev="WR-04-06_n0148.xml" next="WR-04-07_n0150.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 7, S. 149</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="07"/>
+                        <biblScope unit="page" n="n0149"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0840">
+                  <title level="a">Der Garten</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 7</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="149" to="152"/>
+                  <idno type="fn">WR-04-07_n0149.xml</idno>
+                  <author ref="#wr-person-0279">Ysaey, L.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="performance-start"/>
+            <ab>
+               <title>DER GARTEN.<lb/>
+Von <rs type="person" key="">L. YSAEY</rs> (Wien).*</title>
+            </ab>
+            <p>Ein vornehm und dunkel gehaltenes Zimmer, in tiefer Dämmerung.</p>
+            <p>Zwei Personen stehen am Fenster.</p>
+            <p>MAREEN, 29 Jahre.</p>
+            <p>FERRAND, ihr Gatte, 35 Jahre.</p>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="speech-start"/>
+                     <p>FERRAND:</p>
+                     <p>Nun endlich ist der lange Tag vorbei!</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>MAREEN:</p>
+                     <lg>
+                        <l>Du nennst ihn lang, ein andrer heißt ihn kurz</l>
+                        <l>Und allzu kurz und wird ihn darum schelten,</l>
+                        <l>Ein Dritter lebt ihn, wie er eben ist.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>FERRAND:</p>
+                     <lg>
+                        <l>Der Dritte, das bist Du. — Ich weiß, Mareen,</l>
+                        <l>Dir furcht nicht Zorn die ewig glatte Stirne,</l>
+                        <l>Wenn träge Stunde sich an Stunde reiht,</l>
+                        <l>Du klagst nicht, wenn die raschen Augen-</l>
+                        <l>blicke</l>
+                        <l>Des Glücks entfliehn, eh man sie recht</l>
+                        <l>genoss.</l>
+                        <l>Doch ist Dein Wesen anders, als das unsre,</l>
+                        <l>Fremdartig, wie Dein Heimatland im Norden.</l>
+                        <l>Dort lernt man sich bescheiden, lernt den Tag</l>
+                        <l>Durch eine lange Dämmerung erwarten;</l>
+                        <l>Man lernt auch schweigen, seltsam lernt</l>
+                        <l>man reden,</l>
+                        <l>Doch leben, nein, Mareen, das lernt man</l>
+                        <l>nicht.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>MAREEN:</p>
+                     <lg>
+                        <l>Das sagst Du, weil Du unser Leben nie</l>
+                        <l>Gelebt, und weil Du meinst, dass Hasten,</l>
+                        <l>Jagen,</l>
+                        <l>Jetzt fieberhaft erregt, dann wieder schlaff,</l>
+                        <l>Bald voller Glück, von Schmerz dann ganz</l>
+                        <l>gebeugt,</l>
+                        <l>Dass dieser ewige Wechsel »Leben« heißt —</l>
+                        <l>Ich lebe anders und ich glaube besser</l>
+                        <l>Und wahrer, als es Deinem Spotte dünkt —</l>
+                        <l>Was hast Du denn vom Tag, wenn Du</l>
+                        <l>ihn treibst</l>
+                        <l>Und schiltst, dass er beschämt von dannen</l>
+                        <l>eilt,</l>
+                     </lg>
+                  </cell>
+                  <cell>
+                     <lg>
+                        <l>Und all die Gaben, die Dir zugedacht,</l>
+                        <l>Im Fliehen achtlos auf die Erde schleudert?</l>
+                        <l>Und kommt sein Bruder, geht es ihm nicht</l>
+                        <l>besser,</l>
+                        <l>Bis endlich eine Stunde naht, die Du</l>
+                        <l>Festhalten möchtest Ewigkeiten lang,</l>
+                        <l>Wo zitternd Du um Augenblicke kämpfst,</l>
+                        <l>Wo Du Dich selbst betrügst und lächelnd</l>
+                        <l>sprichst,</l>
+                        <l>Indes die Angst schon bebt in Deiner Stimme:</l>
+                        <l>»Du bist vorbei? O nein, Du fiengst erst an,</l>
+                        <l>Ich halte Dich, ich lass Dich nicht von</l>
+                        <l>hinnen!«</l>
+                        <l>Doch Bitten sind und Klagen da vergeblich,</l>
+                        <l>Sie geht, so wie so viele vor ihr giengen,</l>
+                        <l>Auf deren Gehen Du nicht sonderlich</l>
+                        <l>Geachtet, und im Dunkeln bleibst Du dann</l>
+                        <l>Allein und leise schleicht das Glück hin-</l>
+                        <l>aus — — —</l>
+                        <l>Wenn <hi rend="text-spaced">mein</hi> Tag kommt, so öffne ich die</l>
+                        <l>Arme</l>
+                        <l>Und grüße ihn wie einen lieben Gast.</l>
+                        <l>Die Pforten meiner Seele thu ich auf</l>
+                        <l>Und Freude lass ich ein zu allen Thoren.</l>
+                        <l>Doch gehn die Tage meistens still dahin,</l>
+                        <l>Sie halten wenig in den offnen Händen,</l>
+                        <l>Zuweilen nur die Sehnsucht nach den Gaben</l>
+                        <l>Des Lebens und zuweilen auch nicht</l>
+                        <l>die — — —</l>
+                        <l>Nun, sei es, wie es will, ich sehe ruhig</l>
+                        <l>Sie kommen, sehe ruhig sie entschwinden,</l>
+                        <l>Was sie mir geben können, nehm ich an</l>
+                        <l>Und trag nach andern Schätzen kein Ver-</l>
+                        <l>langen.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>FERRAND:</p>
+                     <lg>
+                        <l>Du Schwärmerin, ein hingeworfnes Wort,</l>
+                        <l>Bei dem ich kaum mir wirklich etwas dachte,</l>
+                        <l>Bringt Dich in Feuer, macht Dich lebhaft</l>
+                        <l>reden,</l>
+                     </lg>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Aus dem Buche der nämlichen Verfasserin, das demnächst unter dem Titel »GRAS-<lb break="no"/>
+HALME« im Verlage der »Deutsch-Österreichischen Literatur-Gesellschaft« erscheinen wird.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

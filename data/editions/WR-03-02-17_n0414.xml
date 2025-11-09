@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-17_n0414.xml" prev="WR-03-02-17_n0413.xml" next="WR-03-02-17_n0415.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 17, S. 414</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="17"/>
+                        <biblScope unit="page" n="n0414"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0699">
+                  <title level="a">»Blaubart und Ariane«</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 17</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="17">17</biblScope>
+                  <biblScope unit="page" from="393" to="415"/>
+                  <idno type="fn">WR-03-02-17_n0393.xml</idno>
+                  <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MAETERLINCK: BLAUBART UND ARIANE.</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>MELISANDE<lb/>
+(reicht ihr das andre Messer):</p>
+            <p>Hier ist das andere.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Danke.</p>
+            <milestone unit="untyped-end"/>
+            <p>(Sie schneidet die letzten Stricke durch. Tonloses Schweigen, in dem man die Herzen<lb/>
+pochen hört. Als Blaubart sich frei fühlt, setzt er sich langsam aufrecht, streckt<lb/>
+seine eingeschnürten Arme aus, bewegt die Arme, blickt alle Anwesenden aufmerksam<lb/>
+an, ohne zu sprechen, steht dann auf und lehnt sich unbeweglich an die Wand,<lb/>
+seine wunde Hand betrachtend.)</p>
+            <milestone unit="speech-start"/>
+            <p>ARIANE<lb/>
+(tritt auf ihn zu):</p>
+            <p>Lebe wohl! (Sie gibt ihm einen Kuss auf die Stirn. Blaubart macht unwill-<lb break="no"/>
+kürlich eine Bewegung, als wollte er sie zurückhalten. Sie macht sich sanft los und<lb/>
+schreitet der Thür zu, von der Amme gefolgt.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SÉLYSETTE<lb/>
+(stürzt hinter ihr her und hält sie zurück):</p>
+            <p>Ariane, Ariane, wo gehst Du hin? <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Weit von hier <milestone unit="3dots"/> wo man meiner noch harrt. Begleitest Du mich,<lb/>
+Sélysette? <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SÉLYSETTE:</p>
+            <p>Wann kommst Du wieder?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Ich komme nie wieder.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>MELISANDE:</p>
+            <p>Ariane! <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Begleitest Du mich, Melisande? (Melisande blickt abwechselnd auf Blaubart<lb/>
+und Ariane und antwortet nicht.) Sieh, das Thor ist offen und die Fluren sind<lb/>
+blau <milestone unit="3dots"/> Kommst Du nicht, Ygraine? (Ygraine wendet nicht einmal das Haupt.)<lb/>
+Der Mond und die Sterne leuchten auf allen Strassen. Kommst Du, Bellangère?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>BELLANGÈRE<lb/>
+(kalt):</p>
+            <p>Nein!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Soll ich allein gehen, Alladine? (Bei diesen Worten eilt Alladine auf sie zu,<lb/>
+wirft sich ihr an die Brust und hält sie in krampfhaftem Schluchzen lange und<lb/>
+fiebernd umschlungen.) Bleib’ Du auch, Alladine <milestone unit="3dots"/> Lebt wohl, seid glücklich <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <p>(Sie geht schnell, von der Amme gefolgt. Die Frauen blicken erst sie, dann Blaubart<lb/>
+an, der langsam den Kopf hebt. Bellangère und Ygraine zucken die Achseln und gehen,<lb/>
+die Thüre zu schliessen. Schweigen. Der Vorhang fällt.)</p>
+            <milestone unit="untyped-end"/>
+            <p>ENDE.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

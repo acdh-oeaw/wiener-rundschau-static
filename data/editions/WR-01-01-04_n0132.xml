@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-04_n0132.xml" prev="WR-01-01-04_n0131.xml" next="WR-01-01-04_n0133.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 4, S. 132</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="04"/>
+                        <biblScope unit="page" n="n0132"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-01-01">1 1 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0040">
+                  <title level="a">Zu den Sternen</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 4</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="132" to="138"/>
+                  <idno type="fn">WR-01-01-04_n0132.xml</idno>
+                  <author ref="#wr-person-0010">Ssologub, Fjodor</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>ZU DEN STERNEN.<lb/>
+Erzählung von <rs type="person" key="">Fjodor Ssologub</rs> (Petersburg).<lb/>
+Autorisirte Uebersetzung von <rs type="person" key="">Alexander Brauner</rs>.<lb/>
+(Schluss.)</title>
+            </ab>
+            <p>Der Student folgte ihm voller Angst, dass Serjoscha wieder keck<lb/>
+werden könnte. Serjoscha aber ging auf die Cousine zu, blieb vor ihr<lb/>
+stehen, machte einen Kratzfuss und sagte mit tonloser Stimme, wie<lb/>
+man was Eingelerntes herunterleiert:</p>
+            <p>»Verzeihen Sie mir, Cousine, dass ich Ihnen eine Frechheit gesagt<lb/>
+habe.« Seine Wangen färbten sich dabei gar nicht. Mit kalten Augen<lb/>
+blickte er in das verstellt wohlwollende Gesicht der Cousine, stand<lb/>
+noch eine Weile vor ihr, bückte sich darauf hastig und küsste ihre<lb/>
+Hand mit einer Bewegung, als führte er einen an sich ganz uninter-<lb break="no"/>
+essanten, doch eben gebräuchlichen Act aus. Die Cousine lächelte<lb/>
+sehr sauer.</p>
+            <p>»Ich bin nicht böse,« sagte sie, »aber es ist für dich selbst<lb/>
+schlecht, wenn du dir das Frechsein angewöhnst.«</p>
+            <p>Serjoscha machte wieder einen Kratzfuss, ging ebenso ruhig auf<lb/>
+die Mutter zu und that bei ihr dasselbe wie bei der Cousine. Mama<lb/>
+sagte ihm mit unzufriedener Stimme:</p>
+            <p>»Wärst du nicht frech, hättest du’s auch nicht nothwendig, um<lb/>
+Verzeihung zu bitten.« Serjoscha ging auf den Vater zu. Der stellte sich<lb/>
+strenge und böse, doch Serjoscha wusste, dass es ihm ganz gleich, dass<lb/>
+er ein — Fremder sei.</p>
+            <p>»Was hast du wieder angestellt, du Strick?« fragte der Vater.<lb/>
+Serjoscha machte ein finsteres Gesicht und kam darauf, dass er ja<lb/>
+gar nicht zu antworten brauchte. Der Vater dachte nach und fand keine<lb/>
+strengeren Worte. Das machte ihn böse.</p>
+            <p>»Wanze!« lachte er geärgert und kniff den Sohn in die Wange.<lb/>
+»Du wirst noch einmal was Gutes verdienen!«</p>
+            <p>»Nur nicht heute, bitte,« sagte Serjoscha ernst und rieb sich die<lb/>
+Wange, auf der ein rother Fleck erschien.</p>
+            <p>»Geh’ auf dein Zimmer!« drohte düster der Vater.</p>
+            <p>Serjoscha schritt hinaus, während man den Studenten noch zurück-<lb break="no"/>
+hielt. Serjoscha folgerte daraus, dass man über ihn sprechen werde. Er<lb/>
+ging nur einige Schritte weit, kehrte leise zurück, versteckte sich hinter<lb/>
+der Portière und horchte.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

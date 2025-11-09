@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-22_n0860.xml" prev="WR-02-02-22_n0859.xml" next="WR-02-02-22_n0861.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 22, S. 860</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="22"/>
+                        <biblScope unit="page" n="n0860"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-10-01">1 10 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0506">
+                  <title level="a">Das Schicksal der Kaiserin</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 22</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="22">22</biblScope>
+                  <biblScope unit="page" from="858" to="860"/>
+                  <idno type="fn">WR-02-02-22_n0858.xml</idno>
+                  <author ref="#wr-person-0157">d’Annunzio, Gabriele</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">860</fw>
+               <fw type="ctext">D’ANNUNZIO.</fw>
+            </fw>
+            <p>Das war Nausikaas Erde, das war Odysseus’ Meer, der neun Jahre<lb/>
+um Helena kämpft, um die weissarmige Helena, deren Vater ein Gott<lb/>
+gewesen. Wie der Laërtiade, so hat auch diese Pilgerin des Nordens<lb/>
+im Rund eines jonischen Hafens ihre Zuflucht gefunden »nach un-<lb break="no"/>
+zähligen erduldeten Leiden«. Die Augen, welche einstmals an den<lb/>
+Küsten des baltischen Meeres im fahlen Sonnenlicht die irdischen<lb/>
+Dinge wie umhüllt von goldenem Duft sahen, diese selben Augen<lb/>
+erkannten im heissen Sand die Spuren erhabenen Lebens, sahen<lb/>
+die noch lebenden Wurzeln von Sagen in den Wogen des singen-<lb break="no"/>
+den Meeres. So wandelten sich ihr die Gesichte in einer fortdauern-<lb break="no"/>
+den tiefen Vision. Und eines Sonnenabends erkannten sie Sapphos<lb/>
+Leib, bleicher noch als Gras, das die Sonne durchglüht hat, verzehrt<lb/>
+von Sehnsucht, sanft dahintreibend in dem warmen Salze, das um die<lb/>
+Lippen des keuchenden Meeres schäumte.</p>
+            <p>Ein lateinischer Dichter muss es sein, der das Lob dieser kaiser-<lb break="no"/>
+lichen Fremden sänge. Sie wusste sich eine Welt zu schaffen und<lb/>
+darin nach den Kräften ihrer frei gewordenen Seele zu leben. Sie sei<lb/>
+verherrlicht! Vielleicht wäre sie untergetaucht im Vergessen der<lb/>
+Menschen, wenn ihr Bild nicht durch die Macht des Eisens heftig<lb/>
+aus dem Schatten getreten wäre in purpurnem Glanze. Man muss<lb/>
+verherrlichen die streng geschlossene Schönheit ihres Antlitzes mit<lb/>
+den unbeweglichen Zügen unter der schweren Last der herbstlich<lb/>
+gefärbten Flechten, ihre Blässe, die leuchtete unter dem Schatten des<lb/>
+Blutes, welches das Rund der grossen Brauen bläulich färbte, des<lb/>
+Schweigens dieses herben Mundes, und ihre Seele, ihre geheimnisvolle<lb/>
+Seele, welche in ihrer Mitte jenes Medusenhaupt trug, mit welchem<lb/>
+Pallas ihren goldenen Schild bewehrte.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

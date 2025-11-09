@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-20_n0346.xml" prev="WR-04-20_n0345.xml" next="WR-04-20_n0347.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 20, S. 346</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="20"/>
+                        <biblScope unit="page" n="n0346"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0956">
+                  <title level="a">Aus der Ballade des Stockhauses zu Reading</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 20</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="20">20</biblScope>
+                  <biblScope unit="page" from="345" to="349"/>
+                  <idno type="fn">WR-04-20_n0345.xml</idno>
+                  <author ref="#wr-person-0068">Wilde, Oscar</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">WILDE: BALLADE DES STOCKHAUSES ZU READING.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <lg>
+                        <l>Gar mancher liebt zu wenig, gar mancher</l>
+                        <l>zu viel,</l>
+                        <l>Der kauft und jener verschachert;</l>
+                        <l>Der eine mordet mit Thränen viel,</l>
+                        <l>Der andere ohne Seufzen;</l>
+                        <l>Denn jeglicher mordet sein Liebstes auf</l>
+                        <l>Erden,</l>
+                        <l>Doch jeder muss dafür nicht sterben.</l>
+                     </lg>
+                     <milestone unit="asterisk"/>
+                     <lg>
+                        <l>Er muss nicht sterben des Todes voll</l>
+                        <l>Schmach</l>
+                        <l>An dem Tage des finstern Gerichts,</l>
+                        <l>Ihm baumelt kein Strick um das bloße</l>
+                        <l>Genick,</l>
+                        <l>Kein Tuch verhüllt sein Gesicht;</l>
+                        <l>Auch fühlt er nicht fallen durch leeren Raum</l>
+                        <l>Der zuckenden Füße Gewicht.</l>
+                     </lg>
+                     <lg>
+                        <l>Er sitzt nicht mit der stummen Wacht,</l>
+                        <l>Die zu jeglicher Frist ihn umspäht;</l>
+                        <l>Wenn Weinen ihn ankommen will,</l>
+                        <l>Oder ein leises Gebet;</l>
+                        <l>Die sein Leben bewacht bei Tag und Nacht,</l>
+                        <l>Damit er’s dem Kerker nicht entwende.</l>
+                     </lg>
+                     <lg>
+                        <l>Er fährt nicht auf im Morgengrau’n</l>
+                        <l>Und sieht bevölkert die Wände</l>
+                        <l>Von Phantomen: dem Kaplan im weißen</l>
+                        <l>Ornat,</l>
+                        <l>Dem gestrengen Sheriff, bleich wie Wachs,</l>
+                        <l>Und dem Gouverneur im schwarzen Staat</l>
+                        <l>Mit der Miene des Jüngsten Tags.</l>
+                     </lg>
+                  </cell>
+                  <cell>
+                     <lg>
+                        <l>Er springt nicht auf in kläglicher Angst</l>
+                        <l>Und zieht an sein letztes Gewand,</l>
+                        <l>Und bemerkt den Arzt, der mit gierigem</l>
+                        <l>Blick</l>
+                        <l>Seine Hast umpresst, und in dessen Hand</l>
+                        <l>Die Uhr ihr gleichmüthiges Getick</l>
+                        <l>Wie grässliche Hammer fallen lässt.</l>
+                     </lg>
+                     <lg>
+                        <l>Er kennt ihn nicht, den eklen Durst</l>
+                        <l>In der Kehle, wie Sand so seicht,</l>
+                        <l>Bevor der Henker mit behandschuhter</l>
+                        <l>Faust</l>
+                        <l>Über die Schwelle schleicht</l>
+                        <l>Und rasch anlegt die drei ledernen Schnüre,</l>
+                        <l>Auf dass die Kehle keinen Durst mehr</l>
+                        <l>verspüre.</l>
+                     </lg>
+                     <lg>
+                        <l>Er neigt auch nicht sein Haupt und hört,</l>
+                        <l>Wie sie die Protokolle verlesen,</l>
+                        <l>Noch tragen sie ihm auf den furchtbaren</l>
+                        <l>Wegen</l>
+                        <l>Seinen eigenen Sarg langsam entgegen,</l>
+                        <l>Während sein Erstarren allein ihn belehrt,</l>
+                        <l>Dass er noch zu den Lebenden gehört.</l>
+                     </lg>
+                     <lg>
+                        <l>Nicht lugt er noch einmal zum Blau empor</l>
+                        <l>Durch ein kleines Dach von Glas,</l>
+                        <l>Noch betet er mit Lippen von Thon,</l>
+                        <l>Das nur <hi rend="text-spaced">jetzt</hi> ihn Gott nicht verlass’!</l>
+                        <l>Auch fühlt er nicht auf der erschauernden</l>
+                        <l>Stirn</l>
+                        <l>Den Kuss des Kaiphas.</l>
+                     </lg>
+                  </cell>
+               </row>
+            </table>
+            <ab>
+               <title>III.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <lg>
+                        <l>Die Wächter auf ihren Filzsohlen und</l>
+                        <l>Socken</l>
+                        <l>Kamen an die verriegelten Thüren ge-</l>
+                        <l>schlichen</l>
+                        <l>Und lugten durchs Gitter und sahen</l>
+                        <l>verstohlen</l>
+                        <l>Die grauen Gestalten am Boden hocken</l>
+                        <l>Und frugen sich starr, wie’s denn möglich war,</l>
+                        <l>Dass da Männer beteten, die nie noch gebetet.</l>
+                     </lg>
+                     <lg>
+                        <l>Wir Narren knieten die ganze Nacht</l>
+                        <l>Im Gebet für einen Cadaver!</l>
+                        <l>Die schwanken Federn der Mitternacht</l>
+                        <l>Waren die Büsche am Leichenwagen;</l>
+                        <l>Und wie bittrer Wein auf einem Schwamm</l>
+                        <l>War der Geschmack unsrer reuigen Scham.</l>
+                     </lg>
+                     <milestone unit="asterisk"/>
+                  </cell>
+                  <cell>
+                     <lg>
+                        <l>Der graue Hahn krähte, der rothe Hahn</l>
+                        <l>kräht’,</l>
+                        <l>Doch nimmer kam der Tag;</l>
+                        <l>Im Winkel bei Jedem, der kniet’ im Gebet,</l>
+                        <l>Ein Schatten des Schreckens lag;</l>
+                        <l>Und jeder Alb, der nachts nur wacht,</l>
+                        <l>Aufstand vor uns und tanzt’ und lacht’.</l>
+                     </lg>
+                     <lg>
+                        <l>Sie glitten entlang, gar flink und schlank,</l>
+                        <l>Wie Wandrer durch neblige Gassen,</l>
+                        <l>Sie äfften den Mond im Rigaudon</l>
+                        <l>Und konnten sich vor Possen nicht</l>
+                        <l>lassen,</l>
+                        <l>Und mit höfischen Schritten, gar graus-</l>
+                        <l>lich und fein,</l>
+                        <l>Flogen sie von allen Seiten zum Stell-</l>
+                        <l>dichein.</l>
+                     </lg>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-02_n0073.xml" prev="WR-02-01-02_n0072.xml" next="WR-02-01-02_n0074.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 2, S. 73</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0073"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-12-01">1 12 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0316">
+                  <title level="a">Richard Wagners »Meistersinger von Nürnberg« in Paris </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="72" to="75"/>
+                  <idno type="fn">WR-02-01-02_n0072.xml</idno>
+                  <author ref="#wr-person-0122">Schoenaich, Gustav</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">»MEISTERSINGER VON NÜRNBERG« IN PARIS.</fw>
+               <fw type="pn">73</fw>
+            </fw>
+            <p rend="no-intend">ihren Götzen entgegenbringt, weit hinausgeht. Adolf Ernst ist ein<lb/>
+guter Franzose. Einer hochstehenden Dame, welche ihn apostrophirte:<lb/>
+»Sie sind ja eigentlich ein Deutscher,« antwortete er spitz: »Im <hi rend="text-spaced">Gegen-<lb break="no"/>
+theil</hi>, gnädige Frau, ich bin ein <hi rend="text-spaced">Elsässer</hi>.« Als solcher schreibt er<lb/>
+über die »Meistersinger:</p>
+            <p>»Niemals hat sich die Einbildungskraft Richard Wagner’s freier<lb/>
+im weiten Reiche seiner Träume ergangen, niemals hat er diese Träume<lb/>
+lebensvoller gestaltet und in tiefere Farben getaucht. Auch ist es weder<lb/>
+einem Musiker, noch einem Dichter gelungen, ohne sich nur um eine<lb/>
+Linie von einer bewunderungswürdigen Reinheit des künstlerischen<lb/>
+Ausdruckes abdrängen zu lassen, in so vollendeter Weise ein Bild<lb/>
+des täglichen Lebens und greifbarer Wahrheit zu geben.</p>
+            <p>Kann die »Hochzeit des Figaro« als das am feinsten empfundene,<lb/>
+in den reinsten Strahlen erglänzende Meisterwerk der lyrischen Oper<lb/>
+gelten, so sind die »Meistersinger« als Meisterwerk derselben Gattung<lb/>
+mächtig, verblüffend durch ihren Reichthum, fast durchwegs intim und<lb/>
+dennoch stellenweise erhaben. Auch sie erreichen die Durchsichtigkeit<lb/>
+des »Figaro« — aber die Klarheit, mit der der Blitz die Dinge be-<lb break="no"/>
+leuchtet, wechselt mit dem süssen Dämmerlicht des Traumhaften. Dicht<lb/>
+neben dem freudigen Ausbruch der Heiterkeit des Volkes stellt sich<lb/>
+der tiefe Ernst religiösen Gefühls. Eine sehr einfache Handlung, die<lb/>
+sich unterhaltend und rasch abspielt, gibt völlig natürlichen Anlass zu<lb/>
+geistvollen und tiefgreifenden Reden über die Kunst. Das glorreiche<lb/>
+Blühen einer jugendlichen Liebe überstrahlt mit Liebreiz und Lächeln<lb/>
+die Vornehmheit eines gebrachten Opfers, die milde Süssigkeit eines<lb/>
+gütigen Herzens und die Heiligkeit des Verzichtens.</p>
+            <p>In den »Meistersingern«, wie in den anderen Dramen Wagner’s,<lb/>
+lassen sich ohne Schwierigkeit eine Reihe vorhandener Motive nach-<lb break="no"/>
+weisen, deren der Tondichter sich bemächtigt hat, um sie umzubilden<lb/>
+und sie zu neuem Leben zu erwecken. Durch seinen Geist erscheint<lb/>
+Alles in neuem Lichte, Alles von ihm neu geschaffen. Gewiss zeigt<lb/>
+sich ein merkwürdiges Zusammentreffen Wagner’s in den »Meister-<lb break="no"/>
+singern« mit jener französischen Erzählung aus dem XV. Jahrhundert,<lb/>
+in der eine Prinzessin ihre Kammerfrau dreimal unter verschiedenen<lb/>
+Vorwänden wegschickt, um allein zu vernehmen, was ihr ein Abgesandter<lb/>
+zu sagen hat. Sicher kannte Wagner die Opern Lortzing’s und die<lb/>
+Scene Kotzebue’s in jener deutschen Kleinstadt, wo der lächerliche<lb/>
+Liebhaber seine Verse anzubringen sucht, während das Liebespaar sich<lb/>
+in der Gasse versteckt hält. Gewiss kannte er den »Benvenuto Cellini«<lb/>
+von Berlioz, wo der groteske Fieramosca von den Nachbarn gehetzt,<lb/>
+verfolgt und geprügelt wird und die Carnevalsscene mit überraschender<lb/>
+Wahrheit die gesteigerte Lustbarkeit des Volkes wiedergibt. Auch die<lb/>
+alten Tabulaturen der »Meistersinger«, die Wagenseil herausgegeben<lb/>
+hat, und die historischen Gedichte Meister Sachsens haben Wagner<lb/>
+allerlei Einzelheiten geliefert. Aber was wollen diese Anregungen be-<lb break="no"/>
+deuten — gegenüber der bewunderungswürdigen Komödie, die Wagner<lb/>
+geschaffen? Und verhält es sich etwa nicht ebenso mit allen Meister-</p>
+         </div>
+      </body>
+   </text>
+</TEI>

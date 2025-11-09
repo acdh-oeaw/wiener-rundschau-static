@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-24_n0440.xml" prev="WR-04-24_n0439.xml" next="WR-04-24_n0441.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 24, S. 440</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="24"/>
+                        <biblScope unit="page" n="n0440"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0990">
+                  <title level="a">Aischylos und das Burgtheater</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 24</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="439" to="440"/>
+                  <idno type="fn">WR-04-24_n0439.xml</idno>
+                  <author ref="#wr-person-0005">Rappaport, Felix</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0991">
+                  <title level="a">Maurice Maeterlinck: Drei mystische Spiele*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 24</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="440" to="441"/>
+                  <idno type="fn">WR-04-24_n0440.xml</idno>
+                  <author ref="#wr-person-0190">Schlaf, Johannes</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BÜCHER.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>das Licht der intuitiven Erkenntnis; in<lb/>
+diesem Sinne hatten ihn bereits die<lb/>
+Orphiker gekannt. — Von all diesem hatte<lb/>
+wohl weder der Übersetzer, noch der Be-<lb break="no"/>
+arbeiter eine Ahnung. Die Unzulänglich-<lb break="no"/>
+keit ihrer Darbietungen wurde nur durch</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">die vollkommene Hilflosigkeit der Regie<lb/>
+übertroffen; als zum Schlusse einige<lb/>
+schwärzlich bemalte Komiker sich für<lb/>
+Erinyen ausgaben, glaubte man sich zu<lb/>
+Barnum und Bailey versetzt.* <rs type="person" key="">—.—</rs>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Wir kommen auf die Orestie noch ausführlich zurück. — D. RED.</p>
+            </note>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">BÜCHER</hi>.<lb/>
+Von <rs type="person" key="">JOHANNES SCHLAF</rs> (Berlin).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="untyped-start"/>
+                     <p>
+                        <hi rend="text-spaced">Maurice Maeterlinck</hi>: <hi rend="text-spaced">Drei</hi>
+                        <hi rend="text-spaced">mysti</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">sche</hi>
+                        <hi rend="text-spaced">Spiele</hi>. <hi rend="text-spaced">Deutsch von Oppeln-<lb break="no"/>
+Bronikowski</hi>. <hi rend="text-spaced">Autorisierte Ausgabe</hi>.<lb/>
+                        <hi rend="text-spaced">Die sieben Prinzessinnen</hi>. <hi rend="text-spaced">Alladine<lb/>
+und Palomides</hi>. <hi rend="text-spaced">Der Tod des</hi>
+                        <hi rend="text-spaced">Tinta</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">giles</hi>. <hi rend="text-spaced">Verlegt in Leipzig bei Eugen<lb/>
+Diederichs</hi>. <date>1900</date>. 104 <hi rend="text-spaced">Seiten</hi>.</p>
+                     <p>Ich sah kürzlich auf der Berliner<lb/>
+Secessionsbühne eine Aufführung der Studie<lb/>
+»Interieur«. Ich bewunderte die große und<lb/>
+individuelle Kunst Maeterlincks, uns, man<lb/>
+kann wohl sagen, direct in die Seele<lb/>
+des Menschen hineinblicken zu lassen und<lb/>
+uns mit dem ganzen, eigenartigen Schauer<lb/>
+eines so kühnen und verwegenen Blickes<lb/>
+zu umspinnen. Indirect vermochte jeder<lb/>
+große Dichter und Dramatiker das wohl<lb/>
+bereits vor ihm, aber noch keinem gelang<lb/>
+es wohl in dieser besonderen, persönlichen,<lb/>
+in mancher Hinsicht unerhörten Weise.<lb/>
+Es mag ungesund sein, und was sich noch<lb/>
+alles dagegen sagen ließe: aber der ent-<lb break="no"/>
+schiedene, naturnothwendige Drang unserer<lb/>
+modernen Kunst zur Intimität musste mit<lb/>
+logischer Consequenz eine derartige Kunst-<lb break="no"/>
+erscheinung wie das Maeterlinck’sche Drama<lb/>
+hervorbringen. Der Gegensatz der redenden<lb/>
+Personen im abenddunklen Garten und die<lb/>
+stumme Familie drinnen hinter den Fenster-<lb break="no"/>
+scheiben im lampenhellen Familienzimmer;<lb/>
+die Verhandlung im Garten mit ihrer<lb/>
+schicksalsschweren Beziehung zu den<lb/>
+Menschen im Zimmer: das gab einen<lb/>
+Blick in das Unbewusste und Ahnungs-<lb break="no"/>
+volle des Seelenlebens jener stummen Per-<lb break="no"/>
+sonen, der direct war, und bei allem<lb/>
+Schauer, mit dem er ängstigte, doch auch</p>
+                  </cell>
+                  <cell>
+                     <p>etwas von der Größe der Tragik hatte.<lb/>
+Und die Kunst, die Technik, mit der solche<lb/>
+Wirkungen erreicht wurden, war einzig<lb/>
+und die organischeste, angemessenste, die<lb/>
+in solchem Falle wohl denkbar. Freilich<lb/>
+engte sie durch die Einseitigkeit ihrer<lb/>
+Richtung und ihres Vorwurfes; freilich<lb/>
+war so vieles zu geistreich, zu sehr mit<lb/>
+dem rechnenden Verstand erreicht, um<lb/>
+durchaus wahr zu sein. Und dies Lob<lb/>
+und dies Bedenken nun wären auch gegen<lb/>
+diese drei vorliegenden »mystischen Spiele«<lb/>
+zu richten, deren Bekanntschaft uns<lb/>
+Deutschen jetzt der verdienstvolle Oppeln-<lb break="no"/>
+Bronikowski machen lässt. Das erste und<lb/>
+dritte Stück hat noch etwas von den über-<lb break="no"/>
+triebenen Schauer-Effecten der ersten<lb/>
+Dramen Maeterlincks, um derentwillen man<lb/>
+ja wohl den einzigen Namen Shakespeare<lb/>
+an ihm missbrauchte. Indessen sehen wir<lb/>
+auch in ihnen bereits diese crassen Wir-<lb break="no"/>
+kungen veredelt durch eine meisterliche<lb/>
+Psychologie; die intimere Psychologie des<lb/>
+Modernen, die freilich leider manches Merk-<lb break="no"/>
+mal der Decadenz trägt und Neigung zeigt<lb/>
+zu Geschäftsfinesse und Sophistik, und die<lb/>
+trotz ihrer beabsichtigten Tiefdringlichkeit<lb/>
+eine pessimistisch-melancholische Grund-<lb break="no"/>
+nuance nicht verhehlen kann. Das beste<lb/>
+der drei Stücke ist »Alladine und Palo-<lb break="no"/>
+mides«. Es hat bereits etwas von der<lb/>
+edlen Schlichtheit und der Marmorschönheit<lb/>
+der Antike, eine Sprache mit einer edlen,<lb/>
+leise polychromischen—möcht’ ich sagen —<lb/>
+Behandlung, eine leise Andeutung von<lb/>
+Colorit. Das ist auch in den Charakteren,<lb/>
+die über das Marionettenhaft-Abstracte</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

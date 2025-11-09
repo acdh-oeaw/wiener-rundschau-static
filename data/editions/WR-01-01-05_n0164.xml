@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-05_n0164.xml" prev="WR-01-01-05_n0163.xml" next="WR-01-01-05_n0165.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 5, S. 164</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="05"/>
+                        <biblScope unit="page" n="n0164"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-01-15">15 1 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0049">
+                  <title level="a">Eine Schauspielerin</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 5</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="161" to="164"/>
+                  <idno type="fn">WR-01-01-05_n0161.xml</idno>
+                  <author ref="#wr-person-0026">Reuter, Gabriele</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">164</fw>
+               <fw type="ctext">REUTER.</fw>
+            </fw>
+            <p rend="no-intend">ab und mied jedes Zusammensein, jedes Aussprechen, als sei sie schon<lb/>
+nicht mehr seine Tochter, sondern etwas ihm Fremdes, daran man das<lb/>
+Herz nicht zu fest hängen darf.</p>
+            <p>Ahnend fühlte sie, was er fürchtete.</p>
+            <p>Wenn Olga Ridberg an die letzten Tage im Elternhause dachte,<lb/>
+rann ihr noch immer ein Bangen und ein Weh durch die Nerven. Es<lb/>
+war fast nicht zu ertragen gewesen, dieses Mitleiden mit der stummen<lb/>
+Qual eines Menschen, den sie lieb hatte. Wie eine zarte und doch<lb/>
+unerbittliche Geistergewalt drückte es auf ihrer Brust, würgte sie, dass<lb/>
+die Kehle ihr heiss und wund war von ersticktem Weinen. Es er-<lb break="no"/>
+schlaffte ihr die freudige Zuversicht, die starke Siegeskraft, welche sie<lb/>
+in den schönen jungen Gliedern, in ihrem klugen Kopfe und ihrem<lb/>
+feurigen Temperament fühlte.</p>
+            <p>»<milestone unit="3dots"/> Aber Papa — so glaube doch an mich!«</p>
+            <p>Er antwortete nicht. Seine Augen hatten den verstörten Ausdruck<lb/>
+eines Menschen, der etwas sehr Kostbares verloren hat.</p>
+            <p>»Du kennst mich doch, Papa!«</p>
+            <p>»Mein Kind — von Deinem Talent bin ich ja überzeugt.«</p>
+            <p>Wie viel Misstrauen in dem Ton lag — und wie viel Resignation.<lb/>
+Olga biss die Zähne zusammen; das Blut stieg ihr zu Kopf, und ihre<lb/>
+Wangen glühten vor innerem Zorn.</p>
+            <p>Und dann kam der Abschied.</p>
+            <p>»Papa, habe doch Muth! Du beleidigst mich. Ich werde auch<lb/>
+als Schauspielerin nicht vergessen, dass ich deine Tochter bin. Verlass<lb/>
+dich nur auf mich.«</p>
+            <p>Sie lachte fröhlich, weil sie fröhlich sein wollte.</p>
+            <p>»Ach Kind, ich fordere kein Versprechen. Du weisst ja nicht <milestone unit="3dots"/>
+               <lb/>
+Es ist wohl da kaum möglich, so in unserm bürgerlichen Sinne <milestone unit="3dots"/>
+               <lb/>
+Was wir ein anständiges Mädchen nennen <milestone unit="3dots"/> Es gibt da andere Ge-<lb break="no"/>
+setze und andere Sitten <milestone unit="3dots"/>«</p>
+            <p>Er nahm sie an sich und drückte ihren Kopf an seinen Mund<lb/>
+— verzeihend — mit Thränen, die ihr über die Stirn liefen.</p>
+            <p>Olga ergriff seine Hand und hielt sie fest in ihren beiden. Er<lb/>
+hatte ihr kaum so viel Kraft zugetraut, als sie in diesen Druck legte.<lb/>
+»Papa — ich will! Und nun — Lebewohl! Auf Wiedersehen!«</p>
+            <p>(Schluss folgt.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

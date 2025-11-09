@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-21_n0491.xml" prev="WR-03-02-21_n0490.xml" next="WR-03-02-21_n0492.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 21, S. 491</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="21"/>
+                        <biblScope unit="page" n="n0491"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0723">
+                  <title level="a">Laus Veneris II.</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 21</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="489" to="492"/>
+                  <idno type="fn">WR-03-02-21_n0489.xml</idno>
+                  <author ref="#wr-person-0228">Swinburne, Algernon Charles</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">SWINBURNE: LAUS VENERIS.</fw>
+            </fw>
+            <lg>
+               <l>Zehn Jahre mögen es nun sein und noch</l>
+               <l>Schlägt mir das Herz in der Erinnrung hoch —</l>
+               <l>Da ritt ich — unter mir im tiefen Schacht</l>
+               <l>Brauste der Rhein — über ein Felsenjoch.</l>
+            </lg>
+            <lg>
+               <l>Der Strom im breiten Bette zog sich kraus,</l>
+               <l>Ich ritt dahin im scharfen Windessaus,</l>
+               <l>Weitab von meinen Mannen, ohne Acht,</l>
+               <l>Gemuthet zu jedwedem kecken Strauss.</l>
+            </lg>
+            <lg>
+               <l>Da kamen von der Sonne Aufgang her</l>
+               <l>Von meinen Feinden welche, gut in Wehr,</l>
+               <l>Mir kenntlich am bemalten Waffenrock,</l>
+               <l>Drei weisse Wölfe rannten drüber quer.</l>
+            </lg>
+            <lg>
+               <l>Ich zog mein Schwert zum Gruss. Die Klinge pfiff.</l>
+               <l>An Zwein erprobt’ ich alsbald ihren Schliff.</l>
+               <l>Dem Dritten im rothzottigen Gelock</l>
+               <l>Entwand ich seinen Speer mit raschem Griff.</l>
+            </lg>
+            <lg>
+               <l>Sein Zottelbart ward schwarz von meinem Hieb,</l>
+               <l>Doch wollte er noch fliehn, der feige Dieb.</l>
+               <l>Mit flacher Klinge gab ich ihm den Rest.</l>
+               <l>So schlug ich drein, bis Keiner übrig blieb.</l>
+            </lg>
+            <lg>
+               <l>Nun, da die schweren Stunden je und je</l>
+               <l>Mich niederdrücken und das gleiche Weh</l>
+               <l>Mich nimmermehr aus seinem Zwang entlässt,</l>
+               <l>Wird mir zur Bitterkeit das Glück von eh’.</l>
+            </lg>
+            <lg>
+               <l>Wenn dann der Schlachtlärm schwieg, im freien Feld</l>
+               <l>Wir ruhten oder unterm Lagerzelt,</l>
+               <l>Klang oft noch Schwerterklirren im Turnier,</l>
+               <l>Auch wohl ein Lied von sangeskundgem Held.</l>
+            </lg>
+            <lg>
+               <l>Da sang auch ich von Liebe, obschon blind,</l>
+               <l>Also: „Wie Taubenfedern, flaumig, lind,</l>
+               <l>Ist das geheime Liebeslachen mir,</l>
+               <l>Süsser, als Magdalenens Thränen sind.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

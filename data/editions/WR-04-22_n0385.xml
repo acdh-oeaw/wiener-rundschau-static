@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-22_n0385.xml" prev="WR-04-22_n0384.xml" next="WR-04-22_n0386.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 22, S. 385</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="22"/>
+                        <biblScope unit="page" n="n0385"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0970">
+                  <title level="a">Die Wahrheit des Individualismus II.</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 22</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="22">22</biblScope>
+                  <biblScope unit="page" from="381" to="385"/>
+                  <idno type="fn">WR-04-22_n0381.xml</idno>
+                  <author ref="#wr-person-0275">Kuhlenbeck, Ludwig, Dr.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KUHLENBECK: DIE WAHRHEIT DES INDIVIDUALISMUS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Den Fußpunkt oder Schwerpunkt<lb/>
+unserer Welt-Anschauung können wir also<lb/>
+nur finden, wenn wir das Senkblei unserer<lb/>
+denkerischen Selbstbestimmung nicht in<lb/>
+die Außenwelt, sondern in unser eigenes<lb/>
+Ich vertiefen.</p>
+                     <p>Es wäre wunderbar, wenn nicht schon<lb/>
+andere ernstliche Denker dieselbe Einsicht<lb/>
+zum Ausgangspunkte genommen hätten.<lb/>
+Der bekannteste Fall ist derjenige des<lb/>
+                        <hi rend="text-spaced">Cartesius</hi>, den man oft deshalb in<lb/>
+übertriebener Wertschätzung zum Vater<lb/>
+der <hi rend="text-spaced">modernen</hi> Philosophie hat stempeln<lb/>
+wollen; <hi rend="italics">Cogito, ergo sum!</hi> Aber Cartesius<lb/>
+konnte unmöglich zu einer <hi rend="text-spaced">heroischen</hi>
+                        <lb/>
+Welt-Anschauung, wie <hi rend="text-spaced">wir</hi> sie <hi rend="text-spaced">suchen</hi>,<lb/>
+gelangen. Er war ein einseitiger Intellec-<lb break="no"/>
+tualist, ungeachtet seines Vorlebens als<lb/>
+Soldat ein Stubendenker, der die Stuben-<lb break="no"/>
+luft der Scholastik athmete. Einseitig be-<lb break="no"/>
+tonte er das <hi rend="text-spaced">Denken</hi>, ihm lag die bloß<lb/>
+                        <hi rend="text-spaced">theoretische</hi> Betrachtung am Herzen,<lb/>
+und er wurde der Vorläufer jener statt-<lb break="no"/>
+lichen Reihe »idealistischer« Denker, auf<lb/>
+die <hi rend="text-spaced">Goethes</hi> Wort gemünzt ist vom<lb/>
+»Kerl, der speculiert gleich einem bösen<lb/>
+Thier auf dürrer Heide«; nicht einmal<lb/>
+vom <hi rend="text-spaced">transcendenten</hi> Gottesbegriff<lb/>
+konnte er, der doch Giordano Bruno heim-<lb break="no"/>
+lich studiert hatte,* sich befreien. Seine<lb/>
+muthigeren, aber ebenso einseitigen Nach-<lb break="no"/>
+folger kehrten den Satz: »Ich denke, also<lb/>
+bin ich« um in die noch unzulänglichere<lb/>
+und falschere Behauptung: <hi rend="text-spaced">Sein ist<lb/>
+Denken</hi>.</p>
+                     <milestone unit="verse-start"/>
+                     <lg>
+                        <l>»<hi rend="italics">Cogito, ergo sum!</hi> Ich denke, und mithin bin</l>
+                        <l>ich!</l>
+                        <l>Ist das Eine nur wahr, ist es das Andere</l>
+                        <l>gewiss.</l>
+                        <l>Denk’ ich so, bin ich. Wohl! Doch wer</l>
+                        <l>wird immer auch denken!</l>
+                        <l>Oft schon war ich und hab’ wirklich an gar</l>
+                        <l>nichts gedacht.« (<rs type="person" key="">Schiller</rs>.)</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>Der abstracte Idealismus, der das<lb/>
+Sein im Denken und weiterhin das Ich<lb/>
+in der Welt oder auch die Welt im Ich</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">aufgehen lässt (<hi rend="text-spaced">Schelling</hi>, <hi rend="text-spaced">Hegel</hi>,<lb/>
+                        <hi rend="text-spaced">Fichte</hi> in seiner ersten Periode), über-<lb break="no"/>
+sah, dass der wesentlichste Unterschied<lb/>
+des Ich von der Außenwelt weniger in<lb/>
+der Identität des Denkenden und Ge-<lb break="no"/>
+dachten, als vielmehr im <hi rend="text-spaced">Gefühl</hi> zu<lb/>
+suchen ist.</p>
+                     <milestone unit="untyped-start"/>
+                     <p>»Der getretene Wurm, der sich im Schmerz<lb/>
+krümmt, unterscheidet sein eigenes Leiden ge-<lb break="no"/>
+wiss von der übrigen Welt, obgleich er weder<lb/>
+sein Ich, noch die Natur der Außenwelt be-<lb break="no"/>
+greifen mag. Aber die vollendete Intelligenz<lb/>
+eines Engels, fehlte ihr jenes <hi rend="text-spaced">Gefühl</hi>, würde<lb/>
+wohl scharfe Anschauungen des verborgensten<lb/>
+Wesens der Seele und der Dinge entwickeln<lb/>
+und in lichter Klarheit die Erscheinung ihrer<lb/>
+eigenen inneren Selbstspiegelung beobachten,<lb/>
+aber sie würde nie <hi rend="text-spaced">erfahren</hi>, warum sie<lb/>
+auf ihren <hi rend="text-spaced">Unterschied von der übrigen<lb/>
+Welt</hi> einen größeren <hi rend="text-spaced">Wert</hi> legen sollte, als<lb/>
+auf die zahlreichen Verschiedenheiten der<lb/>
+Dinge überhaupt, die sich ihrer Erkenntnis<lb/>
+ebenso darbieten. So gilt uns das Selbst-<lb break="no"/>
+bewusstsein nur für die Ausdeutung eines<lb/>
+                        <hi rend="text-spaced">Selbstgefühls</hi>, dessen vorangehende und<lb/>
+ursprüngliche Lebendigkeit durch die Aus-<lb break="no"/>
+bildung unserer Erkenntnis nicht unmittelbar<lb/>
+gesteigert wird; nur der Reichthum und die<lb/>
+Klarheit des Bildes, das wir von unserem<lb/>
+Wesen uns erkennend entwerfen, erhöht sich<lb/>
+im Fortschritt unserer Bildung«. (<rs type="person" key="">
+                           <hi rend="text-spaced">Lotze</hi>
+                        </rs>,<lb/>
+Mikrokosmos, I, S. 281.)</p>
+                     <milestone unit="untyped-end"/>
+                     <p>Mit unserem Selbs<hi rend="text-spaced">tgefühl</hi> aber setzen<lb/>
+wir unseren Selbs<hi rend="text-spaced">twillen</hi>. Alles Fühlen,<lb/>
+das entweder Lust oder Unlust ist, ist<lb/>
+bewusste Activität. <hi rend="italics">Nihil aliud sumus quarrt<lb/>
+voluntates</hi>, nichts anderes sind wir als<lb/>
+Willen (Wollende), schrieb 1500 Jahre<lb/>
+vor <hi rend="text-spaced">Schopenhauer</hi> der philosophische<lb/>
+Kirchenvater <hi rend="text-spaced">Augustinus</hi>. Die denkend,<lb/>
+fühlend, wollend in den drei Raum-<lb break="no"/>
+dimensionen sich offenbarende <hi rend="text-spaced">Monas</hi> oder<lb/>
+                        <hi rend="text-spaced">Krafteinheit</hi> als unser übersinnlicher,<lb/>
+nicht transcendenter, sondern immanenter<lb/>
+Wesenskern ist der Gravitationspunkt<lb/>
+unserer Welt-Anschauung. <hi rend="text-spaced">Wir haben<lb/>
+nicht nach außerhalb der</hi>
+                        <hi rend="text-spaced">Wirk</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">lichkeit</hi>, <hi rend="text-spaced">die wir selbst sind</hi>, <hi rend="text-spaced">nach<lb/>
+einem anderen Grunde zu suchen</hi>.<lb/>
+                        <hi rend="text-spaced">Wir sind selbst der Grund und<lb/>
+stehen auf dem Fundament</hi>.</p>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Vgl. meine Einleitung zur Übersetzung des Bruno’schen Dialogs: <hi rend="italics">Del Infinito, Uni-<lb break="no"/>
+verso e Mondi.</hi>
+               </p>
+            </note>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-18_n0698.xml" prev="WR-02-02-18_n0697.xml" next="WR-02-02-18_n0699.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 18, S. 698</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="18"/>
+                        <biblScope unit="page" n="n0698"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-08-01">1 8 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0471">
+                  <title level="a">Paniscus</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 18</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="18">18</biblScope>
+                  <biblScope unit="page" from="695" to="699"/>
+                  <idno type="fn">WR-02-02-18_n0695.xml</idno>
+                  <author ref="#wr-person-0119">Schmitz, Oskar A. H.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">698</fw>
+               <fw type="ctext">SCHMITZ.</fw>
+            </fw>
+            <lg>
+               <l>sind weiss und nackte, rothe Herzen glühen</l>
+               <l>in ihrem Kelch <milestone unit="4dots"/> Ist Dir die Anemone,</l>
+               <l>ist das Cyperon Dir nicht weich genug?</l>
+               <l>Bin ich Dir selbst zu rauh, soll ich vielleicht</l>
+               <l>mehr Hyacinthus gleichen, liebst Du mehr</l>
+               <l>ein glattes Kinn, dann soll noch heute</l>
+               <l>Priap das Opfer meines Barts empfangen;</l>
+               <l>und grämen Dich die Hörner meines Hauptes,</l>
+               <l>dann hülle sie mit Ros’ und Myrthe ein,</l>
+               <l>dass ich Dir süss genug als Buhle sei.</l>
+               <l>Du lächelst, Aglaë? Ist Dir vielleicht</l>
+               <l>der Leib des Jünglings noch nicht rauh genug,</l>
+               <l>dünkt Dir zu weibisch noch mein Kuss, die Glieder</l>
+               <l>von eigenem Begehren unerprobt,</l>
+               <l>bärtigen Kuss zu dulden noch gewohnt,</l>
+               <l>dann will ich gehen, Schilf am Ufer holen</l>
+               <l>und hartes Gras, die Eucalyptusrinde</l>
+               <l>soll mich in einen Pinienzapfen wandeln,</l>
+               <l>wie eine Frau aus Thasos mich gelehrt,</l>
+               <l>und Deiner Brüste jungfräulichen Schlaf</l>
+               <l>weckt rauhes Kosen. Soll mein Haar nach Rosen,</l>
+               <l>soll es dem Fell des Bockes ähnlich duften?</l>
+               <l>denn ich bin zarter, als Eudymion</l>
+               <l>und rauher als der Gott der Wälder selbst,</l>
+               <l>wie Du mich wünschest; Lieder weiss ich süsser</l>
+               <l>als Lydien sie erfand, gemengt mit Kosen,</l>
+               <l>als wären meine Lippen Rosenblätter</l>
+               <l>und aller Blumengärten Süssigkeit</l>
+               <l>wirst Du in Deinen Adern gleiten fühlen</l>
+               <l>in langen, weichen Küssen; in eine Nacht</l>
+               <l>der leisen Schauer wirst Du stumm versinken,</l>
+               <l>sanft wie der Mond sollst auf Wolken gleiten</l>
+               <l>und Deine unergründliche Entzückung</l>
+               <l>wird mich mit süsser Trauer überschwemmen,</l>
+               <l>Du lauschst, Du schaust, Du athmest, alle Sinne</l>
+               <l>trinken die Lust, sind Lust, der Schale Rand</l>
+               <l>wird selbst zu Wein — in unfassbarem Strom.</l>
+               <l>Du rufst den Tod, Dich von dem Leib zu trennen,</l>
+               <l>der Deiner Seele tiefste Wollust hemmt <milestone unit="4dots"/>
+               </l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

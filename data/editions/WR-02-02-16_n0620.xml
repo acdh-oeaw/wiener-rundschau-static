@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-16_n0620.xml" prev="WR-02-02-16_n0619.xml" next="WR-02-02-16_n0621.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 16, S. 620</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="16"/>
+                        <biblScope unit="page" n="n0620"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-07-01">1 7 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0457">
+                  <title level="a">Diese ist sein</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 16</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="16">16</biblScope>
+                  <biblScope unit="page" from="620" to="623"/>
+                  <idno type="fn">WR-02-02-16_n0620.xml</idno>
+                  <author ref="#wr-person-0004">Altenberg, Peter</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIESE IST SEIN.<lb/>
+Von <rs type="person" key="">PETER ALTENBERG</rs> (Wien).</title>
+            </ab>
+            <p>Sechs Uhr.</p>
+            <p>»Du musst essen, Risa, eine Wagner-Oper dauert bis eilf.<lb/>
+Deshalb brachte ich ja die grosse Sardines de Nantes-Büchse. So,<lb/>
+da hast Du drei vollkommen geschälte.«</p>
+            <p>»Wie nach einer Bergpartie isst Du! Sechs Sardinen — — —.«</p>
+            <p>»Ich habe viel gearbeitet. Was glaubst Du?! Ich freue mich<lb/>
+riesig auf die Oper. Erstens Deinetwegen — — —. Iss, Risa — —.</p>
+            <p>»Ich kann nichts essen. Iss Du für mich.«</p>
+            <p>»Wie vor einem Balle bist Du. Wie ein Mäderl — — —.«</p>
+            <p>»Ist es schon Zeit, zu gehen?!«</p>
+            <p>»Nein. Noch zwanzig Minuten. Sie, Marie, wenn wir weg<lb/>
+sind, öffnen Sie alle Fenster.«</p>
+            <p>»Warum?!« fragte Risa.</p>
+            <p>»Ich möchte nicht, dass Du in das Dumpfe zurückkämest.<lb/>
+Am liebsten möchte ich Dich in einen schönen, unerhört erleuch-<lb break="no"/>
+teten Hotel-Saal führen, wo alle Leute an den Tischen Dich an-<lb break="no"/>
+sähen und flüsterten: »Du, die kommt aus »Tristan« — — —.«<lb/>
+»Wieso weisst Du es?!« »Ich sehe es ihr an«. Risa, warum<lb/>
+lächelst Du?! Ich möchte jeden Augenblick die Welt aufbieten,<lb/>
+Dir das zu spenden, wessen Du bedürftest. Der Impresario Deiner<lb/>
+Seele sein, das wäre es. Aber ich treffe nur das Äusserliche.<lb/>
+Nun, habe ich Dir schlecht gerathen zu dieser weissgrünen Seide?!<lb/>
+Mein Kunstwerk!«</p>
+            <p>»Ich bin wirklich Dein Kunstwerk. Ich selbst hätte es nie<lb/>
+gewagt: weissgrüne Seide, von oben bis unten in Plissés. <hi rend="text-spaced">Du<lb/>
+nimmst es mir ab</hi>, hast meine eigenen Kühnheiten. So erlöst<lb/>
+Du mich von mir, von meinen Überschüssigkeiten.«</p>
+            <p>»Bleibt mir etwas anderes übrig, als Dir zuvorzukommen,<lb/>
+in Dir selbst?!«</p>
+            <p>»Das verstehe ich gar nicht.«</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-03_n0056.xml" prev="WR-03-01-03_n0055.xml" next="WR-03-01-03_n0057.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 3, S. 56</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0056"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0551">
+                  <title level="a">Die Alkestis des Euripides</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="55" to="62"/>
+                  <idno type="fn">WR-03-01-03_n0055.xml</idno>
+                  <author ref="#wr-person-0141">Hofmannsthal, Hugo v.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="act-start"/>
+            <ab>
+               <title>I. DER PROLOG.</title>
+            </ab>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stimme</hi> (auf der Gartenmauer, von einer leisen Musik begleitet, halb Gebet, halb Lied).</p>
+            <lg>
+               <l>So liebst Du nicht mehr dieses gastliche Haus,</l>
+               <l>Phöbos Apollon?</l>
+               <l>Und liebtest es doch und hast einst nicht verschmäht,</l>
+               <l>Phöbos Apollon,</l>
+               <l>Hier dienend im Hause, ein weidender Hirt,</l>
+               <l>Zu führen die Herde auf Heide und Hald’</l>
+               <l>Und mit tönendem Rohr zu berauschen den Wald</l>
+               <l>Herr, Phöbos Apollon!</l>
+               <l>Da kamen die Luchse und weideten mit,</l>
+               <l>Da folgten die Löwen dem Klang und dem Schritt</l>
+               <l>In feuerfarbenem Rudel,</l>
+               <l>Gebunden von süsser Gewalt,</l>
+               <l>Um Deine Zither die bunten Reh’</l>
+               <l>Hintanzten und liessen für Deine Näh’</l>
+               <l>Den dunklen schweigenden Wald!</l>
+               <l>Vergisst Du, Apollon, so bald,</l>
+               <l>Die sterblichen Menschen so bald?</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Apollon</hi> (während des Liedes von links aufgetreten, geht langsam gegen das Haus zu,<lb/>
+blickt durch das Thor ins Innere):</p>
+            <lg>
+               <l>Sie rufen mich und singen, dass ich einst</l>
+               <l>In diesem Königshaus, obwohl ein Gott,</l>
+               <l>Als Hirte an dem Tisch des Sclaven sass.</l>
+               <l>Nicht ungern, fast mit Wehmuth denk’ ich dran,</l>
+               <l>Weil immer doch Vergang’nes lieblich ist <milestone unit="5dots"/>
+               </l>
+               <l>So kam es: meinen Sohn erschlug mir Zeus</l>
+               <l>Mit bösem Blitz; da gieng ich hin und schlug</l>
+               <l>Ihm die Kyklopen, seine Knechte, todt,</l>
+               <l>Des Blitzes Schmiede; dafür zwang mich er</l>
+               <l>Zu dienen einem Sterblichen, Admet,</l>
+               <l>Dem König, der in diesen Gauen herrscht.</l>
+               <l>Das ist vorbei; doch ich gewann ihn lieb</l>
+               <l>Den Menschen, meinen Herrn, und weil sie so</l>
+               <l>Am Leben hängen, diese Sterblichen,</l>
+               <l>So gieng ich zu den Schicksalsgöttinen</l>
+               <l>Und bat für ihn und die gelobten mir,</l>
+               <l>Er mag dem Tode, der ihm droht, entflieh’n,</l>
+               <l>Wenn einen andern er hinunterschickt</l>
+               <l>Statt seiner, aber einen, der so will.</l>
+               <l>Da lebt er zwischen Scham und Todesangst</l>
+               <l>Und fragte; und die Frage, kaum gethan,</l>
+               <l>Gereut ihn, und er wäre lieber todt <milestone unit="5dots"/>
+               </l>
+               <l>Die alten Eltern hatten ihn gehört,</l>
+               <l>Allein sie schauerten und schwiegen still. —</l>
+               <l>Da trat sein junges Weib lautlos vor ihn</l>
+               <l>Und sagte: »Herr, ich sterbe gern für Dich</l>
+               <l>Ich flehe, anstatt Deiner gib mich hin!«</l>
+               <l>Da war’s erfüllt und Todesgötter, die</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-03_n0120.xml" prev="WR-01-01-03_n0119.xml" next="WR-01-01-04_n0121.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 3, S. 120</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0120"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-15">15 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0035">
+                  <title level="a">Burgtheater</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="119" to="120"/>
+                  <idno type="fn">WR-01-01-03_n0119.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0036">
+                  <title level="a">Harden, »Literatur und Theater«</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="120" to="120"/>
+                  <idno type="fn">WR-01-01-03_n0120.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">120</fw>
+               <fw type="ctext">KRITIK.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">unechten Gefahren vermag sie<lb/>
+wieder zusammenzuführen. — Von<lb/>
+der Romantik, die der Autor ver-<lb break="no"/>
+spotten will, ist am ersten Acte<lb/>
+etwas Stimmung haften geblieben.<lb/>
+Im Uebrigen erregten ein paar<lb/>
+parodistische Züge, auf Romeo<lb/>
+und Julie gemünzt, flüchtige Heiter-<lb break="no"/>
+keit. Die Seichtheit des Ganzen,<lb/>
+die Fulda gelockt haben mag, er-<lb break="no"/>
+müdete. — Die Darstellung entbehrte<lb/>
+des persiflirenden Grundtones. Herr<lb/>
+                        <hi rend="text-spaced">Mitterwurzer</hi> spielte den die<lb/>
+Scheinromantik arrangirenden Hel-<lb break="no"/>
+fershelfer des Väterpaares. Für<lb/>
+derlei Rollen hat Gabillon eine<lb/>
+Tradition hinterlassen, die festzu-<lb break="no"/>
+halten Herrn Mitterwurzer bereits<lb/>
+wiederholt misslungen ist. Ihm fehlt<lb/>
+der bramarbasirende Humor, der<lb/>
+sich durch Pointiren nicht ersetzen<lb/>
+lässt. Ganz unzulänglich erwies sich<lb/>
+Herr <hi rend="text-spaced">Tressler</hi>, Herrn Burckhard’s<lb/>
+neueste Entdeckung. <rs type="person" key="">
+                           <hi rend="italics">Sch.</hi>
+                        </rs>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-start"/>
+                     <p>Maximilian Harden. <hi rend="text-spaced">Litera</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">tur</hi>
+                        <hi rend="text-spaced">und Theater</hi>. — <hi rend="text-spaced">Berlin</hi>.<lb/>
+                        <hi rend="text-spaced">Freund &amp; Jeckel</hi>.</p>
+                     <p>Unter den Schriftstellern deut-<lb break="no"/>
+scher Zunge wird keiner wohl<lb/>
+mehr gehasst und keiner mehr ge-<lb break="no"/>
+liebt als Maximilian Harden. Denn<lb/>
+keiner ist schonungsloser als Feind<lb/>
+und keiner zärtlicher als Freund<lb/>
+wie gerade dieser grosse Literat.<lb/>
+Das ist das Charakteristische an<lb/>
+ihm: das Unbedingte. Er verehrt<lb/>
+oder er verdammt, vor dem Einen<lb/>
+kniet er, und auf den Andern</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">setzt er stolz seinen Fuss. Halbe<lb/>
+Gefühle sind ihm fremd, Gleich-<lb break="no"/>
+giltigkeit kennt er nicht; was man<lb/>
+bei Deutschen nur zu selten findet,<lb/>
+ist er: ein Temperament. So treibt<lb/>
+ihn jede Stellungnahme sofort zur<lb/>
+Schlacht. Ob er gegen Feinde sich<lb/>
+stemmt oder für Freunde sich ein-<lb break="no"/>
+setzt — immer finden wir ihn in<lb/>
+der Fechterstellung. Es ist ein<lb/>
+Dasein um den Kampf. Aber seine<lb/>
+Klinge ist fein, ist haarscharf ge-<lb break="no"/>
+schliffen, und er führt sie mit<lb/>
+einer leichten, spielerischen Ele-<lb break="no"/>
+ganz, die in ihrer Sicherheit ver-<lb break="no"/>
+blüfft; die Riesenzahl der tief Ver-<lb break="no"/>
+letzten, die ihn mit heissem<lb/>
+Grimm verfolgen, stellt seiner gra-<lb break="no"/>
+ziösen Gladiatorkunst das denkbar<lb/>
+ehrendste Zeugniss aus. Für den<lb/>
+Aesthetiker Harden gelten diese<lb/>
+Sätze nicht weniger wie für den<lb/>
+stürmisch befehdeten Politiker.<lb/>
+Seine literarischen Aufsätze, seine<lb/>
+Essays — begeisterte Verteidi-<lb break="no"/>
+gungen sind es oder flammende<lb/>
+Anklageschriften. Und dennoch ist<lb/>
+Harden kein blosser Kampfkritiker.<lb/>
+Wer wie er die heimlichsten Mängel<lb/>
+eines angegriffenen, die letzten<lb/>
+Absichten und Reize eines ver-<lb break="no"/>
+theidigten Werkes aufzudecken<lb/>
+weiss, der ist gewiss unendlich<lb/>
+mehr. Vielleicht dürfen wir von<lb/>
+Sainte-Beuve, seinem Lehrer, das<lb/>
+ehrende Epitheton entlehnen, das er<lb/>
+verdient, und dankbar und freudig<lb/>
+ihn einen <hi rend="text-spaced">erklärenden</hi> Kampf-<lb break="no"/>
+kritiker heissen. <rs type="person" key="">
+                           <hi rend="italics">R. St.</hi>
+                        </rs>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="hr"/>
+            <milestone unit="imprint-start"/>
+            <p>Herausgeber und verantwortlicher Redacteur: <hi rend="text-spaced">Rudolf Strauss</hi>.</p>
+            <p>Ch. Reisser &amp; M. Werthner, Wien.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

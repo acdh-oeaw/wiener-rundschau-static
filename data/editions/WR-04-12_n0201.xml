@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-12_n0201.xml" prev="WR-04-12_n0200.xml" next="WR-04-12_n0202.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 12, S. 201</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="12"/>
+                        <biblScope unit="page" n="n0201"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0895">
+                  <title level="a">Zwei Zeichnungen</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="189" to="212"/>
+                  <idno type="fn">WR-04-12_n0189.xml</idno>
+                  <author ref="#wr-person-0295">Beardsley, Aubrey</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0896">
+                  <title level="a">Salome</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="189" to="212"/>
+                  <idno type="fn">WR-04-12_n0189.xml</idno>
+                  <author ref="#wr-person-0068">Wilde, Oscar</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">WILDE: SALOME.</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>EIN VIERTER JUDE: Du solltest das nicht sagen. Es ist eine sehr gefährliche<lb/>
+Lehre. Es ist eine Lehre, die aus Alexandria kommt, wo die griechische Philosophie<lb/>
+gelehrt wird. Und die Griechen sind Heiden. Sie sind nicht einmal beschnitten.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>EIN FÜNFTER JUDE: Niemand kann sagen, wie Gott wirkt. Seine Wege<lb/>
+sind sehr dunkel. Es kann sein, dass die Dinge, welche wir schlimm nennen, gut<lb/>
+sind, und dass die Dinge, welche wir gut nennen, schlimm sind. Wir wissen von<lb/>
+nichts etwas. Wir können nur unser Haupt unter seinen Willen beugen, denn Gott<lb/>
+ist sehr stark. Er bricht den Starken in Stücke, wie den Schwachen, denn jeder gilt<lb/>
+ihm gleich.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER JUDE: Du sagst die Wahrheit. Fürwahr, Gott ist furchtbar. Er<lb/>
+bricht den Starken und den Schwachen in Stücke, wie man Körner in einem Mörser<lb/>
+zerreibt. Aber was diesen Menschen angeht, der hat Gott nie gesehen. Seit dem<lb/>
+Propheten Elias hat niemand Gott gesehen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Heiß’ sie schweigen. Sie langweilen mich!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Doch hab’ ich davon sprechen hören, Jochanaan sei in Wahrheit<lb/>
+euer Prophet Elias.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER JUDE: Das kann nicht sein. Seit den Tagen des Propheten Elias sind<lb/>
+mehr als dreihundert Jahre vergangen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Welche sagen, der Mann sei der Prophet Elias.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>EIN NAZARENER: Mir ist es sicher, dass er der Prophet Elias ist.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER JUDE: Keineswegs, er ist nicht der Prophet Elias.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DIE STIMME DES JOCHANAAN: Siehe, der Tag ist nahe, der Tag des<lb/>
+Herrn, und ich höre auf den Bergen die Schritte Dessen, der der Erlöser der Welt<lb/>
+sein wird.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Was soll das heißen: der Erlöser der Welt?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>TIGELLINUS: Es ist ein Titel, den Cäsar führt.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Aber Cäsar kommt nicht nach Judäa. Erst gestern hatte ich Briefe<lb/>
+von Rom. Es stand nichts von dieser Sache darin. Und Ihr, Tigellinus, Ihr wart ja<lb/>
+den Winter über in Rom. Ihr habt nichts von dieser Sache gehört, was?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>TIGELLINUS: Herr, ich habe nichts von der Sache gehört. Ich wollte bloß<lb/>
+den Titel erklären. Es ist einer von Cäsars Titeln.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Aber Cäsar kann nicht kommen. Er wird zu sehr von der Gicht<lb/>
+geplagt. Es heißt, seine Füße seien wie die eines Elephanten. Es sprechen auch<lb/>
+politische Erwägungen mit. Wer Rom verlässt, hat Rom verloren. Er wird nicht<lb/>
+kommen. Indessen, Cäsar ist der Herr, er wird kommen, wenn es ihm so beliebt. Trotz-<lb break="no"/>
+dem glaube ich, er wird nicht kommen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER NAZARENER: Herr, die Worte, die der Prophet sprach, haben sich<lb/>
+nicht auf Cäsar bezogen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Wie? Nicht auf Cäsar bezogen?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER NAZARENER: Nein, Herr!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Auf wen bezogen sie sich denn?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER NAZARENER: Auf den Messias, der gekommen ist.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>EIN JUDE: Der Messias ist nicht gekommen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER NAZARENER: Er ist gekommen und allenthalben thut er Wunder!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Oho! Wunder! Ich glaube nicht an Wunder. Ich habe ihrer zu<lb/>
+viele gesehen. (Zu dem Pagen): Meinen Fächer.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER NAZARENER: Der Mann thut wirkliche Wunder. Zum Beispiel hat<lb/>
+er bei einer Hochzeit, die in einer kleinen Stadt in Galiläa stattfand, Wasser in Wein<lb/>
+verwandelt. Zuverlässige Leute, die dabei waren, haben es mir berichtet. Ferner</p>
+         </div>
+      </body>
+   </text>
+</TEI>

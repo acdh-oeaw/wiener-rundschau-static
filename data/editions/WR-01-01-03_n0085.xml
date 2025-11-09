@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-03_n0085.xml" prev="WR-01-01-03_n0084.xml" next="WR-01-01-03_n0086.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 3, S. 85</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0085"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-15">15 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0025">
+                  <title level="a">Kind Gottes</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="81" to="87"/>
+                  <idno type="fn">WR-01-01-03_n0081.xml</idno>
+                  <author ref="#wr-person-0016">Janitschek, Maria</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KIND GOTTES.</fw>
+               <fw type="pn">85</fw>
+            </fw>
+            <p rend="no-intend">geholfen, das Vaterland zu retten. Der kleine Kranke legte<lb/>
+sein Händchen auf den Arm des Erzählers.</p>
+            <p>»Du, was ist denn das ein König?«</p>
+            <p>»Ein König ist ganz voll goldener Sterne, und auf dem<lb/>
+Haupt trägt er eine Goldkrone.« Und der Alte setzte noch<lb/>
+allerlei Wunderliches hinzu.</p>
+            <p>Als die Mutter heimkam, sagte der Junge zu ihr: »Ich<lb/>
+möchte wohl einen König sehen.« Sie legte die Hand auf<lb/>
+seine brennende Stirne.</p>
+            <p>Er schob sie sanft von sich. »Du, kannst du mir keinen<lb/>
+König zeigen? Ich möchte so gerne einen sehen.« Die Frau<lb/>
+sagte ruhig: »Ich will dir Zucker in die Milch thun. Könige<lb/>
+gibt’s nicht in unserer Gegend.« Nun stirbt er sicher bald,<lb/>
+dachte sie traurig, und ein Stück Zucker mehr oder weniger<lb/>
+macht nichts aus.</p>
+            <p>Und sie reichte ihm die süsse Milch hin.</p>
+            <p>Er wies sie fort und lächelte heimlich.</p>
+            <p>Dann kam die Nacht. Die Frau, müde von der ange-<lb break="no"/>
+strengten Arbeit, schlief immer sehr fest und hörte nichts<lb/>
+im Schlaf.</p>
+            <p>Mitten in der Nacht warf sich der Sturm auf den<lb/>
+morschen Fensterriegel und öffnete ihn. Die Fensterflügel<lb/>
+gingen beide auf. Von den Bäumen waren die letzten Blätter<lb/>
+abgefallen, und der ganze grosse Himmel war sichtbar. Der<lb/>
+Knabe, den das Geräusch aufgeweckt hatte, sah voll seligem<lb/>
+Grauen hinaus. Ein volles goldenes Gesicht blickte durch<lb/>
+die kahlen Baumäste herein und überfluthete mit seiner Helle<lb/>
+die ärmliche Kammer.</p>
+            <p>»Der König,« lispelte das Kind und faltete die Hände.<lb/>
+»Der König, der König. Ob er auch die Sterne hat?« Und<lb/>
+es setzte sich spähend im Bette auf und sah in den Himmel.<lb/>
+Und da sah es die tausend und abertausend Sterne des Königs<lb/>
+und lachte entzückt <milestone unit="3dots"/>
+            </p>
+            <p>Am Morgen schloss die Frau voll Erschrecken das<lb/>
+Fenster. Dass sie das nicht gemerkt hatte! Nun würde sich<lb/>
+der Junge wohl zu Tode erkältet haben. Sie legte ihm still<lb/>
+abbittend die Hand auf den Kopf. Kind Gottes! Kind Gottes!</p>
+         </div>
+      </body>
+   </text>
+</TEI>

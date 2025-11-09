@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-01_n0007.xml" prev="WR-01-01-01_n0006.xml" next="WR-01-01-01_n0008.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 1, S. 7</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0007"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-11-15">15 11 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0002">
+                  <title level="a">Wanjka</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="6" to="10"/>
+                  <idno type="fn">WR-01-01-01_n0006.xml</idno>
+                  <author ref="#wr-person-0002">Tchechow, Anton</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">WANJKA.</fw>
+               <fw type="pn">7</fw>
+            </fw>
+            <p rend="no-intend">Hinter seiner Ehrerbietigkeit und Demuth steckt die jesuiti-<lb break="no"/>
+sche List. Keiner kann sich so gut wie er zur rechten Zeit<lb/>
+an einen heranschleichen und ihn beim Fusse packen, sich<lb/>
+in die Eisgrube verkriechen oder bei einem Bauer eine<lb/>
+Henne stehlen. Oft genug hat man ihm die Hinterfüsse zer-<lb break="no"/>
+schlagen, zwei-, dreimal ihn gehenkt, jede Woche fast halb-<lb break="no"/>
+todt geprügelt, doch jedesmal kam er auf.</p>
+            <p>Jetzt steht der Grossvater wahrscheinlich beim Haus-<lb break="no"/>
+thor, blinzelt mit den Augen auf die grellrothen Fenster der<lb/>
+Dorfkirche und schäkert, in den Filzstiefeln herumtrippelnd,<lb/>
+mit dem Gesinde. Sein Schlägel ist an den Gürtel gebunden.<lb/>
+Er schlägt die Hände zusammen, zittert vor Kälte, lacht und<lb/>
+zwickt bald das Stubenmädchen, bald die Köchin.</p>
+            <p>»Wollen wir nicht einmal Tabak schnupfen?« fragt er<lb/>
+und steckt den Weibern die Tabakdose unter die Nase.</p>
+            <p>Die Weiber schnupfen und niessen. Der Grossvater ge-<lb break="no"/>
+räth in ein unbeschreibliches Entzücken, schüttelt sich vor<lb/>
+Lachen und ruft:</p>
+            <p>»Reib’ ab, ’s ist angefroren!«</p>
+            <p>Man gibt auch den Hunden zu schnupfen. Kaschtanka<lb/>
+niest, dreht mit dem Kopf und geht beleidigt zur Seite.<lb/>
+Wjun jedoch will aus Höflichkeit nicht niesen und wedelt<lb/>
+mit dem Schweif. Und das Wetter ist prachtvoll. Die Luft<lb/>
+still, durchsichtig und frisch. Die Nacht ist finster, doch<lb/>
+sieht man das ganze Dorf mit seinen weissen Dächern und<lb/>
+dem Rauch, der sich aus dem Kamin schlängelt, die Bäume,<lb/>
+vom Reif versilbert, Schneehaufen. Der ganze Himmel ist<lb/>
+mit lustig flimmernden Sternen bedeckt, und die Milchstrasse<lb/>
+ist so klar, als wenn sie vor den Feiertagen gewaschen und<lb/>
+mit Schnee abgerieben worden wäre <milestone unit="4dots"/>
+            </p>
+            <p>Wanjka seufzte, tauchte die Feder ein und schrieb<lb/>
+weiter:</p>
+            <p>»Aber gestern bin ich geprügelt worden. Der Meister<lb/>
+schleppte mich bei den Haaren in den Hof und pfefferte<lb/>
+hinein, weil ich dero Kind schaukelte und dabei unbeab-<lb break="no"/>
+sichtigt eingeschlafen bin. Und vorige Woche hiess mich<lb/>
+die Meisterin einen Häring reinigen, ich aber begann vom<lb/>
+Schwanz, sie nahm jedoch den Häring und hat mich mit<lb/>
+dessen Schnauze ins Gesicht gestuppt. Die Gehilfen lachen</p>
+         </div>
+      </body>
+   </text>
+</TEI>

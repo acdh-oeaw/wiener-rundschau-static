@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-12_n0470.xml" prev="WR-02-01-12_n0469.xml" next="WR-02-01-12_n0471.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 12, S. 470</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="12"/>
+                        <biblScope unit="page" n="n0470"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-05-01">1 5 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0417">
+                  <title level="a">Stiller Festzug </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 12</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="470" to="470"/>
+                  <idno type="fn">WR-02-01-12_n0470.xml</idno>
+                  <author ref="#wr-person-0154">Henckell, Karl</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>STILLER FESTZUG.</title>
+            </ab>
+            <lg>
+               <l>
+                  <hi rend="initial">Leise</hi>, mit heiter-hoher Geberde,</l>
+               <l>Unhörbar, unsichtbar der lärmenden Welt,</l>
+               <l>Geht ein Festzug über die Erde <milestone unit="3dots"/>
+               </l>
+               <l>Seine Schritte streifen mein stilles Zelt.</l>
+            </lg>
+            <lg>
+               <l>Seelenmächtig spür’ ich es schreiten,</l>
+               <l>Kühnheit athmend, den Blumenpfad,</l>
+               <l>Triumphirende Lebensklänge geleiten</l>
+               <l>Seine Spur von Gestad’ zu Gestad’.</l>
+            </lg>
+            <lg>
+               <l>Komm’ Geliebte, tritt aus dem Zelte</l>
+               <l>Uns’rer frohlockenden Liebesrast —</l>
+               <l>Sieh’, wie der Aether rings sich erhellte,</l>
+               <l>Wie der Himmel die Erde zärtlich umfasst!</l>
+            </lg>
+            <lg>
+               <l>Jene vorüberzieh’nden Gestalten</l>
+               <l>Stiegen aus zitternden Träumen empor,</l>
+               <l>Und nun kann unser Auge sie halten,</l>
+               <l>Bis sich im Goldduft die Ferne verlor.</l>
+            </lg>
+            <lg>
+               <l>Will sich der Freien Geschlecht offenbaren?</l>
+               <l>Deutet des Menschen Erfüllung sich an?</l>
+               <l>Siehe, das sind uns’rer Genien Schaaren,</l>
+               <l>Der in Schönheit schaffende Geisterbann!</l>
+            </lg>
+            <lg>
+               <l>Leise, mit heiter-hoher Geberde,</l>
+               <l>Geht der Festzug über die Welt,</l>
+               <l>Unhörbar, unsichtbar der lärmenden Heerde,</l>
+               <l>Seine Schritte streifen auch unser verschwiegenes Zelt.</l>
+            </lg>
+            <p>Zürich. <rs type="person" key="">Carl Henckell</rs>.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

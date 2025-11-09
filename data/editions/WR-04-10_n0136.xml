@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-10_n0136.xml" prev="WR-04-10_n0135.xml" next="WR-04-10_n0137.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 10, S. 136</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="10"/>
+                        <biblScope unit="page" n="n0136"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0868">
+                  <title level="a">Les Muses quittent Apollon</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 10</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="133" to="156"/>
+                  <idno type="fn">WR-04-10_n0133.xml</idno>
+                  <author ref="#wr-person-0285">Moreau, Gustave</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0869">
+                  <title level="a">Das Museum Moreau in Paris</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 10</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="134" to="136"/>
+                  <idno type="fn">WR-04-10_n0134.xml</idno>
+                  <author ref="#wr-person-0286">Prantz, Heinrich</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">FRANTZ: DAS MUSEUM MOREAU IN PARIS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">ist offenbar das bedeutendste Blatt, das<lb/>
+der Maler dieser Figur gewidmet hat; es<lb/>
+gibt hier ähnlicher Tafeln noch mehr:<lb/>
+                        <hi rend="italics">Salomé im Kerker, Salomé an einer Säule,<lb/>
+Salomé und der Leopard, Salomé im<lb/>
+Garten.</hi>
+                     </p>
+                     <p>Was ihm Salomé in der <hi rend="text-spaced">orienta</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">lischen</hi> Welt verkörpert — die ewige<lb/>
+Verführung durch das Weib — das ist<lb/>
+ihm <hi rend="text-spaced">Helena</hi> in der <hi rend="text-spaced">griechischen</hi>.<lb/>
+Auch hier lassen uns verschiedene Werke<lb/>
+den ganzen Reichthum seiner Inspiration<lb/>
+erkennen. Er zeigt uns das Weib, das<lb/>
+Homer »die schönste der Frauen« nennt,<lb/>
+er zeigt sie uns so wie sie in unserer Vor-<lb break="no"/>
+stellung lebt: indifferent und gefühllos,<lb/>
+ein unbewusstes Spielzeug der göttlichen<lb/>
+Fügung, das »die Troër und wohl-<lb break="no"/>
+beschienten Achäër so schweres Unheil<lb/>
+erdulden lässt«.</p>
+                     <p>Neben diesen großen Figuren hat<lb/>
+Moreau andere, nicht minder reizvolle,<lb/>
+geschaffen: so Galathea, die Peri, Pasi-<lb break="no"/>
+phaë“, die weiße Europa auf dem Stier in<lb/>
+einer Landschaft, die an die Primitiven<lb/>
+erinnert; sodann in zahlreichen Visionen:<lb/>
+die Sirenen und <hi rend="text-spaced">Musen</hi>, <hi rend="text-spaced">die von</hi>
+                        <lb/>
+»<hi rend="text-spaced">Apollo</hi>«, <hi rend="text-spaced">ihrem Centrum</hi>, <hi rend="text-spaced">aus</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">gehen</hi>* und den Hesiod durch die<lb/>
+sanften Ebenen Attikas geleiten, in Gruppen<lb/>
+rhythmisch vorüberwandelnd.</p>
+                     <p>Diese »Musen« führen uns zu einer<lb/>
+dritten Etappe in Moreau’s Lebenswerk:<lb/>
+zu dem Cyclus des <hi rend="italics">Dichters</hi>. Wie <hi rend="text-spaced">Plato</hi>
+                        <lb/>
+erkannte auch Moreau in dem <hi rend="text-spaced">Dichter<lb/>
+ein geheiligtes Wesen</hi>, und er<lb/>
+bewahrte ihm das Beste seiner Inspiration.<lb/>
+Hier findet man dieselbe visionäre Ver-<lb break="no"/>
+tiefung, die gleiche Weite der Conception,</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">das gleiche Glühen der Farbengebung,<lb/>
+dieselbe Strenge der Form. Moreau<lb/>
+folgt dieser Figur durch alle Zeitalter und<lb/>
+unter alle Himmelsstriche. Die hohe Gestalt<lb/>
+des <hi rend="italics">orphischen</hi> Sehers beherrscht diesen<lb/>
+Cyclus, wie Helena den der Frauen.<lb/>
+Nächst Orpheus fallen besonders auf:<lb/>
+Tyrtäus, der die Krieger zum Kampfe<lb/>
+zwingt (mehrere Bleistiftstudien behandeln<lb/>
+das nämliche Motiv); der Dichter und die<lb/>
+Sirene im Hintergrunde einer meergrünen<lb/>
+Grotte; der Dichter auf dem juwelen-<lb break="no"/>
+behängten Rosse des östlichen Indra in-<lb break="no"/>
+mitten einer knieenden Menge — im<lb/>
+Hintergrunde die riesigen Säulen des<lb/>
+Tempels; der persische Dichter Sadi in<lb/>
+den Gärten von Mosul oder Damaskus;<lb/>
+der göttliche Aöde, todt, von einem Centaur<lb/>
+die Meeresküste entlang getragen; der<lb/>
+Jüngling, den der Tod überkommt,<lb/>
+während er dem Gesänge der Nereïden<lb/>
+lauscht — — u. v. a.</p>
+                     <p>Dies also ist der erste Eindruck, den<lb/>
+die herrliche Collection in ihrer Gesammt-<lb break="no"/>
+heit auslöst. Dank der methodischen<lb/>
+Gruppierung, die der Verwalter, Herr<lb/>
+Rupp, auf das gewissenhafteste durch-<lb break="no"/>
+geführt hat, kann der Besucher jedes<lb/>
+Werk in günstigster Beleuchtung sehen<lb/>
+und mühelos in den Zeichnungen blättern.<lb/>
+Dies ist keine kleine Erleichterung, wenn<lb/>
+man bedenkt, dass die ersten Inventare<lb/>
+der Collection 797 Gemälde, 349 Aqua-<lb break="no"/>
+relle, 7000 Zeichnungen und Skizzen<lb/>
+und 23 Carton-Entwürfe ergaben. Die<lb/>
+Eröffnung des Moreau-Museums in der <hi rend="italics">rue<lb/>
+La-Rochefoucauld</hi> ist in kunstgeschicht-<lb break="no"/>
+licher und cultureller Hinsicht eines der be-<lb break="no"/>
+merkenswertesten Ereignisse unserer Zeit.</p>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* <hi rend="italics">Les Muses quittent Apollon</hi> ist eine der großen Tafeln des Museums. Vgl. Seite 133<lb/>
+dieses Heftes.</p>
+            </note>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
+      </body>
+   </text>
+</TEI>

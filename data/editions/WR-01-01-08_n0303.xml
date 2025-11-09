@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-08_n0303.xml" prev="WR-01-01-08_n0302.xml" next="WR-01-01-08_n0304.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 8, S. 303</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="08"/>
+                        <biblScope unit="page" n="n0303"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-03-01">1 3 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0094">
+                  <title level="a">Ury’s neues Kolossalgemälde</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 8</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="302" to="304"/>
+                  <idno type="fn">WR-01-01-08_n0302.xml</idno>
+                  <author ref="#wr-person-0024">Servaes, Franz</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">URY’S NEUES KOLOSSALGEMÄLDE.</fw>
+               <fw type="pn">303</fw>
+            </fw>
+            <p rend="no-intend">aber auch für Europa noch zu gross, es gehört der Mensch-<lb break="no"/>
+heit an.</p>
+            <p>Es ist gleichsam ein dreitheiliges Altarwerk, in dem<lb/>
+die Passionsgeschichte des neuen und doch ewig alten,<lb/>
+tragisch wider Zeit und Geschick ringenden Menschen ver-<lb break="no"/>
+kündet wird.</p>
+            <p>Gesinnung und Pathos des Ganzen drücken sich in der<lb/>
+Mitteltafel aus. Sie ist Geist- und Fleischwerdung jener<lb/>
+leidenschaftlichen Ringerstimmung, die den Künstler selbst<lb/>
+in so hohem Grade charakterisirt. Da reckt sich ein Mensch<lb/>
+zum Himmel hoch, das Knie aufgestemmt — welch ein Knie!<lb/>
+das eines Riesen! — den Kopf herausfordernd zurückge-<lb break="no"/>
+worfen und die Arme — Hercules-Arme an Muskeln und<lb/>
+Arbeitskraft! — mit düsterer Entschlossenheit wider die<lb/>
+Brust gekrampft. Das ist der Mensch, der sich dem Schicksal<lb/>
+nicht beugen will. Er kennt den Kampf, seine Härte und<lb/>
+Schonungslosigkeit, von allen Illusionen ist er längst rein<lb/>
+gewaschen, jeglichem Basiliskenblick hat er standgehalten<lb/>
+— und nun kennt er nur den einen Wunsch noch: siegen<lb/>
+oder untergehen!</p>
+            <p>Der jetzt so verhärtet ist, so übermenschlich-graniten,<lb/>
+er kannte einst die Weichheit des Sich-Sehnens. Da lag er<lb/>
+träumend im Walde, hingeworfen ins schwellende Moos,<lb/>
+umraschelt vom jungen Hoffnungsgrün, von goldener Sonne<lb/>
+übergössen und buntschillernden Verheissungen. So zeigt<lb/>
+ihn uns das erste Bild. Und das letzte? Ein müder Greis,<lb/>
+floh er in die Wüste, sitzt da und kauert, starrt vor sich<lb/>
+hin. Seiner Glieder Blösse ist abgemagert, abgehärmt. Der<lb/>
+Feuerschein des Auges ist erloschen. Hinter kahlem, grau-<lb break="no"/>
+braunem Feld geht die Sonne unter, ein glühender Ball.<lb/>
+Dann kommen die kühlen Schauer der Nacht.</p>
+            <p>Also Kern und Inhalt der Tragödie.</p>
+            <p>Ein michelangeleskes Ringen spricht sich darin aus,<lb/>
+und michelangelesk ist vielfach auch die Formengebung.</p>
+            <p>Wer hat je in unseren Zeiten die Natur wieder so ins<lb/>
+Kolossalische zu steigern gewagt wie der kleine Ury diesmal<lb/>
+in seinem grossen Mittelbild?! Dieser Mensch muss ja das<lb/>
+Entsetzen aller Philister sein— und aller Correctheitspedanten!<lb/>
+Aber für die Ungeheuerlichkeit der Leidenschaft, die sich</p>
+         </div>
+      </body>
+   </text>
+</TEI>

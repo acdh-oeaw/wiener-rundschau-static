@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-07_n0243.xml" prev="WR-02-01-07_n0242.xml" next="WR-02-01-07_n0244.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 7, S. 243</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="07"/>
+                        <biblScope unit="page" n="n0243"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-02-15">15 2 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0355">
+                  <title level="a">Der Bär </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 7</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="241" to="253"/>
+                  <idno type="fn">WR-02-01-07_n0241.xml</idno>
+                  <author ref="#wr-person-0135">Tschechow, Anton</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DER BÄR.</fw>
+               <fw type="pn">243</fw>
+            </fw>
+            <p rend="no-intend">dann erlöschen, wenn mein armes Herz aufgehört haben wird, zu<lb/>
+schlagen. (Lacht mit Thränen.) Und du schämst dich gar nicht? Ich bin<lb/>
+artig, bin ein treues Frauchen, habe mich eingeschlossen und werde<lb/>
+dir bis ans Grab treu bleiben, du aber <milestone unit="3dots"/> und du schämst dich gar<lb/>
+nicht, Kleiner? Warst mir untreu, warst aufbrausend, liessest mich<lb/>
+wochenlang allein <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="scene-start"/>
+            <ab>
+               <title>III.</title>
+            </ab>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi> und <hi rend="text-spaced">Lukas</hi>.</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Lukas</hi> (tritt ein, aufgeregt). Gnädige Frau, Jemand fragt nach<lb/>
+Ihnen, möchte Sie sehen <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Aber du hast doch gesagt, dass ich seit dem<lb/>
+Tode meines Mannes Niemand empfange?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Lukas</hi>. Ja wohl, er achtete aber gar nicht darauf, er sagte, er<lb/>
+komme in einer wichtigen Angelegenheit.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Ich em—pfan—ge nicht!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Lukas</hi>. Ich hab’s ihm ja gesagt, aber <milestone unit="3dots"/> das ist so ein Teufel <milestone unit="3dots"/>
+               <lb/>
+er schimpfte und trat mit Gewalt ins Zimmer <milestone unit="3dots"/> er steht schon im<lb/>
+Speisezimmer <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi> (aufgebracht). Gut, ich bitte <milestone unit="3dots"/> Welch grobe<lb/>
+Menschen!</p>
+            <milestone unit="untyped-end"/>
+            <p>(Lukas ab.)</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Wie unerträglich sind doch die Menschen! Was<lb/>
+wollen sie von mir? Weshalb suchen sie mir meine Ruhe zu rauben?<lb/>
+(Seufzt.) Nein, allem Anschein nach werde ich mich gezwungen fühlen,<lb/>
+ins Kloster zu treten <milestone unit="3dots"/> (Wird nachdenklich.) Ja, ins Kloster <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="scene-start"/>
+            <ab>
+               <title>IV.</title>
+            </ab>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>, <hi rend="text-spaced">Lukas</hi> und <hi rend="text-spaced">Smyrnow</hi>.</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi> (eintretend, zu Lukas). Dummkopf, du liebst es, viel zu<lb/>
+schwatzen <milestone unit="3dots"/> Esel! (Frau Popowa erblickend, sagt würdevoll.) Gnädige Frau,<lb/>
+habe die Ehre mich vorzustellen: Reservelieutenant, Gutsbesitzer Grigorji<lb/>
+Stepanowitsch Smyrnow. Bin genöthigt, Sie eines wichtigen Geschäftes<lb/>
+wegen zu belästigen <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi> (ohne die Hand zu reichen). Was wünschen Sie?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Von Ihrem seligen Herrn Gemahl, mit dem ich die<lb/>
+Ehre hatte, bekannt zu sein, sind mir zwei Wechsel im Werthe von<lb/>
+tausendzweihundert Rubel ausgestellt worden. Da ich morgen Zinsen in<lb/>
+die Agrarbank zahlen muss, so möchte ich Sie, gnädige Frau, bitten,<lb/>
+mir das Geld heute einzuhändigen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Tausendzweihund... Wofür blieb Ihnen mein<lb/>
+Mann schuldig?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Er kaufte bei mir Hafer.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi> (seufzend, zu Lukas). Lukas, vergiss also nicht zu<lb/>
+sagen, dass man dem Tobby ein Mass Hafer mehr geben soll. (Lukas<lb/>
+ab. Zu Smyrnow.) Wenn Nicolaus Iwanowitsch Ihnen schuldig blieb, so</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-02_n0025.xml" prev="WR-03-01-01_n0024.xml" next="WR-03-01-02_n0026.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 2, S. 25</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0025"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0540">
+                  <title level="a">Die Schlüssel des Himmelreichs. (Zweiter Act)</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="25" to="29"/>
+                  <idno type="fn">WR-03-01-02_n0025.xml</idno>
+                  <author ref="#wr-person-0175">Strindberg, August</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="performance-start"/>
+            <ab>
+               <title>DIE SCHLÜSSEL DES HIMMELREICHS oder: SANCT PETERS<lb/>
+WANDERUNG AUF ERDEN.<lb/>
+Märchenspiel in fünf Acten von <rs type="person" key="">
+                     <hi rend="text-spaced">AUGUST STRINDBERG</hi>
+                  </rs>.<lb/>
+Autorisierte Übersetzung aus dem Schwedischen von <rs type="person" key="">ERICH HOLM</rs>.</title>
+            </ab>
+            <p>(Den Bühnen gegenüber als Manuscript gedruckt.)</p>
+            <p>(Fortsetzung.)</p>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="act-start"/>
+                     <ab>
+                        <title>Zweiter Act.</title>
+                     </ab>
+                     <p>(Der Hof eines Gasthauses. Zur Linken und<lb/>
+Rechten von Baulichkeiten eingeschlossen, im<lb/>
+Hintergrunde von einer Mauer mit grossem<lb/>
+Einfahrtsthore begrenzt. Im Tracte rechts die<lb/>
+Schenke, links Kuh- und Pferdeställe, Wagen-<lb break="no"/>
+schuppen und dergleichen. In der Mitte des<lb/>
+Hofes ein Brunnen. Vor der Schenke ein paar<lb/>
+längliche Holztische mit Bänken.)</p>
+                     <milestone unit="scene-start"/>
+                     <ab>
+                        <title>Erste Scene.</title>
+                     </ab>
+                     <p>
+                        <hi rend="strong">Der Schmied</hi> (und) <hi rend="strong">Der Arzt</hi> (sitzen am Tische,<lb/>
+vor sich ein Schreibzeug und das Fremdenbuch).</p>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi> (schreibt).</p>
+                     <lg>
+                        <l>Hier denn mein Name, Stand etcetera,</l>
+                        <l>Nun ist’s an Dir zu schreiben!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Schreib’ Du für mich, das ist ja ganz egal!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Wie heissest Du?</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Anonymus.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Ein sonderbarer Name das! Dein Stand!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Mein Stand? Da könnt ich’ manchen</l>
+                        <l>nennen! —</l>
+                        <l>Sag’ Doctor!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Von wannen?</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Vom Mutterleibe!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Dein Reiseziel?</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Das Grab!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Stets mystisch!</l>
+                        <l>Was bist Du, wunderlicher Mann, der</l>
+                        <l>mein Geschick</l>
+                     </lg>
+                  </cell>
+                  <cell>
+                     <lg>
+                        <l>In Deine Hand Du nahmst? — Was willst</l>
+                        <l>Du mir?</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Das sollst Du wissen, wenn Du fertig</l>
+                        <l>worden!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Wann werd’ ich fertig denn?</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Wenn Du, wie ich,</l>
+                        <l>Dich selbst erkennen lerntest!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Dies selbst nur immer!</l>
+                        <l>Was ist dies selbst, das Du beständig</l>
+                        <l>predigst?</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Das ist der feste Punkt, den Archimedes</l>
+                        <l>suchte,</l>
+                        <l>Von da er sich vermass, das Weltall zu</l>
+                        <l>bewegen.</l>
+                        <l>Das ist dein Selbst, das nie ein andres ist,</l>
+                        <l>Dein Mittelpunkt in Deinem Horizont.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Wer bin ich denn?</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Ein Bursche vorderhand</l>
+                        <l>Von vierzig Jahr, versetzt mit Erz und</l>
+                        <l>Schlacke,</l>
+                        <l>Empfindlich wie ein Kind, und gleich</l>
+                        <l>gestimmt zu Lust und Leid!</l>
+                        <l>Gewiss, noch locken Dich des Lebens</l>
+                        <l>schlichte Freuden:</l>
+                        <l>Ein voller Tisch, ein schäumend’ Glas,</l>
+                        <l>Ein Tanz mit Dirnen in dem Grünen <milestone unit="4dots"/>
+                        </l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Die Wirtin</hi>
+                        <lb/>
+(mit einer Flasche Wein und zwei Gläsern).</p>
+                     <lg>
+                        <l>Der Wein ist für die Herren, nicht? (Geht ab.)</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi> (schenkt dem Schmied ein).</p>
+                     <lg>
+                        <l>Das nicht, doch einerlei! —Trink Schmied!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

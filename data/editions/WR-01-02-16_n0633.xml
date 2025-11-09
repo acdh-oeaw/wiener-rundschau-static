@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-16_n0633.xml" prev="WR-01-02-16_n0632.xml" next="WR-01-02-16_n0634.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 16, S. 633</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="16"/>
+                        <biblScope unit="page" n="n0633"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-07-01">1 7 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0212">
+                  <title level="a">Charlotte Wolter</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 16</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="16">16</biblScope>
+                  <biblScope unit="page" from="631" to="633"/>
+                  <idno type="fn">WR-01-02-16_n0631.xml</idno>
+                  <author ref="#wr-person-0007">Schik, F.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">CHARLOTTE WOLTER.</fw>
+               <fw type="pn">633</fw>
+            </fw>
+            <p rend="no-intend">die Wolter längst stehengeblieben war, sondern an dem fictiven Punkte,<lb/>
+wo die nicht vorhandene unmittelbare Vorgängerin heute stehen würde.</p>
+            <p>Charlotte Wolter war, wie in ihrer besten Rolle, auch in der<lb/>
+Kunst eine Nachtwandlerin, die auf den ungangbarsten Wegen mit<lb/>
+unheimlicher Sicherheit auftrat, der man lauschen konnte, was sie sprach,<lb/>
+ohne dass sie sich selbst hörte und verstand, die aber, wenn sie den<lb/>
+Ruf der fortschreitenden Zeit vernommen hätte, jäh abgestürzt wäre.<lb/>
+Sie war eine Königin, wie Lady Macbeth, ohne Nachkommenschaft:<lb/>
+nicht die Stammmutter eines neuen Kunstgeschlechtes.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

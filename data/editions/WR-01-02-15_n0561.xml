@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-15_n0561.xml" prev="WR-01-02-14_n0560.xml" next="WR-01-02-15_n0562.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 15, S. 561</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="15"/>
+                        <biblScope unit="page" n="n0561"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-06-15">15 6 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0192">
+                  <title level="a">Der Vater</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 15</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="15">15</biblScope>
+                  <biblScope unit="page" from="561" to="563"/>
+                  <idno type="fn">WR-01-02-15_n0561.xml</idno>
+                  <author ref="#wr-person-0078">Björnson, Björnstjerne</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>15. <hi rend="text-spaced">JUNI</hi> 1897</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DER VATER.<lb/>
+Von <rs type="person" key="">Björnstjerne Björnson</rs>.<lb/>
+Deutsch von <rs type="person" key="">Wilhelm Thal</rs>.</title>
+            </ab>
+            <p>Der Mann, von dem hier die Rede ist, war der erste seines Kirch-<lb break="no"/>
+spiels und hiess Thorr Oeverhaas.</p>
+            <p>Eines Tages erschien er in dem Arbeitszimmer des Pastors; hoch<lb/>
+trug er das Haupt und sprach mit feierlichem Ernste:</p>
+            <p>»Es ist mir ein Sohn geboren worden, und ich will ihn taufen<lb/>
+lassen.«</p>
+            <p>»Welchen Namen willst du ihm geben?«</p>
+            <p>»Finn, nach meinem Vater.«</p>
+            <p>»Und wer sind die Pathen und Pathinnen?«</p>
+            <p>Thorr nannte sie; es waren Männer und Frauen, die an-<lb break="no"/>
+gesehensten Leute des Kirchspiels, die Alle zur Familie des Vaters<lb/>
+gehörten.</p>
+            <p>»Hast du mir noch etwas zu sagen?« fragte der Pastor, ihn an-<lb break="no"/>
+sehend. Der Bauer blieb einen Augenblick stumm, dann sagte er: »Ich<lb/>
+möchte gern, dass mein Sohn ganz allein getauft werde.«</p>
+            <p>»Das heisst, an einem Wochentage?«</p>
+            <p>»Ja, nächsten Sonnabend um 12 Uhr Mittag.«</p>
+            <p>»Ist das Alles?«</p>
+            <p>»Ich wüsste weiter nichts!«</p>
+            <p>Der Bauer drehte seinen Hut in den Händen, als wolle er gehen.<lb/>
+Der Pastor erhob sich und sagte auf Thorr zuschreitend, seine Hand<lb/>
+ergreifend und ihm in die Augen blickend:</p>
+            <p>»Lass’ mich dir, bevor du gehst, noch einen Wunsch aussprechen,<lb/>
+der dich begleiten mag. Gott gebe, dass dieses Kind für dich ein<lb/>
+Segen sei.«</p>
+            <p>Sechzehn Jahre nach diesem Tage erschien Thorr wieder in dem<lb/>
+Arbeitszimmer des Pastors.</p>
+            <p>»Du hältst dich gut, Thorr,« sagte dieser zu ihm, denn er fand<lb/>
+ihn gar nicht verändert.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

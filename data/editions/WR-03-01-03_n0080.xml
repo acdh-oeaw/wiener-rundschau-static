@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-03_n0080.xml" prev="WR-03-01-03_n0079.xml" next="WR-03-01-04_n0081.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 3, S. 80</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0080"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0561">
+                  <title level="a">Zwei Novellen von Kjelland</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="79" to="80"/>
+                  <idno type="fn">WR-03-01-03_n0079.xml</idno>
+                  <author ref="#wr-person-0179">Levetzow, Freiherr Carl von</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">RUNDSCHAU.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Nur darf die Tendenz nicht in dem Werke<lb/>
+drin stecken. Das Kunstwerk ist keine<lb/>
+Paraphrase; gross und graniten steht es<lb/>
+da für sich und aus sich, aber hinter ihm<lb/>
+erhebt sich die Tendenz. Und da ist<lb/>
+»Tendenz« so viel wie Weltanschauung.<lb/>
+Nur so weit ist in Kjellands Kunstwerk<lb/>
+Tendenz. Kjelland ist Culturbildner;<lb/>
+Culturideen stehen hinter seinen Werken<lb/>
+und sprechen aus ihnen zu uns. Niemand<lb/>
+sagt den Menschen so unangenehme<lb/>
+Wahrheiten wie Kjelland, niemand zeigt<lb/>
+die Unwahrheit unserer billigen Moral<lb/>
+zwingender wie er. Und er kennt Mensch<lb/>
+und Thier und die ganze Natur wie kein<lb/>
+anderer. Unter seiner Hand bekommt alles<lb/>
+Leben, alles Gedanken und alles wird<lb/>
+Symbol. Von Wind und Wolken und<lb/>
+Meeresstrand an bis zu den Schiffen und<lb/>
+Maschinen im Hafen, bis zur armen<lb/>
+Diebin, der reichen Kohlenhändlersfamilie<lb/>
+und ihrem schönen Hund »Treuherz«.<lb/>
+Und »Treuherz« ist eigentlich der »bessere<lb/>
+Mensch« unter ihnen. Er schämt sich</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">doch seiner That, nachdem er die Kohlen-<lb break="no"/>
+diebin zerrissen hat, während die ganze<lb/>
+Familie entzückt ist über das treue Thier,<lb/>
+und dass nun Gerechtigkeit geworden ist<lb/>
+und Strafe der Moralverletzung!</p>
+                     <p>Man kann jede Übersetzung eines<lb/>
+Kjelland’schen Werkes, besonders wenn<lb/>
+sie so gut ist wie die vorliegende, mit<lb/>
+Freuden begrüssen. Denn erstens wird<lb/>
+dem deutschen Leser dadurch wieder um<lb/>
+ein echtes Kunstwerk mehr zugänglich<lb/>
+gemacht (es gibt deren weniger, als man<lb/>
+oft meint), und zweitens, auch abgesehen<lb/>
+von der »Kunst«, kann man den Menschen<lb/>
+gar nicht oft genug in ihre durch das<lb/>
+Lärmgewimmel der Ameisenhaufen-Inter-<lb break="no"/>
+essen stumpf gewordenen Ohren die<lb/>
+Erinnerung rufen, neben wie viel paten-<lb break="no"/>
+tierter Niederträchtigkeit, concessionierter<lb/>
+Grausamkeit und rührselig-heuchlerischer<lb/>
+»Egoteabsolvo«-Gemeinheit sie sich all-<lb break="no"/>
+abendlich wohlgesättigt zu lächelnden<lb/>
+Träumen legen.</p>
+                     <p>
+                        <hi rend="italics">
+                           <rs type="person" key="">C. v. L.</rs>
+                        </hi>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="hr"/>
+            <milestone unit="imprint-start"/>
+            <p>Herausgeber: <hi rend="strong">Constantin Christomanos</hi> und <hi rend="strong">Felix Rappaport</hi>. — Verantwortlicher Redacteur:<lb/>
+               <hi rend="strong">Constantin Christomanos</hi>.<lb/>
+K. k. Hoftheater-Druckerei, Wien, I., Wollzeile 17. (Verantwortlich A. Rimrich.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

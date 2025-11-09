@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-06_n0205.xml" prev="WR-01-01-06_n0204.xml" next="WR-01-01-06_n0206.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 6, S. 205</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="06"/>
+                        <biblScope unit="page" n="n0205"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-02-01">1 2 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0062">
+                  <title level="a">Eine Schauspielerin</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 6</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="06">6</biblScope>
+                  <biblScope unit="page" from="201" to="205"/>
+                  <idno type="fn">WR-01-01-06_n0201.xml</idno>
+                  <author ref="#wr-person-0026">Reuter, Gabriele</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">EINE SCHAUSPIELERIN.</fw>
+               <fw type="pn">205</fw>
+            </fw>
+            <p rend="no-intend">tisch, die Blumen, die breite Chaiselongue mit dem weissen Bärenfell,<lb/>
+auf dem sie so manchesmal nach den Anstrengungen der Proben mit<lb/>
+zitternden Gliedern und stürmisch jagendem Blut vergebens zu ruhen<lb/>
+versucht hatte, die Lorbeerkränze und ihre grossen, bunten Widmungs-<lb break="no"/>
+schleifen, die Theaterzettel und Photographien an den Wänden. Jedes<lb/>
+einzelne Stück bedeutete den Preis mühevoller Arbeit, war Zeuge<lb/>
+ihrer ernsten und doch freudigen Einsamkeit gewesen. Und nach allen<lb/>
+Erfolgen hatte sie ihr selbstgeschaffenes Heim mit frohem Lächeln be-<lb break="no"/>
+grüsst, wie einen guten Kameraden, den man theilnehmen lassen<lb/>
+möchte.</p>
+            <p>Jetzt sah sie nichts von ihrer Umgebung. Ihr Wesen war wie<lb/>
+zu Eis erstarrt. Lautlos bewegten sich ihre Lippen. Endlich kam es<lb/>
+wie ein Schrei und ein erlösendes Schluchzen aus ihrer Brust: »Vater,<lb/>
+lieber Vater — ich will!«</p>
+            <p>Lauschend beugte sie sich vor. Und in der Stille der Nacht<lb/>
+vernahm sie Schritte, die sich langsam, zögernd entfernten.</p>
+            <milestone unit="asterismDown"/>
+            <p>Am nächsten Abend spielte man den Faust. Die Menge strömte<lb/>
+bewegt aus dem Theater. Es war eine herrliche Vorstellung gewesen.<lb/>
+Heller und die Ridberg hatten sich selbst übertroffen.</p>
+            <p>Sie sollen ja verlobt sein, sagten die Leute. Nun, da ist es frei-<lb break="no"/>
+lich kein Wunder, dass die Liebesscenen so bezaubernd innig wurden<lb/>
+— von einer beklemmenden Leidenschaft. Dieses Eine hatte der Rid-<lb break="no"/>
+berg noch gefehlt — bis heut’!</p>
+            <p>»Aber die Stelle vor dem Madonnenbild hat mich am tiefsten<lb/>
+ergriffen,« meinte Excellenz Wabern. »Das war ein Triumph der<lb/>
+Kunst — der trostlose Jammer in dem Ruf:</p>
+            <milestone unit="verse-start"/>
+            <lg>
+               <l>»Ich bin ach kaum alleine,</l>
+               <l>Ich wein’ — ich wein’ — ich weine —</l>
+               <l>Das Herz zerbricht in mir <milestone unit="3dots"/>«</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <lb/>
+            <p>Die Gerüchte von Fräulein Ridberg’s Verlobung mussten doch<lb/>
+auf einem Irrthum beruht haben. Man hörte nichts weiter davon.<lb/>
+Hinter den Coulissen wusste man, dass Olga Franz Heller sein Wort<lb/>
+zurückgegeben hatte.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

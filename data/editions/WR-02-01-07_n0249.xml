@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-07_n0249.xml" prev="WR-02-01-07_n0248.xml" next="WR-02-01-07_n0250.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 7, S. 249</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="07"/>
+                        <biblScope unit="page" n="n0249"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-02-15">15 2 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0355">
+                  <title level="a">Der Bär </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 7</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="241" to="253"/>
+                  <idno type="fn">WR-02-01-07_n0241.xml</idno>
+                  <author ref="#wr-person-0135">Tschechow, Anton</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DER BÄR.</fw>
+               <fw type="pn">249</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi> (verächtlich lachend). Trauer! <milestone unit="3dots"/> Ich begreife nicht,<lb/>
+wofür Sie mich halten? Als ob ich nicht wüsste, wozu Sie diesen<lb/>
+schwarzen Domino tragen und sich in diesen vier Wänden einge-<lb break="no"/>
+schlossen haben! Warum denn nicht? Das ist so geheimnissvoll, so<lb/>
+poetisch! Wenn an dem Hause irgend ein Junker oder ein stutzer-<lb break="no"/>
+hafter Poet vorbeifahren wird, so wird er zu den Fenstern hinauf-<lb break="no"/>
+schauen und denken: »Hier wohnt die geheimnissvolle Tamara, die aus<lb/>
+Liebe zu ihrem Mann in diesen Mauern sich begraben hat.« Ich kenne<lb/>
+schon diese Faxen!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi> (auffahrend). Was? Wie erlauben Sie sich, mir so<lb/>
+etwas zu sagen?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Sie haben sich lebendig begraben und doch nicht<lb/>
+vergessen, das Gesicht zu bepudern!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Wie wagen Sie es nur, mit mir auf diese Weise<lb/>
+zu reden?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Bitte, schreien Sie nicht, ich bin ja nicht Ihr Ver-<lb break="no"/>
+walter! Gestatten Sie mir, die Dinge beim rechten Namen zu nennen.<lb/>
+Ich bin kein Frauenzimmer und habe die Gewohnheit, meine Meinung<lb/>
+gerade heraus zu sagen! Bitte also, nicht zu schreien!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Nicht ich schreie, sondern Sie! Ich bitte, mich<lb/>
+in Ruhe zu lassen!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Geben Sie das Geld her, und ich reise ab.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Sie bekommen es aber nicht!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Nicht? Werden Sie es also nicht geben?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Ihnen zum Possen werde ich keinen Kopeken<lb/>
+geben! Lassen Sie mich also in Ruhe!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Ich habe nicht das Vergnügen, Ihr Gatte oder Ihr<lb/>
+Verlobter zu sein, darum bitte, nur ohne Scenen! (Setzt sich.) Ich bin<lb/>
+kein Freund davon.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi> (athemlos vor Zorn). Sie setzen sich?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Ja, ich sitze.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Bitte, mich zu verlassen!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Geben Sie das Geld her <milestone unit="3dots"/> (Zur Seite.) Ach, wie böse<lb/>
+ich bin! Wie böse ich bin!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Ich rede nicht mit unverschämten Menschen.<lb/>
+Machen Sie, dass Sie fortkommen! (Nach einer Pause.) Sie wollen nicht<lb/>
+fort? Nein?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Nein.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Nein?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Nein!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Schön! (Klingelt.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

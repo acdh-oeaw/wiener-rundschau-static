@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-01_n0024.xml" prev="WR-01-01-01_n0023.xml" next="WR-01-01-01_n0025.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 1, S. 24</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0024"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-11-15">15 11 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0008">
+                  <title level="a">Die demolirte Literatur</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="19" to="27"/>
+                  <idno type="fn">WR-01-01-01_n0019.xml</idno>
+                  <author ref="#wr-person-0008">Kraus, Karl</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">24</fw>
+               <fw type="ctext">KRAUS.</fw>
+            </fw>
+            <p rend="no-intend">Aber man müsste die Formel suchen für die vagen und<lb/>
+wirren Empfindungen um das grosse Unerhörte der Kunst<lb/>
+des Broda.«</p>
+            <milestone unit="untyped-end"/>
+            <p>In jedem seiner Referate ergoss sich eine Sturzfluth<lb/>
+neuer Eigennamen ins Land. Die Kunstgrössen, die er ein-<lb break="no"/>
+führte, waren einzig und allein <hi rend="text-spaced">ihm</hi> dem Namen nach be-<lb break="no"/>
+kannt; oft hatte er sie von spanischen Theaterzetteln oder<lb/>
+gar portugiesischen Strassentafeln abgelesen. Noch heute<lb/>
+versteht er es, uncontrolirbaren Thatsachen den Schein des<lb/>
+Erlebten zu geben, Dinge, die er gerade anbringen will, tief-<lb break="no"/>
+ursächlich zusammenzuhängen. Es ist — um in seinem Stil<lb/>
+mit Goethe zu sprechen — ein ungemeiner Zettelkasten, den<lb/>
+nicht er, sondern der ihn hat.</p>
+            <p>Als Kritiker hatte er bald die allgemeine Aufmerksam-<lb break="no"/>
+keit auf sich gelenkt. Er interessirte. Mochte man auch<lb/>
+nicht immer mit dem Ton einverstanden sein, man sagte<lb/>
+sich doch, da ist Einer, der Klärung bringt, der, auf das<lb/>
+Unverständniss Anderer nicht angewiesen, jederzeit sein<lb/>
+selbstständiges Vorurtheil hat. Der seichte Impressionismus,<lb/>
+dem sich dieser kritische Bummler überliess, berührte an-<lb break="no"/>
+heimelnd; der Mangel an Humor, der eine seltene Stand-<lb break="no"/>
+punktlosigkeit verkleidete, aber doch discret durchblicken<lb/>
+liess, gefiel, der Tadel, der kein zielbewusster Angriff, sondern<lb/>
+vages Anrempeln war. Man klatschte Beifall, wenn er in<lb/>
+seiner Weise Protest gegen den guten Geschmack erhob<lb/>
+und an das dionysische Bedürfniss des Studenten erinnerte,<lb/>
+Gewölberollläden mit dem Spazierstocke zu streifen. Der-<lb break="no"/>
+massen hat er oft sich ausgelebt und die Wachleute der<lb/>
+öffentlichen Literaturordnung geuzt.</p>
+            <p>Sturm und Drang wurden eines Tages von weimarischer<lb/>
+Vornehmheit abgelöst. Die Zeit der Reife brach für ihn<lb/>
+an, blasirte Behaglichkeit trug seine Worte, und aus den<lb/>
+Weisungen, die er von seiner Höhe an die Jugend des<lb/>
+Landes ergehen liess, sprach »schöne Güte«. Aber sogleich<lb/>
+fasste dieselbe Jugend den Entschluss, ihm nachzureifen, die<lb/>
+jüngsten sprachen von den »jungen Künstlern«, und als eines<lb/>
+Tages das Erstlingswerk eines Neunzehnjährigen erschienen<lb/>
+war, rief ein zwanzigjähriger Gönner aus: »Es ist mir nicht<lb/>
+unlieb, dass die jungen Leute jetzt ein bischen emporkommen!«</p>
+         </div>
+      </body>
+   </text>
+</TEI>

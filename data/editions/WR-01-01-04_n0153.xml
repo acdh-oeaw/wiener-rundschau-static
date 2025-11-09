@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-04_n0153.xml" prev="WR-01-01-04_n0152.xml" next="WR-01-01-04_n0154.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 4, S. 153</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="04"/>
+                        <biblScope unit="page" n="n0153"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-01-01">1 1 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0044">
+                  <title level="a">Die demolirte Literatur</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 4</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="153" to="157"/>
+                  <idno type="fn">WR-01-01-04_n0153.xml</idno>
+                  <author ref="#wr-person-0008">Kraus, Karl</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIE DEMOLIRTE LITERATUR.<lb/>
+Von<lb/>
+                  <rs type="person" key="">Karl Kraus</rs> (Wien).<lb/>
+IV.<lb/>
+(Schluss.)</title>
+            </ab>
+            <p>Die Jung-Wiener Dichtergalerie besitzt einen Charakter-<lb break="no"/>
+kopf, der sehr hübsche Ansätze zu einem Dulderantlitz zeigt.<lb/>
+Dieser Decadent (Abtheilung für Lyriker) ist durch drei<lb/>
+stattliche Gedichtbände, in denen er bewiesen hat; dass er<lb/>
+verwelkte Nerven besitzt, für den literarischen Tisch legiti-<lb break="no"/>
+mirt. »Neurotica« wurden confiscirt und hatten »Sensationen«,<lb/>
+diese aber »Gelächter« im Gefolge. Die echte Dichtergabe,<lb/>
+aus minimalen Erscheinungen ungeahnte Anregung zu ziehen,<lb/>
+ihm ist sie nie versagt geblieben. Stets hat er um mehrere<lb/>
+Grade höher gedichtet als erlebt, und wenn man sich nach<lb/>
+den Urheberinnen seiner Ekstasen erkundigte, konnte man<lb/>
+staunend erfahren, was so ein dämonisches Weib für Minder-<lb break="no"/>
+bemittelte alles imstande ist, wenn es von einem modernen<lb/>
+Lyriker empfunden wird. Einst gab er vor, »Alles, was seltsam<lb/>
+und krank«, zu lieben. Die Kritik glaubte indess, den Sitz<lb/>
+seines Leidens in der Lectüre Baudelaire’s gefunden zu haben,<lb/>
+verordnete ihm strengste Diät und untersagte ihm jede<lb/>
+Maniriertheit. Er nun, aus Furcht, in eine unheilbare Gesund-<lb break="no"/>
+heit zu verfallen, kehrte sich an diese Massregeln nicht.<lb/>
+Hektische Verse flössten ihm Wohlbehagen ein, er erwarb<lb/>
+ein literarisches Wappen, in welchem sich eingezeichnet<lb/>
+finden: ein Herz, das müd und alt, ein Sinn, der welk und<lb/>
+kalt, sowie ein Strauss schwindsüchtiger Tuberosen, mit<lb/>
+heimlichen Nerven umwunden. Der Erfolg enthebt ihn aller<lb/>
+Reuepflichten, und bei seiner Jugend ist er schon heute ein<lb/>
+geübter und tüchtiger Greis.</p>
+            <p>Endlich einmal ein wirklich Nervöser! Das thut förmlich<lb/>
+wohl in dieser Umgebung des posirten Morphinismus. Es ist</p>
+         </div>
+      </body>
+   </text>
+</TEI>

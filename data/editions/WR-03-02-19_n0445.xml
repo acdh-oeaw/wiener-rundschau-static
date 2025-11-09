@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-19_n0445.xml" prev="WR-03-02-19_n0444.xml" next="WR-03-02-19_n0446.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 19, S. 445</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="19"/>
+                        <biblScope unit="page" n="n0445"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0709">
+                  <title level="a">Dichtungen nach Baudelaire</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 19</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="19">19</biblScope>
+                  <biblScope unit="page" from="441" to="445"/>
+                  <idno type="fn">WR-03-02-19_n0441.xml</idno>
+                  <author ref="#wr-person-0176">George, Stefan</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">CHARLES BAUDELAIRE: DIE BLUMEN DES BÖSEN.</fw>
+            </fw>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>IN IHREN KLEIDERN <milestone unit="3dots"/>
+               </title>
+            </ab>
+            <lg>
+               <l>In ihren Kleidern, die mit Schillern flattern,</l>
+               <l>Erscheint es, dass sie tanzt, auch wenn sie geht,</l>
+               <l>Wie eines heilgen Gauklers lange Nattern,</l>
+               <l>Die er auf einem Stab im Takte dreht.</l>
+            </lg>
+            <lg>
+               <l>Wie todter Sand und Wolkenrand der Wüsten,</l>
+               <l>Zu denen fruchtlos menschlich Leiden schreit,</l>
+               <l>Wie Wellennetze an den Meeresküsten</l>
+               <l>Entfaltet sie sich ohne Achtsamkeit.</l>
+            </lg>
+            <lg>
+               <l>Ihr glänzend Aug ist herrlich Mineral.</l>
+               <l>In diesem Wesen, Sinnbild seltner Art,</l>
+               <l>Wo reiner Cherub mit dem Sphinx sich paart,</l>
+            </lg>
+            <lg>
+               <l>Wo alles Gold ist, Diamant und Stahl,</l>
+               <l>Liegt, wie der eitle Glanz der Sternenscharen,</l>
+               <l>Die kalte Hoheit einer Unfruchtbaren.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>TRAUER DER MONDGÖTTIN.</title>
+            </ab>
+            <lg>
+               <l>Heut strahlt der Abendgöttin Licht geringer.</l>
+               <l>Wie eine Schönheit auf der Kissen Wust,</l>
+               <l>Die vor dem Schlafe mit zerstreutem Finger</l>
+               <l>Leis überspielt die Linien ihrer Brust,</l>
+            </lg>
+            <lg>
+               <l>So ruht sie auf den flaumigen Lawinen</l>
+               <l>Im Sterben langen Schwächen hingegeben,</l>
+               <l>Das Auge richtend auf die weissen Mienen,</l>
+               <l>Die Bütengüssen gleich im Azur schweben.</l>
+            </lg>
+            <lg>
+               <l>Wenn müd und schmachtend sie auf unsre Sphäre</l>
+               <l>Verstohlen manchmal träufelt eine Zähre,</l>
+               <l>So naht ein Dichter, der den Schlummer flieht.</l>
+            </lg>
+            <lg>
+               <l>Er fängt die Zähre auf, die Hand als Schale,</l>
+               <l>Dies Stück von farbenspiegelndem Opale</l>
+               <l>Verbirgt er, dass es nicht die Sonne sieht.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

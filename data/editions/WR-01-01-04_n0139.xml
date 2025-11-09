@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-04_n0139.xml" prev="WR-01-01-04_n0138.xml" next="WR-01-01-04_n0140.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 4, S. 139</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="04"/>
+                        <biblScope unit="page" n="n0139"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-01-01">1 1 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0041">
+                  <title level="a">Rhythmen</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 4</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="139" to="140"/>
+                  <idno type="fn">WR-01-01-04_n0139.xml</idno>
+                  <author ref="#wr-person-0005">Rappaport, Felix</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>RHYTHMEN.<lb/>
+Von <rs type="person" key="">Felix Rappaport</rs> (Wien).</title>
+            </ab>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>AHASVER.</title>
+            </ab>
+            <ab>
+               <title>I.</title>
+            </ab>
+            <lg>
+               <l>
+                  <hi rend="initial">In</hi> deiner Augen Glühn hab’ ich’s erkannt —</l>
+               <l>Du bist von denen,</l>
+               <l>die erliegen werden <milestone unit="3dots"/>
+               </l>
+            </lg>
+            <lg>
+               <l>Der Weg ist lang und heiss der Sonnenbrand —</l>
+               <l>Ahasver wandelt immer noch</l>
+               <l>auf Erden.</l>
+            </lg>
+            <lg>
+               <l>Durch seine Adern zehrend schleicht der Brand,</l>
+               <l>Er schreitet schweigend</l>
+               <l>durch die Menschenheerden. —</l>
+            </lg>
+            <lg>
+               <l>Eins bleibt dir, wenn auch alles Andre schwand —</l>
+               <l>Die müde Schönheit</l>
+               <l>rhythmischer Geberden <milestone unit="3dots"/>
+               </l>
+            </lg>
+            <milestone unit="asterismDown"/>
+            <ab>
+               <title>II.</title>
+            </ab>
+            <lg>
+               <l>
+                  <hi rend="initial">Die</hi> Feuer werfen Gluthschein durch das Feld,</l>
+               <l>Im Hintergrunde</l>
+               <l>starren die Ardennen;</l>
+            </lg>
+            <lg>
+               <l>Er ruht im Traum in seinem Purpurzelt,</l>
+               <l>Darum im Kreis</l>
+               <l>zwölf hohe Fackeln brennen.</l>
+            </lg>
+            <lg>
+               <l>Ein Satyrspiel wälzt draussen sich die Welt,</l>
+               <l>Der sammtne Vorhang</l>
+               <l>muss von ihm sie trennen:</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

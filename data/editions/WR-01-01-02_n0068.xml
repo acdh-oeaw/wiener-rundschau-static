@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-02_n0068.xml" prev="WR-01-01-02_n0067.xml" next="WR-01-01-02_n0069.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 2, S. 68</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0068"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-01">1 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0020">
+                  <title level="a">Die demolirte Literatur</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="68" to="72"/>
+                  <idno type="fn">WR-01-01-02_n0068.xml</idno>
+                  <author ref="#wr-person-0008">Kraus, Karl</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIE DEMOLIRTE LITERATUR.<lb/>
+Von<lb/>
+                  <rs type="person" key="">Karl Kraus</rs> (Wien).<lb/>
+II.</title>
+            </ab>
+            <p>Man mag kühn behaupten, der Wirkungskreis, den der<lb/>
+Herr aus Linz in Wien erlangte, habe sich auf drei, bei gut<lb/>
+besuchtem Kaffeehause vier Tische erstreckt. Vom linken<lb/>
+Spiegeltisch an beginnt seine Popularität nachzulassen. Hier<lb/>
+postirten sich jene Literaten, die, nicht gewillt, seine abso-<lb break="no"/>
+lutistische Geschmacksdictatur bedingungslos anzuerkennen,<lb/>
+sich bald von ihm losgesagt und als selbstständige Poseure<lb/>
+etablirt hatten. Indes, der Einfluss des Mannes, der, wo er<lb/>
+sich nicht direct für eine Unbegabung eingesetzt, doch auch<lb/>
+noch kommenden Mittelmässigkeiten den Boden gelockert<lb/>
+hat, sollte nicht ohne weiters vergessen werden. Die solchen<lb/>
+Impuls empfangen hatten, gingen allerdings, während er an<lb/>
+der Ueberschätzung neuer Talente arbeitete, den Weg eigener<lb/>
+Entwicklung. Es ist ihnen nicht leicht gemacht worden. Eigener<lb/>
+Kraft verdanken sie den heutigen Besitz ihrer Nerven-<lb break="no"/>
+schwäche; Selfmade-men der Unnatürlichkeit, mussten sie<lb/>
+sich ihre Blasirtheit erst erwerben. — Es ist nun rührend, wie<lb/>
+aristokratische Dichter, deren Adel bereits zahlreiche Degene-<lb break="no"/>
+rationen umfasst, sich über Standesunterschiede hinwegsetzen<lb/>
+und ohne Stolz mit den Emporkömmlingen der Decadence ver-<lb break="no"/>
+kehren. Diese sind eben heute der eigentliche Hort dessen,<lb/>
+was man im Auslande als moderne wienerische Kunst zu be-<lb break="no"/>
+zeichnen pflegt, — Jung-Oesterreich. Wien heisst der geistige<lb/>
+Nährboden dieser Poeten, denen ein gütiges Geschick das<lb/>
+süsse Vorstadtmädel schon in die Wiege gelegt hat, und die<lb/>
+so genügsam sind, dass sie mit ein paar Wiener Stimmungen<lb/>
+ihr ganzes Leben auszukommen hoffen.</p>
+            <p>Die moderne Bewegung, die vor einem Jahrzehnt vom<lb/>
+Norden ausging, hat hier nur rein technische Veränderungen</p>
+         </div>
+      </body>
+   </text>
+</TEI>

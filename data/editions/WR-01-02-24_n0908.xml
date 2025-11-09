@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-24_n0908.xml" prev="WR-01-02-24_n0907.xml" next="WR-01-02-24_n0909.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 24, S. 908</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="24"/>
+                        <biblScope unit="page" n="n0908"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-11-01">1 11 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0292">
+                  <title level="a">Aus Dante’s neuem Leben</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 24</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="905" to="908"/>
+                  <idno type="fn">WR-01-02-24_n0905.xml</idno>
+                  <author ref="#wr-person-0113">Dante</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">908</fw>
+               <fw type="ctext">DANTE.</fw>
+            </fw>
+            <p rend="no-intend">haben glaubte. Das erste von diesen ist: dass ich mir gar vielmals leid<lb/>
+that, wenn meine Erinnerung meine Phantasie dazu bewog, sich vor-<lb break="no"/>
+zustellen, was die Liebe aus mir machte. Das zweite ist, dass Amor<lb/>
+mich oft und plötzlich so gewaltig überfiel, dass nichts Anderes in mir<lb/>
+lebendig blieb, denn ein einziger Gedanke, der von meiner Herrin<lb/>
+sprach. Das dritte ist, dass, wenn solch ein Liebeswogen mich be-<lb break="no"/>
+stürmte, ich mit völlig entfärbtem Gesichte mich aufmachte, um jenes<lb/>
+Weib zu sehen, in der Meinung, dass ihr Anblick mich vor diesem<lb/>
+Sturme schirmen werde, und vergessend, wie mir ward, wenn ich solcher<lb/>
+Lieblichkeit mich näherte. Das vierte ist, wie dann dieser Anblick<lb/>
+mich nicht nur nicht beschirmte, sondern das geringe Leben, das noch<lb/>
+in mir war, völlig vernichtete; und darum schrieb ich dieses Sonett:</p>
+            <milestone unit="verse-start"/>
+            <lg>
+               <l>Schon oftmals ist mir in den Sinn gekommen,</l>
+               <l>Wie dunkel Amor mein Gemüth gemacht,</l>
+               <l>Und Mitleid fasst mich, so dass ich beklommen</l>
+               <l>Mich frage: Hat er jedem dies gebracht?</l>
+            </lg>
+            <lg>
+               <l>Denn oftmals überfällt er mich mit Macht,</l>
+               <l>Dass fast der ganze Odem mir benommen —</l>
+               <l>Ein Geist nur, der von Euch mir redet sacht,</l>
+               <l>Ist in dem tödtlich wilden Sturm entkommen.</l>
+            </lg>
+            <lg>
+               <l>Dann zwing’ ich mich, um neu mich zu beleben,</l>
+               <l>Und todtenblass und jeder Kraft beraubt,</l>
+               <l>Komm’ ich zu Euch und hoffe zu gesunden,</l>
+               <l>Doch so wie meine Blicke Euch gefunden,</l>
+               <l>Fährt mir ein Zittern jäh durch Herz und Haupt,</l>
+               <l>Und aus dem Busen will die Seele schweben.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

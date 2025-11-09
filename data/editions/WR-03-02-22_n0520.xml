@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-22_n0520.xml" prev="WR-03-02-22_n0519.xml" next="WR-03-02-22_n0521.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 22, S. 520</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="22"/>
+                        <biblScope unit="page" n="n0520"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0733">
+                  <title level="a">Proteus</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 22</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="22">22</biblScope>
+                  <biblScope unit="page" from="518" to="520"/>
+                  <idno type="fn">WR-03-02-22_n0518.xml</idno>
+                  <author ref="#wr-person-0246">Wickström, Victor Hugo</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0734">
+                  <title level="a">Ein Weltuntergang I.</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 22</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="22">22</biblScope>
+                  <biblScope unit="page" from="520" to="524"/>
+                  <idno type="fn">WR-03-02-22_n0520.xml</idno>
+                  <author ref="#wr-person-0183">Hartmann, Franz</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">HARTMANN: EIN WELTUNTERGANG.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">nehmen konnte und, obwohl nicht geborener<lb/>
+Gott, doch durch sein Wissen den Göttern<lb/>
+gleich wurde. Es schien ihm, als ob die<lb/>
+Welt selbst dieser Proteus wäre, der in<lb/>
+den Jahrhunderten der Jahrhunderte ständig<lb/>
+wechselnde Formen getragen und, obwohl<lb/>
+nicht geborener Gott, doch der Gottheit<lb/>
+immer näher käme.</p>
+                     <p>Auch er selbst war wie Proteus. Wie<lb/>
+hatte er nicht des Lebens buntes Spiel<lb/>
+geprüft, um zum Schluss durch das Wissen<lb/>
+dessen ewigen Zusammenklang zu fassen!</p>
+                  </cell>
+                  <cell>
+                     <p>Er fühlte sich einsam. Da aber erklang<lb/>
+aus seinem Innern eine Sehnsucht, der Welt<lb/>
+Zerrissenheit und Einheit, der Menschen<lb/>
+Sorgen und Lächeln zu schildern, das Gold<lb/>
+in der Schlacke zu zeigen, das Sonnenlicht,<lb/>
+das über alle Thränen strömte. Er wünschte<lb/>
+zu versöhnen, wie er selbst versöhnt war.<lb/>
+Er dichtete. So würde er Kinder hinter-<lb break="no"/>
+lassen, dachte er sich, eine Tochter, »die<lb/>
+Götterschöne« oder »die Götterkluge«, und<lb/>
+Söhne, die vielleicht siegreicher als Proteus’<lb/>
+Söhne gegen den gewaltigen Spross der<lb/>
+Zeit, Herakles, kämpfen würden.*</p>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Für die »Wiener Rundschau« übertragen von ELSBETH SCHERING.</p>
+            </note>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>EIN WELTUNTERGANG.<lb/>
+Von <rs type="person" key="">FRANZ HARTMANN</rs> (Torbole, Lago di Garda).<lb/>
+I.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Näher und näher rücken wir dem<lb/>
+Ende dieses Jahrhunderts und auch dem<lb/>
+verhängnisvollen <date>13. November</date>, an dem,<lb/>
+wie es heisst, unserer schönen Erde durch<lb/>
+einen Kometen der Garaus gemacht<lb/>
+werden soll. Schon öfters während der<lb/>
+letzten Jahrhunderte wurden solche Kata-<lb break="no"/>
+strophen prophezeit, und damals wie jetzt<lb/>
+gab es Gegenden, wo der menschliche<lb/>
+Verstand noch in den Windeln lag und<lb/>
+wo, wie jetzt, unwissende Leute ihr<lb/>
+Eigenthum verkauften, um den Erlös,<lb/>
+den sie in das Jenseits doch nicht mit-<lb break="no"/>
+nehmen konnten, noch im Diesseits zu<lb/>
+verjubeln. Aber die Prophezeihungen trafen<lb/>
+nicht ein; der Weltuntergang musste aus<lb/>
+nicht näher angegebenen Gründen ver-<lb break="no"/>
+schoben werden; das Geld war verjubelt,<lb/>
+aber die Erde dreht sich noch immer,<lb/>
+wie zuvor.</p>
+                     <p>Diesmal aber wird es sicherlich ernst<lb/>
+werden. Nicht nur die modernen Pro-<lb break="no"/>
+pheten, sondern die ältesten indischen<lb/>
+Weisen haben für das Ende dieses Jahr-<lb break="no"/>
+hunderts grosse Umwälzungen voraus-<lb break="no"/>
+gesagt und sogar die Einzelheiten be-<lb break="no"/>
+schrieben. Wir nähern uns jetzt (nach</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">der Zeitrechnung der Brahminen)* einem<lb/>
+grossen Wendepunkte in der Geschichte<lb/>
+der Evolution der Welt, einem bedeut-<lb break="no"/>
+samen Zeitabschnitte des <hi rend="text-spaced">Kali</hi>-<hi rend="text-spaced">Yuga</hi>
+                        <lb/>
+oder der dunklen Weltperiode (des<lb/>
+»eisernen Zeitalters«), in dem wir uns<lb/>
+jetzt befinden.</p>
+                     <p>Wir haben die feste Überzeugung,<lb/>
+dass es diesmal ernst werden, dass die<lb/>
+alte Welt untergehen und eine neue er-<lb break="no"/>
+stehen wird, aber allerdings nicht in dem<lb/>
+Sinne, wie dies gewöhnlich verstanden<lb/>
+wird. Unsere Erdkugel wird weder ex-<lb break="no"/>
+plodieren, noch durch einen Kometen ver-<lb break="no"/>
+brannt oder zertrümmert werden, aber<lb/>
+in der Seele der Welt werden grosse<lb/>
+Veränderungen vor sich gehen, und dies<lb/>
+ist von ungleich grösserer Wichtigkeit als<lb/>
+die Veränderungen, welche die sichtbare<lb/>
+Schale betreffen. Die Veränderung wird<lb/>
+nämlich im Gemüthe der Menschheit<lb/>
+selbst vor sich gehen, und das Resultat<lb/>
+eine höhere Weltanschauung und ver-<lb break="no"/>
+mehrte Selbsterkenntnis sein, aus der auch<lb/>
+eine andere Ordnung hervorgehen wird.</p>
+                     <p>Ein solcher Weltuntergang hat schon<lb/>
+öfters in der Weltgeschichte stattgefunden;</p>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Vergl. »Lotusblüten‹. Jahrg. <date>1893</date>. II., S. 489.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

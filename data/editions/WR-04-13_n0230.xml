@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-13_n0230.xml" prev="WR-04-13_n0229.xml" next="WR-04-13_n0231.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 13, S. 230</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="13"/>
+                        <biblScope unit="page" n="n0230"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0904">
+                  <title level="a">Wie gelangen wir zu einer heroischen Weltanschauung?</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 13</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="224" to="230"/>
+                  <idno type="fn">WR-04-13_n0224.xml</idno>
+                  <author ref="#wr-person-0275">Kuhlenbeck, Ludwig, Dr.</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0905">
+                  <title level="a">Die Vorausbestimmung des Geschlechts bei der Erzeugung vom Standpunkte der occulten Wissenschaft</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 13</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="230" to="233"/>
+                  <idno type="fn">WR-04-13_n0230.xml</idno>
+                  <author ref="#wr-person-0183">Hartmann, Franz</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">HARTMANN: VORAUSBESTIMMUNG DES GESCHLECHTS BEI DER ERZEUGUNG.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">mindesten fruchtbringenden Abwege zu<lb/>
+folgen.«</p>
+                     <p>Nur von jenen Theoretikern und<lb/>
+Methodikern, von den einseitigen Gehirn-<lb break="no"/>
+menschen gilt Schillers Distichon:</p>
+                     <milestone unit="verse-start"/>
+                     <lg>
+                        <l>»Alles will jetzt den Menschen von innen,</l>
+                        <l>von außen ergründen;</l>
+                        <l>Wahrheit, wo rettest du dich hin vor der</l>
+                        <l>wüthenden Jagd?</l>
+                        <l>Dich zu fangen, ziehen sie aus mit Netzen</l>
+                        <l>und Stangen;</l>
+                        <l>
+                           <hi rend="text-spaced">Aber mit Geistestritt schreitest du</hi>
+                        </l>
+                        <l>
+                           <hi rend="text-spaced">mitten hindurch</hi>.«</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>Nicht mit den Netzen einer schola-<lb break="no"/>
+stischen Dialectik, noch mit den Stangen</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">der experimentellen Neugier werden <hi rend="text-spaced">wir</hi>
+                        <lb/>
+also ausziehen.</p>
+                     <milestone unit="verse-start"/>
+                     <lg>
+                        <l>»Ist das Auge gesund, so begegnet es außen</l>
+                        <l>dem Schöpfer;</l>
+                        <l>Ist es das Herz, dann gewiss spiegelt es innen</l>
+                        <l>die Welt!«</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>Und:</p>
+                     <milestone unit="verse-start"/>
+                     <lg>
+                        <l>»Willst du, Freund, die erhabenen Höhen der</l>
+                        <l>
+                           <hi rend="text-spaced">Weisheit</hi> erfliegen,</l>
+                        <l>Wag’ es auf die Gefahr, dass dich die <hi rend="text-spaced">Klug</hi>-</l>
+                        <l>
+                           <hi rend="text-spaced">heit</hi> verlacht;</l>
+                        <l>Der Kurzsichtige sieht nur <hi rend="text-spaced">das</hi> Ufer, das dir</l>
+                        <l>zurückflieht,</l>
+                        <l>
+                           <hi rend="text-spaced">Jenes</hi> nicht, wo dereinst landet dein muthiger</l>
+                        <l>Flug!«</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIE VORAUSBESTIMMUNG DES GESCHLECHTS<lb/>
+BEI DER ERZEUGUNG<lb/>
+VOM STANDPUNKTE DER OCCULTEN WISSENSCHAFT.<lb/>
+Von Dr. <rs type="person" key="">
+                     <hi rend="text-spaced">FRANZ HARTMANN</hi>
+                  </rs> (Florenz).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Eine zeitgemäße Dummheit findet<lb/>
+stets viel mehr Verehrer, als eine Wahr-<lb break="no"/>
+heit, für deren Verständnis die große<lb/>
+Menge noch nicht reif ist. Der Wunsch,<lb/>
+sich nach Belieben männliche oder weib-<lb break="no"/>
+liche Nachkommen zu verschaffen, hat<lb/>
+die abenteuerlichsten Pläne zum Vorschein<lb/>
+gebracht, und in jedem Jahrhundert traten<lb/>
+immer wieder darauf hinzielende Vor-<lb break="no"/>
+schläge auf, denen es mitunter nicht an<lb/>
+Genialität, wohl aber immer an der Haupt-<lb break="no"/>
+sache, nämlich an einer Kenntnis der<lb/>
+Naturgesetze fehlt, auf denen die Zeugung<lb/>
+beruht.</p>
+                     <p>Der Umstand, dass gewisse Re-<lb break="no"/>
+productions-Organe paarweise vorhanden<lb/>
+sind, brachte manche Gelehrte auf den<lb/>
+Glauben, dass die eine Hälfte zur Er-<lb break="no"/>
+zeugung männlicher, die andere zur Er-<lb break="no"/>
+zeugung weiblicher Geschöpfe bestimmt<lb/>
+sei, und man unterwarf sich deshalb Ver-<lb break="no"/>
+stümmelungen (Ovariotomie etc.), die, wie<lb/>
+vorauszusehen war, zu nichts führten.<lb/>
+Andere wieder glaubten, den Schlüssel zur<lb/>
+Entdeckung des Geheimnisses in dem Zeit-<lb break="no"/>
+punkte der Zeugung, in der Verschieden-<lb break="no"/>
+heit des Alters der Erzeuger, in deren<lb/>
+Kraftverhältnissen u. dgl. zu finden, und</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">nicht die geringste Thorheit dieser Art<lb/>
+war die Idee, dass man die Frage durch<lb/>
+Regelung der Ernährung erledigen könne.</p>
+                     <p>Alle diese Vorschläge beruhen nicht<lb/>
+nur auf einer völligen Unkenntnis der<lb/>
+Gesetze, welche das Geschlecht bestimmen,<lb/>
+sondern auf einer ganz verkehrten An-<lb break="no"/>
+schauung. Unwissenheit ist es, wenn man<lb/>
+nur ganz materielle Umstände in Betracht<lb/>
+zieht und das Wirken des Geistes, welches<lb/>
+allen äußerlichen Erscheinungen zugrunde<lb/>
+liegt, gar nicht beachtet. Die Ver-<lb break="no"/>
+kehrtheit aber liegt darin, dass man das<lb/>
+Leben mit seinen verschiedenen Formen<lb/>
+für ein Product der Materie hält, anstatt<lb/>
+alle Formen als Producte des Lebens zu<lb/>
+erkennen. Die Bestimmung des Geschlechts<lb/>
+ist nicht von materiellen Zuständen bedingt,<lb/>
+sondern von den Eigenschaften des Geistes,<lb/>
+der in der Materie Leben und Formen<lb/>
+erzeugt. Die Fragen, wegen deren Lösung<lb/>
+die auf dem Standpunkte des Materialismus<lb/>
+stehenden Gelehrten sich die Köpfe zer-<lb break="no"/>
+brechen, sind schon längst von der occulten<lb/>
+Wissenschaft gelöst, und die Umstände,<lb/>
+welche bei der Bestimmung des Ge-<lb break="no"/>
+schlechts maßgebend sind, finden sich in<lb/>
+den Werken von Theophrastus Paracelsus</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

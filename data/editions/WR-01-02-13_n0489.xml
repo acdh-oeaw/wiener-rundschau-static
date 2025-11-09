@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-13_n0489.xml" prev="WR-01-02-13_n0488.xml" next="WR-01-02-13_n0490.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 13, S. 489</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="13"/>
+                        <biblScope unit="page" n="n0489"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-05-15">15 5 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0161">
+                  <title level="a">Wasserfahrt</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 13</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="489" to="489"/>
+                  <idno type="fn">WR-01-02-13_n0489.xml</idno>
+                  <author ref="#wr-person-0065">Samain, A.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">WASSERFAHRT</hi>.</title>
+            </ab>
+            <lg>
+               <l>
+                  <hi rend="initial">In</hi> Birken und Linden ein silbern Schimmern <milestone unit="3dots"/>
+               </l>
+               <l>Die Wellen, die weissen, im Mondlicht flimmern <milestone unit="2dots"/>
+               </l>
+            </lg>
+            <lg>
+               <l>Wie langes Haar, umkost vom Abendwind,</l>
+               <l>So liegt der See, in lichte Nebel lind</l>
+               <l>Gehüllt, und Spiegeln gleich die tiefen Wasser sind.</l>
+            </lg>
+            <lg>
+               <l>Mit sanftem Ruderschlag mein Kahn</l>
+               <l>Gleitet auf dunkler Traumesbahn.</l>
+            </lg>
+            <lg>
+               <l>Er gleitet in unendliche Ferne,</l>
+               <l>Ueber die Himmel, über die Sterne.</l>
+            </lg>
+            <lg>
+               <l>Die Ruder tauchen auf und nieder</l>
+               <l>Und singen Friedensehnsuchtslieder.</l>
+            </lg>
+            <lg>
+               <l>Das Aug’ geschlossen, all’ mein Sehnen,</l>
+               <l>In dieser Müde hör’ ich’s verklingen,</l>
+               <l>In langgezognen, weichen Tönen.</l>
+            </lg>
+            <lg>
+               <l>Am Hügel lehnt der Mond und sieht in Schweigen</l>
+               <l>Mein schwebend Boot sich wiegen und sich neigen <milestone unit="3dots"/>
+               </l>
+               <l>Drei Lilien mir ihr sterbend Antlitz zeigen.</l>
+            </lg>
+            <lg>
+               <l>Ist’s ihre Seel,’ du bleich’ wollüstige Stund?</l>
+               <l>Ist’s meine, die verhaucht an deinem Mund?</l>
+            </lg>
+            <lg>
+               <l>Silbernächtges Haar, umspielt von wiegendem Schilf <milestone unit="3dots"/>
+               </l>
+            </lg>
+            <lg>
+               <l>Wie das Mondlicht im See,</l>
+               <l>Wie der Lilien Schnee,</l>
+               <l>Durch meine Seele zieht das alte Weh <milestone unit="3dots"/>
+               </l>
+            </lg>
+            <p>Paris. <rs type="person" key="">A. Samain</rs>.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

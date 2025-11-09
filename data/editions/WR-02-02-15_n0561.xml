@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-15_n0561.xml" prev="WR-02-02-14_n0560.xml" next="WR-02-02-15_n0562.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 15, S. 561</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="15"/>
+                        <biblScope unit="page" n="n0561"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-06-15">15 6 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0442">
+                  <title level="a">Aus dem Tagebuch</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 15</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="15">15</biblScope>
+                  <biblScope unit="page" from="561" to="564"/>
+                  <idno type="fn">WR-02-02-15_n0561.xml</idno>
+                  <author ref="#wr-person-0142">Emerson</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>15. <hi rend="text-spaced">JUNI</hi> 1898</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">AUS EMERSONS TAGEBUCH</hi>.<lb/>
+Mitgetheilt von seinem Sohne, übersetzt von <rs type="person" key="">Karl Federn</rs>.</title>
+            </ab>
+            <p>Concord, <date>15. November 1834</date>. (Geschrieben, da Emerson als<lb/>
+Prediger in seine Vaterstadt Concord kam.) Heil den ruhigen Gefilden<lb/>
+meiner Väter. Nicht ganz ungeleitet von übernatürlicher Freundschaft<lb/>
+und Gunst möge ich hieherkommen! Mögen meine Absichten gesegnet<lb/>
+sein, in dem Masse als sie einfach und sittlich sind. Coleridges schöner<lb/>
+Brief*) kommt den Gedanken, die mich erfüllen, gerade zu Hilfe. Sei<lb/>
+es so. Hinfort will ich keine Rede, kein Gedicht, kein Buch von mir<lb/>
+geben, dass nicht gänzlich und speciell mein Eigen ist. Ich will bei<lb/>
+öffentlichen Vorlesungen und Ähnlichem nur solche Dinge sagen, die<lb/>
+ich um ihrer selbst willen und nicht zum ersten Male für die Gelegen-<lb break="no"/>
+heit bedacht habe.</p>
+            <p>
+               <date>1838</date>. Der amerikanische Künstler, der einen Waldgott schnitzen<lb/>
+würde, und der mit dem Walde in Maine vertraut wäre, wo ungeheure<lb/>
+gefallene Fichtenstämme auf »dem Waldboden lasten«, wo riesige Moose,<lb/>
+die von den Bäumen hängen, und die Masse Holz dem Hain eine wilde<lb/>
+und hagere Kraft geben, der würde eine ganz andere Statue hervor-<lb break="no"/>
+bringen, als der Bildhauer, der nur europäisches Waldland kennt, —<lb/>
+der geschmackvolle Grieche zum Beispiel.</p>
+            <p>Es scheint, als ob wir der Literatur gewisse Eindrücke von der<lb/>
+Natur zu verdanken hätten, die die Natur nicht rechtfertigt. Durch die<lb/>
+lateinische und englische Poesie wurde ich zu einem Oratorium von<lb/>
+Lobpreisungen der Natur, der Blumen, der Vögel und Berge, der Sonne<lb/>
+und des Mondes geboren und erzogen, und jetzt erkenn’ ich, dass ich<lb/>
+von all diesen schönen Dingen nichts weiss, dass ich mit der leersten<lb/>
+Oberfläche und dem Schein von allem zu thun gehabt, dass ich von<lb/>
+ihrem Wesen und ihrer Geschichte gar nichts weiss. Und weiter mache</p>
+            <milestone unit="hr"/>
+            <note type="footnote">
+               <p>*) Kurz vorher in der Londoner »Literary Gazette« erschienen.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

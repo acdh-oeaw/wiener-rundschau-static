@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-18_n0440.xml" prev="WR-03-02-18_n0439.xml" next="WR-03-02-19_n0441.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 18, S. 440</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="18"/>
+                        <biblScope unit="page" n="n0440"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0708">
+                  <title level="a">Die Friedensconferenz</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 18</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="18">18</biblScope>
+                  <biblScope unit="page" from="438" to="440"/>
+                  <idno type="fn">WR-03-02-18_n0438.xml</idno>
+                  <author ref="#wr-person-0238">Tolstoi, Leo Graf</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">NOTIZEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>
+                        <hi rend="text-spaced">wahre Civilisation</hi> unter den Menschen<lb/>
+verbreitet hat, nicht aber jene Parodie der<lb/>
+Civilisation, die dem an Wissen und In-<lb break="no"/>
+telligenz reichen Menschen das Recht gibt,<lb/>
+über das Thun eines anderen Menschen<lb/>
+zu verfügen und ihn der Verantwortlichkeit<lb/>
+für seine eigenen Handlungen zu berauben,<lb/>
+sondern jene Civilisation, die den Menschen<lb/>
+hindert, sich seiner Freiheit zu entäussern,<lb/>
+und die ihm in jeder Lebenslage über-<lb break="no"/>
+legen lässt, wie verantwortlich er für seine<lb/>
+eigenen Thaten ist. Dann nur wird die<lb/>
+Abrüstung erfolgen, und diese Abrüstung<lb/>
+wird nicht mit dem Willen der Machthaber<lb/>
+geschehen, sondern gegen ihren Willen.<lb/>
+Will man sie erzielen, so sollte man nicht</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Conferenzen unter der Ägide von Regie-<lb break="no"/>
+rungen veranstalten, sondern <hi rend="text-spaced">wahre Civi-<lb break="no"/>
+lisation verbreiten</hi>. Jene wahre Ci-<lb break="no"/>
+vilisation, die das Project einer Friedens-<lb break="no"/>
+conferenz nicht, wie das jetzt geschehen,<lb/>
+mit allgemeinen Sympathie-Kundgebungen<lb/>
+und eitlen Hoffnungen aufnimmt, wohl aber<lb/>
+mit Verachtung und Spott, wofern nicht<lb/>
+mit Entrüstung <milestone unit="2dots"/> Die Abrüstung wird<lb/>
+erfolgen, wenn die Menschen sich schämen<lb/>
+werden, Kriegswaffen zu tragen. Die An-<lb break="no"/>
+nahme aber, dass die Conferenz hier Ab-<lb break="no"/>
+hilfe schaffen könne, scheint mir falsch.<lb/>
+Diese Conferenz wird den Menschen das<lb/>
+Mittel zur Rettung und Befreiung nur<lb/>
+                        <hi rend="text-spaced">verbergen</hi>.*</p>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Was denn inzwischen auch geschehen ist (D. RED., die sich dem Dichter nicht in<lb/>
+allen Punkten seines Excurses anzuschliessen vermag.)</p>
+            </note>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>NOTIZEN.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="untyped-start"/>
+                     <p>Unter dem Personen-Verzeichnis zu <hi rend="text-spaced">Mau-<lb break="no"/>
+rice Maeterlincks</hi> Drama »<hi rend="text-spaced">Blaubart und<lb/>
+Ariane</hi>« (»Wiener Rundschau«, III., 17) brach-<lb break="no"/>
+ten wir die Mittheilung, dass der Dichter damit<lb/>
+umgehe, Theile seines Werkes in Musik setzen<lb/>
+zu lassen, und deshalb sangbare Lieder in den<lb/>
+Text eingeflochten habe. <hi rend="text-spaced">Maeterlinck</hi> schreibt<lb/>
+nun, dass wir dieser seiner Absicht, deren Be-<lb break="no"/>
+tonung ihm mit Recht nicht unwichtig scheint,<lb/>
+zu wenig Nachdruck gegeben hätten. Vielleicht<lb/>
+trägt der folgende Passus seines Briefes auch<lb/>
+zum besseren Verständnisse der Dichtung bei:</p>
+                     <milestone unit="untyped-start"/>
+                     <p>»<milestone unit="3dots"/> Vous n’avez pas assez dit que la<lb/>
+pièce n’est pas un drame, mais un simple<lb/>
+libretto, un canevas pour le musicien. Je vous<lb/>
+supplie donc de faire passer une note à ce sujet<lb/>
+dans les journaux. Si j’avais entendu faire un<lb/>
+drame ou une fantaisie féerique sans musique,<lb/>
+j’eusse donné à tout un développement dix fois<lb/>
+plus grand. Ici, je n’ai eu en vue que les<lb/>
+exigences de la musique qui veut avant tout<lb/>
+la brièveté <milestone unit="3dots"/>«</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="asterisk"/>
+                  </cell>
+                  <cell>
+                     <milestone unit="untyped-start"/>
+                     <p>Aus der Fülle sympathisierender Worte,<lb/>
+die das Drama geweckt, heben wir die folgenden<lb/>
+heraus, die uns von anonymer Seite zugehen:</p>
+                     <milestone unit="untyped-start"/>
+                     <p>»Es ist wie das Meer und rauscht, brandet,<lb/>
+leuchtet. Leuchtet und glitzert. Man stürzt sich<lb/>
+hinein und schwelgt in Wasser, Wellen, Sonne.<lb/>
+Alles ist wie ein Rausch. Die Augen schauen<lb/>
+mit Staunen, die Lippen zittern, und innen ist<lb/>
+eine hohe glühende Seligkeit. So viel Licht,<lb/>
+brausendes Licht, und so viele Farben, die<lb/>
+jauchzen und singen. Das ist die Sprache <milestone unit="3dots"/>
+                     </p>
+                     <p>Man trinkt — trinkt — trinkt — — ver-<lb break="no"/>
+schluckt fast die Perle im Weine. Aber diese<lb/>
+Perle ist eine schimmernde Wahrheit:</p>
+                     <p>Das Weib ist geknechtet —</p>
+                     <p>Das Weib soll Freiheit haben — —</p>
+                     <p>Aber wie? Gibt es nicht Viele, die in einem<lb/>
+Kerker, den der Mann bewacht, lieber leben,<lb/>
+als in — Freiheit? <milestone unit="3dots"/>«</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="asterisk"/>
+                     <milestone unit="untyped-start"/>
+                     <p>Es erübrigt noch die Nachricht, dass das<lb/>
+Drama in einer Berliner Matinée zur Darstel-<lb break="no"/>
+lung gelangen wird.</p>
+                     <milestone unit="untyped-end"/>
+                     <p>
+                        <rs type="person" key="">D. RED.</rs>
+                     </p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="hr"/>
+            <milestone unit="imprint-start"/>
+            <p>Herausgeber: <hi rend="strong">Constantin Christomanos</hi> und <hi rend="strong">Felix Rappaport</hi>. —Verantwortlicher Redacteur:<lb/>
+               <hi rend="strong">Constantin Christomanos</hi>.</p>
+            <p>K. k. Hoftheater-Druckerei, Wien, I. Wollzeile 17. (Verantwortlich A. Rimrich.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

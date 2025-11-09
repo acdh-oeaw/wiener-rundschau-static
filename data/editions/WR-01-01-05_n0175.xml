@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-05_n0175.xml" prev="WR-01-01-05_n0174.xml" next="WR-01-01-05_n0176.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 5, S. 175</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="05"/>
+                        <biblScope unit="page" n="n0175"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-01-15">15 1 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0054">
+                  <title level="a">Alladine und Palomides</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 5</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="174" to="183"/>
+                  <idno type="fn">WR-01-01-05_n0174.xml</idno>
+                  <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">ALLADINE UND PALOMIDES.</fw>
+               <fw type="pn">175</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi>.</p>
+            <p>Meine Augen thränen noch von dem Druck der Binde<lb/>
+               <milestone unit="3dots"/> Im Finstern sind wir nicht. Seid Ihr es, welche ich dort<lb/>
+höre, wo es hell wird?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Ich bin hier, kommt.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi>.</p>
+            <p>Ihr seid am Rande des Lichtschimmers, der uns leuchtet.<lb/>
+Rührt Euch nicht; ich sehe nicht Alles um Euch her! Meine<lb/>
+Augen haben die Binde noch nicht vergessen. Man hat sie<lb/>
+zusammengeschnürt, als hätte man mir die Augen vernichten<lb/>
+wollen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Kommt, die Fesseln ersticken mich. Ich kann nicht länger<lb/>
+warten <milestone unit="2dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi>.</p>
+            <p>Ich höre nur eine Stimme, die aus dem Lichte dringt <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Wo seid Ihr?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi>.</p>
+            <p>Ich weiss es selbst nicht. Ich schreite noch in der<lb/>
+Finsterniss <milestone unit="4dots"/> Sprecht weiter, dass ich Euch finde. Ihr<lb/>
+scheint am Rande einer grenzenlosen Helle <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Kommt! Kommt! Ich habe schweigend gelitten, aber ich<lb/>
+kann nicht mehr <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi> (sich vorwärs tastend).</p>
+            <p>Da seid Ihr? Ich habe Euch so fern geglaubt! <milestone unit="3dots"/> Meine<lb/>
+Thränen haben mich getäuscht. Ich bin hier, und ich sehe<lb/>
+Euch. Oh! Eure Hände sind verwundet! Das Blut ist auf Euer<lb/>
+Kleid geflossen, und die Fesseln sind in das Fleisch gedrun-<lb break="no"/>
+gen. Ich habe keine Waffen mehr. Sie haben mir meinen<lb/>
+Dolch genommen. Aber ich werde sie zerreissen. Wartet!<lb/>
+Ich habe den Knoten gefunden.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

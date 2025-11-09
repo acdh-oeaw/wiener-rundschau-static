@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-02_n0069.xml" prev="WR-01-01-02_n0068.xml" next="WR-01-01-02_n0070.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 2, S. 69</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0069"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-01">1 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0020">
+                  <title level="a">Die demolirte Literatur</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="68" to="72"/>
+                  <idno type="fn">WR-01-01-02_n0068.xml</idno>
+                  <author ref="#wr-person-0008">Kraus, Karl</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DIE DEMOLIRTE LITERATUR.</fw>
+               <fw type="pn">69</fw>
+            </fw>
+            <p rend="no-intend">hervorgerufen. Von der inneren Wirkung neuen Styls, der<lb/>
+das Stoffgebiet erweitern half und sociale Probleme ins<lb/>
+Rollen brachte, ist unsere junge Kunst verschont geblieben,<lb/>
+die geradezu in der Abkehr von den geistigen Kämpfen der<lb/>
+Zeit ihr Heil sucht. Wenn Gedankenarmuth in Stimmungen<lb/>
+schwelgen will, muss das Wienerthum für die Farbe her-<lb break="no"/>
+halten, und der Localpatriotismus erwacht zu neuem, sensi-<lb break="no"/>
+tiverem Dasein.</p>
+            <p>Ueber den vielen Kaffeehaussitzungen, die zum Zweck<lb/>
+einer endgiltigen Formulirung des Begriffes »Künstlermensch«<lb/>
+abgehalten wurden, sind so manche dieser Schriftsteller nicht<lb/>
+zur Production gekommen. Bevor man sich nicht über eine<lb/>
+Definition geeinigt hatte, wollte sich keiner an die Arbeit<lb/>
+trauen, und manche hatten sich längst als Stammgäste einen<lb/>
+Namen gemacht, bevor sie dazu kamen, sich ihn durch ihre<lb/>
+Werke zu verscherzen. Griensteidl ist nun einmal der Sammel-<lb break="no"/>
+punkt von Leuten, die ihre Fähigkeiten zersplittern wollen,<lb/>
+und man darf sich über diese Unfruchtbarkeit von Talenten<lb/>
+nicht wundern, welche so dicht an einem Kaffeehaustisch<lb/>
+beisammen sitzen, dass sie einander gegenseitig an der Ent-<lb break="no"/>
+faltung hindern. Prätention scheint ja in Fülle vorhanden zu<lb/>
+sein, überall, an allen Ecken und Enden, keimt eine junge<lb/>
+Manierirtheit, wie sie bis nun keine zweite Literaturbewegung<lb/>
+hervorgebracht hat: wenn jetzt auch noch Begabung hinzu-<lb break="no"/>
+kommen sollte, werden wir jungen Oesterreicher getrost das<lb/>
+Ausland in die Schranken fordern können.</p>
+            <p>Bis heute war in diesen Kreisen eine affectirte Be-<lb break="no"/>
+ziehung zur Kunst vorgeschrieben, und das eigenartige<lb/>
+Können der Jungwiener Dichter besteht darin, dass sie ein<lb/>
+grosses Interesse für lebemännische Allüren an den Tag<lb/>
+legen, dass sie imstande sind, von den Eindrücken eines Ronacher-<lb break="no"/>
+Abends durch Wochen zu zehren, die Komik eines Clowns mit<lb/>
+Behagen zu gemessen und bei jedesmaligem Zusammensein die<lb/>
+ältesten Anekdoten auszutauschen. Derselbe Geist, wenn er<lb/>
+aus solcher Lebensfülle in beschauliches Alleinsein flieht,<lb/>
+findet Stimmungstrost in dem Gedanken an die »stillen<lb/>
+Gassen am Sonntag-Nachmittag« und an das »unsäglich<lb/>
+traurige Praterwirthshaus an Wochentagen«, — immer<lb/>
+wiederkehrende sentimentale Wahnvorstellungen, die diesen</p>
+         </div>
+      </body>
+   </text>
+</TEI>

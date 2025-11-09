@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-03_n0061.xml" prev="WR-03-01-03_n0060.xml" next="WR-03-01-03_n0062.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 3, S. 61</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0061"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0551">
+                  <title level="a">Die Alkestis des Euripides</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="55" to="62"/>
+                  <idno type="fn">WR-03-01-03_n0055.xml</idno>
+                  <author ref="#wr-person-0141">Hofmannsthal, Hugo v.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">HOFMANNSTHAL: DIE ALKESTIS DES EURIPIDES.</fw>
+            </fw>
+            <lg>
+               <l>Und dafür solch ein Opfer! Pfui! Die schönsten</l>
+               <l>Früchte bringt man wohl den Gartengöttern,</l>
+               <l>Damit der wilde Wind in Sommernächten</l>
+               <l>Die schlechte Vogelscheuche uns verschone?!</l>
+               <l>Nein! Dass er nicht die edlen Äste breche,</l>
+               <l>Die Träger goldner Frucht! — Um einen König,</l>
+               <l>Um einen starken König über Männer</l>
+               <l>Und Land und Flüsse, einen reichen König</l>
+               <l>Hat <hi rend="text-spaced">diese</hi> sterben dürfen, nicht um einen,</l>
+               <l>Der eines Königs Puppe. Hör’ Herakles:</l>
+               <l>Mir starb kein Nahverwandter, nein, ein Weib,</l>
+               <l>Zwar nöthig hier im Haus, doch eine Fremde.</l>
+               <l>Sie blieb nach ihres Vaters Tod als Waise</l>
+               <l>Bei uns. Gleichviel. Todt sind die Todten. Geht,</l>
+               <l>Schliesst auf die Fremdenhallen. Du lauf hin</l>
+               <l>Und heiss’ sie Speisen bringen für den Gast,</l>
+               <l>Nur hinter ihm verschliesst die Thür, ihn soll</l>
+               <l>Es nicht im Schmausen stören, wenn sie hier</l>
+               <l>Die Todtenlieder singen, wie sich’s ziemt.</l>
+            </lg>
+            <p>(Er schliesst mit schwankender Stimme.)</p>
+            <lg>
+               <l>Geh’ <milestone unit="2dots"/> jetzt <milestone unit="2dots"/> hinein <milestone unit="2dots"/> verzeih’ <milestone unit="2dots"/> Du siehst mich <milestone unit="2dots"/> später!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Herakles</hi>.</p>
+            <lg>
+               <l>Zum König Diomedes geht mein Weg.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der alte Mann</hi>.</p>
+            <lg>
+               <l>Da musst Du über öde düstre Berge</l>
+               <l>Wo alles Leben starrt und alles Licht</l>
+               <l>Von grundlos tiefen Weihern stumm verschluckt wird.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Jüngling</hi>.</p>
+            <lg>
+               <l>Doch <hi rend="text-spaced">was</hi> entreissen willst Du diesem König?</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Herakles</hi>.</p>
+            <lg>
+               <l>Kein schönes Weib, Dein Auge blitzt umsonst:</l>
+               <l>Nur seine Rosse brauch ich —</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Irgend einer</hi>.</p>
+            <lg>
+               <l>Weh’, die wilden!</l>
+               <l>Die aus den Nüstern Feuer sprüh’n und denen</l>
+               <l>Statt Heu lebend’ge Menschen in die Krippe</l>
+               <l>Zu grauenvollem Frass geworfen werden! <milestone unit="3dots"/>
+               </l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Herakles</hi>.</p>
+            <lg>
+               <l>Die eben locken meinen Herrn, Eurystheus,</l>
+               <l>Den König, dem ich diene. Ich begreif’s,</l>
+               <l>Dass wer die Hesperidenäpfel hat</l>
+               <l>Und wer der Amazonenkönigin</l>
+               <l>Knirschenden Gürtel seiner jungen Tochter</l>
+               <l>Zum Zierat um die Mitte legen kann,</l>
+               <l>Dass der im Stall gerade nur die Rosse</l>
+               <l>Des Diomedes will.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stimmen</hi>.</p>
+            <lg>
+               <l>Der König kommt!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <p>(Admet, in Trauerkleidung tritt aus dem Hause).</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Admet</hi>.</p>
+            <lg>
+               <l>Ich grüsse Dich, Herakles, Sohn des Zeus.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-01_n0016.xml" prev="WR-01-01-01_n0015.xml" next="WR-01-01-01_n0017.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 1, S. 16</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0016"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-11-15">15 11 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0007">
+                  <title level="a">Politisches Temperament</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="16" to="18"/>
+                  <idno type="fn">WR-01-01-01_n0016.xml</idno>
+                  <author ref="#wr-person-0007">Schik, F.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>POLITISCHES TEMPERAMENT.</title>
+            </ab>
+            <p>Die Wirkung, die eine politische Idee hervorzurufen<lb/>
+imstande ist, wird bedingt durch den Gehalt einer Zeit und<lb/>
+die Mischung, welche in der den politischen Gedanken auf-<lb break="no"/>
+nehmenden Individualität jeweilig vorherrscht.</p>
+            <p>Ein reiner politischer Gedanke ist für den praktischen<lb/>
+Gebrauch nicht haltbar; es müssen ihm Ingredienzien bei-<lb break="no"/>
+gemengt werden, welche rasch an seine Consequenzen-<lb break="no"/>
+peripherie befördern und ermöglichen, seinen Umfang leicht<lb/>
+zu umkreisen. Dem Gedanken dient als Vehikel das Tempera-<lb break="no"/>
+ment. Unter politischem Temperament versteht man die Eigen-<lb break="no"/>
+schaft, eine Sache so vorzubringen, dass in Anderen zugleich<lb/>
+individuelle Nebenvorstellungen entstehen; diese dienen als<lb/>
+treibende Kräfte für das Aufgenommene und erzeugen so-<lb break="no"/>
+viel Temperament, als für den Gegenstand nöthig ist: das<lb/>
+politische Temperament des Einen erzeugt Gebrauchstempe-<lb break="no"/>
+rament in Anderen. Die Lebhaftigkeit, mit der ein politischer<lb/>
+Gedanke in die Oeffentlichkeit getragen wird, ist für seine<lb/>
+fruchtbare organische Weiterentwicklung von entscheidender<lb/>
+Bedeutung. Im politischen Leben geht der Producent eines<lb/>
+fruchtbaren Gedankens, wenn er nicht das den Umständen<lb/>
+entsprechende Temperament aufzubringen vermag, der Ver-<lb break="no"/>
+breitung dieses Gedankens verlustig. Der Gedanke bleibt so<lb/>
+lange steril, bis eine Persönlichkeit entsprechendes Tempera-<lb break="no"/>
+ment für ihn aufbringt; diese gilt dann als der eigentliche<lb/>
+Urheber. Es kommt also in der Politik weniger auf die Pro-<lb break="no"/>
+ducirung neuer Gedanken an, als vielmehr auf die Lebhaftig-<lb break="no"/>
+keit, mit welcher sie gebracht werden.</p>
+            <p>Jeder Gedanke hat aber die Lebhaftigkeitsgrenze in<lb/>
+sich. Das Temperament muss die Kraft haben, sich wohl-<lb break="no"/>
+berechnet zu dosiren, sich zu bändigen bis zur Ruhe und<lb/>
+aufzuschnellen bis zur Ekstase.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

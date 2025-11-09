@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-07_n0247.xml" prev="WR-01-01-07_n0246.xml" next="WR-01-01-07_n0248.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 7, S. 247</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="07"/>
+                        <biblScope unit="page" n="n0247"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-02-15">15 2 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0077">
+                  <title level="a">Stimmungen</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 7</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="247" to="248"/>
+                  <idno type="fn">WR-01-01-07_n0247.xml</idno>
+                  <author ref="#wr-person-0035">Neumann, Alfred</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>STIMMUNGEN.<lb/>
+Von <rs type="person" key="">Alfred Neumann</rs> (Wien).</title>
+            </ab>
+            <p>Eines der grossen Kaffeehäuser in der Mitte der Stadt,<lb/>
+zwei Uhr Nachts.</p>
+            <p>Der grosse Lesetisch vom elektrischen Lichte grell be-<lb break="no"/>
+leuchtet; die dunkelrothen Sammtfauteuils, die am Tage ein<lb/>
+so anheimelnd einladendes Aussehen haben, erglänzen jetzt<lb/>
+unter den allzu starken Lichtwellen in einem gespensterhaften<lb/>
+Schimmer.</p>
+            <p>Sie erinnern an Blut, dickes, träg hervorquellendes<lb/>
+Blut <milestone unit="3dots"/>
+            </p>
+            <p>Seltsamer Gedanke das für ein grosses Kaffeehaus in<lb/>
+der Mitte der Stadt um zwei Uhr Nachts!</p>
+            <p>Ein paar Spieler sitzen im Nebenzimmer bei ihrer Piquet-<lb break="no"/>
+partie. Eintönig klingt es, wenn sie ihre Karten ansagen.</p>
+            <p>»Drei Ass« <milestone unit="3dots"/> »Drei Könige <milestone unit="3dots"/>« »Drei Damen <milestone unit="3dots"/>«</p>
+            <p>Unwillkürlich setzt der einsame Gast am Lesetisch in<lb/>
+seiner Arbeit aus. Vor ihm liegt ein mächtiger Stoss von<lb/>
+Zeitungen, die er längst gelesen, Schreibzeug und Papier.</p>
+            <p>Bis jetzt hat er emsig geschrieben, unbekümmert um<lb/>
+die Leute neben ihm; als er gegen zehn Uhr anlangte, war<lb/>
+es noch gedrängt voll, voll von lebenslustigen Menschen, die<lb/>
+sich ein paar Stunden vergnügen wollten. Sie störten ihn<lb/>
+weder mit ihren Reden noch mit ihren Spielen, er hat fleissig<lb/>
+geschrieben und geschrieben.</p>
+            <p>Nur einmal hat er aufgehört und gehorcht — als ein<lb/>
+junger Mann, der eben die vierte Carambolepartie an seinen<lb/>
+Partner verlor, zu seiner Begleiterin, einer stark geputzten<lb/>
+jungen Dame, bemerkte:</p>
+            <p>»Qui a malheur au jeu a bonheur en amour.«</p>
+            <p>Die stark geputzte junge Dame lächelte affectirt, denn<lb/>
+sie verstand nicht, was ihr Galan meinte. Das gehörte nicht<lb/>
+zu ihrem Beruf. Der Mann am Lesetisch aber sann und sann.</p>
+            <p>»Qui a malheur en amour — qu’est-ce qu’il a alors?« <milestone unit="3dots"/>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

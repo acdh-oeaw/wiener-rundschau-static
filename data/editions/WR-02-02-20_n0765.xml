@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-20_n0765.xml" prev="WR-02-02-20_n0764.xml" next="WR-02-02-20_n0766.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 20, S. 765</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="20"/>
+                        <biblScope unit="page" n="n0765"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-09-01">1 9 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0486">
+                  <title level="a">Orphisches Lied</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 20</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="20">20</biblScope>
+                  <biblScope unit="page" from="763" to="765"/>
+                  <idno type="fn">WR-02-02-20_n0763.xml</idno>
+                  <author ref="#wr-person-0019">Christomanos, Constantin</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">ORPHISCHES LIED</fw>
+               <fw type="pn">765</fw>
+            </fw>
+            <lg>
+               <l>Dann</l>
+               <l>schleicht die schwarze nacht heran</l>
+               <l>und scheucht den leidenswind hin- weg</l>
+               <l>und raubt die blauen berge des sehnens</l>
+               <l>und trinkt die wogen der liebes- wonne /</l>
+               <l>die singenden /</l>
+               <l>die sonnegeküssten <milestone unit="3dots"/>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <milestone unit="2dots"/> Leise stöhnt</l>
+               <l>die föhre im dunkel</l>
+               <l>und klagt zu den Sternen <milestone unit="3dots"/>
+               </l>
+            </lg>
+            <lg>
+               <l>— Wie eine föhre stöhnt</l>
+               <l>meine seele im dunkel</l>
+               <l>und klagt zu den Sternen <milestone unit="3dots"/>
+               </l>
+            </lg>
+            <p>(<date>1891</date>.) <rs type="person" key="">Constantin Christomanos</rs>.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

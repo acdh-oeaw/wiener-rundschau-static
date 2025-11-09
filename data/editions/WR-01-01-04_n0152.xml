@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-04_n0152.xml" prev="WR-01-01-04_n0151.xml" next="WR-01-01-04_n0153.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 4, S. 152</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="04"/>
+                        <biblScope unit="page" n="n0152"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-01-01">1 1 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0043">
+                  <title level="a">Der Fall Miss Vaughan</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 4</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="147" to="152"/>
+                  <idno type="fn">WR-01-01-04_n0147.xml</idno>
+                  <author ref="#wr-person-0025">Panizza, Oscar</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">152</fw>
+               <fw type="ctext">PANIZZA.</fw>
+            </fw>
+            <p rend="no-intend">trois-points.« 2 vols. Paris <date>1885</date>. Dann erschienen noch andere: »Con-<lb break="no"/>
+fessions d’un ex-libre-penseur«, <date>1887</date>, »La corruption fin de siècle«,<lb/>
+               <date>1890</date>, »Les loges androgynes du maçonnerie« u. a., in denen er die<lb/>
+Freimaurer mit den schmutzigsten Invectiven verfolgte. Aber — ich<lb/>
+fürchte, die Herren Abbés haben eine schlechte Capitalsanlage in Taxil ge-<lb break="no"/>
+macht. Wenn sie glaubten, seine Bücher möchten eine ähnliche Verkaufs-<lb break="no"/>
+kräftigkeit aufweisen, wie »Le vrai Bénédictin« und »La grande Char-<lb break="no"/>
+treuse« — hier ist allerdings die <hi rend="text-spaced">grüne</hi> Sorte sehr beliebt — so<lb/>
+haben sie sich gründlich getäuscht. Taxil’s Bücher gingen nicht, denn<lb/>
+so dumm ist das Publicum doch nicht, sich vom selben Verfasser vor<lb/>
+               <date>1885</date> den Teufel weiss und nach <date>1885</date> den Teufel schwarz malen zu<lb/>
+lassen.</p>
+            <p>Nun hat Taxil mit jenem krankhaft-wahnsinnigen Eifer, der Con-<lb break="no"/>
+vertiten eigen zu sein pflegt, einen Hauptschlag gewagt und das<lb/>
+2000 Seiten starke, giftig-grüne, antideutsche, pseudonyme, mit den<lb/>
+amerikanischen Seidenunterhosen der Miss Vaughan pikant gemachte,<lb/>
+prachtvoll schwefel-blau-grüne Werk »Le Diable au dixneuvième siècle«<lb/>
+erscheinen lassen — ein Capitalhirsch von einem deutschen Verleger<lb/>
+druckt es nach — und nun ist der zeisiggrüne Teufel vor der ganzen<lb/>
+gebildeten Welt, ja vor Köchinnen und Dienstmädchen, vor französischen<lb/>
+Ministern und russischen Schiffen blamirt.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

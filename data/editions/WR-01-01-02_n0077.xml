@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-02_n0077.xml" prev="WR-01-01-02_n0076.xml" next="WR-01-01-02_n0078.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 2, S. 77</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0077"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-01">1 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0021">
+                  <title level="a">Peter Altenberg</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="73" to="77"/>
+                  <idno type="fn">WR-01-01-02_n0073.xml</idno>
+                  <author ref="#wr-person-0009">Schäffer, Emil</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">PETER ALTENBERG.</fw>
+               <fw type="pn">77</fw>
+            </fw>
+            <p rend="no-intend">Nagel, dem räthselhaften Fremden in den »Mysterien«. Und wie<lb/>
+es in diesem leider viel zu wenig gewürdigten Roman Capitel<lb/>
+gibt, die man, ohne den Gang der <hi rend="text-spaced">äusseren</hi> Handlung zu<lb/>
+hemmen, ganz gut dem Buche entnehmen und als Studien<lb/>
+über Tolstoi oder den Begriff des Genies veröffentlichen<lb/>
+könnte, so finden sich auch in Peter Altenberg’s Buche<lb/>
+einzelne Skizzen, die weder eine äussere noch eine innere<lb/>
+Handlung berichten, aber doch als Commentar für das Ver-<lb break="no"/>
+ständniss der anderen nothwendig sind; denn sie bieten in<lb/>
+meisterhaft gedrängter Form den Extract seiner <hi rend="text-spaced">Welt</hi>- <hi rend="text-spaced">und<lb/>
+Kunstanschauung</hi>.</p>
+            <p>Was seine Kunstanschauung angeht, so weist sie manchen<lb/>
+Berührungspunkt mit der Friedrich Nietzsche’s auf. Wenn<lb/>
+dieser verkündet: »Damit es Kunst gibt, damit es irgend ein<lb/>
+ästhetisches Thun und Schauen gibt, dazu ist eine physio-<lb break="no"/>
+logische Vorbedingung unumgänglich: <hi rend="text-spaced">der Rausch</hi>«;<lb/>
+und Altenberg sagt: »Alles tief vom Innersten heraus<lb/>
+Lebendige hat seine Räusche, seine Exaltationen, seine Ex-<lb break="no"/>
+centricitäten, seine Kindlichkeiten,« so fühlen Beide als grosse<lb/>
+Künstler und damit auch — als <hi rend="text-spaced">Griechen</hi>. Doch bald<lb/>
+scheiden sich ihre Wege. Mit schmerzlich-schrillem Hohn-<lb break="no"/>
+gelächter wendet sich Zarathustra - Nietzsche vom Kreuze<lb/>
+ab, an dessen Stamm Peter Altenberg niedersinkt; denn<lb/>
+er betet in Christus den idealen Menschen an, und seine<lb/>
+Liebe zu dem Gekreuzigten ist ihm die »Liebe zu uns selbst,<lb/>
+zu unserem wahren, reinen, leidenschafterlösten Wesen«.<lb/>
+Mit derselben Gluth aber bewundert er auch das Griechen-<lb break="no"/>
+thum, die Materie, überwunden durch Schönheit! In Be-<lb break="no"/>
+wegung geträumt, in Grazie verzaubert! Und so darf man<lb/>
+sein Sehnen vielleicht in den scheinbar paradoxen Begriff<lb/>
+               <hi rend="text-spaced">christliche Antike</hi> fassen: Christus mit dem Sonnenblick<lb/>
+des fernhintreffenden Apoll und Madonna, lächelnd wie<lb/>
+Anadyomene, gebieten einer Welt der Liebe, die doch in all<lb/>
+ihren Poren durchtränkt ist von leuchtendster, blühendster<lb/>
+Sommerschönheit.</p>
+            <p>Breslau. <rs type="person" key="">Emil Schäffer</rs>.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

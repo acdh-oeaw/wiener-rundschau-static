@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-01_n0011.xml" prev="WR-04-01_n0010.xml" next="WR-04-01_n0012.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 1, S. 11</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0011"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0785">
+                  <title level="a">Die Kaiserin</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 1</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="1" to="28"/>
+                  <idno type="fn">WR-04-01_n0001.xml</idno>
+                  <author ref="#wr-person-0232">Khnopff, Fernand</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0788">
+                  <title level="a">Rossetti*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 1</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="9" to="11"/>
+                  <idno type="fn">WR-04-01_n0009.xml</idno>
+                  <author ref="#wr-person-0206">Lindner, Anton</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0789">
+                  <title level="a">Fünf Sonette</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 1</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="9" to="11"/>
+                  <idno type="fn">WR-04-01_n0009.xml</idno>
+                  <author ref="#wr-person-0225">Rossetti, Dante Gabriel</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">ROSSETTT: FUENF SONETTE.</fw>
+            </fw>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>SCHLAFLOSE TRÄUME.</title>
+            </ab>
+            <lg>
+               <l>Dunkel umgürtet, doch von Athem lind,</l>
+               <l>Einzig von einem Flimmerstern entfacht;</l>
+               <l>Sehnsüchtig wie des Jünglings Nächte sind,</l>
+               <l>Der in vorahnender Begierde wacht,</l>
+            </lg>
+            <lg>
+               <l>O schweigende und hoffnungslose Nacht!</l>
+               <l>Dein Flügel fächelt meine Augen blind</l>
+               <l>Und streift mein Kissen wie ein leiser Wind</l>
+               <l>Vom jenseitigen Gefilde deiner Macht.</l>
+            </lg>
+            <lg>
+               <l>O dunkel und von Todesahnen schwer</l>
+               <l>Bist du, wenn uns die Liebe ihre Hut</l>
+               <l>In deinen Schattengängen nicht gewährt.</l>
+            </lg>
+            <lg>
+               <l>Einsame Nacht! Für immer nun verheert</l>
+               <l>Von meiner ungestümen Thränenflut,</l>
+               <l>Und mir wie eine Wüste weit und leer!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>HEIMLICHER ABSCHIED.</title>
+            </ab>
+            <lg>
+               <l>Da unsre Rede von der Wolkenart</l>
+               <l>Und Sternenfährte der Geschicke gieng,</l>
+               <l>Suchte ihr Blick ein fernes Ziel und ward</l>
+               <l>Umflorter, da ich ihn von ihr empfieng.</l>
+            </lg>
+            <lg>
+               <l>Doch, eingedenk, wie kurz und wie gering</l>
+               <l>Das Glück und mit ihm unsre ganze Fahrt,</l>
+               <l>Gab, dürstender wie ich es sonst gewahrt,</l>
+               <l>Sie mir die Lippen, als ich sie umfieng.</l>
+            </lg>
+            <lg>
+               <l>So, wie wir auch gerungen, unsern Bund</l>
+               <l>Von Schicksalswegen und =Beschluss abseits</l>
+               <l>Einzig zu festigen durch unsern Schwur —</l>
+            </lg>
+            <lg>
+               <l>Ein Sternenwille wies uns unsre Spur,</l>
+               <l>Und unsrer Liebe Denkmal sinkt bereits</l>
+               <l>Im Thal der Schatten modernd in den Grund <milestone unit="2dots"/>
+               </l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
+      </body>
+   </text>
+</TEI>

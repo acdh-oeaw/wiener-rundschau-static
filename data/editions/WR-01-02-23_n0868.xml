@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-23_n0868.xml" prev="WR-01-02-23_n0867.xml" next="WR-01-02-23_n0869.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 23, S. 868</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="23"/>
+                        <biblScope unit="page" n="n0868"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-10-15">15 10 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0280">
+                  <title level="a">Seelen-Freundschaft</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 23</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="868" to="869"/>
+                  <idno type="fn">WR-01-02-23_n0868.xml</idno>
+                  <author ref="#wr-person-0109">Karasek, Jiri</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>SEELEN-FREUNDSCHAFT.<lb/>
+Aus dem Czechischen von <rs type="person" key="">Jiri Karasek</rs>—Kniha aristokratická.<lb/>
+Deutsch von <rs type="person" key="">Eugen Trager</rs>.</title>
+            </ab>
+            <p>Du, der du mit mir verbrüdert durch die lärmenden<lb/>
+Strassen des Lebens gehst, Freund, dessen Träume Düfte<lb/>
+ausgossen in die stolze Einsamkeit meiner Tage, singen will<lb/>
+ich in Farben meines Liedes die glühende Neigung deiner<lb/>
+Seele und in Wellen der Musik, in Rhythmen melancholischer<lb/>
+Strophen dir sagen: Bruder!</p>
+            <p>Rosen blühen uns nicht im irdischen Garten, wo andere<lb/>
+pflücken. Freuden laden uns nicht in den Saal, wo anderen<lb/>
+Festmähler bereitet. Vereinsamt gehen wir, die Augen vom<lb/>
+Nebel verschleiert, unserer Sonne nach, der unbekannten,<lb/>
+wie Waller trunken vom Duft, der dem Muskate entquoll,<lb/>
+der Minze entströmte.</p>
+            <p>Auf unsere Wege fallen Schatten wie von schwarzen<lb/>
+Fahnen, die ausgehängt sind am Begräbnisstage. In unseren<lb/>
+Seelenhäfen faulen langsam die abenteuerlichen Schiffe fremder<lb/>
+Zonen. Und Wunsch und Sehnsucht, die wie kranke Geigen<lb/>
+in unseren Seelen weinen, umwehen uns mit unbekanntem<lb/>
+Beben der grenzenlosen, zerstäubten, kosmischen Trauer.</p>
+            <p>Verbannte in dem Strassenkoth des Heute, unter dem<lb/>
+trüben, rauchbeschmutzten Himmel, die wir geboren wurden<lb/>
+für weisse Tage froher Feste und für harmonisch feine,<lb/>
+glühnde Farben; wir tragen in der Seele der Linien Schön-<lb break="no"/>
+heit und das Lächeln, die in erblassten Wangen blühen, und<lb/>
+dort, wo uns das Hohngelächter verwunden will, dort träumen<lb/>
+wir von der Paläste marmornen Schöne.</p>
+            <p>Und von der Sonne, von dem hellen Himmel, der blau<lb/>
+und goldig fluthet, träumen wir, von heiligen Hainen mit<lb/>
+schlanken Gottheiten in stolzer Nacktheit; und unsere Träume<lb/>
+schweifen in die Ferne, wie Pilgerzüge nach geweihten Orten,<lb/>
+und unsere Gedanken folgen ihnen wie müde Wolken dem<lb/>
+Fluge weisser Vögel.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

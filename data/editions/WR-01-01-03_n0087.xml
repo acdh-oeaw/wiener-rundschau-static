@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-03_n0087.xml" prev="WR-01-01-03_n0086.xml" next="WR-01-01-03_n0088.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 3, S. 87</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0087"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-15">15 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0025">
+                  <title level="a">Kind Gottes</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="81" to="87"/>
+                  <idno type="fn">WR-01-01-03_n0081.xml</idno>
+                  <author ref="#wr-person-0016">Janitschek, Maria</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KIND GOTTES.</fw>
+               <fw type="pn">87</fw>
+            </fw>
+            <p rend="no-intend">merkwürdigen Geschichte, die der alte Schäfer ihm einstmals<lb/>
+erzählt hatte.</p>
+            <p>Es kam ein Geheimniss in ihr vor, das kein Mensch<lb/>
+auflösen konnte. In dem Kopfe des Kindes begannen die<lb/>
+wunderlichsten Vorstellungen zu erwachen. Auf Alles, was<lb/>
+ihn bewegte, hatte er noch Aufklärung erhalten, warum<lb/>
+gerade über dies nicht? Warum hatte die Mutter zu weinen<lb/>
+und der Alte zu schweigen begonnen, als er es aussprach?</p>
+            <p>Liebe! Liebe!</p>
+            <p>In der Nacht erwachte er plötzlich und setzte sich auf.<lb/>
+Es war ihm so wunderlich. Er hörte Glocken klingen, und<lb/>
+der Athem wollte ihm schier vergehen vor dem Wehen der<lb/>
+zahllosen weissen Flügel, die durchs Zimmer schwirrten.</p>
+            <p>Wem gehörten sie alle diese schmalen, hohen, schneeigen<lb/>
+Schwingen? Ein kühler Wind entsprang ihrer Bewegung.<lb/>
+Das Kind schaute und schaute. Dann legte es die Hand auf<lb/>
+die Schulter der schlafenden Mutter. »Warum läuten die<lb/>
+Glocken? Warum sind alle diese Flügel geöffnet?« Aber die<lb/>
+Mutter gab keine Antwort, sie schlief weiter. Mit einemmale<lb/>
+kniete der Knabe im Bette auf und breitete die Arme gegen<lb/>
+etwas aus. »Das ist sie, das ist sie <milestone unit="3dots"/>«</p>
+            <p>Die Frau fuhr erschreckt empor und sah ihn lächelnd<lb/>
+zurücksinken.</p>
+            <p>»Nimm ihn gnädig auf, Herr Jesu Christ,« sagte sie und<lb/>
+faltete die Hände <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

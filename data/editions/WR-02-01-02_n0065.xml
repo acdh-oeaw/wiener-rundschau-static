@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-02_n0065.xml" prev="WR-02-01-02_n0064.xml" next="WR-02-01-02_n0066.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 2, S. 65</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0065"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-12-01">1 12 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0314">
+                  <title level="a">Decorative Kunst</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="59" to="65"/>
+                  <idno type="fn">WR-02-01-02_n0059.xml</idno>
+                  <author ref="#wr-person-0121">Cantacuzène, Elsa Prinzessin</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DECORATIVE KUNST.</fw>
+               <fw type="pn">65</fw>
+            </fw>
+            <p>Den Schluss des Heftes bilden die reichen und anregenden »Cor-<lb break="no"/>
+respondenzen«. Hier näher auf sie einzugehen, hätte, da man ja ihren<lb/>
+sachlichen Inhalt doch nicht wiedergeben könnte, wenig Zweck. Man<lb/>
+lese sie eben selbst, diese berichtenden Briefe, die aus aller Herren<lb/>
+Ländern einlaufen und Kunde bringen vom frischen Lenzesleben, das<lb/>
+überall erwacht, von den tausend Händen, die sich allerorten regen im<lb/>
+Dienste modernen, decorativen Gestaltens.</p>
+            <p>Ja, es pulsirt gesund und lebendig, seitdem die Kunst von ihrem<lb/>
+isolirenden Sockel herabgestiegen, seitdem sie sich wieder bewusst ge-<lb break="no"/>
+worden, dass es ausser den einsamen, himmelsnahen Höhen, auf die<lb/>
+nur die wenigen ganz Grossen ihr zu folgen berufen sind, noch andere<lb/>
+Stätten gibt, die ihres Nahens lange geharrt. Nun reicht sie dem Hand-<lb break="no"/>
+werker führend die göttliche Hand. Und in dieser »ihrer Rückkehr<lb/>
+zum Gewerbe, von wo jede starke künstlerische Epoche immer ihren<lb/>
+Anfang genommen hat, hier allein liegt der Weg, auf dem eine neue<lb/>
+Kunst in das Volk dringen kann und soll. Noch sind nur glänzende<lb/>
+Anfänge zu verzeichnen. Fern liegt es uns, ihnen eine unbedingte<lb/>
+bleibende Bedeutung zuzumessen. Aber der verständigen Förderung,<lb/>
+des wärmsten Interesses sind sie werth.« Dass die Herausgeber der<lb/>
+neuen Zeitschrift diese Worte, mit denen ich schliessen möchte, nicht<lb/>
+nur in ihr Programm geschrieben, sondern sie auch zur That werden<lb/>
+lassen in weitestgehender, der Sache würdigster Weise, dess’ sei ihnen<lb/>
+Dank! Möge das Publicum sich der Gabe werth zeigen und dem<lb/>
+wahrhaft vornehmen, gediegenen Blatte seine Gunst nicht versagen!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

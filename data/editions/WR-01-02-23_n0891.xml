@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-23_n0891.xml" prev="WR-01-02-23_n0890.xml" next="WR-01-02-23_n0892.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 23, S. 891</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="23"/>
+                        <biblScope unit="page" n="n0891"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-10-15">15 10 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0285">
+                  <title level="a">Die Verbrecher in den decorativen Künsten</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 23</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="891" to="896"/>
+                  <idno type="fn">WR-01-02-23_n0891.xml</idno>
+                  <author ref="#wr-person-0112">Ferri, Prof. Enrico</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIE VERBRECHER IN DEN DECORATIVEN<lb/>
+KÜNSTEN.<lb/>
+Von Professor <rs type="person" key="">
+                     <hi rend="text-spaced">Enrico Ferri</hi>
+                  </rs> (Fiesole).<lb/>
+Autorisirte Uebersetzung von <rs type="person" key="">Wilhelm Thal</rs>.</title>
+            </ab>
+            <p>Die bedeutenderen Künstler haben stets die hervorragenden Cha-<lb break="no"/>
+raktere der Verbrechertypen erfasst. In der That hat sich die Kunst<lb/>
+niemals allzu weit von der Wirklichkeit entfernt. Sie hat sie sogar in<lb/>
+den Zeiten, da der asketische und philosophische Idealismus die Blicke<lb/>
+bis zum Delirium der fixen Idee in der Betrachtung einer subjectiven<lb/>
+Welt, dem idealen Reiche der Liebe und der Gerechtigkeit hypnotisirte,<lb/>
+nicht völlig verkannt.</p>
+            <p>Ganz kürzlich erst hat die Wissenschaft die Linien der physischen<lb/>
+und psychischen Physiognomie des Verbrechens präcisiren und vervoll-<lb break="no"/>
+ständigen können; doch ihre ausschlaggebendsten Beobachtungen, die<lb/>
+scheinbar verborgensten Wahrheiten sind von den Künstlern oft vor-<lb break="no"/>
+weggenommen worden.</p>
+            <p>So sind z. B. die Züge der maurischen Race von Bernini künst-<lb break="no"/>
+lerisch neu belebt worden durch die Statuen, die die »Fontana<lb/>
+Agonale« in Rom schmücken und von Tacca in den Mauern des dem<lb/>
+Erzherzog Ferdinand I. in Livorno errichteten Denkmals; doch diese<lb/>
+Meisterwerke der Sculptur besitzen nicht die photographische Genauig-<lb break="no"/>
+keit der Wissenschaft.</p>
+            <p>Ebenso anerkennt Charcot die Stigmate aus charakterischen Posen<lb/>
+der von schwerer Hysterie oder Hystero-Epilepsie befallenen Kranken<lb/>
+in den Missgestalteten und Besessenen der grossen Maler; z. B. in der<lb/>
+jungen Besessenen der Verklärung Christi von Raphael.1)</p>
+            <p>Die Kunst, dieser Augenblicksfunken des individuellen Genius,<lb/>
+und das Sprichwort, diese jahrhundertalte Ausströmung des Collectiv-<lb break="no"/>
+genius haben fast stets die Rechte der Wirklichkeit aufrecht erhalten.<lb/>
+In Bezug auf die Verbrecher und ihre psychologischen und physiolo-<lb break="no"/>
+gischen Charakteristika haben sie positive Grundlagen der Verirrungen<lb/>
+einer confusen Metaphystik entgegengesetzt, die sich in der Philosophie,<lb/>
+in der Pädagogik — in Theorie und Praxis — allzu lange und allzu</p>
+            <milestone unit="hr"/>
+            <note type="footnote">
+               <p>1) Charcot, les Sauvniaques dans l’art, Paris <date>1887</date>. Siehe auch Tebaldi, Ver-<lb break="no"/>
+irrungen und Abweichungen der Physiognomie und des Ausdruckes, und als An-<lb break="no"/>
+hang: Ueber den Ausdruck des Wahnsinns in der Kunst, Padua <date>1884</date>, und die<lb/>
+übrigen in meiner illustrirten Studie über die Physiognomie des Mörders citirten<lb/>
+Autoren (der Mörder in der criminalistischen Anthropologie) Turin, <date>1895</date>, Ca-<lb break="no"/>
+pitel III.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

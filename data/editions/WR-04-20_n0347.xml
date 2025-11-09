@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-20_n0347.xml" prev="WR-04-20_n0346.xml" next="WR-04-20_n0348.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 20, S. 347</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="20"/>
+                        <biblScope unit="page" n="n0347"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0956">
+                  <title level="a">Aus der Ballade des Stockhauses zu Reading</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 20</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="20">20</biblScope>
+                  <biblScope unit="page" from="345" to="349"/>
+                  <idno type="fn">WR-04-20_n0345.xml</idno>
+                  <author ref="#wr-person-0068">Wilde, Oscar</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">WILDE: BALLADE DES STOCKHAUSES ZU READING.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <lg>
+                        <l>Mit Grimassen und Spässen, so nahten sie,</l>
+                        <l>Die zärtlichen Irrwische, Hand in Hand,</l>
+                        <l>Rund herum im gespenstischen Rund</l>
+                        <l>Drehte sich die Saraband,</l>
+                        <l>Und die verdammten Grotesken schlangen</l>
+                        <l>Arabesken,</l>
+                        <l>Wie der Wirbelwind in den Sand!</l>
+                     </lg>
+                     <lg>
+                        <l>Mit Pirouetten wie Marionetten</l>
+                        <l>Hüpften sie auf gespitzten Zehen,</l>
+                        <l>Doch wie Flöten der Furcht in die Ohren</l>
+                        <l>klang</l>
+                        <l>Ihrer Maskenflitter Wehen,</l>
+                        <l>Und sie sangen laut und sie sangen lang,</l>
+                        <l>Um zu wecken die Todten mit ihrem Gesang.</l>
+                     </lg>
+                     <lg>
+                        <l>»<hi rend="text-spaced">Oho</hi>!«, so sangen sie, »<hi rend="text-spaced">die Welt ist</hi>
+                        </l>
+                        <l>
+                           <hi rend="text-spaced">groß</hi>,</l>
+                        <l>
+                           <hi rend="text-spaced">Doch gefesselte Glieder geh’n lahm</hi>!</l>
+                        <l>
+                           <hi rend="text-spaced">Und wirfst du die Würfel ein</hi>-, <hi rend="text-spaced">zwei</hi>-</l>
+                        <l>
+                           <hi rend="text-spaced">mal</hi>
+                           <hi rend="text-spaced">bloß</hi>,</l>
+                        <l>
+                           <hi rend="text-spaced">So ist das ein edles Spiel</hi>,</l>
+                        <l>
+                           <hi rend="text-spaced">Doch niemals gewinnt</hi>, <hi rend="text-spaced">der da spielt</hi>
+                        </l>
+                        <l>
+                           <hi rend="text-spaced">mit der Sünd</hi>’</l>
+                        <l>
+                           <hi rend="text-spaced">In der Schande geheimem Schloss</hi>.«</l>
+                     </lg>
+                     <milestone unit="asterisk"/>
+                     <lg>
+                        <l>Nicht waren aus Luft bloß und eitel Schaum</l>
+                        <l>Diese Wesen, die uns umgaukelten im</l>
+                        <l>Raum;</l>
+                        <l>Für uns Menschen, deren Leben in Ketten</l>
+                        <l>man warf,</l>
+                        <l>Und deren Füße nicht frei durften geh’n,</l>
+                        <l>Bei den Wunden des Christ’! schienen sie</l>
+                        <l>lebende Wesen</l>
+                        <l>Und furchtbar anzuseh’n.</l>
+                     </lg>
+                     <lg>
+                        <l>Rundum, im Kreis, im Takte leis’</l>
+                        <l>Walzten sie zu neckischen Paaren;</l>
+                        <l>Mit geziertem Gebaren und verschämtem</l>
+                        <l>Wiegen</l>
+                        <l>Schwebten and’re hinauf und hinab die</l>
+                        <l>Stiegen,</l>
+                        <l>Und mit zärtlichem Blick und feinem Spott</l>
+                        <l>Belauschten sie unsere Zwiesprach’ mit</l>
+                        <l>Gott.</l>
+                     </lg>
+                     <milestone unit="asterisk"/>
+                     <lg>
+                        <l>Der Morgenwind begann sich seufzend zu</l>
+                        <l>erheben,</l>
+                        <l>Doch es war noch Nacht ringsum;</l>
+                        <l>Auf dem riesigen Webstuhl das mächtige</l>
+                        <l>Weben,</l>
+                     </lg>
+                  </cell>
+                  <cell>
+                     <lg>
+                        <l>Der Schatten zu Ende sich spann;</l>
+                        <l>Und während des Betens erfüllte ein Beben</l>
+                        <l>Uns vor der Justiz der Sonne.</l>
+                     </lg>
+                     <lg>
+                        <l>Der klagende Windhauch umheulte laut</l>
+                        <l>Die ächzenden Kerkermauern;</l>
+                        <l>Und wie ein kreisendes Zahnrad von Stahl</l>
+                        <l>Kamen die Minuten, uns zu durchschauern;</l>
+                        <l>O klagender Wind! hatten wir verdient</l>
+                        <l>Solch grausamen Seneschall?</l>
+                     </lg>
+                     <lg>
+                        <l>Und endlich sah ich, wie auf der kalk-</l>
+                        <l>weißen Wand</l>
+                        <l>Gegenüber dem harten Bett</l>
+                        <l>Der Schatten des Fenstergitters erstand,</l>
+                        <l>Wie bleierne Kreuze dorthin gestellt;</l>
+                        <l>Da wusst’ ich, dass irgendwo auf der Welt</l>
+                        <l>Gottes schreckliche Dämmerung war auf-</l>
+                        <l>geflammt.</l>
+                     </lg>
+                     <milestone unit="asterisk"/>
+                     <lg>
+                        <l>Um sechs Uhr reinigten wir unsere Zellen,</l>
+                        <l>Um Sieben war alles still,</l>
+                        <l>Doch von eines riesigen Flügels Wellen</l>
+                        <l>Schien das ganze Stockhaus erfüllt,</l>
+                        <l>Denn der Todesengel mit eisigem Hauch</l>
+                        <l>War eingetreten, zu tödten.</l>
+                     </lg>
+                     <lg>
+                        <l>Er kam nicht daher in Purpur erlaucht,</l>
+                        <l>Noch ritt er einen mondweißen Zelter;</l>
+                        <l>Drei Ellen Strick und ein Schiebebrett</l>
+                        <l>Ist alles, was der Galgen braucht;</l>
+                        <l>Mit dem Schandenstrick in des Mantels Falten</l>
+                        <l>Kam der Herold, seines Amtes zu walten.</l>
+                     </lg>
+                     <milestone unit="asterisk"/>
+                     <lg>
+                        <l>Wir waren wie Menschen, die durch ein</l>
+                        <l>Moor</l>
+                        <l>Von ekligem Dunkel sich vorwärtstasten,</l>
+                        <l>Nicht wagten wir mehr, wie Stunden zuvor,</l>
+                        <l>Unser Herz durch Gebet zu entlasten;</l>
+                        <l>Etwas war todt in jedem von uns,</l>
+                        <l>Und dies Todte war: das Hoffen.</l>
+                     </lg>
+                     <lg>
+                        <l>Denn der Menschen grimme Gerechtigkeit</l>
+                        <l>Weicht nicht ab vom geraden Wege;</l>
+                        <l>Sie trifft den Schwachen, trifft den Starken</l>
+                        <l>In unerbittlicher Fehde;</l>
+                        <l>Mit eiserner Ferse zerschmettert sie ihn,</l>
+                        <l>Ihren Vater, den Starken, die Mörderin!</l>
+                     </lg>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-21_n0821.xml" prev="WR-01-02-21_n0820.xml" next="WR-01-02-21_n0822.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 21, S. 821</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="21"/>
+                        <biblScope unit="page" n="n0821"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-09-15">15 9 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0260">
+                  <title level="a">Anarchistische Experimente</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 21</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="817" to="824"/>
+                  <idno type="fn">WR-01-02-21_n0817.xml</idno>
+                  <author ref="#wr-person-0101">Grossmann, Stefan</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">ANARCHISTISCHE EXPERIMENTE.</fw>
+               <fw type="pn">821</fw>
+            </fw>
+            <p rend="no-intend">anarchistisch in ihrer Organisation. Auch als der Cassier Paig-Mayol<lb/>
+mit der Cassa durchgeht, bleibt dieselbe zu Jedermanns Verfügung,<lb/>
+ohne dass man irgend eine »Autorität« ernennt. Auch sonst ist das<lb/>
+Experiment kein äusserliches, sondern ein gründliches, bis in die<lb/>
+letzten Instincte revoltirendes.</p>
+            <p>Es mangelt an Frauen, aber es ist einer Frau auch unbenommen,<lb/>
+wenn sie zwei Männer liebt, auch beiden anzugehören. Eines Tages<lb/>
+sagt Rossi zu einer Frau: »Hören Sie mich an, Eléda — Sie sind<lb/>
+ein ernsthaftes Weib, zu Ihnen kann man ohne Künstlichkeiten<lb/>
+reden.« Sie blickte ihm in die Augen und verstand. »Warum könnten<lb/>
+Sie mir nicht auch etwas gut sein?« »Weil ich fürchte, meinem Anni-<lb break="no"/>
+bale zu grossen Schmerz zu bereiten.« »Sprechen Sie mit ihm darüber.«<lb/>
+(Deutsche Leser wird man ersuchen müssen, über diese Episode<lb/>
+durchaus nicht zu lächeln. Es geht diese Sache freilich wider den<lb/>
+eingefressensten Instinct des Mannes, aber sie ist als Experiment zu-<lb break="no"/>
+mindest ein durchaus bedenkenswerther Versuch.) Und Annibale, ob-<lb break="no"/>
+zwar er furchtbar leidet und seinem Freunde und Nebenbuhler nicht<lb/>
+ins Gesicht sehen kann, gibt seine Eléda so frei, als sie es will. Da<lb/>
+sie nicht nur hysterisch eigensinnig wie die »Frau vom Meer« ist,<lb/>
+macht sie von dieser Freiheit den geeigneten Gebrauch. Weil es<lb/>
+Rossi insbesondere auf das Experiment angekommen ist, hat er<lb/>
+seinem Freunde einen Fragebogen vorgelegt. Es ist psychologisch ein<lb/>
+bischen primitiv, auf einem Fragebogen sich die Seele eines Menschen<lb/>
+serviren zu lassen. Aber einigen Werth hat dieses Fragespiel vielleicht<lb/>
+doch:</p>
+            <table>
+               <row>
+                  <cell>Gabst du beim Weibe die Möglichkeit zu,<lb/>
+dass es auf <hi rend="text-spaced">edle Weise</hi> mehrere Männer<lb/>
+lieben könne? <milestone unit="dots"/>
+                  </cell>
+                  <cell>Ja, aber nicht bei allen<lb/>
+Frauen.
+</cell>
+               </row>
+               <row>
+                  <cell>Glaubst du, dass die Praxis der freien Liebe<lb/>
+einen der <hi rend="text-spaced">Theilnehmer</hi> schmerzlich be-<lb break="no"/>
+rühren würde? <milestone unit="dots"/>
+                  </cell>
+                  <cell>Ja.
+</cell>
+               </row>
+               <row>
+                  <cell>Welchen besonders? <milestone unit="dots"/>
+                  </cell>
+                  <cell>Ich denke, wahrscheinlich<lb/>
+beide.
+</cell>
+               </row>
+               <row>
+                  <cell>Verspürtest du Schmerz, als Eléda dir mein<lb/>
+Anliegen vorbrachte? <milestone unit="dots"/>
+                  </cell>
+                  <cell>Nein.
+</cell>
+               </row>
+               <row>
+                  <cell>Erstaunen? <milestone unit="dots"/>
+                  </cell>
+                  <cell>Nein.
+</cell>
+               </row>
+               <row>
+                  <cell>Verachtung? <milestone unit="dots"/>
+                  </cell>
+                  <cell>Nein, niemals.
+</cell>
+               </row>
+               <row>
+                  <cell>Erniedrigung? <milestone unit="dots"/>
+                  </cell>
+                  <cell>Nein.
+</cell>
+               </row>
+               <row>
+                  <cell>Zorn gegen mich?<milestone unit="dots"/>
+                  </cell>
+                  <cell>Nicht Zorn, aber Mitleid<lb/>
+für dich.
+</cell>
+               </row>
+               <row>
+                  <cell>Hegtest du Furcht vor Lächerlichkeit? <milestone unit="dots"/>
+                  </cell>
+                  <cell>Ein wenig.
+</cell>
+               </row>
+               <row>
+                  <cell>Den Gedanken gebrochener ehelicher Keusch-<lb break="no"/>
+heit? <milestone unit="dots"/>
+                  </cell>
+                  <cell>War <hi rend="text-spaced">ich</hi> keusch?
+</cell>
+               </row>
+               <row>
+                  <cell>Ist die Achtung für dein Weib die gleiche wie<lb/>
+früher? <milestone unit="dots"/>
+                  </cell>
+                  <cell>Ja.
+</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,293 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-02_n0026.xml" prev="WR-03-01-02_n0025.xml" next="WR-03-01-02_n0027.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 2, S. 26</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0026"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0540">
+                  <title level="a">Die Schlüssel des Himmelreichs. (Zweiter Act)</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="25" to="29"/>
+                  <idno type="fn">WR-03-01-02_n0025.xml</idno>
+                  <author ref="#wr-person-0175">Strindberg, August</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">STRINDBERG: DIE SCHLÜSSEL DES HIMMELREICHS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Und Ihr?</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Ich trinke nicht!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Wohl aus Princip?</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Beileibe nicht! — Ich trank so viel in</l>
+                        <l>meiner Jugend,</l>
+                        <l>Dass nichts mehr mich berauschen kann!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Na, dann trink ich!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Ich aber geh’,</l>
+                        <l>Denn wer nicht mittrinkt, wird leicht</l>
+                        <l>lästig.</l>
+                        <l>Sorg’ nun für Dich, dort kommen Leut’!</l>
+                        <l>Gesellschaft hast Du nun beim Kruge,</l>
+                        <l>Zum mindestens, so lang er voll;</l>
+                        <l>Doch wenn Du in die Klemme kommst,</l>
+                        <l>Und nach dem Doctor Dich’s verlangt,</l>
+                        <l>So rufe nur; ich steh’ Dir bei! —</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>(Entfernt sich durch das grosse Thor.)</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="scene-start"/>
+                     <ab>
+                        <title>Zweite Scene.</title>
+                     </ab>
+                     <p>
+                        <hi rend="strong">Der Schmied</hi> (allein). (Dann) <hi rend="strong">Die Liebhaberin.</hi>
+                     </p>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Philosophie, bah! Horizont und Archimedes,</l>
+                        <l>Was kümmert’s mich, mag sich die Erde</l>
+                        <l>drehen,</l>
+                        <l>Mag sie auf Vieren kriechen!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Liebhaberin</hi>.</p>
+                     <lg>
+                        <l>O hilf! O helft mir, edler Herr!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Was stiess Euch zu, mein schönes</l>
+                        <l>Fräulein?</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Liebhaberin</hi>.</p>
+                     <lg>
+                        <l>Ich bin ein hilflos elend Weib,</l>
+                        <l>Geplündert wurd’ ich eben auf der Strasse.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Von wem? — Wer war es? Sprecht ein</l>
+                        <l>Wort</l>
+                        <l>Und stracks den Arm zu Eurem Schutze,</l>
+                        <l>Wie’s Ehrenmännern ansteht, will ich</l>
+                        <l>heben.</l>
+                        <l>Ward Eure Tugend, Eure Sittsamkeit</l>
+                        <l>verunehrt,</l>
+                        <l>Lass ich die ganze Räuberbande hängen!</l>
+                        <l>Doch sprecht nur, sagt: Wer seid Ihr?</l>
+                        <l>Und wo geschah’s? Wer ist der freche</l>
+                        <l>Thäter?</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+                  <cell>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Liebhaberin</hi>.</p>
+                     <lg>
+                        <l>Seid Ihr der Edelmann, der Ihr mir scheinet,</l>
+                        <l>So fragt mich nicht um meinen Namen.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Ich fragte nicht, ich stelle blos in Frage <milestone unit="3dots"/>
+                        </l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Liebhaberin</hi>.</p>
+                     <lg>
+                        <l>In Frage stellet, was Ihr wollt,</l>
+                        <l>Nur glaubt an meine Ehrlichkeit</l>
+                        <l>Und Tugend, an die Schmach, die ich</l>
+                        <l>erlitten <milestone unit="3dots"/>
+                        </l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Ich glaub’ daran, wie nur an Eure Schönheit,</l>
+                        <l>Die ich mit meinen offnen Augen sah,</l>
+                        <l>Wie nie zuvor dergleichen ich erschaut! —</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Liebhaberin</hi>.</p>
+                     <lg>
+                        <l>Ich wusst’ es ja: Ihr seid ein edler Mann <milestone unit="3dots"/>
+                        </l>
+                        <l>Nun denn! mein Vater wollte mich zur</l>
+                        <l>Ehe zwingen!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Ha! Nun versteh’ ich alles! — Ihr,</l>
+                        <l>Ihr liebtet einen andern!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Liebhaberin</hi>.</p>
+                     <lg>
+                        <l>Nein! — das soll mein Geheimnis sein.</l>
+                        <l>Ich bitt’ Euch: fragt nicht mehr! Erlaubet</l>
+                        <l>nur,</l>
+                        <l>Dass ich mich Eure Schwester nenne</l>
+                        <l>Und unter diesem Namen suche Schutz</l>
+                        <l>und Schirm.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Als Schwester? Herzlich gerne, edles</l>
+                        <l>Fräulein,</l>
+                        <l>Wenn Eure Schönheit, Eure edle Art</l>
+                        <l>Nicht allzutief mich stellt in Schatten</l>
+                        <l>Und unwahrscheinlich die Komödie macht.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Liebhaberin</hi>.</p>
+                     <lg>
+                        <l>Sprecht nicht von Schönheit, von der</l>
+                        <l>meinen gar,</l>
+                        <l>Das Schöne ist nur Schein!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Ein strahlend heller Schein, der wärmt</l>
+                        <l>und leuchtet.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Liebhaberin</hi>.</p>
+                     <lg>
+                        <l>Ein Irrwisch nur auf Wiesensumpf.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Das ist nicht wahr, kann nimmermehr so</l>
+                        <l>sein!</l>
+                        <l>Allein der Güte Wiederschein ist Schönheit,</l>
+                        <l>Wenn sie mit solchen Augen redet —</l>
+                        <l>Kein böses Wort von Euren Lippen</l>
+                        <l>Kann ich mir denken! Diese klare Stirne,</l>
+                     </lg>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

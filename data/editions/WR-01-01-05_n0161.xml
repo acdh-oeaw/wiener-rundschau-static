@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-05_n0161.xml" prev="WR-01-01-04_n0160.xml" next="WR-01-01-05_n0162.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 5, S. 161</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="05"/>
+                        <biblScope unit="page" n="n0161"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-01-15">15 1 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0049">
+                  <title level="a">Eine Schauspielerin</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 5</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="161" to="164"/>
+                  <idno type="fn">WR-01-01-05_n0161.xml</idno>
+                  <author ref="#wr-person-0026">Reuter, Gabriele</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>15. <hi rend="text-spaced">JANUAR</hi>, 1897</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>EINE SCHAUSPIELERIN.<lb/>
+Novelle von <rs type="person" key="">Gabriele Reuter</rs> (München).</title>
+            </ab>
+            <p>»Wie —? Was —? Verlobt? Die Ridberg und Heller?«</p>
+            <p>»Ja — es scheint so, Herr Director,« antwortete der kleine, ein<lb/>
+wenig verwachsene Komiker. »Ich sah sie wenigstens heute Nachmittags<lb/>
+wieder von einem gemeinsamen Spaziergang kommen. Sie führte sich<lb/>
+an seinem Arm. Nun — und das kann doch bei Fräulein Ridberg nur<lb/>
+eine Verlobung bedeuten.«</p>
+            <p>»Allerdings — allerdings!« Director Luckner’s schwarzer Zwickel-<lb break="no"/>
+bart zuckte aufgeregt unter seiner stark gebogenen Nase. Er klemmte<lb/>
+nervös das Monocle ins Auge und starrte nach der Seitencoulisse<lb/>
+hinüber, wo der gefeierte Gast des Abends neben der ersten Lieb-<lb break="no"/>
+haberin stand.</p>
+            <p>Zum letztenmal hatte sich eben der Vorhang niedergesenkt.<lb/>
+Aber noch immer klatschten einzelne Begeisterte unermüdlich weiter,<lb/>
+während das Publicum sich rauschend, klappernd, stimmen surrend<lb/>
+entfernte.</p>
+            <p>Director Luckner suchte seinen Weg zwischen den Decorations-<lb break="no"/>
+stücken, die von den Theaterarbeitern mit der ihnen eigenen Hast<lb/>
+fortgerissen wurden, zu den Beiden hinüber. Er pustete in kurzen<lb/>
+Athemzügen.</p>
+            <p>»Dem wird’s Gratuliren auch bitter,« raunte einer der Leute hinter<lb/>
+ihm, die Anderen lachten verstohlen.</p>
+            <p>Aber er streckte dem Paar jovial und väterlich die Hände<lb/>
+entgegen.</p>
+            <p>»Sagt mal, Kinder, darf man euch denn wirklich Glück wünschen?«</p>
+            <p>Sie standen noch im Costüm des Abends, Petruchio und das<lb/>
+widerspenstige Käthchen, heiss und erregt von Shakespeare’s wildem<lb/>
+Liebesspiel. Herrlich kleidete die üppige Renaissancetracht das Mädchen</p>
+         </div>
+      </body>
+   </text>
+</TEI>

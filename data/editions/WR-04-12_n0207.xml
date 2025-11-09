@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-12_n0207.xml" prev="WR-04-12_n0206.xml" next="WR-04-12_n0208.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 12, S. 207</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="12"/>
+                        <biblScope unit="page" n="n0207"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0895">
+                  <title level="a">Zwei Zeichnungen</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="189" to="212"/>
+                  <idno type="fn">WR-04-12_n0189.xml</idno>
+                  <author ref="#wr-person-0295">Beardsley, Aubrey</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0896">
+                  <title level="a">Salome</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="189" to="212"/>
+                  <idno type="fn">WR-04-12_n0189.xml</idno>
+                  <author ref="#wr-person-0068">Wilde, Oscar</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">WILDE: SALOME.</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Ah! Wundervoll! Wundervoll! Siehst du, sie hat für mich getanzt,<lb/>
+deine Tochter. Komm’ her, Salome, komm’ her, du sollst deinen Lohn haben. Ah!<lb/>
+Ich zahle Denen königlichen Preis, die mir zur Lust tanzen wollen. Ich will dich könig-<lb break="no"/>
+lich belohnen. Ich will dir alles geben, was dein Herz begehrt. Was willst du<lb/>
+haben? Sprich!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME (kniend): Ich möchte, dass sie mir gleich in einer Silberschüssel <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES (lachend): In einer Silberschüssel? Gewiss doch, in einer Silber-<lb break="no"/>
+schüssel! Sie ist reizend, nicht? Was ist es, das du in einer Silberschüssel haben<lb/>
+möchtest, o süße, schöne Salome, du, die schöner ist, als alle Töchter Judäas? Was<lb/>
+sollen sie dir in einer Silberschüssel bringen? Sag’ es mir? Was es auch sein mag,<lb/>
+du sollst es erhalten. Meine Reichthümer gehören dir. Was ist es, das du haben<lb/>
+möchtest, Salome?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME (steht auf): Den Kopf des Jochanaan.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Ah! Das sagst du gut, meine Tochter.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Nein, nein!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Das sagst du gut, meine Tochter.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Nein, nein, Salome. Das ist es nicht, was du begehrst. Hör’<lb/>
+nicht auf die Stimme deiner Mutter. Sie hat dir immer schlechten Rath gegeben.<lb/>
+Achte nicht auf sie.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Ich achte nicht auf die Stimme meiner Mutter. Zu meiner eigenen<lb/>
+Lust will ich den Kopf des Jochanaan in einer Silberschüssel haben. Du hast einen<lb/>
+Eid geschworen, Herodes. Vergiss es nicht, du hast einen Eid geschworen!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Ich weiß es. Ich habe einen Eid geschworen, bei meinen Göttern<lb/>
+habe ich geschworen. Jch weiß es wohl. Aber ich beschwöre dich, Salome, ver-<lb break="no"/>
+lange etwas anderes von mir. Verlange die Hälfte meines Königreichs von mir.<lb/>
+Ich will sie dir geben. Aber verlange nicht von mir, was deine Lippen verlangt haben.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Ich verlange von dir den Kopf des Jochanaan.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Nein, nein, ich will ihn dir nicht geben.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Du hast einen Eid geschworen, Herodes.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Ja, du hast einen Eid geschworen. Alle haben es gehört. Du<lb/>
+hast es vor allen geschworen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Still, Weib! Zu dir spreche ich nicht.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Meine Tochter hat wohl daran gethan, den Kopf des Jochanaan<lb/>
+zu verlangen. Er hat mich mit Schimpf und Schande bedeckt. Er hat unsägliche<lb/>
+Dinge gegen mich gesagt. Man kann sehen, dass sie ihre Mutter lieb hat.<lb/>
+Gib nicht nach, meine Tochter. Er hat einen Eid geschworen, er hat einen Eid<lb/>
+geschworen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Still! Sprich nicht zu mir! <milestone unit="4dots"/> Salome, ich beschwöre dich,<lb/>
+sei nicht trotzig. Ich bin immer gut zu dir gewesen. Ich habe dich immer lieb<lb/>
+gehabt <milestone unit="4dots"/> Kann sein, ich habe dich zu lieb gehabt. Drum verlange das nicht<lb/>
+von mir. Das ist etwas Schreckliches, etwas Grauenvolles, was du von mir verlangst.<lb/>
+Sicher, ich glaube, du willst scherzen. Der Kopf eines Mannes, der vom Rumpf<lb/>
+getrennt ist, das ist ein übler Anblick, nicht? Es ziemt sich nicht, dass die Augen<lb/>
+eines Mädchens auf so etwas fallen. Was für eine Lust könntest du darin finden?<lb/>
+Du könntest keine Lust darin finden. Nein, nein, das begehrst du nicht. Horch,<lb/>
+was ich sage. Ich habe einen Smaragd, einen großen Smaragd, einen runden, den<lb/>
+Cäsars Freundin mir hergeschickt hat. Wenn du durch diesen Smaragd siehst, kannst<lb/>
+du sehen, was weit weg vor sich geht. Cäsar selbst trägt solch einen Smaragd,<lb/>
+wenn er in den Circus geht. Aber mein Smaragd ist der größere. Ich weiß es, er<lb/>
+ist der größere. Er ist der größte Smaragd in der ganzen Welt. Den willst du<lb/>
+haben, nicht wahr? Verlange ihn von mir, ich werde ihn dir geben.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

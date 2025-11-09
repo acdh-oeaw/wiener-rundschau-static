@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-12_n0197.xml" prev="WR-04-12_n0196.xml" next="WR-04-12_n0198.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 12, S. 197</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="12"/>
+                        <biblScope unit="page" n="n0197"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0895">
+                  <title level="a">Zwei Zeichnungen</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="189" to="212"/>
+                  <idno type="fn">WR-04-12_n0189.xml</idno>
+                  <author ref="#wr-person-0295">Beardsley, Aubrey</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0896">
+                  <title level="a">Salome</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="189" to="212"/>
+                  <idno type="fn">WR-04-12_n0189.xml</idno>
+                  <author ref="#wr-person-0068">Wilde, Oscar</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">WILDE: SALOME.</fw>
+            </fw>
+            <p rend="no-intend">von Arabien, nicht die Füße der Dämmerung, wenn sie auf die Blätter herabsteigt,<lb/>
+nicht die Brüste des Mondes, wenn er auf dem Meere liegt <milestone unit="4dots"/> Nichts in der Welt<lb/>
+ist so weiß wie dein Leib. <milestone unit="3dots"/> Lass’ mich ihn berühren, deinen Leib!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>JOCHANAAN: Zurück, Tochter Babylons! Durch das Weib kam das Übel in<lb/>
+die Welt. Sprich nicht zu mir. Ich will dich nicht anhören. Ich höre nur auf die<lb/>
+Stimme des Herrn, meines Gottes.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Dein Leib ist grauenvoll. Er ist wie der Leib eines Aussätzigen.<lb/>
+Er ist wie eine getünchte Wand, wo Nattern gekrochen sind; wie eine getünchte<lb/>
+Wand, wo die Scorpione ihr Nest gebaut haben. Er ist wie ein übertünchtes Grab,<lb/>
+voll widerlicher Dinge. Er ist grässlich, dein Leib ist grässlich. In dein Haar bin ich<lb/>
+verliebt, Jochanaan. Dein Haar ist wie Weintrauben, wie Büschel schwarzer Trauben,<lb/>
+die an den Weinstöcken Edoms hängen im Lande der Edomiter. Dein Haar ist wie<lb/>
+die Cedern vom Libanon, wie die großen Cedern vom Libanon, die den Löwen und<lb/>
+Räubern ihren Schatten spenden, wenn sie sich am Tage verbergen wollen. Die langen<lb/>
+schwarzen Nächte, wenn der Mond sein Gesicht verbirgt, wenn den Sternen bange<lb/>
+ist, sind nicht so schwarz wie dein Haar. Das Schweigen, das im Walde wohnt, ist<lb/>
+nicht so schwarz. Nichts in der Welt ist so schwarz wie dein Haar <milestone unit="3dots"/> Lass’ mich<lb/>
+es berühren, dein Haar!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>JOCHANAAN: Zurück, Tochter Sodoms! Berühre mich nicht. Entweihe nicht<lb/>
+den Tempel des Herrn, meines Gottes!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Dein Haar ist grässlich. Es starrt von Staub und Unrath. Es ist wie<lb/>
+eine Dornenkrone, auf deinen Kopf gesetzt. Es ist wie ein Schlangenknoten, um deinen<lb/>
+Hals gewickelt. Ich liebe dein Haar nicht <milestone unit="3dots"/> Deinen Mund begehre ich, Jochanaan.<lb/>
+Dein Mund ist wie ein Scharlachband an einem Thurm von Elfenbein. Er ist wie ein<lb/>
+Granatapfel, von einem Elfenbeinmesser zertheilt. Die Granatapfelblüten, die in den<lb/>
+Gärten von Tyrus wachsen, die glühender sind als Rosen, sind nicht so roth. Die<lb/>
+rothen Fanfaren der Trompeten, die das Nahen von Königen künden und vor denen<lb/>
+der Feind erzittert, sind nicht so roth. Dein Mund ist röther als die Füße der Männer,<lb/>
+die den Wein in der Kelter stampfen. Er ist röther als die Füße der Tauben, die<lb/>
+in den Tempeln wohnen und von den Priestern ihr Futter bekommen. Er ist röther<lb/>
+als die Füße des Mannes, der aus dem Walde kommt, wo er einen Löwen erschlagen<lb/>
+und goldfarbige Tiger erblickt hat. Dein Mund ist wie ein Korallenzweig, den die<lb/>
+Fischer in der Dämmerung des Meeres gefunden haben, wie die Koralle, die sie für<lb/>
+Könige bewahren! <milestone unit="3dots"/> Er ist wie der Purpur, den die Moabiter in den Gruben von<lb/>
+Moab finden, wie der Purpur, den die Könige von ihnen haben. Er ist wie der Bogen<lb/>
+des Perserkönigs, der mit Purpur bemalt und mit Korallen besetzt ist. Nichts in der<lb/>
+Welt ist so roth wie dein Mund <milestone unit="3dots"/> Lass’ mich ihn küssen, deinen Mund!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>JOCHANAAN: Niemals, Tochter Babylons! Tochter Sodoms! Niemals!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Ich will deinen Mund küssen, Jochanaan. Ich will deinen Mund küssen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER JUNGE SYRIER: Prinzessin, Prinzessin, die wie ein Garten von Myrrhen<lb/>
+ist, die die Taube aller Tauben ist, sieh’ diesen Mann nicht an, sieh’ ihn nicht an.<lb/>
+Sprich nicht solche Worte zu ihm. Ich kann es nicht ertragen <milestone unit="3dots"/> Prinzessin, sprich<lb/>
+nicht solche Dinge.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Ich will deinen Mund küssen, Jochanaan.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER JUNGE SYRIER: Ah! (Er tödtet sich und fällt zwischen Salome und Jochanaan.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER PAGE DER HERODIAS: Der junge Syrier hat sich entleibt. Der junge<lb/>
+Hauptmann hat sich entleibt. Der mein Freund war, hat sich entleibt. Ich habe ihm<lb/>
+eine kleine Nardenbüchse und silberne Ohrringe geschenkt, und nun hat er sich ge-<lb break="no"/>
+tödtet. Ach, sagte er nicht, dass Schlimmes geschehen würde? Ich sagte es auch, und<lb/>
+es ist eingetroffen. Wohl wusste ich, dass der Mond etwas Todtes suchte, aber ich<lb/>
+wusste nicht, dass er es war, den er suchte. Ach, warum barg ich ihn nicht vor dem<lb/>
+Mond! Hätte ich ihn in einer Höhle verborgen, dann hätte er ihn nicht gesehen.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-05_n0177.xml" prev="WR-01-01-05_n0176.xml" next="WR-01-01-05_n0178.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 5, S. 177</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="05"/>
+                        <biblScope unit="page" n="n0177"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-01-15">15 1 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0054">
+                  <title level="a">Alladine und Palomides</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 5</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="174" to="183"/>
+                  <idno type="fn">WR-01-01-05_n0174.xml</idno>
+                  <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">ALLADINE UND PALOMIDES.</fw>
+               <fw type="pn">177</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Doch, doch, ich kehre mich um <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <p>(Sie wendet sich um, um ihn wieder zu küssen.)</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi>.</p>
+            <p>Gib Acht. Rühre dich nicht. Ich fürchte, dich zu ver-<lb break="no"/>
+letzen <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Reisse sie ab! Fürchte nichts. Ich kann nicht länger<lb/>
+leiden! <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi>.</p>
+            <p>Auch ich will dich sehen <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Reiss’ sie ab! Reiss’ sie ab! Der Schmerz übersteigt<lb/>
+meine Kräfte! <milestone unit="3dots"/> Reiss’ sie ab! <milestone unit="3dots"/> Du weisst nicht, dass<lb/>
+man sterben möchte <milestone unit="3dots"/> Wo sind wir?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi>.</p>
+            <p>Du wirst sehen, du wirst sehen <milestone unit="3dots"/> Es sind zahllose<lb/>
+Grotten <milestone unit="3dots"/> grosse, blaue Säle, schimmernde Pfeiler und tiefe,<lb/>
+Gewölbe <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Warum antwortest du mir nicht, wenn ich dich frage?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi>.</p>
+            <p>Was kümmert’s mich, wo wir sind, wenn wir beisammen<lb/>
+bleiben <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Du liebst mich nicht mehr?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi>.</p>
+            <p>Was hast du denn?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Ich weiss ja, wo ich bin, wenn ich an deinem Herzen<lb/>
+bin! <milestone unit="3dots"/>Reiss’ doch die Binde ab! <milestone unit="3dots"/> Ich will nicht wie<lb/>
+eine Blinde in deine Seele eingehen <milestone unit="3dots"/> Was thust du,<lb/>
+Palomides? Du lachst nicht, wenn ich lache, du weinst nicht,<lb/>
+wenn ich weine. Du klatschest nicht in die Hände, wenn ich</p>
+         </div>
+      </body>
+   </text>
+</TEI>

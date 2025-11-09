@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-17_n0650.xml" prev="WR-02-02-17_n0649.xml" next="WR-02-02-17_n0651.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 17, S. 650</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="17"/>
+                        <biblScope unit="page" n="n0650"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-07-15">15 7 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0465">
+                  <title level="a">Zur Kritik des Marxismus</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 17</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="17">17</biblScope>
+                  <biblScope unit="page" from="643" to="650"/>
+                  <idno type="fn">WR-02-02-17_n0643.xml</idno>
+                  <author ref="#wr-person-0158">Schmitt, Dr. Eugen Heinrich</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">650</fw>
+               <fw type="ctext">SCHMITT.</fw>
+            </fw>
+            <p rend="no-intend">praktisch von heute auf morgen, sondern nur durch eine vorher-<lb break="no"/>
+gehende Revolution in der Weltanschauung, die grösste, die die Mensch-<lb break="no"/>
+heit vollendet hat, umstürzen kann. Die neue, ungleich höhere religiöse<lb/>
+Weltanschauung wird dann ebenso unfehlbar ihre Consequenzen im<lb/>
+Leben und in der Gesellschaft ziehen, wie die erstere kindlich-<lb break="no"/>
+barbarische.</p>
+            <p>Bleibt nun auch der Gedanke eines Aufbaues der Cultur auf<lb/>
+materialistischer Grundlage utopistisch, so bleibt doch das grosse<lb/>
+Verdienst der Vertreter dieses Gedankens ungeschmälert, nicht bloss<lb/>
+verdienstvolle wissenschaftliche Forschungen über die materiellen<lb/>
+Grundbedingungen menschlicher Cultur angebahnt zu haben, sondern<lb/>
+auch breite Schichten der Bevölkerung von der alten theologischen<lb/>
+Weltanschauung gründlich abgelöst und aus der Knechtschaft jenseitiger<lb/>
+Herrschaftsphantome befreit zu haben. Für sich allein ist und bleibt<lb/>
+der Materialismus culturunfähig, und ist im besten Falle als Dünger<lb/>
+der Cultur zu betrachten, sofern diese Elemente schliesslich von dem<lb/>
+Keime der neuen religiösen Idee aufgesogen, sich zu organischen<lb/>
+Formelementen einer neuen höheren Cultur zu erheben fähig sind.<lb/>
+Zwischen den Jesuiten und dieser Weltanschauung des dritten Welt-<lb break="no"/>
+alters, die ich eine <hi rend="text-spaced">Religion des Geistes</hi>, das heisst der selbst-<lb break="no"/>
+bewussten Universalität des Menschen nenne, werden die marxistischen<lb/>
+Socialdemokraten schliesslich zu wählen haben.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

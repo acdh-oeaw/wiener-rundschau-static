@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-11_n0440.xml" prev="WR-02-01-11_n0439.xml" next="WR-02-01-12_n0441.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 11, S. 440</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="11"/>
+                        <biblScope unit="page" n="n0440"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-04-15">15 4 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0410">
+                  <title level="a">Spitteler, »Lachende Wahrheiten«</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 11</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="11">11</biblScope>
+                  <biblScope unit="page" from="439" to="440"/>
+                  <idno type="fn">WR-02-01-11_n0439.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">440</fw>
+               <fw type="ctext">NOTIZEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>und setzen ein paar leere Worte<lb/>
+als verbindenden Text. Geschickter<lb/>
+sind die complicirten Impotenzen.<lb/>
+Diese schreiben heutzutage durch-<lb break="no"/>
+wegs kunstphilosophische oder philo-<lb break="no"/>
+sophisch-psychologische Essays. Mit<lb/>
+den paar Gedanken, die sie hier<lb/>
+und dort unbemerkt stiebitzen,<lb/>
+oder mit irgend einem Reflex-<lb break="no"/>
+gedanken, der ihnen wirklich ein-<lb break="no"/>
+mal eingefallen ist, gehen diese<lb/>
+»Napoleone der Literatur« (man<lb/>
+muss bei diesem Gattungsnamen<lb/>
+bleiben) sorgfältig und sparsam<lb/>
+um. Im gewöhnlichen Leben ver-<lb break="no"/>
+rathen sie nichts von diesen<lb/>
+Schätzen. Aber wenn sie vor dem<lb/>
+Schreibtisch sitzen, kramen sie<lb/>
+ihre Habseligkeiten aus. Daher<lb/>
+dieser fürchterliche Ernst in ihren<lb/>
+Essays, diese Melancholie der<lb/>
+Impotenz. Wie sie schwitzen,</p>
+                  </cell>
+                  <cell>
+wenn sie von ihren kunstphilosophi-<lb break="no"/>
+schen Anschauungen reden! Um<lb/>
+so freudiger ist dieser Band<lb/>
+gesammelter Essays von Carl<lb/>
+Spitteler zu begrüssen. Es sind<lb/>
+momentan vielleicht die einzigen<lb/>
+Essays in Deutschland, worin Wahr-<lb break="no"/>
+heiten lachend gesagt werden. Der<lb/>
+Autor strengt sich gar nicht an.<lb/>
+Was er hier und dort gesehen hat,<lb/>
+was ihm dabei eingefallen ist (ganz<lb/>
+unsystematisch, wie es sich für<lb/>
+einen productiven Essayisten ziemt),<lb/>
+lauter einleuchtend richtige und ge-<lb break="no"/>
+scheite Dinge werden uns in guter<lb/>
+Laune mitgetheilt. Der Gesammt-<lb break="no"/>
+eindruck ist, dass man es hier mit<lb/>
+einem freimüthigen, kunst- und<lb/>
+lebensverständigen Menschen zu<lb/>
+thun hat. Von wie viel Literaten,<lb/>
+insbesondere den Essay-Fabrikanten,<lb/>
+kann man das sagen?<lb/>
+                     <p>
+                        <rs type="person" key="">
+                           <hi rend="italics">st. gr.</hi>
+                        </rs>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="hr"/>
+            <milestone unit="imprint-start"/>
+            <p>Herausgeber: <hi rend="text-spaced">Gustav Schoenaich</hi>, <hi rend="text-spaced">Felix Rappaport</hi>.</p>
+            <p>Verantwortlicher Redacteur: <hi rend="text-spaced">Gustav Schoenaich</hi>.</p>
+            <p>Ch. Reisser &amp; M. Werthner, Wien.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

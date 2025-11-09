@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-17_n0397.xml" prev="WR-03-02-17_n0396.xml" next="WR-03-02-17_n0398.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 17, S. 397</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="17"/>
+                        <biblScope unit="page" n="n0397"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0699">
+                  <title level="a">»Blaubart und Ariane«</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 17</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="17">17</biblScope>
+                  <biblScope unit="page" from="393" to="415"/>
+                  <idno type="fn">WR-03-02-17_n0393.xml</idno>
+                  <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MAETERLINCK: BLAUBART UND ARIANE.</fw>
+            </fw>
+            <p rend="no-intend">Erd-Innern ein erstickter, äusserst ferner, kaum vernehmlicher Klagegesang. Ariane<lb/>
+zittert, hält mitten in einer dankbaren Geberde wie erstarrt inne, senkt das Haupt<lb/>
+und horcht.)</p>
+            <milestone unit="speech-start"/>
+            <p>BLAUBART<lb/>
+(schrickt anfangs zusammen und stampft dann zornig mit dem Fuss auf den Boden,<lb/>
+dann tritt er auf Ariane zu und sagt ihr mit schallender Stimme, wie um den<lb/>
+unterirdischen Gesang zu überschreien):</p>
+            <p>Ihr seid schön, Ariane! <milestone unit="3dots"/> Setzt auch noch dieses Smaragddiadem auf<lb/>
+und hier <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE<lb/>
+(gebieterisch):</p>
+            <p>Schweigt!</p>
+            <milestone unit="untyped-end"/>
+            <p>GESANG<lb/>
+(kaum hörbar):</p>
+            <milestone unit="song-start"/>
+            <lg>
+               <l>Die fünf Mädchen von Orlamünde,</l>
+               <l>Als die Fee war todt,</l>
+               <l>Die fünf Mädchen von Orlamünde</l>
+               <l>Suchten nach der Thür in Noth.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <p>(Der Gesang verstummt. Schweigen.)</p>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Was war das?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>BLAUBART:</p>
+            <p>Ich weiss nicht <milestone unit="3dots"/> Es war unten, draussen, im Felde <milestone unit="3dots"/> Vielleicht<lb/>
+ein vorüberziehender Schäfer, oder die Weiber aus dem Dorfe, die im Schloss-<lb break="no"/>
+hof Wasser schöpfen <milestone unit="3dots"/> Sie kommen immer gegen Abend, wenn der Mond<lb/>
+scheint, und <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE<lb/>
+(traurig):</p>
+            <p>Ich weiss, was es war <milestone unit="3dots"/> (Sie legt Schleier und Geschmeide wieder ab und<lb/>
+thut sie in die Lade zurück.) Geh zurück in dein Gefängnis, schöner, schimmern-<lb break="no"/>
+der Schleier, den ich befreien wollte, und ihr leuchtende Geschmeide und Perlen,<lb/>
+die ihr zum Licht erwachtet; auch ihr Diamanten und Amethysten, die ihr<lb/>
+Sonne und offene Thüren liebt, — zurück in eure Finsternis! Solange andere<lb/>
+gefangen sind, hat eure Stunde noch nicht geschlagen, aber sie wird viel-<lb break="no"/>
+leicht bald schlagen <milestone unit="3dots"/> (Sie nähert sich Blaubart und umschlingt ihn furchtsam<lb/>
+mit einschmeichelnder Geberde.) Verzeiht Ihr nicht? Fühlt Ihr keine Reue? Es<lb/>
+waren fünf, sagt man, die Euch geliebt hätten, wenn Ihr nur gewollt hättet;<lb/>
+und mehr als Eine muss sehr schön gewesen sein, und mehr als Eine ist es<lb/>
+noch, des bin ich sicher, trotz diesem Dunkel, in das Ihr sie versenkt <milestone unit="3dots"/>
+               <lb/>
+Worauf wartet Ihr? Was haben sie Euch gethan? Ich weiss nicht, was sie<lb/>
+gelitten haben, aber ich weiss wohl, dass sie hier gefangen sind <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>BLAUBART<lb/>
+(sucht sich ihrer Umarmung zu entwinden und stösst sie wüthend von sich):</p>
+            <p>Was wollt Ihr damit sagen?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE<lb/>
+(hält ihn noch fester umschlungen):</p>
+            <p>Nein, nein, versucht meinen Armen nicht zu entkommen; Ihr seht ja, ich<lb/>
+weiss alles <milestone unit="3dots"/> Ich bin gekommen, <hi rend="text-spaced">weil</hi> ich alles wusste, und als ich Euch</p>
+         </div>
+      </body>
+   </text>
+</TEI>

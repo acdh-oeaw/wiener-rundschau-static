@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-11_n0423.xml" prev="WR-01-01-11_n0422.xml" next="WR-01-01-11_n0424.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 11, S. 423</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="11"/>
+                        <biblScope unit="page" n="n0423"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-04-15">15 4 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0137">
+                  <title level="a">Th. Th. Heine</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 11</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="11">11</biblScope>
+                  <biblScope unit="page" from="421" to="426"/>
+                  <idno type="fn">WR-01-01-11_n0421.xml</idno>
+                  <author ref="#wr-person-0035">Neumann, Alfred</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">THOMAS THEODOR HEINE.</fw>
+               <fw type="pn">423</fw>
+            </fw>
+            <p rend="no-intend">ungehört verhallt: die häufigen Confiscationen beweisen das. Man<lb/>
+betrachte z. B. »<hi rend="text-spaced">Die unverschämte Person</hi>«. Bourgeois und Bour-<lb break="no"/>
+geoise beim Morgenkaffee, während das Hündchen allerlei gute Dinge<lb/>
+aus dem Teller frisst. Daneben eine ausgemergelte, mit sämmtlichen<lb/>
+Zeichen des Hungers, der Entbehrung, der Noth gezeichnete Proleta-<lb break="no"/>
+rierin, ein abgemagertes, krankes Kind im Arm. Man muss diese<lb/>
+Zeichnung gesehen haben, um zu wissen, wer und wie Thomas Theodor<lb/>
+Heine ist: Aus solchen Dingen spricht nicht mehr der Satyriker, der<lb/>
+mit »einem heiteren, einem nassen Auge« seine Umgebung betrachtet,<lb/>
+diese Art und Weise verräth schon den fanatischen, gereizten Träger<lb/>
+einer Idee, deren bisheriges Nichtdurchdringen die milden Saiten in ihm<lb/>
+zerrissen und schrillklingende, fast misstönende Chorden an ihre<lb/>
+Stelle gesetzt hat. Dieser dicke, bornirte Kerl, der das Prototyp der<lb/>
+Noth verständnisslos, lethargisch anstiert, dieses gemästete, kaffee-<lb break="no"/>
+schlürfende Weib, sogar dieser Hund, den Heine zeichnet und<lb/>
+»zeichnen« will! Friedrich Theodor Vischer möchte ein gar verdutztes<lb/>
+Gesicht machen, wenn er sähe, wie sein Landsmann seine Lieb-<lb break="no"/>
+linge, den Inbegriff der Treue und Intelligenz, auffasst, die in »Auch<lb/>
+Einer« so rührend geschildert werden. Alles aber, was Heine an grau-<lb break="no"/>
+samer Liebe besitzt, hat er in dem bettelnden Weibe niedergelegt: aus<lb/>
+diesen verfallenen Zügen, diesem lendenlahmen Körper, den Alles schon<lb/>
+geschwächt hat, was schwächen muss, Noth, Entbehrung, Laster, spricht<lb/>
+die Anklage gegen die herrschenden Zustände <milestone unit="3dots"/> »Mörtelweibs Tochter«<lb/>
+illustrirt ein Gedicht, welches das Schicksal eines Proletarierkindes<lb/>
+besingt, ebenfalls ein echter Heine in der Auffassung des Milieus, der<lb/>
+Darstellung des Kindes, das von seiner Mutter singt:</p>
+            <milestone unit="verse-start"/>
+            <lg>
+               <l>»Uma fünfe geht’s an d’ Arbeit schon,</l>
+               <l>Um zwoa Mark im Tagelohn,</l>
+               <l>Und kimmt’s auf d’Nacht um sechs vom Bau,</l>
+               <l>Schlagt’s der Vater braun und blau.«</l>
+            </lg>
+            <p>(<rs type="person" key="">Korfitz Holm</rs>.)</p>
+            <milestone unit="untyped-end"/>
+            <p>Ein lustiges Lied, eine lustige Zeichnung <milestone unit="3dots"/>
+            </p>
+            <p>Die »Bilder aus dem Familienleben«, deren bisher sechs erschienen<lb/>
+sind, stellen durchgehend blutige Satyren auf unsere Gesellschaftszustände<lb/>
+dar: »Fritzchens Geburtstag« und »Fridas schönstes Weihnachtsgeschenk«<lb/>
+sind geharnischte Angriffe gegen das Vegetiren im Bornirten, das unseren,<lb/>
+den deutschen Mittelstand so ganz besonders auszeichnet, Angriffe, die<lb/>
+sich namentlich gegen das unverschämte Ancajoliren des Militärstandes<lb/>
+wenden. Die Frage eines Privatiersöhnchens: »Papa, was willst du<lb/>
+eigentlich mal werden?« wird ebenso drastisch illustrirt wie der Text<lb/>
+zum »<hi rend="text-spaced">Verlorenen Sohn</hi>«: wahre Cabinetstücke an Hohn und Hass,<lb/>
+die aus jedem Striche, jeder Schattirung wehen. »<hi rend="text-spaced">Nach der Löhnung</hi>«<lb/>
+zeigt einen total betrunkenen Arbeiter, der soeben seinen Wochenlohn<lb/>
+in irgend einer Destillation gelassen hat und den nun — Bilder aus<lb/>
+dem Familienleben! — seine Kinder an den Händen, sein Weib an<lb/>
+den Füssen gepackt haben, um ihn nach Hause zu schleppen; das Sujet<lb/>
+ist nicht neu, neu aber ist die ganze Behandlung dieses Stoffes, diese</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-02_n0059.xml" prev="WR-01-01-02_n0058.xml" next="WR-01-01-02_n0060.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 2, S. 59</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0059"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-01">1 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0017">
+                  <title level="a">Das Meer</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="59" to="63"/>
+                  <idno type="fn">WR-01-01-02_n0059.xml</idno>
+                  <author ref="#wr-person-0013">Reibrach, Jean</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DAS MEER (LA GUEUSE).<lb/>
+Von <rs type="person" key="">Jean Reibrach</rs>.<lb/>
+Autorisirte Uebersetzung von <rs type="person" key="">Clara Theumann</rs>.</title>
+            </ab>
+            <ab>
+               <title>I.</title>
+            </ab>
+            <p>Auf dem schmalen Damme, der an der einen Seite der<lb/>
+Mündung des Flusses die angelegten Boote schützte, erhoben<lb/>
+sich gegen 5 Uhr plötzlich laute Rufe; und die aus der<lb/>
+Schenke kommenden Fischer, die in den Fensterrahmen er-<lb break="no"/>
+scheinenden Frauen mit ihren bretagnischen Hauben ge-<lb break="no"/>
+wahrten da drunten den Tumult, den ein Unglücksfall im<lb/>
+Gefolge hat. Viele Kinder flohen, während andere wie fest-<lb break="no"/>
+genagelt vor Schrecken am Meere blieben. Eines von ihnen<lb/>
+war ins Wasser gefallen. Man eilte herbei. Die Männer<lb/>
+sahen einander erschreckt an. Der Quai war hoch, und die<lb/>
+Wellen, die gegen das Mauerwerk schlugen, brachen sich<lb/>
+bei ihrer Rückkehr an steil emporragenden Felsen. Der<lb/>
+Schreck durchbebte alle. Endlich wurde ein Boot losgemacht<lb/>
+und holte mit grossen Ruderschlägen aus, um längs des<lb/>
+Dammes herumzukommen. Man sah das Kind noch: eine<lb/>
+Geberde der Verzweiflung, ein erstickter Schrei, eine undeut-<lb break="no"/>
+liche Masse, welche die Welle wie ein Strandgut weiterwälzte<lb/>
+und wie mit einem Leichentuch umhüllte.</p>
+            <p>Das Schreien an der Küste gab der Barke die Richtung.<lb/>
+Jetzt war sie aus dem Becken, kämpfte mit der Welle und<lb/>
+bäumte sich in verzweifelten Sprüngen, um über sie hinaus-<lb break="no"/>
+zugelangen. Aber das Kind, das einen Moment durch die<lb/>
+Fluth herangeschwellt war, wurde immer wieder ergriffen und<lb/>
+weitergetragen. Dann sah man es nicht mehr; sicherlich war<lb/>
+es dem Grunde zugeführt oder an einem Felsen zerschellt.<lb/>
+Nein! die Barke konnte es nicht mehr erreichen. In der<lb/>
+angsterfüllten, athemlosen Stille erklang eine Stimme von<lb/>
+rückwärts: »Was gibt’s?« Instinctiv trat die ohnmächtige<lb/>
+Menge zur Seite: »Da! da! Ein Kind!«</p>
+            <p>Schon hatte sich der Mann gebückt. Die flache Hand<lb/>
+auf die Kante des Dammes gestützt, sprang er ins Wasser.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

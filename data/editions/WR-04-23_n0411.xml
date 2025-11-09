@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-23_n0411.xml" prev="WR-04-23_n0410.xml" next="WR-04-23_n0412.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 23, S. 411</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="23"/>
+                        <biblScope unit="page" n="n0411"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0978">
+                  <title level="a">Multatuli</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 23</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="406" to="411"/>
+                  <idno type="fn">WR-04-23_n0406.xml</idno>
+                  <author ref="#wr-person-0190">Schlaf, Johannes</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0979">
+                  <title level="a">Der Abbé Galiani</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 23</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="411" to="415"/>
+                  <idno type="fn">WR-04-23_n0411.xml</idno>
+                  <author ref="#wr-person-0294">Kassner, Rudolf</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KASSNER: DER ABBÉ GALIANI.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">ländischen Colonialverwaltung gemisshandelt<lb/>
+werden. Da sind ferner vor allem die rührendsten<lb/>
+Berichte über ein Familienleben, das die<lb/>
+innigste und lauterste Liebe in allen Nöthen<lb/>
+zusammenhält. Da ist Selbstentsagung, der<lb/>
+herrlichste Edelmuth im Bereich jenes Conflicts,<lb/>
+in dem sich Multatulis Fühlen damals zwischen<lb/>
+                        <hi rend="text-spaced">Tine</hi> und <hi rend="text-spaced">Mimi</hi> befand: bei allen Schwierig-<lb break="no"/>
+keiten einer solchen Lage bestand dennoch<lb/>
+eine herzliche Freundschaft, ein intimes Ein-<lb break="no"/>
+vernehmen zwischen diesen drei Personen;<lb/>
+und drei Charaktere schauen zwischen diesen<lb/>
+Zeilen hervor, besonders aber zwei Frauen,<lb/>
+wie sie edler, vornehmer und feinfühliger<lb/>
+nicht gedacht werden können <milestone unit="3dots"/>
+                     </p>
+                     <milestone unit="asterisk"/>
+                  </cell>
+                  <cell>
+                     <p>Das also ist Multatulis Werk, und das ist<lb/>
+er selbst. Er sagte einmal — es ist so<lb/>
+eine Art Leitmotiv von ihm —: »Ich<lb/>
+will eine fröhliche Botschaft niedersenden<lb/>
+auf die kleine Erde. Ich will den armen<lb/>
+Menschen, die da so verdrossen und liebelos<lb/>
+zurückblieben, sagen, dass Genuss Tugend<lb/>
+ist, und dass nichts mehr Genuss gibt, als<lb/>
+die <hi rend="text-spaced">Liebe</hi>«. Das ist in kurzem seine ganze<lb/>
+Ethik. Wir sehen: Wenn wir viele unserer<lb/>
+großen Ethiker bewundern — Multatuli<lb/>
+ist einer der Wenigen, die wir <hi rend="text-spaced">lieben</hi>
+                        <lb/>
+müssen.</p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DER ABBÉ GALIANI.<lb/>
+Von <rs type="person" key="">
+                     <hi rend="text-spaced">RUDOLF KASSNER</hi>
+                  </rs> (Paris).</title>
+            </ab>
+            <milestone unit="epigraph-start"/>
+            <p>Possible que j’aie eu tant d’esprit!</p>
+            <p>
+               <milestone unit="4dots"/> Er über sich selbst.</p>
+            <milestone unit="untyped-end"/>
+            <table>
+               <row>
+                  <cell>
+                     <p>Abbé Galiani war sehr eitel, doch<lb/>
+mochte es ihm nicht einmal geträumt<lb/>
+haben, dass ein großer Mensch einer<lb/>
+späteren Zeit ihn den tiefsten Geist seiner<lb/>
+Zeit nennen würde. Ich weiß nicht, ob<lb/>
+Nietzsches Urtheil gerecht ist; Nietzsche<lb/>
+brauchte Galiani, und darum erhob er ihn.<lb/>
+Ich weiß nur, dass Galianis Geist anders<lb/>
+war, als der seiner Freunde in Paris, und<lb/>
+nur mit diesen darf er verglichen werden.<lb/>
+Denn dass Galiani nach Paris kam, ist<lb/>
+das einzige Ereignis seines Lebens, und<lb/>
+dass er nach zehn Jahren Paris wieder<lb/>
+verlassen musste, ist ein einziges Ereignis<lb/>
+für die Literatur des XVIII. Jahrhunderts.<lb/>
+Wir haben die Briefe*, die er seinen<lb/>
+Freunden schrieb, und in ihnen, und fast<lb/>
+nur in ihnen, seinen Geist.</p>
+                     <p>Galiani war Abbé; das hieß damals<lb/>
+soviel wie alles und nichts. In seiner Jugend,<lb/>
+die er in seiner Geburtsstadt Neapel ver-<lb break="no"/>
+lebte, schrieb er Farcen, Abhandlungen über<lb/>
+Horaz, den Vesuv; er stand mit vielen<lb/>
+Gelehrten seiner Zeit in Briefwechsel;<lb/>
+später gab er sich mit Nationalökonomie<lb/>
+ab und schrieb seine »Dialogues sur le</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">commerce du blé«. »Vers 1750, sagt<lb/>
+irgendwo Voltaire: la nationa rassasié<lb/>
+de vers, de tragédies, de comédies, de<lb/>
+romans, d’histoires romanesques et de<lb/>
+disputes sur la grâce et les convulsions,<lb/>
+se mit à raisonner sur les blés«. Aber<lb/>
+Galianis Dialoge scheinen Aufsehen erregt<lb/>
+zu haben; ein anderer Abbé musste im<lb/>
+Namen des Königs erwidern, und später<lb/>
+wurden sie sogar verboten. Doch das ist<lb/>
+alles noch nicht Galianis Geist.</p>
+                     <p>»On me dit, qu’il a beaucoup d’esprit«,<lb/>
+sagte Ludwig XV. nach der ersten Audienz,<lb/>
+die er Galiani, der als Secretär der Ge-<lb break="no"/>
+sandtschaft vom Hofe Neapels zugetheilt<lb/>
+wurde, zu Einem aus der Umgebung, und<lb/>
+dieses Wort wurde in Paris schnell bekannt<lb/>
+und öffnete dem Abbé die Salons. Drei<lb/>
+von diesen waren damals berühmt: der<lb/>
+Salon der Madame d’Epinay, der Freundin<lb/>
+Rousseaus und Grimms, dieser geistvollsten<lb/>
+»Schwester aus der philosophischen Ge-<lb break="no"/>
+meinde«, wie man die Freundinnen der<lb/>
+Philosophen damals nannte; der Salon<lb/>
+der de Lespinasse, der Freundin d’Alemberts,<lb/>
+die ebensoviel Liebe zur Vernunft, als</p>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Die »Insel« (1. und 2. Heft, I. Jahrgang) hat Auszüge aus Galianis Briefen gebracht,<lb/>
+die Jedem, den dieser Geist interessiert, vollständig genügen können.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

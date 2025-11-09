@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-24_n0928.xml" prev="WR-01-02-24_n0927.xml" next="WR-01-02-24_n0929.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 24, S. 928</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="24"/>
+                        <biblScope unit="page" n="n0928"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-11-01">1 11 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0295">
+                  <title level="a">Die junge Generation</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 24</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="921" to="928"/>
+                  <idno type="fn">WR-01-02-24_n0921.xml</idno>
+                  <author ref="#wr-person-0071">Schmitz, Oscar A. H.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">928</fw>
+               <fw type="ctext">SCHMITZ.</fw>
+            </fw>
+            <p rend="no-intend">Lasterhaftigkeit und der deutsche Quietismus in den Armen des Weibes<lb/>
+sind essentiell verschieden. Ich mache der germanischen Frau fast ein<lb/>
+Compliment, wenn ich von ihrer Gefährlichkeit spreche, denn in den<lb/>
+lateinischen Ländern verhindert weibliche Niedertracht und Albern-<lb break="no"/>
+heit häufig eine andere als halbironische Huldigung.</p>
+            <p>Ich weiss, dass ich hier weder den Bürgern noch den Künstlern<lb/>
+zu Gefallen rede. Diese werden mich der Verherrlichung der Leiden-<lb break="no"/>
+schaft, jene der Vergötterung der Entsagung zeihen. Und Beide haben<lb/>
+Recht in ihren Anklagen, denn ich nenne die Leidenschaft herrlich,<lb/>
+aber die Entsagung göttlich. Doch ich werde von jenen blassen Jüng-<lb break="no"/>
+lingen verstanden werden, in deren Blicken die Trauer der Spät-<lb break="no"/>
+geborenen liegt; welche hingesunken vor der Schönheit des Ver-<lb break="no"/>
+gangenen sich ohnmächtig dünken, etwas Anderes als Wissende zu sein.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

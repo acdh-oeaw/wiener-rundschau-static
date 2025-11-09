@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-08_n0200.xml" prev="WR-03-01-08_n0199.xml" next="WR-03-01-09_n0201.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 8, S. 200</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="08"/>
+                        <biblScope unit="page" n="n0200"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0608">
+                  <title level="a">Siegfried Wagner</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 8</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="199" to="200"/>
+                  <idno type="fn">WR-03-01-08_n0199.xml</idno>
+                  <author ref="#wr-person-0166">Graf, Dr. Max</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0609">
+                  <title level="a">Drei Landschafter</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 8</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="200" to="200"/>
+                  <idno type="fn">WR-03-01-08_n0200.xml</idno>
+                  <author ref="#wr-person-0173">Schölermann, Wilh.</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0610">
+                  <title level="a">»Auf staubigen Strassen.« Von Holzamer</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 8</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="200" to="200"/>
+                  <idno type="fn">WR-03-01-08_n0200.xml</idno>
+                  <author ref="#wr-person-0179">Levetzow, Freiherr Carl von</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">RUNDSCHAU.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Geschichte aller Tragödien und Siege der<lb/>
+Wagner’schen Seele herauslesen. Jung-<lb break="no"/>
+Siegfried spielt mit diesen neuen Tönen<lb/>
+wie ein Kind mit bunten Steinen. Diese<lb/>
+verwegene Unschuld, Unbekümmertheit<lb/>
+und Harmlosigkeit hat auch das Publicum<lb/>
+entzückt. <rs type="person" key="">
+                           <hi rend="italics">m. g.</hi>
+                        </rs>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-start"/>
+                     <p>
+                        <hi rend="text-spaced">Drei Landschafter</hi> haben wir in<lb/>
+diesen Tagen gleichzeitig in Wien studieren<lb/>
+können: <hi rend="text-spaced">Michetti</hi>, den Geschicktesten,<lb/>
+Geschmackvollsten (denn auch er gibt<lb/>
+sein Feinstes in der Landschaft, trotz der<lb/>
+verblüffenden Beherrschung des Figür-<lb break="no"/>
+lichen); <hi rend="text-spaced">Theodor von Hörmann</hi>, den<lb/>
+Ehrlichsten, den Kämpfer, und endlich<lb/>
+                        <hi rend="text-spaced">Tina Blau-Lang</hi>, die — wie soll man’s<lb/>
+nur mit einem Eigenschaftswort aus-<lb break="no"/>
+drücken? — die Liebevollste, Heimat-<lb break="no"/>
+treueste. Für die Wiener sollte diese<lb/>
+wienerische Künstlerin viel zu sagen und<lb/>
+zu geben haben, umsomehr, als man<lb/>
+so selten etwas von ihr zu sehen be-<lb break="no"/>
+kommt. Denn bisher sind ihre Bilder<lb/>
+draussen weit besser geschätzt als daheim.<lb/>
+Interessant, gewissermassen »kunsthisto-<lb break="no"/>
+risch« ist das in ungeminderter Frische<lb/>
+leuchtende, grosse Frühlingsbild vom Prater<lb/>
+(Nr. 1). Es passierte seinerzeit mit Ach<lb/>
+und Krach eben noch die Ausstellungs-<lb break="no"/>
+jury im Künstlerhause — um sich dann<lb/>
+gleich in Paris auf dem nächsten Salon<lb/>
+die »mention honorable« zu verdienen<lb/>
+Das war <date>1882</date>. Und heute? Ungeschwächt<lb/>
+ist die naturfreudige, lichtdurchflutete<lb/>
+Lenzstimmung darin, die hellen Klänge<lb/>
+der Schubert’schen Volksmelodik und die<lb/>
+grosse Ehrfurcht vor der sichtbaren Wahr-<lb break="no"/>
+heit. Und doch bin ich überzeugt, dass<lb/>
+gar vielen unserer Allerallerfortschritt-<lb break="no"/>
+lichsten diese Malerei nicht mehr secessio-</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">nistisch genug sein wird. Das Wort soll<lb/>
+hier wirklich ernst, nicht im populären<lb/>
+Sinne gemeint sein. Es fehlt ihr so ganz<lb/>
+und gar die Tendenz und ist doch alles<lb/>
+so aufrichtig empfunden in dieser<lb/>
+Kunst. Bild oder Skizze, sie ist immer<lb/>
+gleich herzlich und herzhaft. Das Herz<lb/>
+hat die Hand geführt. Das, glaube ich,<lb/>
+ist die Grundnote in der Kunst Tina<lb/>
+Blaus. Die tiefe Schlichtheit und unend-<lb break="no"/>
+liche Güte. Ein Stück vom besten Theil<lb/>
+des localen Volkscharakters in ein Volks-<lb break="no"/>
+lied gebracht, in einfache, sangbare Har-<lb break="no"/>
+monie. <rs type="person" key="">
+                           <hi rend="italics">W. S.</hi>
+                        </rs>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-start"/>
+                     <p>
+                        <hi rend="text-spaced">Auf staubigen Strassen</hi>. Skizzen<lb/>
+von Wilhelm <hi rend="text-spaced">Holzamer</hi>. Schuster und<lb/>
+Löffler. — In jedem Menschenleben gibt es<lb/>
+einen Wendepunkt, wo das Schicksal die<lb/>
+Fäden, wie ruhig oder bewegt sie nun<lb/>
+laufen mögen, zu einem Knoten schürzt.<lb/>
+Die Lösung kann nach drei Richtungen<lb/>
+erfolgen: Selbstmord, Wahnsinn, kräftiges<lb/>
+Neuleben. Oder die Negation aller drei<lb/>
+Lösungen, das In Sand-Verlaufen, das<lb/>
+uninteressante Versumpfen. Dies ist das<lb/>
+Grundthema, von dem Holzamer zehn<lb/>
+Variationen gibt. Er nennt sie »Skizzen«.<lb/>
+Gemeint hat er wohl »Novellen«. Die an-<lb break="no"/>
+gestrebte Knappheit der Form deutet auf<lb/>
+Kjelland; bei dem Humor (Fritz Tilmar)<lb/>
+hat wohl der beliebte Otto Julius Pathe<lb/>
+gestanden. Aber es ist auch genug Eigenes<lb/>
+darin, und eine gewisse Mannigfaltigkeit<lb/>
+bei der Gleichheit des Themas. So macht<lb/>
+das Buch trotz der allzu skizzenhaften<lb/>
+Unausgeführtheit doch den Eindruck, eine<lb/>
+Etappe auf dem Entwickelungsgange eines<lb/>
+Künstlers zu sein.</p>
+                     <p>
+                        <rs type="person" key="">
+                           <hi rend="italics">C. v. L.</hi>
+                        </rs>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="imprint-start"/>
+            <p>Herausgeber: <hi rend="strong">Constantin Christomanos</hi> und <hi rend="strong">Felix Rappaport</hi>. — Verantwortlicher Redacteur:<lb/>
+               <hi rend="strong">Constantin Christomanos</hi>.<lb/>
+K. k. Hoftheater-Druckerei, Wien, I., Wollzeile 17. (Verantwortlich A. Rimrich.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

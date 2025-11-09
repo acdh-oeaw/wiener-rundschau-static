@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-02_n0076.xml" prev="WR-01-01-02_n0075.xml" next="WR-01-01-02_n0077.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 2, S. 76</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0076"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-01">1 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0021">
+                  <title level="a">Peter Altenberg</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="73" to="77"/>
+                  <idno type="fn">WR-01-01-02_n0073.xml</idno>
+                  <author ref="#wr-person-0009">Schäffer, Emil</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">76</fw>
+               <fw type="ctext">SCHÄFFER.</fw>
+            </fw>
+            <p>Anbetung des Weibes ist das Thema des Altenberg-<lb break="no"/>
+schen Buches; in der Art aber, wie er’s behandelt und aus-<lb break="no"/>
+spinnt, kurz, in seiner <hi rend="text-spaced">Technik</hi> zeigt sich das Studium der<lb/>
+japanischen Maler, von denen er ja oft genug spricht und<lb/>
+deren Farben und Linien er in Worte umsetzt. Mit ihnen<lb/>
+theilt er die Scheu vor allem Componirten, auf Rahmen- und<lb/>
+Bildwirkung Berechneten, die Angst, dem Verstehenden zu<lb/>
+viel zu sagen und dadurch sein Feingefühl zu beleidigen;<lb/>
+von den Japanern hat Altenberg gelernt, in der knappsten<lb/>
+und präcisesten Form sich auszudrücken, die Dinge vom<lb/>
+Geist der Schwere zu befreien und nur den Duft, den süssen,<lb/>
+schönen Duft zu bringen. Diese japanische Art zu compo-<lb break="no"/>
+niren oder besser <hi rend="text-spaced">nicht</hi> zu componiren, tritt zu allererst<lb/>
+in der Gesammtanlage jeder Skizze hervor und innerhalb<lb/>
+jeder einzelnen wieder besonders bei den Naturschilde-<lb break="no"/>
+rungen. Denn sein Anschauen einer Landschaft ist das<lb/>
+der grossen japanischen Künstler. Niemals verliert sich<lb/>
+sein Schildern ins Detail, mit sicherem, scharfäugigem<lb/>
+Blick fühlt er das Wesentliche, das der Landschaft und der<lb/>
+Stimmung der Handlung zugleich Charakteristische heraus; nur<lb/>
+dies bringt er von all den zahllosen Eindrücken, die in jeder Se-<lb break="no"/>
+cunde das Auge bestürmen, nur dies bringt er und deutet alles<lb/>
+Uebrige in matten Strichen nur oder überhaupt nicht an.<lb/>
+Hier nun, in dieser japanischen Art, die Dinge anzuschauen,<lb/>
+trifft er sich mit Knut Hamsun, dem grossen norwegischen<lb/>
+Künstler, den man wohl in mehr als einer Hinsicht als Geistes-<lb break="no"/>
+verwandten Altenberg’s wird bezeichnen dürfen. Zu weit<lb/>
+würde es mich führen, wollte ich an dieser Stelle eine ein-<lb break="no"/>
+gehende Analyse der Landschaftsschilderungen Hamsun’s<lb/>
+und Altenberg’s bieten; aber man vergleiche einmal die<lb/>
+wundervollen Naturstimmungen in Hamsun’s »Pan« oder be-<lb break="no"/>
+sonders den Anfang seines Romans »Neue Erde« mit irgend<lb/>
+einer Skizze Altenberg’s, und man wird mich verstehen und<lb/>
+vielleicht mir beistimmen.</p>
+            <p>Damit aber ist die Reihe dessen, was ihm gemeinsam<lb/>
+ist mit Knut Hamsun, noch nicht erschöpft. Altenberg’s<lb/>
+sclavisch-demüthige und doch dabei königlich-vornehme Art,<lb/>
+vor schönen Frauen zu knien, an Hamsun’s Helden finden<lb/>
+wir sie wieder, an Lieutenant Thomas Glahn und an Nils</p>
+         </div>
+      </body>
+   </text>
+</TEI>

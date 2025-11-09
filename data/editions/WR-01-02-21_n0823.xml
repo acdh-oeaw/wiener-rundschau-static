@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-21_n0823.xml" prev="WR-01-02-21_n0822.xml" next="WR-01-02-21_n0824.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 21, S. 823</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="21"/>
+                        <biblScope unit="page" n="n0823"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-09-15">15 9 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0260">
+                  <title level="a">Anarchistische Experimente</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 21</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="817" to="824"/>
+                  <idno type="fn">WR-01-02-21_n0817.xml</idno>
+                  <author ref="#wr-person-0101">Grossmann, Stefan</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">ANARCHISTISCHE EXPERIMENTE.</fw>
+               <fw type="pn">823</fw>
+            </fw>
+            <p>Aber im Grunde genommen ist es ganz gleichgiltig, woran Cecilia<lb/>
+starb — meint Giovanni Rossi! — Wenn ihr Leben ein gutes gewesen<lb/>
+ist, was kümmert mich dann ihr Tod? Die Colonie Cecilia musste<lb/>
+zugrunde gehen — meint Giovanni Rossi! — weil sie zu arm war.<lb/>
+Das Bedeutsame sind die paar Jahre ihres Bestandes. Der Aufenthalt<lb/>
+in der Colonie war ein Mittel gegen moralische Verkümmerung, er hat<lb/>
+die antisocialen Anlagen des Menschen der bürgerlichen Gesellschaft<lb/>
+zu mildern gewusst, niemals hat es einen <hi rend="text-spaced">rohen</hi> Brotkampf gegeben.<lb/>
+Man fühlte sich in einer <hi rend="text-spaced">moralisch hygienischen Atmosphäre</hi>.<lb/>
+Ohne Gesetze und Befehle hat die Colonie bewiesen, dass die Anarchie<lb/>
+durchaus nicht die Freilassung der Bestie im Menschen bedeutet. Man<lb/>
+bedenke: Ohne moderne Productionsmittel wurden schwere, ermüdende<lb/>
+Arbeiten wie Abholzen von Wäldern, Erdarbeiten, schwere Lasten-<lb break="no"/>
+transporte, Brunnenschachtung, gefährliche Arbeiten auf den Feldern —<lb/>
+wo man nicht selten auf schaudererregende und ungemein giftige<lb/>
+Schlangen stiess — und — nicht zu vergessen — Arbeiten, <hi rend="text-spaced">deren<lb/>
+Nutzen erst einer späteren Zeitperiode gewahrt bliebe</hi>,<lb/>
+z. B. Baumschulen, verrichtet. Friedliche anarchische Zustände sind<lb/>
+also auch ohne Engel möglich.</p>
+            <p>Diese Erfahrungen sind für Rossi der grosse Ertrag seines Ex-<lb break="no"/>
+perimentes gewesen. Aber der Tod der »Cecilia« scheint ihm doch<lb/>
+nicht gar so nebensächlich gewesen zu sein, wie er anfangs behauptete,<lb/>
+denn er hat in einer Utopie, die sein Buch beschliesst, Dinge gesagt,<lb/>
+die in die Tiefe dieser Experimente klar blicken lassen. Diese schein-<lb break="no"/>
+bare Utopie ist nichts Anderes als die deutliche Absage an den Com-<lb break="no"/>
+munismus! Es ist nämlich nicht ganz richtig, dass der anarchistische<lb/>
+Communismus gesetzlos ist. Oh gewiss, er kennt kein Parlament und<lb/>
+keine decretirten Gesetze, <hi rend="text-spaced">aber in der Atmosphäre des</hi>
+               <hi rend="text-spaced">com</hi>-<lb break="no"/>
+               <hi rend="text-spaced">munistischen</hi>
+               <hi rend="text-spaced">Zusammenlebens</hi> — das hat Rossi auch in<lb/>
+seiner Colonie Cecilia fühlen müssen — <hi rend="text-spaced">liegt ein drohendes</hi>,<lb/>
+               <hi rend="text-spaced">furchtbares Gesetz latent in den Lüften</hi>: <hi rend="text-spaced">die</hi>
+               <hi rend="text-spaced">öffent</hi>-<lb break="no"/>
+               <hi rend="text-spaced">liche</hi>
+               <hi rend="text-spaced">Meinung</hi>. Der Zwang der Gesetzlichkeit hat sich also nur<lb/>
+tiefer versteckt, ist weniger äusserlich, aber gefährlicher, innerlicher<lb/>
+geworden.</p>
+            <p>In seiner ersten Utopie »commune socialista« steht die folgende<lb/>
+Episode: Die Stoffe für seine Bekleidung konnte Jedermann frei er-<lb break="no"/>
+wählen. Nun nahmen sich Einzelne Sammt und Kaschmir, während die<lb/>
+Anderen Barchent, Leinwand oder Tuch nahmen. <hi rend="text-spaced">Man missbilligte<lb/>
+schweigend die Ersteren</hi> (!). Schliesslich machte sich aber die Miss-<lb break="no"/>
+billigung Luft. Man scherzte, man sang Spottliedchen, man machte<lb/>
+Witze, bis den Einzelnen der Sammt und Kaschmir verleidet war. Der<lb/>
+Dr. Rossi, welcher um 20 Jahre älter geworden ist, sagt dazu ganz<lb/>
+richtig: »Meine arme Freiheit, in was für einen Schraubstock bist du<lb/>
+gerathen! Es ist zwar ein anarchistischer, das ist wahr, aber doch ein<lb/>
+Schraubstock!« Was im Staatssocialismus als autoritäres Gesetz sich<lb/>
+krystallisirt, schwebt im Communismus als öffentliche Meinung latent<lb/>
+in den Lüften.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-21_n0492.xml" prev="WR-03-02-21_n0491.xml" next="WR-03-02-21_n0493.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 21, S. 492</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="21"/>
+                        <biblScope unit="page" n="n0492"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0723">
+                  <title level="a">Laus Veneris II.</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 21</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="489" to="492"/>
+                  <idno type="fn">WR-03-02-21_n0489.xml</idno>
+                  <author ref="#wr-person-0228">Swinburne, Algernon Charles</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">SWINBURNE: LAUS VENERIS.</fw>
+            </fw>
+            <lg>
+               <l>Das leise Lachen, das die Küsse kürzt,</l>
+               <l>Wenn immer sich der Mund von neuem schürzt,</l>
+               <l>Offene Lider schliesst, geschlossne theilt,</l>
+               <l>Und heiss ein Blutstrom durch die Adern stürzt,</l>
+            </lg>
+            <lg>
+               <l>Bis das geküsste Antlitz ganz versehrt</l>
+               <l>Von Glut ist und dem Munde fürder wehrt,</l>
+               <l>Der nun da, wo er schmerzte, wieder heilt</l>
+               <l>Und so die Flamme unaufhörlich nährt.“</l>
+            </lg>
+            <lg>
+               <l>So sang ich damals, was ich nicht verstand.</l>
+               <l>„Fürwahr, ein seltsam Ding ist hierzuland</l>
+               <l>Die Liebe. Wohlfeil dünkt mir ihre Huld.</l>
+               <l>Fliegt sie nicht Jedem ins Gesicht wie Sand?</l>
+            </lg>
+            <lg>
+               <l>Meist ist sie Gram in vielerlei Gestalt,</l>
+               <l>Ein Seufzen, Händeringen und dann bald,</l>
+               <l>Nach Schickungen, ertragen in Geduld,</l>
+               <l>An Gräbern ein zu früher Aufenthalt.</l>
+            </lg>
+            <lg>
+               <l>Wie Einer, der im Ried die Wittrung spürt,</l>
+               <l>Die ihn auf eines Panthers Fährte führt,</l>
+               <l>Blindlings die Spur verfolgt, bis unversehn</l>
+               <l>Die harte Pranke ihn zusammenschnürt,</l>
+            </lg>
+            <lg>
+               <l>Gehn sie der Liebe nach, wenn sie erspäht</l>
+               <l>Die leise Spur, die sie von fern verräth</l>
+               <l>Und können ihrem Griffe nicht entgehn,</l>
+               <l>Dem Keiner, noch so Tapfrer widersteht.“</l>
+            </lg>
+            <lg>
+               <l>Und eines Tages, allen Dingen gram,</l>
+               <l>Dem Glücke fürderhin misstrauend, nahm</l>
+               <l>Ich Abschied von der Heimatsflur und ritt</l>
+               <l>Ins Weite, bis ich an den Hörsel kam.</l>
+            </lg>
+            <lg>
+               <l>Dort stand ein alter, grosser Fliederbaum</l>
+               <l>Im hohen Grase. Durch den Blütenflaum,</l>
+               <l>Der sich zurückbog, sah ich <hi rend="text-spaced">Sie</hi>. Sie schritt</l>
+               <l>Nackt, zwischen Halmen hin am Wiesensaum.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <p>(Des Gedichtes dritter Theil folgt.)</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

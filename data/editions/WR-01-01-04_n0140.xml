@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-04_n0140.xml" prev="WR-01-01-04_n0139.xml" next="WR-01-01-04_n0141.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 4, S. 140</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="04"/>
+                        <biblScope unit="page" n="n0140"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-01-01">1 1 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0041">
+                  <title level="a">Rhythmen</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 4</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="139" to="140"/>
+                  <idno type="fn">WR-01-01-04_n0139.xml</idno>
+                  <author ref="#wr-person-0005">Rappaport, Felix</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">140</fw>
+               <fw type="ctext">RAPPAPORT.</fw>
+            </fw>
+            <lg>
+               <l>Sein Haupt, das glühnde, sie umschlossen hält —</l>
+               <l>Zu seiner Seele ward</l>
+               <l>ihr Selbsterkennen.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>VENEDIG.</title>
+            </ab>
+            <ab>
+               <title>I.</title>
+            </ab>
+            <lg>
+               <l>
+                  <hi rend="initial">Manche</hi> schreiten im Lichte <milestone unit="3dots"/> doch um dich her</l>
+               <l>Dämmernd grünliche Schimmer</l>
+               <l>den Pfad erhellen <milestone unit="3dots"/>
+               </l>
+            </lg>
+            <lg>
+               <l>Aus vergessenen Gärten schwül und schwer</l>
+               <l>Ziehen die Düfte,</l>
+               <l>die welken Blüthen entschwellen.</l>
+            </lg>
+            <lg>
+               <l>Längst gestorben ragt die Stadt aus dem Meer,</l>
+               <l>Weisse Paläste</l>
+               <l>umklagt von den wiegenden Wellen. —</l>
+            </lg>
+            <lg>
+               <l>Wie auf dem Feste der Masken gehst du einher,</l>
+               <l>Wenn das Horn erdröhnt</l>
+               <l>und die Geigen gellen <milestone unit="3dots"/>
+               </l>
+            </lg>
+            <ab>
+               <title>II.</title>
+            </ab>
+            <lg>
+               <l>
+                  <hi rend="initial">In</hi> der Tiefe brausen die Wasser; doch oben</l>
+               <l>Gleitet die Barke, die schlanke,</l>
+               <l>im weissen Licht <milestone unit="3dots"/>
+               </l>
+            </lg>
+            <lg>
+               <l>Nicht die Stürme, die nachts um die Ufer toben,</l>
+               <l>Die versunkenen Dome,</l>
+               <l>du kennst sie nicht.</l>
+            </lg>
+            <lg>
+               <l>Längst ist aller Wille zum Kampf zerstoben,</l>
+               <l>Kaum ein Laut,</l>
+               <l>der die fluthende Stille durchbricht —</l>
+            </lg>
+            <lg>
+               <l>Aus deiner Tiefen smaragdenem Glanz gewoben,</l>
+               <l>Ragt in steinernen Rhythmen</l>
+               <l>das Gedicht <milestone unit="3dots"/>
+               </l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

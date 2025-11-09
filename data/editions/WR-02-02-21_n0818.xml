@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-21_n0818.xml" prev="WR-02-02-21_n0817.xml" next="WR-02-02-21_n0819.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 21, S. 818</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="21"/>
+                        <biblScope unit="page" n="n0818"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-09-15">15 9 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0499">
+                  <title level="a">Aus den Aufzeichnungen über den amerikanischen Bürgerkrieg (1861—64)</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 21</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="813" to="818"/>
+                  <idno type="fn">WR-02-02-21_n0813.xml</idno>
+                  <author ref="#wr-person-0083">Whitman, Walt</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">818</fw>
+               <fw type="ctext">WHITMAN.</fw>
+            </fw>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">Ungenannt bleiben die Tapfersten</hi>.</title>
+            </ab>
+            <p>Wer schreibt, frage ich, wer kann je die Geschichte solcher<lb/>
+Scenen schreiben? Von hunderten, ja tausenden aus Nord und Süd<lb/>
+unverzeichneten Helden, unbekannten Heroismus, unglaublichen, unvor-<lb break="no"/>
+bereiteten, unvergleichlichen Verzweiflungsthaten — wer erzählt von<lb/>
+ihnen? Keine Geschichte verzeichnet, kein Gedicht besingt, keine<lb/>
+Musik verkündet diese tapfersten Männer von allen, diese Thaten.<lb/>
+Kein formeller Bericht eines Generals, kein Buch in der Bibliothek,<lb/>
+keine Spalte in der Zeitung, verewigt die Tapfersten aus Norden und<lb/>
+Süden, Osten und Westen. Ungenannt und ungekannt bleiben die<lb/>
+tapfersten Soldaten und werden es bleiben. Unsere Männlichsten —<lb/>
+unsere Jungen, unsere muthigen Lieblinge: kein Bild zeigt sie uns.<lb/>
+Der typische Fall (der zweifellos für hunderte und tausende gilt) bleibt<lb/>
+vermuthlich der, dass er zu irgend einem Busch oder ins Farnkraut<lb/>
+kriecht, nachdem er seinen Todesschuss empfangen, dort schützt er<lb/>
+sich eine kleine Weile, weicht Wurzeln und Gras und Erde mit seinem<lb/>
+rothen Blute auf — die Schlacht schreitet vor, wogt zurück, flutet<lb/>
+von der Scene weg, braust vorüber, und hier vielleicht unter Qualen<lb/>
+und Schmerzen (aber geringeren, viel geringeren, als man meint) windet<lb/>
+sich die letzte Schlaftrunkenheit wie eine dunkle Schlange um ihn,<lb/>
+die Augen verglasen im Tod und — niemand fragt weiter nach ihm —<lb/>
+vielleicht durchforscht die Begräbnismannschaft eine Woche später<lb/>
+bei Waffenstillstand die verborgene Stelle gar nicht und hier zerfällt<lb/>
+der Tapferste von allen auf der Mutter Erde, unbestattet und<lb/>
+unbekannt.</p>
+            <p>(Fortsetzung folgt.)</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

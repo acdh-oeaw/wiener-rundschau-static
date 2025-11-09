@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-08_n0193.xml" prev="WR-03-01-08_n0192.xml" next="WR-03-01-08_n0194.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 8, S. 193</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="08"/>
+                        <biblScope unit="page" n="n0193"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0604">
+                  <title level="a">Leben</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 8</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="188" to="193"/>
+                  <idno type="fn">WR-03-01-08_n0188.xml</idno>
+                  <author ref="#wr-person-0185">Meyer Förster, Elsbeth</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0605">
+                  <title level="a">Der Lebensabend einer Idealistin</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 8</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="193" to="195"/>
+                  <idno type="fn">WR-03-01-08_n0193.xml</idno>
+                  <author ref="#wr-person-0199">Hartstein, B. v.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">HARTSTEIN: DER LEBENSABEND EINER IDEALISTIN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Die jugendliche Frau des Comman-<lb break="no"/>
+deurs von Brockwitz hatte sich erschossen.</p>
+                     <p>»In einem Anfall von Geistesgestört-<lb break="no"/>
+heit.« — Ja. — Sie war über Nietzsche,<lb/>
+Tolstoi, Björnsen und Strindberg ge-<lb break="no"/>
+rathen, die letzte Zeit; das hatte sie<lb/>
+total verrückt gemacht. Die sollten polizei-<lb break="no"/>
+lich verboten sein, von rechtswegen. Gift,<lb/>
+Mord, Zersetzung für die »unbeherrschte<lb/>
+Phantasie« — — — — — — — —</p>
+                     <milestone unit="hr"/>
+                     <lb/>
+                     <p>Die kleinen, militärischen Herrchen,<lb/>
+die Waisen der Villa draussen an der<lb/>
+Chaussee wurden mit ihren blassen Locken-<lb break="no"/>
+köpfchen gar oft einträchtig an dem<lb/>
+grossen Fenster über dem stillen Vorgarten<lb/>
+gesehen.</p>
+                     <p>Sie salutierten, die Hand an den<lb/>
+Schläfen, wenn ein befreundeter Officier<lb/>
+vorübergieng. Und wenn Papa nach Hause</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">kam, gebeugt, das blonde Gesicht in<lb/>
+düstere Falten gepresst, aufrecht und<lb/>
+säbelklirrend, dann sprangen sie gleich-<lb break="no"/>
+zeitig von ihrem Platz auf dem Fenster-<lb break="no"/>
+tritt auf, und stellten sich in militärischer<lb/>
+Subordination zur Begrüssung nebenein-<lb break="no"/>
+ander im Corridor auf.</p>
+                     <p>Dort hieng noch Mamas grosser,<lb/>
+weicher Abendmantel, den niemand von<lb/>
+der Stelle nehmen durfte, und auf den<lb/>
+der Vater jedesmal mit einem dumpfen<lb/>
+Ton aus seiner Brust Mütze und Säbel<lb/>
+hängte. —</p>
+                     <p>Sie aber, sie beide, küssten hundertmal<lb/>
+in unbewachten Augenblicken Mamachens<lb/>
+lieben, todten Mantel, der noch nach<lb/>
+ihrem Wesen duftete. —</p>
+                     <p>Und erst zu Ostern wanderten sie von<lb/>
+diesem Mantel fort, ins Bensberger Ca-<lb break="no"/>
+dettenhaus.</p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DER LEBENSABEND EINER IDEALISTIN.*<lb/>
+Von <rs type="person" key="">B. v. HARTSTEIN</rs> (Baden).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Wie eine Botschaft von einem anderen<lb/>
+Ufer, mit dem der Verkehr schon lange<lb/>
+abgeschnitten ist, kommt uns Malwida<lb/>
+von Meysenbugs letztes Buch, von einem<lb/>
+Ufer, wo heitere Greise in ewig lächelnder<lb/>
+Jugend, unter warmgrünen, schlankge-<lb break="no"/>
+stielten Palmen wandeln, und wo das reine<lb/>
+Sonnenlicht klar und gleich über die<lb/>
+glitzernden Kanten weissmarmorner Tempel-<lb break="no"/>
+mauern streicht. Man glaubt, sich dem<lb/>
+fernen Ufer selbst zu nähern, selbst dort<lb/>
+zu sein, mitten unter all dem Grossen und<lb/>
+Fremden. Und wenn man länger um sich<lb/>
+schaut, sieht man, dass die Dinge nicht<lb/>
+fremd sind, dass es dieselben sind, die<lb/>
+uns sonst umgeben, der Frühling, der<lb/>
+Wald, das Meer, die Statuen und die<lb/>
+Menschen. Es ist kein fernes Ufer, es ist<lb/>
+die Welt, in der wir leben, unsere Ge-<lb break="no"/>
+danken, die nach Gestaltung ringen,<lb/>
+aber von ferne wiedergespiegelt in dem<lb/>
+grossen, klaren Auge der jung-greisen<lb/>
+Idealistin, die Contouren, die sich sonst<lb/>
+in schillernder Lichtbrechung verwischen,</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">festgehalten in reinen, classischen Linea-<lb break="no"/>
+menten.</p>
+                     <p>Bis in ihr höchstes Alter — ihr<lb/>
+jüngstes Werk veröffentlicht die Schrift-<lb break="no"/>
+stellerin als achtzigjährige Frau — bewahrt<lb/>
+sie sich ihr jugendfrisches Temperament,<lb/>
+ihren rastlosen Wissens- und Schönheits-<lb break="no"/>
+durst. Die Gedankenwelt ist ihr Element,<lb/>
+Philosophieren die unaufhörliche Bethäti-<lb break="no"/>
+gung ihres Geistes, dessen Erholung und Ver-<lb break="no"/>
+jüngungsmittel, wie sie es selbst in folgenden<lb/>
+Worten bekennt: »<milestone unit="4dots"/> Mich hat dies<lb/>
+alles, dieses viele und traurige Trennen,<lb/>
+sehr angegriffen und ich rufe mit aller<lb/>
+Inbrunst den heitern Intellect zu Hilfe,<lb/>
+denn in diesen Tagen empfand ich es<lb/>
+noch recht lebhaft, wie nur der Intellect<lb/>
+heiter ist. Er ist das solarische Gebiet;<lb/>
+das andere, das tellurische, der Wille, ist<lb/>
+das Dunkle, das Schmerzbrütende, Qualen-<lb break="no"/>
+spendende; ich will sehen, ob es mir ge-<lb break="no"/>
+lingt, mich mit Hilfe des Intellectes oben<lb/>
+zu erhalten über allem, was in der letzten<lb/>
+Zeit mich wieder betrübt und bedrückt</p>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Malwida von Meysenbug, der Lebensabend einer Idealistin. <date>1898</date>, Schuster &amp; Loeffler,<lb/>
+Berlin und Leipzig.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-20_n0465.xml" prev="WR-03-02-19_n0464.xml" next="WR-03-02-20_n0466.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 20, S. 465</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="20"/>
+                        <biblScope unit="page" n="n0465"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0716">
+                  <title level="a">Laus Veneris I.</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 20</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="20">20</biblScope>
+                  <biblScope unit="page" from="465" to="468"/>
+                  <idno type="fn">WR-03-02-20_n0465.xml</idno>
+                  <author ref="#wr-person-0228">Swinburne, Algernon Charles</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="strong">LAUS VENERIS</hi>
+                  <milestone unit="hr"/>
+                  <lb/>
+VON <rs type="person" key="">
+                     <hi rend="strong">ALGERNON CH. SWINBURNE</hi>
+                  </rs>
+                  <lb/>
+UMDICHTUNG <milestone unit="hr"/>
+                  <lb/>
+VON <rs type="person" key="">HEDWIG LACHMANN</rs>
+                  <milestone unit="hr"/>
+               </title>
+            </ab>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>I.</title>
+            </ab>
+            <lg>
+               <l>Ist Wachen oder Schlafen dies? Noch fleckt</l>
+               <l>Ein Purpurbrandmal, darin sich erschreckt</l>
+               <l>Das Blut aufbäumte und dann taumelnd wich,</l>
+               <l>Den Hals ihr, der mit Küssen dicht bedeckt.</l>
+            </lg>
+            <lg>
+               <l>Doch gleichwohl meine Lippen wie in Wuth</l>
+               <l>Noch fest sich saugen, während sie so ruht,</l>
+               <l>Gehn ihre Pulse friedlich — sicherlich —</l>
+               <l>Ein tiefer Schlaf durchwärmt ihr ganzes Blut.</l>
+            </lg>
+            <lg>
+               <l>Seht, das ist sie, um deren Gunst die Welt</l>
+               <l>Einst buhlte, deren Macht anheimgestellt</l>
+               <l>Die Lose waren, und um deren Fuss</l>
+               <l>Wirbelnd die Zeit zerstob, wie Spreu zerfällt.</l>
+            </lg>
+            <lg>
+               <l>Seht, so war sie, als noch ihr Leib beglückt</l>
+               <l>Die tausende, die nun, der Welt entrückt,</l>
+               <l>Am Kreuze knien, mit Lippen welk vom Kuss</l>
+               <l>Der blut’gen Füsse und vom Leid erdrückt.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

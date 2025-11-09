@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-16_n0601.xml" prev="WR-02-02-15_n0600.xml" next="WR-02-02-16_n0602.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 16, S. 601</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="16"/>
+                        <biblScope unit="page" n="n0601"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-07-01">1 7 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0455">
+                  <title level="a">Die Maiwiese </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 16</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="16">16</biblScope>
+                  <biblScope unit="page" from="601" to="615"/>
+                  <idno type="fn">WR-02-02-16_n0601.xml</idno>
+                  <author ref="#wr-person-0160">Huch, Ricarda</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>1. <hi rend="text-spaced">JULI</hi> 1898</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">DIE MAIWIESE</hi>.<lb/>
+Von <rs type="person" key="">RICARDA HUCH</rs> (Wien).</title>
+            </ab>
+            <p>Da ich jetzt, nach zehn Jahren der Verbannung, beim Begräbnis<lb/>
+des Prinzen Asche das alte Schloss wieder betrete, kommt mir die<lb/>
+vergangene Zeit ins Gedächtnis, und ich finde keine Ruhe vor den<lb/>
+Phantomen, die aus allen Winkeln zusammenfliessen und mir nach-<lb break="no"/>
+schleichen. Die letzte Nacht, die ich in dem grossen Spiegelsaale zu-<lb break="no"/>
+brachte, wo die Leiche des Prinzen aufgebahrt stand, lag mir eine<lb/>
+liebliche, oder soll ich sagen traurige oder lächerliche Scene im Sinne,<lb/>
+ich spreche nämlich von der Maiwiese. Aus den Fenstern, die der<lb/>
+sommerlichen Wärme wegen offen standen, konnte ich sie zu einem<lb/>
+grossen Theile überblicken, ich sah die Trauerbirke, unter der die kleine<lb/>
+Ulla lag und heimlich weinte, die Spitzen der schwarzen Cypressen,<lb/>
+da wo Prinz Asche und Reine zusammen philosophierten, und die<lb/>
+Kastanienallee, wo der arme Graf Leo steif in seinem Blute gefunden<lb/>
+wurde. Die grüne Welt lag todtenstill eingehüllt in die reine Bläue der<lb/>
+Mondnacht und mahnte mich an den Garten des Paradieses, nachdem<lb/>
+das erste Menschenpaar daraus vertrieben war. Anders sah der Park aus<lb/>
+an jenem Maitage, im Geflimmer der Seide, unter Früchten und Blumen,<lb/>
+überwogt von einem Äthermeere seligen Gelächters, und fast möchte<lb/>
+ich es alles für einen Traum halten, wenn nicht durch das Blätter-<lb break="no"/>
+dickicht der genannten Allee die weisse Mauer des Findelhauses durch-<lb break="no"/>
+schiene, das jenen Aberwitz verewigt, zu dem ich selber Anlass ge-<lb break="no"/>
+geben habe. Folgendermassen.</p>
+            <p>Dass Prinz Asche — für mich nämlich blieb er immer, wie als<lb/>
+Kind, Prinz Asche — die Weltverbesserungssucht an sich hatte, war<lb/>
+mir von jeher zuwider gewesen. Denn ich bin der Meinung, dass man<lb/>
+die Leute in ihrem Schlamme soll sitzen lassen, nicht gerade damit<lb/>
+sie darin ersticken, sondern damit sie sich selber herausarbeiten, wenn<lb/>
+es ihnen endlich übel geworden ist. Wem würde es einfallen, Kröten</p>
+         </div>
+      </body>
+   </text>
+</TEI>

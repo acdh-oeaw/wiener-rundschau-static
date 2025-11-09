@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="WR-02-01-12_n0447.xml"
+     prev="WR-02-01-12_n0446.xml"
+     next="WR-02-01-12_n0448.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 12, S. 447</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="12"/>
+                        <biblScope unit="page" n="n0447"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-05-01">1 5 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text">
+                  <author/>
+                  <title n=""/>
+                  <biblScope unit="page">-</biblScope>
+                  <idno/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page"><milestone unit="verse-start"/><ab><title>MAUDALAY.<lb/>
+Aus den »Barrack-Room Ballads« von <rs type="person" key="">Rudyard Kipling</rs>.<lb/>
+Uebersetzt von <rs type="person" key="">Otto Sachs</rs> (<date>1897</date>).</title></ab><lg><l><hi rend="initial">Wo</hi> der alte Moulmein-Tempel ostwärts blinkt ins Meer hinein,</l>
+<l>Sitzt ein braunes Burmamädchen, und ich weiss, sie denkt</l>
+<l>jetzt mein.</l>
+<l>Denn der Wind geht in den Palmen, Tempelglocke singt dabei:</l>
+<l>Komm’ zurück, du Britenkrieger, komm zurück nach Maudalay.</l>
+<l>Komm’ zurück nach Maudalay!</l>
+<l>Von den Schiffen Reih’ an Reih’,</l>
+<l>Hörst du nicht die Ruder rauschen von Rangoon nach</l>
+<l>Maudalay?</l>
+<l>Dort am Weg nach Maudalay</l>
+<l>Spielt der Flugfisch, jagt der Hai;</l>
+<l>Und der Tag, von China dämmernd, streut ein Blitzen durch</l>
+<l>die Bai.</l></lg><lg><l>Und sie trug ein gelbes Röckchen, und ihr Häubchen, das</l>
+<l>war grün,</l>
+<l>Und sie nannt’ sich Lupi-gaw-lat, — grad’ wie Thebaws Königin.</l>
+<l>Eine Pfeife trug sie zierlich, als ich sie zuerst dort fand,</l>
+<l>Und bedeckt mit süssen Küssen eines irdnen Götzen Hand,</l>
+<l>Götzenbild aus Lehm gebrannt,</l>
+<l>Grosser Buddha — Gott genannt.</l>
+<l>Ah! Sie wandte Dir den Rücken, und ich küsst’ sie, wo sie stand.</l>
+<l>Dort am Weg nach Maudalay u. s. w.</l></lg><lg><l>Sank das Dunkel übers Reisfeld, zog die Sonne fort, dann oh,</l>
+<l>Seht, dann glitt sie aus der Hütte, und sie lockt’: Kullalolo!</l>
+<l>Wenn ihr Arm auf meiner Schulter, ihre Wang’ an meiner lag,</l>
+<l>Sah’n wir gern den fernen Dampfern, sah’n den Elephanten nach.</l>
+<l>Sah’n den Elephanten nach</l>
+<l>Patschend durch den schlammigen Bach —</l>
+<l>Pst! Nicht sprechen! ’s ist so ruhig und sonst wird die</l>
+<l>Stille wach.</l>
+<l>Dort am Weg nach Maudalay u. s. w.</l></lg></div>
+      </body>
+   </text>
+</TEI>

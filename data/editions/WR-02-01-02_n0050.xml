@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="WR-02-01-02_n0050.xml"
+     prev="WR-02-01-02_n0049.xml"
+     next="WR-02-01-02_n0051.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 2, S. 50</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0050"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-12-01">1 12 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text">
+                  <author/>
+                  <title n=""/>
+                  <biblScope unit="page">-</biblScope>
+                  <idno/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page"><milestone unit="verse-start"/><ab><title>ADONAI.<lb/>
+<hi rend="text-spaced">Liebeshymnus</hi>.</title></ab><ab><title>1.</title></ab><lg><l><hi rend="initial">Gekommen</hi> ist deine Liebe,</l>
+<l>Da ward Gesang meine Seele.</l>
+<l>Meine Liebe will ich dir sagen,</l>
+<l>Höre meiner Seele Gesang.</l></lg><ab><title>2.</title></ab><lg><l>Auf deinen Purpurwangen</l>
+<l>Verweilte lachende Morgenröthe,</l>
+<l>Aber unter der Weisheit deiner Brauen</l>
+<l>Träumen dunkle Fragen der Nacht.</l></lg><lg><l>Wie Goldwölkchen im Abendwinde</l>
+<l>Wehen die Locken deiner Stirne;</l>
+<l>Die Hochfluth deiner Haare,</l>
+<l>Ein wallendes Weizenfeld im Sommer.</l></lg><lg><l>Gleich dem würzigen Athem der Wiesen</l>
+<l>Ist der Wohlgeruch deines Mundes;</l>
+<l>Der Hauch deiner Brüste</l>
+<l>Wie Vergissmeinnicht und Veilchen.</l></lg><lg><l>Der Blick deiner Augen</l>
+<l>Ist glänzende Verheissung,</l>
+<l>Ersehntes Wetterleuchten</l>
+<l>Nach langen, regenlosen Wochen.</l></lg><lg><l>Deine kosende Stimme</l>
+<l>Das Tönen tanzender Sterne;</l>
+<l>Aber ein grollendes Wort von dir</l>
+<l>Das Donnern untergehender Welten.</l></lg></div>
+      </body>
+   </text>
+</TEI>

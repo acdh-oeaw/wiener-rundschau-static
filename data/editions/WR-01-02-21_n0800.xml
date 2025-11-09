@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-21_n0800.xml" prev="WR-01-02-21_n0799.xml" next="WR-01-02-21_n0801.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 21, S. 800</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="21"/>
+                        <biblScope unit="page" n="n0800"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-09-15">15 9 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0256">
+                  <title level="a">Abschied</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 21</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="797" to="800"/>
+                  <idno type="fn">WR-01-02-21_n0797.xml</idno>
+                  <author ref="#wr-person-0100">Linsemann, Paul</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">800</fw>
+               <fw type="ctext">LINSEMANN.</fw>
+            </fw>
+            <p>Ein süsses Träumen überkam ihn.</p>
+            <p>»Liebst du mich noch, Dora, liebst du mich noch?«</p>
+            <p>Sie schloss seinen Mund mit ihren Lippen. Dann:</p>
+            <p>»Na und Trude?«</p>
+            <p>Da schloss er wieder ihren Mund. Er schämte sich.</p>
+            <p>Die Stunden verrannen ihnen wie Minuten <milestone unit="3dots"/>
+            </p>
+            <milestone unit="hr"/>
+            <lb/>
+            <p>Dann aber schickte sie ihn fort. Es sei jetzt Zeit. Was sollten<lb/>
+auch die Hausleute denken?</p>
+            <p>»Dora, Dora, wie ist es nur möglich, dass unsere Liebe <milestone unit="2dots"/>?«</p>
+            <p>
+               <milestone unit="3dots"/> »Du musst jetzt gehen.«</p>
+            <p>»Auf Morgen <milestone unit="2dots"/> auf Morgen früh.«</p>
+            <p>»Morgen? Morgen darfst du nicht mehr hier sein.«</p>
+            <p>»Was? Warum nicht?«</p>
+            <p>»Weil Er morgen Früh kommt.«</p>
+            <p>Er fuhr auf:</p>
+            <p>»Dora — ist das deine Liebe?«</p>
+            <p>»Wenn du eine Trude hast, darf ich doch wohl einen Rudolf<lb/>
+haben? Denkst du, ich werde in ein Kloster geh’n? Ihr Männer seid<lb/>
+doch zu egoistisch.«</p>
+            <p>»Dora <milestone unit="2dots"/> und jetzt <milestone unit="2dots"/> wie konntest du nur?«</p>
+            <p>»Wie konntest <hi rend="text-spaced">du</hi> nur?«</p>
+            <p>»Und warum thatest du es?«</p>
+            <p>»Weil ich sehen wollte, ob ich noch Macht über dich habe,<lb/>
+mein Lieber. Gott sei dank, ich hab sie noch. O, wie schwach seid<lb/>
+ihr Männer! <milestone unit="2dots"/> da, gieb mir die Hand, wir wollen als gute Kameraden<lb/>
+von einander gehn <milestone unit="3dots"/> Ah, es ist schön, das Gefühl des Herrschers<lb/>
+zu haben <milestone unit="2dots"/> das ist das Schönste auf der Welt.«</p>
+            <p>Er nahm seinen Hut.</p>
+            <p>»Na — doch nicht böse? Wir mussten doch Abschied nehmen <milestone unit="2dots"/>
+               <lb/>
+weisst du, damals <milestone unit="2dots"/> die paar dummen Briefe — sollte das der Ab-<lb break="no"/>
+schied zwischen zwei netten Menschen sein, wie wir es sind? das war<lb/>
+unser nicht würdig! So behalten wir uns doch in guter Erinnerung<lb/>
+— im süssen Geheimniss —! <milestone unit="2dots"/> Nur nichts Alltägliches <milestone unit="2dots"/> Und schliess-<lb break="no"/>
+lich: wenn man nicht das bischen Sünde auf der Welt hätte <milestone unit="3dots"/> Na;<lb/>
+gute Nacht.«</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

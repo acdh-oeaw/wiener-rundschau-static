@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-05_n0161.xml" prev="WR-02-01-04_n0160.xml" next="WR-02-01-05_n0162.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 5, S. 161</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="05"/>
+                        <biblScope unit="page" n="n0161"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-01-15">15 1 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0338">
+                  <title level="a">Künstlerherzen </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 5</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="161" to="170"/>
+                  <idno type="fn">WR-02-01-05_n0161.xml</idno>
+                  <author ref="#wr-person-0127">Drachmann, Holger</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>15. <hi rend="text-spaced">JANUAR</hi> 1898</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>KÜNSTLERHERZEN.<lb/>
+Erzählung von <rs type="person" key="">Holger Drachmann</rs>.<lb/>
+Autorisirte Uebertragung aus dem Dänischen von <rs type="person" key="">Carl Küchler</rs>.</title>
+            </ab>
+            <p>
+               <hi rend="text-spaced">Erster Brief</hi>.</p>
+            <p>Lieber Morten!</p>
+            <p>Nur vierzehn Tage, und <milestone unit="3dots"/>!</p>
+            <p>Nein, ich will Dir meinen Bericht in chronologischer Reihenfolge<lb/>
+geben. Du wirst dann selbst am Schlusse einen ähnlichen Ausruf<lb/>
+wählen können, wie ich ihn über den Anfang gesetzt haben würde.</p>
+            <p>Es regnet ununterbrochen. Es hat vom allerersten Tage ab, dass<lb/>
+wir hier einzogen, beständig geregnet. Und das war vorgestern. Nun<lb/>
+kannst Du die Tage selbst zählen.</p>
+            <p>Wir fuhren in offenem Wagen von der Eisenbahnstation hierher<lb/>
+und waren, da wir einen miserablen Wagen, einen miserablen Weg<lb/>
+und miserable Pferde hatten, bei unserer Ankunft selbstverständlich<lb/>
+durch und durch geweicht.</p>
+            <p>Im Anfange versuchten Heinrich und ich es mit einer kleinen<lb/>
+Unterhaltung, um bei guter Laune zu bleiben. Wir suchten einander<lb/>
+mit jenen kurzen Ausrufen zu trösten, von denen man glaubt, der<lb/>
+Andere solle mehr Zutrauen dazu haben, als man selbst besitzt; z. B.:<lb/>
+Ich glaube doch, es fängt an, sich ein bischen aufzuklären: Sieh einmal,<lb/>
+dort über dem Walde; über dem Heuschober; dort draussen im Felde,<lb/>
+rechts! u. s. w.</p>
+            <p>Ach, wir entdeckten nur gar zu bald Einer des Anderen Lang-<lb break="no"/>
+weiligkeit!</p>
+            <p>Nichts macht die Menschen so scharfsinnig wie gemeinschaft-<lb break="no"/>
+liches Elend. Aus welchem Grunde man eigentlich bei weitem mehr In-<lb break="no"/>
+telligenz in der Welt erwarten sollte, als man durchschnittlich in ihr findet.</p>
+            <p>Dann kam das nächste Stadium, wo wir in stummem Schweigen<lb/>
+unsere Regenschirme zuklappten, da wir die Bemerkung machten, dass<lb/>
+wir einander viel nässer machten, wenn wir sie auf hatten, als wenn<lb/>
+sie zusammengeklappt neben uns lagen.</p>
+            <p>Wir versanken nach und nach in eine schlaffe Gleichgiltigkeit.<lb/>
+Derselben voraus ging indessen ein gewisses Schaudern, als wir merkten,</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-15_n0600.xml" prev="WR-01-02-15_n0599.xml" next="WR-01-02-16_n0601.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 15, S. 600</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="15"/>
+                        <biblScope unit="page" n="n0600"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-06-15">15 6 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0201">
+                  <title level="a">D’Arc, »La steppe«</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 15</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="15">15</biblScope>
+                  <biblScope unit="page" from="598" to="600"/>
+                  <idno type="fn">WR-01-02-15_n0598.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0203">
+                  <title level="a">Die Budapester Theaterscandale</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 15</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="15">15</biblScope>
+                  <biblScope unit="page" from="600" to="600"/>
+                  <idno type="fn">WR-01-02-15_n0600.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">600</fw>
+               <fw type="ctext">NOTIZEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">lichem Schneesturm eines Kindes<lb/>
+genas, die Auftritte zwischen Xenia<lb/>
+und Gritzko, zwischen Marika und<lb/>
+der alten Jüdin.</p>
+                     <p>Auch gibt es in diesem Buch<lb/>
+einen französischen Marquis, welcher<lb/>
+wirklich sehr französisch ist, ein<lb/>
+wenig Geist, ein wenig Herz, ein<lb/>
+wenig Sinnlichkeit; von Allem ein<lb/>
+wenig. Dieser »gentil garçon« hat<lb/>
+von nichts so viel, um etwa aus<lb/>
+der Mittelmässigkeit herauszutreten,<lb/>
+was immer missfallen könnte. Am<lb/>
+Schluss äussert er sogar eine Art<lb/>
+tiefer Gefühle, die auch im Augen-<lb break="no"/>
+blick wahr sein mögen. Er ist<lb/>
+vortrefflich beobachtet, dieser Mar-<lb break="no"/>
+quis, wie er so überall herum-<lb break="no"/>
+schnüffelt und Süssigkeiten sagt.</p>
+                     <p>Ich habe oben bemerkt, solche<lb/>
+Bücher sollten mehr geschrieben<lb/>
+werden, und zwar darum sollten<lb/>
+sie es, weil sie wahrhaft Erlebnisse<lb/>
+sind, nicht trockene Berichte von<lb/>
+Reisebeschreibern und Geographen.<lb/>
+Ich meine nicht die erzählten That-<lb break="no"/>
+sachen, sondern das empfundene<lb/>
+Milieu, jene erlebte, den Sinnen<lb/>
+nur langsam zugängliche Schönheit<lb/>
+der Dinge und Menschen. Darum<lb/>
+sagte ich auch, es sei so viel Liebe<lb/>
+in diesem Buch.</p>
+                     <p>
+                        <hi rend="italics">
+                           <rs type="person" key="">Oscar A. H. Schmitz</rs>.</hi>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="hr"/>
+                     <milestone unit="untyped-start"/>
+                     <p>Die Budapester Theater-<lb break="no"/>
+scandale werfen ihr klares Licht<lb/>
+auf die Ansichten der transleitha-<lb break="no"/>
+nischen Nachbarn: sie sind schwär-<lb break="no"/>
+merische, selbstlose Anhänger der<lb/>
+Exporttheorie, aber auch einge-</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">fleischte Gegner eines Importes auf<lb/>
+dem Gebiete der Kunst, eines<lb/>
+Importes, der nichts Willkommenes<lb/>
+bringt. Wie gütig Ungarn gegen<lb/>
+uns war! Fast kein Monat verging<lb/>
+im Winter, wo die Wiener Blätter<lb/>
+nicht Gelegenheit gehabt hätten,<lb/>
+von einer frischen Sendung fetten<lb/>
+oder mageren Fleisches aus Arpads<lb/>
+divanährenden Gefilden zu ver-<lb break="no"/>
+melden. Und keiner kam zu kurz:<lb/>
+eine entschädigende Sturzfluth von<lb/>
+Decolletagen und Enthüllungen auch<lb/>
+für Jene, die mangels eines nöthi-<lb break="no"/>
+gen Betriebscapitales das blosse<lb/>
+Zusehen hatten. Sie haben sich oft<lb/>
+für unsere nothleidende jeunesse<lb/>
+dorée geopfert, die armen heimat-<lb break="no"/>
+fernen Schönen: wie hilfsbereit<lb/>
+stellte sich Frau K.-K. bloss, wie<lb/>
+gerne gab Fräulein P. ihr letztes<lb/>
+Kleid her, um kalten Herzen warm<lb/>
+zu machen! Was hat die Wiener<lb/>
+Kunst dagegen den Söhnen Ungarns<lb/>
+geboten? Nichts! Wien war rück-<lb break="no"/>
+sichtslos und undankbar. Statt die<lb/>
+Mitzi-Gitzi oder die Kathi Hornau als<lb/>
+reine ideale Vertreter unserer<lb/>
+Kunst officiell nach Budapest zu<lb/>
+senden, zogen — incredibile dictu<lb/>
+— Frau Hohenfels, Herr Krastel<lb/>
+und Herr Christians zu den magya-<lb break="no"/>
+rischen Estheten! Musste sich die<lb/>
+beleidigte magyarische Cultur nicht<lb/>
+mit einem »Teremtete, hinaus!«<lb/>
+Luft machen? Gewiss, und kein<lb/>
+wahrer, modern Gebildeter wird<lb/>
+dem beleidigten ungarischen Kunst-<lb break="no"/>
+gefühl ein mitfühlendes »Bravo«<lb/>
+verweigern können <milestone unit="3dots"/>
+                        <hi rend="italics">
+                           <rs type="person" key="">Alfr. N—nn</rs>.</hi>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="hr"/>
+            <milestone unit="imprint-start"/>
+            <p>Herausgeber und verantwortlicher Redacteur: <hi rend="text-spaced">Rudolf Strauss</hi>.</p>
+            <p>Ch. Reisser &amp; M. Werthner, Wien.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

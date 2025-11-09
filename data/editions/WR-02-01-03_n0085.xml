@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-03_n0085.xml" prev="WR-02-01-03_n0084.xml" next="WR-02-01-03_n0086.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 3, S. 85</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0085"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-12-15">15 12 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0321">
+                  <title level="a">Vision</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="81" to="88"/>
+                  <idno type="fn">WR-02-01-03_n0081.xml</idno>
+                  <author ref="#wr-person-0123">Tetmajer, Kazimir</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">VISION.</fw>
+               <fw type="pn">85</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Andreas</hi>. Der Wind geht stark.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Priester</hi>. Es wird kühl, lasst uns ins Haus gehen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Maria</hi>. O nein, nein, bleiben wir hier am Meeresstrande und<lb/>
+lasst uns warten.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Priester</hi>. Wir können ja im Hause ebenso gut warten<lb/>
+wie hier.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Maria</hi>. Das wohl, aber hier sind wir ihnen näher. (Ein fremder<lb/>
+Schiffer mit einem Pack am Rücken tritt auf.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Fremder</hi>. Guten Abend!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Priester</hi>. Seid gegrüsst. Woher des Weges?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Fremde</hi>. Von fern her, ich gehe in die Heimat.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Priester</hi>. Ich sehe an Euerem Anzug, dass Ihr ein Schiffer<lb/>
+seid, ein Walfischjäger.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Fremde</hi>. Ja, mein Vater. Ich komme vom Norden her,<lb/>
+vom Walfischfang.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Maria</hi>. Vom Norden her? Seid Ihr nicht einem Schiff be-<lb break="no"/>
+gegnet?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Fremde</hi>. Welches soll es gewesen sein?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Maria</hi>. Das »Kreuz des Südens«, es war auf dem Walfischfang·<lb/>
+Seid Ihr ihm nicht begegnet?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Fremde</hi>. Ich weiss es nicht, leicht möglich. Zahlreich sind<lb/>
+die Schiffe, die dort auf offener See kreuzen. Alle sind heimgekehrt,<lb/>
+vorzeitig kamen furchtbare Stürme und Fröste.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Maria</hi> (fieberhaft). Aber eines nicht. Ihr habt es gesehen? Nicht<lb/>
+wahr?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Fremde</hi> (erstaunt). Woher wisst Ihr, Jungfrau, dass ich es<lb/>
+gesehen? Ja, ein Schiff blieb zurück. Wir sahen es von fern, im Eise<lb/>
+festgefroren. Ihm kann nicht mehr geholfen werden bis zum nächsten<lb/>
+Jahre. Inzwischen wird das Eis es zerdrücken und zermalmen. Es ist<lb/>
+das erste nicht <milestone unit="3dots"/> Wir selbst schwebten in grosser Gefahr <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Maria</hi> (mit schmerzlichem Flüstern). Es war das »Kreuz des<lb/>
+Südens«.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Fremde</hi>. Ich habe einen weiten Weg bis nach Hause, ich<lb/>
+muss fort. Gott behüte euch. (Er entfernt sich grüssend.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Priester</hi>. Gott behüte Euch.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Maria</hi>. Oheim, lieber Oheim, es war das »Kreuz des Südens«,<lb/>
+das Schiff unseres Gerhard.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Priester</hi>. Das kann Niemand wissen, mein Kind. Wessen<lb/>
+das Schiff auch gewesen sein mag, man muss für die Seelen der armen<lb/>
+Verunglückten beten. Ob es das Schiff deines Bruders war, das kann<lb/>
+Niemand wissen. Der Fremde wusste ja nicht, was es für ein Schiff<lb/>
+gewesen ist. Ich bin überzeugt, Gerhard kehrt zurück. Der Sturm hat sie<lb/>
+vielleicht etwas vom Lande fortgetrieben.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-09_n0328.xml" prev="WR-01-01-09_n0327.xml" next="WR-01-01-09_n0329.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 9, S. 328</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="09"/>
+                        <biblScope unit="page" n="n0328"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-03-15">15 3 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0105">
+                  <title level="a">Die tanzende Schlange</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 9</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="09">9</biblScope>
+                  <biblScope unit="page" from="328" to="329"/>
+                  <idno type="fn">WR-01-01-09_n0328.xml</idno>
+                  <author ref="#wr-person-0034">Baudelaire, Charles</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">DIE TANZENDE SCHLANGE</hi>.</title>
+            </ab>
+            <lg>
+               <l>
+                  <hi rend="initial">Ich</hi> seh’ dir zu mit schauderndem Entzücken,</l>
+               <l>Du schweigende Braut,</l>
+               <l>Es leuchtet fahl vor meinen trunk’nen Blicken</l>
+               <l>Die schillernde Haut.</l>
+            </lg>
+            <lg>
+               <l>Dein wallend’ Haar im schöngekrümmten Bogen,</l>
+               <l>Von Düften umschwebt:</l>
+               <l>Ein tiefes Meer mit dunkelbraunen Wogen,</l>
+               <l>Das fluthend sich hebt.</l>
+            </lg>
+            <lg>
+               <l>Ich eil’ zu dir beim ersten Morgengrauen</l>
+               <l>Auf gleitendem Kiel,</l>
+               <l>Es fiebert meine Seele, bald zu schauen</l>
+               <l>Das lockende Ziel.</l>
+            </lg>
+            <lg>
+               <l>Dein Aug’, das nie und nimmer offenbarte,</l>
+               <l>Was herb oder hold:</l>
+               <l>Ein kalter Edelstein, in dem sich paarte</l>
+               <l>Das Stahl mit dem Gold.</l>
+            </lg>
+            <lg>
+               <l>Wenn sich im Rhythmus deine Glieder wiegen</l>
+               <l>Frei, ohne Gewalt,</l>
+               <l>Gleichst du den Schlangen, die sich gleitend biegen</l>
+               <l>Zum Kreise geballt.</l>
+            </lg>
+            <lg>
+               <l>Dein Kinderhaupt sieht regungslos zur Erde,</l>
+               <l>So träge und müd’,</l>
+               <l>Und deiner schlafbefangenen Geberde</l>
+               <l>Kein Leben entsprüht.</l>
+            </lg>
+            <lg>
+               <l>Dein Körper neigt und streckt sich lüstern wieder,</l>
+               <l>Ein schwebendes Schiff,</l>
+               <l>Die Woge trägt es tanzend auf und nieder</l>
+               <l>Durch Strudel und Riff.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,204 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-27_n0639.xml" prev="WR-03-02-27_n0638.xml" next="WR-03-02-27_n0640.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 27, S. 639</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="27"/>
+                        <biblScope unit="page" n="n0639"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0780">
+                  <title level="a">Die Accorde Mozarts</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 27</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="27">27</biblScope>
+                  <biblScope unit="page" from="635" to="639"/>
+                  <idno type="fn">WR-03-02-27_n0635.xml</idno>
+                  <author ref="#wr-person-0099">Pastor, Willy</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0781">
+                  <title level="a">Wer ist Zarathustra?</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 27</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="27">27</biblScope>
+                  <biblScope unit="page" from="639" to="642"/>
+                  <idno type="fn">WR-03-02-27_n0639.xml</idno>
+                  <author ref="#wr-person-0183">Hartmann, Franz</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">HARTMANN: WER IST ZARATHUSTRA?</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">auf uns dur- oder moll-artig wirken läßt.<lb/>
+Denn, ob die enge oder weite oder ge-<lb break="no"/>
+mischte Lage gewählt ist, das Ohr hört<lb/>
+außer den indifferenten Intervallen der<lb/>
+Quarte und Quinte im einen Falle nur die<lb/>
+große, im anderen nur die kleine Form<lb/>
+der Terz.</p>
+                     <p>Wie aber verhält es sich nun bei Um-<lb break="no"/>
+kehrung der Accorde, wenn nicht der<lb/>
+Grundton, sondern die große oder kleine<lb/>
+Terz uns den Gesichtswinkel abgibt,<lb/>
+unter dem wir diesen Accord betrachten?</p>
+                     <p>Vergleichen wir die Accorde selbst an<lb/>
+einem praktischen Beispiele. Hören wir<lb/>
+zunächst in Dur:</p>
+                     <table>
+                        <row>
+                           <cell>
+                              <p>c2<lb/>
+e1<lb/>
+g<lb/>
+c</p>
+                           </cell>
+                           <cell>
+                              <p>und</p>
+                           </cell>
+                           <cell>
+                              <p>c2<lb/>
+e1<lb/>
+g<lb/>
+e</p>
+                           </cell>
+                        </row>
+                     </table>
+                     <p>Sodann in Moll:</p>
+                     <table>
+                        <row>
+                           <cell>
+                              <p>c2<lb/>
+es1<lb/>
+g<lb/>
+c</p>
+                           </cell>
+                           <cell>
+                              <p>und</p>
+                           </cell>
+                           <cell>
+                              <p>c2<lb/>
+g1<lb/>
+c1<lb/>
+es</p>
+                           </cell>
+                        </row>
+                     </table>
+                     <p>Kein Zweifel, dass in beiden Fällen<lb/>
+die »dur-artige« und »moll-artige Wirkung«<lb/>
+nicht aufgehoben, aber doch bedeutend<lb/>
+abgeschwächt erscheint. Die veränderte<lb/>
+Wirkung kann sich noch weniger geltend<lb/>
+machen, wenn die Accorde in Terz-Stellung<lb/>
+nur vorübergehend in einem Stück aus<lb/>
+Dur vorkommen, zu beiden Seiten um-<lb break="no"/>
+geben von Accorden der Grundstellung.</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Muss sie aber nicht umgekehrt stärker<lb/>
+und stärker hervortreten, wenn in den<lb/>
+umgebenden Accorden die Grundstellung<lb/>
+geflissentlich vermieden wird, wenn die<lb/>
+umgekehrte Stellung zur Regel, die Grund-<lb break="no"/>
+stellung zur Ausnahme wird?</p>
+                     <p>Wir untersuchten die Accorde Mozarts<lb/>
+auf das Geheimnis ihrer Wirkung; hier<lb/>
+wird es uns klar. Diese so unendlich<lb/>
+differenzierte Ausdrucksweise seiner Kunst<lb/>
+mit so unendlich einfachen Elementen,<lb/>
+seine Gabe, mit klaren Worten jene un-<lb break="no"/>
+sicheren schwebenden Stimmungen zu<lb/>
+treffen, die den modernen Menschen so<lb/>
+unruhig machen, das alles erreicht Mozart<lb/>
+mit dem scheinbar trivialen Mittel der<lb/>
+Accord-Stellung, in dem er wie kein zweiter<lb/>
+Meister war.</p>
+                     <p>Ein Vergleich aus der bildenden Kunst<lb/>
+mag diese Ausführungen beschließen.<lb/>
+Lionardo hat bisweilen, in seinen Hand-<lb break="no"/>
+zeichnungen namentlich, einen Typus<lb/>
+junger Männer und Weiber geschildert,<lb/>
+der die Psychologen des Gesichtsaus-<lb break="no"/>
+druckes fesselt als Beispiel der »combi-<lb break="no"/>
+nierten Ausdrucksform«. Diese jungen<lb/>
+Mädchen lachen mit den Augen, aber um<lb/>
+ihren Mund spielt ein Zug geheimer<lb/>
+Wehmuth; die Lippen dieser Jünglinge<lb/>
+kräuselt ein leichtes Lächeln, aber ihre<lb/>
+Augen schauen ernst und groß ins Weite.</p>
+                     <p>Das sind die Accorde Mozarts, diese<lb/>
+räthselhaften Klänge, die uns späten Enkeln<lb/>
+noch so viel zu sagen haben.</p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">WER IST ZARATHUSTRA</hi>?<lb/>
+(Friedrich Nietzsche und seine Philosophie.)<lb/>
+Von <rs type="person" key="">FRANZ HARTMANN</rs> (Florenz).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Es ist eine alte Geschichte, dass die<lb/>
+Wahrheit noch nie unter den Menschen<lb/>
+erschienen ist, ohne von der großen Menge<lb/>
+verkannt, missbraucht, verspottet und ge-<lb break="no"/>
+kreuzigt zu werden, und wie es der Wahr-</p>
+                  </cell>
+                  <cell>
+                     <p>heit ergeht, so ergeht es auch ihren<lb/>
+Propheten. Auch ist es eine bekannte<lb/>
+Thatsache, dass, wenn ein Strahl des<lb/>
+Lichtes der Wahrheit in unreife oder ver-<lb break="no"/>
+kehrte Gemüther fällt, er dadurch selber</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

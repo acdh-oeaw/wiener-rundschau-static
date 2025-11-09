@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-12_n0461.xml" prev="WR-02-01-12_n0460.xml" next="WR-02-01-12_n0462.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 12, S. 461</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="12"/>
+                        <biblScope unit="page" n="n0461"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-05-01">1 5 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0415">
+                  <title level="a">Mitterwurzer redivivus </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 12</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="461" to="462"/>
+                  <idno type="fn">WR-02-01-12_n0461.xml</idno>
+                  <author ref="#wr-person-0038">Guglia, Eugen</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>MITTERWURZER REDIVIVUS.<lb/>
+Von <rs type="person" key="">Eugen Guglia</rs> (Wien).</title>
+            </ab>
+            <p>Er war der grosse Versprechende: wie viel er auch gab, er<lb/>
+verhiess noch immer etwas. Das war sein grosser Reiz und seine<lb/>
+Jugend.</p>
+            <p>Er sagte manch gewaltiges Wort. Aber sein Blick sprach: Wartet,<lb/>
+ich weiss noch höhere Worte, noch tieferes Geheimniss.</p>
+            <p>Es war eine Dunkelheit um ihn, nur der Glanz seiner Blicke<lb/>
+leuchtete, und seine weissen Hände winkten durch die Nacht, in die<lb/>
+Nacht.</p>
+            <p>Wie sagt Zarathustra doch? »Ich liebe die, welche nicht zu leben<lb/>
+wissen, es sei denn als Untergehende, denn es sind die Hinüber-<lb break="no"/>
+gehenden.«</p>
+            <p>Er war ein Hinübergehender. Immer dachte man bei ihm: Wohin<lb/>
+wirst du mich führen? In welches unbekannte Land? Immer dachte<lb/>
+man, wenn man von ihm schied: Das nächstemal find’ ich dich nicht<lb/>
+mehr hier, find’ ich dich auf neuen Meeren, auf noch ungekannten<lb/>
+fremden Eilanden.</p>
+            <p>Wie oft war es, dass man hinter seiner Maske eine zweite Maske<lb/>
+ahnte. Unter, hinter dieser noch eine, und dann wieder eine. Wo ist<lb/>
+er selbst? fragte man dann.</p>
+            <p>Ich denke an seinen König Richard. Von Scene zu Scene<lb/>
+wandelte sich sein Bild, schien sein Wesen sich zu wandeln. In Selbst-<lb break="no"/>
+gesprächen enthüllt er’s scheinbar, und doch lüftet er kaum den Zipfel<lb/>
+des Schleiers. Nur zuletzt wirft er die Hülle ab: »Wohl tausend<lb/>
+Herzen schwellen meinen Busen!« Es kommt mit schmetterndem Klang<lb/>
+aus dem Innersten seiner Seele, jetzt ist kein Zweifel, der echte Richard<lb/>
+— wir kennen ihn nun. Aber es ist ein Augenblick nur. Gleich ent-<lb break="no"/>
+schwindet er uns im Gewoge des Kampfes, in der Nacht des Todes.<lb/>
+Wir aber wünschen ein neues Stück, wo dieser echte Richard uns noch<lb/>
+mehr enthüllte von seinem Wesen.</p>
+            <p>Und ich denke an seinen Röcknitz. Da spielt er den »Löwen-<lb break="no"/>
+willigen«, dem die Liebe »die grosse Herzstärkung ist und das grosse<lb/>
+Gleichniss Glück für höheres Glück und höchste Hoffnung«. Und die<lb/>
+Weiber entzückten sich an ihm und sagten: »Selig die, der ein Mann<lb/>
+auch nur so von Liebe spricht.«</p>
+            <p>Aber die Männer dachten: Ist es ihm nicht bloss ein Spiel? Wo<lb/>
+ist sein Ernst? Draussen, wenn er mit seinen Rossen über die weite<lb/>
+Haide jagt? Draussen auf dem dampfenden Schlachtfeld unter allen</p>
+         </div>
+      </body>
+   </text>
+</TEI>

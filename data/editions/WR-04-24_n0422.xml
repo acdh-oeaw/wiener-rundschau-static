@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-24_n0422.xml" prev="WR-04-24_n0421.xml" next="WR-04-24_n0423.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 24, S. 422</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="24"/>
+                        <biblScope unit="page" n="n0422"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0985">
+                  <title level="a">Im Hause des Richters</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 24</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="421" to="422"/>
+                  <idno type="fn">WR-04-24_n0421.xml</idno>
+                  <author ref="#wr-person-0068">Wilde, Oscar</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0986">
+                  <title level="a">Das Licht und die Inscenierung</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 24</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="422" to="428"/>
+                  <idno type="fn">WR-04-24_n0422.xml</idno>
+                  <author ref="#wr-person-0316">Appia, Adolphe</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">APPIA: DAS LICHT UND DIE INSCENIERUNG.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">riethest du vor Sonnenuntergang. Dein<lb/>
+Feind, der dich verschonte, war dir<lb/>
+feil um einen Silberling, und der dir<lb/>
+Liebe gab, dem gabst du Wollust —<lb/>
+Und der Mensch antwortete und sagte:<lb/>
+Also that ich — Und Gott schloss<lb/>
+des Menschen Lebensbuch und sagte:<lb/>
+Fürwahr, du sollst zur Hölle — ja<lb/>
+ich schicke dich zur Hölle —</p>
+                     <p>Und der Mensch rief aus: Das<lb/>
+vermagst du nicht! — Und Gott sagte<lb/>
+zu dem Menschen: Warum vermöchte<lb/>
+ich nicht, dich in die Hölle zu schicken,<lb/>
+und aus welchem Grunde?</p>
+                     <p>Weil ich immerdar in der Hölle<lb/>
+gelebt habe. — Und es war Schweigen</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">im Hause des Richters — Und nach einer<lb/>
+Weile hub Gott an und sagte zu dem<lb/>
+Menschen: Da ich dich nicht zur Hölle<lb/>
+schicken kann, schicke ich dich in den<lb/>
+Himmel — ja, in den Himmel —</p>
+                     <p>Und der Mensch rief aus: Das ver-<lb break="no"/>
+magst du nicht! — Und Gott sagte zu<lb/>
+dem Menschen: Warum vermöchte ich<lb/>
+nicht, dich in den Himmel zu schicken,<lb/>
+und aus welchem Grunde?</p>
+                     <p>Weil ich nun und nimmer mir ihn<lb/>
+denken könnte.</p>
+                     <p>Und es war Schweigen im Hause<lb/>
+des Richters. — — —</p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DAS LICHT UND DIE INSCENIERUNG.<lb/>
+Von <rs type="person" key="">ADOLPHE APPIA</rs> (Rom).*</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Die Partitur hat nur einen Weg,<lb/>
+auf der Bühne in sichtbare Erscheinung<lb/>
+zu treten, und zwar durch den Dar-<lb break="no"/>
+steller. Ohne ihn gibt es kein Drama,<lb/>
+und wenn er nicht auf die übrigen<lb/>
+Factoren der Darstellung einwirkt, so<lb/>
+steht die Inscenierung dem Drama<lb/>
+fremd gegenüber. Was ihm der poetisch-<lb break="no"/>
+musikalische Text anvertraut hat, über-<lb break="no"/>
+setzt er der Aufstellung, der Beleuchtung,<lb/>
+der Malerei, in eine ihnen verständliche<lb/>
+Sprache: er ist der Dolmetsch der Musik<lb/>
+für das unbelebte Bild.</p>
+                     <p>Alle Begriffe, die auf dieses unbelebte<lb/>
+Bild nicht übertragbar sind, bleiben also,<lb/>
+ohne sich weiterhin verbreiten zu können,<lb/>
+am Darsteller haften. Nun kann aber die<lb/>
+Menge dieser Begriffe eine ganz ver-<lb break="no"/>
+schiedene sein, und sie zu bestimmen,<lb/>
+liegt allein in der Hand des Wort-Ton-<lb break="no"/>
+dichters: je mehr er sich an unseren Ver-<lb break="no"/>
+stand wendet, je mehr er sich dem Aus-<lb break="no"/>
+gestalten einer rein innerlichen Handlung<lb/>
+hingibt, umso weniger wird die Musik<lb/>
+auf das scenische Leben einwirken können.<lb/>
+Denn im ersten Fall entzieht der Dra-<lb break="no"/>
+matiker der Inscenierung einen bedeutenden</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Theil der Ausdrucksfähigkeit, welche die<lb/>
+Musik von ihr fordert, und zum Ersatz<lb/>
+bleibt ihr ein nur sehr geringer Grad von<lb/>
+begrifflicher Bedeutung. Im zweiten Falle<lb/>
+gibt er dem Spiel des Darstellers einen<lb/>
+rein reflexen Charakter und hindert ihn<lb/>
+folglich, die unbelebten Factoren mit in<lb/>
+seinen Ausdruck hereinzuziehen. Da aber<lb/>
+der Dramatiker in keiner Weise gebunden<lb/>
+sein darf, sondern es ihm überlassen<lb/>
+bleiben muss, wie er mit seinem Texte<lb/>
+schalten, wie er die Verhältnisse von<lb/>
+Dichtung und Musik bemessen will, so muss<lb/>
+die Inscenierung eine dementsprechende<lb/>
+flüssige Beweglichkeit erhalten: sie darf<lb/>
+nicht in eine gleiche unveränderlich starre<lb/>
+Form festgebannt sein, indes die Partitur<lb/>
+aus einer Form in die andere hinübergleitet.</p>
+                     <p>Ich habe gesagt, dass ein Antagonismus<lb/>
+bestehe zwischen dem Princip, welches<lb/>
+die begriffliche Ausgestaltung des scenischen<lb/>
+Schauspiels leitet, und dem Princip, welches<lb/>
+der Ausdrucksform desselben zugrunde<lb/>
+liegt. Wie könnte man nun die beiden<lb/>
+Principien abwechselnd walten lassen, ohne<lb/>
+die der Aufführung unerlässliche Ein-<lb break="no"/>
+heitlichkeit zu zerstören?</p>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Deutsch von Elsa Prinzessin <hi rend="text-spaced">Cantacuzène</hi>.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-19_n0443.xml" prev="WR-03-02-19_n0442.xml" next="WR-03-02-19_n0444.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 19, S. 443</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="19"/>
+                        <biblScope unit="page" n="n0443"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0709">
+                  <title level="a">Dichtungen nach Baudelaire</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 19</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="19">19</biblScope>
+                  <biblScope unit="page" from="441" to="445"/>
+                  <idno type="fn">WR-03-02-19_n0441.xml</idno>
+                  <author ref="#wr-person-0176">George, Stefan</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">CHARLES BAUDELAIRE: DIE BLUMEN DES BÖSEN.</fw>
+            </fw>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>DER BALKON.</title>
+            </ab>
+            <lg>
+               <l>O Mutter der Erinnrung, Frau der Frauen,</l>
+               <l>Mein ganzes Glück und meine ganze Acht!</l>
+               <l>Kannst Du im Geist die schönen Freuden schauen,</l>
+               <l>Des Reimes Frieden und den Reiz der Nacht?</l>
+               <l>O Mutter der Erinnrung, Frau der Frauen.</l>
+            </lg>
+            <lg>
+               <l>In Nächten, leuchtend von der Kohle Glut,</l>
+               <l>In Nächten am Balkon, die rosig wallten,</l>
+               <l>Wie war Dein Busen süss, Dein Herz mir gut!</l>
+               <l>Und unvergängliche Gespräche schallten</l>
+               <l>In Nächten, leuchtend von der Kohle Glut.</l>
+            </lg>
+            <lg>
+               <l>An heissen Abenden, wie schön die Sonnen!</l>
+               <l>Wie stark das Herz! Wie weit die Himmelsluft!</l>
+               <l>Ich ruhte bei Dir, Königin der Wonnen,</l>
+               <l>Zu athmen glaubt ich Deines Blutes Duft,</l>
+               <l>An heissen Abenden, wie schön die Sonnen!</l>
+            </lg>
+            <lg>
+               <l>Dann ward es dunkler, wie in dichtem Rauch,</l>
+               <l>Mein Auge forschte, ob es Deines fände,</l>
+               <l>Ich trank — o Gift, o Süsse — Deinen Hauch,</l>
+               <l>Dein Fuss entschlief in meine Bruderhände.</l>
+               <l>Dann ward es dunkler, wie in dichtem Rauch.</l>
+            </lg>
+            <lg>
+               <l>Ich weiss in Glückes Zeit mich zu versenken,</l>
+               <l>Wo mein Geschick in Deinen Knieen lag.</l>
+               <l>Wer soll mir zarter Reize Freuden schenken,</l>
+               <l>Wenn es Dein Leib, Dein lindes Herz nicht mag?</l>
+               <l>Ich weiss in Glückes Zeit mich zu versenken.</l>
+            </lg>
+            <lg>
+               <l>Ihr Schwüre, Düfte, Küsse ohne Zahl!</l>
+               <l>Ersteht Ihr auf aus unerspähten Schlünden,</l>
+               <l>Wie junge Sonnen, die zum Wolkensaal</l>
+               <l>Sich heben nach dem Bad in Meeresgründen?</l>
+               <l>O Schwüre, Düfte, Küsse ohne Zahl!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
+      </body>
+   </text>
+</TEI>

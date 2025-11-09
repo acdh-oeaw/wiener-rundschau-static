@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-01_n0010.xml" prev="WR-01-01-01_n0009.xml" next="WR-01-01-01_n0011.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 1, S. 10</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0010"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-11-15">15 11 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0002">
+                  <title level="a">Wanjka</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="6" to="10"/>
+                  <idno type="fn">WR-01-01-01_n0006.xml</idno>
+                  <author ref="#wr-person-0002">Tchechow, Anton</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">10</fw>
+               <fw type="ctext">TSCHECHOW.</fw>
+            </fw>
+            <p>Wanjka faltete den auf allen vier Seiten beschriebenen<lb/>
+Brief und legte denselben ins Couvert, das er gestern um<lb/>
+eine Kopeke gekauft hatte <milestone unit="4dots"/> Er überlegte ein wenig,<lb/>
+tauchte die Feder ein und schrieb die Adresse:</p>
+            <p>Ins Dorf dem Grossväterchen.</p>
+            <p>Dann kratzte er sich, dachte nach und fügte hinzu:<lb/>
+»Constantin Makaritsch«. Zufrieden damit, dass man ihn beim<lb/>
+Schreiben nicht gestört hatte, setzte er die Mütze auf, und<lb/>
+ohne den Rock anzuziehen, lief er in blossem Hemd auf die<lb/>
+Strasse <milestone unit="4dots"/>
+            </p>
+            <p>Die Fleischhändler, die er gestern ausgefragt hatte,<lb/>
+sagten ihm, dass man die Briefe in den Postkasten wirft,<lb/>
+und dass sie von da ausgehoben und in Post-Dreigespanns<lb/>
+mit betrunkenen Janschtschicks und bimmelnden Glöcklein<lb/>
+über die ganze Erde herumgeführt werden. Wanjka lief bis<lb/>
+zum ersten Postkasten und schob den theueren Brief in die<lb/>
+Oeffnung <milestone unit="4dots"/>
+            </p>
+            <p>Von süssen Hoffnungen eingehüllt, schlief er eine Stunde<lb/>
+später einen tiefen Schlaf<milestone unit="4dots"/> Er träumte vom Ofen. Auf<lb/>
+dem Ofen sitzt der Grossvater, lässt die nackten Füsse herab-<lb break="no"/>
+hängen und liest diesen Brief den Köchinnen vor<milestone unit="4dots"/> Neben<lb/>
+dem Ofen aber geht Wjun herum und wedelt mit dem<lb/>
+Schweife<milestone unit="4dots"/>
+            </p>
+            <p>Moskau. <rs type="person" key="">Anton Tschechow</rs>.</p>
+            <p>Deutsch von <rs type="person" key="">Alex. Brauner</rs>.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

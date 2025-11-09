@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-02_n0047.xml" prev="WR-01-01-02_n0046.xml" next="WR-01-01-02_n0048.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 2, S. 47</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0047"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-01">1 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0013">
+                  <title level="a">Alladine und Palomides</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="41" to="49"/>
+                  <idno type="fn">WR-01-01-02_n0041.xml</idno>
+                  <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">ALLADINE UND PALOMIDES.</fw>
+               <fw type="pn">47</fw>
+            </fw>
+            <p rend="no-intend">blick wird noch kommen, wo die ganze Seele wie ein klares<lb/>
+Wasser hervorsprudeln wird, von dem Schmerze <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Nein, nein!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Ablamore</hi>.</p>
+            <p>Abermals <milestone unit="3dots"/> Wir sind nicht am Ende, der Weg ist<lb/>
+sehr weit — und die nackte Wahrheit verbirgt sich zwischen<lb/>
+den Felsen <milestone unit="3dots"/> Wird sie kommen? <milestone unit="3dots"/> Ich sehe schon ihre<lb/>
+Zeichen in deinen Augen, und ihr frischer Athem badet mein<lb/>
+Gesicht <milestone unit="3dots"/> Ah! <milestone unit="3dots"/> Alladine! Alladine! (Er lässt sie plötzlich los.)<lb/>
+Ich habe deine Gebeine wimmern hören wie kleine Kinder <milestone unit="3dots"/>
+               <lb/>
+Ich habe dir doch nicht wehe gethan? <milestone unit="3dots"/> Bleib nicht so auf<lb/>
+den Knien vor mir <milestone unit="3dots"/> Ich werfe mich vor dir auf die Knie.<lb/>
+(Er thut, wie er es sagt.) Ich bin ein Unglücklicher <milestone unit="3dots"/> Du musst<lb/>
+Erbarmen mit mir haben <milestone unit="3dots"/> Nicht für mich allein bitte ich <milestone unit="3dots"/>
+               <lb/>
+Ich habe nur <hi rend="text-spaced">eine</hi> arme Tochter <milestone unit="3dots"/> Alle anderen sind todt <milestone unit="3dots"/>
+               <lb/>
+Ich hatte sieben um mich her <milestone unit="3dots"/> Sie waren schon und reich<lb/>
+an Glück, und ich sah sie nicht wieder <milestone unit="3dots"/> Die letzte, die mir<lb/>
+blieb, war nahe daran, ebenfalls zu sterben <milestone unit="3dots"/> Sie liebte das<lb/>
+Leben nicht <milestone unit="3dots"/> Aber eines Tages hatte sie eine Begegnung,<lb/>
+welche sie nicht mehr erwartete, und ich sah, dass sie den<lb/>
+Wunsch zu sterben verloren <milestone unit="3dots"/> Ich verlange nichts Unmög-<lb break="no"/>
+liches <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <p>(Alladine weint und antwortet nicht.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="scene-start"/>
+            <ab>
+               <title>IV. <hi rend="text-spaced">Scene</hi>.</title>
+            </ab>
+            <p>Astolainens Gemach.</p>
+            <p>
+               <hi rend="text-spaced">Astolaine</hi> und <hi rend="text-spaced">Palomides</hi>.</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi>.</p>
+            <p>Astolaine, als ich durch einen Zufall Euch begegnete,<lb/>
+es sind wenige Monate her, schien es mir, als fände ich endlich,<lb/>
+was ich seit langen Jahren gesucht hatte <milestone unit="3dots"/> Ehe ich Euch<lb/>
+kannte, wusste ich nicht, was mitleidsvolle Güte und voll-<lb break="no"/>
+kommene Einfalt einer erhabeneren Seele allzeit sein kann. Ich<lb/>
+ward so tief davon erschüttert, dass ich wähnte, ich begegnete</p>
+         </div>
+      </body>
+   </text>
+</TEI>

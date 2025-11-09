@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-04_n0086.xml" prev="WR-03-01-04_n0085.xml" next="WR-03-01-04_n0087.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 4, S. 86</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="04"/>
+                        <biblScope unit="page" n="n0086"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0563">
+                  <title level="a">Die Schlüssel des Himmelreichs. (Commentar. Dritter und Fünfter Act)</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 4</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="81" to="87"/>
+                  <idno type="fn">WR-03-01-04_n0081.xml</idno>
+                  <author ref="#wr-person-0175">Strindberg, August</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">STRINDBERG: DIE SCHLÜSSEL DES HIMMELREICHS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Don Quixote</hi>.</p>
+                     <lg>
+                        <l>Nicht müde bin ich bloss, zusammen</l>
+                        <l>brech’ ich!</l>
+                        <l>Mein Leben, war es auch nur eine Sage,</l>
+                        <l>Neu leben wird es jegliches Geschlecht,</l>
+                        <l>So lang’ die Erde kreist, der Himmel</l>
+                        <l>steht,</l>
+                        <l>Die Menschen hinter Truggebilden jagen,</l>
+                        <l>So lange man nichts lernt und nichts</l>
+                        <l>vergisst,</l>
+                        <l>Wird Don Quixote weiter leben</l>
+                        <l>In Jünglings Thorheit, Mannes Klugheit!</l>
+                        <l>Fahr’ wohl. Du Welt, voll grimmen,</l>
+                        <l>holden Trug’s:</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>(Sinkt nieder.)</p>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">St. Peter</hi>.</p>
+                     <lg>
+                        <l>Der edle Ritter, er ist todt!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Jude</hi>.</p>
+                     <lg>
+                        <l>Und lebt doch!</l>
+                        <l>Er hielt sich selbst die beste Leichenrede,</l>
+                        <l>Wie keiner sie ihm besser halten konnte. —</l>
+                        <l>Doch sieh’, mich dünkt, dass auch St. Peter</l>
+                        <l>Sein müdes Haupt zur Ruhe neigt.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">St. Peter</hi>
+                        <lb/>
+(hat sich niedergesetzt und scheint schläfrig).</p>
+                     <lg>
+                        <l>Der Plag’ und Mühen bin ich satt</l>
+                        <l>Und ohne Klage geh’ ich aus der Welt,</l>
+                        <l>Denn nicht auf Erden findest Du den</l>
+                        <l>Himmel,</l>
+                        <l>Nur dessen Pforte — die da heisst der</l>
+                        <l>Tod!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>(Stirbt.)</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="scene-start"/>
+                     <p>
+                        <hi rend="text-spaced">Sechste Scene</hi>. Der Jude ([der Arzt]<lb/>
+lässt die Verkleidung fallen). Der Schmied.</p>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>
+                        <lb/>
+(will sich setzen, wird jedoch vom Arzte<lb/>
+zurückgehalten).</p>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Nein, nein! Du darfst Dich noch nicht</l>
+                        <l>setzen,</l>
+                        <l>Zur Hälfte kaum verstrichen ist Dein</l>
+                        <l>Leben.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>So warst das Du? — Dann lass uns</l>
+                        <l>scheiden,</l>
+                        <l>Denn ich will ruh’n hier in des Baumes</l>
+                        <l>Schatten,</l>
+                        <l>Und Deine Weise, nie verstand ich sie. —</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Es ist gut ruhen nicht im Schatten</l>
+                        <l>solcher Bäume,</l>
+                        <l>Auch leg’ auf and’rer Schultern nicht</l>
+                        <l>Dein Kreuz,</l>
+                     </lg>
+                  </cell>
+                  <cell>
+                     <lg>
+                        <l>Das ist bequem, doch leider gibt’s kein</l>
+                        <l>Resultat,</l>
+                        <l>Steh auf, und trage selbst es bis ans</l>
+                        <l>Ende.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Das that ich auch, und hier ist nun das</l>
+                        <l>Ende.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Nein, hier!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>Verwandlung. (Das Innere der Ruinen<lb/>
+des Thurmes zu Babel. Galerien und<lb/>
+Gänge. Im Hintergrunde eine grosse<lb/>
+Nische. Rechts eine Leiter, die auf halber<lb/>
+Wand aufhört. Mitten im Raume ein<lb/>
+Tisch, über den eine zierliche Decke ge-<lb break="no"/>
+breitet ist. Unter derselben ein Korb.)</p>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Wo bin ich hier? — Ist das die</l>
+                        <l>Unterwelt?</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Nein, Du bist unten in dem Thurm zu</l>
+                        <l>Babel!</l>
+                        <l>Der Sage doch gedenkst Du aus der</l>
+                        <l>Jugend,</l>
+                        <l>Wie einst die Menschen sträflich sich</l>
+                        <l>vermassen</l>
+                        <l>Und in den Himmel klettern wollten,</l>
+                        <l>In Thurmesform sich eine Treppe bauend.</l>
+                        <l>Die Götter — nein, hm, Gott vertrug</l>
+                        <l>das nicht</l>
+                        <l>Und er zertrümmerte den stolzen Bau. —</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Weshalb ihn heut’ nicht wieder auferbau’n,</l>
+                        <l>In diesen Tagen, da wir nachgeahmt</l>
+                        <l>Den Blitz, hinan zum Himmel segeln,</l>
+                        <l>Herniedersteigen auf des Meeres Grund</l>
+                        <l>Und durch den Draht mit fremden</l>
+                        <l>Ländern sprechen.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Du Himmelsstürmer, lebst Du immer</l>
+                        <l>noch?</l>
+                        <l>Sieh hier im Bilde Deine ält’sten Ahnen!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>
+                        <hi rend="text-spaced">Phantasmagorien</hi>
+                        <lb/>
+(auf weissem Grunde in der Nische des Fonds).</p>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>1. Ikarus.</l>
+                     </lg>
+                     <lg>
+                        <l>Hier sieh, wie Ikarus sich Flügel bildet,</l>
+                        <l>Um aufzuschwingen sich zur Sonne selbst,</l>
+                        <l>Die Sonne aber schmolz das Wachs im</l>
+                        <l>Mechanismus</l>
+                        <l>Und den Entflügelten verschlang das Meer.</l>
+                     </lg>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

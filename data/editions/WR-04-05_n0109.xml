@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-05_n0109.xml" prev="WR-04-05_n0108.xml" next="WR-04-05_n0110.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 5, S. 109</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="05"/>
+                        <biblScope unit="page" n="n0109"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0821">
+                  <title level="a">Landschaft</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 5</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="101" to="124"/>
+                  <idno type="fn">WR-04-05_n0101.xml</idno>
+                  <author ref="#wr-person-0273">Wenban, Sion L.</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0823">
+                  <title level="a">Die Philosophie des Giordano Bruno II.</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 5</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="105" to="109"/>
+                  <idno type="fn">WR-04-05_n0105.xml</idno>
+                  <author ref="#wr-person-0275">Kuhlenbeck, Ludwig, Dr.</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0824">
+                  <title level="a">Die Beziehungen zwischen Thema und Material</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 5</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="109" to="111"/>
+                  <idno type="fn">WR-04-05_n0109.xml</idno>
+                  <author ref="#wr-person-0005">Rappaport, Felix</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">RAPPAPORT: DIE BEZIEHUNGEN ZWISCHEN THEMA UND MATERIAL.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <lg>
+                        <l>Mit Sinn, Vernunft und Geist erschau ich deine</l>
+                        <l>Unendlichkeit, die keine Zahl ermisst,</l>
+                        <l>Wo überall Mitte, nirgends Umfang ist,</l>
+                        <l>In deinem Wesen wohnet auch das meine.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>Wen erinnerte dies nicht an Fichtes<lb/>
+Verse, in denen er die Quintessenz seiner<lb/>
+eigenen Philosophie zusammenfasst:</p>
+                  </cell>
+                  <cell>
+                     <milestone unit="verse-start"/>
+                     <lg>
+                        <l>Das Ewig-Eine</l>
+                        <l>Lebt mir im Leben, sieht in meinem</l>
+                        <l>Sehen —</l>
+                        <l>Nichts ist denn Gott, und Gott ist nichts denn</l>
+                        <l>Leben,</l>
+                        <l>Gar klar die Hülle sich vor dir erhebet;</l>
+                        <l>Dein Ich ist sie, es sterbe, was vernichtbar,</l>
+                        <l>Und fortan lebt nur Gott in deinem Streben!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="undefined"/>
+            <p>Vom Verfasser vorstehender Abhandlung sind folgende Übersetzungen aus den Schriften<lb/>
+               <hi rend="text-spaced">Giordano Brunos</hi> erschienen:</p>
+            <p>1. <hi rend="text-spaced">Eroici Furori</hi> oder Zwiegespräche vom Helden und Schwärmer. Leipzig,<lb/>
+W. Friedrichs Verlag.</p>
+            <p>2. <hi rend="text-spaced">Giordano Bruno vom Unendlichen</hi>, <hi rend="text-spaced">dem All und den Welten</hi>.<lb/>
+Berlin <date>1893</date>, Lüstenöder (jetzt bei Albert Warnecke, Leipzig).</p>
+            <p>3. <hi rend="text-spaced">Giordano Brunos Reformation des Himmels oder die Vertreibung<lb/>
+der triumphierenden Bestie</hi>. Leipzig, H. W. Theodor Dieters Verlag, <date>1899</date>.</p>
+            <p>4. <hi rend="text-spaced">Lichtstrahlen aus Giordano Brunos Werken</hi>. Leipzig, H. W. Theodor<lb/>
+Dieters Verlag, <date>1899</date>.</p>
+            <p>Vgl. außerdem: <hi rend="text-spaced">Bruno</hi>, <hi rend="text-spaced">der Märtyrer der neuen Weltanschauung</hi>, 2. vermehrte<lb/>
+Aufl. Von L. Kuhlenbeck. Leipzig, H. W. Theodor Dieter, <date>1899</date>. — <hi rend="text-spaced">Lorbeer und Rose</hi>,<lb/>
+Sonette und andere Gedichte von Giordano Bruno, übersetzt von L. Kuhlenbeck, nebst einer<lb/>
+Auswahl eigener Dichtungen. Frankfurt a. O., bei H. Andres &amp; Co. (jetzt bei Gaadenfelt &amp; Co.<lb/>
+in Berlin).</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIE BEZIEHUNGEN ZWISCHEN THEMA UND MATERIAL.<lb/>
+Von <rs type="person" key="">FELIX RAPPAPORT</rs> (Wien).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Vom Wesentlichen der Kunst zu<lb/>
+reden ist heute beinahe unmöglich ge-<lb break="no"/>
+worden. Die das ablaufende Jahr-<lb break="no"/>
+hundert kennzeichnende Sucht, Wesent-<lb break="no"/>
+liches zu vermeiden und Überflüssiges,<lb/>
+Äußerliches, Nebensächliches hervorzu-<lb break="no"/>
+heben, hat, vereint mit jener eingeborenen<lb/>
+Begriffsschwere, welche alles wörtlich<lb/>
+nimmt, auf diesem Boden ihre aus-<lb break="no"/>
+schweifendsten Orgien gefeiert. Nach-<lb break="no"/>
+dem eine sogenannte Ästhetik in der<lb/>
+Undefinierbarkeit der von ihr aufge-<lb break="no"/>
+stellten Begriffe ertrunken war, ist eine<lb/>
+psychologische Kritik aufgetaucht, die<lb/>
+aber zur Kunst ebenfalls nur ein äußer-<lb break="no"/>
+liches und literarisches Verhältnis hat.<lb/>
+Kunstgeschichte ist nicht Künstler-<lb break="no"/>
+geschichte; Zeitströmungen, Lebens-<lb break="no"/>
+verhältnisse, persönliche Eigenschaften<lb/>
+und Absichten eines Künstlers erklären<lb/>
+uns nicht einen einzigen Pinselstrich.<lb/>
+Die Kunst fängt eben da an, wo die</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Absichten aufhören: eine Dunkelkammer<lb/>
+hat keine Absichten.</p>
+                     <p>Vielen, die sich für berufen halten,<lb/>
+scheint es überhaupt noch nicht<lb/>
+klar zu sein, dass es sich hier um<lb/>
+Forschung, Naturforschung, exacte<lb/>
+Naturwissenschaft—das Wort im weite-<lb break="no"/>
+sten Sinne genommen — handelt. Der<lb/>
+für alle Künste geltende Ausspruch des<lb/>
+Aristoteles, welcher der Musik einen<lb/>
+physikalisch und einen mathematisch<lb/>
+fassbaren Theil zuschreibt, ist nicht<lb/>
+oder höchstens in seiner ersten Hälfte<lb/>
+beachtet worden. Die meisten scheinen<lb/>
+noch nicht einmal zu ahnen, dass Kunst-<lb break="no"/>
+werke jenseits des Willens und seiner<lb/>
+Werkzeuge stehen und dass voll-<lb break="no"/>
+kommenste <hi rend="text-spaced">Passivität</hi> der Anfang der<lb/>
+Kunst ist; dass das Werk infolge eines<lb/>
+mit <hi rend="text-spaced">geometrisch</hi> darstellbarer Folge-<lb break="no"/>
+richtigkeit sich abspielenden Entwick-<lb break="no"/>
+lungsprocesses entsteht, der mehr oder</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-01_n0003.xml" prev="WR-01-01-01_n0002.xml" next="WR-01-01-01_n0004.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 1, S. 3</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0003"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-11-15">15 11 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0001">
+                  <title level="a">Alladine und Palomides</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="1" to="5"/>
+                  <idno type="fn">WR-01-01-01_n0001.xml</idno>
+                  <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">ALLADINE UND PALOMIDES.</fw>
+               <fw type="pn">3</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Ablamore</hi>.</p>
+            <p>Ich habe nichts gehört <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Ich sage Euch, dass Jemand kommen wird <milestone unit="3dots"/> Da ist<lb/>
+er! (Sie zeigt auf einen Jüngling, der, sein Pferd am Zügel führend, zwischen den<lb/>
+Bäumen vorwärtsschreitet.) Nehmt mich nicht bei der Hand, ich<lb/>
+fürchte mich nicht <milestone unit="3dots"/> Er hat uns nicht gesehen <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Ablamore</hi>.</p>
+            <p>Wer wagt es, hierher zu kommen? <milestone unit="3dots"/> Wenn ich nicht<lb/>
+wüsste <milestone unit="3dots"/> Ich glaube, es ist Palomides <milestone unit="3dots"/> Es ist Asto-<lb break="no"/>
+lainens Bräutigam <milestone unit="3dots"/> Er hat den Kopf gehoben <milestone unit="3dots"/> Seid<lb/>
+Ihr es, Palomides? (Palomides tritt auf.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi>.</p>
+            <p>Ja, mein Vater <milestone unit="3dots"/> Wenn es mir schon gestattet ist,<lb/>
+Euch diesen Namen zu geben <milestone unit="3dots"/> Ich komme hierher vor<lb/>
+dem Tage und der Stunde <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Ablamore</hi>.</p>
+            <p>Ihr seid willkommen, zu welcher Stunde es auch sei <milestone unit="3dots"/>
+               <lb/>
+Doch was hat sich ereignet? Wir erwarteten Euch erst in<lb/>
+zwei Tagen <milestone unit="2dots"/> Ist Astolaine hier? <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi>.</p>
+            <p>Nein, sie wird morgen kommen. Wir sind Tag und<lb/>
+Nacht gereist. Sie war müde und hat mich gebeten voraus-<lb break="no"/>
+zueilen <milestone unit="3dots"/> Sind meine Schwestern angekommen?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Ablamore</hi>.</p>
+            <p>Sie sind, in Erwartung Euerer Hochzeit, seit drei Tagen<lb/>
+hier. — Ihr seht sehr glücklich aus, Palomides <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi>.</p>
+            <p>Wer wäre nicht glücklich, wenn er gefunden hat, was<lb/>
+er gesucht? Ehedem war ich traurig. Doch nun scheinen mir<lb/>
+die Tage leichter und linder als kleine Vogel, die mir harmlos</p>
+         </div>
+      </body>
+   </text>
+</TEI>

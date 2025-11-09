@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-01_n0012.xml" prev="WR-01-01-01_n0011.xml" next="WR-01-01-01_n0013.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 1, S. 12</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0012"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-11-15">15 11 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0003">
+                  <title level="a">Gedichte</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="11" to="12"/>
+                  <idno type="fn">WR-01-01-01_n0011.xml</idno>
+                  <author ref="#wr-person-0003">Hofmannsthal, Hugo von</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">12</fw>
+               <fw type="ctext">HOFMANNSTHAL.</fw>
+            </fw>
+            <lg>
+               <l>Das Salböl aus den Händen</l>
+               <l>Der todten alten Frau</l>
+               <l>Lass lächelnd ihn verschwenden</l>
+               <l>An Adler, Lamm und Pfau:</l>
+               <l>Er lächelt der Gefährten, —</l>
+               <l>Die schwebend unbeschwerten</l>
+               <l>Abgründe und die Gärten</l>
+               <l>Des Lebens tragen ihn!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>II.<lb/>
+GUTE STUNDE.</title>
+            </ab>
+            <lg>
+               <l>
+                  <hi rend="initial">Hier</hi> lieg ich, mich dünkt es der Gipfel der Welt,</l>
+               <l>Hier hab ich kein Haus, und hier hab ich kein Zelt!</l>
+            </lg>
+            <lg>
+               <l>Die Wege der Menschen sind um mich her,</l>
+               <l>Hinauf zu den Bergen und nieder zum Meer:</l>
+            </lg>
+            <lg>
+               <l>Sie tragen die Waare, die ihnen gefällt,</l>
+               <l>Unwissend, dass jede mein Leben enthält.</l>
+            </lg>
+            <lg>
+               <l>Sie bringen in Schwingen aus Binsen und Gras</l>
+               <l>Die Früchte, von denen ich lange nicht ass:</l>
+            </lg>
+            <lg>
+               <l>Die Feige erkenn’ ich, nun spür ich den Ort,</l>
+               <l>Doch lebte der lange Vergessene fort!</l>
+            </lg>
+            <lg>
+               <l>Und war mir das Leben, das schöne, entwandt,</l>
+               <l>Es hielt sich im Meer und es hielt sich im Land!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <p>Wien. <rs type="person" key="">Hugo v. Hofmannsthal</rs>.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

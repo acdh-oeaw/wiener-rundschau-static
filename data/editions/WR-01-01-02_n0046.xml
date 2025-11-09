@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-02_n0046.xml" prev="WR-01-01-02_n0045.xml" next="WR-01-01-02_n0047.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 2, S. 46</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0046"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-01">1 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0013">
+                  <title level="a">Alladine und Palomides</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="41" to="49"/>
+                  <idno type="fn">WR-01-01-02_n0041.xml</idno>
+                  <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">46</fw>
+               <fw type="ctext">MAETERLINCK.</fw>
+            </fw>
+            <p rend="no-intend">Thräne oder eine blosse Bewegung der Augenlider das Glück<lb/>
+Aller, die sie umgeben, zu trüben, dass ich niemals erfahren<lb/>
+werde, ob sie gleich mir diesen unseligen Kuss gesehen<lb/>
+hat. Aber ich weiss, was sie leiden konnte. Ich werde dich<lb/>
+nichts fragen, was du mir nicht zu bekennen vermagst, doch<lb/>
+ich möchte wissen, ob du irgend einen geheimen Plan hattest,<lb/>
+als du Palomides unter dem Fenster küsstest, an welchem<lb/>
+ihr uns sehen musstet. Antworte mir ohne Furcht, du weisst<lb/>
+im Voraus, dass ich Alles verzeihe.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Ich habe ihn nicht geküsst.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Ablamore</hi>.</p>
+            <p>Wie? Du hast Palomides nicht geküsst, und Palomides<lb/>
+hat dich nicht geküsst?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Nein.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Ablamore</hi>.</p>
+            <p>Ah! <milestone unit="3dots"/> Höre: ich war gekommen, um dir Alles zu ver-<lb break="no"/>
+zeihen <milestone unit="3dots"/> Ich glaubte, dass du gehandelt hattest, wie wir<lb/>
+fast Alle handeln, ohne dass etwas von unserer Seele daran<lb/>
+theilnimmt <milestone unit="2dots"/> Aber jetzt will ich Alles wissen, was vorgefallen<lb/>
+ist <milestone unit="2dots"/> Du liebst Palomides, und du hast ihn vor meinen Augen<lb/>
+geküsst.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Aladine</hi>.</p>
+            <p>Nein.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Ablamore</hi>.</p>
+            <p>Geh’ nicht fort. Ich bin nur ein Greis. Entfliehe nicht <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Ich entfliehe nicht.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Ablamore</hi>.</p>
+            <p>Ah! Ah! Du fliehst nicht, weil du meine alten Hände für<lb/>
+harmlos hältst! <milestone unit="2dots"/> Aber sie haben noch die Kraft, ein Geheimniss<lb/>
+Allen zum Trotz zu entreissen (er ergreift ihre Arme) und sie könnten<lb/>
+gegen Alle kämpfen, die du bevorzugst <milestone unit="3dots"/> (Er kehrt ihr die<lb/>
+Arme auf den Nacken.) Ah! Du sprichst nicht! <milestone unit="3dots"/> Der Augen-</p>
+         </div>
+      </body>
+   </text>
+</TEI>

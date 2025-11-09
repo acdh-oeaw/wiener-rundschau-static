@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-03_n0088.xml" prev="WR-01-01-03_n0087.xml" next="WR-01-01-03_n0089.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 3, S. 88</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0088"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-15">15 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0026">
+                  <title level="a">Alladine und Palomides</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="88" to="95"/>
+                  <idno type="fn">WR-01-01-03_n0088.xml</idno>
+                  <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="performance-start"/>
+            <ab>
+               <title>ALLADINE UND PALOMIDES.<lb/>
+Ein kleines Drama für Marionetten von <rs type="person" key="">Maurice Maeterlinck</rs>.<lb/>
+Autorisirte Uebersetzung von <rs type="person" key="">Marie Lang</rs>.</title>
+            </ab>
+            <milestone unit="act-start"/>
+            <ab>
+               <title>III. ACT.</title>
+            </ab>
+            <milestone unit="scene-start"/>
+            <ab>
+               <title>I. <hi rend="text-spaced">Scene</hi>.</title>
+            </ab>
+            <p>Ein Gemach im Palaste.</p>
+            <p>
+               <hi rend="text-spaced">Ablamore</hi>. <hi rend="text-spaced">Astolaine</hi> verweilt auf der Schwelle einer halbgeöffneten Thüre des<lb/>
+Saales.</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Astolaine</hi>.</p>
+            <p>Mein Vater, ich bin gekommen, weil eine Stimme, der<lb/>
+ich nicht mehr widerstehen kann, es mir gebietet. Ich habe<lb/>
+Euch gesagt, was in meiner Seele vorgegangen ist, als ich<lb/>
+Palomides begegnet bin. Er glich nicht den anderen Men-<lb break="no"/>
+schen <milestone unit="3dots"/> Heute komme ich, Euch um Euere Hilfe zu bitten <milestone unit="3dots"/>
+               <lb/>
+Denn ich weiss nicht, was ich ihm sagen soll <milestone unit="3dots"/> Ich habe<lb/>
+erkannt, dass ich nicht lieben konnte <milestone unit="3dots"/> Er ist derselbe<lb/>
+geblieben, und ich allein habe mich geändert, oder ich habe<lb/>
+nicht verstanden <milestone unit="3dots"/> Und da es mir unmöglich ist, ihn, den<lb/>
+ich unter Allen erwählt hatte, zu lieben, wie ich es geträumt,<lb/>
+so muss mein Herz wohl all dem verschlossen sein <milestone unit="3dots"/> Ich<lb/>
+weiss es heute <milestone unit="3dots"/> Ich will mich nicht mehr nach der Liebe<lb/>
+hinwenden und Ihr sollt mich an Euerer Seite leben sehen<lb/>
+ohne Trauer und ohne Unruhe <milestone unit="3dots"/> Ich fühle, dass ich glück-<lb break="no"/>
+lich sein werde <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Ablamore</hi>.</p>
+            <p>Komm’ zu mir, Astolaine. So pflegtest du früher nicht<lb/>
+mit deinem Vater zu sprechen. Du wartest dort auf der</p>
+         </div>
+      </body>
+   </text>
+</TEI>

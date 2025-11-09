@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-17_n0641.xml" prev="WR-02-02-16_n0640.xml" next="WR-02-02-17_n0642.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 17, S. 641</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="17"/>
+                        <biblScope unit="page" n="n0641"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-07-15">15 7 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0464">
+                  <title level="a">Wiener Freie Bühne</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 17</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="17">17</biblScope>
+                  <biblScope unit="page" from="641" to="642"/>
+                  <idno type="fn">WR-02-02-17_n0641.xml</idno>
+                  <author ref="#wr-person-0007">Schik, F.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>15. <hi rend="text-spaced">JULI</hi> 1898</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">WIENER FREIE BÜHNE</hi>.*)</title>
+            </ab>
+            <p>Eine in anderen Grossstädten glänzend erprobte Institution<lb/>
+darf in Wien nicht länger fehlen.</p>
+            <p>In Berlin hat die langjährige Thätigkeit der »Freien Bühne«<lb/>
+niveauhebend gewirkt. Nicht zum mindesten ist es auf diese<lb/>
+zurückzuführen, dass dort ein Vorsprung auf dramatischem Ge-<lb break="no"/>
+biete erreicht wurde, während bei uns noch immer instinctive<lb/>
+Angst vor Werken herrscht, die eine andere als die hergebrachte<lb/>
+Verkörperungsweise verlangen.</p>
+            <p>Kein Concurrenz-Unternehmen soll den Wiener Theatern<lb/>
+erstehen, sondern eine künstlerische Hilfsaction für sie alle ein-<lb break="no"/>
+geleitet werden. Die Berliner Theater-Directoren haben den<lb/>
+Wert eines solchen Unternehmens sofort erfasst und unter-<lb break="no"/>
+stützen es wohlwollend. Es ist ihnen eine erwünschte Versuchs-<lb break="no"/>
+bühne. Das Publicum strömt den Aufführungen, welche dort<lb/>
+die »Freie Bühne« von Zeit zu Zeit veranstaltet, reichlich zu und<lb/>
+wirkt mit, wenn es gilt, neuen Talenten den Weg zu ebnen.</p>
+            <p>Eine »Wiener Freie Bühne« hat naturgemäss eine noch<lb/>
+grössere Aufgabe vor sich, als sie die Berliner zu erfüllen hatte,<lb/>
+weil unsere Bühnenzustände künstlerisch hart an die Grenze des<lb/>
+Verfalles gerathen sind.</p>
+            <p>Zum Wesen der »Freien Bühne« gehört, dass sie Werke<lb/>
+von noch unbekannten Talenten vorführe, für welche den Bühnen-</p>
+            <milestone unit="hr"/>
+            <note type="footnote">
+               <p>*) Anmerkung der Redaction: Wir sind in der Lage mitzutheilen,<lb/>
+dass die Vorarbeiten für die Schaffung einer »Freien Bühne« in Wien im Zuge<lb/>
+sind und hoffentlich bald zu dem gewünschten Resultate führen werden.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

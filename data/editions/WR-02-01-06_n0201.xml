@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-06_n0201.xml" prev="WR-02-01-05_n0200.xml" next="WR-02-01-06_n0202.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 6, S. 201</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="06"/>
+                        <biblScope unit="page" n="n0201"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-02-01">1 2 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0342">
+                  <title level="a">Gold </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 6</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="06">6</biblScope>
+                  <biblScope unit="page" from="201" to="210"/>
+                  <idno type="fn">WR-02-01-06_n0201.xml</idno>
+                  <author ref="#wr-person-0131">Gemberg, Adine</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>1. <hi rend="text-spaced">FEBRUAR</hi> 1898</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>GOLD.<lb/>
+Novelle von <rs type="person" key="">Adine Gemberg</rs> (Wittenberg).</title>
+            </ab>
+            <p>Im Münzamt waren die Beamten damit beschäftigt, neugeprägte<lb/>
+Goldstücke in Rollen zu packen. Lange, der Münzinspector, wog jede<lb/>
+Rolle nach und schrieb dann darauf: »Fünfhundert Mark in Gold«,<lb/>
+»Eintausend Mark in Gold« u. s. w.</p>
+            <p>Man hörte nur das leise, ganz eigenthümliche Klirren des Goldes,<lb/>
+das Klappen der Wage, das Athmen der vier Männer, die hier bei<lb/>
+einer ganz mechanischen, tödtlich einförmigen Arbeit, von der ganzen<lb/>
+Aussenwelt isolirt, sassen.</p>
+            <p>Sie hielten den Nerv des Lebens in ihren Händen, und doch<lb/>
+umgab sie selbst die Stille des Todes.</p>
+            <p>Nur ihre Vorgesetzten, nur die Beamten der Münze, die ihre<lb/>
+Thätigkeit revidirten, hatten Zutritt zu dem mit allen möglichen Sicher-<lb break="no"/>
+heitsvorrichtungen versehenen Raum. Das ungezählte, ungewogene Gold<lb/>
+wurde einer Maschine entnommen, in die es an der Prägestätte ein-<lb break="no"/>
+gefüllt ward.</p>
+            <p>Der Inspector Lange hatte heute bereits eine Million notirt, die<lb/>
+von den Leuten verpackt, von ihm gewogen, gesiegelt und mit Auf-<lb break="no"/>
+schriften versehen war. Und immer noch klirrten die Doppelkronen<lb/>
+aus dem Schlitze des Automaten hervor. Es hatte den Anschein, als<lb/>
+rieselte hier ein Brunnen, ein Goldquell, der nimmer versiegen könne.</p>
+            <p>Und thatsächlich versiegte er ja auch nicht. Das Gold, das von<lb/>
+dieser Stätte einmal ausgegangen war, kehrte zurück, und immer<lb/>
+wieder formten die Zähler daraus die Rollen, die der Inspector mit<lb/>
+der Aufschrift ihres Werthes versah.</p>
+            <p>Eine Million! Wer würde sie besitzen und was würde sie ihrem<lb/>
+Besitzer gewähren?</p>
+            <p>Ja, wenn diese Summe ihm gehört hätte! <milestone unit="3dots"/>Lange sann nach<lb/>
+— wenn sie ihm gehört hätte, dann hätte er wohl gewusst — —</p>
+            <p>Ja, man soll so etwas nicht denken l</p>
+         </div>
+      </body>
+   </text>
+</TEI>

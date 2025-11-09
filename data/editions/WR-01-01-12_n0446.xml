@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-12_n0446.xml" prev="WR-01-01-12_n0445.xml" next="WR-01-01-12_n0447.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 12, S. 446</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="12"/>
+                        <biblScope unit="page" n="n0446"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-05-01">1 5 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0146">
+                  <title level="a">Wölfe</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 12</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="441" to="446"/>
+                  <idno type="fn">WR-01-01-12_n0441.xml</idno>
+                  <author ref="#wr-person-0060">Forsslund, Carl Erik</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">446</fw>
+               <fw type="ctext">FORSSLUND.</fw>
+            </fw>
+            <p rend="no-intend">ihr? Ist es Fleisch, warmes, weiches Fleisch? Oder Blut, saftiges<lb/>
+Blut! Hier habet ihr meinen ganzen Bettelsack, all mein täglich<lb/>
+Brot — ein wenig trocken ist es, eigentlich sind es nur Knochen,<lb/>
+aber davon soll ich leben, sagen die Leute im Thal. Oder ist es<lb/>
+etwas Anderes, wonach euch hungert — danach, euere scharfen<lb/>
+Klauen und euere starken Zähne in grosse, dünne Creaturen zu<lb/>
+schlagen — oder in sehnige Menschenkörper — in Menschen, die euch<lb/>
+hassen und verfolgen <milestone unit="4dots"/> danach, euch zu rächen — zu geniessen —<lb/>
+zu leben <milestone unit="4dots"/> so ist es wohl, ihr Gedanken mein <milestone unit="4dots"/> aber wann<lb/>
+werdet ihr Rache nehmen — wann werdet ihr leben ohne Hunger?<lb/>
+Sterben sollt ihr. Ich will euch zu Tode hetzen, wie ihr mich gehetzt,<lb/>
+ich will euch von Sinnen spielen, und ihr sollt einander zerreissen,<lb/>
+ich habe wohl noch Kraft genug, euch mit meinem Spiel zu lenken.<lb/>
+Ihr habt mich lange genug gejagt, ich will Frieden vor euch haben;<lb/>
+Ruhe will ich haben, zu sterben, im Leben liesset ihr mir ja nie<lb/>
+Ruhe, ich will in Frieden sterben, eines Abends im Walde — sacht,<lb/>
+sacht — eines Abends im Frühling, wenn es im Walde spielt — wenn<lb/>
+es duftet — —«</p>
+            <p>Seine Stimme starb in einem Schluchzen dahin. Er sank in den<lb/>
+Schnee hinab, und die Fiedel glitt aus seiner Hand. Eine weisse<lb/>
+Wolke nahm die Sonne aus seinen Augen, und auf der Spitze des<lb/>
+Sonnenfelsens wurde sein alter Leib von ausgehungerten Wölfen in<lb/>
+Stücke gerissen, indess der Frühlingswind sang und sang <milestone unit="4dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-01_n0005.xml" prev="WR-02-01-01_n0004.xml" next="WR-02-01-01_n0006.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 1, S. 5</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0005"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-11-15">15 11 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0301">
+                  <title level="a">Der Herbst </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="1" to="5"/>
+                  <idno type="fn">WR-02-01-01_n0001.xml</idno>
+                  <author ref="#wr-person-0049">Fuchs, Georg</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DER HERBST.</fw>
+               <fw type="pn">5</fw>
+            </fw>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>III.<lb/>
+                  <hi rend="text-spaced">Tafel des Stifters</hi>.</title>
+            </ab>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>Das Weihgeschenk.</title>
+            </ab>
+            <lg>
+               <l>Herrin, empfangt die umflochtene Schale:</l>
+               <l>Der Ernte Vollendung künde sie dir;</l>
+               <l>Der Ernte Vollendung im dämmernden Thale,</l>
+               <l>Neige dein Herze, nimm sie von mir!</l>
+               <l>Rast gewähre, bis neu ich dir diene:</l>
+               <l>Siehe, die Früchte brachten wir heim,</l>
+               <l>Dir trug lieblichen Honig die Biene,</l>
+               <l>Dir wuchs zum Wipfel Setzling und Keim.</l>
+               <l>Das Mühlrad peitschet die schnellende Röhre,</l>
+               <l>Dass es schäumt und malmend kreist,</l>
+               <l>Im trunknen Gewölbe singen die Chöre</l>
+               <l>Das Lied der Jugend von Klarheit und Geist.</l>
+            </lg>
+            <lg>
+               <l>Ich bin der Winzer, der den Weinstock bindet,</l>
+               <l>Ich bin der Mundschenk, der den Jährling giesst</l>
+               <l>Ich bin der Gärtner, der das Veilchen findet,</l>
+               <l>Der die reife Ueberfülle spriesst.</l>
+               <l>Ich bin der Sämann, bin der Schnitter,</l>
+               <l>Bin der Erde Wirth und Gast,</l>
+               <l>Ich sättige sie mit Saat</l>
+               <l>Nach lenzlichem Gewitter,</l>
+               <l>Ich pflücke von dem süss berauschten Ast</l>
+               <l>Nach der Väter Brauch und Rath,</l>
+               <l>Ich bin der Sämann, bin der Schnitter.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>Gebet.</title>
+            </ab>
+            <lg>
+               <l>Breite deine klaren Linnen,</l>
+               <l>Senke sanft sie, decke zu,</l>
+               <l>Schliess aus deiner Kraft die Rinnen,</l>
+               <l>Grosser Rufer läute zur Ruh!</l>
+               <l>Könnte noch das Herz uns darben</l>
+               <l>In den irdischen Paradiesen,</l>
+               <l>Da wir kühn die Frucht erwarben,</l>
+               <l>Liebend ihren Geist gemessen,</l>
+               <l>Da wir ruhen bei ruhenden Gaben,</l>
+               <l>Bis verjüngt die Quellen fliessen.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

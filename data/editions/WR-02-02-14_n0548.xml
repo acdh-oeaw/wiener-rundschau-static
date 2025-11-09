@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-14_n0548.xml" prev="WR-02-02-14_n0547.xml" next="WR-02-02-14_n0549.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 14, S. 548</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="14"/>
+                        <biblScope unit="page" n="n0548"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-06-01">1 6 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0438">
+                  <title level="a">Strindberg, der Bekenner</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 14</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="14">14</biblScope>
+                  <biblScope unit="page" from="543" to="548"/>
+                  <idno type="fn">WR-02-02-14_n0543.xml</idno>
+                  <author ref="#wr-person-0146">Berg, Leo</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">548</fw>
+               <fw type="ctext">BERG.</fw>
+            </fw>
+            <p>Das dunkelste Gebiet in dieser neuen Überwelt ist der Begriff<lb/>
+Gottes. In den Mysterien »De creatione et sententia vera mundi«, das<lb/>
+freilich aus älterer Zeit stammt, ist Gott der böse Geist, der Usur-<lb break="no"/>
+pator und Fürst dieser Welt, über dem noch ein Übergott, der Ewige,<lb/>
+Unsichtbare thront. Strindberg lehnt sich gegen den Plantagen-<lb break="no"/>
+besitzer auf. Aber dann ist Gott wieder der Künstler, der seine Absichten<lb/>
+hat. Der Schöpfungskünstler mit Zwecken, ein Meister, der auch<lb/>
+einmal rein zum Vergnügen Zweckloses schafft (l’art pour l’art), der ein<lb/>
+Motiv fallen lässt, ein anderes wieder aufnimmt, Stufen überspringt<lb/>
+und sich schliesslich schaffend entwickelt. Er stellt unseren Dichter<lb/>
+auf die Probe, hat seine Pläne mit ihm, bedarf seiner und regiert<lb/>
+mittelst Verstorbener. Dann ist er bis auf weiteres unbekannt und<lb/>
+will erst werden. Gegen Ende ist der Zweck Gottes die Schöpfung des<lb/>
+Übermenschen. Ein andermal ist er wieder ein höhnischer Gott, der<lb/>
+die Menschen zum Spass quält. Dann ist er ein böser Dämon geworden.<lb/>
+Und der Bekenner endigt damit, die alten Furien wieder aufzurütteln:<lb/>
+»Wer ist der Fürst dieser Welt, der die Sterblichen zu ihren Lasten<lb/>
+verurtheilt und die Tugend mit dem Kreuze, dem Scheiterhaufen, mit<lb/>
+Schlaflosigkeit und wilden Träumen züchtigt? <milestone unit="2dots"/> Welche babylonische<lb/>
+Verwirrung!«</p>
+            <p>Mit Zweifel und Verzweiflung, wie sie begonnen, endet die<lb/>
+Beichte, die wenn schon nichts anderes, der starke und wahre<lb/>
+Ausdruck einer tiefen und gequälten Persönlichkeit ist.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

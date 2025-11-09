@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-22_n0514.xml" prev="WR-03-02-22_n0513.xml" next="WR-03-02-22_n0515.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 22, S. 514</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="22"/>
+                        <biblScope unit="page" n="n0514"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0732">
+                  <title level="a">Laus Veneris III.</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 22</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="22">22</biblScope>
+                  <biblScope unit="page" from="513" to="517"/>
+                  <idno type="fn">WR-03-02-22_n0513.xml</idno>
+                  <author ref="#wr-person-0228">Swinburne, Algernon Charles</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">SWINBUBNE: LAUS VENERIS.</fw>
+            </fw>
+            <lg>
+               <l>Da heiss auf meiner Brust lag Deine Hand,</l>
+               <l>Sah Gott auf mich herab und brach mein Band,</l>
+               <l>So dass ich aufstehn konnte, Dir entrafft,</l>
+               <l>Und aus dem Jrrgang in die Helle fand,</l>
+            </lg>
+            <lg>
+               <l>Wie Einer wirren Sinnes, der vergass,</l>
+               <l>Was er gewusst und was er einst besass.</l>
+               <l>Da traf ich Volk auf frommer Wanderschaft</l>
+               <l>Nach Rom um seiner Sündigkeit Erlass,</l>
+            </lg>
+            <lg>
+               <l>Und gieng mit seinem Zuge tagelang,</l>
+               <l>Doch sprach mit Keinem auf dem weiten Gang,</l>
+               <l>Geblendet und betäubt vom grellen Licht,</l>
+               <l>Und hörte staunend Lob= und Bittgesang.</l>
+            </lg>
+            <lg>
+               <l>Da, wie der Hölle Vorbezirk, stieg nackt</l>
+               <l>Aus jäher Kluft ein Felsreich, wild zerhackt,</l>
+               <l>Empor, um dessen Schroffen eine Schicht</l>
+               <l>Von weissen Flammen lag, schwertspitz gezackt.</l>
+            </lg>
+            <lg>
+               <l>Wir, voller Graun, wie vorm Verderber, flohn</l>
+               <l>Zur guten Stadt, wo Gott sich einen Thron</l>
+               <l>Errichtet und dort Jedem nach Gebür</l>
+               <l>Gerechte Strafe kündet oder Lohn.</l>
+            </lg>
+            <lg>
+               <l>Und Alle kamen, um vor ihm zu knien,</l>
+               <l>Dem Macht zu Bann und Freispruch ward verliehn,</l>
+               <l>Und der die Schlüssel hat zur Himmelsthür,</l>
+               <l>Und Keinen liess er ungetröstet ziehn.</l>
+            </lg>
+            <lg>
+               <l>Da sank auch ich hin, also sprechend: „Grell</l>
+               <l>Wie Blut ist meine Schmach. Kein Gnadenquell</l>
+               <l>Tilgt meiner Makel schwarze Hässlichkeit.</l>
+               <l>Wird je von Flecken rein ein Pantherfell?“</l>
+            </lg>
+            <lg>
+               <l>„Bleicht des Äthiopen Haut? Ich, Gottes Knecht,</l>
+               <l>Bespie sein Bild und habe mich erfrecht</l>
+               <l>Zu Schimpf, so ruchlos und vermaledeit,</l>
+               <l>Dass er ihn nun mit Geisselruthen rächt.“</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

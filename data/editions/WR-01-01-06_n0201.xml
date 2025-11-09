@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-06_n0201.xml" prev="WR-01-01-05_n0200.xml" next="WR-01-01-06_n0202.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 6, S. 201</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="06"/>
+                        <biblScope unit="page" n="n0201"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-02-01">1 2 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0062">
+                  <title level="a">Eine Schauspielerin</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 6</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="06">6</biblScope>
+                  <biblScope unit="page" from="201" to="205"/>
+                  <idno type="fn">WR-01-01-06_n0201.xml</idno>
+                  <author ref="#wr-person-0026">Reuter, Gabriele</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>1. <hi rend="text-spaced">FEBRUAR</hi>, 1897</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>EINE SCHAUSPIELERIN.<lb/>
+Novelle von <rs type="person" key="">Gabriele Reuter</rs> (München).<lb/>
+(Schluss.)</title>
+            </ab>
+            <p>Professor Ridberg sass in der Studirstube vor seinem Schreib-<lb break="no"/>
+tisch, von dem aus er der Welt viel gute und tüchtige Werke ge-<lb break="no"/>
+schenkt hatte. Er dachte an seine Jugend, an lustige Abende mit<lb/>
+lustigen Schauspielerinnen und an Eine, die ihm sehr gefiel und ihm<lb/>
+dann für eine kurze Weile angehörte. Wie das gekommen? — Es<lb/>
+konnte nicht anders sein — es war so natürlich in jenem freien be-<lb break="no"/>
+wegten Dasein, wo die Kunst aus dem Rausch geboren wird und der<lb/>
+schöne leichte Rausch aus der Kunst.</p>
+            <p>Sie war eigentlich ein liebes, tapferes Mädchen gewesen — voller<lb/>
+Energie und Witz und Klugheit <milestone unit="3dots"/> Er hatte doch kaum an sie ge-<lb break="no"/>
+dacht, diese vielen, vielen Jahre hindurch; es wäre ihm nicht einge-<lb break="no"/>
+fallen, sich jemals einen Vorwurf zu machen. Und jetzt wollte sie ihm<lb/>
+nicht aus dem Sinn — nun seine Tochter zur Bühne ging.</p>
+            <milestone unit="asterismDown"/>
+            <p>Excellenz Wabern kam Olga in der Garderobe mit ausgebreiteten<lb/>
+Armen entgegen. Das Mädchen warf sich ihr stürmisch an die Brust.</p>
+            <p>»Ach, gnädige Frau! Ich bin so froh! So glücklich!«</p>
+            <p>»Mein Herzchen, ist es denn nur wahr?«</p>
+            <p>»Wahr! Wahr! Seine Braut! Wie ist es nur möglich, einen Mann<lb/>
+plötzlich so lieb zu haben? Den man vor zwei Wochen noch nicht<lb/>
+kannte! Wenn man sich auch oft vorgestellt hat — es ist doch ein<lb/>
+Wunder <milestone unit="3dots"/>«</p>
+            <p> »<milestone unit="3dots"/> Gefällt er Ihnen? Nicht, er ist ein schöner Mann? Aber<lb/>
+das ist ja Nebensache. Das heisst — —. Wissen Sie — ich hab’s<lb/>
+doch gern!«</p>
+            <p>Olga versteckte lachend ihren Kopf an der Schulter der alten<lb/>
+Freundin, und diese fühlte das Beben und Schauern des jungen Körpers</p>
+         </div>
+      </body>
+   </text>
+</TEI>

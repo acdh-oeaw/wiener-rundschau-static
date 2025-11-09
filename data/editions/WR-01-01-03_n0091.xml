@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-03_n0091.xml" prev="WR-01-01-03_n0090.xml" next="WR-01-01-03_n0092.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 3, S. 91</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0091"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-15">15 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0026">
+                  <title level="a">Alladine und Palomides</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="88" to="95"/>
+                  <idno type="fn">WR-01-01-03_n0088.xml</idno>
+                  <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">ALLADINE UND PALOMIDES.</fw>
+               <fw type="pn">91</fw>
+            </fw>
+            <milestone unit="scene-start"/>
+            <ab>
+               <title>III. <hi rend="text-spaced">Scene</hi>.</title>
+            </ab>
+            <p>Ein Gang vor Alladinens Gemach.</p>
+            <p>
+               <hi rend="text-spaced">Astolaine</hi> und <hi rend="text-spaced">Palomidens Schwestern</hi> treten auf.</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Astolaine</hi>.</p>
+            <p>Die Pferde warten im Walde, aber Palomides will nicht<lb/>
+fliehen, während euer Leben und das seine in Gefahr ist. Ich<lb/>
+erkenne meinen armen Vater nicht mehr. Er hat eine fixe<lb/>
+Idee, die seinen Verstand verwirrt. Drei Tage sind es nun,<lb/>
+dass ich ihm folge Schritt für Schritt; indem ich mich hinter<lb/>
+Pfeilern und Mauern verberge, denn er duldet nicht, dass<lb/>
+ihn Jemand begleitet. Heute wie die anderen Tage begann<lb/>
+er, beim ersten Morgenschimmer durch die Gänge und Säle<lb/>
+des Palastes und längs der Gräben und Wälle umherzuirren,<lb/>
+indem er grosse goldene Schlüssel schüttelte, die er anfertigen<lb/>
+liess; und mit voller Stimme jenes sonderbare Lied sang,<lb/>
+dessen Kehrreim: »Fahrt hin und folgt dem Gesicht,«<lb/>
+vielleicht bis in das Innere euerer Gemächer drang. Ich ver-<lb break="no"/>
+barg euch bisher Alles, was vorgefallen, weil ich ohne Grund<lb/>
+von diesen Dingen nicht sprechen will. Er muss Alladine in<lb/>
+diesem Gemache eingesperrt haben, aber Niemand weiss, was<lb/>
+er mit ihr gethan. Ich horchte jede Nacht, sobald er sich<lb/>
+nur einen Augenblick entfernte, doch hörte ich niemals<lb/>
+irgend ein Geräusch im Zimmer <milestone unit="3dots"/> Hört ihr etwas?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Eine von Palomidens Schwestern</hi>.</p>
+            <p>Nein; ich höre nichts als das Säuseln der Luft, die durch<lb/>
+die kleinen Ritzen des Holzes streicht <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Eine andere Schwester</hi>.</p>
+            <p>Mir ist, wenn ich lausche, als hörte ich das grosse Pendel<lb/>
+der Uhr.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Dritte Schwester</hi>.</p>
+            <p>Aber wer ist denn diese kleine Alladine und warum<lb/>
+zürnt er ihr so?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Astolaine</hi>.</p>
+            <p>Sie ist eine kleine griechische Sclavin, die aus dem<lb/>
+Innern Arcadiens gekommen ist <milestone unit="3dots"/>Er zürnt ihr nicht, aber</p>
+         </div>
+      </body>
+   </text>
+</TEI>

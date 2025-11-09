@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-21_n0828.xml" prev="WR-01-02-21_n0827.xml" next="WR-01-02-22_n0829.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 21, S. 828</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="21"/>
+                        <biblScope unit="page" n="n0828"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-09-15">15 9 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0264">
+                  <title level="a">Brachvogel, »Der Erntetag und Anderes«</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 21</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="827" to="828"/>
+                  <idno type="fn">WR-01-02-21_n0827.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">828</fw>
+               <fw type="ctext">NOTIZEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Bekanntlich haben an ähnlichen<lb/>
+Themen Anzengruber im »Ledigen<lb/>
+Hof« und Maupassant in »Musotte«<lb/>
+mit sicheren Händen gerührt. »Ein<lb/>
+Testament« verliert nicht neben<lb/>
+ihnen; das ist genug. Auch die<lb/>
+Geschichte »Ihr Dichter« hat eine<lb/>
+hübsche Idee, ist aber zu breit an-<lb break="no"/>
+gelegt und wiederholt sich zu sehr.<lb/>
+Ueber die wenig feinen Skizzen</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">»Annuschka, die Magd« und »Eine<lb/>
+schreckliche Spukgeschichte« ist<lb/>
+nichts zu sagen. Im Dialog »Ge-<lb break="no"/>
+widmet von <milestone unit="4dots"/>« forcirt Frau Carry<lb/>
+Brachvogel jene talmifranzösische,<lb/>
+erschreckliche Frivolität, die man<lb/>
+nur in den Büchern werdender<lb/>
+Jünglinge und anständiger Frauen<lb/>
+findet.</p>
+                     <p>
+                        <hi rend="italics">
+                           <rs type="person" key="">Ludwig Bauer</rs>.</hi>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="hr"/>
+            <milestone unit="imprint-start"/>
+            <p>Herausgeber und verantwortlicher Redacteur: <hi rend="text-spaced">Rudolf Strauss</hi>.</p>
+            <p>Ch. Reisser &amp; M. Werthner, Wien.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-02_n0042.xml" prev="WR-01-01-02_n0041.xml" next="WR-01-01-02_n0043.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 2, S. 42</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0042"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-01">1 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0013">
+                  <title level="a">Alladine und Palomides</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="41" to="49"/>
+                  <idno type="fn">WR-01-01-02_n0041.xml</idno>
+                  <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">42</fw>
+               <fw type="ctext">MAETERLINCK.</fw>
+            </fw>
+            <p rend="no-intend">die sie vorstellen, und ich vermag ihre Stimmen zu unter-<lb break="no"/>
+scheiden <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Ich weiss es <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Ablamore</hi>.</p>
+            <p>Verzeiht, ich wiederhole zuweilen ein und dasselbe, mein<lb/>
+Gedächtniss ist nicht mehr so treu <milestone unit="3dots"/> Es ist nicht das Alter;<lb/>
+ich bin noch kein Greis, dem Himmel sei Dank, doch Könige<lb/>
+haben tausend Sorgen. Palomides hat mir seine Erlebnisse<lb/>
+erzählt <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Ah!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Ablamore</hi>.</p>
+            <p>Er hat nicht das gethan, was er thun sollte; die jungen<lb/>
+Leute haben keine Willenskraft mehr. — Ich wundere mich<lb/>
+über ihn. Unter Tausenden hatte ich ihn für meine Tochter<lb/>
+gewählt. Sie bedurfte einer ebenso tiefen Seele wie die ihre. —<lb/>
+Er hat nichts gethan, was nicht entschuldbar wäre, aber ich<lb/>
+hatte mehr erhofft <milestone unit="3dots"/> Was denkst du von ihm?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Von wem?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Ablamore</hi>.</p>
+            <p>Von Palomides.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Ich habe ihn nur einen Abend gesehen <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Ablamore</hi>.</p>
+            <p>Ich wundere mich über ihn. — Alles ist ihm bisher<lb/>
+gelungen. Was er begann, vollendete er, ohne etwas zu sagen.<lb/>
+Mühelos entrann er der Gefahr, während Andere keine Thüre<lb/>
+öffnen können, ohne den Tod dahinter zu finden. — Er war<lb/>
+einer von denen, die die Ereignisse auf den Knien zu erwarten<lb/>
+scheinen. Aber seit einiger Zeit ist irgend etwas gebrochen.<lb/>
+Man könnte glauben, er habe nicht mehr denselben Stern, und<lb/>
+jeder Schritt, den er thut, entferne ihn von sich selbst. — Ich<lb/>
+weiss nicht, was es ist. — Er scheint nichts davon zu sehen,<lb/>
+aber Fremde können es bemerken <milestone unit="3dots"/> Doch sprechen wir von<lb/>
+etwas Anderem; da bricht die Nacht herein, längs der Mauern</p>
+         </div>
+      </body>
+   </text>
+</TEI>

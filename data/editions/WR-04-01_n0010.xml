@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-01_n0010.xml" prev="WR-04-01_n0009.xml" next="WR-04-01_n0011.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 1, S. 10</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0010"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0785">
+                  <title level="a">Die Kaiserin</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 1</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="1" to="28"/>
+                  <idno type="fn">WR-04-01_n0001.xml</idno>
+                  <author ref="#wr-person-0232">Khnopff, Fernand</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0788">
+                  <title level="a">Rossetti*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 1</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="9" to="11"/>
+                  <idno type="fn">WR-04-01_n0009.xml</idno>
+                  <author ref="#wr-person-0206">Lindner, Anton</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0789">
+                  <title level="a">Fünf Sonette</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 1</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="9" to="11"/>
+                  <idno type="fn">WR-04-01_n0009.xml</idno>
+                  <author ref="#wr-person-0225">Rossetti, Dante Gabriel</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">ROSSETTI: FUENF SONETTE.</fw>
+            </fw>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>GEBURT DER LIEBE.</title>
+            </ab>
+            <lg>
+               <l>Wie eine Mutter selig, deren Schooss</l>
+               <l>Die Frucht, die er gehegt, endlich gebar,</l>
+               <l>War meine Herrin, als sie ganz gewahr</l>
+               <l>Der Liebe wurde, die sie lang umschloss.</l>
+            </lg>
+            <lg>
+               <l>Von ihrem Blut genährt — gieriger Spross —</l>
+               <l>Ihr Sein gefährdend, selber in Gefahr,</l>
+               <l>Wuchs sie und regte sie sich unsichtbar</l>
+               <l>Und riss zuletzt sich aus der Enge los.</l>
+            </lg>
+            <lg>
+               <l>Nunmehr, zu voller Kraft entfaltet, wählt</l>
+               <l>Sie Zeit und Ort für unsern Bund und schmückt</l>
+               <l>Mit eigner Hand das Lager, das uns eint —</l>
+            </lg>
+            <lg>
+               <l>Bis wir dereinst, zwei Schatten, noch vermählt,</l>
+               <l>Ihr wiederum entgleiten und, entrückt,</l>
+               <l>Uns noch ein Strahl aus ihrem Kranz bescheint.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>HOCHZEITSSCHLAF.</title>
+            </ab>
+            <lg>
+               <l>Zuletzt lässt Mund von Mund mit süsser Pein.</l>
+               <l>Und wie der Regen, wenn er inne hält,</l>
+               <l>In jähen Einzeltropfen niederfällt,</l>
+               <l>So schlägt nun stockend jedes Herz allein.</l>
+            </lg>
+            <lg>
+               <l>Doch bleiben sie, die also sich entzwei’n —</l>
+               <l>Ermattend, schon von Lechzen neu geschwellt —</l>
+               <l>Leib gegen Leib, eng wie zuvor gesellt,</l>
+               <l>Als hätten beide einen Stamm gemein.</l>
+            </lg>
+            <lg>
+               <l>Schlaf taucht sie tiefer als in Traumesruh</l>
+               <l>Und hält sie schwer in seiner Flut versenkt.</l>
+               <l>Dann sacht, auf Dämmerglanz, vom tag versprengt,</l>
+            </lg>
+            <lg>
+               <l>Schwimmen die Seelen dem Erwachen zu,</l>
+               <l>Bis Er — in fremde Wunder noch entrückt —</l>
+               <l>Sie findet, seliger von Ihr entzückt.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
+      </body>
+   </text>
+</TEI>

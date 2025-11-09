@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-09_n0115.xml" prev="WR-04-09_n0114.xml" next="WR-04-09_n0116.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 9, S. 115</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="09"/>
+                        <biblScope unit="page" n="n0115"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0861">
+                  <title level="a">Stefan George: Der Teppich des Lebens und die Lieder von Traum und Tod</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 9</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="09">9</biblScope>
+                  <biblScope unit="page" from="109" to="115"/>
+                  <idno type="fn">WR-04-09_n0109.xml</idno>
+                  <author ref="#wr-person-0254">Gundolf, Friedrich</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0862">
+                  <title level="a">Die Klippeninsel</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 9</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="09">9</biblScope>
+                  <biblScope unit="page" from="115" to="117"/>
+                  <idno type="fn">WR-04-09_n0115.xml</idno>
+                  <author ref="#wr-person-0246">Wickström, Victor Hugo</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">WICKSTRÖM: DIE KLIPPENINSEL.</fw>
+            </fw>
+            <lg>
+               <l>In umschwärmendem chor</l>
+               <l>Und in zitternder jagd</l>
+               <l>Nach den wiesen die woge</l>
+               <l>Nach silber smaragd</l>
+            </lg>
+            <lg>
+               <l>So folgen dir froh</l>
+               <l>Die dein lächeln erkürt</l>
+               <l>O mein tag mir so gross</l>
+               <l>Und so schnell mir entführt.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <table>
+               <row>
+                  <cell>
+                     <p>Soweit der Stimmungsgehalt eines<lb/>
+dichterischen Werks von einer ganz anders<lb/>
+gearteten Seele durch zeichnerische Ge-<lb break="no"/>
+bilde in der Bewegung der Linien aus-<lb break="no"/>
+gedrückt werden kann, hat <hi rend="text-spaced">Melchior<lb/>
+Lechter</hi> es bei dem Teppich des Lebens<lb/>
+geleistet. Zwei Künstler verschiedener<lb/>
+Sfären haben dasselbe Leben, jeder<lb/>
+auf seine Art, bewältigt und doch ihre<lb/>
+Ausdrucksmittel so vereinigt, dass sie ein<lb/>
+organisches nicht zu trennendes Ganze<lb/>
+geschaffen haben. Wir wüssten nicht zu</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">sagen, ob die feierliche, fast kirchliche<lb/>
+Gehobenheit des Vorspiels, die Fülle und<lb/>
+fruchtende Pracht des Teppichs, die<lb/>
+traumhafte Trunkenheit der Lieder durch<lb/>
+die Worte des Dichters oder durch die<lb/>
+Linien des Zeichners uns lebendig werden.<lb/>
+Wir wollen auch nicht scheiden, sondern<lb/>
+das Werk als eine einige einzige Schöpfung<lb/>
+genießen, erfreut, wenn Dasjenige, was<lb/>
+Geist und Seele am tiefsten und reinsten<lb/>
+erregt, auch die Sinne am schönsten<lb/>
+anspricht.</p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIE KLIPPENINSEL.<lb/>
+Von <rs type="person" key="">VICTOR HUGO WICKSTRÖM</rs> (Östersund, Schweden).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Die Klippeninsel hob ihre schwarzen<lb/>
+Massen zum Himmel auf. Sie lag ganz<lb/>
+für sich allein ein gutes Stück vom Fest-<lb break="no"/>
+land, und so hatte sie gelegen seit un-<lb break="no"/>
+denklichen Zeiten. Sie sah so düster und<lb/>
+abschreckend aus mit ihren zerrissenen<lb/>
+Kämmen und steilen Felswänden. Keine<lb/>
+Blumen wuchsen auf ihren rauhen Seiten,<lb/>
+keine Grasmatten schmückten ihre sonnen-<lb break="no"/>
+lose Tiefe.</p>
+                     <p>Die Klippeninsel hatte schon ihre Kind-<lb break="no"/>
+heit hinter sich, eine freudlose Kindheit<lb/>
+von vielen, vielen tausend Jahren, als aber<lb/>
+ihre Jugend kam, wachte sie auf und sah<lb/>
+hinaus über das Meer, versuchte der<lb/>
+Sonne zuzulächeln und warf verstohlene<lb/>
+Blicke dem Strande zu. Die Sonne war<lb/>
+einsam und das Meer war einsam, am<lb/>
+Strande aber lagen lächelnde, grünende<lb/>
+Inseln, die sich dicht aneinander drückten,<lb/>
+sich Grüsse sandten in blumenduftenden<lb/>
+Windhauchen und einander zuflüsterten<lb/>
+mit den Wellen, die ihre fruchtbaren<lb/>
+Ufer liebkosten.</p>
+                  </cell>
+                  <cell>
+                     <p>Alles dies sah und fühlte die Klippen-<lb break="no"/>
+insel und wurde von einer unsäglichen<lb/>
+Wehmuth ergriffen. Sie war jung und<lb/>
+war einsam. Anfangs konnte sie ihre<lb/>
+Gedanken nicht ordnen, aber sie klärten<lb/>
+sich und gewannen Form, nachdem<lb/>
+tausend Jahre vergangen waren.</p>
+                     <p>Sie fragte sich selbst:</p>
+                     <p>»Warum muss ich hier allein steh’n,<lb/>
+wo andere Inseln sich zusammenscharen?<lb/>
+Warum muss ich Blumen und Bäume<lb/>
+entbehren, wo jene lange Zeiten des<lb/>
+Jahres damit prunken? Warum darf ich<lb/>
+niemand neben mir haben, dem ich<lb/>
+schmeichelnde Wellen und blumenduftende<lb/>
+Grüße senden könnte?«</p>
+                     <p>Ihre Gedanken wurden von etwas<lb/>
+gestört, das sich oben auf ihrem Kopfe<lb/>
+bewegte. Dort wurde gemauert und ge-<lb break="no"/>
+hämmert, dort wurde gebrannt und ge-<lb break="no"/>
+schmiedet, Stein wurde auf Stein gelegt,<lb/>
+Eisenband wurde herumgegossen, und<lb/>
+dann sah sie zu ihrer Verwunderung<lb/>
+einen Thurm sich hoch oben erheben.</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

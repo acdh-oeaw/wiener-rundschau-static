@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-03_n0109.xml" prev="WR-01-01-03_n0108.xml" next="WR-01-01-03_n0110.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 3, S. 109</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0109"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-15">15 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0033">
+                  <title level="a">Hauptmann’s neuestes Bühnenwerk</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="109" to="112"/>
+                  <idno type="fn">WR-01-01-03_n0109.xml</idno>
+                  <author ref="#wr-person-0007">Schik, F.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>GERHART HAUPTMANNS NEUESTES BÜHNEN-<lb break="no"/>
+WERK.*)</title>
+            </ab>
+            <p>»Die versunkene Glocke« wurde am <date>2. December</date> im<lb/>
+Berliner »Deutschen Theater« zum erstenmale aufgeführt<lb/>
+und erschien gleichzeitig in Buchform. Eine symbolische<lb/>
+Dichtung, in der die individuelle Fortschrittsgier eines Men-<lb break="no"/>
+schen verkörpert wird, welcher der Gesammtentwicklung der<lb/>
+Menschheit zu weit voraneilen will. Der Glockengiesser<lb/>
+Heinrich hat in seinem Berufe Hervorragendes geleistet und<lb/>
+wird von seinen Mitbürgern mit Bewunderung »Meister«<lb/>
+genannt. Besonders seine letzte Schöpfung ist ihm gelungen,<lb/>
+eine Glocke, die eben nach einer hochgelegenen Bergkirche<lb/>
+befördert wird. Aus ihrem Klang tönen ihm alle seine Zu-<lb break="no"/>
+kunftshoffnungen entgegen. Wenig Hindernisse hemmten<lb/>
+bisher seinen Schöpferdrang. Frau und Kinder und seine<lb/>
+ganze Umgebung boten ihm fruchtbringende Anregungen.<lb/>
+Ein Zufallskobold bewirkt durch einen Radbruch, dass die<lb/>
+Glocke bergab stürzt in den tiefen See; der Meister wird<lb/>
+mitgerissen, rettet jedoch mit knapper Noth sein physisches<lb/>
+Leben — das geistige liegt mit der Glocke begraben. Er<lb/>
+fühlt, dass er die Anregungen seiner bisherigen Umgebung<lb/>
+künstlerisch aufgebraucht, für seine schöpferischen Thaten<lb/>
+nichts mehr von ihr zu erwarten hat, und zum Handwerker,<lb/>
+der immer gleich gute, aber keine neu ersonnenen Werke<lb/>
+liefern kann, will er nicht werden. Er sehnt sich, eine Welt<lb/>
+zu verlassen, für die er innerhalb seiner natürlichen Ent-<lb break="no"/>
+wicklungsschranken nichts Grosses fürder leisten kann. Ein<lb/>
+Zufall hat seine Hoffnungen zerstört, ein Zufall hat sein<lb/>
+Leben gerettet, und auf dem Todtenbette liegend, geht er<lb/>
+einen Pact ein mit den durch eine Elfe symbolisirten Zu-<lb break="no"/>
+fällen der grossen Natur. Jetzt überschlägt sich die Toll-</p>
+            <milestone unit="hr"/>
+            <note type="footnote">
+               <p>*) »<hi rend="text-spaced">Die versunkene Glocke</hi>.« Ein deutsches Märchendrama. Berlin.<lb/>
+Verlag S. <hi rend="text-spaced">Fischer</hi>.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

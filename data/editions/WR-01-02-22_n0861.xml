@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-22_n0861.xml" prev="WR-01-02-22_n0860.xml" next="WR-01-02-22_n0862.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 22, S. 861</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="22"/>
+                        <biblScope unit="page" n="n0861"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-10-01">1 10 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0273">
+                  <title level="a">Zum Umbau Wiens</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 22</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="22">22</biblScope>
+                  <biblScope unit="page" from="856" to="861"/>
+                  <idno type="fn">WR-01-02-22_n0856.xml</idno>
+                  <author ref="#wr-person-0106">Schmidkunz, Dr. Hans</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0274">
+                  <title level="a">Die wahre Geschichte von Josua</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 22</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="22">22</biblScope>
+                  <biblScope unit="page" from="861" to="861"/>
+                  <idno type="fn">WR-01-02-22_n0861.xml</idno>
+                  <author ref="#wr-person-0107">Veber, Pierre</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">ZUM UMBAU WIENS.</fw>
+               <fw type="pn">861</fw>
+            </fw>
+            <p rend="no-intend">eben nur den Werth der Zahlen hat, dass wir Verkehr und Kunst,<lb/>
+aber keine Geometrie brauchen; dass demnach Plätze geschlossen<lb/>
+bleiben und Strassen auseinander, nicht ineinander führen sollen; dass<lb/>
+die grossen Hauptzüge als Grundrippen anders zu behandeln sind als<lb/>
+das Netz der Nebenzüge; dass eine grosse Stadt viele Centralpunkte<lb/>
+des Verkehrs (mit je einer Markthalle u. dgl.) braucht, deren jeder<lb/>
+eine energische Gruppirung von Bauten ergeben soll u. s. w. u. s. w.<lb/>
+Dem, der sich eine Einsicht darein erwerben will, steht genug Stoff<lb/>
+zur Verfügung; am aussichtsreichsten wohl die Vergleichung möglichst<lb/>
+vieler Städte und die daraus abgeleiteten Folgerungen über Geglücktes<lb/>
+und Verfehltes. Ebenso die Stimmen urteilsfähiger Fremder, die im<lb/>
+Besitz anderweitiger Erfahrungen und womöglich auch einiger Vor-<lb break="no"/>
+kenntnisse über die fragliche Stadt selber Manches sehen, was der<lb/>
+Einheimische als gewohnte Thatsache hinnimmt. Im Jahr <date>1835</date> schrieb<lb/>
+Moltke: »Wien ist eine prächtige Stadt <milestone unit="3dots"/>« Die Begründung dieses<lb/>
+Urtheils mag man an Ort und Stelle nachlesen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIE WAHRE GESCHICHTE VON JOSUA.<lb/>
+Von <rs type="person" key="">Pierre Veber</rs> (Paris).<lb/>
+                  <hi rend="text-spaced">Deutsch von</hi>
+                  <rs type="person" key="">
+                     <hi rend="text-spaced">Alfred Neumann</hi>
+                  </rs>.</title>
+            </ab>
+            <p>Und Josua sprach vor dem gesammten Volke Israel: »Sonne,<lb/>
+bleibe stehen über Gideon!« Und die Sonne blieb stehen, die sieg-<lb break="no"/>
+reichen Juden begannen nun die Amoreer zu verfolgen und sie nach<lb/>
+Herzenslust abzuschlachten, ohne sich jedoch sonderlich zu beeilen:<lb/>
+denn die Sonne drehte sich nicht mehr um die Erde, und die Nacht<lb/>
+konnte nicht anbrechen, so lange das Gestirn nicht wieder seinen Lauf<lb/>
+begonnen hatte. Bald aber verbreitete sich eine entsetzliche Hitze über<lb/>
+der Ebene, die strikende Sonne warf ihre sengenden Strahlen auf die<lb/>
+Söhne Israels, und das Massacre begann ein träges Tempo anzunehmen.<lb/>
+Die Pflanzen, die plötzlich vertrockneten, schrumpften ganz zusammen,<lb/>
+die Haut von Mensch und Thier sprang auf, und der Geruch von ge-<lb break="no"/>
+röstetem Fleisch ward stärker als der von dampfendem Blut; das<lb/>
+ganze Land kochte.</p>
+            <p>Und Josua stierte, in seinem Hochmuth denn doch ein wenig<lb/>
+betroffen, den Backofen an, den er so plötzlich geschaffen, als er die<lb/>
+Sonne in ihrem Laufe aufhielt. Trotzdem hatte er keine Lust, sich vor<lb/>
+dem Herrn, der ihm Allmacht verliehen, zu blamiren und die grosse<lb/>
+Scheibe wieder in Bewegung zu setzen <milestone unit="3dots"/>
+            </p>
+            <p>So sprach er denn zur Erde: »Jetzt bist <hi rend="text-spaced">du</hi> an der Reihe, be-<lb break="no"/>
+wege <hi rend="text-spaced">du</hi> dich!« Und sogleich liess die Hitze nach, da die Erde<lb/>
+langsam zu kreisen begann. Seit dieser Zeit dreht sich — die Erde <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

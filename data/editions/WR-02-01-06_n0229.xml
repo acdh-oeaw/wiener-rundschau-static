@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-06_n0229.xml" prev="WR-02-01-06_n0228.xml" next="WR-02-01-06_n0230.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 6, S. 229</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="06"/>
+                        <biblScope unit="page" n="n0229"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-02-01">1 2 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0345">
+                  <title level="a">Ein Märtyrer der Literatur</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 6</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="06">6</biblScope>
+                  <biblScope unit="page" from="224" to="229"/>
+                  <idno type="fn">WR-02-01-06_n0224.xml</idno>
+                  <author ref="#wr-person-0132">Steinbach, Josef</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">EIN MÄRTYRER DER LITERATUR.</fw>
+               <fw type="pn">229</fw>
+            </fw>
+            <p rend="no-intend">kein Minister der Welt!« glaubte ich einwenden zu sollen. »So?« hub<lb/>
+er jetzt in bitterem Widerspruch mit seiner sonst so milden, treuherzigen<lb/>
+Art den Ton, »So? Ich kenne die verantwortungsreiche Stelle des<lb/>
+Lehrers, aber es gibt verantwortungsreichere Stände, als es der Lehrer-<lb break="no"/>
+stand ist, es gibt Aerzte, Apotheker, Baumeister etc., und wie oft ward<lb/>
+das formale Gesetz durchbrochen, um unwissenden und unverdienten<lb/>
+Curpfuschern, Dürrkräutlern und Polieren das Recht einzuräumen, für<lb/>
+das Andere ein Leben voll Studiums eingesetzt?« <milestone unit="3dots"/>
+            </p>
+            <p>Er hatte mir die Waffe aus der Hand geschlagen; ich schwieg<lb/>
+wie ein Besiegter.</p>
+            <p>Nach Jahren wanderte Farkas nach einer anderen Himmelsgegend,<lb/>
+aber die Himmelsgegend seines Glückes war es nicht. In Temesvár,<lb/>
+hart am Bahngeleise, wie die beflügelte Kunde der Blätter ging, hat<lb/>
+der mit dem Schicksal verzweiflungsvoll Ringende gewaltsam ein Leben<lb/>
+beendet, dem mehr als eine Thräne stiller Erinnerung gebührt <milestone unit="3dots"/>
+               <lb/>
+Sein Mund ist verstummt, und die ungarische Poesie hat vielleicht ihr<lb/>
+klangreinstes deutsches Echo verloren. Die Petöfi-Gesellschaft, die<lb/>
+Hüterin der grossen Geistesschätze des Dichters, unter dessen Namens-<lb break="no"/>
+patronanz sie steht, hat Farkas vollständig unbeachtet gelassen. Und<lb/>
+doch, wann und wo gab’s Einen in ihrer Mitte, der die goldenen Lieder<lb/>
+des Meisters in so poesiereichen, schwungvollen Cadenzen in die<lb/>
+Fremde hinausgeschmettert? Wo gibt’s Einen in ihrem Schosse, der<lb/>
+das Original in Tönen von so ausgeglichener Schöne nachgesungen,<lb/>
+wie Farkas? Ich greife wahllos ein Muster heraus, von dem ich Raum-<lb break="no"/>
+mangels halber nur Anfang und Ende wiedergebe:</p>
+            <milestone unit="verse-start"/>
+            <table>
+               <row>
+                  <cell>
+                     <lg>
+                        <l>1. Fluren des Ostens</l>
+                        <l>Gleicht mein Gemüthe,</l>
+                        <l>Fluren von ewigem Frühling umglüht;</l>
+                        <l>Was nur der Himmel</l>
+                        <l>Spendet der Erde:</l>
+                        <l>Liebliche Blumen sind mir erblüht.</l>
+                     </lg>
+                     <lg>
+                        <l>2. Eine nur fehlte,</l>
+                        <l>Blume des Glaubens,</l>
+                        <l>Glauben an überirdisches Sein;</l>
+                        <l>Nun ist auch diese</l>
+                        <l>Herrlich ersprossen:</l>
+                        <l>Zärtliche Liebe pflanzte sie ein.</l>
+                     </lg>
+                  </cell>
+                  <cell>
+                     <lg>
+                        <l>6. Aber das Eine</l>
+                        <l>Wüsste ich gerne:</l>
+                        <l>Wo sie zu finden? Was sie enthält?</l>
+                        <l>Wie wir gestaltet</l>
+                        <l>Einstens gelangen</l>
+                        <l>Dort in die schöne, selige Welt?</l>
+                     </lg>
+                     <lg>
+                        <l>7. Ob wir, wie Falter</l>
+                        <l>Blume für Blume,</l>
+                        <l>Goldene Sterne kreisend umzieh’n,</l>
+                        <l>Oder im Meere</l>
+                        <l>Ewiger Zeiten</l>
+                        <l>Sanft wie die Schwäne gleiten dahin?</l>
+                     </lg>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <p>Die Petöfi-Gesellschaft trifft ein harter Vorwurf. Sie wie kein<lb/>
+Anderer war berufen, den fahrenden, sozusagen obdachlos irrenden<lb/>
+Künstler an ihre Fersen zu ketten und ihn, entrückt den lähmenden<lb/>
+Sorgen um den morgenden Tag, in irgend einer noch so geringen<lb/>
+Sinecure sesshaft zu machen. Freilich war Farkas zu stolz, um bettelnd<lb/>
+an ihre Thüre zu pochen, aber ihre Mission ist es, über den wahren<lb/>
+Aposteln ihres literarischen Religionsstifters zu wachen, und seine von<lb/>
+echter Vocation widerhallenden Leistungen tönten ihr unüberhörbar<lb/>
+aus der weiten Welt ans Ohr. Sie musste <hi rend="text-spaced">ihn</hi> suchen — er hätte sich<lb/>
+finden lassen. Sie hätte ihn glücklich und sich an Glanz und Ehren<lb/>
+reicher gemacht.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

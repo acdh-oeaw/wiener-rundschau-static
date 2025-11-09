@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-19_n0456.xml" prev="WR-03-02-19_n0455.xml" next="WR-03-02-19_n0457.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 19, S. 456</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="19"/>
+                        <biblScope unit="page" n="n0456"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0712">
+                  <title level="a">Isländische Cultur und Literatur der Gegenwart</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 19</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="19">19</biblScope>
+                  <biblScope unit="page" from="452" to="458"/>
+                  <idno type="fn">WR-03-02-19_n0452.xml</idno>
+                  <author ref="#wr-person-0239">Poestion, Josef Calasanz</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">POESTION: ISLÄNDISCHE CULTUR UND LITERATUR DER GEGENWART.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">der genannten Poeten durch eingehende<lb/>
+Analyse ihrer Dichtungen auseinanderzu-<lb break="no"/>
+setzen; ich erlaube mir daher, auf mein<lb/>
+Werk »Isländische Dichter der Neuzeit«<lb/>
+(Leipzig, <date>1897</date>) zu verweisen, in dem diese<lb/>
+und andere Dichter mehr oder weniger<lb/>
+ausführlich besprochen sind und sich auch<lb/>
+eine grosse Anzahl übersetzter Proben<lb/>
+ihrer Dichtungen findet. Im Anschlusse<lb/>
+hieran sei hier noch je ein charakteristi-<lb break="no"/>
+sches Gedicht* der vier bedeutendsten, jetzt<lb/>
+lebenden Lyriker in deutscher Übertragung<lb/>
+mitgetheilt.</p>
+                     <p>Von Benedikt <hi rend="text-spaced">Gröndal</hi> stammt die<lb/>
+seltsam phantastische Vision:</p>
+                     <milestone unit="verse-start"/>
+                     <ab>
+                        <title>
+                           <hi rend="text-spaced">Die Geige</hi>.</title>
+                     </ab>
+                     <lg>
+                        <l>Die Sonne scheidet nun mit letztem Glühen</l>
+                        <l>Vom Lärm der Erde in ein schönres Land.</l>
+                        <l>In hellerm Thau viel blaue Blumen blühen</l>
+                        <l>Dort an des heiligen Lebensstromes Strand.</l>
+                        <l>Ein Mägdlein weilt bei finstern Wasserfällen</l>
+                        <l>Und weckt im Abendpurpur Träume hehr.</l>
+                        <l>Nordlichter dort den heiligen Saal erhellen,</l>
+                        <l>Und niemals sinkt der Mond hinab ins Meer.</l>
+                     </lg>
+                     <lg>
+                        <l>Dort stehen, unvergänglich, lichte Hallen,</l>
+                        <l>Und süsser Ton erfüllt den Bogengang;</l>
+                        <l>Von fernher dumpf der Erde Donner schallen</l>
+                        <l>Mit tiefem Basse in den heiligen Sang.</l>
+                        <l>Der Geige goldner Strang Wohllaute flötet</l>
+                        <l>Und funkelt oft im Sommerabendschein <milestone unit="3dots"/>
+                        </l>
+                        <l>Dort wird kein Schwert durch Mörderhand</l>
+                        <l>geröthet,</l>
+                        <l>Dort baut ihr Himmelszelt die Göttin mein.</l>
+                     </lg>
+                     <lg>
+                        <l>Und laut die Harfe bebt im Sangesdrange,</l>
+                        <l>Von weicher Hand berührt in dunkler Zeit,</l>
+                        <l>Verwirrt vom wundersamen Wiederklange;</l>
+                        <l>Denn unablässig weckt der Geist den Streit. —</l>
+                        <l>Die Sterne, Geistern gleich, der See entsteigen;</l>
+                        <l>Mit strengen Augen wandeln sie die Bahn,</l>
+                        <l>Um blutroth wieder sich zur See zu neigen <milestone unit="3dots"/>
+                        </l>
+                        <l>Auf fernen Schwingen rauscht der Tod heran <milestone unit="3dots"/>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>Ich zwing, o Geige, nochmals dich zur Freude.</l>
+                        <l>Was frommt’s, zu weinen Tag und Nächte</l>
+                        <l>lang?</l>
+                        <l>Was frommt’s, zu jammern stets vom alten</l>
+                        <l>Leide?</l>
+                        <l>Was frommt’s, zu singen ewig Klaggesang?</l>
+                        <l>Was frommt’s, zu rufen längst vergangne Tage</l>
+                        <l>Aus finstrer Tiefe wieder an das Licht?</l>
+                        <l>Ich weiss, es lebt allewig fort die Sage,</l>
+                        <l>Und jede Stunde ruft sie vors Gericht. —</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+                  <cell>
+                     <p>Steingrímur <hi rend="text-spaced">Thorsteinsson</hi> besingt<lb/>
+den Aufenthalt im isländischen Hoch-<lb break="no"/>
+gebirge in folgenden, im Originale höchst<lb/>
+wohllautenden Versen:</p>
+                     <milestone unit="verse-start"/>
+                     <ab>
+                        <title>
+                           <hi rend="text-spaced">Das Hochgebirge</hi>.</title>
+                     </ab>
+                     <lg>
+                        <l>Ihr Weiten der blauen Gebirge, umsäumt</l>
+                        <l>Von der Gletscher schimmerndem Kranze,</l>
+                        <l>An euren Busen flieh’ ich so gern</l>
+                        <l>Im Sommer mit seinem Glanze!</l>
+                     </lg>
+                     <lg>
+                        <l>O lasst in euren Armen mich</l>
+                        <l>Die Sommertage verbringen,</l>
+                        <l>Des Abends am klaren Schwanensee</l>
+                        <l>Das Leid vom Herzen mir singen.</l>
+                     </lg>
+                     <lg>
+                        <l>Dein Antlitz, o Mutter, sich strahlend neigt</l>
+                        <l>Zu mir, und Thränen entfallen</l>
+                        <l>Den Augen dein, durchsichtig und hell,</l>
+                        <l>Thauperlen, rein und krystallen.</l>
+                     </lg>
+                     <lg>
+                        <l>Hier unter des Sommers Himmel will</l>
+                        <l>Ich nächtigen, will ich liegen,</l>
+                        <l>Hier sollst du, Island, Mutter mein,</l>
+                        <l>Dein Kind in Schlummer wiegen.</l>
+                     </lg>
+                     <lg>
+                        <l>Und Gottes Hauch hier macht mich so frei,</l>
+                        <l>Zum Himmel schweb’ ich voll Wonne,</l>
+                        <l>Zum Borne des Lichts, ins Traumland hinein,</l>
+                        <l>Das schöner mir strahlt als die Sonne. —</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>Als Probe einer rasch hingeworfenen<lb/>
+Gelegenheitsdichtung mögen die Verse<lb/>
+Mathias <hi rend="text-spaced">Jochumssons</hi> auf zwei deutsche<lb/>
+Ärzte hier Platz finden, die in einem<lb/>
+Städtchen der Nordküste viele Kranke,<lb/>
+besonders Augenleidende, unentgeltlich<lb/>
+behandelt hatten. Mathias Jochumsson ist<lb/>
+der Pastor dieses Städtchens.</p>
+                     <milestone unit="verse-start"/>
+                     <ab>
+                        <title>
+                           <hi rend="text-spaced">An die Doctoren Gr</hi>. <hi rend="text-spaced">und</hi> K.</title>
+                     </ab>
+                     <lg>
+                        <l>Ihr Ärzte habt</l>
+                        <l>An <hi rend="text-spaced">einem</hi> Tage</l>
+                        <l>Geheilt beinahe</l>
+                        <l>Hundert Augen,</l>
+                        <l>So dass des Abends</l>
+                        <l>Vielen aufgiengen</l>
+                        <l>Die Lider-Sonnen**</l>
+                        <l>Aus Leidens-Nebeln.</l>
+                     </lg>
+                     <lg>
+                        <l>Lohn’s den Hilfreichen,</l>
+                        <l>Des Lichtes Walter,</l>
+                        <l>Hlidskjalfs*** Herr,</l>
+                        <l>Hundert Male!</l>
+                     </lg>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Diese Übersetzungen sind bisher nicht veröffentlicht worden. Die Schwierigkeiten<lb/>
+der Übertragung isländischer Gedichte im Versmasse der Originale sind enorme, weshalb ich<lb/>
+um freundliche Nachsicht bitte. J. C. P.</p>
+               <p>** Skaldische Umschreibung für Augen.</p>
+               <p>*** Hlidskjalf ist Odins himmlischer Sitz, von dem aus er alle Welten überblicken kann.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

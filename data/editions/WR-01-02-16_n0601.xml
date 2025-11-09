@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-16_n0601.xml" prev="WR-01-02-15_n0600.xml" next="WR-01-02-16_n0602.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 16, S. 601</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="16"/>
+                        <biblScope unit="page" n="n0601"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-07-01">1 7 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0204">
+                  <title level="a">Quintin Messis</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 16</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="16">16</biblScope>
+                  <biblScope unit="page" from="601" to="607"/>
+                  <idno type="fn">WR-01-02-16_n0601.xml</idno>
+                  <author ref="#wr-person-0081">Kürnberger, Ferdinand</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>1. <hi rend="text-spaced">JULI</hi> 1897</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="performance-start"/>
+            <ab>
+               <title>QUINTIN MESSIS.*)<lb/>
+Von <rs type="person" key="">Ferdinand Kürnberger</rs> (Wien).</title>
+            </ab>
+            <milestone unit="act-start"/>
+            <ab>
+               <title>IV. AUFZUG.</title>
+            </ab>
+            <p>Im Hause Hildebald’s in Köln.</p>
+            <milestone unit="scene-start"/>
+            <ab>
+               <title>1. <hi rend="text-spaced">Scene</hi>.</title>
+            </ab>
+            <p>
+               <hi rend="text-spaced">Hildebald</hi>. <hi rend="text-spaced">Memling</hi>.</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Memling</hi>. Gott zum Gruss, theuerster Freund! Ihr habt mich<lb/>
+rufen lassen, was ist Euer Begehr?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Hildebald</hi>. Willkommen, Meister Memling, willkommen! Setzt<lb/>
+Euch. — Ihr wisst, die Kölner Kaufmannschaft sendet mich als ihren<lb/>
+Senior in Geschäften der Hansa nach Gross-Nowgorod. Das ist eine<lb/>
+Reise wie ans Ende der Welt, und wohl bedenke Jeder sein Haus zu<lb/>
+bestellen, der sie antritt. Nun stehen aber die Sachen in meinem Hause<lb/>
+so: Dagobert, Euer Schüler, liebt meine Tochter Dorothea und bewirbt</p>
+            <milestone unit="hr"/>
+            <note type="footnote">
+               <p>*) Es ist eine sehr eigenthümliche Erscheinung, dass Ferdinand <hi rend="text-spaced">Kürn</hi>-<lb break="no"/>
+                  <hi rend="text-spaced">berger</hi>, der gleich mit seinem ersten Romane »Der Amerikamüde« (<date>1856</date>) sich<lb/>
+eine schriftstellerische Position ersten Ranges erworben, der als feinsinniger<lb/>
+Novellist von den Besten anerkannt wurde, und dessen geistsprühende Feuilletons<lb/>
+(»Siegelringe«, »Literarische Herzenssachen«) von den feinsten literarischen Köpfen<lb/>
+zu den besten Hervorbringungen dieser Art gezählt werden, es trotz »heissem<lb/>
+Bemühen« nicht dahin bringen konnte, das Theater zu erobern. Mit Ausnahme<lb/>
+des »Firdusi«, der es auf der Münchener Hofbühne zu einigen schlecht besuchten<lb/>
+Vorstellungen brachte, blieb ihm die Bühne verschlossen.</p>
+               <p>Im Jahre <date>1848</date> hatte <hi rend="text-spaced">Kürnberger</hi> der Direction des Burgtheaters ein fünf-<lb break="no"/>
+actiges Schauspiel »Quintin Messis« eingereicht. Director Franz von <hi rend="text-spaced">Holbein</hi>
+                  <lb/>
+begrüsste das Stück, in welchem er »feine Goethe’sche Züge« erkannte, »mit<lb/>
+inniger Seelenfreude«, er liess es einstudiren, im <date>August 1849</date> war sogar der Tag<lb/>
+der Aufführung im gedruckten Wochen-Repertoire verzeichnet, als es in letzter<lb/>
+Stunde abgesetzt und zurückgelegt wurde, da sich die Schauspieler keinen Erfolg<lb/>
+damit versprachen.</p>
+               <p>
+                  <hi rend="text-spaced">Kürnberger</hi>’s Freunde Leopold <hi rend="text-spaced">Kompert</hi> und Ludwig August <hi rend="text-spaced">Frankl</hi>
+                  <lb/>
+waren anderer Meinung. Nach ihrer Anschauung ist »Quintin Messis« zurückgelegt</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

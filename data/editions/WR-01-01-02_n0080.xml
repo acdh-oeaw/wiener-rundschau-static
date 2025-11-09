@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-02_n0080.xml" prev="WR-01-01-02_n0079.xml" next="WR-01-01-03_n0081.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 2, S. 80</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0080"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-01">1 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0024">
+                  <title level="a">David, »Frühschein«</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="79" to="80"/>
+                  <idno type="fn">WR-01-01-02_n0079.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">80</fw>
+               <fw type="ctext">KRITIK.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">von <hi rend="text-spaced">Georg Heinrich Meyer</hi>.<lb/>
+                        <date>1896</date>.</p>
+                     <p>Von J. J. David, dem Autor<lb/>
+des »Höferechtes« und des Ro-<lb break="no"/>
+manes »Blut«, ist eben, überaus<lb/>
+reizend ausgestattet, nach längerer<lb/>
+Pause ein neuer Novellenband er-<lb break="no"/>
+schienen. Was die vier Erzählungen<lb/>
+des Buches verbindet, ist das ge-<lb break="no"/>
+meinsame locale Colorit, der be-<lb break="no"/>
+deutende Hintergrund des dreissig-<lb break="no"/>
+jährigen Krieges. Man kennt<lb/>
+die Art dieses Novellisten. Man<lb/>
+weiss, dass er lieber meisselt<lb/>
+als malt, dass er lieber wuchtige<lb/>
+und herbe als gefällige Stoffe in<lb/>
+harter, gedrungener Form behandelt.<lb/>
+Man fühlt sich endlich von seiner<lb/>
+dunklen und schweren Welt-<lb break="no"/>
+betrachtung und dem Zuge<lb/>
+persönlicher Verbitterung, der<lb/>
+ihm eigen, vielfach nicht eben<lb/>
+sympathisch berührt; so wird es<lb/>
+Niemanden wundern, dass die<lb/>
+weiche, empfindliche Grazie unserer</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Kunst an dieser eckig-schroffen<lb/>
+Persönlichkeit oft anstösst, mit der<lb/>
+man sich befreunden oder welcher<lb/>
+man offen entgegen sein muss.<lb/>
+Daneben aber — jenseits des Ge-<lb break="no"/>
+bietes persönlicher Sympathien —<lb/>
+wird es ihm stets unvergessen<lb/>
+bleiben: dass er in seinen Er-<lb break="no"/>
+zählungen eine Reihe wirklicher<lb/>
+Menschen hingestellt, und dass er<lb/>
+Lieder von tiefer und warmer<lb/>
+Seele und bleibender Schönheit<lb/>
+geschaffen hat. Liebhaber seiner<lb/>
+Richtung werden das neue Buch<lb/>
+mit Freude, wenn auch nicht mit<lb/>
+Heiterkeit empfangen, und der<lb/>
+lichtere Ausblick, der sich darin<lb/>
+bei allen Eigenheiten seiner auch<lb/>
+hier bewahrten Herbheit eröffnet,<lb/>
+mag zu dem vielleicht bewusst<lb/>
+angedeuteten Wunsche Veranlassung<lb/>
+geben, dass die Bezeichnung des<lb/>
+Buches für das fernere Wirken<lb/>
+David’s symbolisch werde! <rs type="person" key="">
+                           <hi rend="italics">W.</hi>
+                        </rs>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="hr"/>
+            <milestone unit="imprint-start"/>
+            <p>Herausgeber und verantwortlicher Redacteur: <hi rend="text-spaced">Rudolf Strauss</hi>.</p>
+            <p>Ch. Reisser &amp; M. Werthner, Wien.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

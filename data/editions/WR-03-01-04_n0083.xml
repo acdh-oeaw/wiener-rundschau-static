@@ -1,0 +1,241 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-04_n0083.xml" prev="WR-03-01-04_n0082.xml" next="WR-03-01-04_n0084.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 4, S. 83</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="04"/>
+                        <biblScope unit="page" n="n0083"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0563">
+                  <title level="a">Die Schlüssel des Himmelreichs. (Commentar. Dritter und Fünfter Act)</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 4</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="81" to="87"/>
+                  <idno type="fn">WR-03-01-04_n0081.xml</idno>
+                  <author ref="#wr-person-0175">Strindberg, August</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">STRINDBERG: DIE SCHLÜSSEL DES HIMMELREICHS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Als hierauf Petrus sich zum Gehen<lb/>
+wendet, bittet ihn der Hoberg-Alte in-<lb break="no"/>
+ständig, ihm doch Gesellschaft zu leisten.<lb/>
+»Ich bin so einsam und bedarf der<lb/>
+Freundschaft!« »Freundschaft,« antwortet<lb/>
+St. Peter, »kann nur zwischen Personen<lb/>
+von einigermassen gleicher Corpulenz be-<lb break="no"/>
+stehen. Du bist zu gross für mich,<lb/>
+Schmied. — Viel zu gross!«</p>
+                     <p>Und nun flicht Strindberg eine Idylle<lb/>
+ein und zeichnet, nachdem er die Miss-<lb break="no"/>
+gunst, die Herrschsucht und Verschlagen-<lb break="no"/>
+heit der Kleinen geschildert, nun auch, im<lb/>
+Gegensatze zu dem Unfrieden, den Leiden,<lb/>
+der Vereinsamung der Grösse, das still<lb/>
+umfriedete Glück bescheidener Verhält-<lb break="no"/>
+nisse.</p>
+                     <p>Es erscheinen Hand in Hand der<lb/>
+Pastor und die Pastorin, ihr Sohn und<lb/>
+ihre Schwiegertochter, die Enkelin und<lb/>
+deren Bräutigam, die sich zärtlich um-<lb break="no"/>
+schlungen halten und noch ein Enkelchen.</p>
+                     <p>Wir lassen die kleine Scene im Wort-<lb break="no"/>
+laute folgen.</p>
+                     <milestone unit="performance-start"/>
+                     <milestone unit="act-start"/>
+                     <milestone unit="scene-start"/>
+                     <ab>
+                        <title>
+                           <hi rend="text-spaced">Dritter Act</hi>. <hi rend="text-spaced">Fünfte Scene</hi>.</title>
+                     </ab>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Pastor</hi>.</p>
+                     <lg>
+                        <l>Ein schöner Abend! — Und nach schönem</l>
+                        <l>Tag!</l>
+                        <l>Habt Dank, Ihr meine Kinder, Kindeskinder!</l>
+                        <l>Der Jahre achtzig füllte heut der Greis,</l>
+                        <l>Nun neiget sich dem Abend zu sein Leben.</l>
+                        <l>Habt Dank, dass wolkenlos die Rüste</l>
+                        <l>Ihr gestaltet,</l>
+                        <l>Ihr alle, die Ihr meine Welt gewesen.</l>
+                        <l>Denn nie verliess ich noch dies stille Thal.</l>
+                        <l>Da nahm mein Leben erst den rechten</l>
+                        <l>Anfang,</l>
+                        <l>Als hier ich mit der Frau das Heim uns</l>
+                        <l>baute.</l>
+                        <l>Ich weiss nicht, wie es kommt, doch</l>
+                        <l>dieser Abend</l>
+                        <l>Ruft das Vergangne neu mir ins Gedächtnis.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Kind</hi> (erschrocken).</p>
+                     <lg>
+                        <l>Grossvater, sieh, der Hoberg-Alte rührt sich!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Pastor</hi>.</p>
+                     <lg>
+                        <l>Du siehst Gespenster, Kind! — Der Berg</l>
+                        <l>ist’s,</l>
+                        <l>Und der hat sich noch nie gerührt!</l>
+                        <l>Es geht vom Hoberg-Alten eine Sage,</l>
+                        <l>Ein Märchen, weisst Du, Kind, dass er</l>
+                        <l>ein Riese,</l>
+                        <l>Der einst verhext von einem Bischof ward,</l>
+                     </lg>
+                  </cell>
+                  <cell>
+                     <lg>
+                        <l>Und eher nicht Erlösung finden kann,</l>
+                        <l>Bis er sich eines Weibes Lieb’ erringt!</l>
+                        <l>Sei also nur getrost, mein Enkelkind,</l>
+                        <l>Der Hoberg-Alte sitzt noch hübsch lang</l>
+                        <l>still.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Sohn</hi>.</p>
+                     <lg>
+                        <l>Nein, Vater, das ist gar noch nicht so</l>
+                        <l>sicher;</l>
+                        <l>Hier spricht man schon von einem</l>
+                        <l>Schienenweg,</l>
+                        <l>Den durch den Alten quer man ziehen will.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Pastor</hi>.</p>
+                     <lg>
+                        <l>Sieh, das ist mehr, als ich gewusst — — —</l>
+                        <l>Das freut mich, und betrübt mich auch,</l>
+                        <l>Denn theuer war mir dieses Thal,</l>
+                        <l>So still und einfach, fern vom Weltgetriebe <milestone unit="3dots"/>
+                        </l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Kind</hi>.</p>
+                     <lg>
+                        <l>Sieh nur, nun schüttelt sich die Linde,</l>
+                        <l>Grossvater, und doch bläst kein Wind.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Pastor</hi>.</p>
+                     <lg>
+                        <l>Er bläst gewiss dort oben in der Krone,</l>
+                        <l>Ob wir’s hier unten auch nicht fühlen,</l>
+                        <l>Engelchen.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Bräutigam</hi> (zur Braut).</p>
+                     <lg>
+                        <l>Vielleicht, dass sich vor Schmerz die Linde</l>
+                        <l>schüttelt,</l>
+                        <l>Weil morgens in die Rinde wir den Namen</l>
+                        <l>ritzten.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Enkelin</hi>.</p>
+                     <lg>
+                        <l>Vor Schmerz sah ich sie weinen, und wie</l>
+                        <l>sollte</l>
+                        <l>Denn sie nicht leiden, während wir</l>
+                        <l>geniessen,</l>
+                        <l>Ist unser Glück doch stets auf andrer</l>
+                        <l>Schmerz gebaut.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Pastorin</hi>.</p>
+                     <lg>
+                        <l>Sie blühte diesmal reich, die alte Linde,</l>
+                        <l>Da wird’s viel Honig geben in den Körben.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Schwiegertochter</hi>.</p>
+                     <lg>
+                        <l>Du denkst doch stets an Deinen Haushalt,</l>
+                        <l>alte Mutter.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Pastorin</hi>.</p>
+                     <lg>
+                        <l>Wer, glaubst Du, sollte sonst wohl daran</l>
+                        <l>denken?</l>
+                        <l>Man ritzt nicht mehr den Namen in die</l>
+                        <l>Linde,</l>
+                        <l>Hat man die siebzig hinter sich.</l>
+                        <l>Da pflückt Grossmutter lieber Blüten,</l>
+                        <l>Und trocknet sie, um Thee zu haben,</l>
+                        <l>Wenn an dem Sarg der Husten hobelt.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

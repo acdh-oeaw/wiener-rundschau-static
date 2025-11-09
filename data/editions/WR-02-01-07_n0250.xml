@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-07_n0250.xml" prev="WR-02-01-07_n0249.xml" next="WR-02-01-07_n0251.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 7, S. 250</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="07"/>
+                        <biblScope unit="page" n="n0250"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-02-15">15 2 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0355">
+                  <title level="a">Der Bär </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 7</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="241" to="253"/>
+                  <idno type="fn">WR-02-01-07_n0241.xml</idno>
+                  <author ref="#wr-person-0135">Tschechow, Anton</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">250</fw>
+               <fw type="ctext">TSCHECHOW.</fw>
+            </fw>
+            <milestone unit="scene-start"/>
+            <ab>
+               <title>IX.</title>
+            </ab>
+            <p>
+               <hi rend="text-spaced">Dieselben</hi> und <hi rend="text-spaced">Lukas</hi>.</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Lukas, führe diesen Herrn hinaus!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Lukas</hi> (nähert sich Smyrnow). Mein Herr, gehen Sie doch, wenn<lb/>
+man’s Ihnen befiehlt! Was haben Sie hier <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi> (aufspringend). Halt’s Maul! Mit wem unterstehst du<lb/>
+dich zu reden? Ich werde dich kurz und klein hauen!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Lukas</hi> (die Hand aufs Herz legend). Gerechter Himmel! Jesus<lb/>
+Maria! (Fällt auf einen Sessel nieder.) Ach, mir wird schlecht! Ich ersticke!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Wo ist denn Dascha? Dascha, (schreit) Dascha!<lb/>
+Pelageja! Dascha! (Klingelt.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Lukas</hi>. Ach! Alle sind fort <milestone unit="3dots"/> nach Beeren <milestone unit="3dots"/> Niemand ist zu<lb/>
+Hause. Mir ist schlecht! Wasser!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Machen Sie, dass Sie fortkommen!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Wollen Sie nicht die Güte haben, höflicher zu sein?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi> (die Fäuste ballend und mit den Füssen stampfend).<lb/>
+Sie Flegel! Grober Bär! Tölpel! Ungeheuer!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Was? Was sagten Sie?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Ich sagte, dass Sie ein Bär, ein Ungeheuer sind!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi> (geht auf sie los). Erlauben Sie, was für ein Recht<lb/>
+haben Sie, mich zu beleidigen?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Ja, ich beleidige Sie <milestone unit="3dots"/> was ist denn dabei?<lb/>
+Glauben Sie, dass ich mich vor Ihnen fürchte?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Und Sie glauben wohl, als poetisches Geschöpf,<lb/>
+mich ungestraft beleidigen zu dürfen? Ja? In die Schranken!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Lukas</hi>. Gerechter Himmel! <milestone unit="3dots"/> Jesus Maria! <milestone unit="3dots"/> Wasser!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Pistolen her!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Sie glauben wohl, dass ich mich vor Ihnen<lb/>
+fürchte, weil Sie kräftige Fäuste und eine Ochsenkehle haben? Was?<lb/>
+Sie Flegel!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. In die Schranken! Ich gestatte es keinem, mich zu<lb/>
+beleidigen, und werde nicht darauf achten, dass Sie eine Dame, ein<lb/>
+zartes Geschöpf sind!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi> (sucht ihn zu überschreien). Bär! Bär! Bär!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Es ist endlich schon Zeit, vom Vorurtheil zu lassen,<lb/>
+dass bloss die Männer für Beleidigungen verantwortlich sind! Will<lb/>
+man Gleichberechtigung, so sei man gleich in Allem, zum Teufel! In<lb/>
+die Schranken!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Sie wollen sich duelliren? Bitte sehr!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Augenblicklich!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Sofort! Mein Mann hatte Pistolen <milestone unit="3dots"/> Ich bringe<lb/>
+sie gleich her <milestone unit="3dots"/> (Geht eilig hinaus und kommt wieder). Mit welcher Wonne<lb/>
+werde ich eine Kugel durch Ihre freche Stirn jagen! Hol’ Sie der<lb/>
+Teufel! (Geht ab.)</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

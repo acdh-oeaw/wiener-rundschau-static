@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-10_n0394.xml" prev="WR-02-01-10_n0393.xml" next="WR-02-01-10_n0395.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 10, S. 394</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="10"/>
+                        <biblScope unit="page" n="n0394"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-04-01">1 4 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0396">
+                  <title level="a">Ibsen auf Wiener Bühnen</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 10</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="394" to="397"/>
+                  <idno type="fn">WR-02-01-10_n0394.xml</idno>
+                  <author ref="#wr-person-0007">Schik, F.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>IBSEN AUF WIENER BÜHNEN.<lb/>
+Von <rs type="person" key="">F. Schik</rs> (Wien).</title>
+            </ab>
+            <p>Es hiesse beschönigen wollen, wenn man behaupten würde, das<lb/>
+Publicum hätte von den in Wien anlässlich der Ibsen-Feier zum ersten-<lb break="no"/>
+male aufgeführten Stücken — »Baumeister Solness« im Burgtheater und<lb/>
+»Hedda Gabler« im Carltheater — auch nur Bruchstücke zu würdigen<lb/>
+verstanden. Die Zuschauer verloren den Kopf, und der Aerger über einen<lb/>
+verschwendeten Abend machte sich durch Zischen Luft. Ohne Unterschied<lb/>
+des Alters und des Geschlechtes war das vorherrschende Urtheil,<lb/>
+widernatürliche Producte eines wirren Dichters vor sich zu haben,<lb/>
+von dessen Dramen man sich in Hinkunft fernehalten werde. Nicht<lb/>
+derjenige, der dies ohne Scheu eingestand, im Gegentheil, der, welcher<lb/>
+erklärte, den Sinn des Vorgeführten erfasst zu haben, gab sich eine<lb/>
+Blösse und musste den Anwurf der Unehrlichkeit gewärtigen.</p>
+            <p>In Kopenhagen erschien am Tage des 70. Geburtstages Ibsen’s<lb/>
+die Jubiläumsausgabe1) seiner sämmtlichen Werke mit folgender Einleitung<lb/>
+des Dichters:</p>
+            <milestone unit="untyped-start"/>
+            <p>»An meine Leser! Da mein Verleger mir den liebens-<lb break="no"/>
+würdigen Vorschlag machte, eine chronologisch geordnete Aus-<lb break="no"/>
+gabe aller meiner literarischen Arbeiten zu veranstalten, sah ich<lb/>
+sogleich ein, welch grossen Vortheil ein solches Unternehmen für<lb/>
+die richtigere Auffassung meiner Bücher ergeben würde.</p>
+            <p>Gleichzeitig mit meiner fortschreitenden Production ist ein<lb/>
+jüngeres Geschlecht herangewachsen, und ich habe leider oft<lb/>
+Gelegenheit gehabt, mit Bedauern zu bemerken, dass dessen<lb/>
+Kenntniss meiner neueren Bücher viel eingehender ist als die der<lb/>
+früher erschienenen.</p>
+            <p>Dadurch wurde ein Bruch herbeigeführt, welcher das Be-<lb break="no"/>
+wusstsein des Lesenden über den inneren Zusammenhang der Werke<lb/>
+stört; und dadurch erkläre ich mir theilweise die sonderbare,<lb/>
+mangelhafte und missweisende Auslegung und Deutung, denen<lb/>
+meine späteren Arbeiten von so vielen Seiten ausgesetzt waren.<lb/>
+Nur durch die Auffassung und Aneignung meiner sämmtlichen<lb/>
+Productionen als ein zusammenhängendes, ununterbrochenes<lb/>
+Ganzes wird man den beabsichtigten zutreffenden Eindruck<lb/>
+empfangen.</p>
+            <milestone unit="hr"/>
+            <note type="footnote">
+               <p>1) Die Ausgabe sämmtlicher Werke Ibsen’s in deutscher Sprache besorgt,<lb/>
+vom Dichter autorisirt, der bekannte Verlag S. <hi rend="text-spaced">Fischer</hi> in <hi rend="text-spaced">Berlin</hi>.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-07_n0244.xml" prev="WR-02-01-07_n0243.xml" next="WR-02-01-07_n0245.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 7, S. 244</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="07"/>
+                        <biblScope unit="page" n="n0244"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-02-15">15 2 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0355">
+                  <title level="a">Der Bär </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 7</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="241" to="253"/>
+                  <idno type="fn">WR-02-01-07_n0241.xml</idno>
+                  <author ref="#wr-person-0135">Tschechow, Anton</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">244</fw>
+               <fw type="ctext">TSCHECHOW.</fw>
+            </fw>
+            <p rend="no-intend">werde ich selbstverständlich zahlen; ich bitte aber um Entschuldigung,<lb/>
+da ich heute kein Geld habe. Uebermorgen kommt mein Verwalter<lb/>
+aus der Stadt zurück, und ich werde ihm sagen, er soll Ihnen die<lb/>
+nöthige Summe auszahlen, vorderhand aber kann ich Ihren Wunsch<lb/>
+nicht erfüllen <milestone unit="3dots"/> Ueberdies sind es heute gerade sieben Monate, dass<lb/>
+mein Mann todt ist, und meine Stimmung ist derart, dass ich keine<lb/>
+Lust verspüre, mich mit Geldgeschäften abzugeben.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Und meine Stimmung ist derart, dass, wenn ich<lb/>
+morgen die Zinsen nicht einzahle, ich durch den Schornstein werde<lb/>
+’rausfliegen müssen. Man wird mein Gut pfänden!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Uebermorgen bekommen Sie das Geld.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Ich habe es aber nicht übermorgen, sondern heute<lb/>
+nöthig.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Verzeihen Sie, heute habe ich keines.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Bis übermorgen kann ich aber nicht warten.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Was soll ich aber thun, wenn ich augenblick-<lb break="no"/>
+lich kein Geld zu Hause habe!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Sie können also nicht zahlen?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Nein <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <ab type="catchall">.</ab>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Hm <milestone unit="3dots"/> Ist das Ihr letztes Wort?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Ja, mein letztes.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Ihr letztes? Entschieden?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Entschieden.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Danke bestens. Ich werd’s mir merken. (Zuckt die<lb/>
+Achseln.) Und man verlangt noch, dass ich kaltblütig sein soll! Da be-<lb break="no"/>
+gegnet mir aber unterwegs ein Accisebeamter und fragt mich: »Warum<lb/>
+ärgern Sie sich immer, Grigorji Stepanowitsch?« Erbarmen Sie sich,<lb/>
+wie kann ich denn ruhig sein? Geld habe ich nothwendig nöthig <milestone unit="3dots"/>
+               <lb/>
+Gestern verliess ich mit Tagesanbruch mein Haus, besuchte alle meine<lb/>
+Schuldner, und dass wenigstens einer von ihnen seine Schuld bezahlt<lb/>
+hätte! Ich bin müde geworden, wie ein Hund, brachte die Nacht, Gott<lb/>
+weiss wo, zu — in einer Judenschenke neben einem Branntweinfass <milestone unit="3dots"/>
+               <lb/>
+Endlich komme ich hierher, habe 70 Werst zurückgelegt und hoffe,<lb/>
+Geld zu bekommen, man tischt mir aber eine »Stimmung« auf! Wie<lb/>
+soll ich da nicht ärgerlich sein?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Ich sagte Ihnen doch klar und deutlich, dass<lb/>
+Sie das Geld bekommen werden, sobald der Verwalter aus der Stadt<lb/>
+zurückkehrt.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Ich komme nicht zum Verwalter, sondern zu Ihnen.<lb/>
+Was zum Teufel soll mir der Verwalter?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Verzeihen Sie, geehrter Herr, mein Ohr ist<lb/>
+weder an solch einen Ton, noch an solche Ausdrücke gewöhnt. Ich<lb/>
+will Sie nicht mehr anhören. (Geht schnell ab.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

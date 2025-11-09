@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-01_n0027.xml" prev="WR-02-01-01_n0026.xml" next="WR-02-01-01_n0028.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 1, S. 27</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0027"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-11-15">15 11 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0305">
+                  <title level="a">Mittagstraum der Wandernden </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="27" to="27"/>
+                  <idno type="fn">WR-02-01-01_n0027.xml</idno>
+                  <author ref="#wr-person-0119">Schmitz, Oskar A. H.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>MITTAGSTRAUM DER WANDERNDEN.</title>
+            </ab>
+            <lg>
+               <l>
+                  <hi rend="initial">Sie</hi> trägt die gelben Rosen in dem Kleide,</l>
+               <l>die hauchend ihren Morgenschlaf gewürzt,</l>
+               <l>es kost den Arm der Wurf aus blauer Seide,</l>
+               <l>den lässig ihre blasse Hand geschürzt.</l>
+            </lg>
+            <lg>
+               <l>aus einem dunkeln Hain ist sie getreten,</l>
+               <l>sie fürchtet nicht den sonnengelben Pfad:</l>
+               <l>wo müde Wanderer im Staube beten,</l>
+               <l>dass kühlend eine Mittagswolke naht.</l>
+            </lg>
+            <lg>
+               <l>ihr Schlummerkuss berührt die schweren Lider,</l>
+               <l>sie hüllt den <hi rend="text-spaced">Traum</hi> mit Morgenrosen ein:</l>
+               <l>»das ferne Haus und der Fontaine Lieder,</l>
+               <l>in einem Säulenhof aus weissem Stein.«</l>
+            </lg>
+            <lg>
+               <l>doch Winde spielen neckend um die Wange</l>
+               <l>und rufen wieder zu des Weges Müh’n,</l>
+               <l>ob in des Abends rothem Niedergange</l>
+               <l>die Zinnen einer weissen Stadt erglüh’n.</l>
+            </lg>
+            <p>Paris.</p>
+            <p>
+               <rs type="person" key="">
+                  <hi rend="text-spaced">Oscar</hi> A. H. <hi rend="text-spaced">Schmitz</hi>
+               </rs>.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

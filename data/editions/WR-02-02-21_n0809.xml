@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-21_n0809.xml" prev="WR-02-02-21_n0808.xml" next="WR-02-02-21_n0810.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 21, S. 809</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="21"/>
+                        <biblScope unit="page" n="n0809"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-09-15">15 9 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0497">
+                  <title level="a">Ein wirklicher Brief an ein wirkliches zwölfjähriges Mädchen</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 21</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="807" to="809"/>
+                  <idno type="fn">WR-02-02-21_n0807.xml</idno>
+                  <author ref="#wr-person-0004">Altenberg, Peter</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">EIN WIRKLICHER BRIEF AN EIN WIRKLICHES 12JÄHR. MÄDCHEN.</fw>
+               <fw type="pn">809</fw>
+            </fw>
+            <p>Bleibe jung, Piri, indem Du niemals jugendlich wirst und<lb/>
+einherstürmst innerlich. <hi rend="text-spaced">Bleibe jung</hi>, <hi rend="text-spaced">indem Du selber unbe-<lb break="no"/>
+weglich bleibst und die Schönheiten und Bitterkeiten<lb/>
+dieser Welt in Dich einströmen lassest</hi>, und, gleich der<lb/>
+Seelen-Constitution edler Griechinnen, Dir Wunden gerade so tief<lb/>
+nur schlagen lassest vom Leben, dass sie noch leicht und schön<lb/>
+vernarben und eine neue Zierde Deiner Seele werden! Wie<lb/>
+Schrammen von Helden, welche von Siegen kommen!</p>
+            <p>Bleibe ruhig — — —. Dem unbeweglichen Fischer kommt<lb/>
+der Lachs an die Angel.</p>
+            <p>Bleibe ruhig, Piroska, lasse Dich nicht erschüttern von Dir<lb/>
+selbst, von Träumen und Vergeblichkeiten!</p>
+            <p>Bleibe ruhig! Dann wird diese herrliche, bewegte, strömende<lb/>
+Welt in Dich sich ergiessen, weil sie selbst, diese Rastloseste,<lb/>
+einen Hafen der Ruhe sucht. In Deine ruhevolle Seele wird sie<lb/>
+sich ergiessen, Piroska, und wird Dich ausfüllen und reich machen.<lb/>
+Glücklich?! Nein, reich!!</p>
+            <p>Piroska, meine Liebe, ich vermuthe, Du wirst diese Dinge<lb/>
+niemals ganz erklärlich finden. Weshalb?! Weil Eure Wege dort<lb/>
+abzubrechen pflegen, wo die Pfade unserer Weisheit erst be-<lb break="no"/>
+ginnen — — —.</p>
+            <p>Dein<lb/>
+               <rs type="person" key="">
+                  <hi rend="text-spaced">Peter Altenberg</hi>
+               </rs>.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

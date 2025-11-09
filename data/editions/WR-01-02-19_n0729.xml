@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-19_n0729.xml" prev="WR-01-02-19_n0728.xml" next="WR-01-02-19_n0730.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 19, S. 729</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="19"/>
+                        <biblScope unit="page" n="n0729"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-08-15">15 8 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0239">
+                  <title level="a">Fragen</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 19</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="19">19</biblScope>
+                  <biblScope unit="page" from="728" to="729"/>
+                  <idno type="fn">WR-01-02-19_n0728.xml</idno>
+                  <author ref="#wr-person-0095">Wassermann, Jakob</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">FRAGEN.</fw>
+               <fw type="pn">729</fw>
+            </fw>
+            <lg>
+               <l>Sprach der Himmel ohne Gnaden:</l>
+               <l>Mit Recht hat dich der Freund verraten.</l>
+               <l>Freundschaft ist zärtliches Betrügen,</l>
+               <l>Kopfnicken und Rückenbiegen.</l>
+               <l>Umklammert <hi rend="text-spaced">deine</hi> Faust das Schwert,</l>
+               <l>Freue dich des Verrätergerichts!</l>
+               <l>Morden ist, was dich der Freund gelehrt,</l>
+               <l>Und sonst nichts.</l>
+            </lg>
+            <lg>
+               <l>Sprach die lange Einsamkeit:</l>
+               <l>Frage nicht, was Tod und Zeit!</l>
+               <l>Tod bist du, und Zeit bist du!</l>
+               <l>Rast und Flucht und Kampf und Ruh’.</l>
+               <l>Aus dem Knäuel der Wirklichkeiten</l>
+               <l>Wirst du am Tage des grossen Verzichts</l>
+               <l>Hin vor meine Füsse gleiten,</l>
+               <l>Und sonst nichts.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

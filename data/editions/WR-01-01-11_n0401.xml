@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-11_n0401.xml" prev="WR-01-01-10_n0400.xml" next="WR-01-01-11_n0402.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 11, S. 401</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="11"/>
+                        <biblScope unit="page" n="n0401"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-04-15">15 4 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0130">
+                  <title level="a">Die Adlermutter</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 11</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="11">11</biblScope>
+                  <biblScope unit="page" from="401" to="403"/>
+                  <idno type="fn">WR-01-01-11_n0401.xml</idno>
+                  <author ref="#wr-person-0053">Lie, Jonas</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>15. <hi rend="text-spaced">APRIL</hi> 1897</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIE ADLERMUTTER.<lb/>
+Von <rs type="person" key="">Jonas Lie</rs>.<lb/>
+Einzig autorisirte Uebersetzung von <rs type="person" key="">Ernst Brausewetter</rs>.</title>
+            </ab>
+            <p>Weit, weit draussen, wo die Berge gen Himmel blauten und<lb/>
+Gipfel, Zacken und Firnen in Glanz und Gluth wundersam violetter<lb/>
+Farbentöne emporstiegen, hatte der stolze Aar an einer wilden, steilen<lb/>
+Felswand sein Nest erbaut. Waldbedeckte Thalzüge, in denen Bäche<lb/>
+dahinsausten, furchten sich dort in immer schmäleren, schliesslich ver-<lb break="no"/>
+schwindenden Rinnen hinauf.</p>
+            <p>Wenn der Adler auf seinen gewaltigen Schwingen im Dämmern<lb/>
+eines neuen Tages, nach Beute spähend, höher, als der Menschenblick<lb/>
+reicht, dahinsegelte, vermochte er die winzigste Feldmaus, die sich<lb/>
+unten am Boden rührte, zu unterscheiden. Das muntere Zicklein, das<lb/>
+unten spielte und tanzte und das Kunststück zeigte, auf dem Zaun-<lb break="no"/>
+pfahl zu balanciren, machte unerwartet eine viel grössere Fahrt in die<lb/>
+Lüfte. Und der Hase, der noch sass, sich die Augen rieb, sich putzte<lb/>
+und sich munter machte, durfte plötzlich die Welt von so weit oben<lb/>
+betrachten, dass die Kirchthürme von sieben Dörfern in schwindelnder<lb/>
+Tiefe unter ihm lagen.</p>
+            <p>An anderen Jagdtagen kreuzte der Aar hunderte Meilen über<lb/>
+Steinöden mit wilden Felsen, schattendunkeln Abgründen und moos-<lb break="no"/>
+grauen Flächen unter sich.</p>
+            <p>Und weit draussen blaute Bergkette hinter Bergkette fern nach<lb/>
+Westen sowie hinaus zum wilden Eismeer.</p>
+            <p>Die Bergreihen waren Grenzscheiden zwischen zwei Reichen, in<lb/>
+denen der Aar jahrelang seine Abkommen zu selbstherrschenden<lb/>
+Königen und Königinnen eingesetzt hatte. Und wehe dem Unberechtigten,<lb/>
+der es wagte, sich in ihr Jagdgebiet einzudrängen.</p>
+            <p>Der alte Aar musste aber auch selbst manchen Strauss gegen<lb/>
+einen vertriebenen Fürsten seines eigenen Geschlechtes bestehen.</p>
+            <p>Dann gab es eine Luftschlacht, so dass die Federn flogen und<lb/>
+immer blutiger herabregneten, bis schliesslich einer der Kämpfenden<lb/>
+plötzlich als lebloser Klumpen zur Erde herabstürzte.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

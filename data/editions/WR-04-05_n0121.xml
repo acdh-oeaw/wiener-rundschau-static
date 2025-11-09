@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-05_n0121.xml" prev="WR-04-05_n0120.xml" next="WR-04-05_n0122.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 5, S. 121</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="05"/>
+                        <biblScope unit="page" n="n0121"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0821">
+                  <title level="a">Landschaft</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 5</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="101" to="124"/>
+                  <idno type="fn">WR-04-05_n0101.xml</idno>
+                  <author ref="#wr-person-0273">Wenban, Sion L.</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0826">
+                  <title level="a">Unser Leben und Tod I.</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 5</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="117" to="121"/>
+                  <idno type="fn">WR-04-05_n0117.xml</idno>
+                  <author ref="#wr-person-0276">Buttenstedt, Carl</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BUTTENSTEDT: UNSER LEBEN UND TOD.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">diese Thiere müssen sich täglich ausgiebig<lb/>
+nach Nahrung umhertummeln und erhalten<lb/>
+so ihre gesammte Muskulatur spannkräftig.</p>
+                     <p>Wer also bei Krankheiten die Naturheil-<lb break="no"/>
+kraft rationell unterstützen will, muss keine<lb/>
+neuen Stoffe in seinen Körper einführen,<lb/>
+sondern seiner Muskulatur Zeit lassen,<lb/>
+sich zusammenzuziehen, um dadurch die<lb/>
+überflüssigen alten Stoffe aus dem Körper<lb/>
+herauszudrücken. Die <hi rend="text-spaced">spannkräftigste</hi>
+                        <lb/>
+Muskulatur entfernt entbehrliche Stoffe am<lb/>
+                        <hi rend="text-spaced">schnellsten</hi> aus dem Körper, daher liegt<lb/>
+in der normalen Spannkraft die <hi rend="text-spaced">Immu</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">nität</hi> gegen jede Krankheit, wie in dem<lb/>
+größten <hi rend="text-spaced">Mangel</hi> an Spannkraft die ge-<lb break="no"/>
+fürchtete <hi rend="text-spaced">Disposition</hi> zu allen möglichen<lb/>
+Krankheiten liegt! Denn nicht <hi rend="text-spaced">das</hi> bringt<lb/>
+uns Krankheiten und Tod, was wir in den<lb/>
+Körper (abgesehen von Giften) hinein-<lb break="no"/>
+bringen, sondern <hi rend="text-spaced">das</hi>, was wir nicht wieder<lb/>
+durch eigene Spannkraft hinaustreiben<lb/>
+können. Und so gibt es sozusagen nicht zahl-<lb break="no"/>
+lose, sondern <hi rend="text-spaced">nur eine einzige</hi>
+                        <hi rend="text-spaced">Krank</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">heit</hi>, und das ist der Mangel an Spannkraft<lb/>
+des Muskelmaterials; je tiefer die Spann-<lb break="no"/>
+kraft unter normal ist, umso hilfloser<lb/>
+ist sie den Krankheitsstoffen gegenüber,<lb/>
+und umso schwerer ist dann die Krankheit.<lb/>
+So ist es erklärlich, dass eine Matrone<lb/>
+mit welken Muskeln an der einfachen<lb/>
+Influenza sterben, ein Anderer zwei Wochen,<lb/>
+ein Dritter zwei Tage daran laborieren<lb/>
+kann, während ein Athlet zwar gleichfalls</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">von dieser Krankheit angesteckt werden<lb/>
+kann, aber nicht viel davon merkt, weil<lb/>
+seine Spannkraft diese Krankheitsstoffe<lb/>
+sofort wieder absondert.</p>
+                     <p>Dass es mit dieser Thätigkeit des<lb/>
+                        <hi rend="text-spaced">mechanischen Princips</hi> in uns seine<lb/>
+Richtigkeit hat, wird von der Fachwissen-<lb break="no"/>
+schaft u. a. auch dadurch bewiesen, dass<lb/>
+viele Ärzte — so namentlich der be-<lb break="no"/>
+deutende italienische Kliniker Professor<lb/>
+Dr. de Domenicis — die schwersten und<lb/>
+leichtesten Krankheiten durch <hi rend="text-spaced">Fasten</hi>
+                        <lb/>
+heilen.*</p>
+                     <p>Wenn man vor naturwissenschaftlichen<lb/>
+Räthseln steht, muss man eben nicht nach<lb/>
+den compliciertesten Ursachen und Gründen,<lb/>
+sondern nach den <hi rend="text-spaced">einfachsten</hi> Erklä-<lb break="no"/>
+rungen suchen, dann findet man die Lösung<lb/>
+am leichtesten.** Unsere ganze Verdauungs-<lb break="no"/>
+arbeit ist also meiner Meinung nach weiter<lb/>
+nichts als eine Störung der elastischen<lb/>
+Ruhe unseres Muskelmaterials (durch will-<lb break="no"/>
+kürliche Einführung von Nahrungsstoffen)<lb/>
+und eine versuchte Wiederherstellung der<lb/>
+elastischen Ruhe seitens des verdrängten<lb/>
+Muskelmaterials. Der <hi rend="text-spaced">Kampf um den<lb/>
+Raum</hi> in uns bricht ab (Tod!), sobald sich<lb/>
+die Entspannungskraft unseres Muskel-<lb break="no"/>
+materials, die selbstthätig wirken muss,<lb/>
+den nöthigen Raum nicht mehr zu schaffen<lb/>
+vermag. Auf diesen Kampf um den Raum<lb/>
+aber kommt es ausschließlich an.***</p>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Professor de Domenicis hat nach vielfachen Experimenten am menschlichen und<lb/>
+thierischen Körper gefunden, dass das Fasten — innerhalb bestimmter Grenzen und in rationeller<lb/>
+Weise durchgeführt — ein wirksames Präservativmittel wider Bacterien-Infection bildet und<lb/>
+auch bei acuten und chronischen Leiden (Lungenentzündung, Gicht etc.) widerstandsfähiger<lb/>
+gegen die vergiftende Wirkung der Krankheitserreger macht, da jede Verdauungsstörung die<lb/>
+Blutmischung derart beeinflusst, dass schon dadurch der Entwicklung bacterieller Keime etc.<lb/>
+Vorschub geleistet wird. Professor de Domenicis beobachtete beispielsweise auch einen schweren<lb/>
+Influenzafall, dessen rapiden Verlauf er auf die Wirkung bacterieller Gifte im Verdauungscanal<lb/>
+zurückführte; er ordnete in entsprechender Weise eine Fastencur an und konnte bereits nach<lb/>
+vier Tagen eine erhebliche Besserung constatieren. Trotz der Hungercur — wir sagen: wegen<lb/>
+derselben — kehrten die Kräfte rasch wieder.</p>
+               <p>** »Die Erfahrungen von allen, welche sich mit der Erforschung der <hi rend="text-spaced">Natur-Erschei</hi>-<lb break="no"/>
+                  <hi rend="text-spaced">nungen</hi> beschäftigt haben, stimmen zuletzt darüber überein, dass diese durch weit <hi rend="text-spaced">einfachere</hi>
+                  <lb/>
+Mittel und Ursachen bedingt und hervorgebracht werden, als man sich gedacht hat oder als<lb/>
+wir uns denken; gerade diese <hi rend="text-spaced">Einfachheit</hi> müssen wir als das größte Wunder betrachten!«</p>
+               <p>Justus von Liebig.</p>
+               <p>*** Wie sich durch Weiter-Entwicklung des hier aufgestellten Princips eine (auch praktische)<lb/>
+                  <hi rend="text-spaced">Überwindung des Todes</hi> (des Sterbenmüssens) denken lässt, die übrigens — so utopisrisch<lb/>
+sie auch scheint — bereits von ärztlichen Autoritäten gestützt wird, soll in Artikel II dar-<lb break="no"/>
+gelegt werden.</p>
+            </note>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
+      </body>
+   </text>
+</TEI>

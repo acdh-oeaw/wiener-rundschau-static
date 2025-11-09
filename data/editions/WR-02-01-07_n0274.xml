@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-07_n0274.xml" prev="WR-02-01-07_n0273.xml" next="WR-02-01-07_n0275.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 7, S. 274</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="07"/>
+                        <biblScope unit="page" n="n0274"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-02-15">15 2 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0360">
+                  <title level="a">Ein überwundenes Wirtschaftsprincip</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 7</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="273" to="276"/>
+                  <idno type="fn">WR-02-01-07_n0273.xml</idno>
+                  <author ref="#wr-person-0089">Dix, Arthur</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">274</fw>
+               <fw type="ctext">DIX.</fw>
+            </fw>
+            <p rend="no-intend">Beruf entzogen werden. Inzwischen aber kann das Geld umlaufen,<lb/>
+und indem es zehnmal seinen Zweck erfüllt, verzehnfacht es sich ge-<lb break="no"/>
+wissermassen — es thut dieselben Dienste wie die zehnfache Summe,<lb/>
+die nur einmal den Besitzer wechselt Und doch ist ein beträchtlicher<lb/>
+Unterschied im Umlaufe des »angelegten« und des »ausgegebenen«<lb/>
+Geldes.</p>
+            <p>Das angelegte Geld geht in die Production, fördert und vermehrt<lb/>
+dieselbe; zwar beschäftigt es einige Arbeitskräfte und gibt diesen<lb/>
+Nahrung, in der Hauptsache aber dient es dazu, neue Waaren auf den<lb/>
+Markt zu bringen, gleichgiltig, ob ein Bedürfniss iür dieselben vorliegt,<lb/>
+ob sie Abnehmer finden oder nicht. Das Geld ist der Consumtion<lb/>
+entzogen und dient zur Vermehrung der Production — also zur Ver-<lb break="no"/>
+stärkung des Missverhältnisses zwischen beiden.</p>
+            <p>Am ärgsten ist es, wenn das Geld nun gar in ausländischen<lb/>
+Papieren angelegt wird; dann schädigt es die heimische Production<lb/>
+nicht nur dadurch, dass es sich dem Consum entzieht, sondern doppelt<lb/>
+durch die Unterstützung der ausländischen Production. Anstatt den<lb/>
+heimischen Markt zu befruchten, unterstützt es die fremde Concurrenz.<lb/>
+Während die heimische Industrie — da ein grosser Theil des im In-<lb break="no"/>
+lande vorhandenen Geldes nicht ausgegeben, sondern dem Consum<lb/>
+entzogen wird, so dass der inländische Markt an Aufnahmefähigkeit<lb/>
+verliert — im Auslande ihr Absatzgebiet zu erweitern trachten muss,<lb/>
+um den Verlust auszugleichen, den die »Unterconsumtion« des In-<lb break="no"/>
+landes ihr bereitet, wird eben dasselbe Geld, dessen Fehlen auf dem<lb/>
+heimischen Markt die heimische Industrie zum Theil auf den aus-<lb break="no"/>
+ländischen Markt verweist, dazu verwandt, durch Förderung der Pro-<lb break="no"/>
+duction im Auslande ihr auch den Zutritt zu dem fremden Markt ab-<lb break="no"/>
+zuschneiden — eine doppelte Schädigung der heimischen, nationalen<lb/>
+Wirthschaft.</p>
+            <p>Ganz anders das ausgegebene Geld, das unmittelbar in der Con-<lb break="no"/>
+sumtion Verwendung findet; es leistet einmal dieselben Dienste wie<lb/>
+das angelegte Geld: es führt der Production neue Mittel zu, fördert<lb/>
+sie, beschäftigt eine Reihe von Arbeitskräften und gibt ihnen Nahrung;<lb/>
+dabei bringt es nicht Production und Consumtion in ein Missverhält-<lb break="no"/>
+niss, sondern lässt der Warenerzeugung den Bedarf folgen; es geht<lb/>
+den umgekehrten Weg, dient immer wieder neuer Consumtion und<lb/>
+erst auf diesem Umwege der Production; es läuft schneller und<lb/>
+häufiger um, es entlastet den Markt, anstatt ihn zu belasten. Das<lb/>
+Geld, das ich der Production zuführe, indem ich dem Markte Waaren<lb/>
+entnehme, befruchtet sie zweifellos ungleich mehr als das Geld, das<lb/>
+ich unmittelbar für die Vermehrung der Production vorschiesse — und<lb/>
+ihr jederzeit wieder entziehen kann — ohne ihr einen entsprechenden<lb/>
+Absatz zu gewährleisten oder selbst etwas zur Vermehrung ihres Ab-<lb break="no"/>
+satzes beizutragen. Sobald meine Existenz gesichert ist und ich dauernd<lb/>
+Geldüberschüsse über meinen gewöhnlichen Bedarf hinaus vorräthig<lb/>
+habe, thue ich weder mir, noch der Gesammtwirthschaft einen be-<lb break="no"/>
+sonderen Gefallen, wenn ich diese Ueberschüsse sammle, anlege, die</p>
+         </div>
+      </body>
+   </text>
+</TEI>

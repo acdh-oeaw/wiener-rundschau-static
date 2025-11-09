@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-03_n0055.xml" prev="WR-03-01-03_n0054.xml" next="WR-03-01-03_n0056.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 3, S. 55</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0055"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0551">
+                  <title level="a">Die Alkestis des Euripides</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="55" to="62"/>
+                  <idno type="fn">WR-03-01-03_n0055.xml</idno>
+                  <author ref="#wr-person-0141">Hofmannsthal, Hugo v.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="performance-start"/>
+            <ab>
+               <title>DIE ALKESTIS DES <rs type="person" key="">EURIPIDES</rs>
+                  <lb/>
+FREI ÜBERTRAGEN VON <rs type="person" key="">HUGO VON HOFMANNSTHAL</rs>
+               </title>
+            </ab>
+            <milestone unit="hr"/>
+            <p>
+               <date>1893</date>
+            </p>
+            <p>TITEL DER DREI FRAGMENTE</p>
+            <ab>
+               <title>I. DER PROLOG</title>
+            </ab>
+            <ab>
+               <title>II. DER TOD DER KÖNIGIN</title>
+            </ab>
+            <ab>
+               <title>III. DAS AUFTRETEN DES HERAKLES</title>
+            </ab>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

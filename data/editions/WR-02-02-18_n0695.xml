@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-18_n0695.xml" prev="WR-02-02-18_n0694.xml" next="WR-02-02-18_n0696.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 18, S. 695</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="18"/>
+                        <biblScope unit="page" n="n0695"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-08-01">1 8 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0471">
+                  <title level="a">Paniscus</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 18</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="18">18</biblScope>
+                  <biblScope unit="page" from="695" to="699"/>
+                  <idno type="fn">WR-02-02-18_n0695.xml</idno>
+                  <author ref="#wr-person-0119">Schmitz, Oskar A. H.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">PANISCUS</hi>.<lb/>
+Hunc lucum tibi dedico, consecroque Priape!<lb/>
+Von <rs type="person" key="">OSCAR A. H. SCHMITZ</rs> (Lugano).</title>
+            </ab>
+            <lg>
+               <l>»Zu lang bin ich geirrt in der Oliven</l>
+               <l>spärlichem Schatten; endlich find ich Dich,</l>
+               <l>der Daphne schwarzen Baum, die dichten Locken</l>
+               <l>über der Grotte Eingang neigend! <milestone unit="3dots"/> Aglaë,</l>
+               <l>kann die Plantane, kann die Cyparisse</l>
+               <l>in tieferes Dunkel unseren Kuss vergraben?</l>
+               <l>Entflieh dem heissen Mittag, Aglaë,</l>
+               <l>komm, hier ist alles feucht und kühl, es glänzt</l>
+               <l>in blauem Leuchten das Gestein! <milestone unit="4dots"/> So muss ich hier</l>
+               <l>der matten Glieder Durst und träge Brunst</l>
+               <l>noch heisser fühlen? <milestone unit="3dots"/> Aglaë! Den Namen,</l>
+               <l>den süssen, ruft ein freundlich Echo mit.</l>
+            </lg>
+            <lg>
+               <l>Auf meiner Brust der Haare rauh Gewächs</l>
+               <l>ist wirr und matt, und harrt, dass es der Thau</l>
+               <l>von Deinen Küssen frische, dass Dein Leib,</l>
+               <l>wie weisse Rosen zwischen dunkeles Moos</l>
+               <l>in meine Arme sinke <milestone unit="3dots"/> Aglaë.</l>
+            </lg>
+            <lg>
+               <l>Sieh, eine kühle Welle rauscht herein</l>
+               <l>leuchtend und bäumt sich auf im Doppelstrom;</l>
+               <l>schlank wachsen weisse Glieder vor mir auf</l>
+               <l>und tragen einen glatten Leib, die Brüste</l>
+               <l>seh’ ich aus Wasserwirbeln werden und ein Hals</l>
+               <l>reckt sich empor und trägt ein lachend Antlitz,</l>
+               <l>Dein Antlitz, Aglaë <milestone unit="5dots"/> Ist dies Dein Haar,</l>
+               <l>das dunkel sich des Lorbeers Krone mengt,</l>
+               <l>der nächtig in die kühle Grotte bricht?</l>
+               <l>Ist dies Dein Arm, der strahlend ob dem Haupt</l>
+               <l>sich ins Geäste schlingt, den leichten Leib</l>
+               <l>vom Boden hebt und wiegt, so dass der Fuss</l>
+               <l>die Erde kaum, die schwere, rühren mag,</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

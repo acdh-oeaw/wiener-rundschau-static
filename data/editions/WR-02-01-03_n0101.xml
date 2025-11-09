@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-03_n0101.xml" prev="WR-02-01-03_n0100.xml" next="WR-02-01-03_n0102.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 3, S. 101</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0101"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-12-15">15 12 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0323">
+                  <title level="a">Die Suggestion bei Shakespeare </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="95" to="102"/>
+                  <idno type="fn">WR-02-01-03_n0095.xml</idno>
+                  <author ref="#wr-person-0124">Unger, Franz</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DIE SUGGESTION BEI SHAKESPEARE.</fw>
+               <fw type="pn">101</fw>
+            </fw>
+            <p>
+               <hi rend="text-spaced">Edgar</hi> vergleicht seinen Vater mit den zarten Fäden, dem<lb/>
+Blumenflaum und Spinngewebe, das an milden Herbstabenden die Luft<lb/>
+erfüllt und von dem stillen Lufthauch bald hierhin, bald dorthin ge-<lb break="no"/>
+tragen wird. Gleich solch gewichtlosen, luftigen Geweben ist er, ge-<lb break="no"/>
+tragen von den Aetherfluthen, die ein Windhauch leicht bewegt, auf<lb/>
+den Boden herabgesunken. Doch acceptirt <hi rend="text-spaced">Gloster</hi> nicht so ohne-<lb break="no"/>
+weiters diese poetische Erklärung. Er frägt:</p>
+            <milestone unit="performance-start"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Gloster</hi>.</p>
+            <lg>
+               <l>Bin ich gefallen oder nicht?</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Edgar</hi>.</p>
+            <lg>
+               <l>Vom grausen Gipfel dieses Kreidefelsens.</l>
+               <l>Blick’ in die Höh’ — die laute Lerche kann so weit</l>
+               <l>Geseh’n, gehört nicht werden. Blick’ doch auf!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <p>
+               <hi rend="text-spaced">Edgar</hi> führt seine neugeschaffene Rolle consequent durch. Er<lb/>
+weiss von der Blindheit <hi rend="text-spaced">Gloster</hi>’s nichts, könnte sie auch nicht be-<lb break="no"/>
+merken, da dieser mit dem Gesichte nach abwärts gekehrt am Boden<lb/>
+liegt. Dadurch klingt seine Aufforderung: Blick’ doch auf! nicht wie<lb/>
+ein Hohn, sondern er erreicht im Gegentheil durch sie, dass <hi rend="text-spaced">Gloster</hi>
+               <lb/>
+seinen Worten glaubt und nur sein Missgeschick, das ihm sogar den<lb/>
+Trost des Selbstmords raubt, beklagt.</p>
+            <milestone unit="performance-start"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Gloster</hi>.</p>
+            <lg>
+               <l>Ach, ich habe keine Augen.</l>
+               <l>Ist Elend auch der Gunst beraubt,</l>
+               <l>Sich selbst durch Tod zu enden? Ein Trost war’s doch,</l>
+               <l>Als Noth Tyrannenwuth betrügen konnte,</l>
+               <l>Sein stolzes Wollen ihm vereitelnd.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <p>Der Gedanke an den Tod ist also aufgegeben und damit die<lb/>
+Todesgefahr. Autosuggestion hätte ihn getödtet — Fremdsuggestion<lb/>
+rettet ihn.</p>
+            <milestone unit="performance-start"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Edgar</hi> (hilft ihm auf).</p>
+            <lg>
+               <l>Gebt mir den Arm —</l>
+               <l>Auf — so — wie geht’s? Fühlt ihr die Beine?</l>
+               <l>Ihr steht.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Gloster</hi>.</p>
+            <lg>
+               <l>Zu gut. Zu gut.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Edgar</hi>.</p>
+            <lg>
+               <l>Dies ist schon mehr als seltsam.</l>
+               <l>Am Gipfel dieser Klippe trenntet Ihr</l>
+               <l>Von etwas Euch. Was war’s?</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Gloster</hi>.</p>
+            <lg>
+               <l>Ein armer, unglücklicher Bettler.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <p>
+               <hi rend="text-spaced">Edgar</hi>, der seinem Vater auf die Füsse hilft, frägt ihn, ob er<lb/>
+sich bei Kräften fühle. Zu gut (sehr)! ist seine Antwort. Dann frägt<lb/>
+er ihn, was das »Etwas« oben gewesen sei. Näher darf er sich nicht<lb/>
+ausdrücken, sonst ist der Widerspruch mit Rücksicht auf den Umstand,<lb/>
+dass man so hoch hinauf weder Bestimmtes sehen, noch hören könnte,<lb/>
+zu gross. Diese Frage soll die nachfolgende Erklärung des glücklichen</p>
+         </div>
+      </body>
+   </text>
+</TEI>

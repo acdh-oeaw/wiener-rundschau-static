@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-19_n0748.xml" prev="WR-02-02-19_n0747.xml" next="WR-02-02-20_n0749.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 19, S. 748</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="19"/>
+                        <biblScope unit="page" n="n0748"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-08-15">15 8 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0482">
+                  <title level="a">Hardt, »Priester des Todes«</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 19</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="19">19</biblScope>
+                  <biblScope unit="page" from="747" to="748"/>
+                  <idno type="fn">WR-02-02-19_n0747.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">748</fw>
+               <fw type="ctext">NOTIZEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Wirkung hervorzubringen geeignet<lb/>
+ist, oder er kleidet ein erklügeltes<lb/>
+Missverständnis in eine prätentiös<lb/>
+vorgetragene Novelle. Wenn er<lb/>
+will, kann er eine einfache Be-<lb break="no"/>
+gebenheitt auch einfach und schlicht<lb/>
+erzählen, wie die Geschichte<lb/>
+»Gardinenwäsche« beweist, die<lb/>
+einen erst auf die verkünstelte</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Form der anderen Novellen so<lb/>
+recht aufmerksam macht. Dass<lb/>
+Herr Hardt noch sehr jung ist,<lb/>
+bemerkt man daran, dass er sich<lb/>
+stellenweise von den Ereignissen,<lb/>
+die er zu berichten hat, ungemein<lb/>
+rühren lässt. Aber eben weil der<lb/>
+Autor so gerührt ist, kann es der<lb/>
+Leser nicht werden. <hi rend="italics">
+                           <rs type="person" key="">—ff</rs>.</hi>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="hr"/>
+            <milestone unit="imprint-start"/>
+            <p>Herausgeber: <hi rend="text-spaced">Gustav Schoenaich</hi>, <hi rend="text-spaced">Felix Rappaport</hi>.</p>
+            <p>Verantwortlicher Redacteur: <hi rend="text-spaced">Gustav Schoenaich</hi>.</p>
+            <p>K. k. Hoftheater-Druckerei, Wien, I., Wollzeile 17. (Verantwortlich A. Rimrich.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

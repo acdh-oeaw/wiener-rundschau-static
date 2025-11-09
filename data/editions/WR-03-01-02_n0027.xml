@@ -1,0 +1,276 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-02_n0027.xml" prev="WR-03-01-02_n0026.xml" next="WR-03-01-02_n0028.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 2, S. 27</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0027"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0540">
+                  <title level="a">Die Schlüssel des Himmelreichs. (Zweiter Act)</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="25" to="29"/>
+                  <idno type="fn">WR-03-01-02_n0025.xml</idno>
+                  <author ref="#wr-person-0175">Strindberg, August</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">STRINDBERG: DIE SCHLÜSSEL DES HIMMELREICHS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <lg>
+                        <l>Die furchen Zornesfalten nimmer,</l>
+                        <l>Und diese kleine Hand erhebt sich wohl</l>
+                        <l>Zum Handschlag nur und zur Versöhnung —</l>
+                        <l>O sprecht, wollt Ihr mir folgen, doch als</l>
+                        <l>Schwester nicht!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Liebhaberin</hi>.</p>
+                     <lg>
+                        <l>Wie mancher freite mich und hat sich’s</l>
+                        <l>überlegt!</l>
+                        <l>Du kennst mich nicht, Du weisst es nicht,</l>
+                        <l>Wie elend und bedrückt ich bin!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Noch besser! — Gleich und gleich gesellt</l>
+                        <l>sich gern!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Liebhaberin</hi>.</p>
+                     <lg>
+                        <l>Wie krank <milestone unit="3dots"/>
+                        </l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>So will ich warten Dein!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Liebhaberin</hi>.</p>
+                     <lg>
+                        <l>Wie zornig!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Nur Kraft verräth es! Eine Tugend mehr!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Liebhaberin</hi>.</p>
+                     <lg>
+                        <l>Wenn ich Dich schlag’ und schelte!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Vertreibt’s mir nur die üble Laune!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Liebhaberin</hi>.</p>
+                     <lg>
+                        <l>Das deutet wirklich schon auf echte Liebe!</l>
+                        <l>Sag’, kannst Du, Mann, ein Weib denn</l>
+                        <l>lieben?</l>
+                        <l>Was immer auch geschah’? — Nein, rühre</l>
+                        <l>mich nicht an!</l>
+                        <l>Sag’, wirst Du, wenn verschwunden meine</l>
+                        <l>Schönheit</l>
+                        <l>Durch Alter, Krankheit, Gram</l>
+                        <l>Mich lieben wie zuvor?</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Seit ich ins Auge Dir geschaut,</l>
+                        <l>Kann ich Dich nimmer, nimmermehr ver-</l>
+                        <l>gessen!</l>
+                        <l>Und auf des Alters Schreckbild würde sich</l>
+                        <l>Erinnerung mir wie eine Maske legen,</l>
+                        <l>Und ob die Pest auch ihre schwarzen</l>
+                        <l>Zeichen liesse,</l>
+                        <l>Ob Feuer Deine weissen Wangen sengte</l>
+                        <l>Und Deine Augen aus den Höhlen träten,</l>
+                        <l>Ich säh’ es nicht!</l>
+                        <l>Dein schönes Bild in meinem Herzen blieb,</l>
+                        <l>Das seh’ ich überall, das hab’ ich lieb.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+                  <cell>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Liebhaberin</hi>.</p>
+                     <lg>
+                        <l>Sieh, aussätzig bin ich, nun besteh’ die</l>
+                        <l>Probe!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>(Sie lüftet ihre Maske und lässt ihr vom Aus-<lb break="no"/>
+satz verwüstetes Antlitz sehen.)</p>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>
+                        <lb/>
+(anfangs etwas verzagt, fasst sich allmählich).</p>
+                     <lg>
+                        <l>Ich trau’re, wie im schneeigen Winter</l>
+                        <l>Man trauert um des Sommers Blumen;</l>
+                        <l>Gram ist der Liebe Schnee,</l>
+                        <l>Und unter’m Schnee, da treiben Rosen!</l>
+                        <l>Wie früher, lieb’ ich Dich,</l>
+                        <l>Nein, wärmer noch!</l>
+                        <l>Ich lieb’ in Dir Erinnerung</l>
+                        <l>An das, was ich geliebt! Mein Lieb,</l>
+                        <l>Zum Unterpfand der Liebe küsse mich.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Liebhaberin</hi>.</p>
+                     <lg>
+                        <l>Rühr’ mich nicht an! Ich trag’ den Tod</l>
+                        <l>Auf meinen Lippen!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>So lasst uns beide sterben</l>
+                        <l>Und nichts mehr kann uns fürder trennen!</l>
+                        <l>Nicht Zank, nicht Zwist, des Lebens</l>
+                        <l>Kümmernisse,</l>
+                        <l>Nicht Neid, Verleumdung nicht, wir sterben</l>
+                        <l>seelig</l>
+                        <l>Der Jugend wunderschönen Tod!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Liebhaberin</hi>.</p>
+                     <lg>
+                        <l>O Gott, nie hätt’ ich solche Lieb erträumt!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Sieh, darum sollst Du nicht an Träume</l>
+                        <l>glauben?</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="scene-start"/>
+                     <ab>
+                        <title>Dritte Scene.</title>
+                     </ab>
+                     <p>
+                        <hi rend="strong">Die Vorigen. St. Peter.</hi>
+                     </p>
+                     <p>(St. Peter, der während dieser ganzen Scene<lb/>
+sich ab und zu im Hintergrunde gezeigt und<lb/>
+dem Gespräche gelauscht hat, tritt hervor.)</p>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">St. Peter</hi>, Jetzt aber glaub’ ich, dass<lb/>
+wir das Himmelreich gefunden haben.<lb/>
+Solche Liebe ist sicherlich nur bei Engeln<lb/>
+daheim.</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>. Sieh da, alter Petrus,<lb/>
+bist Du’s? Sag’, willst Du uns zum Altar<lb/>
+führen?</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">St. Peter</hi>. O ja, sehr gern, wenn<lb/>
+ich nur dürfte!</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>. Was sollte denn im<lb/>
+Wege stehen?</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">St. Peter</hi>. Ich weiss, siehst Du, nicht,<lb/>
+ob ich ordiniert bin, und übrigens, glaube<lb/>
+ich, dass man abgesetzt werden kann,<lb/>
+wenn man eine — Aussätzige traut.</p>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

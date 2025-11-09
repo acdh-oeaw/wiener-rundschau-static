@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-13_n0495.xml" prev="WR-01-02-13_n0494.xml" next="WR-01-02-13_n0496.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 13, S. 495</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="13"/>
+                        <biblScope unit="page" n="n0495"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-05-15">15 5 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0163">
+                  <title level="a">Spruch</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 13</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="495" to="495"/>
+                  <idno type="fn">WR-01-02-13_n0495.xml</idno>
+                  <author ref="#wr-person-0017">Evers, Franz</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0164">
+                  <title level="a">Einklang</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 13</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="495" to="495"/>
+                  <idno type="fn">WR-01-02-13_n0495.xml</idno>
+                  <author ref="#wr-person-0067">Bodman, Emanuel von</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>EINKLANG.</title>
+            </ab>
+            <lg>
+               <l>Es war ein Sehnen in mir aufgegangen</l>
+               <l>Und ist noch lange, lange glühn geblieben.</l>
+               <l>In Fernen wollten meine Hände langen,</l>
+               <l>Ich sah im Geiste alle meine Lieben.</l>
+            </lg>
+            <lg>
+               <l>Und hohe Felsen warfen letzte Schatten,</l>
+               <l>Ein Wasser quoll aus einem erdnen Munde,</l>
+               <l>Und weisse Blüthen glänzten auf den Matten,</l>
+               <l>Wir sassen da in einer engen Runde.</l>
+            </lg>
+            <lg>
+               <l>Sie waren alle zu mir hergekommen:</l>
+               <l>Die frühen Freunde, meine beiden Schwestern,</l>
+               <l>Mein Vater, den der Tod mir fortgenommen,</l>
+               <l>Und du, mein Weib; es gab kein Heut, kein Gestern.</l>
+            </lg>
+            <lg>
+               <l>Wir hörten unsre Seelen <hi rend="text-spaced">gleich</hi> erklingen.</l>
+               <l>Sie klangen wie Krystall in blauen Nächten.</l>
+               <l>Wie licht die Töne ineinandergingen!</l>
+               <l>Dir aber küsste ich die braunen Flechten.</l>
+            </lg>
+            <lg>
+               <l>Es dunkelte. So haben wir umschlungen</l>
+               <l>Den Kelch der ewigen Liebe ausgetrunken</l>
+               <l>Und sind, von ihrer Süssigkeit durchdrungen,</l>
+               <l>Alle in Eins, in Luft, ins All gesunken.</l>
+            </lg>
+            <p>München. <rs type="person" key="">Emanuel v. Bodman</rs>.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>SPRUCH.</title>
+            </ab>
+            <lg>
+               <l>In schönen Formen lernst du Vieles wissen,</l>
+               <l>Versteh nur recht, wie sich die Form gebiert.</l>
+               <l>Wo Kraft und Heiterkeit die Flagge hissen,</l>
+               <l>Fühlst du berauscht, wie sich der Gram verliert.</l>
+            </lg>
+            <lg>
+               <l>Verstört und zweifelnd sein in Finsternissen,</l>
+               <l>Ist nur ein Traum, der aus dem Trüben giert —</l>
+               <l>Du aber sollst mit lachendem Gewissen</l>
+               <l>Die Schönheit trinken, die dein Leben ziert!</l>
+            </lg>
+            <p>Berlin. <rs type="person" key="">Franz Evers</rs>.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

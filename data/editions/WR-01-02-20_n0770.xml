@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-20_n0770.xml" prev="WR-01-02-20_n0769.xml" next="WR-01-02-20_n0771.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 20, S. 770</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="20"/>
+                        <biblScope unit="page" n="n0770"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-09-01">1 9 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0248">
+                  <title level="a">Sieben Briefe (1871—1877) Iwan S. Turgenjew’s anSophia Konst. Bryllow, geb. Kawelin</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 20</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="20">20</biblScope>
+                  <biblScope unit="page" from="761" to="770"/>
+                  <idno type="fn">WR-01-02-20_n0761.xml</idno>
+                  <author ref="#wr-person-0098">Korsakow, D.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">770</fw>
+               <fw type="ctext">KORSAKOW.</fw>
+            </fw>
+            <p>Aber jetzt muss ich einiger Unzufriedenheit mit Ihnen Ausdruck<lb/>
+verleihen. (Ich hoffe, Sie schreiben das nicht jener Autorenmanie zu,<lb/>
+welche sich mit Vorliebe bei den schlechtesten und schwächsten<lb/>
+Kinderchen aufhält.) Sie sprechen über verschiedene unbedeutende<lb/>
+Sächelchen von mir, und erwähnen unter anderen auch »Stuk Stuk«.<lb/>
+Denken Sie sich, dass ich dieses Ding nicht als besonders geglückte,<lb/>
+sondern vielleicht ungenügende und schwache, aber eine von den<lb/>
+ernstesten Arbeiten ansehe, die ich jemals geschrieben. Diese Studie<lb/>
+über den Selbstmord, und gerade den an der Tagesordnung befind-<lb break="no"/>
+lichen, aus Eigenliebe, Stumpfsinn und Aberglauben entspringenden,<lb/>
+höchst läppischen und phrasenreichen russischen, beschäftigt sich mit<lb/>
+einem Thema, das interessant und wichtig ist, wie nur irgend ein<lb/>
+sociales. Ich wiederhole, dass ich wahrscheinlich nicht verstanden habe,<lb/>
+alles das zu analysiren und in die richtige Beleuchtung zu rücken;<lb/>
+aber ich gebe Ihnen nochmals die Versicherung, dass Sujets dieser<lb/>
+Art anderen durchaus nicht nachstehen! Vergessen Sie nicht, dass<lb/>
+russische Selbstmörder durchaus von Europäern wie Asiaten ver-<lb break="no"/>
+schieden sind, und dass diesen Unterschied künstlerisch und treu dar-<lb break="no"/>
+stellen, sehr wichtig sein kann, weil es einen Beitrag zur Menschen-<lb break="no"/>
+kenntniss liefert, worin doch schliesslich die Aufgabe aller Poesie, von<lb/>
+der Epopöe an bis zum Vaudeville herab, besteht.</p>
+            <p>Uff! werden Sie sagen, welche oratio pro domo sua! und des-<lb break="no"/>
+wegen — je n’insiste plus.</p>
+            <p>Aller Wahrscheinlichkeit nach komme ich in vier oder fünf<lb/>
+Wochen nach Petersburg, und dann werden wir uns natürlich oft sehen.<lb/>
+Einstweilen bitte ich um einen freundlichen Gruss an Ihren Gatten und<lb/>
+Ihre Eltern; von mir aber nehmen Sie den Ausdruck herzlichster An-<lb break="no"/>
+hänglichkeit entgegen, mit welcher ich bleibe</p>
+            <p>Ihr ergebener <rs type="person" key="">
+                  <hi rend="italics">Iw. Turgenjew</hi>
+               </rs>.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

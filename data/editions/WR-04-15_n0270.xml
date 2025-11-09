@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-15_n0270.xml" prev="WR-04-15_n0269.xml" next="WR-04-15_n0271.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 15, S. 270</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="15"/>
+                        <biblScope unit="page" n="n0270"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0925">
+                  <title level="a">Die platonische Liebe III.</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 15</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="15">15</biblScope>
+                  <biblScope unit="page" from="268" to="270"/>
+                  <idno type="fn">WR-04-15_n0268.xml</idno>
+                  <author ref="#wr-person-0297">Neera</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0926">
+                  <title level="a">Moderne Bühnen-Ästhetik</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 15</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="15">15</biblScope>
+                  <biblScope unit="page" from="270" to="273"/>
+                  <idno type="fn">WR-04-15_n0270.xml</idno>
+                  <author ref="#wr-person-0206">Lindner, Anton</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">LINDNER: MODERNE BÜHNEN-ÄSTHETIK.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Namen der Gleichheit der Atome sein<lb/>
+eisernes Joch auferlege. — Im übrigen<lb/>
+aber wissen wir, dass die menschliche<lb/>
+Seele nach Selbstvervollkommnung strebt<lb/>
+und einst einen Tag sehen muss, an dem</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">man nicht mehr von physischer oder<lb/>
+platonischer Liebe sprechen wird, sondern<lb/>
+einfach von der Liebe schlechthin in ihrem<lb/>
+höchsten Sinne.</p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">THEATER</hi>.</title>
+            </ab>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">MODERNE BÜHNEN-ÄSTHETIK</hi>.<lb/>
+Von <rs type="person" key="">ANTON LINDNER</rs> (Wien).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Die Berliner <hi rend="text-spaced">Secessionsbühne</hi>,<lb/>
+deren reformatorisch-künstlerische Bestre-<lb break="no"/>
+bungen bereits in wenigen Worten an<lb/>
+dieser Stelle * skizziert wurden, hat vor<lb/>
+einigen Tagen mit ihrem Gastspiel in<lb/>
+unserer Stadt begonnen und alsbald die<lb/>
+respectvollste Wertschätzung jener Wenigen<lb/>
+errungen, die in nothwendigen und starken<lb/>
+Versuchen nicht die absolute Erfüllung<lb/>
+aller problematischen Möglichkeiten suchen,<lb/>
+vielmehr glücklich und dankbar sind, wenn<lb/>
+sie die ersten kräftigen Ansätze als will-<lb break="no"/>
+kommene Verheißung eines reifen Ge-<lb break="no"/>
+lingens nehmen können.</p>
+                     <p>Man darf eben die Anläufe dieses<lb/>
+neuen Beginnens nicht wie eine end-<lb break="no"/>
+giltige Leistung abschätzen wollen, die<lb/>
+sich etwa als fertiges Muster dem<lb/>
+Urtheil der Krittler darbieten möchte.<lb/>
+Es war eine alberne Pose unserer Wiener<lb/>
+Tageskritik, dass sie die <hi rend="italics">species aeterni</hi>, die<lb/>
+sonst jahrzehntelang in ihrem Futteral<lb/>
+ruht, just diesem Berliner Unternehmen<lb/>
+gegenüber wie eine böswillige Brille hervor-<lb break="no"/>
+holte. Es war dies auch eine völlig miss-<lb break="no"/>
+verständliche Taktik, die deutlich erkennen<lb/>
+ließ, dass man die Absichten dieser neuen<lb/>
+Bühne leider vom Grund aus verkenne.<lb/>
+Denn es ist eine in Wahrheit recht neben-<lb break="no"/>
+sächliche Frage, ob uns die Schauspieler<lb/>
+dieser jungen Truppe im Augenblicke<lb/>
+Vollendetes darbieten; sie wissen wohl selbst<lb/>
+zur Genüge, dass mit den verfügbaren<lb/>
+armen Mitteln nichts Vollkommenes zu<lb/>
+erzwingen ist. Aber ihre Absichten soll<lb/>
+man erkennen, ihrer Thatkraft gerecht</p>
+                  </cell>
+                  <cell>
+                     <p>werden, ihrem Künstler-Ernst sich beugen!<lb/>
+— Einige junge Leute, die fast alle in<lb/>
+bürgerlichen Theatern gedient und zum<lb/>
+Theile noch dienen, haben sich sommers-<lb break="no"/>
+über zusammengethan, um in unge-<lb break="no"/>
+wöhnlichen (alltagswidrigen) Stücken, denen<lb/>
+die Zunftbühnen verschlossen sind, die<lb/>
+                        <hi rend="text-spaced">Möglichkeit</hi> einer ungewöhnlichen (»fest-<lb break="no"/>
+lichen«**) Regie zu beweisen. Diese Regie<lb/>
+sucht nicht im Ensembledrill und Milieu-<lb break="no"/>
+Fetischismus der preußischen Bühnen,<lb/>
+nicht im Einzelcult und Tapeziererpomp<lb/>
+der südlicheren Bühnen ihre praktisch-<lb break="no"/>
+ästhetische Aufgabe. Vielmehr will solche<lb/>
+Regie die gleichsam gebundene <hi rend="text-spaced">Bildlich</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">keit</hi> wecken, die — unkenntlich fast<lb/>
+dem Auge, das sich am abstract Lite-<lb break="no"/>
+rarischen unserer Zeit verdorben — in<lb/>
+jedem organisch gefügten Dichterwerke mit<lb/>
+wachen Sinnen schlummert; die groß-<lb break="no"/>
+zügigen Linien, in die sich die Gefühle,<lb/>
+Leidenschaften, Stimmungen, Rhythmen und<lb/>
+Worte jedes einheitlich geformten Dichter-<lb break="no"/>
+werkes im Augenblicke des Schauens<lb/>
+flüchten, will sie lautlos erklingen machen;<lb/>
+sie perhorresciert vor allem anderen, so-<lb break="no"/>
+fern sie sich selbst zu verstehen weiß,<lb/>
+jede äußerliche Einkleidung der scenischen<lb/>
+Vorgänge in jenes decorative Brimborium,<lb/>
+in jenes stillose Nebenher oder Ringsum,<lb/>
+das auf den Geschäfts- und Hofbühnen<lb/>
+unserer Großstädte als <hi rend="text-spaced">illustrierendes</hi>
+                        <lb/>
+Bildwerk zwar <hi rend="text-spaced">inhaltliche</hi>, <hi rend="text-spaced">stoffliche</hi>
+                        <lb/>
+Beziehungen aufweist, aber jeden <hi rend="text-spaced">inner</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">lich-geistigen</hi> Zusammenklang missen<lb/>
+lässt. In der bildenden Kunst wurde das</p>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* IV, 14, S. 254.</p>
+               <p>** Vgl. <hi rend="text-spaced">Goethe</hi> zu Eckermann, <date>22. März 1825</date>. — Vgl. auch die Aufsätze von Georg<lb/>
+Fuchs, »W. R.«, in, 13, 20, 21.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

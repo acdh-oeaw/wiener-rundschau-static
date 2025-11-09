@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-08_n0302.xml" prev="WR-01-01-08_n0301.xml" next="WR-01-01-08_n0303.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 8, S. 302</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="08"/>
+                        <biblScope unit="page" n="n0302"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-03-01">1 3 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0094">
+                  <title level="a">Ury’s neues Kolossalgemälde</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 8</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="302" to="304"/>
+                  <idno type="fn">WR-01-01-08_n0302.xml</idno>
+                  <author ref="#wr-person-0024">Servaes, Franz</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>URY’S NEUES KOLOSSALGEMÄLDE.<lb/>
+Von <rs type="person" key="">Ffanz Servaes</rs> (Berlin).</title>
+            </ab>
+            <p>Ein grosses Kunstwerk hat im Laufe dieses Winters in<lb/>
+Berlin das Licht der Welt erblickt: ein Triptychon von<lb/>
+               <hi rend="text-spaced">Lesser Ury</hi> „<hi rend="text-spaced">Der Mensch</hi>“. Eine ganze Weltanschauung<lb/>
+ist darin niedergelegt und eine kühne, künstlerische Protest-<lb break="no"/>
+gesinnung.</p>
+            <p>Wer das kleine Urychen über die Strasse huschen<lb/>
+sieht, mit hastigen, nervösen Trippelschritten, geduckt,<lb/>
+menschenscheu, vergrämt, mit einem putzigen Anstrich von<lb/>
+Eleganz bei dem stets unvermeidlichen, aber leider ziem-<lb break="no"/>
+lich fragwürdigen Cylinder, wer ihn dann sprechen hört,<lb/>
+übertrieben höflich, fast demüthig, manchmal mit allerhand<lb/>
+französischem Gestotter durchflickt und von unmotivirtem,<lb/>
+nervösem Gekicher unterbrochen, der wird schwerlich er-<lb break="no"/>
+rathen, dass in diesem so klein sich geberdenden Menschen-<lb break="no"/>
+kind eine grosse, stolze und heroische Seele wohnt. Und<lb/>
+doch hat, wenn irgend Einer unter den Berliner jüngeren<lb/>
+Künstlern, Lesser Ury Anspruch darauf, für einen Heros<lb/>
+gehalten zu werden. Nicht allein seiner künstlerischen<lb/>
+Leistungen wegen, sondern vor Allem wegen des opfer-<lb break="no"/>
+muthigen, ausdauernden und unerschrockenen Charakters,<lb/>
+mit dem er seine künstlerische Gesinnung, allen Anfein-<lb break="no"/>
+dungen und Anfreundungen zum Trotz, als sein innerstes<lb/>
+Heiligthum sich bewahrt hat. Nicht einen Zoll ist dieser<lb/>
+von keinerlei Heimsuchung verschont gebliebene, aus Noth,<lb/>
+Hunger und Missachtung schwer sich emporringende Künstler<lb/>
+vor den conventionellen Ansprüchen der Menge oder den<lb/>
+banausischen Rathschlägen der Pressekritik zurückgewichen.<lb/>
+Er hat eine Entwicklung durchgemacht, so rein und auf-<lb break="no"/>
+wärtsstrebend, so instinctsicher vordringend zum eigentlichen<lb/>
+Centrum seiner künstlerischen Individualität, dass er als<lb/>
+einer der Ganzesten dasteht im Bereich moderner Kunst,<lb/>
+nicht etwa nur in Berlin, nein, in Europa. Sein neues Werk ist</p>
+         </div>
+      </body>
+   </text>
+</TEI>

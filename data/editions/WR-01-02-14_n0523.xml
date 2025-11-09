@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-14_n0523.xml" prev="WR-01-02-14_n0522.xml" next="WR-01-02-14_n0524.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 14, S. 523</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="14"/>
+                        <biblScope unit="page" n="n0523"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-06-01">1 6 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0174">
+                  <title level="a">Bekenntnisse</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 14</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="14">14</biblScope>
+                  <biblScope unit="page" from="521" to="525"/>
+                  <idno type="fn">WR-01-02-14_n0521.xml</idno>
+                  <author ref="#wr-person-0070">Nansen, Peter</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BEKENNTNISSE.</fw>
+               <fw type="pn">523</fw>
+            </fw>
+            <p rend="no-intend">Malplatz des Lebens. Sie führten mich in Ihr Lazareth, ver-<lb break="no"/>
+banden meine Wunden, linderten meine Schmerzen, ver-<lb break="no"/>
+scheuchten mit Ihrer weichen Hand den Missmuth von meiner<lb/>
+Stirn, gaben mir durch Ihre liebevolle, schonende Behandlung<lb/>
+den Lebensmuth wieder.</p>
+            <p>Niemals kann ich vergessen, was Sie mir gewesen sind.</p>
+            <p>Nicht wahr? — Sie waren eine barmherzige Schwester!<lb/>
+eines jener seltenen aufopfernden Wesen, die der liebe Gott<lb/>
+in seiner Gnade der irrenden Menschheit gesandt hat. Sie<lb/>
+wussten, dass an dem Tage, an dem die Wunden geheilt<lb/>
+waren, der Krieger zu neuen Kämpfen und neuen Siegen<lb/>
+ausziehen würde.</p>
+            <p>Oft haben wir ja am Kamin gesessen und davon geplaudert,<lb/>
+dass die Stunde kommen würde und müsse, in der wir ein-<lb break="no"/>
+ander die Hand zum Abschied reichten. Wir wussten, dass<lb/>
+das Verhältniss, das wir eingingen: ich ein Soldat und Sie<lb/>
+eine barmherzige Schwester, nicht auf die Ewigkeit berechnet<lb/>
+sei. Wir wussten das, auch ohne die weltlichen Hinderungen<lb/>
+in Betracht zu ziehen, die sich unserm dauernden Glück<lb/>
+entgegenstellten. Sie begriffen, dass den Soldaten eines schönen<lb/>
+Tages neue Heldenthaten locken müssten. Und ich war nicht<lb/>
+selbstsüchtig genug, zu glauben, dass eine barmherzige<lb/>
+Schwester sich der Pflege und der Wartung eines Einzigen<lb/>
+widmen darf.</p>
+            <p>Was ich mir vorwerfe, ist, dass ich Sie nicht darauf<lb/>
+vorbereitet habe, dass die Stunde der Trennung herannahte.<lb/>
+Sie werden mir verzeihen, wenn Sie hören, dass ich einzig<lb/>
+und allein gezögert habe, weil ich es nicht wagte, Ihnen<lb/>
+Kummer zu bereiten. Ich bin ein Mann, und ich kann viel<lb/>
+ertragen. Nur Eins nicht — Sie leiden zu sehen.</p>
+            <p>Liebe Freundin, das junge Mädchen, das in acht Tagen<lb/>
+meine Gattin wird, ist ein so engelsfrommes, sanftes Wesen,<lb/>
+dass Sie sie unwillkürlich lieben würden, wenn Sie sie<lb/>
+kennten. Sie wird mich glücklich machen, seien Sie über-<lb break="no"/>
+zeugt davon, und ich werde sie lehren, Ihr Andenken zu<lb/>
+segnen.</p>
+            <p>Ihr Vater, der steinreiche Banquier H., hat vorläufig<lb/>
+meine Schulden bezahlt. Er wird es billigen — denn er ist<lb/>
+ein vollendeter Cavalier — dass ich diese Zeilen mit dem</p>
+         </div>
+      </body>
+   </text>
+</TEI>

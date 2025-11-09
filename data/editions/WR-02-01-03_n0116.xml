@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-03_n0116.xml" prev="WR-02-01-03_n0115.xml" next="WR-02-01-03_n0117.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 3, S. 116</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0116"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-12-15">15 12 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0325">
+                  <title level="a">Österreichische Logik</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="116" to="116"/>
+                  <idno type="fn">WR-02-01-03_n0116.xml</idno>
+                  <author ref="#wr-person-0007">Schik, F.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>ÖSTERREICHISCHE LOGIK.<lb/>
+Von <rs type="person" key="">F. Schik</rs> (Wien).</title>
+            </ab>
+            <p>Da sich die in das Ministerium Gautsch gesetzten Hoffnungen,<lb/>
+wieder parlamentarische Zustände herbeizuführen, nicht erfüllt haben,<lb/>
+dürfte dessen Bestand für längere Zeit gesichert sein. Man ist wieder<lb/>
+beruhigter, weil Alles so eingetreten ist, wie man befürchtete. Die Auf-<lb break="no"/>
+regungen, die das Regime Badeni verursachte, sind nun einer un-<lb break="no"/>
+parlamentarischen Ruhe gewichen. So hat denn Gautsch spielend erreicht,<lb/>
+was sein Vorgänger mit allen Mitteln anstrebte.</p>
+            <p>Die Kundgebungen der Majoritäts- und der Minoritätsparteien<lb/>
+anlässlich des Abbruches der Verhandlungen zwischen dem neuen<lb/>
+Ministerium und den Parteien lassen an Unvereinbarkeit nichts zu<lb/>
+wünschen übrig. Allseitig wird deshalb die Hoffnung auf einen gün-<lb break="no"/>
+stigen Ausgang der Parlamentskrise ausgesprochen. Zwar sind die<lb/>
+meisten Abgeordneten bereits in ihre heimatlichen Wahlbezirke ab-<lb break="no"/>
+gereist, aber die Langweile, die sie dort beschleichen dürfte, und die<lb/>
+bösen Träume, die ihnen während des unconstitutionellen Schlafes<lb/>
+kommen werden, müssen schliesslich dahin führen, dass man sich der<lb/>
+Tragik der vergangenen Ereignisse immer weniger bewusst wird.</p>
+            <p>Mit den Aussichten für den Ausgleich können wir zufrieden sein.<lb/>
+Der blutige Föderalismus, wie er bei uns am Horizont aufsteigt, hat<lb/>
+die Ungarn plötzlich stutzig gemacht. Wir führen ihnen ein Schauspiel<lb/>
+vor, das in der Folge auf die in ihrem Land unterdrückten Nationali-<lb break="no"/>
+täten nicht ohne Wirkung sein könnte. Eine weitere Schwächung unserer<lb/>
+Reichshälfte kann daher nicht in ihrem Interesse liegen. So wird nun<lb/>
+der Ausgleich zustande kommen, obwohl von unserer Seite Alles ge-<lb break="no"/>
+than wurde, ihn unmöglich zu machen.</p>
+            <p>Auch mit den Sprachenverordnungen wird man sich nunmehr<lb/>
+versöhnen können. Die Deutschen waren nach deren Erlassung in<lb/>
+grösster Aufregung, die Tschechen würden es durch deren Aufhebung sein.<lb/>
+Es geht also nicht an, beide Nationen durch ein und dasselbe Aus-<lb break="no"/>
+kunftsmittel zu beruhigen. So wurde zu Gunsten der Deutschen der<lb/>
+Urheber Badeni aufgehoben, zu Gunsten der Tschechen seine Verord-<lb break="no"/>
+nungen belassen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

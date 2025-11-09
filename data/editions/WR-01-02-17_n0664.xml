@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-17_n0664.xml" prev="WR-01-02-17_n0663.xml" next="WR-01-02-17_n0665.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 17, S. 664</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="17"/>
+                        <biblScope unit="page" n="n0664"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-07-15">15 7 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0224">
+                  <title level="a">Die skandinavische Literatur und ihre Tendenzen</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 17</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="17">17</biblScope>
+                  <biblScope unit="page" from="656" to="664"/>
+                  <idno type="fn">WR-01-02-17_n0656.xml</idno>
+                  <author ref="#wr-person-0085">Herzfeld, Marie</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0225">
+                  <title level="a">Die Verzauberung Merlin’s</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 17</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="17">17</biblScope>
+                  <biblScope unit="page" from="664" to="664"/>
+                  <idno type="fn">WR-01-02-17_n0664.xml</idno>
+                  <author ref="#wr-person-0088">Perzynski, Friedrich</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">664</fw>
+               <fw type="ctext">HERZFELD.</fw>
+            </fw>
+            <p rend="no-intend">müde und schüchtern, doch mit inniger Freude dem Leben und seinen<lb/>
+Lockungen lauscht. Er will für’s Erste noch nicht führen, sondern sich<lb/>
+führen lassen. Nur dem Willen und den Winken des Daseins gehorchen<lb/>
+und die Wege gehen, die es ihm weist. Erst sich selber finden und<lb/>
+dann das Werk, das ihm zu leisten aufgetragen.</p>
+            <p>(Schluss folgt.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">DIE VERZAUBERUNG MERLIN</hi>’S.<lb/>
+(Gemälde von Edward Burne-Jones.)</title>
+            </ab>
+            <lg>
+               <l>
+                  <hi rend="initial">Er</hi> hört ein Flüstern, träumerisch und leise;</l>
+               <l>Wie es verschwebt in kleinen Intervallen</l>
+               <l>Und wieder naht: gleich glühenden, suchenden Krallen</l>
+               <l>Umtanzen ihn züngelnde Feuerkreise. —</l>
+            </lg>
+            <lg>
+               <l>Des lächelt <hi rend="text-spaced">sie</hi> so überlegen-weise,</l>
+               <l>Schneller bewegen sich die Blutkorallen</l>
+               <l>Der vollen Lippen, ihre Locken wallen:</l>
+               <l>Sein stolzer Muth erliegt der Zauberweise.</l>
+            </lg>
+            <lg>
+               <l>Und seine Hand tastet nach ihrem Kleide:</l>
+               <l>Nur <hi rend="text-spaced">einen</hi> Stützpunkt auf der weiten Fläche,</l>
+               <l>Dass er den Leib aus seinem Starrkrampf wecke! —</l>
+            </lg>
+            <lg>
+               <l>— Auf flammt am Himmel erstes Sterngeschmeide,</l>
+               <l>Und jede Form rinnt ihm in Dämmerungsschwäche:</l>
+               <l>Der Wald, das Weib, die blühende Weissdornhecke <milestone unit="4dots"/>
+               </l>
+            </lg>
+            <p>Charlottenburg. <rs type="person" key="">Friedrich Perzyński</rs>.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

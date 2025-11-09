@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-23_n0901.xml" prev="WR-01-02-23_n0900.xml" next="WR-01-02-23_n0902.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 23, S. 901</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="23"/>
+                        <biblScope unit="page" n="n0901"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-10-15">15 10 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0287">
+                  <title level="a">Deutsches Volkstheater</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 23</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="901" to="901"/>
+                  <idno type="fn">WR-01-02-23_n0901.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0288">
+                  <title level="a">Hof-Operntheater</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 23</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="901" to="901"/>
+                  <idno type="fn">WR-01-02-23_n0901.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">NOTIZEN</hi>.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="untyped-start"/>
+                     <p>Deutsches Volkstheater.<lb/>
+»<hi rend="text-spaced">Annas Traum</hi>.« Volksstück von<lb/>
+Adolf L’Arronge.</p>
+                     <p>Es gibt Stücke, die schon der<lb/>
+Schauspieler wegen nicht gegeben<lb/>
+werden sollten. Sie sind so tief<lb/>
+verlogen und gefälscht, dass sie<lb/>
+dem Wesen jedes Mimen die<lb/>
+bitterste Gefahr bedeuten. Zu diesen<lb/>
+Stücken zählt auch »Annas Traum«,<lb/>
+ein ödes Machwerk, das alle Cor-<lb break="no"/>
+ruptionen einer heuchlerischen Sen-<lb break="no"/>
+timentalität, alle Flecken einer ver-<lb break="no"/>
+rosteten Technik, alle Trocken-<lb break="no"/>
+heiten einer verstaubten Kaufmanns-<lb break="no"/>
+seele bietet <milestone unit="3dots"/> Hat dieses Werk<lb/>
+Herrn Bukovics gefallen? Ich hoffe:<lb/>
+Nein! Vielleicht besitzt er doch<lb/>
+die Fähigkeit, ein schlechtes Stück<lb/>
+als solches zu erkennen, und<lb/>
+nur die weitre Einsicht mangelt<lb/>
+ihm, es dann auch nicht zu geben.<lb/>
+Aber sehr wahrscheinlich oder sehr<lb/>
+bedeutsam für sein Ansehn ist<lb/>
+diese feine Scheiung nicht.</p>
+                     <p>
+                        <rs type="person" key="">
+                           <hi rend="italics">R. St.</hi>
+                        </rs>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-start"/>
+                     <p>K. K. Hofoper. »<hi rend="text-spaced">Dalibor</hi>.«<lb/>
+Oper in drei Acten von J. Wenzig.<lb/>
+Musik von Friedrich Smetana.</p>
+                     <p>Herr Mahler hält mehr als uns<lb/>
+Director Jahn je versprochen. Von<lb/>
+der richtigen Erkenntniss aus-<lb break="no"/>
+gehend, dass das <date>Vorjahr</date> mit seinen<lb/>
+schlaffen Leistungen für unsere<lb/>
+Oper ein Jahr der tiefen Trauer<lb/>
+war, liess uns gleich sein Antritts-<lb break="no"/>
+programm auf eine entschiedene<lb/>
+Wendung zum Besseren hoffen.<lb/>
+Die Neueinstudirung des »Nibe-<lb break="no"/>
+lungencyklus«, »Figaro« und des</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Lortzing’schen »Czar und Zimmer-<lb break="no"/>
+mann« waren den Worten rasch<lb/>
+gefolgte Thaten, und durch die<lb/>
+Aufführung des »Dalibor« ist das<lb/>
+Unrecht theilweise wieder gut-<lb break="no"/>
+gemacht, welches Smetana durch<lb/>
+die Repertoireabsetzung seines reif-<lb break="no"/>
+sten Werkes »Das Geheimniss« zu-<lb break="no"/>
+gefügt worden ist.</p>
+                     <p>Ein flüchtiger Einblick in die<lb/>
+Partitur zeigt uns sofort alle Eigen-<lb break="no"/>
+heiten des Componisten, die uns<lb/>
+bereits bekannt und lieb geworden<lb/>
+sind; allerdings gehört das obstinate<lb/>
+Festhalten mancher Motive und<lb/>
+der allzu häufige Gebrauch von<lb/>
+Sequenzen nicht hiezu. Wenn<lb/>
+»Dalibor« auch die musikalische<lb/>
+Einheit des obgenannten Meister-<lb break="no"/>
+werkes und die reiche Erfindung<lb/>
+der »Verkauften Braut« abgeht, so<lb/>
+finden wir dafür einen bei Smetana<lb/>
+neuen, romantisch-ritterlichen Zug,<lb/>
+der zwar manchmal ans Sentimen-<lb break="no"/>
+tale streift, aber dem Werke eine<lb/>
+ganz aparte Stimmung verleiht;<lb/>
+wir erinnern nur an den eigen-<lb break="no"/>
+thümlichen Reiz der Trompeten-<lb/>
+und Paukenstellen zu Beginn der<lb/>
+Oper und an das heroische, leit-<lb break="no"/>
+motivisch verwendete Dalibor-<lb break="no"/>
+Thema. Von ebenso viel musikali-<lb break="no"/>
+schem Geschmack als grosser<lb/>
+Bühnenkenntniss zeugen das im<lb/>
+Aufbau an das Rheingoldvorspiel<lb/>
+gemahnende Entrée des Königs,<lb/>
+die ergreifende Anklage der Milada<lb/>
+und das herrliche Liebesduett des<lb/>
+zweiten Actes, während das als<lb/>
+Zdenko-Motiv gedachte zweite</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

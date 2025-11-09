@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-09_n0321.xml" prev="WR-01-01-08_n0320.xml" next="WR-01-01-09_n0322.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 9, S. 321</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="09"/>
+                        <biblScope unit="page" n="n0321"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-03-15">15 3 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0104">
+                  <title level="a">Ein Einsiedler</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 9</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="09">9</biblScope>
+                  <biblScope unit="page" from="321" to="327"/>
+                  <idno type="fn">WR-01-01-09_n0321.xml</idno>
+                  <author ref="#wr-person-0044">Geijerstam, Gustav af</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>15. <hi rend="text-spaced">MÄRZ</hi> 1897</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>EIN EINSIEDLER.<lb/>
+Von <rs type="person" key="">Gustaf af Geijerstam</rs>.<lb/>
+Autorisirte Uebertragung aus dem Schwedischen von <rs type="person" key="">Francis Maro</rs>.</title>
+            </ab>
+            <p>Niemand, der je vorbeigefahren ist, hat umhin können, ein wunder-<lb break="no"/>
+liches Gebäude zu bemerken, das am Waldessaum gerade an dem<lb/>
+Punkte liegt, wo der Weg zur Ebene hinabbiegt. Es ist ein viereckiges<lb/>
+Haus, dessen Dach sich zu einer Spitze erhebt. Aus dieser Spitze ragt<lb/>
+ein Schornstein empor, und wenn das Wetter schön ist, kann man zu-<lb break="no"/>
+weilen sehen, wie sich blauer Rauch daraus ringelt. Blickt man näher<lb/>
+hin, so wird man finden, dass die Thüre des alten, recht verfallenen<lb/>
+Gebäudes nicht selten verschlossen und der Schlüssel herausgenommen<lb/>
+ist. Man kann dies oft beobachten, gerade wenn der blaue Rauch sich<lb/>
+aus dem gemauerten Schornstein emporringelt.</p>
+            <p>In diesem Hause wohnte ein seltsamer Einsiedler, der Per hiess.<lb/>
+Kein Mensch nannte ihn anders als Per, und Niemand dachte daran,<lb/>
+dass er einen vollständigeren Namen haben könnte. Er hatte nun so<lb/>
+viele Jahre dort gewohnt, dass man sich auch nicht länger den Kopf<lb/>
+darüber zerbrach, warum er eigentlich da wohnte. Allein war er nicht,<lb/>
+denn ein armes, altes Weib versah seinen Haushalt. Auch nicht müssig.<lb/>
+Denn Per war Schmied, und die Bauern pflegten bei seinem Häuschen<lb/>
+Halt zu machen, um ihre Pferde beschlagen zu lassen. Ausserdem hatte<lb/>
+er sein eigenes Ackerland und sein eigenes Gärtchen. All dies war seit<lb/>
+lange so geordnet, und es hatte sich in die Gedanken der Anwohnenden<lb/>
+eingewachsen, dass es gar nicht anders sein konnte.</p>
+            <p>Wie es zugegangen war, dass Per Schmied wurde, das wusste<lb/>
+eigentlich Niemand, wenn auch Jedermann seine Vermuthungen haben<lb/>
+konnte; aber dass dem ein Geheimniss zugrunde lag, das wussten Alle.<lb/>
+Denn Per war der älteste Sohn eines reichen Bauern, und es war eigent-<lb break="no"/>
+lich eine Ungerechtigkeit, dass er die Pferde der Bauern beschlagen<lb/>
+und ihre Schlösser verfertigen sollte.</p>
+            <p>Aber Per hatte es nie verstanden, seinen eigenen Vortheil wahr-<lb break="no"/>
+zunehmen und war stets ein wunderlicher Kauz gewesen, noch als er<lb/>
+ein ganz junger Mann war und Niemand etwas Anderes denken konnte,<lb/>
+als dass er einmal den Hof nach dem Vater erben würde. Und dass</p>
+         </div>
+      </body>
+   </text>
+</TEI>

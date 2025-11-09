@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-03_n0057.xml" prev="WR-03-01-03_n0056.xml" next="WR-03-01-03_n0058.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 3, S. 57</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0057"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0551">
+                  <title level="a">Die Alkestis des Euripides</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="55" to="62"/>
+                  <idno type="fn">WR-03-01-03_n0055.xml</idno>
+                  <author ref="#wr-person-0141">Hofmannsthal, Hugo v.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">HOFMANNSTHAL: DIE ALKESTIS DES EURIPIDES.</fw>
+            </fw>
+            <lg>
+               <l>Unsichtbar, grauenvoll, auf stummen Flügeln</l>
+               <l>Mit Todesaugen hiengen in der Luft</l>
+               <l>Hörten’s und wehten ihren jungen Leib</l>
+               <l>Mit leisem Schauer an, und als er wild</l>
+               <l>In Angst die Arme um sie klammert,</l>
+               <l>Umschlang er eine Todgeweihte schon.</l>
+               <l>
+                  <milestone unit="3dots"/> Sie stirbt, eh’ diese Sonne sinkt und ich</l>
+               <l>muss dieses Haus vermeiden, ich, ein Gott,</l>
+               <l>Eh’ noch der Hauch des Todes mich entweiht.</l>
+               <l>Denn schon durch’s Gartenpförtchen tritt er, dort,</l>
+               <l>Der grauenvolle, ein, der Todesgott,</l>
+               <l>Der diese Frau die dunklen Wege führt.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="act-start"/>
+            <ab>
+               <title>II. DER TOD DER KÖNIGIN.</title>
+            </ab>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der König Admet</hi>.</p>
+            <lg>
+               <l>Die mich geboren, hass’ ich! Meinen Vater</l>
+               <l>Will ich nicht anseh’n. Ihre Liebe ist</l>
+               <l>Ein Wort im Wind, die Deine Brot und Wein,</l>
+               <l>Nein, Blut, vergossen, meinen Durst zu löschen,</l>
+               <l>Aus Deinem Herzen Deiner Jugend Blut!</l>
+               <l>Wie Vater nicht und Mutter nicht hast Du</l>
+               <l>An mir gethan! Meinst Du, ich trau’re d’rum</l>
+               <l>Ein Jahr um Dich? Was kümmert mich die Zeit?!</l>
+               <l>So lang’ ich leb’, ist Trauer meine Herrin,</l>
+               <l>Setzt sich mit mir zu Tisch, geht hinter mir</l>
+               <l>Und steht des Nachts an meinem leeren Bette</l>
+               <l>Und sieht mich an mit eisernen Augen, stumm.</l>
+               <l>Und manchesmal schlaftrunken wähn’ ich dann</l>
+               <l>Du stündest da und strecke meine Arme</l>
+               <l>Nach ihr und schlafe selig lächelnd ein,</l>
+               <l>Bis sie mir ihre kalte Hand aufs Herz</l>
+               <l>Hinlegt und schauerlich der Wahn zerrinnt.</l>
+            </lg>
+            <milestone unit="hr"/>
+            <lg>
+               <l>Sonst war mein Haus mit Fackeln, Flötenschall</l>
+               <l>Und Blumenkränzen tönend angefüllt</l>
+               <l>Und seine Fugen bebten von Musik!</l>
+               <l>Jetzt steht es hohl und todt, ein Sarg der Lust.</l>
+               <l>Wie Früchte innen voller Moderstaub!</l>
+            </lg>
+            <milestone unit="hr"/>
+            <lg>
+               <l>O komm’ im Traum nur manchesmal zu mir!</l>
+            </lg>
+            <milestone unit="hr"/>
+            <lg>
+               <l>Hätt’ ich des Orpheus wilden, süssen Mund,</l>
+               <l>Hätt’ ich sein Saitenspiel, d’rauf Lust und Leid</l>
+               <l>Und Sehnsucht und Verführung zauberhaft</l>
+               <l>Anstatt der Saiten aufgezogen sind,</l>
+               <l>Dass ich den Schattenkönig und sein Weib</l>
+               <l>Persephoneia, rührend, aus der Nacht</l>
+               <l>Dich rettete! Ich stieg’ hinab und keiner</l>
+               <l>Von den Dämonen sollte mir verwehren,</l>
+               <l>Dich heimzutragen an das Licht, Geliebte!</l>
+               <l>So bleib’ ich hier am öden Ufer steh’n,</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

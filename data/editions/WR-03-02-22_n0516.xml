@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-22_n0516.xml" prev="WR-03-02-22_n0515.xml" next="WR-03-02-22_n0517.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 22, S. 516</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="22"/>
+                        <biblScope unit="page" n="n0516"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0732">
+                  <title level="a">Laus Veneris III.</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 22</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="22">22</biblScope>
+                  <biblScope unit="page" from="513" to="517"/>
+                  <idno type="fn">WR-03-02-22_n0513.xml</idno>
+                  <author ref="#wr-person-0228">Swinburne, Algernon Charles</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">SWINBURNE: LAUS VENERIS.</fw>
+            </fw>
+            <lg>
+               <l>„Ja, so verpestet bin ich von Gebuhl,</l>
+               <l>Dass darob schwärzer raucht der Höllenpfuhl“</l>
+               <l>Schrie ich, worauf der Vater, mild gestimmt,</l>
+               <l>Mir zusprach und vor seinem heilgen Stuhl</l>
+            </lg>
+            <lg>
+               <l>Ich fortfuhr, tief im Staube mein Gesicht,</l>
+               <l>Bis jäh ein solcher Schrei mich unterbricht,</l>
+               <l>Wie ihn ein Todter wohl einstmals vernimmt,</l>
+               <l>Wenn ihn der Weckruf fordert vor Gericht:</l>
+            </lg>
+            <lg>
+               <l>„Bis dieser dürre Stamm, der weder Schoss</l>
+               <l>Noch Rinde hat, in Blüten nicht erspross,</l>
+               <l>So lange suche nicht Barmherzigkeit</l>
+               <l>Vor Gott, weil er sein Ohr vor Dir verschloss.“</l>
+            </lg>
+            <lg>
+               <l>Wie! Wenn geschieht, was nimmermehr geschehn,</l>
+               <l>Soll ich die Giftsaat in der Blüte sehn?</l>
+               <l>Wenn dieser säftelose Stamm gedeiht,</l>
+               <l>Dann soll aus meiner Sünde Heil erstehn?</l>
+            </lg>
+            <lg>
+               <l>Nein, pflückte man vom dürren Stamm auch Frucht</l>
+               <l>Und schöpfte süsses Wasser aus der Bucht,</l>
+               <l>So quillt aus diesem Mark doch nimmer Saft —</l>
+               <l>In alle Ewigkeit bin ich verflucht.</l>
+            </lg>
+            <lg>
+               <l>An meinem ganzen Leibe ist kein Theil</l>
+               <l>Bis zu der kleinsten Faser, die noch heil,</l>
+               <l>Und des zermorschten Stammes letzte Kraft</l>
+               <l>Fliesst durch die Adern unfruchtbar und geil.</l>
+            </lg>
+            <lg>
+               <l>So kam ich heim, im Herzen recht verzagt.</l>
+               <l>Und siehe da! Von Bitterkeit zernagt,</l>
+               <l>Dass Gott die Huld, um die ich ihn beschwor,</l>
+               <l>Zu meiner Seele Rettung mir versagt —</l>
+            </lg>
+            <lg>
+               <l>Da fand ich, theurer mir als die Gewähr</l>
+               <l>Der ewgen Gnade, <hi rend="text-spaced">SIE</hi>, so schön und hehr</l>
+               <l>Wie ehedem, da sie im goldnen Flor</l>
+               <l>Des Morgenlichts entstiegen war dem Meer.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

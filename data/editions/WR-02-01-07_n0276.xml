@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-07_n0276.xml" prev="WR-02-01-07_n0275.xml" next="WR-02-01-07_n0277.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 7, S. 276</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="07"/>
+                        <biblScope unit="page" n="n0276"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-02-15">15 2 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0360">
+                  <title level="a">Ein überwundenes Wirtschaftsprincip</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 7</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="273" to="276"/>
+                  <idno type="fn">WR-02-01-07_n0273.xml</idno>
+                  <author ref="#wr-person-0089">Dix, Arthur</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">276</fw>
+               <fw type="ctext">DIX.</fw>
+            </fw>
+            <p rend="no-intend">Möbeln — was thun dann die Tischler? Auch wir sind dafür, dass<lb/>
+minderwerthige Genüsse mit besseren Bedürfnissen vertauscht werden,<lb/>
+aber das ist doch etwas Anderes als das reine Sparen. Immerhin rathen<lb/>
+wir auch dieses dem Arbeiter und Handwerker, falls er dazu imstande<lb/>
+ist, da bei seiner Lage ein kleiner Hintergrund von Geld bisweilen die<lb/>
+Erhaltung der Familie bedeuten kann. Nun aber sehen wir, dass nicht<lb/>
+da, wo es fehlt, sondern da, wo der Reichthum liegt, am meisten ge-<lb break="no"/>
+spart wird. Dort sind die zurückgelegten Nothpfennige so gehäuft, dass<lb/>
+sie zur Gefahr für das wirthschaftliche Leben der Gesammtheit werden.«</p>
+            <milestone unit="untyped-end"/>
+            <p>Gewiss macht übertriebener Luxus die Gegensätze schärfer, er-<lb break="no"/>
+weckt Neid und Hass, aber auch er befruchtet immerhin die Gesammt-<lb break="no"/>
+wirthschaft; gewiss ist »die Verschwendung nur die unterste Stufe der<lb/>
+Verwendung«; aber auch um grosse Summen auszugeben, ist nicht<lb/>
+gerade ein unsinniger Luxus, eine eigentliche Verschwendung noth-<lb break="no"/>
+wendig. Es liesse sich darüber wohl manches Capitel schreiben. Hier<lb/>
+galt es zunächst nur, festzustellen, dass die Sparsamkeit in unserer Zeit,<lb/>
+unter unseren Wirthschaftsverhältnissen weder als Universalmittel, noch<lb/>
+überhaupt als eines der obersten Wirthschaftsprincipien ausgegeben<lb/>
+werden darf. An gewisser Stelle und in gewissem Umfange ist sie nicht<lb/>
+nur berechtigt, sondern nothwendig; was aber über das Mass hinaus-<lb break="no"/>
+geht, ist unwirthschaftlich, ist vom Uebel wie der Geiz; dieses über-<lb break="no"/>
+schüssige Geld fördert die Ueberproduction und die Unterconsumtion<lb/>
+zu gleicher Zeit, es macht das Missverhältniss zwischen Production<lb/>
+und Consumtion nur ärger. In diesem Sinne ist das vielgepriesene<lb/>
+Allheilmittel Sparsamkeit, wenigstens bis zu einem gewissen Grade, ein<lb/>
+überwundenes Wirthschaftsprincip.</p>
+            <p>Man kann das Geld nicht besser anlegen, als indem man es<lb/>
+ausgibt — das Geld, das nicht ausgegeben wird, hat seinen Beruf<lb/>
+verfehlt.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

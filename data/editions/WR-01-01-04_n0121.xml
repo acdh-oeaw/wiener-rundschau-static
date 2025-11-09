@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-04_n0121.xml" prev="WR-01-01-03_n0120.xml" next="WR-01-01-04_n0122.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 4, S. 121</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="04"/>
+                        <biblScope unit="page" n="n0121"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-01-01">1 1 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0037">
+                  <title level="a">Der Bobók</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 4</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="121" to="126"/>
+                  <idno type="fn">WR-01-01-04_n0121.xml</idno>
+                  <author ref="#wr-person-0021">Dostojewsky, F. M.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>1. <hi rend="text-spaced">JANUAR</hi>, 1897</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">DER BOBOK</hi>.<lb/>
+Memoiren einer Person.<lb/>
+Von <rs type="person" key="">Feodor Michailowitsch Dostojewsky</rs>.<lb/>
+Deutsch von <rs type="person" key="">Nina Hofmann</rs>.</title>
+            </ab>
+            <p>Da sagt mir Semjon Ardaljonowitsch vorgestern plötzlich: »Ja,<lb/>
+wirst du jemals nüchtern sein, Iwan Iwanytsch? Sag’ mir das, um aller<lb/>
+Barmherzigkeit willen!«</p>
+            <p>Ein seltsames Verlangen! Ich bin nicht beleidigt, bin ein sanfter<lb/>
+Mensch, aber da hat man mich gar zum Narren gemacht. Da hat ein<lb/>
+Maler mein Porträt gemalt, so zufällig. »Bist ja doch auch ein Literat,«<lb/>
+sagte er. Ich bin ihm gesessen; er hat es richtig ausgestellt. Nun<lb/>
+lese ich: »Tretet näher, seht Euch dieses krankhafte, dem Wahnsinn<lb/>
+nahe Gesicht an.« Mag ja sein, aber warum denn das so grad aus-<lb break="no"/>
+drücken? Das Gedruckte soll immer edel sein, Ideale braucht man,<lb/>
+hier aber <milestone unit="3dots"/>
+            </p>
+            <p>Sag’s wenigstens auf Umwegen, dazu hast du ja den Styl. Aber<lb/>
+nein, auf Umwegen will er’s einmal nicht. Jetzt verschwindet der Humor,<lb/>
+der gute Styl, und Schimpfworte gelten für Witze. Ich bin nicht be-<lb break="no"/>
+leidigt, bin, weiss Gott, kein solcher Literat, um verrückt zu werden.<lb/>
+Eine Erzählung habe ich geschrieben, man hat sie nicht gedruckt —<lb/>
+ein Feuilleton, sie haben es zurückgewiesen. Solcher Feuilletons habe ich<lb/>
+viele in verschiedene Redactionen getragen, überall hat man sie ab-<lb break="no"/>
+gelehnt. »Sie haben kein Salz,« sagt man.</p>
+            <p>»Was denn für Salz?« fragte ich spottend — »attisches?«</p>
+            <p>Nicht einmal verstanden hat er’s. Meistens übersetze ich für die<lb/>
+Buchhändler Sachen aus dem Französischen. Auch Ankündigungen<lb/>
+schreibe ich für die Kaufleute: »Eine Rarität!« »Röthlicher Thee« —<lb/>
+sage ich — »aus den eigenen Plantagen.« Auf diese Anpreisung ist<lb/>
+Seiner Excellenz dem seligen Peter Matweitsch ein grosser Gusto ge-<lb break="no"/>
+kommen. Auf Bestellung des Buchhändlers schrieb ich »die Kunst gefällt<lb/>
+den Damen«. Solcher Büchelchen habe ich in meinem Leben sechs</p>
+         </div>
+      </body>
+   </text>
+</TEI>

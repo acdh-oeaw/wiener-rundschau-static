@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-13_n0496.xml" prev="WR-01-02-13_n0495.xml" next="WR-01-02-13_n0497.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 13, S. 496</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="13"/>
+                        <biblScope unit="page" n="n0496"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-05-15">15 5 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0165">
+                  <title level="a">Künstler und Publicum</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 13</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="496" to="498"/>
+                  <idno type="fn">WR-01-02-13_n0496.xml</idno>
+                  <author ref="#wr-person-0068">Wilde, Oscar</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>KÜNSTLER UND PUBLICUM.<lb/>
+Von <rs type="person" key="">Oscar Wilde</rs> (London).<lb/>
+Deutsch von <rs type="person" key="">G. Adam</rs>.</title>
+            </ab>
+            <p>Ein Kunstwerk ist das originelle Product eines originellen Cha-<lb break="no"/>
+rakters. Seine Schönheit entspriesst aus dem Umstande, dass der<lb/>
+Künstler ist, was er ist. Sie hat mit den Wünschen Anderer nichts zu<lb/>
+thun. Denn sobald ein Künstler sich um die Wünsche Anderer kümmert<lb/>
+und ihrem Verlangen Folge leisten will, hört er auf, Künstler zu sein,<lb/>
+und wird, je nachdem, ein langweiliger oder unterhaltender Handwerker,<lb/>
+ein ehrlicher oder unehrlicher Krämer; er kann keinen Anspruch darauf<lb/>
+erheben, dass man ihn einen Künstler nennt. Kunst ist die ausgeprägteste<lb/>
+Form des Individualismus, die es gibt. Und ich möchte behaupten, es<lb/>
+ist die einzig wahrhafte Form des Individualismus, die es je gegeben<lb/>
+hat. Das Verbrechen, welches unter gewissen Bedingungen den Schein<lb/>
+des Individualismus trägt, muss sich nach Anderen richten und ist ab-<lb break="no"/>
+hängig von ihnen. Der Künstler dagegen kann von seinem Eigen allein,<lb/>
+unbekümmert um seine Umgebung, in völliger Unabhängigkeit ein<lb/>
+schönes Gebilde schaffen; und wenn er dies nicht ausschliesslich zu<lb/>
+eigenem Wohlgefallen thut, so ist er überhaupt kein Künstler.</p>
+            <p>Die Thatsache nun, dass die Kunst diese ausgesprochene Form<lb/>
+des Individualismus ist, führt das Publicum dazu, eine Autorität über<lb/>
+sie ausüben zu wollen, welche ebenso unmoralisch wie lächerlich, ebenso<lb/>
+verderblich wie verächtlich ist. Dem Publicum ist dafür nicht die volle<lb/>
+Verantwortung beizumessen. Stets und zu allen Zeiten hat es eine<lb/>
+mangelhafte Bildung besessen. Fort und fort stellt es das Verlangen,<lb/>
+die Künstler sollen volksthümlich, seinem rohen Geschmacke gefällig<lb/>
+sein, seiner thörichten Eitelkeit schmeicheln, ihm erzählen, was ihm vor<lb/>
+Zeiten schon erzählt worden, ihm zeigen, wessen sein Auge schon<lb/>
+überdrüssig sein sollte, es unterhalten, wenn es sich zu satt getafelt,<lb/>
+seine Gedanken zerstreuen, wenn es des eigenen Stumpfsinns müde<lb/>
+geworden. <hi rend="text-spaced">Allein die Kunst sollte niemals darnach streben</hi>,<lb/>
+               <hi rend="text-spaced">volksthümlich zu sein</hi>. <hi rend="text-spaced">Das Publicum sollte suchen, sich<lb/>
+selbst künstlerisch zu bilden</hi>. Dazwischen liegt eine gewaltige<lb/>
+Kluft.</p>
+            <p>Wollte man einem Manne der Wissenschaft sagen, dass die Ergeb-<lb break="no"/>
+nisse seiner Versuche, die Schlüsse, zu denen er gelangt, derart sein<lb/>
+müssen, dass sie mit dem gewöhnlich anerkannten Wissen nicht in<lb/>
+Widerspruch gerathen, keine Vorurtheile der Menge zerstören, nicht die<lb/>
+Gefühle derer, welche nichts von Wissenschaft verstehen; wollte man<lb/>
+einem Philosophen sagen, er habe das unbeschränkte Recht, sein<lb/>
+grübelndes Sinnen in die höchsten Sphären des Geistes zu führen, vor-</p>
+         </div>
+      </body>
+   </text>
+</TEI>

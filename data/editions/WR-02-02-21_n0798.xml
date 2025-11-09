@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-21_n0798.xml" prev="WR-02-02-21_n0797.xml" next="WR-02-02-21_n0799.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 21, S. 798</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="21"/>
+                        <biblScope unit="page" n="n0798"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-09-15">15 9 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0496">
+                  <title level="a">Das Wiener Couplet </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 21</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="797" to="800"/>
+                  <idno type="fn">WR-02-02-21_n0797.xml</idno>
+                  <author ref="#wr-person-0166">Graf, Dr. Max</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">798</fw>
+               <fw type="ctext">GRAF.</fw>
+            </fw>
+            <p rend="no-intend">einmal eine Reihe von heiteren Liedern, von höchstem, intensivsten<lb/>
+Leben erfüllt, voll von leichtem Blut und lebhaftem Athem und<lb/>
+hat viel Heiterkeit und Lachen um sich her verbreitet. Männer<lb/>
+von Geist und Witz, wie Nestroy, waren seine ersten classischen<lb/>
+Interpreten; das alte Wien mit seinen Glacis und Kaffeegärtchen,<lb/>
+und seiner engen begrenzten, vom Takte Lanner’scher und Strauss-<lb break="no"/>
+scher Walzer bewegten Welt war sein Podium. Deshalb dürfen<lb/>
+wir nur sagen, dass es einmal eine Periode des Wiener Couplets<lb/>
+gegeben hat, von der ihre Zeitgenossen sagen, dass es Ähnliches an<lb/>
+Witz, Heiterkeit und Vergnügen in unserer Zeit nicht mehr gäbe.</p>
+            <p>Die Verschiebung, welche von der Mitte der Sechziger-Jahre<lb/>
+an im Besitzstand der Wiener Gesellschaft eingetreten ist, hat eine<lb/>
+neue Form des Wiener Couplets zur Blüte gebracht, welche eine<lb/>
+sehr sonderbare und eigenthümliche Geschichte hat. An die Stelle<lb/>
+der alten, beschränkten und liebenswürdigen bürgerlichen Gesell-<lb break="no"/>
+schaft des alten Wien tritt in den Jahren 1860—1873 eine ganz<lb/>
+neue Gesellschaft des Finanzadels, der industriell und geschäftlich<lb/>
+Arrivierten und der mit diesen verbundenen alten Wiener Aristo-<lb break="no"/>
+kratie. Eine Gesellschaft von Reichthum, kosmopolitischer Haltung,<lb/>
+Vergnügungssucht und wie jede Emporkömmlingskaste mit Energie<lb/>
+darauf bedacht, von dem neugewonnenen Boden Besitz zu nehmen.<lb/>
+Je weniger sie durch Cultur und Tradition mit dem Wiener Boden<lb/>
+zusammenhieng, desto grösser war die Sehnsucht, sich rasch alle<lb/>
+Merkmale des Wienerthums anzueignen. Es war das die Zeit des<lb/>
+Heurigenliberalismus. Aristokratie, Finanz- und Geschäftsadel zog<lb/>
+hinaus zu den Heurigenschenken, verbrüderte sich mit Kunst-<lb break="no"/>
+pfeifern und Natursängern, zog Kleid und Stösser des Fiaker-<lb break="no"/>
+kutschers an, und von den höchsten Kreisen an war alles stolz, mit<lb/>
+diesen edelsten Vertretern des Naturwiener-Cavalierthums Freund-<lb break="no"/>
+schaft zu schliessen. Da entstanden die wundervollen Verse, welche<lb/>
+in alle Welt als Wiener Couplet hinausflogen, vom goldnen Wiener<lb/>
+Herzen, von der goldnen Wienerin, vom goldnen Stefansdom,<lb/>
+von der goldnen Gemüthlichkeit, und wenn in diesem goldenen<lb/>
+Wiener Dusel vom Prinzen bis zum Fiaker alles betrunken war,<lb/>
+dann ertönte der herrliche Rundgesang:</p>
+            <milestone unit="verse-start"/>
+            <lg>
+               <l>»Menschen, Menschen san mir alle,</l>
+               <l>Fehler hat ein jeder gnua,</l>
+               <l>’s können ja nicht alle gleich sein,</l>
+               <l>Ist schon so von der Natua.«</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-20_n0751.xml" prev="WR-02-02-20_n0750.xml" next="WR-02-02-20_n0752.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 20, S. 751</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="20"/>
+                        <biblScope unit="page" n="n0751"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-09-01">1 9 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0483">
+                  <title level="a">Bismarck-Socialdemokraten</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 20</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="20">20</biblScope>
+                  <biblScope unit="page" from="749" to="751"/>
+                  <idno type="fn">WR-02-02-20_n0749.xml</idno>
+                  <author ref="#wr-person-0007">Schik, F.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BISMARCK-SOCIALDEMOKRATEN.</fw>
+               <fw type="pn">751</fw>
+            </fw>
+            <p rend="no-intend">wie er es wünschte, erhalten bleiben müsse — umsomehr wenn<lb/>
+die aus der Zukunft hereinleuchtende socialdemokratische Idee<lb/>
+soviel Verlockendes hatte. Solange die Bismarckschen Gedanken<lb/>
+die bestehenden Institutionen stützten und ihnen Glanz verliehen,<lb/>
+konnten nur dieser politischen Sonne gänzlich abgewandte, nüchterne<lb/>
+Naturen Socialdemokraten sein und werden. Das Dasein Bismarcks<lb/>
+war für Zahllose der Grenzstein für ihre Anschauungen; nach<lb/>
+seiner Entlassung aus dem Amte und nun gar nach seinem Tode<lb/>
+ist er zum Wegweiser für die Flucht aus dem rapiden Verfalle<lb/>
+geworden.</p>
+            <p>Die Socialdemokratie ist nicht so engherzig, Genossen, die<lb/>
+in ihre Reihen treten wollen, auf welchem politischen Wege sie<lb/>
+auch immer zu ihnen kommen, abzuweisen. Von Seite der<lb/>
+Bismarck-Getreuen schickt sich ein gewaltiger Trupp geschulter<lb/>
+Leute an, zu ihnen zu stossen. Diese neuen Genossen werden<lb/>
+in den socialdemokratischen Haushalt die überkommenen Behelfe<lb/>
+und Mittel einbringen, mit denen Bismarck seine Zeitgenossen<lb/>
+überwunden und in Schach gehalten hat. Dieselben bürgerlichen<lb/>
+Parteien, die während der Jahrzehnte ohne Ausnahme wechselnde<lb/>
+Gegner Bismarcks waren, sind aber seit jeher die beständigen<lb/>
+Feinde der Socialdemokratie gewesen. Das Kampfobject für die<lb/>
+Anhänger Bismarcks wird sich also nur um die neuen Genossen<lb/>
+reducieren. Nach den Lehren Bismarcks haben Bündnisse nur<lb/>
+Interessengarantien. Die neuen Bismarck-Socialdemokraten bieten<lb/>
+der Natur der Dinge nach eine sichere Gewähr ihrer Verlässlich-<lb break="no"/>
+keit in den socialdemokratischen Reihen.</p>
+            <p>Bismarck war ein guter Mauerbrecher, und wer ihn als<lb/>
+solchen für sich reclamiert, dem gehört eine nahe Zukunft. Er<lb/>
+wollte, wie seine selbstverfasste Grabschrift offenbart, seinen Namen<lb/>
+nicht mit niedergehenden Elementen verknüpft wissen. Nun<lb/>
+werden sich die emporschiessenden Massen seiner erprobten<lb/>
+Kampfesmethode bedienen und damit den Aufstieg beschleunigen.<lb/>
+Wie oft hat sich Bismarck aus dem Feind in den Freund<lb/>
+verwandelt; nach seinem Tode wird sich diese Metamorphose<lb/>
+rücksichtlich der Socialdemokratie vollziehen. Auch der todte<lb/>
+Bismarck ist ein realer Machtfactor, mit dem man Allianzen<lb/>
+schliesst.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

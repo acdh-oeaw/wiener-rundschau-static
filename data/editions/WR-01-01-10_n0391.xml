@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-10_n0391.xml" prev="WR-01-01-10_n0390.xml" next="WR-01-01-10_n0392.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 10, S. 391</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="10"/>
+                        <biblScope unit="page" n="n0391"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-04-01">1 4 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0124">
+                  <title level="a">Gegen die Emancipation des Weibes</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 10</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="387" to="391"/>
+                  <idno type="fn">WR-01-01-10_n0387.xml</idno>
+                  <author ref="#wr-person-0029">Weisengrün, Dr. Paul</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">GEGEN DIE EMANCIPATION DES WEIBES.</fw>
+               <fw type="pn">391</fw>
+            </fw>
+            <p>Die vornehmste Forderung der Frau sei also Erlangung des<lb/>
+Stimmrechtes.« 1)</p>
+            <p>Wir gelangen nun zu unserer ersten Grundfrage zurück: Beruht<lb/>
+der Emancipationskampf des fünften Standes auf derselben natürlichen,<lb/>
+entwicklungsgeschichtlich so leicht fassbaren Basis wie der des vierten?<lb/>
+Dies Problem kann nicht erfasst werden ohne Erledigung der Vorfrage:<lb/>
+In welcher socialen Lage befindet sich das Frauengeschlecht im All-<lb break="no"/>
+gemeinen? Man wird da zunächst von allen psychologischen Gesichts-<lb break="no"/>
+punkten abstrahiren und rein ökonomisch vorgehen müssen. Welche<lb/>
+Schichten der Frauenwelt sind concret gesprochen in einer Nothlage?<lb/>
+Welcher Art ist diese Nothlage und wie kann ihr abgeholfen werden?<lb/>
+Mit diesen Fragen wird sich unser zweiter Aufsatz beschäftigen. Aber<lb/>
+hiermit ist das Problem selbst noch nicht gelöst. Hinter den socialen<lb/>
+Unterschieden zwischen Mann und Weib liegen die psychologischen.<lb/>
+Man kann diese letzteren nicht ohne Kenntniss der socialen ausein-<lb break="no"/>
+andersetzen.</p>
+            <p>Ein Schlussartikel wird sich mit dieser psychologischen Seite<lb/>
+der Frauenfrage befassen. Es wird sich herausstellen, dass man zahl-<lb break="no"/>
+reiche Forderungen und Einzelbestrebungen der Frauen auf wirthschaft-<lb break="no"/>
+lichem und socialem Gebiete acceptiren kann, ohne den Kern der<lb/>
+Frauenemancipation bejahen zu müssen. Ist die erste Grundfrage gelöst,<lb/>
+so bereitet dann die zweite keine sonderlichen Schwierigkeiten. Wenn<lb/>
+wir in Erfahrung gebracht haben, dass die Emancipation des Geschlechts<lb/>
+nicht dieselbe Grundlage wie die des vierten Standes hat und haben<lb/>
+kann, dann sind auch die meisten Momente mit analysirt, welche das<lb/>
+Problem betreffen, inwieweit die Frauenfrage eine Complication der<lb/>
+socialen ist.</p>
+            <p>Psychologie und Oekonomie, sociale und geschlechtliche Gesichts-<lb break="no"/>
+punkte sind hier zu einem schier unentwirrbaren Knäuel zusammen-<lb break="no"/>
+geballt. Seltsam, dass diese eine gesellschaftliche Frage so verschiedene<lb/>
+Schwierigkeiten aufweist, von denen doch eine einzige genügen würde,<lb/>
+ein Problem interessant zu gestalten. So scheint es eben, dass, wo das<lb/>
+Weib in Frage kommt, Alles zum Räthsel wird.</p>
+            <milestone unit="hr"/>
+            <note type="footnote">
+               <p>1) Siehe: Der internationale Frauencongress in Berlin, Berlin <date>1897</date>, Hermann<lb/>
+Walther, pag. 289.</p>
+            </note>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

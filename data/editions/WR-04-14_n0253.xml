@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-14_n0253.xml" prev="WR-04-14_n0252.xml" next="WR-04-14_n0254.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 14, S. 253</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="14"/>
+                        <biblScope unit="page" n="n0253"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0913">
+                  <title level="a">Die Harmonie der Sphären</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 14</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="14">14</biblScope>
+                  <biblScope unit="page" from="250" to="253"/>
+                  <idno type="fn">WR-04-14_n0250.xml</idno>
+                  <author ref="#wr-person-0292">Bailly, Edmund</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BAILLY: DIE HARMONIE DER SPHÄREN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">enger aneinander, dann kann man allmählich<lb/>
+die folgenden Tongruppen daraus hervor-<lb break="no"/>
+locken: den vollstimmigen Moll-Accord<lb/>
+                        <hi rend="italics">ut</hi>, <hi rend="italics">mi</hi> ♭, <hi rend="italics">sol</hi>, <hi rend="italics">ut</hi> — den Sext-Accord <hi rend="italics">ut</hi>,<lb/>
+                        <hi rend="italics">mi</hi> ♭, <hi rend="italics">la</hi> ♭, <hi rend="italics">ut</hi> — den vollstimmigen Dur-<lb break="no"/>
+Accord <hi rend="italics">ut</hi>, <hi rend="italics">mi</hi> ♮, <hi rend="italics">sol</hi>, <hi rend="italics">ut</hi> — den Accord<lb/>
+der großen Septime <hi rend="italics">ut</hi>, <hi rend="italics">mi</hi>, <hi rend="italics">sol</hi>, <hi rend="italics">si</hi> — den<lb/>
+Accord der kleinen Septime <hi rend="italics">ut</hi>, <hi rend="italics">mi</hi>, <hi rend="italics">sol</hi>, <hi rend="italics">si</hi> ♭<lb/>
+etc. Indes ergibt sich aus unseren Unter-<lb break="no"/>
+suchungen ein weit interessanterer Gedanke:<lb/>
+Da unser Himmel in zwei Regionen ge-<lb break="no"/>
+theilt ist, in eine höhere und eine tiefere,<lb/>
+mit dem Erdkreis als Zwischenlinie, ist es<lb/>
+vernunftgemäß, einen Accord zu bilden,<lb/>
+der die Sonne (tiefes <hi rend="italics">ut</hi>), Mercur (mittleres<lb/>
+                        <hi rend="italics">ut</hi>), Venus (<hi rend="italics">si</hi> ♭) und die Erde (<hi rend="italics">mi</hi>) um-<lb break="no"/>
+fasst oder — mit anderen Worten — den<lb/>
+Sept-Accord der Dominante des Tones <hi rend="italics">fa</hi>
+                        <lb/>
+(ohne seine Quinte), der so lieblich ist, dass<lb/>
+wir uns gleichsam in die glücklichen Tage<lb/>
+des goldenen Zeitalters von seinen Klängen<lb/>
+getragen glauben. Aber leider können wir<lb/>
+nicht, wie die Astronomen, den wilden Mars<lb/>
+ausschließen, dessen <hi rend="italics">si</hi> ♮ sich heftig auflehnt<lb/>
+wider jenes süße <hi rend="italics">si</hi> ♭, das Liebe zeugt<lb/>
+(siehe oben: Venus- <hi rend="italics">si</hi> ♭) — und so ent-<lb break="no"/>
+steht der Ringkampf zwischen Gewalt und<lb/>
+Liebe, zwischen Materie und Geist<milestone unit="3dots"/>
+                     </p>
+                     <p>Wir haben nun die <hi rend="text-spaced">symbolische<lb/>
+Harmonie</hi> der fünf <hi rend="text-spaced">tiefen</hi> Saiten unserer<lb/>
+                        <hi rend="text-spaced">
+                           <hi rend="italics">Astralen Lyra</hi>
+                        </hi> abgeleitet und müssten nun<lb/>
+eigentlich auch die Harmonie der fünf<lb/>
+                        <hi rend="text-spaced">höheren</hi> Saiten entwickeln. Dies würde<lb/>
+aber zu weit führen. Es genüge hier* der<lb/>
+Hinweis, dass im Bereiche dieser höheren<lb/>
+Lage die Moll-Tonart mit dem Accord<lb/>
+                        <hi rend="italics">ut</hi>, <hi rend="italics">sol</hi>, <hi rend="italics">mi</hi> ♭ vorherrscht. — —</p>
+                     <p>Nun könnten wir die To<hi rend="text-spaced">nscala</hi> unserer<lb/>
+himmlischen Lyra aufstellen, indem wir<lb/>
+ihre Stimmen, die insgesammt im großen<lb/>
+Diagramm der Töne verstreut sind, inner-<lb break="no"/>
+halb der engen Grenzen einer Octave<lb/>
+vereinigen. Das Ergebnis wäre dieses:</p>
+                     <p>UT, <hi rend="italics">mi</hi> ♭, <hi rend="italics">mi</hi> ♮, <hi rend="italics">sol</hi>, <hi rend="italics">la</hi> ♭, <hi rend="italics">si</hi> ♭, <hi rend="italics">si</hi> ♮, UT</p>
+                     <p>Die melodische Folge dieser Ton-<lb break="no"/>
+leiter klingt, so fremdartig sie auch scheinen<lb/>
+mag, keineswegs unangenehm. Gewisse<lb/>
+Tonarten der <hi rend="text-spaced">Hindus</hi> zeigen uns analoge<lb/>
+Combinationen aus unvollständigen chro-<lb break="no"/>
+matischen Scalen.</p>
+                  </cell>
+                  <cell>
+                     <p>Wenn ich im Laufe dieser Unter-<lb break="no"/>
+suchung von der stricten Parallele zwischen<lb/>
+der planetären und akustischen Reihe ein<lb/>
+wenig abgekommen bin, so liegt das an<lb/>
+meinem ungewöhnlichen und schwierigen<lb/>
+Thema, das zu dem höchsten Aufflug<lb/>
+antreibt und zu Abschweifungen verleitet.<lb/>
+Ich habe die Harmonie der Distanzen ent-<lb break="no"/>
+wickelt; die der Umläufe, Volumina,<lb/>
+Massen und Dichtigkeiten der Neben-<lb break="no"/>
+planeten vermögen sich dem allgemeinen<lb/>
+Gesetz nicht minder zu entziehen. Man<lb/>
+wird mir, glaube ich, aus den gering-<lb break="no"/>
+fügigen, kaum nennenswerten Ungenauig-<lb break="no"/>
+keiten in den correspondierenden Ziffern<lb/>
+der beiden Reihen keinen Vorwurf machen:<lb/>
+die Herren der Schiffahrtsämter und Obser-<lb break="no"/>
+vatorien wissen sehr wohl, dass sich keine<lb/>
+einzige einfache mathematische Aufstellung<lb/>
+in der Natur verwirklichen kann, in der<lb/>
+alles nur approximativ ist; im übrigen<lb/>
+ist die harmonische Zahl eine andere als<lb/>
+die arithmetische — niemand wird mit<lb/>
+mir über diese Wahrheit feilschen.</p>
+                     <p>Seit vielen, vielen Jahren, inmitten, all<lb/>
+der Probleme, die mich beschäftigen, hält<lb/>
+mich das <hi rend="text-spaced">Mysterium</hi> dieses <hi rend="text-spaced">Sphären-<lb break="no"/>
+Problems</hi> mit träumerischer Gewalt ge-<lb break="no"/>
+fangen. Heute nun hat mir eine strahlende<lb/>
+Intelligenz — Pythagoras — über fünf-<lb break="no"/>
+undzwanzig Jahrhunderte hinweg, die<lb/>
+uns trennen, die Hand entgegengestreckt<lb/>
+— — — und ohne Grenzen ist meine<lb/>
+Freude über die Gemeinsamkeit mit einem<lb/>
+jener Auserwählten, die Eduard <hi rend="text-spaced">Schuré</hi>
+                        <lb/>
+in so würdiger Weise <hi rend="italics">Die Grossen Initi-<lb break="no"/>
+ierten</hi> nennt. Jeden, der meine Forschungs-<lb break="no"/>
+arbeit belächeln sollte, will ich fragen, ob<lb/>
+es nicht von ungewöhnlicher Verblendung<lb/>
+zeuge, das Vorhandensein eines <hi rend="italics">Künstler-<lb break="no"/>
+Gewissens</hi> hinter den harmonischen Phä-<lb break="no"/>
+nomenen, die uns umgeben, beharrlich zu<lb/>
+leugnen! Und fragen will ich ihn, ob<lb/>
+er sich nicht weit eher, gleich mir, eng<lb/>
+verbunden fühlen sollte mit diesen Wan-<lb break="no"/>
+derern des Weltenraums, deren eurythmi-<lb break="no"/>
+schem Gang wir in Verzückung folgen<milestone unit="2dots"/>
+                        <lb/>
+Warum sollte man diesen kosmischen<lb/>
+Wandlern nicht auch eine zum Theil <hi rend="text-spaced">be</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">einflussende</hi> Gewalt über die Wirbel<lb/>
+des menschlichen <hi rend="text-spaced">Werdens</hi> zugestehen?</p>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Alles Nähere ist aus den Schriften des Verfassers <hi rend="italics">(Paris, Librairie de l’art indépendant)</hi>
+                  <lb/>
+zu ersehen.</p>
+            </note>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-13_n0481.xml" prev="WR-01-02-00_i0006.xml" next="WR-01-02-13_n0482.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 13, S. 481</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="13"/>
+                        <biblScope unit="page" n="n0481"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-05-15">15 5 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0159">
+                  <title level="a">Aufruf!</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 13</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="481" to="481"/>
+                  <idno type="fn">WR-01-02-13_n0481.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>15. <hi rend="text-spaced">MAI</hi> 1897</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">AUFRUF</hi>!</title>
+            </ab>
+            <p>Der Dichter <hi rend="text-spaced">Detlev</hi> v. <hi rend="text-spaced">Liliencron</hi> begeht nächstens seinen<lb/>
+54. Geburtstag, ohne dass es ihm bis jetzt gelungen ist, sich durch<lb/>
+seine Schriften ein ihrer Bedeutung angemessenes, sorgenfreies Dasein<lb/>
+zu verschaffen. Die unterzeichneten Künstler und Kunstfreunde, deren<lb/>
+Blick sich auf das Lichtvolle dieser Erscheinung richtet, halten es für<lb/>
+eine <hi rend="text-spaced">Ehrenpflicht Deutschlands</hi>, einem Dichter, der wie kaum ein<lb/>
+anderer deutsche Lebenslust und Thatkraft in seinen Werken ver-<lb break="no"/>
+körpert hat, ein verbittertes Alter zu ersparen. Es ergeht hiemit der<lb/>
+Aufruf, <hi rend="text-spaced">allgemein nach bestem Vermögen</hi> dazu beizusteuern, dass<lb/>
+ihm (in Form einer Leibrente oder sonstwie) seine stete wirthschaft-<lb break="no"/>
+liche Sorge abgenommen und sein ferneres Schaffen erleichtert werden<lb/>
+kann. Zur Entgegennahme von Beiträgen ist die Geschäftsstelle des<lb/>
+mitunterzeichneten Herrn <hi rend="text-spaced">Consuls Auerbach</hi> (<hi rend="text-spaced">Berlin</hi> W., <hi rend="text-spaced">Tauben</hi>-<lb break="no"/>
+               <hi rend="text-spaced">strasse</hi> 20) bereit; die Einzahlungen wolle man mit der Bemerkung<lb/>
+»<hi rend="text-spaced">für die Liliencron-Stiftung</hi>« versehen. Nach Schluss der Samm-<lb break="no"/>
+lung, spätestens am <date>
+                  <hi rend="strong">1</hi>. October d. J.</date>, wird an alle Beitraggeber als<lb/>
+Quittung eine alphabetische Namensliste (auf Wunsch nur mit Nennung<lb/>
+der Anfangsbuchstaben) nebst beigedruckter Angabe der einzelnen<lb/>
+Beträge versandt, zugleich auch über die Verwendungsart der ganzen<lb/>
+Summe berichtet werden.</p>
+            <p>L. <hi rend="text-spaced">Auerbach</hi>, Hermann <hi rend="text-spaced">Bahr</hi>, Wilhelm <hi rend="text-spaced">Bode</hi>, E. Freih. v. <hi rend="text-spaced">Boden</hi>-<lb break="no"/>
+               <hi rend="text-spaced">hausen</hi>, A. <hi rend="text-spaced">Böcklin</hi>, R. <hi rend="text-spaced">Dehmel</hi>, Marie v. <hi rend="text-spaced">Ebner-Eschenbach</hi>,<lb/>
+Th. <hi rend="text-spaced">Fontane</hi>, E. M. <hi rend="text-spaced">Geyger</hi>, Klaus <hi rend="text-spaced">Groth</hi>, Gerhart <hi rend="text-spaced">Hauptmann</hi>,<lb/>
+K. v. d. <hi rend="text-spaced">Heydt</hi>, G. <hi rend="text-spaced">Hirth</hi>, H. Graf v. <hi rend="text-spaced">Kessler</hi>, M. <hi rend="text-spaced">Klinger</hi>,<lb/>
+A. <hi rend="text-spaced">Lichtwark</hi>, Max <hi rend="text-spaced">Liebermann</hi>, Rud. <hi rend="text-spaced">Maison</hi>, A. A. <hi rend="text-spaced">Oberländer</hi>,<lb/>
+Wilh. <hi rend="text-spaced">Raabe</hi>, Emanuel <hi rend="text-spaced">Reicher</hi>, W. v. <hi rend="text-spaced">Seidlitz</hi>, Richard <hi rend="text-spaced">Strauss</hi>,<lb/>
+Hans <hi rend="text-spaced">Thoma</hi>, F. v. <hi rend="text-spaced">Uhde</hi>.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

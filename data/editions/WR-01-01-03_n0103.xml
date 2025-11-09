@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-03_n0103.xml" prev="WR-01-01-03_n0102.xml" next="WR-01-01-03_n0104.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 3, S. 103</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0103"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-15">15 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0030">
+                  <title level="a">Wiener Walzer</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="102" to="103"/>
+                  <idno type="fn">WR-01-01-03_n0102.xml</idno>
+                  <author ref="#wr-person-0018">Dehmel, Richard</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0031">
+                  <title level="a">Das innere Schweigen</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="103" to="103"/>
+                  <idno type="fn">WR-01-01-03_n0103.xml</idno>
+                  <author ref="#wr-person-0019">Christomanos, Constantin</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">GEDICHTE.</fw>
+               <fw type="pn">103</fw>
+            </fw>
+            <lg>
+               <l>spür’ ein Kindchen unterm Herzen,</l>
+               <l>und ist nit von deinem Blut.</l>
+               <l>Sanfter, du! mich quält die Hitze;</l>
+               <l>oh du, mein geliebter Thor,</l>
+               <l>heb mal deine Kinnbartspitze,</l>
+               <l>sanft — so — kitzel mich ins Ohr!</l>
+            </lg>
+            <lg>
+               <l>Ihr schwarzes Haar erschauert ganz,</l>
+               <l>zwei Menschen wiegen sich im Tanz.</l>
+            </lg>
+            <p>Berlin. <rs type="person" key="">Richard Dehmel</rs>.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>DAS INNERE SCHWEIGEN.<lb/>
+Aus: »ΟΡΦΙΚΑ — Musikalische Verse.«*)</title>
+            </ab>
+            <lg>
+               <l>
+                  <hi rend="initial">Wann</hi> sah ich jenen bleichen See,</l>
+               <l>der ewig schwieg <milestone unit="2dots"/>,</l>
+               <l>in fliehender Ferne,</l>
+               <l>unter des Mondes modernden Schleiern? — —</l>
+               <l>und die Weiden,</l>
+               <l>die leidohnmächtig sich neigten</l>
+               <l>über die Ufer <milestone unit="2dots"/>,</l>
+               <l>und ihre traurigen Träume verschwiegen? — — —</l>
+            </lg>
+            <lg>
+               <l>Wann sah ich den See und die Weiden? —</l>
+               <l>
+                  <milestone unit="2dots"/> wann sah ich den See und die Weiden <milestone unit="3dots"/>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <milestone unit="2dots"/> Immer jenes bleiche Schweigen</l>
+               <l>in mir hören <milestone unit="2dots"/>,</l>
+               <l>und das Herz voll der verschwiegenen Träume</l>
+               <l>trauriger Bäume:</l>
+               <l>und mein Herz voll traurig schweigender Träume <milestone unit="3dots"/>
+               </l>
+            </lg>
+            <p>Wien. <rs type="person" key="">Constantin Christomanos</rs>.</p>
+            <milestone unit="hr"/>
+            <note type="footnote">
+               <p>*) Zur Kennzeichnung der Intentionen des griechischen Dichters sei fol-<lb break="no"/>
+gender Passus aus einem Brief an uns citirt: »Ich versuche hier den Reim durch<lb/>
+musikalischen Rhythmus zu ersetzen — durch den Rhythmus einer Zeit, da Dich-<lb break="no"/>
+tung und Musik noch Eins waren, und dessen Empfinden ich vielleicht von<lb/>
+jenem Volke geerbt habe, das seine Gesänge von den Wellen des Meeres er-<lb break="no"/>
+lernte.«</p>
+            </note>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

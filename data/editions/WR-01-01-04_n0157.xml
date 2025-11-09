@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-04_n0157.xml" prev="WR-01-01-04_n0156.xml" next="WR-01-01-04_n0158.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 4, S. 157</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="04"/>
+                        <biblScope unit="page" n="n0157"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-01-01">1 1 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0044">
+                  <title level="a">Die demolirte Literatur</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 4</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="153" to="157"/>
+                  <idno type="fn">WR-01-01-04_n0153.xml</idno>
+                  <author ref="#wr-person-0008">Kraus, Karl</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DIE DEMOLIRTE LITERATUR.</fw>
+               <fw type="pn">157</fw>
+            </fw>
+            <p rend="no-intend">hieher. Wer hat am <date>24. April</date> im Stadttheater in Regens-<lb break="no"/>
+burg den dicken Herrn in der »Wildente« gespielt? Wann<lb/>
+trat Herr Rottmann im Burgtheater zum letztenmal auf?<lb/>
+Diese und ähnliche Themen, sonst mit Leidenschaft er-<lb break="no"/>
+örtert, müssen doch in den Hintergrund treten, wenn die<lb/>
+Lebensfrage auftaucht: Sind heut’ Freikarten? Jedem Schau-<lb break="no"/>
+spieler ist ein Theaterinteressent an die Seite gegeben, der<lb/>
+ihm mit demselben Respecte zuhört wie jener dem Kritiker<lb/>
+des Tisches. Da sind pathetische Vorstadtmimen, die in der<lb/>
+Josefstadt die Tradition des Burgtheaters hochhalten; da<lb/>
+gibt es Bühnengrössen, die auf eine langjährige Wirksamkeit<lb/>
+in der Theaterloge zurückblicken können und sich einen<lb/>
+Ruf als Zuschauspieler des Burgtheaters gemacht haben.</p>
+            <p>Es folgen Tische, deren Verhältniss zur Literatur nur<lb/>
+noch ein sehr gelegentliches ist. Hier sitzen Leute, deren<lb/>
+Talent sich in den Randbemerkungen und Glossen ausgibt,<lb/>
+mit welchen sie sämmtliche im Literatencafe aufliegenden<lb/>
+Zeitschriften versehen. Manche schreiben in die vornehmsten<lb/>
+Revuen des In- und Auslandes. Diese Autoren unterzeichnen<lb/>
+nicht mit vollem Namen, bleiben demnach dem grossen<lb/>
+Publicum unbekannt. Gleichwohl besitzt ein jeder von ihnen<lb/>
+seine markante Eigenart. Da ist Einer, der durch Jahre und<lb/>
+in dem Wechsel der Richtungen, welchem dieses Kaffeehaus<lb/>
+unterworfen war, seinen Standpunkt bewahrt hat; von ihm<lb/>
+liest man immer noch die eine Aeusserung: »Jud!«</p>
+            <p>Nicht einmal zu dieser Höhe der Production vermochte<lb/>
+sich eine Gruppe von Jünglingen emporzuschwingen, denen nur<lb/>
+der Vorwand, Stimmungen leicht zugänglich zu sein, ein<lb/>
+Plätzchen im Locale der modernen Schriftsteller eingeräumt<lb/>
+hatte. Manche unter ihnen wussten sich noch insoweit nützlich<lb/>
+zu machen, als sie den Verkehr zwischen den einzelnen Tischen<lb/>
+vermittelten, den Gästen Theaternachrichten zutrugen und<lb/>
+vielen wirklich die Leetüre der Journale ersparten. Als diese<lb/>
+Gesellschaft eines Tages nicht mehr erschien, versicherte der<lb/>
+Marqueur in seiner feinsinnigen Weise, die Herren seien nicht<lb/>
+allein den Beweis literarischer Fähigkeit schuldig geblieben.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

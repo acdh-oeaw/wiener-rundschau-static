@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-01_n0037.xml" prev="WR-02-01-01_n0036.xml" next="WR-02-01-01_n0038.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 1, S. 37</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0037"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-11-15">15 11 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0308">
+                  <title level="a">Der Kampf der Schwachen gegen die Schwachen </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="36" to="37"/>
+                  <idno type="fn">WR-02-01-01_n0036.xml</idno>
+                  <author ref="#wr-person-0007">Schik, F.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">SCHIK.</fw>
+               <fw type="pn">37</fw>
+            </fw>
+            <p rend="no-intend">worunter aber nur verstanden werden darf: das Wesentliche aus<lb/>
+Actualitäten zu ziehen und in der historischen Linie zu verwerthen,<lb/>
+den übrigen Ballast aber bei Seite zu werfen — kann nur gesteuert<lb/>
+werden, wenn man auf Mittel sinnt, das geistige Verarbeitungsbedürf-<lb break="no"/>
+niss der Massen zu steigern, diese zu gewöhnen, aus dem Chaos von<lb/>
+Vorkommnissen den Kern der Dinge herauszufinden.</p>
+            <p>Das jetzt herrschende demagogische Pathos umnebelt die Zu-<lb break="no"/>
+sammenhänge eines Gedankens und raubt so die Fähigkeit, mit ihm<lb/>
+frei zu schalten. Die normale Temperatur einer politischen Idee wird<lb/>
+bis zur Gluthhitze gesteigert, um in dem Einzelnen alle Organe einer<lb/>
+Kritik von vorneherein abzusengen. So werden die Massen isolirt, in<lb/>
+einen entlegenen Hinterhalt gelockt, wohin die warnenden Stimmen der<lb/>
+Intelligenzen nicht mehr zu dringen vermögen.</p>
+            <p>Die Anstrengungen, sich doch noch vernehmlich zu machen, das<lb/>
+Herunterschrauben auf das tiefe Verständnissniveau der Zurück-<lb break="no"/>
+gebliebenen schwächt aber auch die, welche berufen wären, den all-<lb break="no"/>
+gemeinen Verfall aufzuhalten. Und es fehlt nicht viel, so wird bald<lb/>
+Niemand mehr da sein, der nicht dazu beitrüge, den Wirrwarr zu<lb/>
+vergrössern.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

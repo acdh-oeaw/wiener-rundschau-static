@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-02_n0071.xml" prev="WR-01-01-02_n0070.xml" next="WR-01-01-02_n0072.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 2, S. 71</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0071"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-01">1 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0020">
+                  <title level="a">Die demolirte Literatur</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="68" to="72"/>
+                  <idno type="fn">WR-01-01-02_n0068.xml</idno>
+                  <author ref="#wr-person-0008">Kraus, Karl</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DIE DEMOLIRTE LITERATUR.</fw>
+               <fw type="pn">71</fw>
+            </fw>
+            <p rend="no-intend">schmackvoller Wirkung zu vereinigen, indem er beispiels-<lb break="no"/>
+weise nur mit solchen jungen Leuten verkehrt, deren Anzug<lb/>
+zu dem jeweiligen seinen passt, und er geht dann in der so<lb/>
+hergestellten Harmonie der Freundschaft seelisch ganz auf.<lb/>
+Ein gut gelegter Faltenwurf ist ihm Erlebniss; und wenn er<lb/>
+spricht, wendet er peinliche Sorgfalt daran, seine Oberlippe<lb/>
+decorativ zu verwerthen. So drapirt er sich selbst sein Milieu<lb/>
+und tapeziert sich gemächlich sein Leben aus.</p>
+            <p>In seinem Kreise hat er einen sehr heiklen Dienst zu<lb/>
+versehen. Seine Aufgabe ist es, den Toilettezustand jedes<lb/>
+ankommenden Literaten zu visitiren und allfällige Correcturen<lb/>
+vorzunehmen. Das gelingt unserem Dichter oft mit ein paar<lb/>
+charakteristischen Strichen. Hier ist er gerade damit be-<lb break="no"/>
+schäftigt, selbst die letzte Hand anzulegen, dort ertheilt er<lb/>
+zweckmässige Weisungen, gibt einschlägige Winke und prak-<lb break="no"/>
+tische Rathschläge; hier ergänzt er die fragmentarische Schön-<lb break="no"/>
+heit einer Bicycledress, dort spricht er durch einen vorwurfs-<lb break="no"/>
+vollen Blick die Unmöglichkeit eines ganzen Hosenstoffes aus.<lb/>
+Sein prägnanter Tadel: »Das wird sich nicht halten.« oder:<lb/>
+»Das trägt man nicht mehr.« oder: »Mit Ihnen kann man nicht<lb/>
+gehen.«; sein bündiges Lob: »Das kann so bleiben.« Und<lb/>
+man mag sich diese Kritik ruhig gefallen lassen, da unser<lb/>
+Dichter selbst der Natur gegenüber mit ähnlichen Be-<lb break="no"/>
+merkungen nicht zurückhaltend ist, indem er sich beim An-<lb break="no"/>
+blick einer Landschaft schon wiederholt geäussert haben soll:<lb/>
+»Das müsste etwas stylisirt werden!« und nur selten das Lob<lb/>
+spendet: »Das kann so bleiben.«</p>
+            <p>Dieser Dichter nun geht in seinen Bestrebungen so<lb/>
+weit, dass er von der eigenen Umgebung nicht mehr ver-<lb break="no"/>
+standen wird. Dem Gedankenfluge seiner polychromen Gilets<lb/>
+vermögen die Kleinen mit ihren unbedeutenden Hemden nicht<lb/>
+zu folgen. So hat er das Leid des einsamen Menschen zu<lb/>
+tragen, und es erfüllt mit ehrfurchtsvollem Schauer, wenn<lb/>
+man den von seiner Zeit nicht erfassten Geist in seiner<lb/>
+Zurückgezogenheit belauscht. Von Allen weiss er sich am<lb/>
+längsten mit sich selbst zu beschäftigen, auf sich zu con-<lb break="no"/>
+centriren. Ferne dem lärmenden Treiben, sitzt er stunden-<lb break="no"/>
+lang vor dem Spiegel: — enfin seul mit seiner Cravatte! —<lb/>
+Aber auch er wird sich durchsetzen, und in gerechter</p>
+         </div>
+      </body>
+   </text>
+</TEI>

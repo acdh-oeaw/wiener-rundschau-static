@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-05_n0123.xml" prev="WR-04-05_n0122.xml" next="WR-04-05_n0124.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 5, S. 123</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="05"/>
+                        <biblScope unit="page" n="n0123"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0821">
+                  <title level="a">Landschaft</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 5</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="101" to="124"/>
+                  <idno type="fn">WR-04-05_n0101.xml</idno>
+                  <author ref="#wr-person-0273">Wenban, Sion L.</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0827">
+                  <title level="a">Die Aufführung der »Neunten Symphonie«</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 5</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="122" to="124"/>
+                  <idno type="fn">WR-04-05_n0122.xml</idno>
+                  <author ref="#wr-person-0260">Graf, Max</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">GRAF: DIE AUFFÜHRUNG DER »NEUNTEN SYMPHONIE«.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">der künstlerische Wille, nicht der Original-<lb break="no"/>
+text. Ebenso in den Symphonien. Auch<lb/>
+hier bricht an einzelnen Stellen die Flöte<lb/>
+und die Violine beim dreigestrichenen a<lb/>
+ab* und stückelt die Läufe in der unteren<lb/>
+Octave wieder an. Manchmal führt dieser<lb/>
+Zwang zu einer vollkommenen Unklarheit<lb/>
+der melodischen Linie (Part. S. 19, 53).<lb/>
+Auch hier gilt bei der sicheren, modernen<lb/>
+Spieltechnik der Wille des Tonschöpfers<lb/>
+und nicht der Buchstabe. Für den Leser<lb/>
+der Partitur ist es etwas unendlich Rühren-<lb break="no"/>
+des, wenn er solche Stellen erblickt, aus<lb/>
+denen ihm deutlich wird, wie der Künstler<lb/>
+seine gewaltigen und überströmenden Ton-<lb break="no"/>
+phantasien nur annäherungsweise durch<lb/>
+die Tonschrift fixiert hat, durch die Enge<lb/>
+der Realität gestoßen und gedrängt. Es<lb/>
+war Wagner, der in seinem Aufsatze<lb/>
+»Zum Vortrage der neunten Symphonie<lb/>
+Beethovens« gezeigt hat, wie man dem<lb/>
+gefesselten Genius des Künstlers die Freiheit<lb/>
+wiedergibt, mochte er auch gefasst sein,<lb/>
+wegen seiner Vorschläge als »eitler Frevler<lb/>
+an der Heiligkeit des Buchstabens« be-<lb break="no"/>
+handelt zu werden.</p>
+                     <p>Wie man in den Clavierwerken und<lb/>
+in den Flöten- und Violinstimmen der sym-<lb break="no"/>
+phonischen Werke die reine melodische<lb/>
+Linie aus technischen Gründen nur in<lb/>
+einer andeutenden Gestalt notiert, so findet<lb/>
+sich auch in den Systemen der Blech-<lb break="no"/>
+bläser das innere Gehörsbild oft — der<lb/>
+unvollkommenen Technik der Naturhörner<lb/>
+und-Trompeten entsprechend — in einer<lb/>
+Form wiedergegeben, welche die ursprüng-<lb break="no"/>
+liche Inspiration nur undeutlich fixiert.<lb/>
+Ein Schulbeispiel ist der Anfang des<lb/>
+letzten Satzes:</p>
+                     <table>
+                        <row>
+                           <cell>Flöte:
+</cell>
+                           <cell>b a a d
+</cell>
+                           <cell>d f f a a d
+</cell>
+                           <cell>d f f a a d
+</cell>
+                        </row>
+                        <row>
+                           <cell>Oboe:
+</cell>
+                        </row>
+                        <row>
+                           <cell>Clarinette:
+</cell>
+                        </row>
+                        <row>
+                           <cell>Trompete:
+</cell>
+                           <cell>a a a d
+</cell>
+                           <cell>d <milestone unit="2dots"/> a a d
+</cell>
+                           <cell>d <milestone unit="2dots"/> a a d 
+</cell>
+                        </row>
+                     </table>
+                     <p>Man sieht, wie die Trompete den<lb/>
+melodischen Gang zu verdoppeln versucht<lb/>
+und beim f immer aussetzen muss, weil<lb/>
+ihm dieser Ton als Naturton fehlt. Über<lb/>
+alle diese Punkte hat Richard Wagner<lb/>
+(Ges. Schriften, Bd. IX, 275 ff.) ausführ-</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">lich gesprochen und »allen ernstlich ge-<lb break="no"/>
+sinnten Musikern als Anregung zu sinn-<lb break="no"/>
+vollem Nachdenken« vorgelegt. Findet<lb/>
+man den Gedanken, dass die innere<lb/>
+Phantasie Beethovens ohne Rücksicht auf<lb/>
+die Unvollkommenheit der Realität ihren<lb/>
+Flug genommen und dann oftmals das<lb/>
+Gehörsbild nur in unvollkommener Weise,<lb/>
+wie sie ihm die Mittel <hi rend="text-spaced">seiner</hi> Zeit er-<lb break="no"/>
+laubten, andeutungsweise fixiert hat, so<lb/>
+unerlaubt? Findet man ihn nicht kühn<lb/>
+und das grandiose, von der Realität ab-<lb break="no"/>
+geschiedene Wesen des heroischen Künst-<lb break="no"/>
+lers treffend?** Wenn es den modernen<lb/>
+Künstler reizt, dem Willen Beethovens<lb/>
+nachzuspüren und mit den gesteigerten<lb/>
+Mitteln unserer Zeit nach seinen Absichten<lb/>
+zur Geltung zu bringen, klingend zu<lb/>
+machen, was dem inneren Ohre erklungen<lb/>
+und nur mit Hilfsmitteln fixiert ist, so<lb/>
+wird er von Verehrung geleitet, die ihm<lb/>
+gebietet, das Kunstwerk nicht als classisches<lb/>
+Phantom, sondern als einen lebenden Or-<lb break="no"/>
+ganismus aufzufassen. »Bei der Entschei-<lb break="no"/>
+dung solcher Fragen handelt es sich<lb/>
+darum« — lauten Worte R. Wagners,<lb/>
+welche das Ganze zusammenfassen — »ob<lb/>
+man bei der Anhörung eines ähnlichen<lb/>
+Musikwerkes eine Zeitlang von den In-<lb break="no"/>
+tentionen des Tondichters nichts Deut-<lb break="no"/>
+liches wahrzunehmen oder dagegen das<lb/>
+zweckmäßigste Auskunftsmittel, ihnen ge-<lb break="no"/>
+recht zu werden, vorzieht. Das Auditorium<lb/>
+unserer Concertsäle und Operntheater ist<lb/>
+hierin allerdings an gänzlich unempfundene<lb/>
+Entsagung gewöhnt.«</p>
+                     <p>Ich zweifle nicht, dass die Subjectivität<lb/>
+des Dirigenten oft den Beethoven’schen<lb/>
+Tongedanken individuell verfälschen kann.<lb/>
+Allein ist nicht jede Reproduction eines<lb/>
+fremden Kunstwerkes mehr oder minder<lb/>
+eine subjective Verfälschung? Das Hervor-<lb break="no"/>
+heben von Nebenstimmen, rhythmische<lb/>
+Accentuierung, die Hervorhebung von<lb/>
+Contrasten, Abwägung der Klänge, Grade<lb/>
+und Art der Steigerungen; ist nicht alles:<lb/>
+melodische Linie, Klang, Rhythmik und<lb/>
+Apojik subjectiv gefälscht oder, wenn es<lb/>
+besser klingt, gefärbt? Wer vermag zu</p>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Mit wenigen Ausnahmen, wie z. B. der »Egmont«-Ouverture, wo die höheren Töne<lb/>
+sich stufenweise erreichen lassen.</p>
+               <p>** Der Einwand, Beethoven hätte Ventil-Instrumente erfunden, wenn er sie gebraucht<lb/>
+hätte, ist nicht stichhältig. Bei solchen Talenten wäre er wahrscheinlich Instrumentenmacher<lb/>
+geworden, nicht Schöpfer neuer Tonwelten.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

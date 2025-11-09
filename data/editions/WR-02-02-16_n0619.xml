@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-16_n0619.xml" prev="WR-02-02-16_n0618.xml" next="WR-02-02-16_n0620.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 16, S. 619</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="16"/>
+                        <biblScope unit="page" n="n0619"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-07-01">1 7 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0456">
+                  <title level="a">Burne-Jones</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 16</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="16">16</biblScope>
+                  <biblScope unit="page" from="616" to="619"/>
+                  <idno type="fn">WR-02-02-16_n0616.xml</idno>
+                  <author ref="#wr-person-0161">Schölermann, Wilhelm</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BURNE-JONES.</fw>
+               <fw type="pn">619</fw>
+            </fw>
+            <p rend="no-intend">vielgestaltig und unausschöpflich. So erscheint es in allen Meta-<lb break="no"/>
+morphosen, als Weib, Engel, Sphinx — wie bei Khnopff und Rossetti.<lb/>
+Nicht so bei Burne-Jones. Auch bei ihm tritt ein Grundtypus auf, der<lb/>
+immer wiederkehrt. Aber er ist doch nicht derselbe individuelle Räthsel-<lb break="no"/>
+kopf, der in seiner unergründlich erotischen Tiefe den magischen<lb/>
+Reiz eines Idols in sich trägt. Burne-Jones schlanke Mädchen wandeln<lb/>
+in somnambulem Schlaf dahin, jeder irdischen Schwere enthoben, und<lb/>
+die Liebe spielt nur mit leiser, sehnsüchtiger Klage in ihren Träumen.</p>
+            <p>Die einzelnen Werke des Meisters aufzuzählen, ist nicht der<lb/>
+Zweck dieser Zeilen. Dass er ausser seinen Ölgemälden unzählige Ent-<lb break="no"/>
+würfe für Kirchenfenster gemacht hat, die William Morris und seine<lb/>
+Schüler ausführten, gehört in das Capitel seiner Biographie. Dies<lb/>
+sollte nur ein Versuch sein, den Dahingeschiedenen, der in England<lb/>
+ein ganzes künstlerisches Glaubensbekenntnis repräsentirte, dem Ver-<lb break="no"/>
+ständnis unserer kunstliebenden Kreise einen Schritt näher zu bringen.</p>
+            <p>Ueber den Rang und die Bedeutung seiner Kunst wird die<lb/>
+Kunstgeschichte wohl ihr endgiltiges Urtheil finden — falls ein solches<lb/>
+»endgiltiges Urtheil« überhaupt dauernd festgestellt werden kann; wir<lb/>
+aber dürfen heute dem Heimgegangenen über seinem eben geschlossenen<lb/>
+Grabe dankbar bezeugen: Er war ein echter, vornehmer Künstler, der<lb/>
+seine selbsterschaute Welt in stiller Zurückgezogenheit schuf und<lb/>
+der sich selbst erlöste in dem Ringen nach dem Ideal seiner Schönheit.<lb/>
+Wohl ihm, der in solcher Schönheit gelebt hat. Denn nur solchen<lb/>
+Menschen ist es vergönnt, in Schönheit zu sterben.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-13_n0305.xml" prev="WR-03-01-13_n0304.xml" next="WR-03-01-13_n0306.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 13, S. 305</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="13"/>
+                        <biblScope unit="page" n="n0305"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0671">
+                  <title level="a">Ein Vöglein über das Mitleid</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 13</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="303" to="309"/>
+                  <idno type="fn">WR-03-01-13_n0303.xml</idno>
+                  <author ref="#wr-person-0206">Lindner, Anton</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">LINDNER: EIN VÖGLEIN ÜBER DAS MITLEID.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">wobei denn <hi rend="text-spaced">keine</hi> tröstliche Hand das<lb/>
+Zudrücken und Erwecken besorgt — ist<lb/>
+ja die einzige Berufsthätigkeit des Künstlers.<lb/>
+Denn dieses Öffnen, Schliessen, Öffnen,<lb/>
+Schliessen und wieder Öffnen und wieder<lb/>
+Schliessen in sanft beseligendem, auf-<lb break="no"/>
+rüttelndem Takt erzeugt, indem es Blut-<lb break="no"/>
+bächlein löst, die räthselhafteste Bewegung<lb/>
+in Seele, Aug’ und Herz. Die Seele lernt<lb/>
+das Athmen. Ihr Hauch wird Melodie.<lb/>
+Wird Tanz, Duft, Ton — und rauscht wie<lb/>
+Flügelschlag über Klüfte, Gletscher, Meere.<lb/>
+Und Leid wird Lied, ja, Lied — und<lb/>
+Wein strömt aus den Thränen.</p>
+                     <p>— — Evoë, Kamerad, lass uns<lb/>
+glücklich sein, dieweil wir leiden! Lass<lb/>
+uns das Leid hellenisch nehmen, wie vor<lb/>
+Zeiten; lass uns den letzten Tropfen seiner<lb/>
+so herben, doch feurig flammenden Schön-<lb break="no"/>
+heit mit trockenen Lippen aus all den<lb/>
+bitteren Kelchen dieses Lebens schlürfen<lb/>
+und lass uns Christum, den dürren Tänzer,<lb/>
+aufjubelnd in einen Sarg voll dunkler<lb/>
+Rosen legen.</p>
+                     <milestone unit="verse-start"/>
+                     <lg>
+                        <l>Evoë! dass ich im Leiden liege!</l>
+                        <l>Wer will es sagen,</l>
+                        <l>Dem Himmel klagen,</l>
+                        <l>Dass ich wie trunken mich weinend wiege?</l>
+                        <l>Die Stunden schreiten</l>
+                        <l>Wie dunkle Flore,</l>
+                        <l>Leis’ aus den Weiten</l>
+                        <l>Flüstern die Chöre</l>
+                        <l>Kühlende Sänge und <milestone unit="2dots"/>
+                        </l>
+                        <l>Schlummern ein.</l>
+                        <l>Die Stunden treiben,</l>
+                        <l>Die Wunden bleiben,</l>
+                        <l>Mein Licht ist Leiden</l>
+                        <l>Und Leid ist Wein.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>Und vielleicht <hi rend="text-spaced">gibt es dieses Leid<lb/>
+nicht</hi>, unter dem wir stöhnen? Vielleicht<lb/>
+humpelt es gar nicht in unserer Mitte, ob-<lb break="no"/>
+zwar wir seine Macht an unseren Wunden<lb/>
+erkennen? Vielleicht ist <hi rend="text-spaced">unser Auge nur<lb/>
+umwölkt</hi>, weil uns die trübe Entwicklung<lb/>
+der Jahrhunderte und all die stets ver-<lb break="no"/>
+erbten, engen Menschlichkeiten und Zu-<lb break="no"/>
+sammenhänge den traurigen Flor in die<lb/>
+Seele getragen? Vielleicht ist unser Auge<lb/>
+                        <hi rend="text-spaced">noch</hi> umwölkt und irrt und lässt sich<lb/>
+täuschen? Vielleicht aber gibt es hohe<lb/>
+Tage in der Entwicklung des Menschen,<lb/>
+Festtage in der Entwicklung der Mensch-<lb break="no"/>
+heit, da sich der schattende Flor zu<lb/>
+Rosenduft verflüchtigt, verflüchtigen muss,<lb/>
+weil all die trübe Enge des <hi rend="text-spaced">anerzogenen</hi>
+                        <lb/>
+Blicks auf Augenblicke schwindet? Viel-</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">leicht gar sollen wir diese hohen Tage,<lb/>
+da die Hülle sich lichtet, mit all der<lb/>
+Innigkeit unserer zähesten Triebe herbei-<lb break="no"/>
+zwingen? Und vielleicht ist Der nur des<lb/>
+Lebens würdig, der immer strebend sich<lb/>
+bemüht, die Dunkelflöre seiner Sinne<lb/>
+melodisch zu heben?</p>
+                     <p>Mit <hi rend="text-spaced">angelaufenen</hi> Augen kommen<lb/>
+wir auf die Welt; trüb, irr, angstvoll<lb/>
+blicken wir, wie junge Thiere, und wissen<lb/>
+nicht, wie uns geschieht, indes sich die<lb/>
+goldene Sonne zum erstenmal in unserer<lb/>
+Seele spiegelt. Aber der Rauhreif in unseren<lb/>
+Augen bleibt — bleibt jahrelang, lebens-<lb break="no"/>
+lang und wird mit uns begraben. Und<lb/>
+dennoch hätte sich der böse Schleier<lb/>
+leicht lösen können, wie die Morgen-<lb break="no"/>
+dämmerung lehrt, da nur eine allmähliche<lb/>
+Klärung der Seele nöthig ist, um ihn —<lb/>
+von <hi rend="text-spaced">innen</hi> her — zum Schwinden zu<lb/>
+bringen. So aber haften wir an uns selbst,<lb/>
+                        <hi rend="text-spaced">leiden an unserer eigenen Last</hi>,<lb/>
+neigen uns dem Geist der Schwere,<lb/>
+schlagen uns selber ans Kreuz, seufzen,<lb/>
+weinen, verbleichen — und fühlen nicht,<lb/>
+                        <hi rend="text-spaced">dass es keinen Schmerz ausserhalb<lb/>
+unserer Wesenheit gibt</hi>, fühlen nicht,<lb/>
+dass jedes Leid des Lebens ein Mangel<lb/>
+unserer Seele, ein Manco unserer psy-<lb break="no"/>
+chischen Entwicklung und Erziehung ist,<lb/>
+fühlen nicht, dass jegliches Leid des<lb/>
+Lebens in jenem bänglichen Wahn ruht,<lb/>
+der uns in Krallen hält, keineswegs in<lb/>
+den Dingen draussen, die wir so schwarz<lb/>
+und blutig zu sehen glauben. Aber da<lb/>
+wir ihn nicht fühlen, schreckt uns dieser<lb/>
+Gedanke nicht — und sollte uns doch<lb/>
+eigentlich in Schauer treiben! Denn unsere<lb/>
+ganze Kümmerlichkeit und Erbärmlichkeit<lb/>
+liegt in ihm. Die grosse Erkenntnis liegt<lb/>
+in ihm, dass wir uns selber zwecklos<lb/>
+                        <hi rend="text-spaced">versingen und verthun</hi> und in unserer<lb/>
+bequemen Feigheit und Eitelkeit stets nur<lb/>
+von aussen her Brücken zu uns selber<lb/>
+schlagen, statt redlich von innen her das<lb/>
+lauterste Verhältnis zu den Dingen zu<lb/>
+finden. Es ist eben leider nicht wahr, dass<lb/>
+wir von uns selber ausgehen, die wir uns<lb/>
+scheinbar am nächsten liegen. Von einem<lb/>
+Punkte des Aussenraums läuft jeder<lb/>
+seinem Ich, wie ein Fremdling, in weiten<lb/>
+Schlangenwegen entgegen und stürzt<lb/>
+irgendwo auf halbem Pfade in eine Senk-<lb break="no"/>
+grube, eh’ er auf sich getroffen, oder</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

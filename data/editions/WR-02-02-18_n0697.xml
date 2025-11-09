@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-18_n0697.xml" prev="WR-02-02-18_n0696.xml" next="WR-02-02-18_n0698.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 18, S. 697</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="18"/>
+                        <biblScope unit="page" n="n0697"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-08-01">1 8 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0471">
+                  <title level="a">Paniscus</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 18</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="18">18</biblScope>
+                  <biblScope unit="page" from="695" to="699"/>
+                  <idno type="fn">WR-02-02-18_n0695.xml</idno>
+                  <author ref="#wr-person-0119">Schmitz, Oskar A. H.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">PANISCUS.</fw>
+               <fw type="pn">697</fw>
+            </fw>
+            <lg>
+               <l>Du bist des jungen Windes, bist der Wasser</l>
+               <l>Rauschen und Rieseln, bist duftiger Wiesen,</l>
+               <l>lichter Birken Hauch, des Laubes Flüstern.</l>
+               <l>Du liebst der Wogen keuschen Schwesterkuss;</l>
+               <l>bist Du allein mit ihnen, trägst Du wohl</l>
+               <l>ein Silberschuppenkleid, dass enger sich</l>
+               <l>an ihre Brüste schmiegt und glatter</l>
+               <l>von einer zu der anderen gleiten lässt.</l>
+               <l>Wie süss muss Eure Wollust sein und doch</l>
+               <l>niemals gesättigt wogt sie fort und fort</l>
+               <l>von Kuss zu Kuss in unerfülltem Hoffen;</l>
+               <l>bis ihr vielleicht im Rosenlicht des Abends</l>
+               <l>die Kniee eines Tritons sanft bespült,</l>
+               <l>der auf dem Felsen an der Pforte wacht</l>
+               <l>des hellen Meeres, das den Strom empfängt.</l>
+               <l>Vielleicht, dass er die Muschel sinken lässt</l>
+               <l>und eine aus der Wogenschar erkiest,</l>
+               <l>an seine Seite zieht und auf der Klippe</l>
+               <l>sich ihr vermählt; der Sterne Hochzeitsfackeln</l>
+               <l>leuchten dem rauhen Bett aus nassem Schilf</l>
+               <l>und ihrer kalten Küsse matter Lust.</l>
+            </lg>
+            <lg>
+               <l>Ich aber bin der Erde tiefe Glut,</l>
+               <l>der Stämme Wucht, des trockenen Laubes Rascheln,</l>
+               <l>der rauhen Gräser und gezweigten Farren</l>
+               <l>üppige Finsternis, wo rother Schwämme</l>
+               <l>und dunkeler Käfer grüne Brut gedeiht.</l>
+               <l>Ich bin das Auge stehender Gewässer,</l>
+               <l>ich berge in dem warmen, dunkeln Schoss</l>
+               <l>seltsam verschlungene Pflanzen, seltsam</l>
+               <l>verchlungenes Gethier; ein schwarzes Wasser</l>
+               <l>deckt meine Tiefen, doch der Morgenwind</l>
+               <l>vermag auf meiner Fläche sanfte Ringe</l>
+               <l>zu regen, leichter Wellen zartes Zittern <milestone unit="3dots"/>
+               </l>
+               <l>dies ist mein Lächeln <milestone unit="4dots"/> Weck es, Aglaë!</l>
+            </lg>
+            <lg>
+               <l>Sieh, wie die Blumen sich zum Lager breiten,</l>
+               <l>die purpurnen, die dicht behaart zu mir</l>
+               <l>sich wenden, aber die zu Dir sich neigen,</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

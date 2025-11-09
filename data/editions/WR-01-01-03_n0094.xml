@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-03_n0094.xml" prev="WR-01-01-03_n0093.xml" next="WR-01-01-03_n0095.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 3, S. 94</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0094"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-15">15 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0026">
+                  <title level="a">Alladine und Palomides</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="88" to="95"/>
+                  <idno type="fn">WR-01-01-03_n0088.xml</idno>
+                  <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">94</fw>
+               <fw type="ctext">MAETERLINCK.</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Eine der Schwestern</hi>.</p>
+            <p>Oh! Ich fürchte mich <milestone unit="3dots"/> Oeffne nicht gleich <milestone unit="3dots"/> Palo-<lb break="no"/>
+mides <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi>.</p>
+            <p>Bleibt hier <milestone unit="3dots"/> Ich weiss nicht, was ich finden werde <milestone unit="2dots"/>
+               <lb/>
+(Er geht zur Thüre, öffnet sie und tritt in das Gemach.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Astolaine</hi>.</p>
+            <p>Ist sie da?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi> (im Innern).</p>
+            <p>Ich sehe nichts <milestone unit="3dots"/> Die Fensterladen sind geschlossen <milestone unit="2dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Astolaine</hi>.</p>
+            <p>Gib acht, Palomides <milestone unit="3dots"/> Willst du, dass ich zuerst<lb/>
+hineingehe? <milestone unit="3dots"/> Deine Stimme zittert <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi> (im Innern).</p>
+            <p>Nein, nein <milestone unit="3dots"/> Ich sehe einen Sonnenstrahl, der durch<lb/>
+die Ritzen des Fensterladens dringt.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Eine der Schwestern</hi>.</p>
+            <p>Ja; draussen ist heller Sonnenschein.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi>.</p>
+            <p>(Kommt eilig aus dem Zimmer.) Kommt! Kommt! Ich glaube,<lb/>
+dass sie <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Astolaine</hi>.</p>
+            <p>Du hast sie gesehen?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi>.</p>
+            <p>Sie liegt auf dem Bette ausgestreckt <milestone unit="3dots"/> Sie regt sich<lb/>
+nicht <milestone unit="3dots"/> Ich glaube nicht, dass <milestone unit="3dots"/> Kommt! Kommt! (Alle<lb/>
+gehen in das Zimmer.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Astolaine</hi> und <hi rend="text-spaced">Palomidens Schwestern</hi>.</p>
+            <p>(Im Innern.) Sie ist da <milestone unit="3dots"/> Nein, nein, sie ist nicht todt <milestone unit="2dots"/>
+               <lb/>
+Alladine! Alladine! <milestone unit="3dots"/> Oh! Oh! Das arme Kind! <milestone unit="2dots"/> Schreit<lb/>
+nicht so <milestone unit="3dots"/> Sie ist ohnmächtig geworden <milestone unit="3dots"/> Ihr Haar ist<lb/>
+über ihrem Munde zusammengeknüpft <milestone unit="2dots"/> Und ihre Hände<lb/>
+sind auf den Rücken gebunden <milestone unit="3dots"/> Mit ihren Haaren sind sie<lb/>
+gebunden. Alladine! Alladine <milestone unit="3dots"/> Holt Wasser <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <p>(Ablamore, der erwacht ist, erscheint auf der Schwelle.)</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Astolaine</hi>.</p>
+            <p>Mein Vater!</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

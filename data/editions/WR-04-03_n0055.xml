@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-03_n0055.xml" prev="WR-04-03_n0054.xml" next="WR-04-03_n0056.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 3, S. 55</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0055"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0803">
+                  <title level="a">Zwei Skizzen</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 3</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="53" to="55"/>
+                  <idno type="fn">WR-04-03_n0053.xml</idno>
+                  <author ref="#wr-person-0108">Obstfelder, Sigbjörn</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0804">
+                  <title level="a">Geistige Heilkunst</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 3</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="55" to="58"/>
+                  <idno type="fn">WR-04-03_n0055.xml</idno>
+                  <author ref="#wr-person-0262">Graevell van Jostenoode, Harald</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">GRAEVELL: GEISTIGE HEILKUNST.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>— Gott, der du auch Vater meines<lb/>
+Geschlechtes bist! Seit Anfang der Erde<lb/>
+waren meine Mütter Königinnen, so ant-<lb break="no"/>
+worte mir: Warum bin ich?</p>
+                     <p>Keine Antwort. Nur schweigsamer ist<lb/>
+das Blau, ruhiger leuchten die weißen</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Lichter droben. Und das Wasser zeichnet<lb/>
+ihr Bild: schwarz, mit herunterhängenden<lb/>
+Händen.</p>
+                     <p>Und sie erhebt sich und geht weiter,<lb/>
+mit geschlossenen Lippen, gesenkten<lb/>
+Hauptes.</p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <p>Deutsch von <rs type="person" key="">TYRA BENTSEN</rs>.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>GEISTIGE HEILKUNST.<lb/>
+Von <rs type="person" key="">HARALD GRAEVELL VAN JOSTENOODE</rs> (Lüttich).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>
+                        <hi rend="text-spaced">Franz Hartmann</hi> halte ich für einen<lb/>
+der tiefsten Schriftsteller auf deutschem<lb/>
+Boden. Daher nehme ich ein neues Buch<lb/>
+von ihm stets mit großer Erwartung in<lb/>
+die Hand. Auch das kürzlich erschienene<lb/>
+über »die Medicin des <hi rend="text-spaced">Theophrastus<lb/>
+Paracelsus</hi>, vom wissenschaftlichen Stand-<lb break="no"/>
+punkte betrachtet«,* das die Fortsetzung<lb/>
+seines »Grundrisses der Lehren desselben<lb/>
+vom religions-wissenschaftlichen Stand-<lb break="no"/>
+punkte« bildet, kann auf das höchste In-<lb break="no"/>
+teresse Anspruch machen. Hier wird nicht<lb/>
+nur eine volle und schöne Ehrenrettung<lb/>
+des großen, so viel verleumdeten Mannes<lb/>
+versucht — das haben auch schon andere<lb/>
+vor ihm gethan —, sondern es wird zum<lb/>
+erstenmale von einem occult geschulten<lb/>
+Gelehrten, einem Mystiker, eine Erklärung<lb/>
+der dunklen Geheimnisse gegeben.</p>
+                     <p>
+                        <hi rend="text-spaced">Hartmann</hi>, der selbst Medicin studiert<lb/>
+hat, gibt dem Paracelsus in allem recht<lb/>
+und der heutigen Medicin in allem unrecht.<lb/>
+Er geißelt in den schärfsten Ausdrücken<lb/>
+die moderne Sucht, alles auf rein materia-<lb break="no"/>
+listischem Weg finden zu wollen, ohne<lb/>
+Verständnis für die wahre Natur des<lb/>
+Menschen, welche geistig ist. Solche<lb/>
+bittere Wahrheiten hat die heutige Wissen-<lb break="no"/>
+schaft ja schon oft von den Theologen<lb/>
+zu hören bekommen. Aber dass auch ein<lb/>
+Nicht-Theologe, ja sogar ein Fachgenosse<lb/>
+so spricht, das ist neu.</p>
+                  </cell>
+                  <cell>
+                     <p>Es scheint, wir kommen allmählich in<lb/>
+eine Periode, wo man einsieht, dass die<lb/>
+alten Anschauungen nicht mehr genügen,<lb/>
+dass man neue haben müsse. Sollten die<lb/>
+neuen die alten sein, die man in einer<lb/>
+längst verflossenen Culturperiode gehabt<lb/>
+hat? Sollte Paracelsus mit den seinigen<lb/>
+wieder zu Ehren kommen? Die Welt dreht<lb/>
+sich, und was einmal unten war, kann<lb/>
+daher wieder obenauf kommen. Man hat<lb/>
+schon so oft einen Wechsel in der Wissen-<lb break="no"/>
+schaft erlebt, und die überhandnehmende<lb/>
+Kränklichkeit der degenerierten Bevölkerung<lb/>
+lässt auch dem Laien kaum eine andere<lb/>
+Erklärung, als dass die officielle Heilkunst<lb/>
+mit ihrem ausgebildeten Specialistenthum<lb/>
+ihre Aufgabe nicht erfüllt.</p>
+                     <p>»Der erste und höchste Zweck eines<lb/>
+jeden, nach wahrem Wissen strebenden<lb/>
+Menschen« — sagt Dr. med. Franz <hi rend="text-spaced">Hart-<lb break="no"/>
+mann</hi> — »sollte sein, zu sich selbst zu<lb/>
+kommen, das Wahre in sich selber zu<lb/>
+finden. Dann würde ihm auch alles andere<lb/>
+offenbar werden. Aber wir leben in einer<lb/>
+Periode, die nur wenigen Zeit übrig lässt,<lb/>
+sich selber zu finden. Man lebt beständig<lb/>
+außer sich, in einer von anderen Menschen<lb/>
+geschaffenen Gedankenwelt, und der Stu-<lb break="no"/>
+dierende der Medicin ist genöthigt, sein<lb/>
+Hirn mit dem dümmsten, wertlosesten und<lb/>
+verkehrtesten Zeug vollzupfropfen, damit<lb/>
+er sein Examen bestehen kann, wenn er</p>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Bei Wilhelm <hi rend="text-spaced">Friedrich</hi> in Leipzig.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

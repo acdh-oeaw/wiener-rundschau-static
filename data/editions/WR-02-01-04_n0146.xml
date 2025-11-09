@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-04_n0146.xml" prev="WR-02-01-04_n0145.xml" next="WR-02-01-04_n0147.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 4, S. 146</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="04"/>
+                        <biblScope unit="page" n="n0146"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-01-01">1 1 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0330">
+                  <title level="a">Die Nebel wallen </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 4</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="146" to="146"/>
+                  <idno type="fn">WR-02-01-04_n0146.xml</idno>
+                  <author ref="#wr-person-0126">Holitscher, Arthur</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>DIE NEBEL WALLEN.</title>
+            </ab>
+            <lg>
+               <l>
+                  <hi rend="initial">Ich</hi> denk’ an die blassen Frauen,</l>
+               <l>Die nur in den Träumen erstehen,</l>
+               <l>Weil das Leben zu gierige Winde hat.</l>
+            </lg>
+            <lg>
+               <l>Und weil sein Wehen</l>
+               <l>Die schmalen Leiber wie späte Blätter</l>
+               <l>In die kalten Beete triebe,</l>
+               <l>Wo schon der Winter kauert.</l>
+            </lg>
+            <lg>
+               <l>Mein Herz erschauert und meine Lippen beben.</l>
+               <l>Der Sommer war purpurn, doch mir dauerte</l>
+               <l>Er nur wie eine Liebe</l>
+               <l>So lang, und der Winter vermauerte</l>
+               <l>Mit hohem Schnee mein Haus.</l>
+               <l>In den dunklen Räumen</l>
+               <l>Harren meine Träume aus.</l>
+            </lg>
+            <lg>
+               <l>Und die blassen Frauen</l>
+               <l>Gewinnen Leben</l>
+               <l>Und Blut in die Wangen —</l>
+               <l>Meine Gedanken</l>
+               <l>Füllen die langen</l>
+               <l>Winternächte mir minniglich aus.</l>
+            </lg>
+            <p>München. <rs type="person" key="">Arthur Holitscher</rs>.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-14_n0542.xml" prev="WR-02-02-14_n0541.xml" next="WR-02-02-14_n0543.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 14, S. 542</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="14"/>
+                        <biblScope unit="page" n="n0542"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-06-01">1 6 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0437">
+                  <title level="a">Schiffer Rejersen vom »Südstern«</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 14</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="14">14</biblScope>
+                  <biblScope unit="page" from="533" to="542"/>
+                  <idno type="fn">WR-02-02-14_n0533.xml</idno>
+                  <author ref="#wr-person-0147">Hamsun, Knut</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">542</fw>
+               <fw type="ctext">HAMSUN.</fw>
+            </fw>
+            <p>Und Gott wollte es. Rejersen lichtete die Anker und richtete<lb/>
+den Kiel hinaus. Tausendfältiger Dank erfüllte seinen Sinn. Er kannte<lb/>
+jeden Holm; da hatte er in seiner Jugendzeit, seiner Glanzzeit, dies<lb/>
+und dort jenes erlebt. Ach, nun war das alles vorbei <milestone unit="6dots"/>
+            </p>
+            <p>Rejersen steht am Steuer. Er spiegelt sich im Compassglase.<lb/>
+Plötzlich richtet er sich wie ein Admiral in die Höhe und sagt leise<lb/>
+vor sich hin:</p>
+            <p>»Nächstes Jahr versuche ich es anderwärts! Da sollte doch der<lb/>
+Teufel dreinfahren, wenn ich schon abgethan sein sollte!«</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

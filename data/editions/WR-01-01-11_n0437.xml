@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-11_n0437.xml" prev="WR-01-01-11_n0436.xml" next="WR-01-01-11_n0438.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 11, S. 437</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="11"/>
+                        <biblScope unit="page" n="n0437"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-04-15">15 4 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0139">
+                  <title level="a">Gegen die Emancipation des Weibes</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 11</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="11">11</biblScope>
+                  <biblScope unit="page" from="431" to="437"/>
+                  <idno type="fn">WR-01-01-11_n0431.xml</idno>
+                  <author ref="#wr-person-0029">Weisengrün, Dr. Paul</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">GEGEN DIE EMANCIPATION DES WEIBES.</fw>
+               <fw type="pn">437</fw>
+            </fw>
+            <p rend="no-intend">Forderung der Frauenemancipation, mit der sie fällt oder siegt. Ich<lb/>
+weiss, es gibt Damen, für die die Frauenfrage lediglich darin besteht,<lb/>
+ob man Bicycle in Hosen fahren oder in öffentlichen Localen Cigaretten<lb/>
+rauchen darf. Doch wer es ernsthaft meint mit gesellschaftlichen Pro-<lb break="no"/>
+blemen, wird einsehen, dass ausser dem Stimmrecht als Kampfmittel<lb/>
+zur Erlangung politischer und rechtlicher durchgreifender Aenderungen<lb/>
+höchstens noch wirthschaftliche Forderungen in Betracht kommen. Aber<lb/>
+all diesen wirthschaftlichen Forderungen kann man ja zustimmen, ohne<lb/>
+an der Geschlechtssclaverei des Weibes festzuhalten. Beim allgemeinen<lb/>
+Stimmrecht kann man es nicht.</p>
+            <p>Wir haben in aller Kürze die Lage dreier verschiedener Kate-<lb break="no"/>
+gorien von Frauen untersucht und haben gefunden, dass ihre Lage, wie<lb/>
+verschieden sie auch ist, doch etwas Gemeinsames aufzuweisen hat,<lb/>
+und dass dasselbe auch von ihren Freiheitsbestrebungen gilt. Worin<lb/>
+besteht nun dieses Gemeinsame? Es besteht in der Annahme, <hi rend="text-spaced">dass<lb/>
+das Weib als selbstständiges Wesen agiren kann</hi>, und<lb/>
+dass der Mann sie daran hindere. Ist die Selbstständigkeit und Selbst-<lb break="no"/>
+herrlichkeit des Weibes als Postulat angenommen, so ergibt sich alles<lb/>
+Andere von selbst.</p>
+            <p>Unser nächster Aufsatz wird nun den Beweis erbringen, dass es<lb/>
+mit der psychischen Selbstständigkeit der Frau recht schlecht bestellt<lb/>
+und dass unsere Zurückweisung der Forderung des allgemeinen Stimm-<lb break="no"/>
+rechtes begründet ist.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

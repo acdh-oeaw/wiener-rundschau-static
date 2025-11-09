@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-24_n0912.xml" prev="WR-02-02-24_n0911.xml" next="WR-02-02-24_n0913.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 24, S. 912</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="24"/>
+                        <biblScope unit="page" n="n0912"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-11-01">1 11 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0521">
+                  <title level="a">Die Mondscheinsonate</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 24</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="905" to="915"/>
+                  <idno type="fn">WR-02-02-24_n0905.xml</idno>
+                  <author ref="#wr-person-0144">Wolff, Ludwig</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">912</fw>
+               <fw type="ctext">WOLFF.</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi>. Ja.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi>. Sie werden auch wissen, wie viel ein jedes der<lb/>
+Mädchen mitbekommt?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi> (edel). Dass weiss ich nicht, liebe Mama. Sie<lb/>
+dürfen mich doch für keinen Mitgiftjäger halten. Ich liebe Fräulein<lb/>
+Rosa.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi> (zärtlich). Verzeihen Sie, Armin, ich wollte Sie nicht<lb/>
+verletzen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi> (abwehrend). Aber liebe Mama!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi>. Ja, ich wünsche stets Klarheit. Darum spreche ich<lb/>
+so offen mit Ihnen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi>. Sie sind ganz wie ich, liebe Mama.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi>. Also, dass wir zum Schluss kommen, die Rosa<lb/>
+kriegt 15.000.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi> (milde ausbessernd). 20.000.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi> (ihn gross ansehend). 15.000.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi>. Aber, liebe Mama, Sie werden mir doch nicht<lb/>
+5000 Gulden abhandeln wollen? Fräulein Rosa bekommt 20.000.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi>. Sie sind im Irrthum, lieber Armin. Mein Gottseliger<lb/>
+hat der Rosa 15.000 vermacht.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi>. Liebe Frau Klein, so kommen wir nicht weiter. Der<lb/>
+Herr, der Herr — —, der Agent hat mir von 20.000 gesagt.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi>. Aber, ich schwöre Ihnen, Armin, bei dem Andenken<lb/>
+meiner seligen Mutter, Rosa hat nur 15.000.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi> (kühl). Also Sie wollen mir die 5000 Gulden durchaus<lb/>
+abziehen?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi>. Ja, ich kann da nichts machen, Armin. Das Geld<lb/>
+ist für jedes der Mädchen getrennt angelegt und so verclausuliert, dass<lb/>
+sich nichts ändern lässt.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi> (aufstehend). Da weiss ich wirklich nicht —</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi> (in Verzweiflung). Warum haben Sie sich nicht in<lb/>
+die Grete verliebt?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi> (verblüfft). Wieso?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi>. Nun die Grete hat 20.000.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi> (in höchstem Erstaunen). Ja, ist denn Grete die ältere?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi>. Selbstverständlich.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi> (vernichtet in den Stuhl sinkend). Und ich habe Rosa für<lb/>
+die ältere gehalten.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi> (die Hände ringend). Das ist ja schrecklich?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi> (wie oben). Entsetzlich, grauenhaft. (Weinerlich.) Und<lb/>
+sehen Sie, Frau Klein, ich bin da ganz gebunden, ich kann nicht mit<lb/>
+15.000 heiraten. Ich habe eine alte gelähmte Mutter, ich habe ein<lb/>
+Geschäft, ich kann nicht mit 15.000 heiraten.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi> (schüchtern). Wenn Sie sich ein bissei einschränken —</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi>. Ja, ja, aber die Mama. Sie gibt das nie zu.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi>. Wenn man ihr die Sache auseinanderlegen würde —</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi>. O, Sie kennen meine Mama nicht.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

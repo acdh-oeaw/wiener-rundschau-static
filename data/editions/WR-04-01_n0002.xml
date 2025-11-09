@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-01_n0002.xml" prev="WR-04-01_n0001.xml" next="WR-04-01_n0003.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 1, S. 2</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0002"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0785">
+                  <title level="a">Die Kaiserin</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 1</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="1" to="28"/>
+                  <idno type="fn">WR-04-01_n0001.xml</idno>
+                  <author ref="#wr-person-0232">Khnopff, Fernand</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0786">
+                  <title level="a">Farbe und Linie, I.</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 1</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="2" to="6"/>
+                  <idno type="fn">WR-04-01_n0002.xml</idno>
+                  <author ref="#wr-person-0206">Lindner, Anton</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>FARBE UND LINIE.<lb/>
+Ein Versuch.<lb/>
+Von <rs type="person" key="">ANTON LINDNER</rs> (Wien).<lb/>
+I.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Die gegenwärtige Ausstellung der<lb/>
+»Secession« verblüfft, weil sie sich — im<lb/>
+Anschlusse an die zum Theile falsch ver-<lb break="no"/>
+standenen Ausführungen Max Klingers —<lb/>
+auf Hand- und Druckzeichnungen, Pastelle<lb/>
+und Aquarelle beschränkt, das Ölbild aber<lb/>
+ausschließt. Gegen diese Scheidung sei<lb/>
+hier nichts vorgebracht, obzwar sie sich<lb/>
+an überwundene Differenzierungen klam-<lb break="no"/>
+mert; dass sie aber — wie das Vorwort<lb/>
+des Secessions-Kataloges besagt — von dem<lb/>
+Merkmal der »Raumwirkung« ausgeht, die<lb/>
+angeblich nur dem »Bildhaften« eigne, dem<lb/>
+»decorativ Aufgefassten« aber fehle, ist<lb/>
+ein kunst-psychologischer Lapsus, der nicht<lb/>
+unerwähnt bleiben darf. Denn einerseits<lb/>
+gibt es heute nichts »Bildhaftes«, das nicht<lb/>
+gleichzeitig »decorativ aufgefasst« wäre,<lb/>
+und andererseits lässt sich heute, sofern<lb/>
+man nur mit wachen Augen in die Kunst<lb/>
+sieht, nichts »decorativ Aufgefasstes«<lb/>
+denken, das nicht gleichzeitig irgendeine<lb/>
+Raumwirkung suggerieren würde. Perspec-<lb break="no"/>
+tivische Raumwirkung im wörtlichen Sinne<lb/>
+dieses Terminus scheint mir eben mit<lb/>
+Unrecht als Specificum des Bildhaften zu<lb/>
+gelten — und es ist gar nicht einzusehen,<lb/>
+warum wir heute noch dem bildhaften<lb/>
+Element in der Malkunst das flächen-<lb break="no"/>
+decorative Element in Malerei und Zeichnung<lb/>
+entgegenstellen. Hat man denn — um nicht<lb/>
+gerade auf Rembrandt, Velasquez oder<lb/>
+Whistler zurückzugreifen — von den<lb/>
+jüngsten Schotten,* die übrigens fast nur<lb/>
+in Öl malen, nichts gelernt? Weiß man<lb/>
+nicht, dass uns ihre unvergleichlich subli-<lb break="no"/>
+mierte Kunst eine wesentlich neue und<lb/>
+                        <hi rend="text-spaced">psychische</hi> Raumwirkung zu Bewusst-<lb break="no"/>
+sein gebracht, die mit der äußeren Raum-<lb break="no"/>
+wirkung des gemeiniglich »Bildhaften«</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">nichts zu thun hat und ausschließlich<lb/>
+durch das decorative Element der Farben-<lb break="no"/>
+flächen, Flecken und Punkte geweckt<lb/>
+wird? Wo blieb die äußere Raumwirkung<lb/>
+in diesen schottischen Tafeln, die decora-<lb break="no"/>
+tiver fast als Teppiche waren und dennoch<lb/>
+— auch in technischer Hinsicht — mit<lb/>
+großem Recht als Bilder genommen wurden?<lb/>
+Die Raumwirkung kann eben, wenn wir sie<lb/>
+zu einem entwickelteren Sinne erheben, nichts<lb/>
+äußerlich Construiertes, nichts objectiv Sicht-<lb break="no"/>
+bares und räumlich Trennendes sein. Sie<lb/>
+hängt durchaus nicht von Realitäten ab,<lb/>
+die ein räumliches Verhältnis bilden, geo-<lb break="no"/>
+metrisch sich abgrenzen und perspectivisch<lb/>
+sich gruppieren. Sie hat sich vielmehr aus<lb/>
+dem Object in unsere Seele geflüchtet,<lb/>
+kommt also nur subjectiv zur Geltung.<lb/>
+Ölbildern, auf denen sich die Figuren und<lb/>
+landschaftlichen Ausschnitte nur als Sub-<lb break="no"/>
+strate für Form- und Farbenspiele geben,<lb/>
+ist sie fast in demselben Maße eigen, wie<lb/>
+Aquarellen, Pastellen und Producten der<lb/>
+Graphik (Handzeichnungen, Druckzeich-<lb break="no"/>
+nungen etc.). So mag es vielleicht just<lb/>
+gerade die Raumwirkung sein, die — ur-<lb break="no"/>
+sprünglich als trennend aufgefasst, weil<lb/>
+äußerlich genommen, — alle Gegensätze<lb/>
+zwischen den Techniken aufhebt und einen<lb/>
+einheitlichen Eindruck aller malerisch-<lb break="no"/>
+zeichnerischen Gestaltungsarten ermöglicht!</p>
+                     <p>Die Vorurtheilslosen wissen schon<lb/>
+lange, dass <hi rend="text-spaced">alle</hi> hohe und niedere Kunst<lb/>
+dort, wo sie sich nicht durch die Stimme<lb/>
+des Marktes oder durch zeitgemäße, aber ver-<lb break="no"/>
+logene Entwicklungsphasen verunreinigen<lb/>
+ließ, von jeher decorativ gewesen; vom<lb/>
+Decorativen gieng sie aus und ins Deco-<lb break="no"/>
+rative verlief sie sich stets am Ende jener<lb/>
+großen Stil-Epochen, durch die sie immer</p>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Vgl. »Die Boys of Glasgow« in Heft 11, Seite 271 ff. dieser Zeitschrift.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

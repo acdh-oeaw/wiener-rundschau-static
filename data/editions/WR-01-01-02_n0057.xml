@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-02_n0057.xml" prev="WR-01-01-02_n0056.xml" next="WR-01-01-02_n0058.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 2, S. 57</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0057"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-01">1 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0015">
+                  <title level="a">Holländische Landschaft</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="57" to="57"/>
+                  <idno type="fn">WR-01-01-02_n0057.xml</idno>
+                  <author ref="#wr-person-0011">Amicis, Edmondo de</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0016">
+                  <title level="a">Wünsche</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="57" to="58"/>
+                  <idno type="fn">WR-01-01-02_n0057.xml</idno>
+                  <author ref="#wr-person-0012">Schaukal, Richard</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">GEDICHTE</hi>.</title>
+            </ab>
+            <milestone unit="hr"/>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>HOLLÄNDISCHE LANDSCHAFT.</title>
+            </ab>
+            <lg>
+               <l>
+                  <hi rend="initial">Weit</hi> läuft das Land, unendlich weit und eben</l>
+               <l>Im tiefen athemlosen Mittagschweigen.</l>
+               <l>Erstorbne Felder; rings Gewitterreigen</l>
+               <l>Am dunkelgrauen Horizonte schweben.</l>
+            </lg>
+            <lg>
+               <l>Brausende Wasser; zarte Gräser beben;</l>
+               <l>Die schlanken Erlen ihre Häupter neigen;</l>
+               <l>Auf allem liegt es brütend bang und eigen,</l>
+               <l>Wie künftges Weinen, nahen Unglücks Weben <milestone unit="3dots"/>
+               </l>
+            </lg>
+            <lg>
+               <l>Dort unten nur, hart an dem Wasserringe,</l>
+               <l>Raucht’s aus dem Haus, durch Pappeln halb verborgen,</l>
+               <l>Und eine Mühle hebt die Riesenschwinge.</l>
+            </lg>
+            <lg>
+               <l>Und in dem Grün, das keine Grenzen findet,</l>
+               <l>Nachtwandelnd, einsam, in Gedankensorgen —</l>
+               <l>Ein weisses Segel gleitet hin und schwindet <milestone unit="3dots"/>
+               </l>
+            </lg>
+            <p>Rom. <rs type="person" key="">Edmondo de Amicis</rs>.</p>
+            <p>Deutsch von <rs type="person" key="">Paul Wertheimer</rs>.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>WÜNSCHE.</title>
+            </ab>
+            <lg>
+               <l>
+                  <hi rend="initial">Zwischen</hi> blonden, juwelengeschmückten Frauen,</l>
+               <l>Schlanken Gestalten in glänzenden, reichen Seiden,</l>
+               <l>Möchte ich sitzen und Qualen des Wählens leiden,</l>
+               <l>Wenn schmeichelnde Augen fragen unter den dunkeln Brauen.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

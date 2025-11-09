@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-03_n0104.xml" prev="WR-01-01-03_n0103.xml" next="WR-01-01-03_n0105.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 3, S. 104</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0104"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-15">15 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0032">
+                  <title level="a">Eine Rettung</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="104" to="108"/>
+                  <idno type="fn">WR-01-01-03_n0104.xml</idno>
+                  <author ref="#wr-person-0020">Elbogen, Friedrich</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>EINE RETTUNG.<lb/>
+Aus meinen Erinnerungen. Von Dr. <rs type="person" key="">Friedrich Elbogen</rs> (Wien).</title>
+            </ab>
+            <p>An keine Periode meiner Vergangenheit denke ich so<lb/>
+gern als an die Zeit, da man mich noch den Socialisten-<lb break="no"/>
+vertheidiger nannte. Es war der Frühling meines Lebens,<lb/>
+meine Heroenzeit. Es war wie am Vorabende einer Revo-<lb break="no"/>
+lution. Nach Jahren tiefsten Friedens, nur selten unterbrochen<lb/>
+von wenig beachteten Declamationen vereinsamter Agitatoren,<lb/>
+war über Nacht eine mächtige, stürmische, täglich wachsende<lb/>
+Arbeiterbewegung entstanden. Sie hatte nichts von der klug<lb/>
+abwägenden Diplomatie der heutigen Arbeiterführer, nichts<lb/>
+von der schlauen Behutsamkeit, die mit parlamentslüsternen<lb/>
+Phrasen den scharfen Stachel des revolutionären Geistes ab-<lb break="no"/>
+tödtet. Es war eine wilde, jugendlich kühne, überschäumende,<lb/>
+fast krampfhafte Eruption, die, gleich einem Frühlingsgewitter,<lb/>
+unter Blitz und Donner sich entlud, hässlich oft im Einzelnen,<lb/>
+im Ganzen aber eine grandiose, ergreifende, unvergessliche<lb/>
+Offenbarung des Volksgeistes. Die Geschichte jener Zeit wird<lb/>
+eine merkwürdige Thatsache verzeichnen müssen: dass näm-<lb break="no"/>
+lich jene Bewegung wie von selbst, plötzlich, elementar, aus<lb/>
+tiefsten Quellen hervorbrach. Kein Agitator hatte da vor-<lb break="no"/>
+gearbeitet; ein paar hundert eingeschmuggelte Exemplare<lb/>
+der Most’schen »Freiheit«, verstohlen von Hand zu Hand ge-<lb break="no"/>
+schoben, das war Alles, was von aussen her geleistet wurde.</p>
+            <p>In den Reihen der Besitzenden war unbeschreibliche<lb/>
+Verwirrung an der Tagesordnung. Der allgemeine Schrecken<lb/>
+scheint sich auch den »massgebenden« Kreisen mitgetheilt<lb/>
+zu haben; denn nie wurden verkehrtere und sinnlosere Mittel<lb/>
+gegen eine Volksbewegung in Anwendung gebracht als<lb/>
+damals. Das kräftigste Argument, mit welchem man den<lb/>
+neuen Geist zu widerlegen unternahm, war natürlich das<lb/>
+Strafgesetz in seinen schwerpfündigsten Paragraphen. Es<lb/>
+schien, man wolle um jeden Preis Märtyrer haben. Und der<lb/>
+Versuch wäre gelungen, wenn nicht fast allenthalben die Ge-</p>
+         </div>
+      </body>
+   </text>
+</TEI>

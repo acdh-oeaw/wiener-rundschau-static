@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-12_n0467.xml" prev="WR-02-01-12_n0466.xml" next="WR-02-01-12_n0468.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 12, S. 467</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="12"/>
+                        <biblScope unit="page" n="n0467"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-05-01">1 5 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0416">
+                  <title level="a">Finken Helm </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 12</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="463" to="467"/>
+                  <idno type="fn">WR-02-01-12_n0463.xml</idno>
+                  <author ref="#wr-person-0153">Johnsen, Rosenkrantz</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">FINKEN HELM.</fw>
+               <fw type="pn">467</fw>
+            </fw>
+            <p rend="no-intend">rechten Hand hielt, während sie ab und zu mit der linken den Onkeln<lb/>
+und Tanten flott Handküsse zuwarf.</p>
+            <p>Die Wärme begann ihr lästig zu werden, woher sie mit raschem<lb/>
+Griff ihren Halskragen abriss und ihn der Tante Peter an den Kopf<lb/>
+warf — und sie tanzte weiter.</p>
+            <p>Tom, der auf einem Fauteuil im Halbschlummer geruht hatte,<lb/>
+stand plötzlich in der Thüröffnung, gerade so überrascht und erschreckt,<lb/>
+wie die Andern.</p>
+            <p>Er wagte sich einige Schritte vor, um sie zur Vernunft zu bringen.<lb/>
+Dass ihr das Niemand gleich im ersten Augenblick verboten hatte.</p>
+            <p>»Aber, Finken,« begann er, »Finken, was in aller Welt —<lb/>
+bedenke doch — es ist ja Charfreitag.«</p>
+            <p>In demselben Augenblick erhielt er einen Schlag mit dem Fächer,<lb/>
+und sie warf die Beine so hoch empor, dass die Gesellschaft einen<lb/>
+Wirbel von weissen Röcken mit einigen bunten Streifen dazwischen<lb/>
+sah und die Herren einen kurzen, für sie erinnerungswürdigen Schimmer<lb/>
+ihrer runden Waden zu sehen bekamen, die mit schwarzen gelb-<lb break="no"/>
+gestickten Seidenstrümpfen bekleidet waren.</p>
+            <p>Noch einmal flogen die Beine empor, einige donnernde Sätze<lb/>
+vom Flügel her, und die Tarantella war zu Ende <milestone unit="3dots"/>
+            </p>
+            <p>»Aber du himmlischer Vater« — »Du Allmächtiger!« — »Bist<lb/>
+du denn ganz von Sinnen!« — »An einem heiligen Charfreitag!« <milestone unit="3dots"/>
+               <lb/>
+und ähnliche Ausrufe kamen von der ganzen Gesellschaft.</p>
+            <p>Finken stand einen Augenblick keuchend und stöhnend da und<lb/>
+sah sie an, indem sie vom Gesicht und Hals den Schweiss abwischte.</p>
+            <p>Tom näherte sich ihr, als wenn er etwas sagen wollte.</p>
+            <p>»Idioten!« flüsterte sie, drehte sich herum und sah Jeden<lb/>
+einzeln an.</p>
+            <p>Dann warf sie sich auf ein Sopha nieder und weinte laut und<lb/>
+schluchzend, während die verwirrte Familie rathlos dastand und zusah.</p>
+            <milestone unit="hr"/>
+            <lb/>
+            <p>Eine Weile später fuhr Finken nach Hause und schluchzte mit<lb/>
+kurzen Unterbrechungen wie ein kleines Kind.</p>
+            <p>Tom begann zu begreifen <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

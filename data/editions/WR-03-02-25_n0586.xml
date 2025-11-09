@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-25_n0586.xml" prev="WR-03-02-25_n0585.xml" next="WR-03-02-25_n0587.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 25, S. 586</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="25"/>
+                        <biblScope unit="page" n="n0586"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0762">
+                  <title level="a">Lobgesang</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 25</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="25">25</biblScope>
+                  <biblScope unit="page" from="586" to="587"/>
+                  <idno type="fn">WR-03-02-25_n0586.xml</idno>
+                  <author ref="#wr-person-0246">Wickström, Victor Hugo</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>
+                  <hi rend="strong">LOBGESANG</hi>
+                  <milestone unit="hr"/>
+                  <lb/>
+VON <rs type="person" key="">
+                     <hi rend="strong">VICTOR HUGO WICKSTRÖM</hi>
+                  </rs>
+                  <lb/>
+ÖSTERSUND, SCHWEDEN <milestone unit="hr"/>
+               </title>
+            </ab>
+            <lg>
+               <l>O Gott, in Demuth beug’ ich mich nieder. Höre mich, wenn ich mit stammelnder</l>
+               <l>Stimme Dir Huldigung schenke ehrlichen Sinn’s.</l>
+            </lg>
+            <lg>
+               <l>O, welcher Undank umflort die Gedanken. Bitter brausen von Menschenlippen</l>
+               <l>Klagen und Stöhnen gegen Deine lenkende Stärke, und schwere Thränen ziehen</l>
+               <l>furchende Spuren auf Wangen, verzehrt von getäuschter Sehnsucht.</l>
+            </lg>
+            <lg>
+               <l>Wir sagen: Die Welt ist voll jagenden Jammers, um Hoch und Niedrig schlägt</l>
+               <l>Sorge den Schleier, und Seelen brechen, und Herzen brechen, Gewalt und Wehe wallen</l>
+               <l>in Strömen über die mächtigen Weiten der Welt.</l>
+            </lg>
+            <lg>
+               <l>Wie sind wir doch zehnfach undankbar — —</l>
+            </lg>
+            <lg>
+               <l>Wir, Deine Kinder, getragen an Deinem brennenden Herzen, seh’n in verdun=</l>
+               <l>keltem Lichte das Werk Deiner Grösse; wir erkennen kaum, was am schönsten</l>
+               <l>schimmert, wir hören dumpf, was in Accorden zittert, wir gewahren schlecht, was im</l>
+               <l>Wohlgeruche weht, wir schmecken schwach, was in Starkheit strömt — alles Gute</l>
+               <l>vergessen wir thöricht und seufzen: „Trauer ist aller Seligkeit Ende“.</l>
+            </lg>
+            <lg>
+               <l>Und doch, Du Einziger, Du ewige Hut, Du Tiefe von Licht, Du Quelle von Liebe,</l>
+               <l>Du giessest beständig ein Meer von Gaben über blinde Kinder, die wehmüthig wandern.</l>
+            </lg>
+            <lg>
+               <l>Gabst Du uns nicht die Schönheit der Erde, strahlende Sonnen und schimmernde</l>
+               <l>Sterne, blauenden Himmel und blinkendes Meer, fruchtbare Felder und fliessende</l>
+               <l>Fluten, prunkende Palmen und biegsame Birken, bunte Blumen, das Grün aller Blätter?</l>
+            </lg>
+            <lg>
+               <l>O, aus der Tiefe, in jubelnder Freude müsstet Ihr danken dem Herrn, der da</l>
+               <l>kündet in tausend Wundern die Majestät.</l>
+            </lg>
+            <lg>
+               <l>Gabst Du uns nicht des Herdes Feuer, den nährenden Vater, die treuende</l>
+               <l>Mutter, die weibliche Schwester, den kräftigen Bruder, geeint durch die Wellen des Bluts?</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

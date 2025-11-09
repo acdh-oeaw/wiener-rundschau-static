@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-08_n0316.xml" prev="WR-01-01-08_n0315.xml" next="WR-01-01-08_n0317.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 8, S. 316</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="08"/>
+                        <biblScope unit="page" n="n0316"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-03-01">1 3 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0097">
+                  <title level="a">Chronik</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 8</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="315" to="316"/>
+                  <idno type="fn">WR-01-01-08_n0315.xml</idno>
+                  <author ref="#wr-person-0008">Kraus, Karl</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">316</fw>
+               <fw type="ctext">KRAUS.</fw>
+            </fw>
+            <p rend="no-intend">gibt der festen Zuversicht Ausdruck, dass nunmehr »dem Treiben ge-<lb break="no"/>
+winnsüchtiger Apotheker und Aerzte Einhalt gethan werde, nachdem<lb/>
+dieses kostbare Leben durch sie vernichtet wurde« <milestone unit="5dots"/>
+            </p>
+            <p>Die Lage im Orient gestaltet sich namentlich für die Choristinnen des<lb/>
+Theaters a. d. Wien immer bedrohlicher. Erst kürzlich, anlässlich einer<lb/>
+theatralischen Enquête, ist es an den Tag gekommen, dass in dem<lb/>
+Contracte, welchen eine Choristin mit der Direction des Theaters<lb/>
+a. d. Wien eingeht, diese es sich ausdrücklich vorbehält, das weibliche<lb/>
+Chorpersonale »in unvorhergesehenen Fällen, z. B. bei Ausbruch eines<lb/>
+Krieges oder einer Revolution«, spontan entlassen zu dürfen und so für<lb/>
+die Angelegenheiten der kleinsten Theaterleute die Weltgeschichte zu<lb/>
+strapaziren. Kein Wunder, wenn jetzt die Choristinnen des Theaters<lb/>
+a. d. Wien mit unverhohlener Angst nach Kreta blicken.</p>
+            <p>Die Kriegsfurcht allein verbindet die Chordamen und die männ-<lb break="no"/>
+liche Jugend des Landes, welche ihrerseits im Falle einer plötzlichen<lb/>
+Mobilisirung auf den Mittagscorso am Graben für einige Zeit verzichten<lb/>
+müsste. Beunruhigende Gerüchte durchschwirrten die Stadt, schon<lb/>
+rüsteten unsere Officiere zu einem humoristischen Vortragsabend im<lb/>
+Adelscasino, und thatsächlich war auch bereits Frau Baronin <hi rend="text-spaced">Suttner</hi>
+               <lb/>
+aus Schloss Harmannsdorf in Wien eingetroffen, um in lustiger Ge-<lb break="no"/>
+sellschaft im Hôtel Continental zu soupiren.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

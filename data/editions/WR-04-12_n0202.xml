@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-12_n0202.xml" prev="WR-04-12_n0201.xml" next="WR-04-12_n0203.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 12, S. 202</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="12"/>
+                        <biblScope unit="page" n="n0202"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0895">
+                  <title level="a">Zwei Zeichnungen</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="189" to="212"/>
+                  <idno type="fn">WR-04-12_n0189.xml</idno>
+                  <author ref="#wr-person-0295">Beardsley, Aubrey</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0896">
+                  <title level="a">Salome</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="189" to="212"/>
+                  <idno type="fn">WR-04-12_n0189.xml</idno>
+                  <author ref="#wr-person-0068">Wilde, Oscar</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">WILDE: SALOME.</fw>
+            </fw>
+            <p rend="no-intend">heilte er zwei Aussätzige, die vor dem Thore von Capernaum saßen, durch einfaches<lb/>
+Berühren.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ZWEITER NAZARENER: Nein, zwei Blinde heilte er in Capernaum.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER NAZARENER: Nein, es waren Aussätzige. Aber er hat auch Blinde<lb/>
+geheilt, und man hat ihn auf einem Berge im Gespräch mit Engeln gesehen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>EIN SADDUCÄER: Es gibt keine Engel.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>EIN PHARISÄER: Es gibt Engel, aber ich glaube nicht, dass der Mann mit<lb/>
+ihnen gesprochen hat.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER NAZARENER: Eine große Menge Volkes hat ihn gesehen, wie er<lb/>
+mit Engeln sprach.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Wie diese Menschen mich langweilen! Sie sind lächerlich! Sie<lb/>
+sind alle miteinander lächerlich! (Zu dem Pagen): Nun! mein Fächer? (Der Page gibt<lb/>
+ihr den Fächer.) Du blickst drein wie ein Träumer. Du sollst nicht träumen. Bloß<lb/>
+kranke Menschen träumen. (Sie schlägt den Pagen mit ihrem Fächer.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ZWEITER NAZARENER: Dann ist ferner das Wunder der Tochter des Jairus.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER NAZARENER: Jawohl, das ist gewiss. Niemand kann es bestreiten.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Diese Menschen sind verrückt. Sie haben zu lang in den Mond<lb/>
+gesehen. Befiehl ihnen, dass sie schweigen!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Was ist das für ein Wunder mit der Tochter des Jairus?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER NAZARENER: Die Tochter des Jairus war todt. Der Mann erweckte<lb/>
+sie von den Todten.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Wie! Er erweckt die Menschen vom Tode?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER NAZARENER: Jawohl, Herr, er erweckt die Todten.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Ich will nicht, dass er das thue. Ich verbiete ihm, das zu thun.<lb/>
+Ich erlaube niemandem, die Todten zu erwecken. Der Mann muss gefunden werden,<lb/>
+und man soll ihm sagen, dass ich ihm verbiete, die Todten zu erwecken. Wo ist<lb/>
+der Mann zur Zeit?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ZWEITER NAZARENER: Herr, er ist überall, aber es ist schwer, ihn zu finden.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER NAZARENER: Es heißt, er sei jetzt in Samaria.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>EIN JUDE: Man kann leicht sehen, dass das nicht der Messias ist, wenn er<lb/>
+in Samaria ist. Nicht zu den Leuten von Samaria soll der Messias kommen. Die von<lb/>
+Samaria sind verflucht. Sie bringen keine Opfer zum Tempel.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ZWEITER NAZARENER: Vor ein paar Tagen verließ er Samaria. Ich glaube,<lb/>
+im Augenblicke ist er in der Nähe von Jerusalem.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER NAZARENER: Nein, dort ist er nicht. Ich bin erst aus Jerusalem<lb/>
+gekommen. In zwei Monaten haben sie keine Nachricht von ihm gehabt.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Thut nichts! Er soll gefunden werden, und man soll ihm sagen,<lb/>
+so spricht Herodes, der König: »Ich will nicht dulden, dass du die Todten erweckest.«<lb/>
+Wasser in Wein verwandeln, Aussätzige und Blinde heilen <milestone unit="3dots"/> derlei Dinge mag<lb/>
+er thun, wenn er will. Ich sage nichts gegen diese Dinge. In Wahrheit, ich halte<lb/>
+es für eine gute That, einen Aussätzigen zu heilen. Aber niemand soll die Todten<lb/>
+erwecken <milestone unit="3dots"/> Es müsste schrecklich sein, wenn die Todten wiederkämen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DIE STIMME DES JOCHANAAN: O über dies geile Weib! Diese Hure!<lb/>
+Ha! die Tochter Babylons mit ihren Goldaugen und ihren gleißenden Lidern! So<lb/>
+sagt der Herr, unser Gott: Eine Menge Menschen wird sich gegen sie sammeln,<lb/>
+und sie werden Steine nehmen und sie steinigen <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Befiehl ihm, er soll schweigen!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DIE STIMME DES JOCHANAAN: Die Kriegshauptleute werden sie mit ihren<lb/>
+Schwertern durchbohren, sie werden sie unter ihren Schilden zermalmen.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

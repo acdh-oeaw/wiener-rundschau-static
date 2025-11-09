@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-04_n0084.xml" prev="WR-03-01-04_n0083.xml" next="WR-03-01-04_n0085.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 4, S. 84</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="04"/>
+                        <biblScope unit="page" n="n0084"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0563">
+                  <title level="a">Die Schlüssel des Himmelreichs. (Commentar. Dritter und Fünfter Act)</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 4</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="81" to="87"/>
+                  <idno type="fn">WR-03-01-04_n0081.xml</idno>
+                  <author ref="#wr-person-0175">Strindberg, August</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">STRINDBERG: DIE SCHLÜSSEL DES HIMMELREICHS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Kind</hi>.</p>
+                     <lg>
+                        <l>Grossvater, komm, bevor das Dunkel fällt,</l>
+                        <l>Sobald die Sonne sinkt, wird mir so bang.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Pastor</hi>.</p>
+                     <lg>
+                        <l>Recht gern! Und lasst uns nun zur Kirche</l>
+                        <l>gehn.</l>
+                        <l>Hab’ in der Sakristei noch manches zu</l>
+                        <l>besorgen,</l>
+                        <l>Für morgen, für den Gottesdienst! So</l>
+                        <l>kommt!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>(Der Pastor und seine Gattin rechts ab.)</p>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Schwiegertochter</hi> (zum Sohn).</p>
+                     <lg>
+                        <l>Wie schön ist Eintracht bei Verwandten!</l>
+                        <l>Nie sah ich solch Familienband der Liebe;</l>
+                        <l>Gesegnet preis’ den Tag ich, da hierher</l>
+                        <l>ich kam,</l>
+                        <l>Und eingefügt durch Dich in diese Kette</l>
+                        <l>ward!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Sohn</hi>.</p>
+                     <lg>
+                        <l>Die erste Frau, die nicht die Kette drückt!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Schwiegertochter</hi>.</p>
+                     <lg>
+                        <l>Du Schelm Du! Gib mir einen Kuss, im</l>
+                        <l>Ernst!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>(Sie gehen.)</p>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Bräutigam</hi>.</p>
+                     <lg>
+                        <l>Mein Jugendglaube nicht zu Schanden</l>
+                        <l>ward:</l>
+                        <l>Das Glück wohnt nicht im hohen</l>
+                        <l>Marmorsaale.</l>
+                        <l>Ich streb’ nach Lammes-, nicht nach</l>
+                        <l>Wolfesart</l>
+                        <l>Und such’ die Unschuld in dem stillen</l>
+                        <l>Thale.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>(Die Eule schreit.)</p>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Braut</hi>.</p>
+                     <lg>
+                        <l>O, die abscheuliche Eule.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>(Sie gehen.)</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                     <p>Ungeliebt auch von diesen Guten,<lb/>
+Glücklichen, denen er höchstens Grauen<lb/>
+einflösst, selbst dem Don Quixote, so sehr<lb/>
+die alte Überschwänglichkeit sich wieder<lb/>
+in ihm regt, zu gross, um den Strauss<lb/>
+mit ihm zu wagen, von der wieder-<lb break="no"/>
+auftauchenden Liebhaberin verschmäht,<lb/>
+weil er zu stolz in seiner Grösse ist, ihre<lb/>
+Gunst erbetteln zu wollen, ergrimmt der<lb/>
+so gewaltigem Hass und Groll,<lb/>
+dass er seine Macht missbrauchend, die<lb/>
+gründenden Haiden und Kirche und Pfarrhof<lb/>
+verschüttet. Einsam sitzt er auf den<lb/>
+Trümmern, unter denen die Liebhaberin</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">begraben wird und schmachtet nach<lb/>
+Befreiung aus dem Bann der Grösse.</p>
+                     <p>Liest man diesen, interessanten dritten<lb/>
+Act mit Aufmerksamkeit, so fühlt man<lb/>
+sich von den mancherlei <hi rend="text-spaced">Analogien mit<lb/>
+Hauptmanns</hi> »<hi rend="text-spaced">Versunkener Glocke</hi>,«<lb/>
+die überhaupt unter nordischem Zeichen zu<lb/>
+stehen scheint, betroffen. Mahnt das<lb/>
+Rautendelein mächtig an die Hilde des<lb/>
+Baumeisters Solness, sie beide die Egerien<lb/>
+ihrer Helden, die sie zum Cult der Freude<lb/>
+wecken und begeistern, zur Höhe auf-<lb break="no"/>
+zusteigen, so findet sich wiederum in<lb/>
+Strindbergs Dichtung und jener Haupt-<lb break="no"/>
+manns die gleiche Gegeneinanderstellung<lb/>
+des Glücks der Kleinen im grünen Thal,<lb/>
+»die Freude finden auch am Einfachsten,«<lb/>
+und den Leiden des verkannten, verfolgten,<lb/>
+einsam auf den Höhen thronenden Genius.<lb/>
+Hier, wie dort Zwerge, ja gleichartige<lb/>
+Nebenzüge, wie das Bimmeln der Glocken<lb/>
+im Thale, dessen der Glockengiesser wie<lb/>
+der Hoberg-Alte geringschätzig gedenkt.<lb/>
+Hier wie dort ein Pastor, als Vertreter<lb/>
+und Wortführer derer, die »von Lammes-<lb break="no"/>
+nicht von Wolfesart«. Doch auch schon<lb/>
+gleich im ersten Acte prallt man an ein-<lb break="no"/>
+zelne verwandte Vorstellungen und Er-<lb break="no"/>
+scheinungen an. <hi rend="text-spaced">Sollte der deutsche<lb/>
+Dichter das so viel ältere Drama<lb/>
+des Schweden</hi>, <hi rend="text-spaced">ob es auch nur im<lb/>
+Bühnenverlage erschienen war</hi>, <hi rend="text-spaced">ge-<lb/>
+kannt haben und davon beeinflusst<lb/>
+worden sein</hi>?</p>
+                     <p>»Aus dieser Welt der Mängel und<lb/>
+Gebrechen« wird unser Schmied von<lb/>
+seinem weisen Führer nun in das Land<lb/>
+versetzt:</p>
+                     <milestone unit="performance-start"/>
+                     <milestone unit="speech-start"/>
+                     <lg>
+                        <l>»Wo Milch nur fliesst und Honig in den</l>
+                        <l>Bächen,</l>
+                        <l>Es an gebrat’nen Finken niemals darf</l>
+                        <l>gebrechen,</l>
+                        <l>Wo Dir kein Tag durch Mühen wird zu</l>
+                        <l>lang,</l>
+                        <l>Das Leben flieht im Tanz und Sang,</l>
+                        <l>Das als Schlaraffenland bekannt.«</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                     <p>Doch ach, wie wenig entspricht auch<lb/>
+hier die Wirklichkeit dem Traum! Eine<lb/>
+träge, verschlafene Nation dort, voller<lb/>
+Wunden vom Aufliegen an ewigen<lb/>
+Magenkatarrhen laborierend. Dabei in<lb/>
+den wenigen wachen Augenblicken so<lb/>
+wilder Unfriede, Arbeiterfrage, künstlich<lb/>
+erzeugte allgemeine Unzufriedenheit »mit</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

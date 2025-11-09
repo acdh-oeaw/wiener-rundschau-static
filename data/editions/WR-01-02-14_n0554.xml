@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-14_n0554.xml" prev="WR-01-02-14_n0553.xml" next="WR-01-02-14_n0555.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 14, S. 554</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="14"/>
+                        <biblScope unit="page" n="n0554"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-06-01">1 6 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0182">
+                  <title level="a">Die magische Vertiefung der modernen Naturwissenschaft</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 14</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="14">14</biblScope>
+                  <biblScope unit="page" from="549" to="554"/>
+                  <idno type="fn">WR-01-02-14_n0549.xml</idno>
+                  <author ref="#wr-person-0077">Du Prel, Dr. Carl</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">554</fw>
+               <fw type="ctext">DU PREL.</fw>
+            </fw>
+            <p rend="no-intend">kann, so können auch diese wohl nur als Odvesikal angesehen werden.<lb/>
+So hat Charpignon einen für Magnetismus empfänglichen jungen Mann<lb/>
+in wenigen Minuten durch die elektrische Maschine in Schlaf gebracht;<lb/>
+er sagt, dass man durch die Voltasäule dasselbe erreichen kann, und<lb/>
+dass Ducros <date>1847</date> an die Pariser Akademie mittheilte, er habe zuerst<lb/>
+Thiere, dann ein junges Mädchen durch Elektricität anästhetisch ge-<lb break="no"/>
+macht, so dass ihr ein Backenzahn entfernt werden konnte.1) Allen<lb/>
+diesen Proceduren unter sich muss also etwas Gemeinschaftliches zu-<lb break="no"/>
+kommen, das wiederum in den Manipulationen des Magnetismus zu<lb/>
+finden ist. Der Somnambulismus, wie immer er erzeugt wird, ist eine<lb/>
+durch odische Einwirkungen und odische Veränderungen im Menschen<lb/>
+herbeigeführte Erscheinung. Da er sich ferner zunächst verbunden zeigt<lb/>
+mit einer Einbusse an Lebenskraft, so dass Anästhesie und der Ver-<lb break="no"/>
+lust des Bewusstseins eintritt, während zugleich — wie Rochas ge-<lb break="no"/>
+zeigt hat — odische Schichten aus dem Körper des Somnambulen<lb/>
+heraustreten und <hi rend="text-spaced">seine Empfindungsfähigkeit in diese<lb/>
+exterriorisirten Odschichten verlegt ist</hi>, so müssen wir<lb/>
+daraus schliessen, dass das Od der Träger der Lebenskraft und des<lb/>
+Bewusstseins ist, dass es also in der That die innerste Essenz des<lb/>
+Menschen entweder selbst oder doch auf das Innigste damit ver-<lb break="no"/>
+bunden ist. Das Innere des Menschen kann also ohne Vermittlung der<lb/>
+körperlichen Organe in Beziehung treten zu dem Innern der Natur-<lb break="no"/>
+dinge und anderer Menschen, ohne selbst durch die Entfernung ge-<lb break="no"/>
+hemmt zu sein, und das eben ist es, was wir Magie nennen.</p>
+            <p>Der Hauptgrund, warum die Wissenschaft von Mesmer und Reichen-<lb break="no"/>
+bach so wenig Notiz genommen hat, ist wohl der, dass der animalische<lb/>
+Magnetismus von jeher eine schwankende Stellung zwischen Physik<lb/>
+und Physiologie eingenommen hat, an keine von beiden recht ange-<lb break="no"/>
+knüpft werden konnte, daher von beiden Seiten vernachlässigt wurde.<lb/>
+Es war nachtheilig, dass die medicinische Anwendung des Magnetismus<lb/>
+seiner physikalischen Erforschung vorausging, die erst mit Reichenbach<lb/>
+ernstlich begann.</p>
+            <milestone unit="hr"/>
+            <note type="footnote">
+               <p>1) Charpignon: Etudes physiques sur le magnétisme animal. 27.</p>
+            </note>
+            <p>(Schluss folgt)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

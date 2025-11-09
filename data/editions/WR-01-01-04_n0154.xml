@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-04_n0154.xml" prev="WR-01-01-04_n0153.xml" next="WR-01-01-04_n0155.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 4, S. 154</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="04"/>
+                        <biblScope unit="page" n="n0154"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-01-01">1 1 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0044">
+                  <title level="a">Die demolirte Literatur</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 4</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="153" to="157"/>
+                  <idno type="fn">WR-01-01-04_n0153.xml</idno>
+                  <author ref="#wr-person-0008">Kraus, Karl</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">154</fw>
+               <fw type="ctext">KRAUS.</fw>
+            </fw>
+            <p rend="no-intend">kein Künstler, nur ein schlichter Librettist, der hier den<lb/>
+Andern mit gutem Beispiel vorangeht. Abgehetzt, von den<lb/>
+Aufregungen der Theaterproben durch und durch geschüttelt,<lb/>
+nimmt er geschäftig Platz: Kellner, rasch alle Witzblätter!<lb/>
+Ich bin nicht zu meinem Vergnügen da! — Während seine<lb/>
+moderneren Tischgenossen in das geistige Leben Wandel zu<lb/>
+bringen bemüht sind, sehen wir ihn dem Handel Eingang<lb/>
+in die Literatur verschaffen. Seine Beziehungen zur Bühne<lb/>
+sind die eines productiven Theateragenten, und er entwickelt<lb/>
+eine fabelhafte Fruchtbarkeit, die sich auf die meisten Bühnen<lb/>
+Wiens erstreckt. Nach jeder einzelnen seiner Operetten<lb/>
+glaubt man, jetzt endlich müsse sich seine Kraft ausgegeben<lb/>
+haben. Doch ein Antäus der Unbegabung, empfängt er aus<lb/>
+seinen Misserfolgen immer neue Säfte. Er erscheint fast<lb/>
+nie allein auf dem Theaterzettel, und pikant müsste es sein,<lb/>
+die beiden Compagnons an der Arbeit zu sehen. Hier ergänzen<lb/>
+sich die Individualitäten wohl so am passendsten, dass, was<lb/>
+dem Einen an Humor fehlt, der Andere durch Mangel an<lb/>
+Erfindung wettmacht. Der Andere ist talentlos aus Passion,<lb/>
+der Eine muss davon leben. Doch scheint solch ein Ge-<lb break="no"/>
+schäft seinen Mann zu nähren. Heute gehört ihm eine<lb/>
+Villa, am Attersee herrlich gelegen, — mit Aussicht auf den<lb/>
+Waldberg.</p>
+            <p>An diesen Kreis von jungen Männern, die nicht schrei-<lb break="no"/>
+ben können, sich aber immer nur auf den einen Beruf<lb/>
+capriciren, schliesst Einer sich an, der durch Vielseitigkeit<lb/>
+wohlthuende Abwechslung bietet: Er kann auch nicht<lb/>
+malen. Erst in gereifteren Jahren ging er daran, seiner<lb/>
+Unbegabung auch schriftstellerischen Ausdruck zu geben,<lb/>
+nicht ohne sich vorher eine feste Grundlage umfassender<lb/>
+Bildungslosigkeit geschaffen zu haben, und lange bevor<lb/>
+er durch seine eigenartigen Beziehungen zu der deutschen<lb/>
+Grammatik von sich reden machte, konnte er auf zahl-<lb break="no"/>
+reiche Misserfolge als bildender Künstler hinweisen. An<lb/>
+ihm zerschellt jenes bekannte Witzwort, das noch Alle, die<lb/>
+zwei Beschäftigungen in einer Hand vereinigen wollten,<lb/>
+glücklich getroffen hat: die Schriftsteller wissen nämlich<lb/>
+schon, dass er <hi rend="text-spaced">kein</hi> guter Maler, und die Maler täuschen<lb/>
+sich nicht mehr darüber, dass er <hi rend="text-spaced">kein</hi> guter Schriftsteller</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-15_n0257.xml" prev="WR-04-14_n0256.xml" next="WR-04-15_n0258.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 15, S. 257</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="15"/>
+                        <biblScope unit="page" n="n0257"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0920">
+                  <title level="a">Das Mysterium der Gerechtigkeit (Fortsetzung und Schluss)</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 15</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="15">15</biblScope>
+                  <biblScope unit="page" from="257" to="261"/>
+                  <idno type="fn">WR-04-15_n0257.xml</idno>
+                  <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DAS MYSTERIUM DER GERECHTIGKEIT.<lb/>
+Von <rs type="person" key="">MAURICE MAETERLINCK</rs> (Paris).*</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <figure type="image"/>
+                     <p>Maurice Maeterlinck</p>
+                     <p>Zeichnung von <rs type="person" key="">Felix Vallotton</rs>
+                     </p>
+                     <p>Paris.</p>
+                  </cell>
+                  <cell>
+                     <ab>
+                        <title>V.</title>
+                     </ab>
+                     <p>Ist der Glaube an die Ge-<lb break="no"/>
+rechtigkeit der Dinge in uns,<lb/>
+der auch den Ungläubigsten<lb/>
+und am wenigsten mystisch<lb/>
+Veranlagten tief im Herzen<lb/>
+ruht, ein heilsamer? Ist dieser<lb/>
+Theil unserer Moral nicht wie<lb/>
+ein Insect auf einem stürzenden<lb/>
+Felsen, das während des Falles<lb/>
+sich einbildet, der Fels ver-<lb break="no"/>
+ändere nur deshalb seine Lage,<lb/>
+um es zu tragen? Gibt es Irr-<lb break="no"/>
+thümer, Illusionen und Lügen,<lb/>
+die man ermuthigen soll? Viel-<lb break="no"/>
+leicht hat es solche gegeben,<lb/>
+die einen Augenblick wohl-<lb break="no"/>
+thätig waren — aber als ihre<lb/>
+Wohlthätigkeit ein Ende hatte,<lb/>
+stand man dann nicht wieder<lb/>
+der Wahrheit gegenüber und<lb/>
+musste man ihr das Opfer, das<lb/>
+man aufgeschoben hatte, dann<lb/>
+nicht <hi rend="text-spaced">doch</hi> bringen? War es<lb/>
+nothwendig, zu warten, bis<lb/>
+uns die Illusion oder Lüge, die uns heil-<lb break="no"/>
+sam zu sein schien, verhängnisvoll zu<lb/>
+werden begann oder doch wenigstens die<lb/>
+nothwendige Übereinstimmung verzögerte<lb/>
+zwischen der wohlempfundenen Wirklich-<lb break="no"/>
+keit und der Art, sie zu deuten, zu<lb/>
+nutzen und anzuerkennen? Was waren doch<lb/>
+das Gottesgnadenthum, die Unfehlbarkeit<lb/>
+der Kirche und der Lohn im Jenseits<lb/>
+anderes, als Illusionen, die lange auf das<lb/>
+Opfer warteten? Was ist damit gewonnen,<lb/>
+dass man es nicht gleich brachte? Etwas<lb/>
+trügerischer Frieden, etliche oft verhäng-<lb break="no"/>
+nisvolle Tröstungen, einige unthätige Hoff-<lb break="no"/>
+nungen. Aber man hat viel Zeit verloren,<lb/>
+und die Menschheit will endlich die Wahr-<lb break="no"/>
+heit kennen und hat in diesem Suchen nach<lb/>
+Wahrheit einen Daseinsgrund entdeckt,</p>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Aus dem <hi rend="text-spaced">Manuscript</hi> übertragen von F. v. Oppeln-Bronikowski. Vgl. die Bemerkung<lb/>
+in der vorigen Nummer (S. 241).</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

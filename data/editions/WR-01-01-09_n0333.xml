@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-09_n0333.xml" prev="WR-01-01-09_n0332.xml" next="WR-01-01-09_n0334.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 9, S. 333</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="09"/>
+                        <biblScope unit="page" n="n0333"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-03-15">15 3 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0107">
+                  <title level="a">Marianne heiratet</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 9</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="09">9</biblScope>
+                  <biblScope unit="page" from="330" to="333"/>
+                  <idno type="fn">WR-01-01-09_n0330.xml</idno>
+                  <author ref="#wr-person-0046">Kobor, Thomas</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MARIANNE HEIRATET.</fw>
+               <fw type="pn">333</fw>
+            </fw>
+            <p rend="no-intend">gelangweilte Stimmung ist nicht aufrichtig. Hier, in der Tiefe meines<lb/>
+Herzens schreit noch etwas nach Deiner duftigen Zaubergestalt, ich<lb/>
+kann es noch immer nicht glauben, dass Du verschwunden, vernichtet<lb/>
+bist für ewig. Gott verhüte es, dass Du als Frau das verliebte, wunder-<lb break="no"/>
+reiche Geschöpf bleibst, das Du gewesen. Dein anmuthreiches Sein hast<lb/>
+Du mir gegeben, ich hab es mir errungen um den Preis meiner<lb/>
+leidenden Liebe, und Du besitzest nicht das Recht, auch das dem<lb/>
+Andern zu geben, wie Du Dich selbst dem Andern gegeben. Wenn Du<lb/>
+vielleicht als prangende blühende Rose zurückkehren solltest und ich<lb/>
+noch immer Deine vollendete Schöheit, Deine leichten duftigen Be-<lb break="no"/>
+wegungen in Dir finden würde, dann sei uns Gott gnädig, ich stehe<lb/>
+für nichts.</p>
+            <p>In meiner Seele brennt verzehrende Bitterkeit, und wenn sie viel-<lb break="no"/>
+leicht zu zähneknirschender Wuth sich wandelt, dann bricht meine<lb/>
+unterdrückte Leidenschaft in feurigen Flammen aus, die imstande<lb/>
+sind, Euer Haus zu verbrennen, und — Gott sei mein Zeuge — ich<lb/>
+wäre verrückt genug, mich mit Dir unter den Trümmern begraben zu<lb/>
+lassen!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

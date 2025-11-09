@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-01_n0003.xml" prev="WR-02-01-01_n0002.xml" next="WR-02-01-01_n0004.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 1, S. 3</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0003"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-11-15">15 11 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0301">
+                  <title level="a">Der Herbst </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="1" to="5"/>
+                  <idno type="fn">WR-02-01-01_n0001.xml</idno>
+                  <author ref="#wr-person-0049">Fuchs, Georg</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DER HERBST.</fw>
+               <fw type="pn">3</fw>
+            </fw>
+            <lg>
+               <l>Blind sind die Augen, die sonst herrisch lohten,</l>
+               <l>Nimmer kehren die glanzbeschuhten Boten,</l>
+               <l>Die auf Strahlenpfaden eilen,</l>
+               <l>In silbernen Gespinnsten schwingen,</l>
+               <l>Die blonden Knaben, die mit Demantpfeilen</l>
+               <l>Den bunten Schein der Welt uns bringen.</l>
+               <l>Ein Abend drang zu meinem Herzen,</l>
+               <l>Des Gottes Athem verlöschte die Kerzen;</l>
+               <l>Doch dir verlieh er vor den Menschen allen,</l>
+               <l>Am tiefsten und am weitesten zu sehn,</l>
+               <l>Du trachtest nicht aus deinem Kreis zu gehn</l>
+               <l>Und zu belauern das entrückte Wallen,</l>
+               <l>Dankbar singst du von den Auen,</l>
+               <l>Im Glanz der Fülle darfst nur du sie schauen.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>Der Sänger (spielt und singt):</p>
+            <lg>
+               <l>Töne tief, du meine Laute,</l>
+               <l>Quill uns rein am höchsten Ort</l>
+               <l>Träume, die ich dir vertraute,</l>
+               <l>Und gib Stärke meinem Wort,</l>
+               <l>Und gib Stärke meinen Händen,</l>
+               <l>Dass sie dich mit Jubel führen,</l>
+               <l>Brausend deine Gluthen schüren</l>
+               <l>Jede Fülle zu vollenden!</l>
+            </lg>
+            <lg>
+               <l>Jauchzend von den gelben Hängen</l>
+               <l>Steigt des Weinstocks blaue Wucht,</l>
+               <l>Hochgebahrt, mit Festgesängen</l>
+               <l>Ziehet ein die edle Zucht.</l>
+               <l>Die schütten die Körbe, die hüten den Spund,</l>
+               <l>Die treten im Rund,</l>
+               <l>Die Kelter mit ächzendem Pflock zu beschweren</l>
+               <l>Und stampfen im Kreisen die quellenden Beeren;</l>
+               <l>Auf springen die Bronnen:</l>
+               <l>Braun wie der Rost,</l>
+               <l>Schiesset der Most</l>
+               <l>Süss in die sausenden Tonnen.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-12_n0193.xml" prev="WR-04-12_n0192.xml" next="WR-04-12_n0194.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 12, S. 193</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="12"/>
+                        <biblScope unit="page" n="n0193"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0895">
+                  <title level="a">Zwei Zeichnungen</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="189" to="212"/>
+                  <idno type="fn">WR-04-12_n0189.xml</idno>
+                  <author ref="#wr-person-0295">Beardsley, Aubrey</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0896">
+                  <title level="a">Salome</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="189" to="212"/>
+                  <idno type="fn">WR-04-12_n0189.xml</idno>
+                  <author ref="#wr-person-0068">Wilde, Oscar</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">WILDE: SALOME.</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>DER CAPPADOCIER: Eine alte Cisterne? Das muss ein mörderischer Ort<lb/>
+zum Wohnen sein.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ZWEITER SOLDAT: O nein! Zum Beispiel, des Tetrarchen Bruder, sein<lb/>
+älterer Bruder, der erste Mann der Königin Herodias, war da zwölf Jahre gefangen.<lb/>
+Es hat ihn nicht umgebracht. Nach Verlauf der zwölf Jahre musste man ihn erdrosseln.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER CAPPADOCIER: Erdrosseln? Wer wagte das?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ZWEITER SOLDAT (deutet auf den Henker, einen riesigen Neger): Der Mann<lb/>
+dort, Naaman.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER CAPPADOCIER: Fürchtete er sich nicht?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ZWEITER SOLDAT: O nein! Der Tetrarch sandte ihm den Ring.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER CAPPADOCIER: Was für einen Ring?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ZWEITER SOLDAT: Den Todesring. Da fürchtete er sich nicht.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER CAPPADOCIER: Es ist aber doch etwas Schreckliches, einen König zu<lb/>
+erdrosseln.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER SOLDAT: Wieso? Könige haben auch nur einen Hals wie andere Leute.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER CAPPADOCIER: Ich finde es schrecklich.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER JUNGE SYRIER: Die Prinzessin erhebt sich! Sie verlässt die Tafel.<lb/>
+Sie ist sehr erregt. Sie kommt hierher. Ja, sie kommt auf uns zu. Wie blass sie<lb/>
+ist. Ich habe sie nie so blass gesehen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER PAGE DER HERODIAS: Sieh’ sie nicht an. Ich bitte dich, sieh’ sie<lb/>
+nicht an.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER JUNGE SYRIER: Sie ist wie eine Taube, die sich verirrt hat <milestone unit="3dots"/> Sie<lb/>
+ist wie eine Narcisse, die im Winde zittert <milestone unit="3dots"/> Sie ist wie eine silberne Blume.</p>
+            <milestone unit="untyped-end"/>
+            <p>(SALOME tritt ein.)</p>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Ich will nicht bleiben. Ich kann nicht bleiben. Warum sieht mich<lb/>
+der Tetrarch fortwährend so an mit seinen Maulwurfs-Augen unter den zuckenden<lb/>
+Lidern? Es ist seltsam, dass der Mann meiner Mutter mich so ansieht. Ich weiß<lb/>
+nicht, was es heißen soll. In Wahrheit — ich weiß es nur zu gut.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER JUNGE SYRIER: Ihr habt das Fest verlassen, Prinzessin?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Wie süß die Luft hier ist! Hier kann ich athmen. Da drinnen<lb/>
+sitzen Juden aus Jerusalem, die einander über ihre närrischen Gebräuche in Stücke<lb/>
+reißen, und Barbaren, die trinken und trinken und ihren Wein auf den Estrich schütten,<lb/>
+und Griechen aus Smyrna mit bemalten Augen und Backen, mit ihrem gekräuselten<lb/>
+Haar und ihren Säulenlocken, und schweigsame, listige Egypter mit langen Achat-<lb break="no"/>
+nägeln und rostbraunen Mänteln, und brutale ungeschlachte Römer mit ihrer plumpen<lb/>
+Sprache. O, wie ich diese Römer hasse! Sie sind grob und gemein und geben sich<lb/>
+das Ansehen, als ob sie Fürsten wären.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER JUNGE SYRIER: Wollt Ihr nicht sitzen, Prinzessin?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER PAGE DER HERODIAS: Warum sprichst du zu ihr? O, es wird<lb/>
+Schreckliches geschehen. Warum siehst du sie an?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Wie gut ist es, in den Mond zu sehen! Er ist wie eine silberne<lb/>
+Blume. Kühl und keusch. Wie eine Jungfrau. Ja, wie die Schönheit einer Jungfrau.<lb/>
+Gewiss, wie eine Jungfrau, die rein geblieben ist, die sich nie Männern preisgegeben<lb/>
+hat wie die anderen Göttinnen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DIE STIMME DES JOCHANAAN: Siehe! Der Herr ist gekommen. Des<lb/>
+Menschen Sohn ist nahe. Die Centauren haben sich in die Ströme geflüchtet und<lb/>
+die Nymphen haben die Ströme verlassen und liegen unter den Blättern des Waldes<lb/>
+begraben.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Wer war das, der hier gerufen hat?</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

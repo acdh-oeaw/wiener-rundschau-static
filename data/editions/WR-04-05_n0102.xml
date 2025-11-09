@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-05_n0102.xml" prev="WR-04-05_n0101.xml" next="WR-04-05_n0103.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 5, S. 102</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="05"/>
+                        <biblScope unit="page" n="n0102"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0821">
+                  <title level="a">Landschaft</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 5</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="101" to="124"/>
+                  <idno type="fn">WR-04-05_n0101.xml</idno>
+                  <author ref="#wr-person-0273">Wenban, Sion L.</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0822">
+                  <title level="a">Das Lied vom Falken</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 5</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="102" to="105"/>
+                  <idno type="fn">WR-04-05_n0102.xml</idno>
+                  <author ref="#wr-person-0274">Gorkij, Maxim</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DAS LIED VOM FALKEN.<lb/>
+Von <rs type="person" key="">MAXIM GORKIJ</rs> (Nižhnij-Novgorod).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Das Meer schlummerte.</p>
+                     <p>Endlos, schläfrig athmend lehnte es<lb/>
+sich an das Ufer — es war schon ein-<lb break="no"/>
+geschlafen und regungslos erstrahlte es<lb/>
+im bläulichen Mondenschein. Sammetweich<lb/>
+und schwarz floss es mit dem weiten<lb/>
+südlichen Himmel zusammen, in tiefen<lb/>
+Schlaf versunken. Auf seiner Oberfläche<lb/>
+spiegelte sich das durchsichtige Spinn-<lb break="no"/>
+gewebe der Federwolken, die, stille stehend,<lb/>
+die goldenen Blicke der Sterne nicht ver-<lb break="no"/>
+hüllten. Es schien, als neige sich der<lb/>
+Himmel mehr und mehr zum Meere, um<lb/>
+zu erlauschen, wovon die unermüdlichen<lb/>
+Wellen flüstern, die schläfrig an das Gestade<lb/>
+hin ansteigen.</p>
+                     <p>Die mit phantastisch gekrümmten Bäumen<lb/>
+bedeckten Berge hoben sich in starkem<lb/>
+Schwünge mit ihren Spitzen in die Höhe,<lb/>
+und ihre dürren, rauhen Umrisse — in<lb/>
+den sanften Nebel der südlichen Nacht<lb/>
+gehüllt — nahmen rundliche Formen an.</p>
+                     <p>Die Berge schwiegen in ernstem Nach-<lb break="no"/>
+denken. Schwarze Schatten erstreckten sich<lb/>
+von ihnen aus über die grünlichen Rücken<lb/>
+der Wogen und bedeckten sie, als wollten<lb/>
+sie diese einzige Bewegung hemmen oder<lb/>
+das ewige Rauschen des Wassers, die<lb/>
+Seufzer des Schaumes und alle Töne zum<lb/>
+Schweigen bringen, die ringsumher die<lb/>
+geheimnisvolle Stille im bläulichen Silber-<lb break="no"/>
+schein des hinter den Gipfeln ruhenden<lb/>
+Mondes zu stören schienen.</p>
+                     <p>»A—ala—ah—a—akbar! <milestone unit="3dots"/>« seufzte<lb/>
+still Nadyr-Ragim-Ogly, der alte Krim-<lb break="no"/>
+hirte, der stets übelgelaunte, hohe, er-<lb break="no"/>
+graute, von südlicher Sonnenglut ver-<lb break="no"/>
+brannte, magere und weise Alte.</p>
+                     <p>Ich lag mit ihm auf dem Sande neben<lb/>
+einem gewaltigen Felsen, der, vom Mutter-<lb break="no"/>
+berge losgelöst, nun in Schatten gehüllt,<lb/>
+mit Moos bewachsen, gar finster dalag.<lb/>
+An die dem Meere zugekehrte Fläche<lb/>
+haben die Fluten Schlamm und Seetang</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">angehäuft. Die Flamme unseres Feuers<lb/>
+beleuchtete ihn von der dem Berge zu-<lb break="no"/>
+gewendeten Seite; der Schein zitterte,<lb/>
+und über dem alten, tiefgefurchten Stein-<lb break="no"/>
+blocke huschten Schatten dahin. Er schien<lb/>
+uns denkend und fühlend <milestone unit="3dots"/>
+                     </p>
+                     <p>Wir beide, Ragim und ich, bereiteten<lb/>
+uns Suppe aus frischgefangenen Fischen;<lb/>
+wir befanden uns in einer seltenen Stimmung,<lb/>
+die — durchsichtig und durchgeistigt —<lb/>
+den Menschen zur Vertiefung in sich selbst<lb/>
+zwingt und keinen anderen Wunsch gibt,<lb/>
+als das Verlangen nach innerer Beschau-<lb break="no"/>
+lichkeit.</p>
+                     <p>Das Meer aber schmeichelte dem<lb/>
+Ufer, und die Fluten rauschten so melan-<lb break="no"/>
+cholisch weich, als ob sie die Erlaubnis<lb/>
+erbitten wollten, sich an unserem Feuer<lb/>
+ein bisschen zu wärmen.</p>
+                     <p>Hie und da hörte man aus der all-<lb break="no"/>
+gemeinen Harmonie des Geplätschers eine<lb/>
+höhere und muthwillig-tückische Note —<lb/>
+eine Welle war kühner an uns heran-<lb break="no"/>
+gestiegen. Ragim hatte die Wellen mit<lb/>
+Weibern verglichen, denn es schien ihm,<lb/>
+als begehrten sie, uns im langen Kuss zu<lb/>
+umfangen.</p>
+                     <p>Nach vorne im Sande hingestreckt, den<lb/>
+Kopf dem Meere zugewendet, lag er und<lb/>
+blickte, in Gedanken vertieft, in die trübe<lb/>
+Ferne, indem er, auf die Ellenbogen<lb/>
+gestützt, das Kinn in der flachen Hand<lb/>
+barg. Seine zottige Hammelmütze war<lb/>
+ihm in den Nacken hinabgesunken, und<lb/>
+vom Meere her wehte Frische in seine<lb/>
+hohe, faltenbedeckte Stirn. Er philo-<lb break="no"/>
+sophierte, ohne zu fragen, ob ich ihm<lb/>
+auch zuhöre. Er kümmerte sich nicht im<lb/>
+mindesten um mich, als spräche er nur<lb/>
+mit dem Meere.</p>
+                     <p>»Der rechtgläubige Mensch geht in<lb/>
+das Paradies ein. Wohin aber derjenige,<lb/>
+der da nicht dient Gott und dem Propheten?<lb/>
+Vielleicht ist er in diesem Schaume? Und</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

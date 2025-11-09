@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-24_n0935.xml" prev="WR-01-02-24_n0934.xml" next="WR-01-02-24_n0936.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 24, S. 935</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="24"/>
+                        <biblScope unit="page" n="n0935"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-11-01">1 11 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0296">
+                  <title level="a">Henry George</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 24</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="929" to="935"/>
+                  <idno type="fn">WR-01-02-24_n0929.xml</idno>
+                  <author ref="#wr-person-0115">Zenker, Ernst Victor</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">HENRY GEORGE. 935</fw>
+            <p rend="no-intend">ihre Erfolge erringen, gemahnt immer etwas an das weihrauchgeschwän-<lb break="no"/>
+gerte Clairobscure der Kirchen, und so wünschte sich denn auch<lb/>
+Henry George mehr ein stimmungsfähiges als ein intelligenteres Milieu.<lb/>
+»Der Fortschritt der Civilisation,» ruft er in einem seiner späteren<lb/>
+Werke, »Social Problems« betitelt aus, »der Fortschritt der Civilisation<lb/>
+fordert, dass den socialen Angelegenheiten immer mehr Verständniss<lb/>
+entgegengebracht werde, und zwar nicht bloss seitens einiger Weniger,<lb/>
+sondern seitens der Massen. Wir können nicht ohne Nachtheil die<lb/>
+Politik den Politikern, die Volkswirthschaft den Universitätsprofessoren<lb/>
+überlassen. Das Volk selbst muss denken, weil das Volk allein handeln<lb/>
+kann. Dieses Verständniss, welches wir für die socialen Probleme<lb/>
+fordern, ist aber keineswegs bloss eine Sache der Vernunft. Es muss<lb/>
+beseelt sein von religiösem Empfinden und erwärmt vom Mitgefühl<lb/>
+mit menschlichen Leiden. Es muss hinausragen über den Eigennutz,<lb/>
+sei es nun der Eigennutz einer Person oder der Masse, es muss Ge-<lb break="no"/>
+rechtigkeit suchen; denn auf dem Grunde eines jeden socialen Pro-<lb break="no"/>
+blems liegt ein sociales Unrecht.« So tritt Henry George gleich den<lb/>
+meisten Reformatoren mehr mit den Prätensionen eines Priesters als<lb/>
+mit denen eines Lehrers auf, und seine Bedeutung liegt weniger in<lb/>
+der Fruchtbarkeit als in der reinigenden Macht seiner Ideen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

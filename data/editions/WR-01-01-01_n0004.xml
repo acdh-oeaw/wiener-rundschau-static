@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-01_n0004.xml" prev="WR-01-01-01_n0003.xml" next="WR-01-01-01_n0005.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 1, S. 4</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0004"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-11-15">15 11 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0001">
+                  <title level="a">Alladine und Palomides</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="1" to="5"/>
+                  <idno type="fn">WR-01-01-01_n0001.xml</idno>
+                  <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">4</fw>
+               <fw type="ctext">MAETERLINCK.</fw>
+            </fw>
+            <p rend="no-intend">in den Händen ruhen <milestone unit="3dots"/> Und wenn durch Zufall alte An-<lb break="no"/>
+wandlungen kommen, nähere ich mich Astolaine, und dann<lb/>
+ist mir, als ob ich ein Fenster gegen die Morgenröthe<lb/>
+öffne <milestone unit="3dots"/> Sie hat eine Seele, die man rings um sie her sieht,<lb/>
+die einen in die Arme nimmt wie ein leidendes Kind und,<lb/>
+ohne etwas zu sagen, über Alles tröstet <milestone unit="3dots"/> Ich werde es<lb/>
+nie begreifen. — Ich weiss nicht, woran all das liegen mag;<lb/>
+doch unwillkürlich beugen sich meine Knie, wenn ich davon<lb/>
+spreche <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Ich will nach Hause.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Ablamore</hi> (bemerkt, dass Alladine und Palomides sich heimlich betrachten).</p>
+            <p>Dies ist die kleine Alladine, die aus dem Innern Arcadiens<lb/>
+hierher gekommen ist <milestone unit="3dots"/> Gebt euch doch die Hände <milestone unit="3dots"/>
+               <lb/>
+Ihr wundert Euch, Palomides? <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi>.</p>
+            <p>Mein Vater <milestone unit="3dots"/> (Palomidens Pferd macht einen Seitensprung, der<lb/>
+Alladinens Lamm erschreckt.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Ablamore</hi>.</p>
+            <p>Habt Acht <milestone unit="3dots"/> das Pferd hat Alladinens Lamm er-<lb break="no"/>
+schreckt <milestone unit="3dots"/> Es wird gleich entfliehen <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Nein, es entflieht niemals <milestone unit="3dots"/> Es ist überrascht worden,<lb/>
+aber es wird nicht entfliehen <milestone unit="3dots"/> Dieses Lamm hat mir<lb/>
+meine Pathin geschenkt <milestone unit="3dots"/> Es ist nicht wie die andern <milestone unit="3dots"/>
+               <lb/>
+Tag und Nacht weilt es an meiner Seite. (Sie liebkost es.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi> (liebkost es ebenfalls).</p>
+            <p>Es blickt mich mit Kinderaugen an <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Es versteht Alles, was vorgeht.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Ablamore</hi>.</p>
+            <p>Es ist Zeit, Palomides, Eure Schwestern aufzusuchen <milestone unit="3dots"/>
+               <lb/>
+Sie werden erstaunt sein, Euch zu sehen <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

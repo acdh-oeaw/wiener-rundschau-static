@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-24_n0905.xml" prev="WR-01-02-23_n0904.xml" next="WR-01-02-24_n0906.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 24, S. 905</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="24"/>
+                        <biblScope unit="page" n="n0905"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-11-01">1 11 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0292">
+                  <title level="a">Aus Dante’s neuem Leben</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 24</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="905" to="908"/>
+                  <idno type="fn">WR-01-02-24_n0905.xml</idno>
+                  <author ref="#wr-person-0113">Dante</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>1. <hi rend="text-spaced">NOVEMBER</hi> 1897</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>AUS <rs type="person" key="">DANTE’S</rs> NEUEM LEBEN.1)</title>
+            </ab>
+            <ab>
+               <title>XIV.</title>
+            </ab>
+            <p>Nach dem Kampfe der verschiedenen Gedanken geschah es,<lb/>
+dass jene Allerlieblichste an einen Ort kam, wo viele liebliche Frauen<lb/>
+versammelt waren; und an denselben Ort ward auch ich von einer<lb/>
+befreundeten Person geführt, die mir einen grossen Gefallen zu thun<lb/>
+glaubte, da sie mich dorthin führte, wo so viele Frauen ihre Schön-<lb break="no"/>
+heit zeigten. Ich, der ich eigentlich nicht wusste, wozu ich geführt<lb/>
+wurde, und mich auf jene Person, die einer ihrer Freunde an den<lb/>
+Rand des Verderbens geführt hatte, verliess, sagte: »Warum sind wir<lb/>
+zu diesen Frauen gekommen?« darauf sagte mir jener: »Um zu sorgen,<lb/>
+dass sie würdig bedient werden.« Und die Wahrheit war, dass sie<lb/>
+dort versammelt waren zum Ehrengeleite einer vornehmen Dame, welche<lb/>
+sich an jenem Tage vermählt hatte; denn es ziemte sich nach der<lb/>
+Sitte jener Stadt, dass sie ihr Gesellschaft leisteten, wenn sie zum<lb/>
+erstenmal im Hause ihres jungen Gatten am Tische sass. So gedachte<lb/>
+auch ich, indem ich jenem Freunde gefällig zu sein glaubte, zum<lb/>
+Dienste jener Frauen, die in ihrer Gesellschaft waren, zu bleiben. Und<lb/>
+kaum hatte ich mir dies vorgenommen, da war’s mir, als fühlte ich<lb/>
+ein seltsames Zittern in meiner Brust an der linken Seite, das sogleich<lb/>
+durch alle Theile meines Körper sich verbreitete.</p>
+            <p>Und nun, sage ich, lehnte ich mich heimlich an ein Gemälde,<lb/>
+welches das ganze Gemach umgab, und da ich in der Furcht, ob ein<lb/>
+Anderer mein Zittern bemerkt hätte, die Augen erhob und nach den<lb/>
+Frauen schaute, sah ich unter ihnen die holdseligste Beatrice. Da<lb/>
+wurden meine Geister so heftig verstört durch die Gewalt der Liebe,<lb/>
+da sie sich in solcher Nähe des lieblichsten Weibes sah, dass nichts<lb/>
+in mir das Leben bewahrte ausser den Geistern des Gesichtes, und</p>
+            <milestone unit="hr"/>
+            <note type="footnote">
+               <p>1) Wir sind in der Lage, aus der demnächst bei Otto Hendel (Halle a. S.)<lb/>
+erscheinenden, von Dr. Carl <hi rend="text-spaced">Federn</hi> verfassten Uebersetzung der Dante’schen<lb/>
+Vita Nuova die obenstehenden Proben zu veröffentlichen.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-08_n0281.xml" prev="WR-01-01-07_n0280.xml" next="WR-01-01-08_n0282.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 8, S. 281</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="08"/>
+                        <biblScope unit="page" n="n0281"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-03-01">1 3 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0087">
+                  <title level="a">Stummer Kampf</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 8</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="281" to="286"/>
+                  <idno type="fn">WR-01-01-08_n0281.xml</idno>
+                  <author ref="#wr-person-0016">Janitschek, Maria</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>1. <hi rend="text-spaced">MÄRZ</hi> 1897</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>STUMMER KAMPF.<lb/>
+Skizze von <rs type="person" key="">Maria Janitschek</rs> (Berlin).</title>
+            </ab>
+            <ab>
+               <title>I.</title>
+            </ab>
+            <p>Die Andern waren schon versammelt, als Thorwalt’s mächtige<lb/>
+Gestalt unter der Thüre erschien. Er bot ihnen seinen Gruss und nahm<lb/>
+am Kopfende des Tisches Platz. Die Andern liessen sich ebenfalls<lb/>
+nieder. Dann begann man zu essen. Der Stuhl zur Rechten des Greises<lb/>
+war unbesetzt. Links von ihm sass eine wie aus grobem Eisen gehärtete<lb/>
+Gestalt, sein Sohn Ulf, diesem gegenüber dessen Gattin, ein stark-<lb break="no"/>
+knochiges Bauernweib mit herbem, verschwiegenem Gesichte. Neben<lb/>
+sich hatte sie ihre beiden Töchter. Die Reihe der Mägde eröffnete ein<lb/>
+ganz junges Dirnlein. Gegenüber sassen Ulf’s Knaben und die Knechte.</p>
+            <p>Es wurde wenig beim Mahle gesprochen und das Wenige mit<lb/>
+leiser, flüsternder Stimme. Die weite, gewölbte, fast hallenartige Stube,<lb/>
+in deren Hintergrund das Feuer auf einem riesigen Herde flackerte,<lb/>
+besass nicht das geringste Schmuck- oder Zierstück. Die braun-<lb break="no"/>
+geräucherten Wände waren kahl, das kleine Fenster, das auf das<lb/>
+grünliche Wogenspiel der See hinaussah, ohne Vorhang. Nur Tisch<lb/>
+und Stühle und ein mächtiger Schrank befanden sich in dem Räume,<lb/>
+der sein Licht hauptsächlich von dem grossen Feuer auf dem Herde<lb/>
+erhielt. Von draussen liess sich das Pfeifen des Windes vernehmen.</p>
+            <p>»Hast du die Boote festlegen lassen?« fragte der Alte. »Es wird<lb/>
+eine unruhige Nacht geben.«</p>
+            <p>»Ja, Vater, die Boote sind festgelegt.« Der Sohn schob den<lb/>
+Löffel zurück.</p>
+            <p>»Die Gerste ist in der Scheune untergebracht?«</p>
+            <p>»Ja, sie ist in der Scheune untergebracht.«</p>
+            <p>»Hat Lomblad die Bretter geschickt?«</p>
+            <p>»Nein.«</p>
+            <p>»Weshalb nicht, da ich sie doch bestellt habe?«</p>
+            <p>»Der Junge war nicht anwesend und der Alte —«</p>
+            <p>»Was?«</p>
+         </div>
+      </body>
+   </text>
+</TEI>

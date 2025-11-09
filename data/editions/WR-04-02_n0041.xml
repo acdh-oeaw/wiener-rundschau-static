@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-02_n0041.xml" prev="WR-04-02_n0040.xml" next="WR-04-02_n0042.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 2, S. 41</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0041"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0797">
+                  <title level="a">Die Anormalen</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 2</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="37" to="41"/>
+                  <idno type="fn">WR-04-02_n0037.xml</idno>
+                  <author ref="#wr-person-0264">Ferri, Enrico</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">FERRI: DIE ANORMALEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Schrift seines Kindes, das zur Elementar-<lb break="no"/>
+schule geht, bis zu der gleichmachenden<lb/>
+Lehrmethode unserer Marionetten schaffen-<lb break="no"/>
+den Gymnasien ist dies alles und unsere<lb/>
+ganze Existenz nichts weiter, als das<lb/>
+unerbittliche Document dieses Cultus des<lb/>
+Normalen, der wirklich recht hartnäckig<lb/>
+und in unseren Gemüthern tief eingewurzelt<lb/>
+sein muss, wenn er sogar als Schluss-<lb break="no"/>
+folgerung der kühnsten wissenschaft-<lb break="no"/>
+lichen Neuerungen zu uns zurückkommt.</p>
+                     <p>In der That kommen <hi rend="text-spaced">Ammon</hi> und<lb/>
+                        <hi rend="text-spaced">Lapouge</hi> z. B. mit ihrer Anthropo-Socio-<lb break="no"/>
+logie, die den ganzen ungeheuren Deter-<lb break="no"/>
+minismus der socialen Entwicklung auf<lb/>
+den mathematischen Punkt des cephalischen<lb/>
+Index (entsprechende Kopflänge und -Breite)<lb/>
+zurückführen möchten, zu der Schluss-<lb break="no"/>
+folgerung, dass nur die blonden Menschen<lb/>
+mit langem Kopfe Instrumente des mensch-<lb break="no"/>
+lichen Fortschritts und infolgedessen würdig<lb/>
+sind, die Rasse fortzupflanzen. Und von<lb/>
+den schädlichen Wirkungen, über die sich<lb/>
+                        <hi rend="text-spaced">Broca</hi> bereits verbreitet hat, von der ver-<lb break="no"/>
+kehrten socialen Auswahl (religiöse, mili-<lb break="no"/>
+tärische, eheliche, politische und vor allem<lb/>
+wirtschaftliche Auswahl) ausgehend, durch<lb/>
+die gerade die Bestbegabten zum Cölibat<lb/>
+oder zum Elend verurtheilt sind, um die Fort-<lb break="no"/>
+pflanzung der Schwachen und Schlechten<lb/>
+zu begünstigen, gelangen sie zu der Schluss-<lb break="no"/>
+folgerung einer systematischen Zuchtwahl<lb/>
+der Menschheit. Das heisst: Ammon und<lb/>
+Lapouge schlagen, indem sie eine Idee<lb/>
+                        <hi rend="text-spaced">Darwins</hi> und der Darwinianer <hi rend="text-spaced">Galton</hi>,<lb/>
+                        <hi rend="text-spaced">Stanley, Haycraft</hi> über die Unzuträglich-<lb break="no"/>
+keiten der den Schwachen und Missgestalteten</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">gespendeten Pflege und Bevorzugung wieder<lb/>
+aufnehmen, — sie schlagen vor, nicht<lb/>
+allein die Fortpflanzung schlecht begabter<lb/>
+Männer und Frauen zu verhindern, sondern<lb/>
+die Fortpflanzung gut geborener, d. h. dem<lb/>
+Urtypus Morels am nächsten kommender<lb/>
+Typen (selbst mit Hilfe künstlicher Be-<lb break="no"/>
+fruchtung) sozusagen zu legalisieren. Das<lb/>
+wäre alles in allem eine universelle<lb/>
+                        <hi rend="text-spaced">Normalisierung</hi>, die jede Quelle<lb/>
+der Anormalität und, davon ausgehend,<lb/>
+jede Quelle des Fortschritts und des besseren<lb/>
+Lebens unterdrückt.*</p>
+                     <p>Aus den prähistorischen Wäldern ist<lb/>
+die Menschheit zu unserer modernen Civili-<lb break="no"/>
+sation nur dank der Thätigkeit der Anor-<lb break="no"/>
+malen und weniger gut Geborenen gelangt;<lb/>
+denn die Entartung ist ein Ungeheuer mit<lb/>
+zwei Gesichtern: auf der einen Seite<lb/>
+scheußlich, entmenscht und entmenschend,<lb/>
+auf der anderen prächtig, rebellisch und<lb/>
+fruchtbar. <hi rend="text-spaced">Befreien wir uns daher von<lb/>
+diesem Fetischismus der sogenann-<lb break="no"/>
+ten</hi> »<hi rend="text-spaced">normalen</hi>« <hi rend="text-spaced">Menschen</hi> (die Natur<lb/>
+zeigt sich ohnedies ihnen gegenüber nur<lb/>
+allzu verschwenderisch) und gewöhnen wir<lb/>
+uns daran, die Anormalen ohne Hass und<lb/>
+ohne Misstrauen zu betrachten. <hi rend="text-spaced">Schützen<lb/>
+wir uns vor den involutiven und<lb/>
+gefährlichen Anormalen</hi> mit gütigem<lb/>
+Mitleid, ohne Hass und ohne die noch<lb/>
+bestehenden Werkzeuge der mittelalter-<lb break="no"/>
+lichen Tortur, und <hi rend="text-spaced">tragen wir zur Re-<lb break="no"/>
+habilitierung der evolutiven Anor-<lb break="no"/>
+malen bei</hi>, die der des Neuen und<lb/>
+Besseren stets bedürftigen Menschheit so<lb/>
+viele Wohlthaten erwiesen haben.</p>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Was die negative Seite des Problems betrifft, d. h. die Verhinderung der Fortpflanzung<lb/>
+der involutiven und anti-socialen Anormalen, so ist es gut, daran zu erinnern, dass die Idee<lb/>
+schlecht und recht ihren Weg macht. Das »Medico-legal Journal« in New-York (<date>März 1897</date>)<lb/>
+berichtete, dass Mr. Edgar, Deputierter für Michigan, einen Gesetzesentwurf über die<lb/>
+»<hi rend="text-spaced">Asexualisation</hi>« der Verbrecher eingebracht hat. Der Paragraph 1 lautete: „Alle als<lb/>
+geistesgestört oder epileptisch in Asylen eingesperrten und alle zum drittenmale verurtheilten<lb/>
+Personen sollen, bevor sie das Gefängnis oder das Irrenhaus verlassen, einer Operation unter-<lb break="no"/>
+zogen werden, die ihre Asexualisation hervorbringt und ihnen die Fähigkeit nimmt, Kinder zu<lb/>
+erzeugen.“</p>
+            </note>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
+      </body>
+   </text>
+</TEI>

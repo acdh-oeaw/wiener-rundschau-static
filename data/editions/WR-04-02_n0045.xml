@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-02_n0045.xml" prev="WR-04-02_n0044.xml" next="WR-04-02_n0046.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 2, S. 45</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0045"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0798">
+                  <title level="a">W. G. van Nouhuys: »Egidius und der Fremde«</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 2</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="42" to="45"/>
+                  <idno type="fn">WR-04-02_n0042.xml</idno>
+                  <author ref="#wr-person-0059">Jacobsen, R.</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0799">
+                  <title level="a">Ein Quartett in Rom</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 2</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="45" to="47"/>
+                  <idno type="fn">WR-04-02_n0045.xml</idno>
+                  <author ref="#wr-person-0219">Kolb, Annette</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KOLB: EIN QUARTETT IN ROM.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">entstellte Gesicht der verschiedenen Gattin<lb/>
+flößt ihm nicht länger Schrecken ein,<lb/>
+ruhig und furchtlos blickt er es an <milestone unit="3dots"/>
+                        <lb/>
+und sein irdischer Schmerz löst sich auf<lb/>
+in ein mystisches Vorgefühl der sich<lb/>
+nähernden Unendlichkeit<milestone unit="3dots"/>
+                     </p>
+                     <p>Der Vorzug dieses eigentümlichen<lb/>
+Werkes ist, wie gesagt, vor allem das<lb/>
+rein Künstlerische. Möglicherweise sind<lb/>
+die großen Grundideen darin nicht ohne<lb/>
+Einfluss von anderen bedeutenden Zeit-<lb break="no"/>
+strömungen; die Stimmung aber, die<lb/>
+musikalische und malerische Behandlung<lb/>
+der Totalität und der Einzelnheiten ist<lb/>
+von originalem Schmelz. Die geheimnis-<lb break="no"/>
+volle Gestalt des »Fremden« ist geprägt von<lb/>
+echt plastischer Grazie, sie erinnert in<lb/>
+edler Melancholie an die Figuren jener</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Genien der antiken Grabmäler, die den<lb/>
+Sterblichen vorausschritten, um sie »ins<lb/>
+dunkle Reich« hinüberzubegleiten. Diese<lb/>
+schönen Jünglinge, die eine umgekehrte<lb/>
+Fackel in der Hand trugen, um des Lebens<lb/>
+Scheiden zu bezeichnen, waren Brüder<lb/>
+jener milden Genien des Schlafes und des<lb/>
+Traumes, welche die Alten mit der süß-<lb break="no"/>
+betäubenden Mohnblume in der Hand<lb/>
+darstellten. Und auch in der hoheitsvollen<lb/>
+Gestalt des »Fremden« hier ist Narkose, Be-<lb break="no"/>
+täubung durch milde, stimmungsvolle Worte<lb/>
+aus dem Born des Unendlichen für das<lb/>
+irdisch Jämmerliche, das Niederdrückende<lb/>
+und Kleine — die Narkose des leiden-<lb break="no"/>
+schaftslosen Beschauens — der Rausch<lb/>
+des Nirvana.</p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="editorialStatement-start"/>
+            <p>W. G. <hi rend="text-spaced">van Nouhuys</hi>, geboren <date>22. Juni 1854</date> zu Zaltbommerl in Gelderland, gehört<lb/>
+zu den Schriftstellern des sogenannten »Durchbruches« in der holländischen Literatur, die sich<lb/>
+in dem Jahrzehnt 1880—90 durch die Befreiung von allem Schlendrian in Inhalt und Form,<lb/>
+durch alles Lossagen vom Herkömmlichen geltend machten. In der Residenzstadt <hi rend="text-spaced">Haag</hi>,<lb/>
+die eine Reihe bedeutender Schriftsteller aufzählen kann (so Louis Couperus, Marcellus Emants,<lb/>
+Lapidoth, Helen Swarth-Lapidoth, Henry Borel u. a. m.), wirkt er als der gefeiertste Dramatiker<lb/>
+der jetzigen holländischen Literatur und nebenbei auch als <hi rend="text-spaced">Essayist</hi> und <hi rend="text-spaced">Literar-Historiker</hi>.<lb/>
+Seine berühmtesten Dramen, die in der Heimat hunderte von Aufführungen erlebt haben, sind<lb/>
+»Ehrlos«, »Der Goldfisch« und der »Provinzcirkel«, von denen »Der Goldfisch« jetzt über deutsche<lb/>
+und englische Bühnen geht. Die erste Aufführung dieses Stückes in Deutschland fand, wie<lb/>
+uns berichtet wird, unter dem Titel »Gekaufte Liebe« am <date>25. November 1899</date> im Residenz-<lb break="no"/>
+theater zu Wiesbaden statt.</p>
+            <p>Die hier besprochene Dichtung »Egidius und der Fremde«, die in Holland und Frankreich<lb/>
+ungewöhnliche Sensation erregt hat, erscheint binnen kurzem in einer neuen, vollendet künst-<lb break="no"/>
+lerischen Ausgabe mit Bildschmuck von <hi rend="text-spaced">Toorop</hi>.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>EIN QUARTETT IN ROM.<lb/>
+Von <rs type="person" key="">ANNETTE KOLB</rs> (Rom).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Ein Zauber fasst den Wanderer, der<lb/>
+unter den paradiesischen Bäumen des<lb/>
+Borghese-Gartens sich ergeht. Er sieht<lb/>
+die wundervollen stillen Rasenflächen, die<lb/>
+unbeschreibliche mythologische Färbung,<lb/>
+welche die Natur hier anzunehmen<lb/>
+scheint, und die den Beschauer ergreift,<lb/>
+so dass er innehält und lauscht, als sei<lb/>
+Diana mit ihrem Gefolge nahe, als<lb/>
+wähnte er Nymphen in diesem Hain —<lb/>
+und wie aus fernem Lande kommt er<lb/>
+bei Sonnenuntergang auf den Corso zu-<lb break="no"/>
+rück. Nirgends werfen die letzten Strahlen</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">ein so träumerisches Licht, fluten so<lb/>
+weich und sanft wie in Rom — und<lb/>
+alles in der Luft, alles in der Stadt, selbst<lb/>
+die Hand, die uns die gelben Blumensträuße<lb/>
+entgegenstreckt, weckt Erinnerungen und<lb/>
+Töne <milestone unit="3dots"/> Eine mattblonde Römerin lehnt<lb/>
+unvergesslich schön in ihrem Wagen —<lb/>
+ihr aber folgen in dichtgedrängten Zügen<lb/>
+die Töchter New-Yorks, Bostons und<lb/>
+Chicagos. Wir sind weit von Dianen.</p>
+                     <p>In keiner Stadt Europas ist das<lb/>
+amerikanische Contingent so sehr im<lb/>
+Vordergrunde, so tonangebend, wie in</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

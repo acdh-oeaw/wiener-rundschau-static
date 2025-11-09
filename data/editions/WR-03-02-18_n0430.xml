@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-18_n0430.xml" prev="WR-03-02-18_n0429.xml" next="WR-03-02-18_n0431.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 18, S. 430</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="18"/>
+                        <biblScope unit="page" n="n0430"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0705">
+                  <title level="a">Pariser Brief</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 18</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="18">18</biblScope>
+                  <biblScope unit="page" from="427" to="430"/>
+                  <idno type="fn">WR-03-02-18_n0427.xml</idno>
+                  <author ref="#wr-person-0203">Gourmont, Remy de</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0706">
+                  <title level="a">Piero di Cosimo</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 18</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="18">18</biblScope>
+                  <biblScope unit="page" from="430" to="434"/>
+                  <idno type="fn">WR-03-02-18_n0430.xml</idno>
+                  <author ref="#wr-person-0221">Haberfeld, Hugo</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">HABERFELD: PIERO DI COSIMO.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>lächeln, wenn er die Bemühungen einer<lb/>
+kindischen Moral sieht, den Begriff der<lb/>
+Kraft aus dem Begriffe des Rechtes abzu-<lb break="no"/>
+leiten. Gibt es etwas Eitleres unter der<lb/>
+Sonne, als das Recht ohne die Kraft? Wie<lb/>
+vermag sich ein Geisteseinfall — weniger<lb/>
+als das: ein einfaches Lippengeräusch der<lb/>
+unerbittlichen Ursache als Hindernis ent-<lb break="no"/>
+gegenzustellen! Carlyle hat die Principien<lb/>
+des wahren wissenschaftlichen Lehrsatzes<lb/>
+festgestellt; man braucht diesen Lehrsatz<lb/>
+nur von den secundären Ideen, in die er</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">ihn gehüllt, loszuschälen, um endlich eine<lb/>
+annehmbare Philosophie zu erhalten, eine<lb/>
+Philosophie, die wohl erschrecken, doch<lb/>
+wenigstens nie lächerlich werden kann.</p>
+                     <p>Herrn Barthélemys Werk ist eines<lb/>
+von jenen, die sich als Commentar be-<lb break="no"/>
+währen würden. Das liegt an dem umfang-<lb break="no"/>
+reichen und bedeutenden Gegenstand;<lb/>
+doch ist schon die Thatsache allein, dass<lb/>
+man einen umfangreichen und bedeutenden<lb/>
+Gegenstand zu wählen gewusst, ein Beweis<lb/>
+von intellectueller Kraft.*</p>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Aus dem Manuscript für die »Wiener Rundschau« übertragen von U. Fricke.</p>
+            </note>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>PIERO DI COSIMO.<lb/>
+Von <rs type="person" key="">HUGO HABERFELD</rs> (Breslau).</title>
+            </ab>
+            <milestone unit="verse-start"/>
+            <lg>
+               <l>S’io strano, et strane fur le mie figure:</l>
+               <l>Diedi in taie stranezza et grazia et arte;</l>
+               <l>Et chi strana il disegno a parte a parte,</l>
+               <l>Dà moto, forza et spirto alle pitture.</l>
+            </lg>
+            <p>(Grabschrift Piero di Cosimos.)</p>
+            <milestone unit="untyped-end"/>
+            <table>
+               <row>
+                  <cell>
+                     <p>Für die Geschichte der Kunst ver-<lb break="no"/>
+gangener Jahrhunderte bieten die künst-<lb break="no"/>
+lerischen Strömungen der Gegenwart die<lb/>
+Richtung des Verständnisses und den<lb/>
+Standpunkt der Wertung. Die ganz<lb/>
+Grossen freilich stehen über den Schwan-<lb break="no"/>
+kungen des Tages. Wie Altäre, auf denen<lb/>
+niemals das geheiligte Feuer erlöschen<lb/>
+kann, ragen sie auf, und immer tragen<lb/>
+die Menschen ihr Glück und ihre Sehn-<lb break="no"/>
+sucht zu Leonardo und Dürer, zu Michel-<lb break="no"/>
+angelo und Tizian, zu Rembrandt und<lb/>
+Velasquez. Der Sturmwind einer neuen<lb/>
+Kunstanschauung aber, der junge Keime<lb/>
+mit sich führt, hebt auch den Sargdeckel<lb/>
+von den Grüften versunkener Schönheit,<lb/>
+und wer durch Dämmerungen in die Zu-<lb break="no"/>
+kunft schreitet, liebt es, an den Anfang<lb/>
+des Weges, blumenbekränzt, das Bild<lb/>
+jenes Meisters zu stellen, dem einst ähn-<lb break="no"/>
+liche Ziele leuchteten. Unser Jahrhundert<lb/>
+fühlte sich in seinem Ringen und seiner<lb/>
+Müdigkeit dem Quattrocento tief verwandt,<lb/>
+und so fanden hier die Deuter unseres<lb/>
+Lebens Vorbild und Helfer. Rossetti ent-<lb break="no"/>
+deckte das bleiche Königreich des Botti-<lb break="no"/>
+celli, Moreau die Pracht des Crivelli, die<lb/>
+glänzt, wie ein edelsteingeschmücktes Mess-<lb break="no"/>
+gewand, Puvia de Chavannes den innigen</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Reichthum in der rührenden Unbeholfen-<lb break="no"/>
+heit der Trecentisten. Schwindt weckte<lb/>
+Cranachs Waldmärchen, Thoma die<lb/>
+deutsche Landschaft Altdorfers, und von<lb/>
+Stuck fiel manchmal ein Lichtstrahl auf<lb/>
+das dunkle Räthsel des Mathias Grüne-<lb break="no"/>
+wald. Es war die Kunst, die vorangieng,<lb/>
+und die Kunstgeschichte, die folgte. Nun<lb/>
+mehren sich die Zeichen, dass wir uns<lb/>
+einer Neo-Romantik nähern. Manches im<lb/>
+Werke Böcklins, vieles bei Ludwig von<lb/>
+Hofmann weist auf das Sehnen der Zeit.<lb/>
+Bald wird die Auferstehungsstunde Piero<lb/>
+di Cosimo, dem Romantiker des Quattro-<lb break="no"/>
+cento, schlagen. Darum möchte ich die<lb/>
+Tragödie dieses Übersehenen im Umriss<lb/>
+zeichnen. Denn, was früher den Zugang<lb/>
+zu seinem einsamen Garten schwer<lb/>
+machte, ist gefallen, und das eigene Er-<lb break="no"/>
+leben öffnet das Thor.</p>
+                     <p>Das XV. Jahrhundert, das so frühling-<lb break="no"/>
+haft begonnen, zeigt an seinem Ende ein<lb/>
+seltsam geändertes Antlitz. Vorüber war<lb/>
+das wilde Mühen um die Ausdrucksmittel<lb/>
+der Kunst, vorüber das Tasten des Geistes,<lb/>
+das Gleiten der Seele in eine neue Welt.<lb/>
+All das, wonach die Väter gestrebt, war<lb/>
+zum Besitz geworden und fiel als reife<lb/>
+Frucht der Generation um <date>1480</date> in den</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

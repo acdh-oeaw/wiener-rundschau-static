@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-18_n0695.xml" prev="WR-01-02-18_n0694.xml" next="WR-01-02-18_n0696.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 18, S. 695</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="18"/>
+                        <biblScope unit="page" n="n0695"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-08-01">1 8 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0229">
+                  <title level="a">Die Goncourts und der Kunstgedanke</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 18</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="18">18</biblScope>
+                  <biblScope unit="page" from="683" to="695"/>
+                  <idno type="fn">WR-01-02-18_n0683.xml</idno>
+                  <author ref="#wr-person-0091">Gaultier, Jules de</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0230">
+                  <title level="a">Die Menschen</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 18</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="18">18</biblScope>
+                  <biblScope unit="page" from="695" to="695"/>
+                  <idno type="fn">WR-01-02-18_n0695.xml</idno>
+                  <author ref="#wr-person-0067">Bodman, Emanuel von</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DIE GONCOURTS UND DER KUNSTGEDANKE.</fw>
+               <fw type="pn">695</fw>
+            </fw>
+            <p rend="no-intend">Inbrunst — eben weil wir Vorbilder zur Nachahmung brauchen —<lb/>
+vielleicht unsere Sehnsucht wachrufen, und über die genialen, uns<lb/>
+hypnotisirenden Werke hinaus wird unsere Begeisterung, sich an das<lb/>
+Princip anlehnend, das sie zeugte, in Lenzespracht die versiegte Quelle<lb/>
+unserer Thaten zu neuem Leben erwecken.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>DIE MENSCHEN.</title>
+            </ab>
+            <lg>
+               <l>
+                  <hi rend="initial">Wir</hi> leben an einander stolz dahin,</l>
+               <l>So wie die Bäume in dem grünen Garten.</l>
+               <l>Tagtäglich kommt die alte Gärtnerin,</l>
+               <l>Mit Eimern hellen Wassers sie zu warten.</l>
+            </lg>
+            <lg>
+               <l>Es steht für sich ein jeder Tag für Tag,</l>
+               <l>Sieht von den anderen nur Laub und Rinde,</l>
+               <l>Nicht was im Innern sie erregen mag,</l>
+               <l>Und schüttelt hoch sein Haupt im weiten Winde.</l>
+            </lg>
+            <lg>
+               <l>Bisweilen aber kommt die alte Frau,</l>
+               <l>Dem Nachbar einen Ast entzwei zu sägen.</l>
+               <l>Dann schauert jeder; jeder sieht genau,</l>
+               <l>Sieht eine andre Seele sich bewegen.</l>
+            </lg>
+            <p>München. <rs type="person" key="">Emanuel v. Bodman</rs>.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

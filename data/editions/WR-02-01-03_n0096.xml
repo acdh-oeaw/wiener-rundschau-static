@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-03_n0096.xml" prev="WR-02-01-03_n0095.xml" next="WR-02-01-03_n0097.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 3, S. 96</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0096"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-12-15">15 12 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0323">
+                  <title level="a">Die Suggestion bei Shakespeare </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="95" to="102"/>
+                  <idno type="fn">WR-02-01-03_n0095.xml</idno>
+                  <author ref="#wr-person-0124">Unger, Franz</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">96</fw>
+               <fw type="ctext">UNGER.</fw>
+            </fw>
+            <p rend="no-intend">eben zum Verständniss desselben jener Schlüssel, der so lange vermisst<lb/>
+wurde, und den die Psychologie unseres Zeitalters endlich fand: die<lb/>
+               <hi rend="text-spaced">Suggestion</hi>. Die <hi rend="text-spaced">Suggestion</hi> ist die Uebertragung einer Gehirn-<lb break="no"/>
+vorstellung auf ein anderes Subject, die Captivirung einer fremden<lb/>
+Phantasie mit Vorstellungen, die der eigenen, schöpferischen Phantasie<lb/>
+entsprungen sind, oder die sich für den betreffenden Percipienten aus<lb/>
+bestimmten Handlungen schlussfolgernd ergeben müssen. Um die Trag-<lb break="no"/>
+weite der Einwirkung solcher Suggestionen zu controliren, und damit<lb/>
+die Macht der Phantasie über den Körper zu erforschen, stellte die<lb/>
+medicinische Facultät in <hi rend="text-spaced">Montpellier</hi> nachstehenden Versuch an,<lb/>
+der nur der Aehnlichkeit mit dem Vorgange bei <hi rend="text-spaced">Shakespeare</hi>
+               <lb/>
+wegen, erwähnt wird. Man kündigte einem zum Tode Verurtheilten an,<lb/>
+dass er durch schmerzloses Oeffnen der Adern getödtet werden würde.<lb/>
+Darauf band man ihn mit verbundenen Augen auf die Platte eines<lb/>
+Tisches, ritzte ihn ein wenig an Armen und Füssen, und liess einen<lb/>
+dünnen Strahl lauwarmen Wassers über die Wunden rieseln, um das<lb/>
+Gefühl des Blutabganges hervorzurufen. Der Deliquent, der während<lb/>
+der ganzen Dauer des Experimentes alle Erscheinungen zunehmender<lb/>
+Anämie zeigte, starb nach Verlauf einer Stunde — als das Opfer einer<lb/>
+consequent durchgeführten Suggestion.1) Die Vorstellung des Todes<lb/>
+hatte ihn getödtet.</p>
+            <p>Aehnlichen Phantasievorstellungen mit ähnlicher, nur aufgehaltener<lb/>
+Wirkung ist Herzog Gloster in der angezogenen Stelle des »König<lb/>
+Lear« unterworfen. Nachdem er — Gloster — durch seinen Sohn, den<lb/>
+Bastard Edmund, an den Herzog von <hi rend="text-spaced">Cornwall</hi> und dessen un-<lb break="no"/>
+menschliche Gemahlin <hi rend="text-spaced">Reginald</hi> verrathen wurde, und in Folge<lb/>
+Blendung beide Augen verlor, stösst man ihn — in der ersten Scene<lb/>
+des sechsten Aufzuges — auf die Strasse, damit er sich »den Weg<lb/>
+nach Dover riechen möge«. <hi rend="text-spaced">Edgar</hi>, sein echter Sohn, durch <hi rend="text-spaced">Ed-<lb break="no"/>
+munds</hi> Intriguen vom eigenen Vater geächtet, und als verrückter<lb/>
+Bettler verkleidet, im Lande herumirrend, schliesst sich an ihn an, um<lb/>
+ihn zu führen. Gloster glaubt sich des Narren zur Ausführung seines<lb/>
+Selbstmordplanes bedienen zu können. Deshalb fragt er ihn, ob er den<lb/>
+Weg nach <hi rend="text-spaced">Dover</hi> kennt, und als der »Narr« bejaht, begehrt er, von<lb/>
+ihm hingeführt zu werden.</p>
+            <milestone unit="performance-start"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Gloster</hi>.</p>
+            <lg>
+               <l>Wo einer Klipp’ höh’ überhängend’ Haupt</l>
+               <l>Blickt furchtbar in von ihr begrenzte Tiefe;</l>
+               <l>Bring’ an den Rand, den äussersten mich dort,</l>
+               <l>Und bessern will ich ’s Elend, das du trägst</l>
+               <l>Mit mitgebrachtem Reichthum — von <hi rend="text-spaced">dem</hi> Platz</l>
+               <l>Bedarf ich keines Führers.2)</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <p rend="no-intend">
+               <hi rend="text-spaced">Edgar</hi>, der seines Vaters Selbstmordplan durchschaut, beschliesst,<lb/>
+ihn durch scheinbares Eingehen auf alle seine Wünsche zu erretten.</p>
+            <milestone unit="hr"/>
+            <note type="footnote">
+               <p>1) Tissot »Ueber die Nerven«.</p>
+               <p>2) Diese und die folgenden Stellen aus »König Lear« sind <hi rend="text-spaced">eigene</hi> Ueber-<lb break="no"/>
+setzung, da die vorhandenen Uebertragungen gerade dieser Stellen zu sehr vom<lb/>
+Originalwortlaute verschieden sind.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

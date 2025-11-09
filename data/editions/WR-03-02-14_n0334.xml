@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-14_n0334.xml" prev="WR-03-02-14_n0333.xml" next="WR-03-02-14_n0335.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 14, S. 334</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="14"/>
+                        <biblScope unit="page" n="n0334"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0680">
+                  <title level="a">Pariser Brief</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 14</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="14">14</biblScope>
+                  <biblScope unit="page" from="331" to="334"/>
+                  <idno type="fn">WR-03-02-14_n0331.xml</idno>
+                  <author ref="#wr-person-0203">Gourmont, Remy de</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0681">
+                  <title level="a">August Strindbergs neue Dramen</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 14</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="14">14</biblScope>
+                  <biblScope unit="page" from="334" to="337"/>
+                  <idno type="fn">WR-03-02-14_n0334.xml</idno>
+                  <author ref="#wr-person-0227">Levertin, Oscar</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">LEVERTIN: STRINDBERGS NEUE DRAMEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Sarg zu giessen er sich angeschickt hat.<lb/>
+Ich weiss nicht, ob sie unterhaltend ge-<lb break="no"/>
+wesen wäre — jedenfalls weniger amüsant<lb/>
+als diejenige, die Becque über Sarcey ge-<lb break="no"/>
+sprochen hätte. Vielleicht hätte er sich<lb/>
+geärgert, vielleicht aus Sarcey eine Person<lb/>
+gemacht nach Art seiner »<hi rend="text-spaced">Corbeaux</hi>«,<lb/>
+einen Vampyr der Kritik? Es wäre ge-<lb break="no"/>
+schmacklos gewesen. Was mich anbetrifft,<lb/>
+so hat Sarcey mich zu sehr amüsiert, als dass<lb/>
+ich ihm wegen der kleinen Schelmereien<lb/>
+grollen könnte, mit denen er uns zur Zeit<lb/>
+des Théâtre d’Art empfangen. Wie soll man<lb/>
+sich über einen Philister ärgern, der nach</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">einer Vorstellung von »<hi rend="text-spaced">Les Aveugles</hi>«,<lb/>
+»Théodat« und »Le Concile féérique«<lb/>
+ganz gemüthlich sagte: »Toutes ces<lb/>
+charges d’atelier nous avaient menés jusqu’<lb/>
+à près d’une heure du matin <milestone unit="3dots"/>?«<lb/>
+Ich will lieber gestehen, dass die Sonntags-<lb break="no"/>
+Feuilletons Sarceys für mich auch die<lb/>
+drolligsten »Charges d’atelier« waren;<lb/>
+dass mir leid ist um sie, und dass<lb/>
+ich der Ansicht der ernsten Leute bin,<lb/>
+die da sagen: »Man wird Sarcey nicht<lb/>
+ersetzen können!«</p>
+                     <p>Paris, <date>Mai 1899</date>.</p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>AUGUST STRINDBERGS NEUE DRAMEN.*<lb/>
+Von <rs type="person" key="">OSCAR LEVERTIN</rs> (Stockholm).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Ob es wohl irgend einen jetzt leben-<lb break="no"/>
+den Schriftsteller gibt, der so unwider-<lb break="no"/>
+stehlich gleichzeitig anzieht und zurück-<lb break="no"/>
+stösst, wie August Strindberg? Jedes neue<lb/>
+Buch von ihm, das man in die Hand<lb/>
+bekommt, zwingt Einem dieselbe ver-<lb break="no"/>
+blüffte Bewunderung und dieselbe quälende<lb/>
+Unlust ab. Welches ausserordentliche<lb/>
+Genie und welcher trotz aller Subtilitäten<lb/>
+unverfälschte Naturmensch sind nicht<lb/>
+unter seiner Dichterkappe gepaart und<lb/>
+wie sehr auch die Verfeinerung seiner<lb/>
+Nerven unter Jahren überhitzter Cultur<lb/>
+bis zur Unglaublichkeit hinaufgetrieben<lb/>
+wurde, vermag sie doch nie ganz den<lb/>
+Mangel an natürlichem Adel zu verdecken,<lb/>
+der von Anfang an in seinem Wesen ge-<lb break="no"/>
+legen ist. Dieser Mann hat versucht, sich<lb/>
+alle Lehren und Kenntnisse der Civilisa-<lb break="no"/>
+tion anzueignen, er hat sich mit be-<lb break="no"/>
+wunderungswürdiger Leidenschaft in allen<lb/>
+Winden des geistigen Lebens getummelt; zu-<lb break="no"/>
+erst in den nördlichen Lüften der kritischen<lb/>
+Anschauung, dann in dem heissen Süd-<lb break="no"/>
+wind der Gefühlsmystik, und doch hat<lb/>
+er weit mehr von den Fieberkrankheiten<lb/>
+der Bildung und Seelencultur erworben als<lb/>
+von ihrer stählenden, veredelnden Kraft.<lb/>
+Und im ganzen unverändert besteht in</p>
+                  </cell>
+                  <cell>
+                     <p>seinem Geist nach allen Hoheschuleritten<lb/>
+des Gedankens und allen Prüfungen und<lb/>
+Pilgerfahrten des Gefühls der nordische<lb/>
+Volkstypus in all seiner primitiven und<lb/>
+unharmonischen Gewaltsamkeit, mit dem<lb/>
+blauesten Unendlichkeitssehnen und den<lb/>
+simpelsten Instincten in ewig unver-<lb break="no"/>
+schmolzenem Gemenge, der Typus, der<lb/>
+Bilderstürmer und Wiedertäufer hervor-<lb break="no"/>
+bringt, Hexenpeiniger und Pietisten, aber<lb/>
+auch die grossen Reformatoren, die soci-<lb break="no"/>
+alen und religiösen Erneuerer. Und tief<lb/>
+aus diesem dunklen Volksschacht bricht<lb/>
+der siedende Quell Strindberg’scher In-<lb break="no"/>
+spiration hervor. So wie seinen geistigen<lb/>
+Brüdern unter den Romanen und Slaven,<lb/>
+Rousseau und Tolstoi, gibt dieser tiefe<lb/>
+poetische Naturgrund ihm eine prophe-<lb break="no"/>
+tische Rücksichtslosigkeit, die die Hälfte<lb/>
+seiner Stärke ist. Jeder Mensch, der durch<lb/>
+die Geburt etwas von dem hellen Gleich-<lb break="no"/>
+gewicht des Aristokraten hat und dem<lb/>
+die milde Humanität der Civilisation wirk-<lb break="no"/>
+lich in Fleisch und Blut übergegangen<lb/>
+ist, büsst während des Abschleifens einen<lb/>
+Theil jenes Rohstoffes ein, aus dem<lb/>
+mächtige und blutvolle Kunstwerke ge-<lb break="no"/>
+formt werden können. Das Lächeln der<lb/>
+Selbst-Ironie wohnt um den Mund des</p>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* August Strindberg: Vid högre rätt (Vor höherem Richterstuhl). C. &amp; E. Gernandt,<lb/>
+Stockholm.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

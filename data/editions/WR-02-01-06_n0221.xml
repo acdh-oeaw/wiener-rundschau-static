@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-06_n0221.xml" prev="WR-02-01-06_n0220.xml" next="WR-02-01-06_n0222.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 6, S. 221</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="06"/>
+                        <biblScope unit="page" n="n0221"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-02-01">1 2 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0344">
+                  <title level="a">Th. M. Dostojewsky über Strafprocesse</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 6</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="06">6</biblScope>
+                  <biblScope unit="page" from="216" to="223"/>
+                  <idno type="fn">WR-02-01-06_n0216.xml</idno>
+                  <author ref="#wr-person-0128">Hoffmann, Nina</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DOSTOJEWSKY ÜBER STRAFPROCESSE.</fw>
+               <fw type="pn">221</fw>
+            </fw>
+            <p rend="no-intend">Menschen spreche. (Gibt es übrigens viele in diesem Sinne ernste Leute<lb/>
+bei uns?) Ich spreche von den Leuten der Strasse, von der talentlosen<lb/>
+Mittelmässigkeit einerseits, andererseits von den Schlauköpfen, die<lb/>
+mit dem Liberalismus Handel treiben und denen unbedingt Alles<lb/>
+einerlei ist, wenn es nur liberal ist oder so aussieht. Was nun den<lb/>
+beeideten Rechtsanwalt anlangt, so hat er das ‚Verbrechen gelobt‘,<lb/>
+wahrscheinlich in der Annahme, dass er als bestellter Rechtsfreund<lb/>
+nicht anders handeln konnte; so also lassen sich unbestreitbar gescheite<lb/>
+Leute hinreissen, und es kommt dabei als Resultat etwas durchaus<lb/>
+nicht Gescheites heraus. Ich denke, dass, wären die Geschworenen in<lb/>
+einer anderen Lage gewesen, d. h. hätten sie die Möglichkeit gehabt,<lb/>
+einen anderen Rechtsspruch zu fällen, so würden sie wohl über diese<lb/>
+Uebertreibungen des Herrn Anwalts so böse geworden sein, dass dies<lb/>
+gerade seiner Clientin Schaden gebracht hätte. Allein die ganze Sache<lb/>
+bestand gerade darin, dass sie buchstäblich keinen anderen Urtheils-<lb break="no"/>
+spruch fällen konnten. In der Presse haben sie die Einen um dieses<lb/>
+Rechtsspruches willen gelobt, die Anderen getadelt. Ich denke, hier ist<lb/>
+weder Lob noch Tadel am Platze. Sie haben einfach so entschieden,<lb/>
+weil es ihnen unbedingt unmöglich war, anders zu entscheiden. Urtheilet<lb/>
+selbst. Hier der Zeitungsbericht:</p>
+            <milestone unit="untyped-start"/>
+            <p>»Auf die übereinstimmend mit der Anklage gestellte Frage des<lb/>
+Gerichtshofes: ‚Hat die Kairowa <hi rend="text-spaced">mit Vorbedacht</hi> der Alexandra<lb/>
+Wjelikanowa <hi rend="text-spaced">in der Absicht</hi>, <hi rend="text-spaced">sie zu ermorden</hi>, mit dem Rasir-<lb break="no"/>
+messer einige Wunden am Halse, am Kopfe und an der Brust bei-<lb break="no"/>
+gebracht und <hi rend="text-spaced">ist sie an der weiteren</hi> Ausführung dieser That, die<lb/>
+Wjelikanowa zu tödten, durch die Wjelikanowa selbst und ihren Gatten<lb/>
+gehindert worden?‘ haben die Geschworenen verneinend geantwortet.«</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <p>»Bleiben wir hier stehen« — fährt nun Dostojewsky fort — »dies<lb/>
+ist die Beantwortung der ersten Frage. Nun, kann man auf eine so<lb/>
+gestellte Frage antworten? Wer, wessen Gewissen wird eine solche<lb/>
+Frage bejahend beantworten? (Allerdings kann man hier auch kaum<lb/>
+verneinend antworten, allein wir sprechen nur von dem Ja der Ge-<lb break="no"/>
+schworenen.) Hier, auf diese Frage bejahend antworten könnte man<lb/>
+nur, wenn man mit einer übernatürlichen, göttlichen Allwissenheit be-<lb break="no"/>
+gabt wäre. Ja, der Kairowa selbst konnte dies ganz unbekannt sein:<lb/>
+würde sie bis zu Ende schneiden oder nicht? Die Geschworenen hat<lb/>
+man aber doch gefragt, ‚ob sie weiter geschnitten hätte oder nicht,<lb/>
+wenn man sie nicht daran gehindert hätte?‘ Ja, obwohl sie am<lb/>
+Vorabende das Messer in der Absicht gekauft hatte und wusste,<lb/>
+wozu sie es gekauft habe, so kann es doch sein, dass sie nicht wusste,<lb/>
+ob sie weiter schneiden werde oder nicht und ob sie es zu Ende<lb/>
+führen werde oder nicht. Am allerwahrscheinlichsten ist es, dass sie<lb/>
+darüber auch nicht ein Wörtchen wusste, als sie auf der Stiege sass,<lb/>
+das Messer in der Hand, und hinter ihr, auf ihrem Bette, der Lieb-<lb break="no"/>
+haber mit der Nebenbuhlerin lagen. Niemand, Niemand auf der Welt<lb/>
+konnte darüber ein Wort wissen. Ja, nicht genug an dem; obwohl<lb/>
+es wie eine Abstraction aussehen wird, behaupte ich, dass sie es mög-</p>
+         </div>
+      </body>
+   </text>
+</TEI>

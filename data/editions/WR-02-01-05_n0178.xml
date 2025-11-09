@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="WR-02-01-05_n0178.xml"
+     prev="WR-02-01-05_n0177.xml"
+     next="WR-02-01-05_n0179.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 5, S. 178</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="05"/>
+                        <biblScope unit="page" n="n0178"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-01-15">15 1 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text">
+                  <author/>
+                  <title n=""/>
+                  <biblScope unit="page">-</biblScope>
+                  <idno/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page"><milestone unit="verse-start"/><ab><title>DAS FEST DER WITWE.<lb/>
+(Aus »Barrack-Room-Ballads« von <rs type="person" key="">Rudyard Kipling</rs>.)<lb/>
+Uebersetzt von <rs type="person" key="">Otto Sachs</rs>.</title></ab><lg><l>Wo war’t ihr denn so lange fort?</l>
+<l>Johnnie, Johnnie!</l>
+<l>»Bei einem Festmahl mit Jenen dort!«</l>
+<l>Johnnie, lieb’ Johnnie, aha!</l>
+<l>»Sie luden uns aus dem Casernenraum,</l>
+<l>Gott weiss, wohin; an der Wüste Saum,</l>
+<l>Und — refusiren kann man kaum —«</l>
+<l>Und die Witwe gab ein Gastmahl.</l>
+<l>(<hi rend="text-spaced">Horn</hi>: Ta-rara-ra-ra-rara!)</l></lg><lg><l>Was kriegtet ihr denn? Verfluchtes Glück!</l>
+<l>Johnnie, Johnnie!</l>
+<l>»Gestandenes Wasser, wie Tinte so dick!</l>
+<l>Johnnie, lieb’ Johnnie, aha!</l>
+<l>Das Rindfleisch, das lagerte schon drei Jahr’,</l>
+<l>Wie Kautschuk zähe das Hammelfleisch war —</l>
+<l>Und ein Hühnchen — ‚fing‘ der Sergeant sogar —«</l>
+<l>Als die Witwe gab ein Gastmahl.</l></lg><lg><l>Wie wurde denn nun das Diner servirt?</l>
+<l>Johnnie, Johnnie!</l>
+<l>Besteck haben selbst wir mit uns geführt,</l>
+<l>Johnnie, lieb’ Johnnie, aha!</l>
+<l>Da schnitt man und schabte und sägte entzwei,</l>
+<l>Und fetzte und kratzte und drehte dabei,</l>
+<l>Und war man dann fertig, so war’s — Schweinerei —«</l>
+<l>Als die Witwe gab ein Gastmahl..</l></lg></div>
+      </body>
+   </text>
+</TEI>

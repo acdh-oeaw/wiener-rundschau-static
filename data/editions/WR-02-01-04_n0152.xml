@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-04_n0152.xml" prev="WR-02-01-04_n0151.xml" next="WR-02-01-04_n0153.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 4, S. 152</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="04"/>
+                        <biblScope unit="page" n="n0152"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-01-01">1 1 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0332">
+                  <title level="a">Reflexionen über deutschen Stil</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 4</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="148" to="153"/>
+                  <idno type="fn">WR-02-01-04_n0148.xml</idno>
+                  <author ref="#wr-person-0101">Grossmann, Stefan</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">152</fw>
+               <fw type="ctext">GROSSMANN.</fw>
+            </fw>
+            <p rend="no-intend">Fragen zu dauernden Problemen werden, es sind Symptome seiner<lb/>
+Decadenz. Ein solcher wird aber auch im Gespräch und in der Rede<lb/>
+styllos, d. h. <hi rend="text-spaced">eintönig</hi>, heiser oder voll affectirter Betonung sein.<lb/>
+Dagegen habe ich wiederholt Briefe und Mittheilungen von Leuten<lb/>
+gesehen, welche nicht einmal die simpelsten Regeln der Orthographie<lb/>
+innehatten und die ein vorzügliches, derbes und bilderreiches Deutsch<lb/>
+schrieben, wie es nur die Urenkel Luther’s znstande bringen konnten.<lb/>
+Ein verstorbener Poet, Anton Smital, der ein Liebhaber aller ver-<lb break="no"/>
+borgenen Menschlichkeiten war, hat einmal an der Hand alter Volks-<lb break="no"/>
+lieder, die er irgendwo in Hernals oder Favoriten von Dienstmädeln<lb/>
+oder Arbeitern singen hörte, nachgewiesen, dass im Volke jahrhunderte-<lb break="no"/>
+alte Lieder sich erhalten. Freilich nicht in jener »Kruste über dem<lb/>
+Volk«, welche Publicum heisst, auch nicht in dem »Volke« der Ver-<lb break="no"/>
+sammlungen, sondern in jener unbekannten, dunkeln Masse, die wir<lb/>
+Alle noch nicht kennen und die uns unverständlich und unbeleuchtet<lb/>
+erscheint wie jede andere Urwaldgegend. Ich behaupte, dass das<lb/>
+Deutsch dieser Leute noch jenes prächtige, altfränkische Deutsch des<lb/>
+XVII. und XVIII. Jahrhunderts ist und dass also der »Styl« dieser<lb/>
+Menschen hundertmal besser, stärker, symbolischer ist, als unsere<lb/>
+heutige, langwierige und leere Sprache, die mit jedem Tage schlechter<lb/>
+wird. Man lese nur zuweilen jene Briefe nach, die in Gerichtsverhand-<lb break="no"/>
+lungen verlesen werden. Oder man höre das folgende Gedicht, welches<lb/>
+noch voriges Jahr an einer Wand des Polizeigefängnisses in Friedrich-<lb break="no"/>
+hagen bei Berlin zu lesen war:</p>
+            <milestone unit="verse-start"/>
+            <lg>
+               <l>Fordre niemals mein Schicksal zu hören,</l>
+               <l>Nicht zu nennen meinen Namen in der Welt,</l>
+               <l>Denn ich bin, ach, so jung schon verführet,</l>
+               <l>Denn ich bin nur ein Mädchen für Geld.</l>
+            </lg>
+            <lg>
+               <l>Ja, da thut mir die Schwester wohl schreiben:</l>
+               <l>»Ach, Schwester, ach, kehr’ doch zurück!</l>
+               <l>Deine Mutter liegt sterbend im Bette</l>
+               <l>Und beweint ihr unglücklich Kind.«</l>
+            </lg>
+            <lg>
+               <l>Darauf that ich der Schwester denn schreiben:</l>
+               <l>»Ach, Schwester, ich kehr’ nie zurück.</l>
+               <l>Meine Unschuld, die hab ich verkuppelt,</l>
+               <l>In der Heimat da blüht mir kein Glück.«</l>
+            </lg>
+            <lg>
+               <l>In Hamburg, da bin ich gewesen,</l>
+               <l>In Sammt und Seide gehüllt.</l>
+               <l>Meinen Namen, den darf ich nicht nennen,</l>
+               <l>Denn ich bin nur ein Mädchen für Geld.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <p>Ist dieses Gedicht nicht viel eher alte, deutsche Volkspoesie, wie<lb/>
+jene modernen Imitationen des alten Volksliedes, die neuerlich in der<lb/>
+kostbarsten Ausstattung auf den Markt geworfen werden? Alle elemen-<lb break="no"/>
+taren Aeusserungen einer <hi rend="text-spaced">Seele</hi> haben Styl, deshalb sind alle Styl-<lb break="no"/>
+fragen nur jenen innerlich vertrockneten und versteinerten Grossstadt-<lb break="no"/>
+menschen zum Problem geworden.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

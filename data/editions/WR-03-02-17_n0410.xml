@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-17_n0410.xml" prev="WR-03-02-17_n0409.xml" next="WR-03-02-17_n0411.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 17, S. 410</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="17"/>
+                        <biblScope unit="page" n="n0410"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0699">
+                  <title level="a">»Blaubart und Ariane«</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 17</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="17">17</biblScope>
+                  <biblScope unit="page" from="393" to="415"/>
+                  <idno type="fn">WR-03-02-17_n0393.xml</idno>
+                  <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MAETERLINCK: BLAUBART UND ARIANE.</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>MELISANDE:</p>
+            <p>Was thun sie?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DIE AMME:</p>
+            <p>Man sieht nicht genau <milestone unit="3dots"/> Sie schlagen sich <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>MELISANDE:</p>
+            <p>Sie schreien! Sie schreien! <milestone unit="3dots"/> Ich mag die Augen nicht mehr auf-<lb break="no"/>
+thun.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DIE AMME:</p>
+            <p>Jetzt sehe ich nur noch die Bauern, sie tanzen um etwas herum <milestone unit="3dots"/>
+               <lb/>
+Alle anderen liegen am Boden.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SÉLYSETTE:</p>
+            <p>Da ist er, ich habe seinen blauen Mantel gesehen <milestone unit="3dots"/> Er liegt auf dem<lb/>
+Rasen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DIE AMME:</p>
+            <p>Sie sind still geworden <milestone unit="3dots"/> Sie heben ihn wieder auf <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>MELISANDE:</p>
+            <p>Ob er verwundet ist? <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>YGRAINE.</p>
+            <p>Er wankt <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SÉLYSETTE:</p>
+            <p>Ich habe Blut gesehen <milestone unit="3dots"/> Er blutet <milestone unit="3dots"/> Ariane! <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Komm, sieh nicht mehr hin <milestone unit="3dots"/> Verbirg Dein Haupt in meinen Armen <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DIE AMME:</p>
+            <p>Sie bringen Stricke <milestone unit="3dots"/> Er wehrt sich <milestone unit="3dots"/> Sie fesseln ihn an Händen<lb/>
+und Füssen <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>MELISANDE:</p>
+            <p>Wohin gehen sie? Sie tragen ihn <milestone unit="3dots"/> Sie tanzen und singen dazu <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DIE AMME:</p>
+            <p>Sie kommen hierher <milestone unit="3dots"/> Da <milestone unit="3dots"/> schon sind sie auf der Brücke <milestone unit="3dots"/>
+               <lb/>
+Das Thor ist offen <milestone unit="3dots"/> Sie machen Halt <milestone unit="3dots"/> Oh, sie wollen ihn in den Graben<lb/>
+werfen <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <p>(Ariane und die Frauen schreien wie wahnsinnig auf und beugen sich verzweifelt<lb/>
+zum Fenster hinaus.)</p>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Nein, nein <milestone unit="3dots"/> Zu Hilfe <milestone unit="3dots"/> Tödtet ihn nicht <milestone unit="3dots"/> Zu Hilfe! Nein, nein!<lb/>
+Nicht doch! Nicht doch! Kommt, kommt! <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DIE AMME:</p>
+            <p>Sie hören nicht <milestone unit="3dots"/> Aber die anderen drängen nach <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE<lb/>
+(aufathmend):</p>
+            <p>Er ist gerettet! <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DIE AMME:</p>
+            <p>Sie kommen in den Hof <milestone unit="3dots"/> Jetzt sind alle im Hofe. Hört Ihr? <milestone unit="3dots"/> Sie<lb/>
+sind vor der Hausthür <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <p>(Rufe in der Menge, da man die Frauen am Fenster erblickt: »<hi rend="text-spaced">Macht auf</hi>! <hi rend="text-spaced">Macht<lb/>
+auf</hi>!« Dann Gesang.)</p>
+         </div>
+      </body>
+   </text>
+</TEI>

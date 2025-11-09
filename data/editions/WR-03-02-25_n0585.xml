@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-25_n0585.xml" prev="WR-03-02-24_n0584.xml" next="WR-03-02-25_n0586.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 25, S. 585</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="25"/>
+                        <biblScope unit="page" n="n0585"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0761">
+                  <title level="a">Umsonst</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 25</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="25">25</biblScope>
+                  <biblScope unit="page" from="585" to="585"/>
+                  <idno type="fn">WR-03-02-25_n0585.xml</idno>
+                  <author ref="#wr-person-0157">d’Annunzio, Gabriele</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>
+                  <hi rend="strong">UMSONST</hi>
+                  <milestone unit="hr"/>
+                  <lb/>
+VON <rs type="person" key="">
+                     <hi rend="strong">GABRIELE D’ANNUNZIO</hi>
+                  </rs>
+                  <lb/>
+FRANCAVILLA <milestone unit="hr"/>
+               </title>
+            </ab>
+            <lg>
+               <l>O, meine Sehnsucht wird sich nie erfüllen,</l>
+               <l>Du hohe Kunst wirst dich mir nie enthüllen:</l>
+               <l>Ich betete zu dir umsonst, umsonst.</l>
+            </lg>
+            <lg>
+               <l>Du gold’ner Ruhm, du wirst mir nie begegnen,</l>
+               <l>Nie meine Stirn mit deinem Kusse segnen:</l>
+               <l>Ich folgte dir umsonst, umsonst.</l>
+            </lg>
+            <lg>
+               <l>Du unbekanntes Lieb, bist früh gestorben,</l>
+               <l>Mein schönes Leben ist mir drob verdorben:</l>
+               <l>Ich harrte dein umsonst, umsonst.</l>
+            </lg>
+            <lg>
+               <l>Und keinen Schmerz vermocht ich je zu lindern,</l>
+               <l>Kein Unrecht, keinen Frevel je zu hindern:</l>
+               <l>Mein Mitleid und mein Zorn — umsonst, umsonst.</l>
+            </lg>
+            <lg>
+               <l>Leer bleibt die Furche hinter meinen Tritten,</l>
+               <l>Unfruchtbar bleibt die Flur, von mir beschritten:</l>
+               <l>So lebte ich umsonst, umsonst.</l>
+            </lg>
+            <lg>
+               <l>Vor mir in Nebeln und in Dunkelheiten</l>
+               <l>Seh’ ich den Tod, still, ohne Fackel schreiten:</l>
+               <l>Ich sterbe auch umsonst, umsonst.*</l>
+            </lg>
+            <milestone unit="undefined"/>
+            <note type="footnote">
+               <p>* Deutsch von EUGEN GUGLIA.</p>
+            </note>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

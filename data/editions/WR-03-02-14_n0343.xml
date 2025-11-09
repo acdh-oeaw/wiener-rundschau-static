@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-14_n0343.xml" prev="WR-03-02-14_n0342.xml" next="WR-03-02-14_n0344.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 14, S. 343</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="14"/>
+                        <biblScope unit="page" n="n0343"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0683">
+                  <title level="a">Ein Denkmal</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 14</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="14">14</biblScope>
+                  <biblScope unit="page" from="340" to="343"/>
+                  <idno type="fn">WR-03-02-14_n0340.xml</idno>
+                  <author ref="#wr-person-0206">Lindner, Anton</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0684">
+                  <title level="a">Der indische Geist</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 14</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="14">14</biblScope>
+                  <biblScope unit="page" from="343" to="344"/>
+                  <idno type="fn">WR-03-02-14_n0343.xml</idno>
+                  <author ref="#wr-person-0200">Graevell, Harald van Jostenoode</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BÜCHER.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>sind aere perennius — dies namentlich<lb/>
+in unseren Tagen, die in den ungezählten<lb/>
+Universitäten, Kanzleien und Amtsstuben<lb/>
+der Welt Millionen registrierender Blech-<lb break="no"/>
+federn in Bewegung setzen. Ein versitt-<lb break="no"/>
+lichendes Enunciamento in Bronze wäre<lb/>
+ein unlogischer Pleonasmus, wenn es nichts<lb/>
+anderes als den Ruhm des Ehernen zu<lb/>
+verkünden oder den postmortalen Er-<lb break="no"/>
+haltungstrieb dynastischer Gewalten zu be-<lb break="no"/>
+friedigen hätte. Man setzt Denkmäler sub<lb/>
+specie posteritatis und vergisst, dass jeg-<lb break="no"/>
+liche Kunst — insonderheit die monumen-</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">tale — ganz ohne Attentat auf Intellect<lb/>
+und Moral nur Schönheit und decorative<lb/>
+Macht in unsere Nähe bringen und ein-<lb break="no"/>
+fach nur unsere Lebensgefühle zu erhöhen<lb/>
+hat! Man vergisst also, dass jegliche Kunst<lb/>
+vor allem für die Mitwelt da ist, und dass<lb/>
+die Nachwelt nur insofern in Frage kommt,<lb/>
+als sie dem Denkmal gegenüber Mitwelt<lb/>
+ist und an seinen künstlerischen Frachten<lb/>
+die Fackel ihrer Sinne entzündet. Darum<lb/>
+führen sich <hi rend="text-spaced">forcierte Nippefiguren</hi>
+                        <lb/>
+höchstselber ad absurdum.</p>
+                     <p>
+                        <rs type="person" key="">Anton <hi rend="text-spaced">Lindner</hi>
+                        </rs>.</p>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">BÜCHER</hi>.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="untyped-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der indische Geist</hi>. Durch unsere<lb/>
+sturmbewegte Zeit gehen zwei grosse<lb/>
+Strömungen: eine optimistische und eine<lb/>
+pessimistische. Sie lassen den modernen<lb/>
+Europäer nicht zur Ruhe kommen. Schopen-<lb break="no"/>
+hauer und »die Moderne«, der Mann<lb/>
+und das in seiner Schwäche so zähe Weib,<lb/>
+die Verneinung und die Verkörperung<lb/>
+des Willens zum Leben stehen sich als<lb/>
+Feinde gegenüber. Mit List und Gewalt<lb/>
+kämpft die Moderne den Verzweiflungs-<lb break="no"/>
+kampf gegen die ernsten erhabenen Lehren,<lb/>
+dass der Mensch auf Erden nur ein armer<lb/>
+Pilger ist, nicht zum Geniessen geboren,<lb/>
+sondern zum Leiden. Es ist der alte Klang<lb/>
+und Sang aus dem fernen Osten von den<lb/>
+Fluren des heiligen Ganges und des himmel-<lb break="no"/>
+stürmenden Himawat. Est ist die Lehre<lb/>
+von der Verneinung irdischer Lust und<lb/>
+vom Streben nach dem Brahm. In Gott<lb/>
+allein ist Seligkeit, in Gott allein Wonne.<lb/>
+Alles Irdische ist nur Maya, der trügerische<lb/>
+Schleier, der dem Einzig-Realen, dem<lb/>
+Brahm, übergeworfen ist und es so den<lb/>
+Augen der Sterblichen verbirgt.</p>
+                     <p>»Om. Tat Savitur varenyam bhargo<lb/>
+devasya dhimahi dhiyo yo nah pracodayât.«</p>
+                     <p>»Lasst uns nachdenken über das Licht<lb/>
+des Erleuchters, nach dem wir uns sehnen!«</p>
+                     <p>So tönt jeden Tag die heilige Hymne<lb/>
+»Gayatri« dem zweifach geborenen Arier ins<lb/>
+Ohr. Auch uns tönt sie stärker als vor hundert<lb/>
+Jahren, da noch ein lebensfroher, über-<lb break="no"/>
+schäumender Optimismus die Menschen</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">beseelte und sie hoffnungsfreudig in die<lb/>
+Zukunft sehen liess.</p>
+                     <p>Auch die alten Arier, die als siegreiche<lb/>
+Eroberer in Indien eingedrungen waren,<lb/>
+ergaben sich anfangs dem Frohsinn. Ihre<lb/>
+Barden besangen die Heldenthaten der<lb/>
+Götter und Menschen und das Glück der<lb/>
+Liebe. Aber die Zeit der Veden und des<lb/>
+Mahabharatha machten der Vedânta und<lb/>
+dem Buddhismus Platz. Ein grübelnder<lb/>
+Geist, düstere Schwermuth lagerte sich über<lb/>
+Aryavarta. Die Reinheit der Kasten liess<lb/>
+sich schwer aufrecht erhalten, trotz all<lb/>
+der vielen strengen Gesetze, und arischer<lb/>
+Einfluss sank allmählich vor dem Einfluss<lb/>
+der Urrasse. Die Moderne hatte gesiegt.<lb/>
+Die Arier sahen »die Töchter der Menschen,<lb/>
+dass sie schön waren« — und das Weib<lb/>
+triumphierte wie immer. Die ganze Ge-<lb break="no"/>
+schichte der Völker ist ja im Grunde der-<lb break="no"/>
+selbe Kampf. Eine Tochter war im alten<lb/>
+Indien nur ein Object des Mitleids. Aber<lb/>
+die Bemitleidete rächte sich. So auch<lb/>
+bei uns.</p>
+                     <p>Wir sind in das »Kali-Alter« eingetreten,<lb/>
+von dem die Vishnu Purana sagt: Am<lb/>
+Ende der Zeiten wird ein Zeitalter kommen,<lb/>
+das sehr schlecht sein wird. Die Beob-<lb break="no"/>
+achtung der Kasten, der Ordnungen und<lb/>
+Einrichtungen wird nicht im Kali-Alter<lb/>
+vorherrschen. Der Sinn der Menschen wird<lb/>
+ganz in Anspruch genommen sein von<lb/>
+der Erwerbung von Reichthum, und Reich-<lb break="no"/>
+thum wird nur angewendet werden zur</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

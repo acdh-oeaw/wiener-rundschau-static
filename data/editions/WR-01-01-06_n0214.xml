@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-06_n0214.xml" prev="WR-01-01-06_n0213.xml" next="WR-01-01-06_n0215.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 6, S. 214</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="06"/>
+                        <biblScope unit="page" n="n0214"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-02-01">1 2 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0067">
+                  <title level="a">Alladine und Palomides</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 6</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="06">6</biblScope>
+                  <biblScope unit="page" from="213" to="219"/>
+                  <idno type="fn">WR-01-01-06_n0213.xml</idno>
+                  <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">214</fw>
+               <fw type="ctext">MAETERLINCK.</fw>
+            </fw>
+            <p rend="no-intend">Ich liess überall im Lande und bis auf das Meer hinaus<lb/>
+nach ihm suchen. Man fand ihn nicht. So hoffte ich wenig-<lb break="no"/>
+stens diejenigen zu retten, die er, ohne es zu wissen,<lb/>
+hatte leiden lassen, denn er war immer der weichste der<lb/>
+Männer und der beste der Väter, aber ich glaube, auch<lb/>
+dafür zu spät gekommen zu sein. Ich weiss nicht, was<lb/>
+vorgefallen ist. Sie haben bisher nicht gesprochen. Als sie<lb/>
+das Klirren des Eisens hörten und plötzlich das Licht wieder<lb/>
+sahen, glaubten sie ohne Zweifel, dass mein Vater die Henkers-<lb break="no"/>
+frist bedauerte, die er ihnen gewährt hatte, und dass man<lb/>
+komme, ihnen den Tod zu bringen, oder sie glitten aus, als<lb/>
+sie auf dem Felsen zurückwichen, welcher den See überragt,<lb/>
+und fielen aus Versehen hinab. Aber das Wasser ist nicht<lb/>
+tief an jener Stelle, und es gelang uns ohne Mühe, sie zu<lb/>
+retten. Ihr allein könnt jetzt das Uebrige thun <milestone unit="3dots"/> (Palomides’<lb/>
+Schwestern haben sich genähert.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Arzt</hi>.</p>
+            <p>Sie leiden Beide an demselben Uebel, und zwar an<lb/>
+einem Uebel, das ich nicht kenne. Aber es bleibt mir wenig<lb/>
+Hoffnung. Sie werden sich in den unterirdischen Gewässern<lb/>
+erkältet haben; oder diese Gewässer sind wohl vergiftet.<lb/>
+Man fand darin den zersetzten Leichnam von Alladinens<lb/>
+Lamm. Ich komme diesen Abend wieder. Einstweilen be-<lb break="no"/>
+dürfen sie der Ruhe <milestone unit="3dots"/> Die Lebensfluth ebbt in ihren<lb/>
+Herzen <milestone unit="3dots"/> Betretet ihre Zimmer nicht und sprecht nicht<lb/>
+zu ihnen, denn das geringste Wort kann ihnen bei ihrer<lb/>
+Schwäche den Tod bringen <milestone unit="3dots"/> Es wäre nothwendig, dass<lb/>
+sie dahin gelangten, einander zu vergessen. (Geht fort.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Eine von Palomides</hi>’ <hi rend="text-spaced">Schwestern</hi>.</p>
+            <p>Ich sehe, er wird sterben <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Astolaine</hi>.</p>
+            <p>Nein, nein <milestone unit="3dots"/> weint nicht <milestone unit="3dots"/> in seinem Alter stirbt<lb/>
+man nicht so leicht <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Eine andere Schwester</hi>.</p>
+            <p>Aber warum war Euer Vater gegen meinen armen<lb/>
+Bruder ohne Grund so erzürnt?</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

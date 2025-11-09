@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-09_n0327.xml" prev="WR-02-01-09_n0326.xml" next="WR-02-01-09_n0328.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 9, S. 327</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="09"/>
+                        <biblScope unit="page" n="n0327"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-03-15">15 3 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0376">
+                  <title level="a">Wie Jonas Lie lebt und dichtet </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 9</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="09">9</biblScope>
+                  <biblScope unit="page" from="321" to="327"/>
+                  <idno type="fn">WR-02-01-09_n0321.xml</idno>
+                  <author ref="#wr-person-0140">Garborg, Arne</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">WIE JONAS LIE LEBT UND DICHTET.</fw>
+               <fw type="pn">327</fw>
+            </fw>
+            <p rend="no-intend">und er kann über einer Einzelheit brüten, die dem Alltagsmenschen<lb/>
+gering scheint, die aber seinen Sinn wie eine merkwürdige Botschaft<lb/>
+von einem Geheimniss, einer tiefen Umwälzung berührt, die man nicht<lb/>
+fassen kann, über die er aber nachsinnt. Im alten Krabbe (»Eine<lb/>
+Ehe«) hat er mit ausgezeichneter Laune sich über diese Seite seiner<lb/>
+Natur selber lustig gemacht; wenn er den »alten Sausewind« plötzlich<lb/>
+aus dem Gebüsch treten lässt und ohne Einleitung hervorbrausen:<lb/>
+»Eine Leydnerflasche, Sie! — das ist’s, was wir sind! — ganz — ein —<lb/>
+fach elektromotorische Kraftsammler,« und versichert, dass Gedanke,<lb/>
+Wille, Gefühl nur »Ueberschuss an Elektricität· seien und dass wir es<lb/>
+so weit bringen müssen, »Napoleone per Fabrik zu machen« — so ist<lb/>
+das nicht weit entfernt von Jonas Lie — Jonas Lie in einem allzu<lb/>
+glücklichen Entdeckermoment.</p>
+            <p>(Schluss folgt.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

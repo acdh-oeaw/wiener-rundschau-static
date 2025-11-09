@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-10_n0397.xml" prev="WR-01-01-10_n0396.xml" next="WR-01-01-10_n0398.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 10, S. 397</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="10"/>
+                        <biblScope unit="page" n="n0397"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-04-01">1 4 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0126">
+                  <title level="a">Raimund-Theater</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 10</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="395" to="397"/>
+                  <idno type="fn">WR-01-01-10_n0395.xml</idno>
+                  <author ref="#wr-person-0014">Strauss, Rudolf</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">RAIMUNDTHEATER.</fw>
+               <fw type="pn">397</fw>
+            </fw>
+            <p rend="no-intend">grämt und verbittert. Erst als sie durch den Schwiegersohn, der Advocat<lb/>
+ist, den grösseren Theil ihres Geldes nach langem Harren zurück-<lb break="no"/>
+erhält, lebt sie und jubelt sie wieder auf. So hat das Stück alle Vor-<lb break="no"/>
+züge seiner Mängel. Aber die sehr geschickte Scenenführung, der<lb/>
+fesselnde Dialog, die zahllosen, sprühenden Witzworte, sie sprechen<lb/>
+ebenso tönend dafür, dass Alexander Engel wirklich ein Talent ist.<lb/>
+Ungezwungen, wie von selbst erscheinen seine Pointen. Unseres grossen<lb/>
+Philosophen Wort: »Wer den Geist sucht, der hat ihn nicht,« findet auf<lb/>
+ihn keine Anwendung; denn er geistreichelt nicht, er ist thatsächlich<lb/>
+geistreich.</p>
+            <p>Nur schade, dass er im Raimund-Theater so wenig gute Inter-<lb break="no"/>
+preten fand, dass Herr <hi rend="text-spaced">Fröden</hi> zu lärmend, Herr <hi rend="text-spaced">Klein</hi> zu humorlos<lb/>
+und Fräulein <hi rend="text-spaced">Meissner</hi> zu talentlos war. Die einzige <hi rend="text-spaced">Niese</hi> traf<lb/>
+den richtigen parodistischen Ton, sonst schien dort Alles wider den<lb/>
+Autor verschworen. Gleichwohl hat er gesiegt, <hi rend="text-spaced">gegen</hi> das Theater<lb/>
+und <hi rend="text-spaced">gegen</hi> die Darsteller gesiegt, wie Fulda <hi rend="text-spaced">ohne</hi> dieselben und<lb/>
+so darf ich am Schlusse dieses Artikels mir die Frage wohl gestatten:<lb/>
+Hat denn die Raimund-Bühne wirklich Grund zur Freude, Director<lb/>
+               <hi rend="text-spaced">Gettke</hi> Grund zum Stolz? waren die beiden letzten Erfolge that-<lb break="no"/>
+sächlich Zeichen des Lebens — oder waren sie nur das letzte Empor-<lb break="no"/>
+flackern vor dem sicheren Erlöschen?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

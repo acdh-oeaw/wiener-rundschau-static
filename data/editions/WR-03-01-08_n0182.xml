@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-08_n0182.xml" prev="WR-03-01-08_n0181.xml" next="WR-03-01-08_n0183.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 8, S. 182</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="08"/>
+                        <biblScope unit="page" n="n0182"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0602">
+                  <title level="a">Knabe und Herrin</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 8</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="181" to="183"/>
+                  <idno type="fn">WR-03-01-08_n0181.xml</idno>
+                  <author ref="#wr-person-0198">Schaukal, Dr. Richard</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">SCHAUKAL: KNABE UND HERRIN.</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Die Frau</hi>.</p>
+            <lg>
+               <l>Also liebst Du mich und verdenkst mir den Zweifel der Ältern?</l>
+               <l>Kind, eine Jungfrau erwähle, die gleich Dir noch erröthet und zittert.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Knabe</hi>.</p>
+            <lg>
+               <l>Sagt zur Eiche: Wende doch Deinen Schatten!</l>
+               <l>Wenn sie der Sonne gehorcht, die mächtiger ist und gebietet!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Die Frau</hi>.</p>
+            <lg>
+               <l>Du verzeihst. Es scheint mir so unausdenkbar,</l>
+               <l>Dass Du mich lieben solltest, die nicht mehr zum Tanze ins Grün läuft,</l>
+               <l>Die mit verwelkender Stirn die Jahre der Ehe berechnet,</l>
+               <l>Der die Tochter im Haus weilt, — die längst der Gatte erschöpft hat.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Knabe</hi>.</p>
+            <lg>
+               <l>Denkst Du doch selber nicht so, wie Du mit Worten auch künstelst,</l>
+               <l>Herrliche Frau, deren Athem mir Sinn und Sagen gelähmt hat,</l>
+               <l>Deren Gestalt, erblick’ ich sie fern, mich verstört und ängstigt,</l>
+               <l>Meine Hände erblassen, meine Kniee zittern und schwach macht,</l>
+               <l>Deren Gruss mich durchfährt wie der Pfeil aus zielender Armbrust,</l>
+               <l>Die meine Nächte verdirbt mit herzverwirrenden Wünschen,</l>
+               <l>Sag’ mir, Musik meines armen, in Sehnen verzehrten Lebens,</l>
+               <l>Sag’ mir endlich, ob Du mich erhörst und begnadest!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Die Frau</hi>
+               <lb/>
+(nach einem ernsten Schweigen).</p>
+            <lg>
+               <l>Ich will Dir Deine raschen Worte nicht verweisen,</l>
+               <l>Das Knie Dir nicht entzieh’n, an dem Du gerne lehnest;</l>
+               <l>Doch müsst’ ich’s, würdest Du nicht anders werden.</l>
+               <l>Denk’, gutes schönes Kind, an mich in Freude.</l>
+               <l>— Ich danke Deiner Freude, sie verjüngt mich —</l>
+               <l>Doch ford’re nicht, dass ich in Liebe Dir</l>
+               <l>Mich mit den nicht mehr unberührten Lippen nahe,</l>
+               <l>An Deinen schmalen Körper meinen müden bette,</l>
+               <l>Der schamhaft Deinem Siegen sich entwände.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Knabe</hi>.</p>
+            <lg>
+               <l>Du sprichst von Müdigkeit, der ich durch weite Auen</l>
+               <l>Auf meinem Pferde kaum zu folgen dachte,</l>
+               <l>Die hellen Aug’s, den Reiher auf dem Handschuh,</l>
+               <l>Zur Beize ritt und kaum den Sattel liess,</l>
+               <l>Wenn hoch der Mittag und die Sonne glühte.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Die Frau</hi>.</p>
+            <lg>
+               <l>Es ziemt mir nicht, Dich anders zu betrachten,</l>
+               <l>Als wie ich Dich bei Festen pfleg’ zu schauen,</l>
+               <l>Da Du behutsam über breite Stufen</l>
+               <l>Die Schleppe mir der Schreitenden emporträgst.</l>
+               <l>Und dass ich gerne Deine Lieder höre,</l>
+               <l>Dich frohen Blickes prüfend, wie Du schöner</l>
+               <l>Und höher wirst im Feuer Deiner Stimmung,</l>
+               <l>Dünkt mich nicht ungemessen und zu rügen,</l>
+               <l>Ich könnte alle Frauen sorglos fragen.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

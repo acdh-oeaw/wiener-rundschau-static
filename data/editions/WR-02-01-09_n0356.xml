@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-09_n0356.xml" prev="WR-02-01-09_n0355.xml" next="WR-02-01-09_n0357.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 9, S. 356</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="09"/>
+                        <biblScope unit="page" n="n0356"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-03-15">15 3 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0384">
+                  <title level="a">»Ohne alle Opportunitäten« </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 9</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="09">9</biblScope>
+                  <biblScope unit="page" from="353" to="356"/>
+                  <idno type="fn">WR-02-01-09_n0353.xml</idno>
+                  <author ref="#wr-person-0145">Egidy, M. von</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">356</fw>
+               <fw type="ctext">EGIDY.</fw>
+            </fw>
+            <p rend="no-intend">Mensches, Menschen aus einem Guss; Menschen, die nicht, je nach<lb/>
+der Rolle, die sie in der nächsten Stunde spielen werden: ob Gatte<lb/>
+oder Beamter, ob Freund oder Volksvertreter, ob Vater oder Kirchling,<lb/>
+ob Wohlthätigkeitbeflissener oder Aufsichtsrath, ob Wissenschaftler<lb/>
+oder Gutsherr, einen anderen inneren Menschen zeigen. Wir brauchen<lb/>
+gradsinnige und gradeaus denkende Menschen; brauchen Menschen,<lb/>
+die jedes Mittel, das seinem Wesen nach dem nicht entspricht, was<lb/>
+uns rein, gerecht, edel, schön, also ideal erscheint, nicht nur innerlich<lb/>
+verachten, sondern auch wirklich unangewendet lassen. Wir brauchen<lb/>
+Menschen — Männer und Frauen — »ohne alle Opportunitäten«. In<lb/>
+diesem Sinne Idealist sein, hat nicht nur inneren Werth für den<lb/>
+Idealisten selbst; es ist auch vernünftig, es ist sogar »klug«, dem<lb/>
+Opportunismus zu entsagen; man kommt ohne diesen hässlichen Ballast<lb/>
+weiter; man sichert sich dadurch den Anschluss an Diejenigen, die<lb/>
+durch ihre Gesinnung den Charakter des neuen Jahrhunderts bestimmen<lb/>
+werden.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

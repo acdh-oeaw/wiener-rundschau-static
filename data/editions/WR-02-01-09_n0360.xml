@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-09_n0360.xml" prev="WR-02-01-09_n0359.xml" next="WR-02-01-10_n0361.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 9, S. 360</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="09"/>
+                        <biblScope unit="page" n="n0360"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-03-15">15 3 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0389">
+                  <title level="a">Wenn die Zeitungsschreiber symbolistisch werden</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 9</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="09">9</biblScope>
+                  <biblScope unit="page" from="359" to="360"/>
+                  <idno type="fn">WR-02-01-09_n0359.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">360</fw>
+               <fw type="ctext">NOTIZEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Von demselben »Phantasten« rührt<lb/>
+gewiss die ebenso plastische Wen-<lb break="no"/>
+dung her: »Was Bracco uns zum<lb/>
+Besten gibt, <milestone unit="3dots"/> ist ein <hi rend="text-spaced">Eiertanz<lb/>
+um</hi> (!) <hi rend="text-spaced">Instinkte</hi>!« Oder: »<hi rend="text-spaced">In der<lb/>
+Narrenkappe</hi>, die Bracco den<lb/>
+Frauen zu Füssen legt, <hi rend="text-spaced">liegt sein<lb/>
+eigenes Herz</hi>« (pag. 152). In<lb/>
+den letzten Wochen wurde der<lb/>
+betreffende Journalist tief philo-<lb break="no"/>
+sophisch. Unlängst constatirte er:<lb/>
+                        <milestone unit="untyped-start"/>
+                        <p>»Die Wahrheit des Lebens, das ist<lb/>
+das verschleierte Bild zu Sais«</p>
+                        <milestone unit="untyped-end"/>
+(pag. 150). Eine Woche später<lb/>
+fragte er in einem etwas unrichtigen,<lb/>
+aber recht eindringlichen Deutsch:<lb/>
+»Ist nicht im Tiefsten jeder Ge-<lb break="no"/>
+danke immer ein Gefühl?« (pag. 164).</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Was soll man dem Autor ant-<lb break="no"/>
+worten? Ist nicht im Tiefsten jeder<lb/>
+dieser Essayisten immer ein<lb/>
+Schmock?</p>
+                     <p>P. S. Soeben fallen mir die<lb/>
+jüngsten zwei Hefte rechtzeitig<lb/>
+in die Hand. Im vorletzten Heft<lb/>
+liest man den fettgedruckten Satz<lb/>
+des wage=muthigen Philosophen:<lb/>
+»Wir können im Ballet nur be(=)<lb break="no"/>
+greifen, was wir sehen« (pag. 164) und<lb/>
+am <date>12. März</date> kann man auf Seite 184<lb/>
+lesen: »Seine (Hervieu’s) Menschen<lb/>
+reden <hi rend="text-spaced">von</hi> und (!) <hi rend="text-spaced">gegen die</hi>
+                        <lb/>
+Paragraphen.« Diese Exempel<lb/>
+sprechen auch »von und gegen«<lb/>
+den Autor.</p>
+                     <p>
+                        <rs type="person" key="">
+                           <hi rend="italics">st. gr.</hi>
+                        </rs>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="hr"/>
+            <milestone unit="imprint-start"/>
+            <p>Herausgeber: <hi rend="text-spaced">Gustav Schoenaich</hi>, <hi rend="text-spaced">Felix Rappaport</hi>.</p>
+            <p>Verantwortlicher Redacteur: <hi rend="text-spaced">Gustav Schoenaich</hi>.</p>
+            <p>Ch. Reisser &amp; M. Werthner, Wien.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

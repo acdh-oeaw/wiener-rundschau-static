@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-03_n0115.xml" prev="WR-01-01-03_n0114.xml" next="WR-01-01-03_n0116.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 3, S. 115</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0115"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-15">15 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0034">
+                  <title level="a">Die demolirte Literatur</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="113" to="118"/>
+                  <idno type="fn">WR-01-01-03_n0113.xml</idno>
+                  <author ref="#wr-person-0008">Kraus, Karl</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DIE DEMOLIRTE LITERATUR.</fw>
+               <fw type="pn">115</fw>
+            </fw>
+            <p rend="no-intend">reformatorische Eifer berührte sympathisch, wenn er, ein<lb/>
+eingewurzeltes Vorurtheil bekämpfend, dem Schauspieler<lb/>
+Martinelli eine »breite, behagliche Gemüthlichkeit« nach-<lb break="no"/>
+rühmte. Als Ironiker stand er allzeit auf eigenen Gänsefüsschen,<lb/>
+und wenn es die Geisselung des Wiener Komödiantencultus<lb/>
+galt, drohten in der Druckerei die Anführungszeichen aus-<lb break="no"/>
+zugehen; denn immer neue uninteressante Seiten wusste er<lb/>
+diesem Thema abzugewinnen. Einige Fremdwörter kamen<lb/>
+ihm so neu vor, dass er es mit ihnen immer wieder versuchen<lb/>
+zu müssen glaubte; so behauptete er stets, dass Herr Reimers<lb/>
+ad spectatores spreche und dass das Fräulein Bleibtreu<lb/>
+karyatidenhaft sei. Vielleicht war hier die Freude, Ausdrücke,<lb/>
+die man sonst erst im Obergymnasium kennen lernt, schon<lb/>
+nach vier Classen zu beherrschen, doch etwas zu stark betont.</p>
+            <p>Eines Tages liess er sich Muther’s »Geschichte der<lb/>
+Malerei des XIX. Jahrhunderts« als Recensionsexemplar<lb/>
+kommen und ward so Kunstkritiker. Als bald darauf die<lb/>
+Muther-Hetze losging, der berühmte Kunsthistoriker vielfach<lb/>
+des Plagiats beschuldigt und Alles hervorgeholt wurde, was<lb/>
+bis dahin in Deutschland in seinem Fache geschrieben<lb/>
+worden war, erzählte man sich, Muther habe auch unsern<lb/>
+Recensenten benützt.</p>
+            <p>Im journalistischen Dienste hart mitgenommen, hat sich<lb/>
+der Literat bis heute doch seine Eigenart zu wahren gewusst.<lb/>
+Die Verwechslung des Dativs mit dem Accusativ gelingt ihm<lb/>
+noch immer mit unverminderter Jugendfrische. Anfänglich<lb/>
+hatte er wohl mit dem Widerstand der Setzer zu kämpfen,<lb/>
+die bekanntlich immer klüger sein wollen als der Schrift-<lb break="no"/>
+steller und gerne corrigiren, weil sie für undeutsch ansehen,<lb/>
+was individuellster Ausdruck einer künstlerischen Persön-<lb break="no"/>
+lichkeit ist, aber bald lernten sie die Eigenart unseres Autors<lb/>
+respectiren, und sein Talent setzte sich durch. Ungehindert<lb/>
+konnte er sich nun ausleben, und man erkannte ihn auch in<lb/>
+nicht unterzeichneten Artikeln. Wenn er z. B. bei einer<lb/>
+alternden Schauspielerin den »heissen Athem« vermisste, »der<lb/>
+Eine<hi rend="strong">m</hi> nur aus kindlichem Mädchenbusen anweht«, so wäre<lb/>
+es ein Uebriges gewesen, hier auch noch seine Chiffre hinzu-<lb break="no"/>
+zufügen. Selbstverständlich begegnet er <hi rend="text-spaced">die</hi> Leute, aber<lb/>
+auch diesen Accusativ weiss er wieder zu verwechseln und</p>
+         </div>
+      </body>
+   </text>
+</TEI>

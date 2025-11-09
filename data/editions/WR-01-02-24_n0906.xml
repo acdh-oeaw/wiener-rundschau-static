@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-24_n0906.xml" prev="WR-01-02-24_n0905.xml" next="WR-01-02-24_n0907.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 24, S. 906</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="24"/>
+                        <biblScope unit="page" n="n0906"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-11-01">1 11 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0292">
+                  <title level="a">Aus Dante’s neuem Leben</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 24</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="905" to="908"/>
+                  <idno type="fn">WR-01-02-24_n0905.xml</idno>
+                  <author ref="#wr-person-0113">Dante</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">906</fw>
+               <fw type="ctext">DANTE.</fw>
+            </fw>
+            <p rend="no-intend">auch die mussten aus ihren Werkstätten fliehen, da Amor an ihrem<lb/>
+edlen Sitz weilen wollte, um das wunderbare Weib zu schauen.</p>
+            <p>Und obgleich ich ganz ein Anderer war, als ich vorher gewesen,<lb/>
+so that es mir doch gar leid um jene Geisterchen, die sich heftig be-<lb break="no"/>
+klagten und sagten: »Wenn uns jener nicht mit seinem Blitzstrahl so aus<lb/>
+unserem Platze geschleudert hätte, so könnten wir dort sein, um<lb/>
+jenes Wunder von einem Weibe zu sehen, so wie die Andern unseres-<lb break="no"/>
+gleichen thun.« Und ich muss sagen, dass viele Frauen meine Trans-<lb break="no"/>
+figuration bemerkten und sich zu wundern begannen und davon redeten<lb/>
+und über mich mit jener Lieblichsten scherzten. Aber mein betrogener<lb/>
+Freund nahm mich in gutem Glauben bei der Hand, entzog mich den<lb/>
+Blicken jener Frauen und fragte mich, was ich denn hätte. Und als<lb/>
+ich eine Weile geruht und meine erstorbenen Lebensgeister wieder<lb/>
+auferstanden und die vertriebenen wieder an ihre Stelle zurückgekehrt<lb/>
+waren, da sagte ich zu jenem Freunde die Worte: »Ich habe den Fuss<lb/>
+an jene Stelle des Lebens gesetzt, über welche keiner hinausgehen<lb/>
+kann, der die Absicht hat, wiederzukehren.« Darauf trennte ich mich<lb/>
+von ihm und kehrte in die Kammer der Thränen zurück, in welcher<lb/>
+ich beschämt und weinend zu mir selbst sagte: »Wenn jene Frauen<lb/>
+meinen Zustand kennten, glaube ich nicht, dass sie mich so verlachen<lb/>
+würden, ja ich glaube, dass viel Mitleid mit mir sie ergreifen würde.«<lb/>
+Und wie ich noch so weinte, beschloss ich, Worte in Versen zu sagen,<lb/>
+in welchen ich ihr, an sie redend, den Grund meiner völligen Ver-<lb break="no"/>
+wandlung kundgeben wollte und ihr sagen wollte, wie gut ich wüsste,<lb/>
+dass derselbe unbekannt sei, und dass, wenn er bekannt wäre, Mit-<lb break="no"/>
+leid die Anderen ergreifen würde; und ich beschloss dies mit dem<lb/>
+sehnsüchtigen Wunsche, dass sie durch Zufall ihr zu Gehör kommen<lb/>
+möchten; und so verfasste ich folgendes Sonett:</p>
+            <milestone unit="verse-start"/>
+            <lg>
+               <l>Ihr scherzet über mich mit andern Frauen</l>
+               <l>Und denkt nicht, Herrin, wie es kommen mag,</l>
+               <l>Dass ich verändert Euch erschien am Tag,</l>
+               <l>An dem ich Eure Schönheit durfte schauen.</l>
+            </lg>
+            <lg>
+               <l>Wenn Ihr es wüsstet, darauf will ich bauen,</l>
+               <l>Zum Mitleid würde Euer stolzer Sinn,</l>
+               <l>Da Amor mich, sobald bei Euch ich bin,</l>
+               <l>Beherrscht mit übermüthigem Vertrauen.</l>
+            </lg>
+            <lg>
+               <l>Mit mächtigem Schlag ins zitternde Empfinden</l>
+               <l>Verjagt er meine bangen Lebensgeister,</l>
+               <l>Und er nur bleibt in mir, um Euch zu schauen.</l>
+            </lg>
+            <lg>
+               <l>So müsst Ihr mich wohl einen andern finden,</l>
+               <l>Und doch blieb ich genug der Seele Meister,</l>
+               <l>Zu fühlen der Vertriebnen schmerzlich Grauen.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <p>Es ist wahr, dass unter den Worten, in welchen die Veranlassung<lb/>
+zu diesem Sonett erklärt ist, sich einige Worte von zweifelhaftem Sinn<lb/>
+finden, nämlich dort, wo ich sage, dass Amor alle meine Lebensgeister<lb/>
+tödtet und dass die des Gesichtes am Leben bleiben, jedoch ausser-</p>
+         </div>
+      </body>
+   </text>
+</TEI>

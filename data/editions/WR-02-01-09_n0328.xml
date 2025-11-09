@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-09_n0328.xml" prev="WR-02-01-09_n0327.xml" next="WR-02-01-09_n0329.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 9, S. 328</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="09"/>
+                        <biblScope unit="page" n="n0328"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-03-15">15 3 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0377">
+                  <title level="a">Idylle</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 9</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="09">9</biblScope>
+                  <biblScope unit="page" from="328" to="332"/>
+                  <idno type="fn">WR-02-01-09_n0328.xml</idno>
+                  <author ref="#wr-person-0141">Hofmannsthal, Hugo v.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="performance-start"/>
+            <ab>
+               <title>IDYLLE.<lb/>
+Von <rs type="person" key="">Hugo V. Hofmannsthal</rs> (Wien).<lb/>
+                  <hi rend="text-spaced">Nach einem antiken Vasenbild</hi>: <hi rend="text-spaced">Centaur mit verwundeter<lb/>
+Frau am Rand eines Flusses</hi>.</title>
+            </ab>
+            <p>Der Schauplatz im Böcklin’schen Styl. Eine offene Dorfschmiede, dahinter das<lb/>
+Haus, im Hintergrunde ein Fluss.</p>
+            <p>Der Schmied an der Arbeit, sein Weib müssig an die Thüre gelehnt, die von<lb/>
+der Schmiede ins Haus führt. Auf dem Boden spielt ein blondes kleines Kind mit<lb/>
+einer zahmen Krabbe, in einer Nische ein Weinschlauch, ein paar frische Feigen<lb/>
+und Melonenschalen.</p>
+            <milestone unit="hr"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Schmied</hi>.</p>
+            <lg>
+               <l>Wohin verlieren dir die sinnenden Gedanken sich,</l>
+               <l>Indess du schweigend mir das Werk, feindselig fast</l>
+               <l>Mit solchen Lippen, leise zuckenden, beschaust?</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Die Frau</hi>.</p>
+            <lg>
+               <l>Im blüthenweissen, kleinen Garten sass ich oft,</l>
+               <l>Den Blick aufs väterliche Handwerk hingewandt,</l>
+               <l>Das nette Werk des Töpfers: Wie der Scheibe da,</l>
+               <l>Der surrenden im Kreis, die edle Form entstieg,</l>
+               <l>Im stillen Werden einer zarten Blume gleich,</l>
+               <l>Mit kühlem Glanz des Elfenbeins. Darauf erschuf</l>
+               <l>Der Vater Henkel, mit Akanthusblatt geziert,</l>
+               <l>Und ein Akanthus-, ein Olivenkranz wohl auch</l>
+               <l>Umlief als dunkelrother Schmuck des Kruges Rand.</l>
+               <l>Den schönen Körper dann belebte er mit Reigenkranz</l>
+               <l>Der Horen, die vorüberschwebend lebenspendenden.</l>
+               <l>Er schuf, gestreckt auf königliche Ruhebank,</l>
+               <l>Der Phädra wundervollen Leib, von Sehnsucht matt,</l>
+               <l>Und drüber flatternd Eros, der mit süsser Qual die Glieder füllt.</l>
+               <l>Gewalt’gen Krügen liebte er ein Bakchosfest</l>
+               <l>Zum Schmuck zu geben, wo der Purpurtraubensaft</l>
+               <l>Aufsprühte unter der Mänade nacktem Fuss,</l>
+               <l>Und fliegend Haar und Thyrsusschwung die Luft erfüllt.</l>
+               <l>Auf Todtenurnen war Persephoneias hohes Bild,</l>
+               <l>Die mit den seelenlosen, todten Augen schaut,</l>
+               <l>Und Blumen des Vergessens, Mohn, im heil’gen Haar,</l>
+               <l>Das lebensfremde, asphodelische Gefilde tritt.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

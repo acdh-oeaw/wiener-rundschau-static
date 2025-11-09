@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-17_n0671.xml" prev="WR-01-02-17_n0670.xml" next="WR-01-02-17_n0672.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 17, S. 671</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="17"/>
+                        <biblScope unit="page" n="n0671"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-07-15">15 7 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0226">
+                  <title level="a">Zur Charakteristik Stanislaw Przybyszewski’s</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 17</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="17">17</biblScope>
+                  <biblScope unit="page" from="665" to="671"/>
+                  <idno type="fn">WR-01-02-17_n0665.xml</idno>
+                  <author ref="#wr-person-0035">Neumann, Alfred</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">ZUR CHARAKTERISTIK STAN. PRZYBYSZEWSKI’S.</fw>
+               <fw type="pn">671</fw>
+            </fw>
+            <p rend="no-intend">geschrieben: »Ich bin ein Pole, meine Muttersprache, die ich selbst-<lb break="no"/>
+verständlich in höherem Masse beherrsche als die deutsche, ist polnisch.<lb/>
+Ich begann, abgesehen von verschiedenen anderen Gründen, deutsch zu<lb/>
+schreiben, weil ich in meiner Heimat anfangs ein zu geringes Publicum<lb/>
+gefunden hätte. Jetzt habe ich in der herangewachsenen Jugend einen<lb/>
+so starken Hinterhalt, dass ich wohl bald von der deutschen Literatur<lb/>
+Abschied nehmen werde, in der ich doch immer als der Fremde, ja<lb/>
+zum Theil als ein Intrus galt. Aber mit grossem Danke, mit Freude<lb/>
+werde ich immer daran denken, wie unermesslich viel ich dem germa-<lb break="no"/>
+nischen Geist und der germanischen Cultur zu danken habe. Ich liebe<lb/>
+die deutsche Sprache ganz ungemein; sie besitzt zwar nicht den grossen<lb/>
+plastischen Werth, den die polnische Sprache hat, dafür aber bedeutend<lb/>
+mehr culturelle Tradition. Dabei ist sie biegsam, sie schmiegt sich an<lb/>
+jede Empfindung, und es bereitet mir immer von Neuem eine grosse,<lb/>
+schöne Freude, mit ihr zu kämpfen, sie zu zwingen, sie zu polonisiren,<lb/>
+d. h. ihr den fabelhaften, musikalischen Werth meiner Muttersprache<lb/>
+zu entlocken <milestone unit="3dots"/>«</p>
+            <milestone unit="asterismDown"/>
+            <p>Die Zeit geht ihren ehernen Gang weiter, zu Boden drückend,<lb/>
+was sich ihr in den Weg stellt. Was gestern Gipfel war, heute ist’s<lb/>
+ebenes Thal, was gestern zum Himmel ragte, liegt heute gestürzt am Boden.</p>
+            <p>Rastlos vorwärts!</p>
+            <p>Nur um einzelne Klippen brandet die Fluth, um Klippen, die mit<lb/>
+Titanenstärke dem Anprall trotzen. Sie wanken nicht, einsam stehen<lb/>
+sie da in ihrer unermesslichen Grösse, in ihrer göttlichen Kraft <milestone unit="3dots"/>
+            </p>
+            <p>Chopin, Nietzsche, Wagner <milestone unit="3dots"/> und noch einer <milestone unit="3dots"/> Er, dem diese<lb/>
+Worte galten, er, der mit blutendem, zuckendem Herzen schuf, der die<lb/>
+Lieder des Wahnsinns, der entfesselten Phantasie, der satanischen<lb/>
+Qualen sang:</p>
+            <p>Der einzige, unersetzliche Künstler — der Pole Stanislaus Przy-<lb break="no"/>
+byszewski <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

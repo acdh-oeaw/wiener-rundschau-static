@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-12_n0453.xml" prev="WR-02-01-12_n0452.xml" next="WR-02-01-12_n0454.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 12, S. 453</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="12"/>
+                        <biblScope unit="page" n="n0453"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-05-01">1 5 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0412">
+                  <title level="a">Die Waldseelen</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 12</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="449" to="453"/>
+                  <idno type="fn">WR-02-01-12_n0449.xml</idno>
+                  <author ref="#wr-person-0138">Wille, Bruno</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DIE WALDSEELEN.</fw>
+               <fw type="pn">453</fw>
+            </fw>
+            <p rend="no-intend">selbst das Föhrenrauschen im Frühling nicht anders wie<lb/>
+beim Nahen des Winters — ich weiss, wie mir um diese<lb/>
+Jahreszeiten zu Muthe. Schon aus den Umständen darfst du<lb/>
+schliessen, dass die Föhren bald jubeln, bald wieder stöhnen.<lb/>
+Jubeln müssen sie, wenn der laue Frühlingssturm sie auf-<lb break="no"/>
+rüttelt <milestone unit="3dots"/>«</p>
+            <p>»Ja, der Dichter schliesst so! Er beseelt Baum und<lb/>
+Blume, Wind und Wolke. Doch der Denker <milestone unit="3dots"/>«</p>
+            <p>»Wenn nun aber dein Dichten ein rechtes Denken<lb/>
+wäre?«</p>
+            <p>»Sst!« machten die Föhren.</p>
+            <p>Das Kind und die Alte kamen hinter einer Schiffscoulisse<lb/>
+hervor. Das Kind stutzte, als es mich erblickte; es war ein<lb/>
+zierliches Mädchen mit rothgoldnem Haar; es trug Reisig<lb/>
+in der Schürze. Die Alte bückte sich, zerbrach einen dürren<lb/>
+Ast und warf die Stücke in die Kiepe auf ihrem Rücken.<lb/>
+Das Mädchen hielt sich scheu zur Alten. Die murmelte vor<lb/>
+sich hin, und dann gingen die Beiden wieder fort, indem<lb/>
+sie hier und dort nach Holz sich bückten.</p>
+            <p>Als sie zwischen den braunen Stämmen verschwunden<lb/>
+waren, wandte ich mich zum Wachholderbaum: »Das also<lb/>
+war die Haidehanne? Lenchen ist wohl ihre Enkelin?«</p>
+            <p>Starr und steif stand der Wachholder, als kenne er<lb/>
+mich nicht. Und auch die Föhren waren so fremd und stumm.<lb/>
+Ich hörte nur ihr feines Sausen und des Schilfes Lispeln.<lb/>
+Ich sah mich um; schon wob die Abenddämmerung zwischen<lb/>
+den violetten Stämmen. Voll dunkler Verstecke lag der<lb/>
+Forst; wohin war denn nun das scheue Märchen geschlüpft?<lb/>
+Komm doch wieder, du liebes Märchen!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

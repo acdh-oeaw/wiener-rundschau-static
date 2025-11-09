@@ -1,0 +1,240 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-08_n0208.xml" prev="WR-04-08_n0207.xml" next="WR-04-09_n0109.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 8, S. 208</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="08"/>
+                        <biblScope unit="page" n="n0208"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0847">
+                  <title level="a">O grave where is thy Victory</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 8</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="175" to="208"/>
+                  <idno type="fn">WR-04-08_n0175.xml</idno>
+                  <author ref="#wr-person-0281">Toorop, Jan</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0860">
+                  <title level="a">Theosophische Zeitschriften</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 8</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="207" to="208"/>
+                  <idno type="fn">WR-04-08_n0207.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">RUNDSCHAU.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>
+                        <hi rend="text-spaced">Zeitschrift für Spiritismus und<lb/>
+Spiritualismus</hi> (<hi rend="italics">Feilgenhauer</hi>), Köln<lb/>
+und Leipzig.</p>
+                     <p>
+                        <hi rend="text-spaced">Internationale Blätter für</hi>
+                        <hi rend="text-spaced">Spi</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">ritismus</hi> (Albert <hi rend="italics">Heise</hi>), Heilbronn<lb/>
+und Leipzig.</p>
+                     <p>
+                        <hi rend="text-spaced">Zeitschrift für Heilmagnetismus</hi>
+                        <lb/>
+(Paul <hi rend="italics">Rohm</hi>), Wiesbaden.</p>
+                     <p>
+                        <hi rend="text-spaced">Zeitschrift für Hypnotismus</hi>,<lb/>
+                        <hi rend="text-spaced">Psycho-Therapie</hi> etc., Leipzig.</p>
+                     <p>
+                        <hi rend="text-spaced">Psyche</hi>, Berlin.</p>
+                     <p>
+                        <hi rend="strong">B.</hi> In FRANZÖSISCHER Sprache er-<lb break="no"/>
+scheinen:</p>
+                     <p>
+                        <hi rend="text-spaced">Le Lotus bleu</hi>. Revue Théosophique<lb/>
+Française (Gegründet von H. P. <hi rend="italics">Bla-<lb break="no"/>
+vatsky</hi>), Paris.</p>
+                     <p>L’<hi rend="text-spaced">Initiation</hi> (<hi rend="italics">Papus</hi>), Paris.</p>
+                     <p>L’<hi rend="text-spaced">Hyperchimie</hi> (<hi rend="italics">Jollivet-Castelot</hi> (So-<lb break="no"/>
+ciété Alchimique de France), Paris.</p>
+                     <p>
+                        <hi rend="text-spaced">Annales des Sciences</hi>
+                        <hi rend="text-spaced">Psychi</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">ques</hi> (Dr. <hi rend="italics">Darieux</hi>), Paris.</p>
+                     <p>
+                        <hi rend="text-spaced">La Lumière</hi>, Paris.</p>
+                     <p>
+                        <hi rend="text-spaced">Le Journal du Magnétisme et<lb/>
+de la Psychologie</hi>, Paris.</p>
+                     <p>
+                        <hi rend="text-spaced">La Revue de</hi> l’<hi rend="text-spaced">Hypnotisme</hi>, Paris.</p>
+                     <p>
+                        <hi rend="text-spaced">La Vie</hi> d’<hi rend="text-spaced">Outre-Tombe</hi> (Ch. <hi rend="italics">Fritz</hi>),<lb/>
+Charleroi.</p>
+                     <p>
+                        <hi rend="text-spaced">Revue Scientifique et morale du<lb/>
+Spiritisme</hi> (Dr. G. <hi rend="italics">Delanne</hi>), Paris.</p>
+                     <p>
+                        <hi rend="text-spaced">La Revue Spirite</hi>, Paris.</p>
+                     <p>
+                        <hi rend="text-spaced">Le Spiritualisme moderne</hi>, Paris.</p>
+                     <p>
+                        <hi rend="text-spaced">Le Moniteur spirite et</hi>
+                        <hi rend="text-spaced">magné</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">tique</hi>, Paris.</p>
+                     <p>L’<hi rend="text-spaced">Echo de</hi> l’<hi rend="text-spaced">Au-delà et</hi> d’<hi rend="text-spaced">Ici-bas</hi>,<lb/>
+Paris.</p>
+                     <p>
+                        <hi rend="strong">C.</hi> In ENGLISCHER Sprache erscheinen:</p>
+                     <p>
+                        <hi rend="strong">I.</hi> In ENGLAND:</p>
+                     <p>The <hi rend="text-spaced">Theosophical Review</hi> (Annie<lb/>
+                        <hi rend="italics">Besant</hi> u. G. R. S. <hi rend="italics">Mead</hi>), London.</p>
+                     <p>The <hi rend="text-spaced">Vâhan</hi> (G. R. S. <hi rend="italics">Mead</hi>), London.</p>
+                     <p>
+                        <hi rend="text-spaced">Lucifer</hi> (Annie <hi rend="italics">Besant</hi> u. G. R. S.<lb/>
+                        <hi rend="italics">Mead</hi>), London.</p>
+                     <p>The <hi rend="text-spaced">English Theosophist</hi> (Howard<lb/>
+H. <hi rend="italics">Birt</hi>), London.</p>
+                     <p>
+                        <hi rend="text-spaced">Light</hi>, London.</p>
+                     <p>The <hi rend="text-spaced">Two Worlds</hi>, Manchester.</p>
+                     <p>
+                        <hi rend="text-spaced">Coming Events</hi>, Astrogical Monthly,<lb/>
+London.</p>
+                     <p>
+                        <hi rend="text-spaced">Psyche</hi>, London.</p>
+                     <p>
+                        <hi rend="strong">II.</hi> In BRITISCH-INDIEN:</p>
+                     <p>The <hi rend="text-spaced">Theosophist</hi> (H. S. <hi rend="italics">Olcott</hi>), Adyar,<lb/>
+Madras.</p>
+                     <p>The <hi rend="text-spaced">Theosophic Gleaner</hi> (<hi rend="italics">Blavatsky</hi>-<lb break="no"/>
+Loge der Theosophischen Gesellschaft<lb/>
+zu Bombay), Bombay.</p>
+                  </cell>
+                  <cell>
+                     <p>The <hi rend="text-spaced">Light of the East</hi>, a Hindu<lb/>
+monthly Review (S. C. <hi rend="italics">Mukhopadhaya</hi>),<lb/>
+Calcutta.</p>
+                     <p>The <hi rend="text-spaced">Prasnottara</hi> (<hi rend="italics">Upendranath Basu</hi>),<lb/>
+Benares.</p>
+                     <p>The <hi rend="text-spaced">Arya Bala Bodhini</hi>, or Hindu<lb/>
+Boys Journal (S. V. <hi rend="italics">Rangaswami Aiyan-<lb break="no"/>
+gar</hi>), Adyar, Madras.</p>
+                     <p>The <hi rend="text-spaced">Buddhist</hi> (D. B. <hi rend="italics">Jayatilaka</hi>), Co-<lb break="no"/>
+lombo, Ceylon.</p>
+                     <p>
+                        <hi rend="strong">III.</hi> In AMERIKA:</p>
+                     <p>The <hi rend="text-spaced">Theosophical Forum</hi> (Theo-<lb break="no"/>
+soph. Gesellschaft in Amerika), New-York.</p>
+                     <p>
+                        <hi rend="text-spaced">Universal Brotherhood</hi> (Katherine<lb/>
+A. <hi rend="italics">Tingley</hi> und E. A. <hi rend="italics">Neresheimer</hi>), New-<lb break="no"/>
+York.</p>
+                     <p>The <hi rend="text-spaced">New Century</hi> (K. A. <hi rend="italics">Tingley</hi>),<lb/>
+New-York.</p>
+                     <p>
+                        <hi rend="text-spaced">Mind</hi> (John Emery Mc <hi rend="italics">Lean</hi>), New-<lb break="no"/>
+York.</p>
+                     <p>
+                        <hi rend="text-spaced">Mercury</hi> (W. J. <hi rend="italics">Walters</hi>), San Fran-<lb break="no"/>
+cisco.</p>
+                     <p>The <hi rend="text-spaced">Harbringer of Dawn</hi>, San Fran-<lb break="no"/>
+cisco.</p>
+                     <p>The <hi rend="text-spaced">Arena</hi> (Paul <hi rend="italics">Tyner</hi>), Boston.</p>
+                     <p>The <hi rend="text-spaced">Banner of Light</hi>, Boston.</p>
+                     <p>The <hi rend="text-spaced">Esoteric</hi>, Applegate, California.</p>
+                     <p>The <hi rend="text-spaced">Light of Truth</hi>, Columbus.</p>
+                     <p>The <hi rend="text-spaced">Monist</hi> (Paul <hi rend="italics">Carus</hi>), Chicago.</p>
+                     <p>The <hi rend="text-spaced">Progressive Thinker</hi>, Chicago.</p>
+                     <p>
+                        <hi rend="strong">IV.</hi> In AUSTRALIEN:</p>
+                     <p>
+                        <hi rend="text-spaced">Theosophy in Australasia</hi> (Austral-<lb break="no"/>
+asian and New Zeeland Sections of the<lb/>
+Theosophical Society), Sydney.</p>
+                     <p>The <hi rend="text-spaced">Harbringer</hi> of <hi rend="text-spaced">Light</hi> (W. H.<lb/>
+                        <hi rend="italics">Terry,</hi> Melbourne.</p>
+                     <p>
+                        <hi rend="strong">D.</hi> In HOLLÄNDISCHER Sprache er-<lb break="no"/>
+scheinen:</p>
+                     <p>Het <hi rend="text-spaced">Toekomstig Leven</hi>, Utrecht.</p>
+                     <p>
+                        <hi rend="text-spaced">Weekblad</hi> (C. de <hi rend="italics">Jong</hi>), Capelle.</p>
+                     <p>
+                        <hi rend="text-spaced">Geest</hi> en <hi rend="text-spaced">Leven</hi> (D. <hi rend="italics">Berersluis</hi>),<lb/>
+Barendrecht.</p>
+                     <p>
+                        <hi rend="text-spaced">Theosophia</hi>, Amsterdam.</p>
+                     <p>
+                        <hi rend="text-spaced">Psychologische Bladen</hi> (<hi rend="italics">Henne-<lb break="no"/>
+keler</hi> u. <hi rend="italics">Bruck</hi>), Haag.</p>
+                     <p>
+                        <hi rend="strong">E.</hi> In ITALIENISCHER Sprache erscheint:</p>
+                     <p>
+                        <hi rend="text-spaced">Teosofia</hi> (Libreria Teosofia).</p>
+                     <p>F. In SPANISCHER Sprache:</p>
+                     <p>
+                        <hi rend="text-spaced">Sophia</hi> (Sociedad Teosófica en España),<lb/>
+Madrid.</p>
+                     <p>
+                        <hi rend="strong">G.</hi> In SCHWEDISCHER Sprache:</p>
+                     <p>
+                        <hi rend="text-spaced">Teosofisk Tidskrift</hi> (Jean Fr.<lb/>
+                        <hi rend="italics">Rossander</hi>), Stockholm.</p>
+                     <p>H. In CZECHISCHER Sprache:<lb/>
+                        <hi rend="text-spaced">Lotus</hi> (Alois <hi rend="italics">Koch</hi>), Prag.</p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="imprint-start"/>
+            <p>Herausgeber: <hi rend="strong">Constantin Christomanos</hi> und <hi rend="strong">Felix Rappaport.</hi> —Verantwortlicher Redacteur:<lb/>
+               <hi rend="strong">Anton Lindner.</hi>
+            </p>
+            <p>K. k. Hoftheater-Druckerei, Wien, I. Wollzeile 17. (Verantwortlich A. Rimrich.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-22_n0513.xml" prev="WR-03-02-21_n0512.xml" next="WR-03-02-22_n0514.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 22, S. 513</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="22"/>
+                        <biblScope unit="page" n="n0513"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0732">
+                  <title level="a">Laus Veneris III.</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 22</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="22">22</biblScope>
+                  <biblScope unit="page" from="513" to="517"/>
+                  <idno type="fn">WR-03-02-22_n0513.xml</idno>
+                  <author ref="#wr-person-0228">Swinburne, Algernon Charles</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="strong">LAUS VENERIS</hi>
+                  <milestone unit="hr"/>
+                  <lb/>
+VON <rs type="person" key="">
+                     <hi rend="strong">ALGERNON CH. SWINBURNE</hi>
+                  </rs>
+                  <lb/>
+UMDICHTUNG <milestone unit="hr"/>
+                  <lb/>
+VON <rs type="person" key="">HEDWIG LACHMANN</rs>
+                  <milestone unit="hr"/>
+               </title>
+            </ab>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>III.</title>
+            </ab>
+            <lg>
+               <l>Ihr Haar umfloss sie bis herab ans Knie.</l>
+               <l>Mit leicht erhobnem Finger streifte sie</l>
+               <l>Im Gehn das Gras. O Gott, wie tief errieth</l>
+               <l>Ich ihres Leibes heimliche Magie!</l>
+            </lg>
+            <lg>
+               <l>Im Halmgewoge nahte sie sich mir,</l>
+               <l>Mit blinden Lippen fühlte ich nach ihr,</l>
+               <l>— Die ohne Wink mich stumm zu sich beschied —</l>
+               <l>In meinem Leib den Stachel ihrer Gier.</l>
+            </lg>
+            <lg>
+               <l>O Du! Steh’ auf, für mich zu zeugen und</l>
+               <l>Versiegle mir mit Deinem Kuss den Mund,</l>
+               <l>Damit vor meiner Sünde Seligkeit</l>
+               <l>In Wahnsinn nicht entbrenne, wem sie kund.</l>
+            </lg>
+            <lg>
+               <l>Doch ward’ ich schwach allmählich von Genuss,</l>
+               <l>Von Wohlgerüchen und dem trägen Fluss</l>
+               <l>Der schweren, unveränderlichen Zeit.</l>
+               <l>In meiner Liebe welkem Überdruss,</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

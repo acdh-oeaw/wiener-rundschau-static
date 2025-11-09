@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-18_n0699.xml" prev="WR-02-02-18_n0698.xml" next="WR-02-02-18_n0700.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 18, S. 699</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="18"/>
+                        <biblScope unit="page" n="n0699"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-08-01">1 8 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0471">
+                  <title level="a">Paniscus</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 18</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="18">18</biblScope>
+                  <biblScope unit="page" from="695" to="699"/>
+                  <idno type="fn">WR-02-02-18_n0695.xml</idno>
+                  <author ref="#wr-person-0119">Schmitz, Oskar A. H.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">PANISCUS.</fw>
+               <fw type="pn">699</fw>
+            </fw>
+            <lg>
+               <l>Doch willst Du der Gewitter Schauer fühlen,</l>
+               <l>das Tannenkrachen wilder Felsennacht,</l>
+               <l>tobendes Zürnen berstender Gebirge,</l>
+               <l>dann soll Dich meine Liebe mit sich reissen</l>
+               <l>von Fels zu Fels und ihre wilde Fackel</l>
+               <l>soll in der Berge schwarze Gründe leuchten</l>
+               <l>und in des Meeres Schoss, den Donner sollst Du</l>
+               <l>in Deinem jungen Blute toben fühlen</l>
+               <l>und aller Winde Wucht in Deinem Haar.</l>
+               <l>Von Fels zu Wolken trägt mein Nacken Dich,</l>
+               <l>in Flammen unter uns zerbirst die Welt,</l>
+               <l>in Flammen um uns kreisen die Gewitter,</l>
+               <l>ich trag Dich höher, immer höher, bis</l>
+               <l>Du matt in meinen Armen hängst und lallend</l>
+               <l>nach einer weichen Rasenbank begehrst</l>
+               <l>zu schlummern; und ich flüst’re Deinem Traum</l>
+               <l>noch Worte ein, die mehr erzittern machen,</l>
+               <l>als aller Götter allertiefster Kuss!</l>
+            </lg>
+            <lg>
+               <l>Komm Aglaë, kennst Du den Blumenschurz,</l>
+               <l>den hochgefüllt Priapus Bildnis trägt?</l>
+               <l>So ist mein Busen voll von jungen Lüsten</l>
+               <l>der Mittagsglut; nun soll das süsse Opfer</l>
+               <l>von Deiner Mädchenschaft in einem Kuss,</l>
+               <l>in Einem brennen, der gen Himmel flammt,</l>
+               <l>so hoch, so heiss, so laut, dass Zeus, gedenkend</l>
+               <l>der Nacht am Ida selbst, vor Neid erbleicht.«</l>
+            </lg>
+            <lg>
+               <l>Und Aglaë erfüllt mit hellem Lachen</l>
+               <l>den kühlen Raum — so rauschen weisse Quellen</l>
+               <l>von hoch hernieder — und das junge Jauchzen</l>
+               <l>der Flutgeborenen heisst die Seufzer schweigen</l>
+               <l>des Harrenden! Schon streifen ihn die Haare,</l>
+               <l>die aus des Baumes Krone sich gelöst,</l>
+               <l>schon neben ihm die Wellen ihres Odems,</l>
+               <l>schon sinkt sie zu ihm auf das Blumenlager,</l>
+               <l>und seine Lust zischt auf, als sei ein Strudel</l>
+               <l>von Wasser in ein Feuermeer gefahren.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-12_n0192.xml" prev="WR-04-12_n0191.xml" next="WR-04-12_n0193.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 12, S. 192</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="12"/>
+                        <biblScope unit="page" n="n0192"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0895">
+                  <title level="a">Zwei Zeichnungen</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="189" to="212"/>
+                  <idno type="fn">WR-04-12_n0189.xml</idno>
+                  <author ref="#wr-person-0295">Beardsley, Aubrey</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0896">
+                  <title level="a">Salome</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="189" to="212"/>
+                  <idno type="fn">WR-04-12_n0189.xml</idno>
+                  <author ref="#wr-person-0068">Wilde, Oscar</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">WILDE: SALOME.</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>ZWEITER SOLDAT: Der zweite kommt aus einer Stadt namens Cypern und<lb/>
+ist gelb wie Gold.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER CAPPADOCIER: Ich liebe Gold.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ZWEITER SOLDAT: Und der dritte ist ein Wein aus Sizilien. Dieser Wein<lb/>
+ist roth wie Blut.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER NUBIER: Die Götter meines Landes lieben Blut sehr. Zweimal im Jahre<lb/>
+opfern wir ihnen Jünglinge und Jungfrauen: fünfzig Jünglinge und fünfzig Jung-<lb break="no"/>
+frauen. Aber ich fürchte, wir geben ihnen nie genug, denn sie sind sehr hart<lb/>
+gegen uns.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER CAPPADOCIER: In meinem Lande sind keine Götter mehr. Die Römer<lb/>
+haben sie ausgetrieben. Einige sagen, sie hielten sich in den Bergen versteckt, aber<lb/>
+ich glaube es nicht. Drei Nächte bin ich in den Bergen gewesen und habe sie überall<lb/>
+gesucht. Ich fand sie nicht und zuletzt rief ich sie beim Namen, aber sie kamen nicht.<lb/>
+Sie sind wohl todt.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER SOLDAT: Die Juden beten einen Gott an, den man nicht sehen kann.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER CAPPADOCIER: Ich kann das nicht verstehen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER SOLDAT: Wirklich, sie glauben nur an Dinge, die man nicht<lb/>
+sehen kann.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER CAPPADOCIER: Das finde ich ganz und gar lächerlich.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DIE STIMME DES JOCHANAAN: Nach mir wird Einer kommen, der ist<lb/>
+stärker als ich. Ich bin nicht wert, ihm die Riemen an seinen Schuhen zu lösen.<lb/>
+Wenn er kommt, werden die verödeten Stätten frohlocken. Sie werden aufblühen<lb/>
+wie die Rosen. Die Augen der Blinden werden den Tag sehen und die Ohren der<lb/>
+Tauben werden geöffnet. Das Kind wird an der Höhle des Drachen spielen, es wird<lb/>
+die Löwen an ihren Mähnen führen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ZWEITER SOLDAT: Heiß’ ihn schweigen! Er sagt immer lächerliche Dinge.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER SOLDAT: Nein, nein. Er ist ein heiliger Mann. Und er ist sehr<lb/>
+sanft. Jeden Tag, wenn ich ihm zu essen gebe, dankt er mir.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER CAPPADOCIER: Wer ist er?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER SOLDAT: Ein Prophet.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER CAPPADOCIER: Wie ist sein Name?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER SOLDAT: Jochanaan.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER CAPPADOCIER: Woher kommt er?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER SOLDAT: Aus der Wüste, wo er sich von Heuschrecken und wildem<lb/>
+Honig nährte. Er trug ein Kleid von Kameelhaaren und um die Lenden einen ledernen<lb/>
+Gürtel. Er war sehr schrecklich anzusehen. Eine große Schar war immer um ihn.<lb/>
+Er hatte auch Jünger, die ihm folgten.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER CAPPADOCIER: Wovon redet er?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER SOLDAT: Das kann man nie wissen. Manchmal sagt er Dinge, die<lb/>
+Einen erschrecken, aber es ist unmöglich zu verstehen, was er sagt.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER CAPPADOCIER: Kann man ihn sehen?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER SOLDAT: Nein, der Tetrarch hat es verboten.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER JUNGE SYRIER: Die Prinzessin verbirgt ihr Gesicht hinter dem Fächer.<lb/>
+Ihre kleinen, weißen Hände flattern wie Tauben, wenn sie in den Schlag fliegen.<lb/>
+Sie sind wie weiße Schmetterlinge. Sie sind genau wie weiße Schmetterlinge.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER PAGE DER HERODIAS: Was geht es dich an? Warum siehst du sie<lb/>
+an? Du sollst sie nicht ansehen <milestone unit="3dots"/> Schreckliches kann geschehen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER CAPPADOCIER (auf die Cisterne zeigend): Ein sonderbares Gefängnis.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ZWEITER SOLDAT: Es ist eine alte Cisterne.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

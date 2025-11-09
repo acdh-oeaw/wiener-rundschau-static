@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-01_n0009.xml" prev="WR-04-01_n0008.xml" next="WR-04-01_n0010.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 1, S. 9</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0009"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0785">
+                  <title level="a">Die Kaiserin</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 1</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="1" to="28"/>
+                  <idno type="fn">WR-04-01_n0001.xml</idno>
+                  <author ref="#wr-person-0232">Khnopff, Fernand</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0788">
+                  <title level="a">Rossetti*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 1</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="9" to="11"/>
+                  <idno type="fn">WR-04-01_n0009.xml</idno>
+                  <author ref="#wr-person-0206">Lindner, Anton</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0789">
+                  <title level="a">Fünf Sonette</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 1</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="9" to="11"/>
+                  <idno type="fn">WR-04-01_n0009.xml</idno>
+                  <author ref="#wr-person-0225">Rossetti, Dante Gabriel</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <rs type="person" key="">DANTE GABRIEL ROSSETTI</rs>:<lb/>
+                  <milestone unit="hr"/> FUENF SONETTE <milestone unit="hr"/>
+                  <lb/>
+DEUTSCH VON <rs type="person" key="">HEDWIG LACHMANN</rs>.</title>
+            </ab>
+            <figure type="image"/>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>DAS BLUTBAND.</title>
+            </ab>
+            <lg>
+               <l>Saht ihr noch nie, wo ein Geschwisterpaar</l>
+               <l>Aus erster Ehe stammte, welch ein Pfand</l>
+               <l>Der Liebe ihm der gleiche Vorsprung war,</l>
+               <l>Wiewohl es seine Mutter nie gekannt?</l>
+            </lg>
+            <lg>
+               <l>Wie es mit seines Vaters Kindern zwar</l>
+               <l>Gutwillige Vertraulichkeit verband,</l>
+               <l>Doch eines mit dem andern offenbar</l>
+               <l>In engerer Gemeinsamkeit verwandt?</l>
+            </lg>
+            <lg>
+               <l>So schien es mir, da ich zuerst Dich sah,</l>
+               <l>Geliebte, dass von Seelen, mir vertraut,</l>
+               <l>Vor allen andern Eine meiner nah.</l>
+            </lg>
+            <lg>
+               <l>O Du, obgleich in Jahren nicht geschaut,</l>
+               <l>Mit mir geboren an vergessnem Ort —</l>
+               <l>Ich kannte, Zwillingsseele, Dich sofort.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
+      </body>
+   </text>
+</TEI>

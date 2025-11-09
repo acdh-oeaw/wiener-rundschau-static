@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-12_n0455.xml" prev="WR-01-01-12_n0454.xml" next="WR-01-01-12_n0456.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 12, S. 455</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="12"/>
+                        <biblScope unit="page" n="n0455"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-05-01">1 5 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0150">
+                  <title level="a">Gedichte in Prosa</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 12</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="453" to="455"/>
+                  <idno type="fn">WR-01-01-12_n0453.xml</idno>
+                  <author ref="#wr-person-0034">Baudelaire, Charles</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">GEDICHTE IN PROSA.</fw>
+               <fw type="pn">455</fw>
+            </fw>
+            <p rend="no-intend">sich in schreiende und schmerzliehe Gefühlszuckungen um.<lb/>
+Schon beginnt die Tiefe des Himmels mich zu erschrecken;<lb/>
+seine Klarheit höhnt mich; mich betäubt die Gefühllosigkeit<lb/>
+aller Dinge, die Ruhe des Alls <milestone unit="3dots"/>
+            </p>
+            <p>Wer die Schönheit sucht, findet das Leiden; und der<lb/>
+Versuch, die Geheimnisse der Natur zu erfassen, ist ein Zwei-<lb break="no"/>
+kampf, in dem immer der Künstler unterliegt <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>IV. <hi rend="text-spaced">Rausch</hi>.</title>
+            </ab>
+            <p>Berauschet euch! Dies ist aller Fragen letzte Lösung.<lb/>
+Auf dass ihr die furchtbare Last des Lebens nicht fühlt, die<lb/>
+eure Schultern zerdrückt und euch zur Erde beugt: Geht<lb/>
+hin und berauschet euch!</p>
+            <p>Woran? Am Wein, an Gedichten, an Begeisterung —<lb/>
+woran ihr wollt. Berauschet euch!</p>
+            <p>Und wenn ihr dann manchmal erwacht, auf den Tep-<lb break="no"/>
+pichen im Palaste, im grünen Rasengrund eines Strassen-<lb break="no"/>
+grabens, in der Einsamkeit eures Zimmers, und der Rausch<lb/>
+ist verflogen: dann fragt den Wind, die Wogen, die Sterne,<lb/>
+fragt Alles was flieht, fragt Alles was seufzt, fragt, welche<lb/>
+Stunde es sei; und Wind, Wogen, Sterne, sie werden euch<lb/>
+antworten: Die Stunde ist da, sich zu berauschen.</p>
+            <p>Seid nicht die keuchenden Knechte des Lebens —<lb/>
+berauschet euch!</p>
+            <milestone unit="untyped-end"/>
+            <p>
+               <rs type="person" key="">
+                  <hi rend="italics">F. R.</hi>
+               </rs>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

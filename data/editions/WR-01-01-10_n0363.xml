@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-10_n0363.xml" prev="WR-01-01-10_n0362.xml" next="WR-01-01-10_n0364.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 10, S. 363</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="10"/>
+                        <biblScope unit="page" n="n0363"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-04-01">1 4 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0117">
+                  <title level="a">Charfreitags-Zauber</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 10</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="361" to="364"/>
+                  <idno type="fn">WR-01-01-10_n0361.xml</idno>
+                  <author ref="#wr-person-0049">Fuchs, Georg</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">CHARFREITAGS-ZAUBER.</fw>
+               <fw type="pn">363</fw>
+            </fw>
+            <p rend="no-intend">den Glauben an einen Freund retten, hörst du? Hörst du?<lb/>
+Oder kannst du es nicht, ist er ein —?«</p>
+            <p>»Nein, nein!« Sie faltet die Hände demüthig bittend wie<lb/>
+ein Kind.</p>
+            <p>»Ich muss es wissen! Heute noch!« Ich nahm ein ver-<lb break="no"/>
+siegeltes Packet aus dem Schreibtische: »Hier, das sandte<lb/>
+er mir aus Paris. Ahnst du, was es ist?«</p>
+            <p>»Ja, seine Symphonie.«</p>
+            <p>»Ich öffne kein Siegel, ehe ich Alles weiss. So rede<lb/>
+doch! Wo geschah es?«</p>
+            <p>»In Bayreuth.«</p>
+            <p>»Dort lernte er die reiche Baronin kennen?«</p>
+            <p>»Nein, die kannte er schon. Er hat oft bei ihr gespielt.<lb/>
+Aber sie hat ihm einen Brief geschrieben, dass sie — seine<lb/>
+— Frau werden wolle. Und er musste sich doch entscheiden,<lb/>
+ob er eine Stelle annehmen solle im Orchester oder als<lb/>
+Lehrer und auf Alles verzichten, auf alle die grossen Werke.«</p>
+            <p>»Und da ging er auf und davon?«</p>
+            <p>»Nein, nein! Er warf den Brief ins Feuer. <hi rend="text-spaced">Er</hi> wollte<lb/>
+nicht!«</p>
+            <p>»So hättest <hi rend="text-spaced">du</hi> gewollt?«</p>
+            <p>»Es war nach dem »Parsifal«. Wir gingen in die Nacht<lb/>
+hinaus, gegen Wahnfried. Wir konnten nicht unter Menschen<lb/>
+sein, unsere Herzen waren übervoll, und wir liebten uns —<lb/>
+o, wir haben uns nie so sehr geliebt als in dieser Nacht.<lb/>
+Er sprach von seinen Werken. Da ertrug ich es nicht mehr:<lb/>
+er sollte nicht verzichten! Ich wusste nicht mehr, was ich<lb/>
+that, ich hörte seine Werke erklingen wie Messen unter<lb/>
+Kuppeln. Ich sprach und sprach und redete ihm zu. Das<lb/>
+war am Gitter; wir sahen das Grab des Meisters. Dort<lb/>
+gelobten wir uns, dass wir uns nie mehr sehen wollten —<lb/>
+und das haben wir ausgeführt.«</p>
+            <p>Sie war stille. Ich öffnete unbewusst das Packet. In-<lb break="no"/>
+zwischen fuhr sie leise fort: »Er hat mir noch viele Briefe<lb/>
+geschriehen; ich habe sie aber alle verbrannt, ohne sie zu<lb/>
+lesen. Dann lag ich am Tode. Als ich danach wieder theil-<lb break="no"/>
+nahm an der hässlichen Welt, da las ich von ihm in den<lb/>
+Zeitungen, da war er ein berühmter Mann.«</p>
+         </div>
+      </body>
+   </text>
+</TEI>

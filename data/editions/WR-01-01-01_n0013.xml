@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-01_n0013.xml" prev="WR-01-01-01_n0012.xml" next="WR-01-01-01_n0014.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 1, S. 13</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0013"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-11-15">15 11 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0004">
+                  <title level="a">Venedig in Wien</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="13" to="14"/>
+                  <idno type="fn">WR-01-01-01_n0013.xml</idno>
+                  <author ref="#wr-person-0004">Altenberg, Peter</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>AUS DEM CYKLUS: »VENEDIG IN WIEN«.</title>
+            </ab>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>Café de l’Opéra.</title>
+            </ab>
+            <p>Jawohl, eine eigenthümliche Beziehung ist zwischen<lb/>
+diesen Dingen: Herr, Dame; Mandolinengezirpe; Birke, Pla-<lb break="no"/>
+tane, Esche; weisse Bogenlampe; kühler Auen Nachtduft.</p>
+            <p>Etwas abseits vom schweren Leben ist es. Es schleicht<lb/>
+nicht dahin wie Brackwasser. Eine wundervolle Mischung<lb/>
+ist es, welche uns heiter macht und leicht. Man fühlt: Wie<lb/>
+schön wäre es, wenn ich immerwährend so sorgenlos, so<lb/>
+leichten Sinnes wäre. So unbedenklich sitze ich und lausche.<lb/>
+Niemanden beneide ich. Eine Rose kaufe ich und schenke<lb/>
+sie Signorina Maria. Eine wundervolle Cigarrette zünde ich<lb/>
+mir an. Wie lieblich die Mandolinen gebaut sind — wie<lb/>
+hohle tönende Birnen. Wie die Birkenblätter glitzern. Lor-<lb break="no"/>
+beerbäume, Aristokraten und Café-Liqueur passen zusammen.<lb/>
+Etwas Exceptionelles ist es. Wie herrlich sind die Antlitze<lb/>
+Italiens. Zum Weinen geradezu. Wie frei, wie würdevoll<lb/>
+sitzen diese Menschen. Und wenn sie sich vornüber neigen,<lb/>
+ist es, wie wenn sie lauschten, irgendwohin. Immer sind sie<lb/>
+anderswo, von sich weg. Wenn sie singen, bei ihren Liedern.<lb/>
+Wenn sie schweigen, bei ihrem Meere. O wie wundervoll<lb/>
+ist das. Es zieht uns mit. Wir haben uns gleichsam von uns<lb/>
+empfohlen und sind fortgeschwommen. Addio — — —.</p>
+            <p>Im leichten Leben stehen wir, wie Aristokraten, welche<lb/>
+von ihren Gütern leben, wie Liebende, die sich verloren<lb/>
+haben, wie Weise, welchen nichts geschehen könnte, was<lb/>
+sie überraschte, überrumpelte.</p>
+            <p>So unbedenklich sitzen wir und lauschen. Niemanden<lb/>
+beneiden wir. Eine wundervolle Cigarrette zünden wir uns<lb/>
+an. Eine Rose kaufen wir und schenken sie Signorina Maria.</p>
+            <p>Wie die Birkenblätter glitzern. Wie ruhig die Platane<lb/>
+steht. Und wie die Esche mit ihren zarten Blätterfingern bebt!</p>
+         </div>
+      </body>
+   </text>
+</TEI>

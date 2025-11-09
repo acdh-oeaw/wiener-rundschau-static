@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-18_n0694.xml" prev="WR-02-02-18_n0693.xml" next="WR-02-02-18_n0695.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 18, S. 694</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="18"/>
+                        <biblScope unit="page" n="n0694"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-08-01">1 8 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0470">
+                  <title level="a">Ein neues Buch von Karl Jentsch</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 18</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="18">18</biblScope>
+                  <biblScope unit="page" from="692" to="694"/>
+                  <idno type="fn">WR-02-02-18_n0692.xml</idno>
+                  <author ref="#wr-person-0151">Gumplowicz, Dr. Ladislas</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">694</fw>
+               <fw type="ctext">GUMPLOWICZ.</fw>
+            </fw>
+            <p>Hat aber Jentsch schon gegen Weismann — immerhin einem<lb/>
+achtungswerten Forscher von nicht alltäglicher Begabung und<lb/>
+erstaunlicher Arbeitskraft — in manchen Punkten recht, so hat er<lb/>
+noch hundertmal mehr recht gegen jene pseudodarwinistischen, national-<lb break="no"/>
+liberalen Parteipamphletisten, die Otto Ammon und Alexander Tille,<lb/>
+welche die schwankenden Hypothesen Weismanns zum Range von<lb/>
+Glaubenssätzen erhoben haben, um sie in alberner Dreistigkeit für<lb/>
+ihre schmutzigen Tendenzzwecke auszuschlachten. Bei Herrn Ammon,<lb/>
+diesem Schädelstatistiker pour rire, hätte sich Jentsch eigentlich gar<lb/>
+nicht so lange aufzuhalten brauchen. Der Mann hat seinen Beruf ver-<lb break="no"/>
+fehlt, er sollte naturwissenschaftlicher Mitarbeiter des Simplicissimus<lb/>
+werden. Ein viel gemeingefährlicheres Thier ist Herr Tille, der<lb/>
+Tausendsassa, der es fertig gebracht hat, (seinem in früheren Schriften<lb/>
+dargethanen besseren Wissen zum Trotz) die greuliche Verfälschung<lb/>
+der Zuchtwahl durch Capitalismus und Lohnsclaverei »darwinistisch«<lb/>
+zu rechtfertigen. Es ist herzerquickend zu lesen, wie Jentsch mit<lb/>
+seinem gesunden Mutterwitz (über den er überall verfügt, wo nichts<lb/>
+Theologisches in Frage kommt) und mit seinen soliden socialpolitischen<lb/>
+Kenntnissen die frechen Verdrehungen dieses wissenschaftlichen Hoch-<lb break="no"/>
+staplers ihrer ganzen Hohlheit entblösst. »Welcher Unsinn und welcher<lb/>
+Frevel«, donnert Jentsch, »jeden Menschen für minderwertig zu<lb/>
+erklären und zum Untergange zu verurtheilen, der sich für die Hatz<lb/>
+des modernen Erwerbslebens nicht eignet und z. B. mit seinem<lb/>
+Gehirn, seinen Augen und seinen Fingern das Tempo der mit Dampf<lb/>
+getriebenen Spindeln, die er bedienen soll, nicht innezuhalten vermag!<lb/>
+Die dazu erforderliche einseitige Virtuosität ist vom Standpunkte ver-<lb break="no"/>
+nünftiger Menschenabschätzung beinahe wertlos. Ein Bauer, der sich<lb/>
+nur langsam zu bewegen und langsam zu denken vermag, der aber<lb/>
+eine vielseitige Thätigkeit übt, Gemüth und Charakter hat, ist zehnmal<lb/>
+mehr wert als so ein lebendiger Maschinentheil. Der kühne Mann,<lb/>
+der sich unwürdigen Lebensbedingungen nicht fügen mag und Wild-<lb break="no"/>
+dieb wird, ist mehr wert als ein zweibeiniges Arbeitsthier.«</p>
+            <p>Herr Jentsch ist Theologe, Gott sei’s geklagt. Aber er ist ein<lb/>
+redlicher Mann und ein tapferer Socialist und als solcher unendlich<lb/>
+achtungswerter, als irgend ein Tille.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

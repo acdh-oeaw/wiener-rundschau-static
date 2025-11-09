@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-08_n0200.xml" prev="WR-04-08_n0199.xml" next="WR-04-08_n0201.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 8, S. 200</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="08"/>
+                        <biblScope unit="page" n="n0200"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0847">
+                  <title level="a">O grave where is thy Victory</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 8</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="175" to="208"/>
+                  <idno type="fn">WR-04-08_n0175.xml</idno>
+                  <author ref="#wr-person-0281">Toorop, Jan</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0854">
+                  <title level="a">Über Thiercultus vom völkerpsychologischen Standpunkte</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 8</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="196" to="201"/>
+                  <idno type="fn">WR-04-08_n0196.xml</idno>
+                  <author ref="#wr-person-0283">Achelis, Thomas</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">ACHELIS: ÜBER THIERCULTUS VOM VÖLKERPSYCHOLOGISCHEN STANDPUNKTE.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">geographischen Principien; für den ger-<lb break="no"/>
+manischen und slavischen Wolf setzt der<lb/>
+Afrikaner die Hyäne oder den Leopard ein.</p>
+                     <p>Auf einer höheren, speculativen Ent-<lb break="no"/>
+wicklungsstufe stellt sich unmerklich eine<lb/>
+Verschiebung zu Gunsten des Menschen<lb/>
+ein, so dass die Incarnation in einem<lb/>
+Thierkörper direct als Strafe für etwaige<lb/>
+im Diesseits begangene Sünden betrachtet<lb/>
+wird, oder — wo durch eine herrsch-<lb break="no"/>
+süchtige Priesterkaste die Schranken<lb/>
+zwischen den einzelnen Ständen so un-<lb break="no"/>
+übersteiglich gezogen waren, wie in Indien<lb/>
+durch die Brahmanen — dass ein Mensch<lb/>
+niederer Kaste eben nur in einem Thier<lb/>
+wiedergeboren werden konnte, während<lb/>
+umgekehrt die Seele des Frommen in<lb/>
+immer wiederholten Wiedergeburten sich<lb/>
+zu der Höhe göttlicher Natur und Voll-<lb break="no"/>
+kommenheit aufschwingt (vgl. <hi rend="text-spaced">Lippert</hi>:<lb/>
+Culturgeschichte).</p>
+                     <p>Nach diesen allgemeinen psychologi-<lb break="no"/>
+schen Erörterungen würde es unsere Auf-<lb break="no"/>
+gabe sein, diese Grundlinien der Theorie<lb/>
+durch concrete Erscheinungen zu veran-<lb break="no"/>
+schaulichen. Freilich wäre es ein hoffnungs-<lb break="no"/>
+loses Unternehmen, die Fülle des ethnologi-<lb break="no"/>
+schen Materials irgendwie erschöpfen zu<lb/>
+wollen, es kann sich nur um besonders charak-<lb break="no"/>
+teristische Thiere handeln, die für große<lb/>
+Völkergruppen auf bestimmten mytholo-<lb break="no"/>
+gisch-religiösen Entwicklungsstufen typische<lb/>
+Bedeutung erlangt haben. Das gilt vor allem<lb/>
+von der <hi rend="text-spaced">Schlange</hi>, vom <hi rend="text-spaced">Stier</hi> und vom<lb/>
+                        <hi rend="text-spaced">Adler</hi>. Leider verbietet uns aber der be-<lb break="no"/>
+grenzte Raum, der uns hier zur Verfügung<lb/>
+steht, jedes eingehende Detail. Von den<lb/>
+anderen Thieren, wie von dem im Budd-<lb break="no"/>
+hismus so gefeierten <hi rend="text-spaced">Elephanten</hi>, den<lb/>
+                        <hi rend="text-spaced">Kranichen</hi> und <hi rend="text-spaced">Hasen</hi> der Algonkins,<lb/>
+dem <hi rend="text-spaced">Hunde</hi> der Perser u. a. müssen wir<lb/>
+hier umsomehr absehen. Dagegen wollen<lb/>
+wir einen bislang häufig unterschätzten<lb/>
+Punkt hier kurz berühren, nämlich die<lb/>
+im <hi rend="text-spaced">Märchen</hi> und in der <hi rend="text-spaced">Thierfabel</hi>
+                        <lb/>
+hervortretende Bedeutung des Thier-<lb break="no"/>
+cultus.</p>
+                     <p>Auf Grund beschränkter Erfahrungen<lb/>
+— das classische Alterthum und manche</p>
+                  </cell>
+                  <cell>
+                     <p>Stoffe des Mittelalters waren die leitenden<lb/>
+Kriterien — hat man in der Fabel un-<lb break="no"/>
+berechtigterweise immer einen direct<lb/>
+                        <hi rend="text-spaced">moralischen</hi> Wert suchen wollen, eine<lb/>
+                        <hi rend="text-spaced">lehrhafte</hi> Tendenz, dem sie ihren Ursprung<lb/>
+zu verdanken hatte, während die Völker-<lb break="no"/>
+kunde unwiderleglich nachgewiesen hat,<lb/>
+dass der eigentlich nährende Untergrund<lb/>
+dieser so phantastischen Welt in der<lb/>
+früheren, uns Culturmenschen völlig ent-<lb break="no"/>
+fremdeten Vertrautheit des Menschen mit<lb/>
+den Thieren zu erkennen ist. Das Er-<lb break="no"/>
+staunen, das seinerzeit Max <hi rend="text-spaced">Müller</hi> in<lb/>
+Oxford äußerte, als er bei den Zulus auf<lb/>
+genau dieselben Erzählungen stieß, die<lb/>
+wir aus unseren Märchen in reicher<lb/>
+Fülle kennen, ist in der That sehr be-<lb break="no"/>
+zeichnend. Hier war nach dem Ausspruche<lb/>
+der berufensten Beurtheiler (so des Mis-<lb break="no"/>
+sionärs und Sprachenforschers Bleek) jede<lb/>
+äußere Übertragung ausgeschlossen, und<lb/>
+dennoch zeigten sich mit leichten localen Än-<lb break="no"/>
+derungen, wie sie durch den anderen Schau-<lb break="no"/>
+platz geboten waren, derselbe Typus, die-<lb break="no"/>
+selben Grundzüge der Behandlung —<lb/>
+abermals ein Zeugnis für die <hi rend="text-spaced">social</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">psychische</hi> Anlage des Genus Homo<lb/>
+sapiens, dessen Denkvermögen sich, wie<lb/>
+schon <hi rend="text-spaced">Peschel</hi> mit Recht bemerkt hat,<lb/>
+bis auf seine seltsamsten Sprünge und<lb/>
+Verirrungen gleicht. Erst später, als das<lb/>
+naive Bewusstsein, die unbefangene ani-<lb break="no"/>
+mistische Auffassung der Welt einer kriti-<lb break="no"/>
+schen Betrachtung gewichen war, treffen<lb/>
+wir auf die bekannten Parabeln, die sich in<lb/>
+dem Satz concentrieren: Quid fabula docet<lb/>
+— und Spuren dieser rationalisierenden<lb/>
+Behandlung lassen sich, wie <hi rend="text-spaced">Tylor</hi> ganz<lb/>
+richtig nachgewiesen hat, in dem reichen<lb/>
+Sagenkranz erkennen, der sich um die<lb/>
+Person des nordamerikanischen Gottes<lb/>
+Menabodzho schlingt.* Jenen socialen Hinter-<lb break="no"/>
+grund des Märchens, den unsere Literatur-<lb break="no"/>
+historiker in lauter Bewunderung der poe-<lb break="no"/>
+tischen Kraft nur allzusehr übersehen<lb/>
+baben, jene socialen und vorsocialen<lb/>
+Äußerungen der menschlichen Psyche<lb/>
+darf man bei der Betrachtung der Mythen-<lb break="no"/>
+welt und ihres Überganges in die lieb-</p>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Hier ist die Ähnlichkeit mit dem polynesischen Gott Maui, dem Cultur-Heros der Poly-<lb break="no"/>
+nesier, der aber, ähnlich wie <hi rend="text-spaced">Till Eulenspiegel</hi>, an listigen Einfällen und burlesken Streichen<lb/>
+reich ist, unverkennbar (vergl. <hi rend="text-spaced">Bastian</hi>: Zur Kenntnis Hawaiis). Aber anderseits ist es wohl<lb/>
+möglich, dass, wie <hi rend="text-spaced">Brinton</hi> vermuthet, hier spätere Umänderungen und Entstellungen des<lb/>
+ursprünglichen Charakters eingetreten sind.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

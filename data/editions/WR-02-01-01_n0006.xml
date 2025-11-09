@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-01_n0006.xml" prev="WR-02-01-01_n0005.xml" next="WR-02-01-01_n0007.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 1, S. 6</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0006"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-11-15">15 11 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0302">
+                  <title level="a">Im Café</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="6" to="7"/>
+                  <idno type="fn">WR-02-01-01_n0006.xml</idno>
+                  <author ref="#wr-person-0116">Garde, Arnold</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>IM CAFÉ.<lb/>
+Von <rs type="person" key="">Arnold Garde</rs>.</title>
+            </ab>
+            <p>Draussen ging ein dichter Abendregen nieder. Nur wenige Gäste.<lb/>
+Hinten am Buffet ein paar Lichter. In rosa Seide lag die brünette<lb/>
+Buffetière auf einen Stuhl hingegossen und träumte, dem dolce far<lb/>
+niente hingegeben.</p>
+            <p>In einer Ecke — es war nahezu dunkel — sassen zwei Künstler.</p>
+            <p>Der eine, der beständig das Wort führte, war jung und befand<lb/>
+sich heute in miserabelster Stimmung. Er sprach, wie aus der Vogel-<lb break="no"/>
+perspective, über Gott, Welt und Menschen, immer von einem sou-<lb break="no"/>
+veränen Standpunkt, und kam dabei vom Hundertsten ins Tausendste.</p>
+            <p>Der alte Weisskopf neben ihm sprach fast gar nicht, nickte<lb/>
+hin und wieder beifällig auf die heftigen Demonstrationen seines jugend-<lb break="no"/>
+lichen Gesellschafters, warf nur manchmal eine kurze, bissige, auf-<lb break="no"/>
+stachelnde Bemerkung hin und kaute beständig an einem längst aus-<lb break="no"/>
+gegangenen Cigarrenstummel.</p>
+            <p>Der Junge phantasirte:</p>
+            <p>Ein eigenartiges Land, diese Erde. Hier Rosen und dort Schier-<lb break="no"/>
+ling, und beide sind für den Menschen gesäet. Und wenn er schon auf<lb/>
+den Sterbekissen liegt, summt ihm noch der Lärm der Welt im Ohre,<lb/>
+als wenn er von der Kirmes heimgekehrt sei, und bereitet ihm den<lb/>
+bittersten Trennungsschmerz, oder — er verwünscht ihn und sagt sich:<lb/>
+Gottlob, bald hör’ ich den Klimbim nicht mehr.</p>
+            <p>Ich erinnere mich eines jungen Mannes in Hamburg, der oben<lb/>
+im fünften Stock in einer kleinen armseligen Kammer seine letzte<lb/>
+Kraft verströmen fühlte. Da fing eine Orgel auf der Strasse an zu<lb/>
+spielen, und die bestrickende, selige Melodie eines Walzers, den nur<lb/>
+ein Verliebter ersonnen haben konnte, klang durch die laue Abendluft<lb/>
+hinauf, in das Fenster zu dem armen Teufel und schlang ihre Schmeichel-<lb break="no"/>
+arme um das zitternde verathmende Menschenherz, das sich schon mit<lb/>
+dem Leben abgefunden hatte.</p>
+            <p>Es war eine Sünde.</p>
+            <p>Wie ein Rausch kam es über den Sterbenden, ein unsägliches<lb/>
+Heimweh stieg in ihm auf, eine tolle Sehnsucht nach Allem, was ihm<lb/>
+auf der Erde des Genusses werth schien, nach Liebesabenteuern in<lb/>
+dunklen Gärten und blauen Sommernächten, nach Tanz unter strahlen-<lb break="no"/>
+den Kerzen, nach rothen Mädchenlippen und blitzenden, lachenden<lb/>
+Mädchenaugen.</p>
+            <p>Er flüsterte noch: Mein Gott, mein Gott, ich will noch nicht,<lb/>
+               <hi rend="text-spaced">noch nicht</hi> sterben!</p>
+         </div>
+      </body>
+   </text>
+</TEI>

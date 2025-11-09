@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-19_n0727.xml" prev="WR-01-02-19_n0726.xml" next="WR-01-02-19_n0728.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 19, S. 727</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="19"/>
+                        <biblScope unit="page" n="n0727"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-08-15">15 8 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0238">
+                  <title level="a">Maurice Maeterlinck</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 19</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="19">19</biblScope>
+                  <biblScope unit="page" from="722" to="727"/>
+                  <idno type="fn">WR-01-02-19_n0722.xml</idno>
+                  <author ref="#wr-person-0094">Bornstein, Dr. Paul</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MAURICE MAETERLINCK.</fw>
+               <fw type="pn">727</fw>
+            </fw>
+            <p>In Maeterlinck’s Dramen geschieht wenig; die Grundidee ist meist<lb/>
+wenig ergiebig; die äussere Handlung geringfügig. Unmerklich fast,<lb/>
+langsam und mit müdem Schritt rückt sie vor. Aber dieses müde Vor-<lb break="no"/>
+rücken erzeugt gleichwohl auf seelischem Gebiete eine Spannung, die,<lb/>
+zunächst jenseits der Schwelle des Bewusstseins bleibend, dann als<lb/>
+dumpfe Ahnung hervortretend, durch das Eingreifen der geheimniss-<lb break="no"/>
+vollen Kräfte alsbald verhundertfacht wird. Folgen die physischen Vor-<lb break="no"/>
+gänge einander in arithmetischer, so die psychischen in geometrischer<lb/>
+Progression. Wo die beiden Reihen einander berühren, sprühen<lb/>
+elektrische Funken. Bis dass die Spannung auf seelischem Gebiet im<lb/>
+Herannahen des Fatums so ungeheuer wird, dass aus dumpfer Schwüle<lb/>
+in donnernder Detonation der Blitz zuckt, der, in die Welt der Körper<lb/>
+hinüberschlagend und diese in jähe Flammen setzend, die grause Kata-<lb break="no"/>
+strophe auslöst. Maeterlinck’s Tragik ist nicht laut und lärmend, sie<lb/>
+ist still und demüthig; aber sie ist düster und geheimnissvoll und<lb/>
+furchtbar in ihren spärlichen Höhepunkten. Sie gleicht den dunklen<lb/>
+Wassern, deren glatter und ruhiger Spiegel ihre abgründige Tiefe nicht<lb/>
+ahnen lässt. Aber lasset nur das Verhängniss, das am Ufer kauert,<lb/>
+ein Sternchen in die Fluth stossen, und jählings, wie in einem siedenden<lb/>
+Kessel, schäumt es auf in wilden Wellen und weissem Gischte. Und im<lb/>
+brandenden Gewoge dieser brausenden Fluthen Menschen ringen zu<lb/>
+sehen — schuldlose Menschen, in stummem, in aussichtslosem Kampf<lb/>
+— das ist ein Schauspiel so herzzerreissend und erschütternd, dass es<lb/>
+die Seele des Zuschauers wie mit eisernen Krallen in ihren tiefsten<lb/>
+Tiefen packt.</p>
+            <p>Wem es aber gelingt — gleichviel wie — unsere Seelen so in<lb/>
+den Bann seiner Eigenart — gleichviel welcher — zu schlagen, dass<lb/>
+wir uns widerstandslos dem Reiz einstürmender Gefühle ergeben müssen,<lb/>
+dem schulden wir den Kranz; der ist ein echter Künstler.</p>
+            <p>(Schluss folgt.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

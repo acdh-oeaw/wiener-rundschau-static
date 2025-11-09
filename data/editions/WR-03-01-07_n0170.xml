@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-07_n0170.xml" prev="WR-03-01-07_n0169.xml" next="WR-03-01-07_n0171.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 7, S. 170</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="07"/>
+                        <biblScope unit="page" n="n0170"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0596">
+                  <title level="a">Ein deutsches Drama</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 7</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="168" to="171"/>
+                  <idno type="fn">WR-03-01-07_n0168.xml</idno>
+                  <author ref="#wr-person-0071">Schmitz, Oscar A. H.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">SCHMITZ: EIN DEUTSCHES DRAMA.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Frucht seiner That. Reift doch sein Werk<lb/>
+in der Brust des andern, der nicht ein-<lb break="no"/>
+mal den Streuer der Saat erkennt. Sein<lb/>
+Gegenspieler ist der selbstsüchtige, un-<lb break="no"/>
+schöpferische Rother.</p>
+                     <milestone unit="performance-start"/>
+                     <milestone unit="speech-start"/>
+                     <lg>
+                        <l>»Er riss die Gottgeweihte vom Altare,</l>
+                        <l>Die Frau des Bürgers aus dem Haus, er nahm</l>
+                        <l>Dem Zöllner den Zoll, dem Schiffer die Ware,</l>
+                        <l>Dem Bauern das Vieh, dem Krämer den Kram.»</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                     <p>Es scheint, als ob der lebensfeindliche<lb/>
+Dunstkreis dieses Mannes lähmend über<lb/>
+der Burg und ihren zurückgebliebenen<lb/>
+Insassen lastet. In dieser Burg, wo das<lb/>
+Leben schläft,</p>
+                     <milestone unit="verse-start"/>
+                     <lg>
+                        <l>»Dem dumpfen Hafen</l>
+                        <l>Der seelenlosen stillen Gährung«</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>hat sich Eulenspiegel als Thürmer ver-<lb break="no"/>
+dingt. Mit seinem Tagelied beginnt der<lb/>
+                        <hi rend="strong">1.</hi> Act:</p>
+                     <milestone unit="performance-start"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Eulenspiegel</hi>:</p>
+                     <lg>
+                        <l>»Was Euch nur wuchs, erraffet,»</l>
+                        <l>Die Frucht ist sonder Zahl.«</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                     <p>So tönt es in das Leben der Burg<lb/>
+mit seinen Möglichkeiten und keiner Er-<lb break="no"/>
+füllung. Sein Lied singt sich in der<lb/>
+Frauen Herz:</p>
+                     <milestone unit="performance-start"/>
+                     <milestone unit="speech-start"/>
+                     <lg>
+                        <l>»Es ist,</l>
+                        <l>Als ob er all unser Wollen wüsst.«</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                     <p>Das Wollen der wilden, übermüthigen<lb/>
+Titanietta, des Gauklerkindes mit prunken-<lb break="no"/>
+der Brust, die alle Herzen trunken macht,<lb/>
+die von dem träumt, der da kommen<lb/>
+wird und die alle andern verachten darf,<lb/>
+die träumt von der Jagd auf schnell ent-<lb break="no"/>
+führendem Ross — und wär’s der Ritt<lb/>
+in den Tod, das Wollen nach Macht und<lb/>
+Fülle:</p>
+                     <milestone unit="performance-start"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Titanietta</hi>:</p>
+                     <lg>
+                        <l>»Gold, o in die schweren, güld’nen, kühlen</l>
+                        <l>Haufen die nackten Arme zu versenken</l>
+                        <l>Und in gewichtiger voller Fülle wühlen.«</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                     <p>Also erkennt sie Eulenspiegel, »das<lb/>
+weiblichste Weib im Lieben und im<lb/>
+Hassen«:</p>
+                     <milestone unit="performance-start"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Eulenspiegel</hi>:</p>
+                     <lg>
+                        <l>»Jungfräulich schmachtest Du nach dem Be-</l>
+                        <l>freier,</l>
+                        <l>Nahm erst ein Starker Dir den Schleier,</l>
+                        <l>Und hättest Du dein Bestes selig ihm gegeben,</l>
+                        <l>Dann begönne erst Dein Leben.«</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                     <p>Aber ehe dieser eine kommt, ist sie<lb/>
+die Geissel der halben Männer, die ihr<lb/>
+sich selbst und ihr Gold zu Füssen legen:</p>
+                     <milestone unit="performance-start"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Eulenspiegel</hi>:</p>
+                     <lg>
+                        <l>»Macht willst Du und Ruhm und Gold,</l>
+                        <l>Siehst Fürsten noch in Deinem Sold!</l>
+                     </lg>
+                  </cell>
+                  <cell>
+                     <lg>
+                        <l>Auf einem rosinfarben Thiere,</l>
+                        <l>Scharlaken zum Gewand,</l>
+                        <l>Auf goldgehörntem Stiere,</l>
+                        <l>Schaumbecher in der Hand,</l>
+                     </lg>
+                     <lg>
+                        <l>Und trunken Deine Lippen,</l>
+                        <l>Trunken von heiligem Blut,</l>
+                        <l>Umstöhnt von erschlafften Gerippen,</l>
+                        <l>Peitschend die brünstige Flut:</l>
+                     </lg>
+                     <lg>
+                        <l>So fährst Du vollendet durch Dein Reich,</l>
+                        <l>Frohlockst der grossen Babel gleich!</l>
+                        <l>Unrein oder rein:</l>
+                        <l>Was gilts? — Schlag ein!</l>
+                        <l>So bist Du geboren, so sollst Du sein!«</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                     <p>Und gleicherweise erkennt er das<lb/>
+Wollen der halberschlossenen, verachteten<lb/>
+Emma, er erkennt ihr adeliges Blut und<lb/>
+ihre königliche Seele, er erkennt in ihr<lb/>
+das einzige Wesen, in welchem er nichts<lb/>
+aufzurütteln hat, das ihm alles von selbst<lb/>
+entgegenbringt:</p>
+                     <milestone unit="performance-start"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Eulenspiegel</hi>:</p>
+                     <lg>
+                        <l>Was ich in andern mächtig erst errege.</l>
+                        <l>Das bringst Du voll Vertrauen mir zum Pfand,</l>
+                        <l>Dass ich Dich stets auf meinem Wege</l>
+                        <l>Neu finden darf, wie ich Dich fand,</l>
+                        <l>Weil Du Dich selber mir gegeben,</l>
+                        <l>Weil Du Dich mir aus Liebe gabst. —</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Emma</hi>:</p>
+                     <lg>
+                        <l>Von allem, was Du sprichst und gibst,</l>
+                        <l>Versteh’ ich nur, dass Du mich liebst.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Eulenspiegel</hi>:</p>
+                     <lg>
+                        <l>Emma. Jungfer Königin!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                     <p>Eulenspiegel, Rother, Emma und Tita-<lb break="no"/>
+nietta, das sind die vier Ausnahmsgestalten<lb/>
+dieser Komödie, es sind vier Arten Mensch,<lb/>
+während die übrigen Mitspieler der einen<lb/>
+Art des Durchschnittes angehören, womit<lb/>
+natürlich nichts gegen die Dichtung ge-<lb break="no"/>
+sagt ist. Eulenspiegel und Emma sind<lb/>
+gebend und schöpferisch. Rother, der zer-<lb break="no"/>
+störende Nachtalbe, muss vor dem An-<lb break="no"/>
+sturm des Lebens fallen. Titanietta, das<lb/>
+Weib, kann gerettet werden durch den<lb/>
+»Arm, der mit Gewalt umwindet«, durch<lb/>
+den Liebenden, der naht der Braut. Sie<lb/>
+erkennt durch ihn ihr nichtiges, vernich-<lb break="no"/>
+tendes Sein:</p>
+                     <milestone unit="performance-start"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Titanietta</hi>:</p>
+                     <lg>
+                        <l>»Ach wär ich diesem leeren Nichts entronnen!</l>
+                        <l>Könnt ich auch nur das Kleinste schaffen.</l>
+                        <l>Ein weniges, dem ich mein Wesen lieh!</l>
+                        <l>Ich kann nur reizen und vernichten.«</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                     <p>Gleichzeitig greift Eulenspiegel er-<lb break="no"/>
+füllend ein in die Geschicke der liebens-<lb break="no"/>
+würdigen Alltagsgestalten, indem er den</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

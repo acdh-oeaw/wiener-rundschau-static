@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-18_n0419.xml" prev="WR-03-02-18_n0418.xml" next="WR-03-02-18_n0420.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 18, S. 419</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="18"/>
+                        <biblScope unit="page" n="n0419"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0701">
+                  <title level="a">Kaiserin Elisabeth</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 18</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="18">18</biblScope>
+                  <biblScope unit="page" from="417" to="419"/>
+                  <idno type="fn">WR-03-02-18_n0417.xml</idno>
+                  <author ref="#wr-person-0030">Barrès, Maurice</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0702">
+                  <title level="a">Schweigen</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 18</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="18">18</biblScope>
+                  <biblScope unit="page" from="419" to="421"/>
+                  <idno type="fn">WR-03-02-18_n0419.xml</idno>
+                  <author ref="#wr-person-0235">Poe, Edgar Allan</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">POE: SCHWEIGEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">angefault durch die Commentare, die in<lb/>
+formlosen, klebrigen Haufen an ihn heran-<lb break="no"/>
+gekrochen. Man muss aus dem Granit<lb/>
+eines Pascal, Rousseau, Byron und Chateau-<lb break="no"/>
+briand geformt sein, um Schmarotzern zu<lb/>
+widerstehen, von denen schwankende Ge-<lb break="no"/>
+stalten sehr rasch entehrt und entstellt<lb/>
+werden, Gestalten, die in uns zwar Be-<lb break="no"/>
+trachtungen wachzurufen vermögen, aber<lb/>
+es vernachlässigt haben, sich in Kunstform<lb/>
+umzusetzen und ihre reizvolle Beweglich-<lb break="no"/>
+keit in standfeste Vollkommenheit zu<lb/>
+wandeln.</p>
+                     <p>
+                        <milestone unit="hr"/>
+                        <lb/>
+                        <milestone unit="hr"/>
+                        <lb/>
+                        <milestone unit="hr"/>
+                        <lb/>
+                        <milestone unit="hr"/>
+                     </p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">
+                        <milestone unit="hr"/>
+                        <lb/>
+                        <milestone unit="hr"/>
+                        <lb/>
+                        <milestone unit="hr"/>
+                        <lb/>
+                        <milestone unit="hr"/>
+                        <lb/>
+                        <milestone unit="hr"/>
+                        <lb/>
+                        <milestone unit="hr"/>
+                        <lb/>
+                        <milestone unit="hr"/>
+                     </p>
+                     <p>Auguste Comte wiederholte täglich<lb/>
+in seinen »Gebeten« eine Formel, die er<lb/>
+von Frau Clothilde de Vaux hatte, und<lb/>
+deren Doppelsinn in einer eingehenderen<lb/>
+Studie über die herrlichen Enthüllungen<lb/>
+des Dr. Christomanos entwickelt werden<lb/>
+sollte; es sind das die Worte: »Es ist<lb/>
+grosser Herzen unwürdig, das Leid zu<lb/>
+verbreiten, das sie selbst empfinden«.</p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">SCHWEIGEN</hi>.<lb/>
+Von <rs type="person" key="">EDGAR ALLAN POE</rs>.</title>
+            </ab>
+            <milestone unit="epigraph-start"/>
+            <p>Die Gipfel der Berge schlummern;<lb/>
+Thäler, Felsen und Höhlen schweigen.</p>
+            <milestone unit="untyped-end"/>
+            <table>
+               <row>
+                  <cell>
+                     <p>Höre mich an — sagte der <hi rend="text-spaced">Dämon</hi>
+                        <lb/>
+und legte seine Hand auf mein Haupt.<lb/>
+Das Land, von dem ich spreche, ist ein<lb/>
+trauervolles Land in Libyen, an den Ufern<lb/>
+des Flusses Zaïre. Und dort ist nicht Ruhe,<lb/>
+noch Schweigen.</p>
+                     <p>Die Wasser des Flusses sind von safran-<lb break="no"/>
+gelber, kranker Farbe; und sie strömen<lb/>
+nicht weiter, dem Meere zu, sondern<lb/>
+bäumen sich ewig unter dem rothen Auge<lb/>
+der Sonne mit stürmischer, krampfhafter<lb/>
+Bewegung empor. Zu jeder Seite des<lb/>
+schlammigen Flussbettes zieht sich viele<lb/>
+Meilen weit eine bleiche Wüste giganti-<lb break="no"/>
+scher Wasserlilien hin. Sie seufzen einander<lb/>
+durch die Einöde zu und recken ihre<lb/>
+langen, gespenstigen Hälse zum Himmel<lb/>
+empor und schütteln ihr unvergängliches<lb/>
+Haupt. Und es geht ein undeutliches<lb/>
+Murmeln von ihnen aus, wie von dem<lb/>
+Rauschen eines unterirdischen Stromes.<lb/>
+Und sie seufzen einander zu.</p>
+                     <p>Aber ihr Reich hat eine Grenze —<lb/>
+die Grenze ist ein dunkler, schreckenvoller,<lb/>
+hoher Wald. Das niedrige Unterholz ist,<lb/>
+wie die Meereswellen um die Hebriden, in</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">immerwährender Bewegung. Und doch<lb/>
+regt sich kein Hauch am Himmel. Und<lb/>
+die ungeheueren Urwaldbäume schwanken<lb/>
+ewig mit machtvollem Rauschen hin und<lb/>
+her. Und aus ihren hohen Gipfeln tropft<lb/>
+immerwährender Thau. Und zu ihren<lb/>
+Füssen winden sich seltsame, giftige Blumen<lb/>
+in unruhigem Schlummer. Und über ihren<lb/>
+Häuptern eilen die grauen Wolken mit<lb/>
+lautem Rauschen immer westwärts, bis sie<lb/>
+als Katarakt über die feurigen Mauern des<lb/>
+Horizonts hinabstürzen. Und doch ist kein<lb/>
+Hauch am Himmel. Und an den Ufern<lb/>
+des Flusses Zaire ist nicht Ruhe noch<lb/>
+Schweigen.</p>
+                     <p>Es war Nacht, und der Regen fiel;<lb/>
+und da er fiel, war es Regen, aber da er<lb/>
+gefallen, war es Blut. Und ich stand im<lb/>
+Sumpfe unter den hohen Lilien, und der<lb/>
+Regen fiel auf mein Haupt, und die Lilien<lb/>
+seufzten einander zu in der Feierlichkeit<lb/>
+ihrer Verlassenheit.</p>
+                     <p>Und plötzlich gieng durch einen leichten<lb/>
+geisterhaften Nebel der Mond auf und war<lb/>
+von carmoisinrother Farbe. Und meine<lb/>
+Blicke fielen auf einen ungeheueren grauen</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

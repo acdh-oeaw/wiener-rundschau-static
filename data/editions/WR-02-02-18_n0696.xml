@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-18_n0696.xml" prev="WR-02-02-18_n0695.xml" next="WR-02-02-18_n0697.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 18, S. 696</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="18"/>
+                        <biblScope unit="page" n="n0696"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-08-01">1 8 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0471">
+                  <title level="a">Paniscus</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 18</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="18">18</biblScope>
+                  <biblScope unit="page" from="695" to="699"/>
+                  <idno type="fn">WR-02-02-18_n0695.xml</idno>
+                  <author ref="#wr-person-0119">Schmitz, Oskar A. H.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">696</fw>
+               <fw type="ctext">SCHMITZ.</fw>
+            </fw>
+            <lg>
+               <l>an der ich wie ein Sclave vor Dir liege,</l>
+               <l>gefesselt, plump und schwer, der braune Sohn</l>
+               <l>der Erde. Oder sah ich falsch, entstiegest</l>
+               <l>des Baumes Dunkel Du, ist Daphne,</l>
+               <l>der Lorbeer wieder Weib geworden, beut</l>
+               <l>mir eine Lust, die sie Apoll versagte?</l>
+            </lg>
+            <lg>
+               <l>Horch, wie der Schlummer der Hamadryaden</l>
+               <l>uns rings umathmet, wie im stillen Mittag</l>
+               <l>ein jeder Tropfen, der des Brunnens Mund</l>
+               <l>entfällt und in die Muschel trieft, ein Wort</l>
+               <l>geheimnisvoll und licht zu flüstern scheint.</l>
+               <l>O möge jeder ein Geschwister sein</l>
+               <l>von unseren Küssen, lass der Lippe Brand</l>
+               <l>mich löschen an der Schale Deiner Reize;</l>
+               <l>und was der heisse Morgen in mir reifte</l>
+               <l>dem Schweifenden, dem Dürstenden, sei Dir,</l>
+               <l>sei Deinem Schoss vertraut.</l>
+            </lg>
+            <lg>
+               <l>Schon kannt ich Dich</l>
+               <l>und Deine Stimme. Hast Du nicht am Fest</l>
+               <l>des Gartengottes, als dem Bett des Gatten</l>
+               <l>Eos noch nicht entfloh’n, am Bache früh</l>
+               <l>das Syrinxrohr geblasen? War an jenem</l>
+               <l>beglückten Tage nicht der Hündin Brunst,</l>
+               <l>der Taube Rufen und der Käfer Leuchten</l>
+               <l>von Deinem Lied ein schwaches Widerspiel?</l>
+               <l>Bist Du es nicht, die mich erbeben lässt,</l>
+               <l>wenn in dem Lorbeerhain ich früh erwache,</l>
+               <l>verwirrend Seufzen in den Blättern lockt</l>
+               <l>und sanfte Lüfte mir wie Nymphenlippen</l>
+               <l>den Leib umkosen? Wenn die Sternenblumen,</l>
+               <l>die weissen, um mein Lager starren, sind es</l>
+               <l>die kühlen Brüste Deiner Jungfrau’nschaft,</l>
+               <l>die bebend sich zu meinem Antlitz recken,</l>
+               <l>bis sie mein Bart gestreift; auch heute suchte</l>
+               <l>ich Dich, auch gestern, werde morgen Dich,</l>
+               <l>in jeder Welle Deiner Hüfte Schwung</l>
+               <l>zu sehen wähnen, jedes Mooses Flaum</l>
+               <l>lockt mich zum Kusse, mahnt an Deinen Schoss</l>
+               <l>und an die Rose, die er tief verbirgt.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

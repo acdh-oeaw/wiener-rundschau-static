@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-01_n0021.xml" prev="WR-01-01-01_n0020.xml" next="WR-01-01-01_n0022.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 1, S. 21</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0021"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-11-15">15 11 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0008">
+                  <title level="a">Die demolirte Literatur</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="19" to="27"/>
+                  <idno type="fn">WR-01-01-01_n0019.xml</idno>
+                  <author ref="#wr-person-0008">Kraus, Karl</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DIE DEMOLIRTE LITERATUR.</fw>
+               <fw type="pn">21</fw>
+            </fw>
+            <p rend="no-intend">dem complicirten Apparat von Richtungen, die in der Folge<lb/>
+einander ablösten, vertraut zu machen; die bis dahin als<lb/>
+Zuträger einer veralteten Literatur gedient hatten, waren<lb/>
+nun als Zahlmarqueure einer modernen Bewegung mit der<lb/>
+Umwerthung aller Werthe beschäftigt; sie verstanden es, mit<lb/>
+der Zeit zu gehen, und genügten bald den Anforderungen einer<lb/>
+gesteigerten Sensitivität. Die Stimmungsmenschen, die jetzt<lb/>
+wie die Pilze aus dem Erdboden schossen, verlangten seltsame<lb/>
+Farbencompositionen für Gefrorenes und Melange, es machte<lb/>
+sich die gebieterische Forderung nach inneren Erlebnissen<lb/>
+geltend, so dass die Einführung des Absynths als eines auf<lb/>
+die Nerven wirkenden Getränkes nothwendig wurde. Sollte<lb/>
+die heimische Literatur aus Paris und Deutschland ihre An-<lb break="no"/>
+regungen erhalten, so musste das Kaffeehaus sich die Ein-<lb break="no"/>
+richtungen von Tortoni und Kaiserhof zum Muster nehmen.</p>
+            <p>Bald war man mit dem consequenten Realismus fertig,<lb/>
+und Griensteidl stand im Zeichen des Symbolismus. »Heim-<lb break="no"/>
+liche Nerven!« lautete jetzt die Parole, man fing an, »Seelen-<lb break="no"/>
+stände« zu beobachten und wollte der gemeinen Deutlichkeit<lb/>
+der Dinge entfliehen. Eines der wichtigsten Schlagworte aber<lb/>
+war »Das Leben«, und allnächtlich kam man zusammen, sich<lb/>
+mit dem Leben auseinanderzusetzen oder, wenn’s hoch ging,<lb/>
+das Leben zu deuten.</p>
+            <p>Die ganze Literaturbewegung einzuleiten, die zahlreichen<lb/>
+schwierigen Ueberwindungen vorzunehmen, nicht zuletzt,<lb/>
+dem Kaffeehausleben den Stempel einer Persönlichkeit auf-<lb break="no"/>
+zudrücken, war ein Herr aus Linz berufen worden, dem es in<lb/>
+der That bald gelang, einen entscheidenden Einfluss auf die<lb/>
+Jugend zu gewinnen und eine dichte Schaar von Anhängern<lb/>
+um sich zu versammeln. Eine Linzer Gewohnheit, Genialität<lb/>
+durch eine in die Stirne baumelnde Haarlocke anzudeuten,<lb/>
+fand sogleich begeisterte Nachahmer, — die Modernen wollten<lb/>
+es betont wissen, dass ihnen der Zopf nicht hinten hing.<lb/>
+Alsbald verbot der verwegene Sucher neuer Sensationen<lb/>
+aus Linz seinen Jüngern, von dem »Kaiserfleisch des Natu-<lb break="no"/>
+ralismus« zu essen, empfahl ihnen dafür die »gebackenen<lb/>
+Ducaten des Symbolismus« und wusste sich durch derlei<lb/>
+zweckmässige Einführungen in seiner Position als erster<lb/>
+Stammgast zu behaupten. Seine Schreibweise wurde von der</p>
+         </div>
+      </body>
+   </text>
+</TEI>

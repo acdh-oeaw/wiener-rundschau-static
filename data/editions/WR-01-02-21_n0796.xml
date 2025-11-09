@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-21_n0796.xml" prev="WR-01-02-21_n0795.xml" next="WR-01-02-21_n0797.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 21, S. 796</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="21"/>
+                        <biblScope unit="page" n="n0796"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-09-15">15 9 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0255">
+                  <title level="a">Der alte Oberst</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 21</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="793" to="796"/>
+                  <idno type="fn">WR-01-02-21_n0793.xml</idno>
+                  <author ref="#wr-person-0099">Pastor, Willy</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">796</fw>
+               <fw type="ctext">PASTOR.</fw>
+            </fw>
+            <p rend="no-intend">Möglichkeiten weg, eine um die andere, machte ihren Gedankenumfang<lb/>
+enger, immer enger, bis schliesslich von all dem Reichthum nur der<lb/>
+eine Gedanke blieb, der dort jetzt auf und nieder ging.</p>
+            <p>War das vielleicht der Sinn des Lebens, wenn das Leben sich<lb/>
+auf baute auf Walzern und bunten Träumen?</p>
+            <p>Er war schliesslich wie behext von dem Anblicke der Alten.<lb/>
+Nach Mitternacht erst machte sie sich auf den Weg, stumm und langsam.<lb/>
+Sie hatte ihr Ziel nicht erreicht. Er sah ihr nach, mit fiebernden Augen,<lb/>
+bis ihre schweren Schritte verhallt waren in der schwarzen Regennacht.<lb/>
+Ihm war, als sei sein Glück mit ihr gegangen. In seinen Ohren liessen<lb/>
+die »Liebesklänge« noch immer ihre Arabesken spielen und gleiten,<lb/>
+aber —</p>
+            <p>»Bist du denn ganz verrückt geworden? Oder willst du dich über<lb/>
+mich lustig machen mit deinem Getingel?!«</p>
+            <p>»Sie« war wieder eingetreten, empört über die ewige Wiederholung<lb/>
+desselben Walzers. Wie ein eiskalter Wasserfall strömten ihre Worte<lb/>
+über ihn her. Er stellte die Spieluhr ab und nahm ein Buch zur Hand.<lb/>
+Aber ihre Stimme wollte nicht mehr stille werden.</p>
+            <p>Ja, ja, die Stimme, ihre Stimme, sie war doch sehr, sehr stark<lb/>
+geworden in den 36 Jahren ihrer Ehe.</p>
+            <p>Er räusperte sich.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

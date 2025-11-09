@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-23_n0865.xml" prev="WR-02-02-22_n0864.xml" next="WR-02-02-23_n0866.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 23, S. 865</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="23"/>
+                        <biblScope unit="page" n="n0865"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-10-15">15 10 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0514">
+                  <title level="a">Die menschliche Wahrheit über Bismarck</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 23</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="865" to="871"/>
+                  <idno type="fn">WR-02-02-23_n0865.xml</idno>
+                  <author ref="#wr-person-0168">Bleibtreu, Karl</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>15. <hi rend="text-spaced">OCTOBER</hi> 1898</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIE MENSCHLICHE WAHRHEIT ÜBER BISMARCK.<lb/>
+Von <rs type="person" key="">KARL BLEIBTREU</rs> (Wilmersdorf bei Berlin).<lb/>
+(Schluss.)</title>
+            </ab>
+            <p>Den Wert einer Meinung verbürgt ihre innere Wahrhaftigkeit.<lb/>
+Wer mit Unwahrheiten hantiert, um seine Überzeugung durchzudrücken,<lb/>
+verräth hiermit selbst, auf wie schwachen Füssen sie schwankt. Ein<lb/>
+Patriotismus, der absichtlich die Wahrheit verdunkelt, mag Chauvinismus<lb/>
+sein, dem der Zweck alle Mittel heiligt, eine Tugend aber ist er sicher<lb/>
+nicht. Hier springt uns nun ein ungemein bezeichnender Fall ins<lb/>
+Auge, nämlich die neuesten Enthüllungen von Busch über die Emser<lb/>
+Depesche, die allerdings in der Hauptsache nichts Neues bringen, wohl<lb/>
+aber die Begleitumstände verschärfen. C’est le ton qui fait la musique.<lb/>
+Dass die ursprüngliche lange Originaldepesche Abekens eine »Chamade«<lb/>
+und Bismarcks kurze Redigierung eine »Fanfare« war, wussten wir<lb/>
+schon früher. Nicht aber wagte man so deutlich festzustellen, dass<lb/>
+der König zu jedem Nachgeben, zu »einem zweiten Olmütz« bereit<lb/>
+schien und dass der Eindruck der Abeken’sehen Depesche ein geradezu<lb/>
+niederschmetternder war, den kriegslustigen Moltke nach Anhörung<lb/>
+dieses Schriftstücks gleichsam als hoffnungslosen »alten Mann« zusammen-<lb break="no"/>
+schrumpfen liess. Die That Bismarcks ist also einer gewaltigen Selbst-<lb break="no"/>
+verantwortlichkeit entsprungen; nach solchen Enthüllungen wird doppelt<lb/>
+unbegreiflich, wie ernsthafte Männer behaupten konnten, zwischen der<lb/>
+langen königlichen und der kurzen Bismarck’schen Depesche habe kein<lb/>
+wesentlicher Unterschied bestanden. Dass Bismarck selber es anders<lb/>
+auffasste und dass er sich dieser »Fälschung« als einer nationalen<lb/>
+Grossthat berühmte, zeigt ja eben sein eigenes Ausplaudern der Wahr-<lb break="no"/>
+heit. Denn die ganze Mittheilung dieser ihm so zur Last gelegten<lb/>
+»Fälschung« ist auf ihn selber zurückzuführen, und hat er sich über<lb/>
+die sonstige Tragweite der Enthüllung, nämlich Ihn <hi rend="text-spaced">allein</hi> als den</p>
+         </div>
+      </body>
+   </text>
+</TEI>

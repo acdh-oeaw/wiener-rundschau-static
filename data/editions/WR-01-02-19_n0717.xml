@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-19_n0717.xml" prev="WR-01-02-18_n0716.xml" next="WR-01-02-19_n0718.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 19, S. 717</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="19"/>
+                        <biblScope unit="page" n="n0717"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-08-15">15 8 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0237">
+                  <title level="a">Die zwei Frauen des Bürgers von Brügge</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 19</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="19">19</biblScope>
+                  <biblScope unit="page" from="717" to="721"/>
+                  <idno type="fn">WR-01-02-19_n0717.xml</idno>
+                  <author ref="#wr-person-0030">Barrès, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>15. <hi rend="text-spaced">AUGUST</hi> 1897</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIE ZWEI FRAUEN DES BÜRGERS VON BRÜGGE.<lb/>
+Von <rs type="person" key="">Maurice Barrés</rs> (Paris).<lb/>
+Autorisirte Uebersetzung von <rs type="person" key="">Nina Hoffmann</rs>.</title>
+            </ab>
+            <p>Zur Zeit der Renaissance lebte in Brügge ein reicher Bürger,<lb/>
+welchen die grossen Festlichkeiten nicht zu zerstreuen vermochten, an<lb/>
+denen sich seine Mitbürger damit ergötzten, dass sie viel tranken und<lb/>
+Narrenpossen trieben. Er würde wohl am Bogenschiessen Lust gefunden<lb/>
+haben, denn seine Eigenliebe hätte sich geschmeichelt gefühlt, wäre er<lb/>
+zum Schützenkönig ausgerufen worden; allein er empfand kein wirkliches<lb/>
+Vergnügen daran, von den Brügger Gevatterinnen bewundert zu werden.<lb/>
+Er war auch ein wenig seiner Ehefrau überdrüssig geworden, obwohl<lb/>
+sie ihm treu und auch frisch war; aber ich habe ihr Bildnis gesehen —<lb/>
+eine kleine Memling voll kleinster Beachtung für Alles, was im bescheidenen<lb/>
+Bezirk eines regelmässigen Lebens fortkommt, und auf keine Weise in<lb/>
+den Leichtfertigkeiten und Ausbrüchen bewandert, welche es allein ver-<lb break="no"/>
+mocht hätten, diesen melancholischen Unbeschäftigten zu befriedigen.</p>
+            <p>In dieser Stimmung fasste er den Entschluss, nach dem heiligen<lb/>
+Lande zu pilgern. Es war zugleich, um erhabene Dinge zu vollbringen<lb/>
+und um sich zu zerstreuen.</p>
+            <p>Wir müssen immer etwas von unseren Träumen abgeben; der<lb/>
+Flamänder kam nicht über Italien hinaus, denn ein Weib, welches die<lb/>
+Schönheit dieses Landes an sich hatte und ihm dadurch unvergleichlich<lb/>
+erschien, hielt den mächtigen Kopf dieses Fremdlings an ihren weissen<lb/>
+Brüsten fest. Sie war die Geliebte Lorenzo’s von Medici und, während<lb/>
+einer Nacht, auch die des jungen Ric della Mirandola gewesen. Ich<lb/>
+habe ihre Porträts gesehen, welche sie später mit sich nach Flandern<lb/>
+brachte und die sich in Antwerpen in der Maison Plantin befinden.<lb/>
+Lorenzo von Medici ist dick und schmutzig wie ein Zeichenlehrer, und<lb/>
+der Mirandola hat das reinkalte Gesicht eines eleganten jungen Hebräers,<lb/>
+der linkisch und ein Verstandesmensch ist.</p>
+            <p>Von einer Hülle von Wohlgerüchen und Seidenstoffen umgeben,<lb/>
+las diese Chlorinde ihrem Geliebten den Ariost, dessen leichtflüssige</p>
+         </div>
+      </body>
+   </text>
+</TEI>

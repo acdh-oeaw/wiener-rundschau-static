@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-06_n0130.xml" prev="WR-04-06_n0129.xml" next="WR-04-06_n0131.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 6, S. 130</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="06"/>
+                        <biblScope unit="page" n="n0130"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0830">
+                  <title level="a">Sonette</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 6</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="06">6</biblScope>
+                  <biblScope unit="page" from="129" to="130"/>
+                  <idno type="fn">WR-04-06_n0129.xml</idno>
+                  <author ref="#wr-person-0225">Rossetti, Dante Gabriel</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">ROSSETTI: SONETTE.</fw>
+            </fw>
+            <lg>
+               <l>Da folgte ihm ein Zweiter und entbot</l>
+               <l>Mich näher zu des Bannerträgers Stab.</l>
+               <l>Und da ich zitternd mich dahin begab,</l>
+            </lg>
+            <lg>
+               <l>Berührte er mit einem Finger sacht’</l>
+               <l>Den, der die Liebe war, und sprach: Hab’ Acht!</l>
+               <l>Kein Odem ist in ihm — Ich bin der Tod.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>DAS KIRCHENPORTAL.</title>
+            </ab>
+            <lg>
+               <l>Vom Fusse schütteln wir den Staub erst ab,</l>
+               <l>Damit er nicht den schriftbedeckten Stein</l>
+               <l>Befleckt, wo manches heilige Gebein</l>
+               <l>Im Chorgang ruht, und Glaube weilt am Grab,</l>
+            </lg>
+            <lg>
+               <l>Dem jeder Todte seinen Namen gab.</l>
+               <l>Sichtbar Gebet will Malerkunst hier sein,</l>
+               <l>Der Bildner meisselte in Stein es ein,</l>
+               <l>Nun tönt es fort, die Ewigkeit hinab.</l>
+            </lg>
+            <lg>
+               <l>Hier aussen sind die Glocken blosser Schlag;</l>
+               <l>All seinen Sonnenschein der Nachmittag</l>
+               <l>Legt schwer an das geschnitzte Kirchenthor;</l>
+            </lg>
+            <lg>
+               <l>Doch innen findet, wer mit uns eingeht,</l>
+               <l>Nur Schweigen, plötzlich Dunkel, tief Gebet,</l>
+               <l>Und rings um uns, gekrönt, ein Engelschor.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-21_n0787.xml" prev="WR-02-02-21_n0786.xml" next="WR-02-02-21_n0788.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 21, S. 787</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="21"/>
+                        <biblScope unit="page" n="n0787"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-09-15">15 9 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0493">
+                  <title level="a">Um die Todte</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 21</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="785" to="787"/>
+                  <idno type="fn">WR-02-02-21_n0785.xml</idno>
+                  <author ref="#wr-person-0019">Christomanos, Constantin</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">UM DIE TODTE.</fw>
+               <fw type="pn">787</fw>
+            </fw>
+            <p rend="no-intend">vom Himmel und schlagen auf den Grund meines Herzens, und<lb/>
+jede fallende Thräne klingt auf den Grund meines Herzens wie<lb/>
+auf gebrochenes Glas: Todt — todt — todt — todt — todt —<lb/>
+todt! — — Aber die Wellen und Winde klagen: Nie! nie!<lb/>
+nie! nie! nie! nie! <milestone unit="3dots"/> Ah, Himmel und Erde, die ihr um mich<lb/>
+trauert! Mitleid der fernen, verzauberten Dinge. Heiligste Augen,<lb/>
+die ihr mich beweinet! <milestone unit="3dots"/> Und jeder Thränentropfen überfliesst<lb/>
+auf dem Grunde meines Herzens zu einem See ohne Grenzen <milestone unit="2dots"/>
+               <lb/>
+ein jeder Thränentropfen, ein jeder, ein jeder <milestone unit="3dots"/> Aber diese<lb/>
+Seen sind nicht Lethe; nicht Lethe können sie sein, weil Lethe<lb/>
+für mich nicht mehr ist — — Und in diesen überfliessenden<lb/>
+Seen, in den oberen und in den unteren, die alle Lethe nicht<lb/>
+sind, bist du untergetaucht, du meine Psyche, für ewig, für<lb/>
+ewig, für ewig — — — O grosse Astarte! Verschliesse du mit<lb/>
+deinen grünen Fingern mir die Lider, auf dass die schwarze<lb/>
+Sonne des Todes meine Träume nicht verschlinge — meine<lb/>
+zitternden Träume, die sich alle in meine Augenhimmel geflüchtet,<lb/>
+nicht versenge <milestone unit="5dots"/> Astarte! Astarte — — —!</p>
+            <p>
+               <rs type="person" key="">C. <hi rend="text-spaced">Christomanos</hi>
+               </rs>.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

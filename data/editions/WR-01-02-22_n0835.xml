@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-22_n0835.xml" prev="WR-01-02-22_n0834.xml" next="WR-01-02-22_n0836.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 22, S. 835</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="22"/>
+                        <biblScope unit="page" n="n0835"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-10-01">1 10 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0266">
+                  <title level="a">Ein armer Augenblick</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 22</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="22">22</biblScope>
+                  <biblScope unit="page" from="829" to="835"/>
+                  <idno type="fn">WR-01-02-22_n0829.xml</idno>
+                  <author ref="#wr-person-0103">Lassen, Helene</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">EIN ARMER AUGENBLICK.</fw>
+               <fw type="pn">835</fw>
+            </fw>
+            <p>Es war eine kurze Begegnung, aber ich sah so viel in dem kurzen<lb/>
+Augenblick.</p>
+            <p>Ich sah, er war bleich, nicht nur von der Morgenkälte, sondern<lb/>
+von den Thränen der kleinen Alma. Die Blässe der Trennung lag über<lb/>
+seinen Zügen. Ich sah, er hatte gelitten, ja er litt sogar noch jetzt.</p>
+            <p>Auch diesesmal hatte ich die Hand geballt, auch diesesmal sank<lb/>
+sie nieder. Jetzt war es sein <hi rend="text-spaced">Schmerz</hi>, der mich entwaffnete, wie es<lb/>
+das letztemal seine <hi rend="text-spaced">Freude</hi> war.</p>
+            <p>Und während ich still zwischen all dem herbstgelben Laub heim-<lb break="no"/>
+ging, welches erzählte, dass nun der Sommer vorbei wäre, dachte ich<lb/>
+an sie, die wieder allein dort oben sass auf einem kleinen grünen Fleck<lb/>
+im Walde.</p>
+            <p>Wieder ergriff mich das Thema; nicht künstlerisch wie das<lb/>
+letztemal, sondern menschlich; ich hatte keine Lust, die kleinen hell-<lb break="no"/>
+blauen Blumen zu malen, welche der Sportsman niedertritt; heute<lb/>
+wollte ich lieber für sie bitten. Wie einen Lichtpunkt sah ich seine<lb/>
+bleichen Schmerzenszüge, und ich schloss wie im Gebet: möchte das<lb/>
+Leid ihn Barmherzigkeit lehren, Barmherzigkeit gegen sie dort oben<lb/>
+und gegen diejenigen, denen er noch auf seinem Wege begegnen<lb/>
+würde! Möchte das Leid ihn lehren, dass das Leben etwas mehr ist<lb/>
+als ein armer Moment, ein armer Augenblick der Freude!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-01_n0002.xml" prev="WR-01-01-01_n0001.xml" next="WR-01-01-01_n0003.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 1, S. 2</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0002"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-11-15">15 11 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0001">
+                  <title level="a">Alladine und Palomides</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="1" to="5"/>
+                  <idno type="fn">WR-01-01-01_n0001.xml</idno>
+                  <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">2</fw>
+               <fw type="ctext">MAETERLINCK.</fw>
+            </fw>
+            <p rend="no-intend">lebe ich an ihrer Seite mit gesenkten Blicken <milestone unit="3dots"/> Es ist<lb/>
+traurig, zu spät zu lieben <milestone unit="3dots"/> Frauen können nicht begreifen,<lb/>
+dass die Jahre nicht die Herzen trennen. Man hatte mich<lb/>
+»den weisen König« genannt <milestone unit="3dots"/> Ich war weise, weil mir<lb/>
+bisher nichts widerfahren war <milestone unit="3dots"/> Es gibt Menschen, welche<lb/>
+die Ereignisse abzuwenden scheinen. Wo ich auch immer<lb/>
+erschien, es genügte, dass nichts entstehen konnte. Ich hatte<lb/>
+es einst vermuthet <milestone unit="3dots"/> In meiner Jugendzeit hatte ich viele<lb/>
+Freunde, deren Gegenwart alle Abenteuer anzuziehen schien;<lb/>
+aber an dem Tage, da ich mit ihnen zog, den Freuden oder<lb/>
+den Schmerzen entgegen, kehrten sie mit leeren Händen<lb/>
+zurück <milestone unit="3dots"/> Ich glaube, dass ich das Schicksal gelähmt habe;<lb/>
+und lange war ich eitel auf diese Gabe. Man lebte unter<lb/>
+meiner Herrschaft ruhig und sicher. Doch jetzt habe ich er-<lb break="no"/>
+kannt, dass selbst das Unglück besser ist als der Schlaf, und<lb/>
+dass es ein Leben geben muss, thätiger und höher als die Er-<lb break="no"/>
+wartung <milestone unit="3dots"/> Man soll sehen, dass auch ich die Kraft habe,<lb/>
+wenn ich will, das Wasser zu erregen, das im Innern der<lb/>
+grossen Becken der Zukunft erstorben schien <milestone unit="3dots"/>
+            </p>
+            <p>Alladine, Alladine! <milestone unit="3dots"/> Ach! so ist sie schön, mit den<lb/>
+Haaren, die auf die Blumen und das zahme Lamm herab-<lb break="no"/>
+fliessen, und mit dem Munde, halb geöffnet und frischer als<lb/>
+die Morgenröthe <milestone unit="3dots"/> Ich will sie küssen und meinen armen<lb/>
+weissen Bart zurückhalten, so wird sie es vielleicht nicht<lb/>
+merken <milestone unit="2dots"/> (Er küsst sie.) — Sie hat gelächelt <milestone unit="3dots"/> Soll ich sie<lb/>
+bedauern? Für einige Jahre, die sie mir schenkt, wird sie<lb/>
+eines Tages Königin sein; und ich werde ein wenig Gutes<lb/>
+gethan haben, ehe ich scheide <milestone unit="3dots"/> Man wird staunen <milestone unit="3dots"/>
+               <lb/>
+Sie selbst weiss nichts <milestone unit="3dots"/> Ach! da fährt sie plötzlich aus<lb/>
+dem Schlaf empor <milestone unit="3dots"/> Woher kommst du, Alladine?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Ich habe einen bösen Traum gehabt <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Ablamore</hi>.</p>
+            <p>Was hast du? Warum schaust du nach jener Seite?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Es ist Jemand auf der Strasse vorbeigekommen.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

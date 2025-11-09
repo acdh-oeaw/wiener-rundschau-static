@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-03_n0095.xml" prev="WR-01-01-03_n0094.xml" next="WR-01-01-03_n0096.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 3, S. 95</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0095"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-15">15 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0026">
+                  <title level="a">Alladine und Palomides</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="88" to="95"/>
+                  <idno type="fn">WR-01-01-03_n0088.xml</idno>
+                  <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">ALLADINE UND PALOMIDES.</fw>
+               <fw type="pn">95</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Ablamore</hi> (auf Palomides zugehend).</p>
+            <p>Habt Ihr die Thüre des Zimmer geöffnet?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi>.</p>
+            <p>Ja, ich <milestone unit="3dots"/> ich hab’ es gethan — und was weiter? —<lb/>
+und was weiter? <milestone unit="3dots"/> Ich kann sie nicht sterben lassen unter<lb/>
+meinen Augen <milestone unit="3dots"/> Seht, was Ihr gethan habt <milestone unit="3dots"/> Alladine <milestone unit="3dots"/>
+               <lb/>
+Fürchte nichts <milestone unit="3dots"/> Sie öffnet ein wenig die Augen <milestone unit="3dots"/> Ich<lb/>
+will nicht <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Ablamore</hi>.</p>
+            <p>Schreit nicht <milestone unit="3dots"/> Schreit nicht so <milestone unit="3dots"/> Kommt, wir<lb/>
+wollen die Fensterladen öffnen <milestone unit="3dots"/> Man sieht nichts, Alladine<lb/>
+               <milestone unit="3dots"/> Sie ist schon auf. Alladine, komm auch du <milestone unit="3dots"/> Seht ihr,<lb/>
+meine Kinder, es ist finster im Zimmer. Es ist hier so finster,<lb/>
+als wäre man tausend Fuss unter der Erde. Doch ich öffne<lb/>
+einen der Fensterladen, und sehet! Alles Licht des Himmels und<lb/>
+der Sonne! <milestone unit="3dots"/> Wir können es so leicht haben; das Licht<lb/>
+ist bereitwillig <milestone unit="3dots"/> Es genügt, dass man es ruft; es folgt<lb/>
+immer <milestone unit="3dots"/> Habt ihr den Strom mit seinen kleinen Inseln<lb/>
+zwischen den blühenden Wiesen gesehen? <milestone unit="3dots"/> Der Himmel<lb/>
+ist heute ein krystallener Reif <milestone unit="3dots"/> Alladine, Palomides,<lb/>
+kommt und schaut <milestone unit="3dots"/> Nähert euch Beide dem Paradiese <milestone unit="3dots"/>
+               <lb/>
+Ihr sollt euch umarmen in der neuen Klarheit <milestone unit="3dots"/> Ich zürne<lb/>
+euch nicht. Ihr habt gehandelt nach dem Gebote und ich des-<lb break="no"/>
+gleichen <milestone unit="3dots"/> Neigt euch einen Augenblick aus dem offenen<lb/>
+Fenster und betrachtet noch das liebliche Grün <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <p>(Stille. Er schliesst den Fensterladen wieder, ohne etwas zu sagen.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <p>(Fortsetzung folgt.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

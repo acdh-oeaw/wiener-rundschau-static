@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-01_n0021.xml" prev="WR-03-01-01_n0020.xml" next="WR-03-01-01_n0022.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 1, S. 21</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0021"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0533">
+                  <title level="a">Hellenismus und Gothik</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="16" to="21"/>
+                  <idno type="fn">WR-03-01-01_n0016.xml</idno>
+                  <author ref="#wr-person-0071">Schmitz, Oscar A. H.</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0534">
+                  <title level="a">Impressionisten</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="21" to="22"/>
+                  <idno type="fn">WR-03-01-01_n0021.xml</idno>
+                  <author ref="#wr-person-0114">Rilke, Rainer Maria</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">RILKE: IMPRESSIONISTEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>
+                        <hi rend="text-spaced">einer gothischen Sehnsucht ist</hi>. Die<lb/>
+letzte Renaissance ist hinter unserem<lb/>
+Rücken zusammengebrochen. Wir müssen<lb/>
+von neuem aufbauen, um unserer Sehn-<lb break="no"/>
+sucht — dem einzigen, was wir bis jetzt</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">haben — Gestalt zu geben. Möge ein<lb/>
+kommendes Geschlecht — im Schatten der<lb/>
+Denkmäler unserer Sehnsucht erwachsen<lb/>
+— das Leben griechischer finden, als wir<lb/>
+es angetroffen.*</p>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Ad Apollinem, ut ab Italis cum lyra ad Germanos veniat (Conrad Celtis, ars versi-<lb break="no"/>
+ficandi <date>1486</date>). The god coming to Germany from some more favoured word beyond it, over<lb/>
+leagues of rainyt hill and mountain, making soft day there: that had ever been the dream<lb/>
+of the ghostridden yet deep-feeling and certainly meek German soul; of the great Durer for<lb/>
+instance, who had been the friend of this C. C. and himself, all German as he was, like a<lb/>
+gleam of real day amid that hyperborean German darkness. (Duke Karl of Rosenmold.) Ich<lb/>
+citiere diese Stelle aus W. Paters Imaginary Portraits unübersetzt, um mir nicht von neuem<lb/>
+den Vorwurf des Mangels an Patriotismus zuzuziehen; denn ich nehme an, dass meine chauvi-<lb break="no"/>
+nistischen Widersacher consequent genug sind, nur deutsch zu verstehen.</p>
+            </note>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>IMPRESSIONISTEN.<lb/>
+Von <rs type="person" key="">RAINER MARIA RILKE</rs> (Schmargendorf bei Berlin).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Es wird von der Erstaufführung der<lb/>
+»Neo-Impressionisten« im Salon Keller und<lb/>
+Reiner in Berlin zu reden sein. Vor dieser<lb/>
+ruhigen Rahmenkunst fühlt sich die Menge<lb/>
+machtlos und also bleibt sie anständiger<lb/>
+als bei Premieren im Theater. Was nützte<lb/>
+Lachen, Lautsein oder Pfeifen diesen ernsten<lb/>
+Bildern gegenüber, welche wie fremde,<lb/>
+tiefe Augen, über den winzigen Beschauer<lb/>
+fort, in die Sonne schauen?</p>
+                     <p>Man hat da zuerst das Gefühl: das<lb/>
+Licht ist besiegt. In der umrandeten Lein-<lb break="no"/>
+wand entfaltet sich alle Pracht eines süd-<lb break="no"/>
+lichen Sommertages, und wo es Abend<lb/>
+wird im Bild, da ist des Glanzes kein<lb/>
+Ende. Das ist nicht mehr jenes Licht, das<lb/>
+flüchtig wie ein Lächeln über die Dinge<lb/>
+rollt, immer vor dem Schatten bang, der<lb/>
+hinter allen Kanten wartet. Dieses Licht<lb/>
+ist die Seele der Dinge, die wie ein Meer<lb/>
+in langen Wellen bis an ihren Rand flutet<lb/>
+und dort schimmernd zurückfällt in sich<lb/>
+selbst. Das ist der Pantheismus des Lichtes.</p>
+                     <p>Und pantheistische Zeiten kommen von<lb/>
+einer grossen Liebe her und aus einem<lb/>
+wahren Glauben. Sie sind dann, wenn der<lb/>
+Mensch freigebig und gütig wird gegen<lb/>
+Gott. Wenn er nicht fassen kann, dass<lb/>
+Gott Raum hat in einem fernen Himmel<lb/>
+und ihm alles schenkt, was er schaut,<lb/>
+fühlt und weiss, damit jener sich ausbreite<lb/>
+und ruhe. Denn der Gott, der hoch über<lb/>
+den Welten wohnt, hat ein gebücktes,</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">mühseliges Dasein und wenig Raum; wenn<lb/>
+sich ihm aber das All aufthut, so sinkt<lb/>
+er zurück in das breite Lager dieser tausend<lb/>
+Dinge, streckt seiner Glieder winkelmüde<lb/>
+Gelenke und träumt.</p>
+                     <p>Selig sind die Zeiten des ruhenden<lb/>
+Gottes. Die Menschen, die mit leiseren<lb/>
+Händen seine Ruhstatt rüsten, haben etwas<lb/>
+von der unendlichen Liebe der Schaffenden,<lb/>
+sind wie Künstler.</p>
+                     <p>Deshalb werden Künstler, die irgend-<lb break="no"/>
+einen Pantheismus haben, weit über sich<lb/>
+selbst hinauswachsen, weit über die Zeit.<lb/>
+Wenn sie Bilder machen, wird man immer<lb/>
+glauben, dass sie viel mehr können als<lb/>
+das. Und man fühlt das vor vielen von<lb/>
+den »Alten«. Die Neo-Impressionisten sind<lb/>
+nicht die ersten Künstlerpantheisten. Die<lb/>
+Primitiven des Trecento waren es von<lb/>
+Grund aus. Aber ihr Gott war dunkel, seine<lb/>
+Geberde unmalerisch. Seurat und die neben<lb/>
+ihm hingegen haben den leuchtendsten<lb/>
+Gott, das Licht selber, erwählt und ihre<lb/>
+Bilder erzählen alle denselben Mythus.</p>
+                     <p>Eigentlich verkünden jetzt alle Künste<lb/>
+— ihn. Denn indem sie immer einfachere<lb/>
+Mittel brauchen, streben sie alle zu dem<lb/>
+grosssen Einen, in welchem die Unter-<lb break="no"/>
+schiede sich versöhnen, in welchem das<lb/>
+Viele still und restlos aufgeht. Sie wollen<lb/>
+endlich alle nur sieben Farben brauchen<lb/>
+und nicht hundert; denn die sieben sind<lb/>
+rein und elementar und waren <hi rend="text-spaced">vor</hi> dem</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

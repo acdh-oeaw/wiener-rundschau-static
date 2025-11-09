@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-10_n0141.xml" prev="WR-04-10_n0140.xml" next="WR-04-10_n0142.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 10, S. 141</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="10"/>
+                        <biblScope unit="page" n="n0141"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0868">
+                  <title level="a">Les Muses quittent Apollon</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 10</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="133" to="156"/>
+                  <idno type="fn">WR-04-10_n0133.xml</idno>
+                  <author ref="#wr-person-0285">Moreau, Gustave</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0870">
+                  <title level="a">Helene Petrowna Blavatsky und die »Geheim-, lehre«</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 10</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="137" to="141"/>
+                  <idno type="fn">WR-04-10_n0137.xml</idno>
+                  <author ref="#wr-person-0287">Froebe, Robert, Dr.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">FROEBE: HELENE PETROWNA BLAVATSKY UND DIE »GEHEIMLEHRE«.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">den Baum der Erkenntnis nicht nur im<lb/>
+hebräischen Paradies Früchte tragen sehen,<lb/>
+sondern auch in den älteren Erzählungen<lb/>
+von Babylon und Chaldäa, von Indien<lb/>
+und Mexiko, wenn wir die Erlebnisse<lb/>
+des Osiris mit denen indischer Avatare<lb/>
+und neuerer Religionsstifter vergleichen<lb/>
+und dabei bedenken, dass die Initiation,<lb/>
+die der Lichtsuchende der Mysterien<lb/>
+durchzumachen hatte, in eben diesen Er-<lb break="no"/>
+zählungen ihr Vorbild und ihre ober-<lb break="no"/>
+flächliche Erklärung fand. Höchst interes-<lb break="no"/>
+sant sind auch die Beschreibungen der<lb/>
+Schicksale der einzelnen Menschenrassen,<lb/>
+die sich angeblich auf Überlieferungen<lb/>
+stützen, die in Zeiten zurückgehen, wo<lb/>
+wir bisher nur den Pterodactylus mit<lb/>
+unheimlichem Flug durch die Lüfte flattern<lb/>
+gesehen haben.</p>
+                     <p>Auch hier sehen wir wieder das<lb/>
+Gesetz von der Erhaltung der Kraft,<lb/>
+von Ursache und Wirkung und von<lb/>
+der Analogie (dort, wo eine nach ein-<lb break="no"/>
+heitlichen Gesetzen fortschreitende Ent-<lb break="no"/>
+wicklung möglich ist) in großartigen<lb/>
+Beispielen illustriert. Das eigentliche Ver-<lb break="no"/>
+ständnis aber für die ganze Geschichte<lb/>
+von Weltentstehung und Menschheits-<lb break="no"/>
+entwicklung gibt uns nur die ebenfalls<lb/>
+im Westen zuerst von H. P. B. ver-<lb break="no"/>
+kündete Lehre von den <hi rend="text-spaced">sieben</hi>
+                        <hi rend="text-spaced">Prin</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">cipien</hi> im Menschen, denen sieben<lb/>
+Principien im Weltall entsprechen. Für<lb/>
+beide gelten selbstverständlich dieselben<lb/>
+Gesetze, geradeso wie für den Sauerstoff<lb/>
+oder Wasserstoff innerhalb des mensch-<lb break="no"/>
+lichen Körpers dieselben Gesetze gelten<lb/>
+wie draußen im übrigen Weltall. Aus<lb/>
+einem Studium der in <hi rend="text-spaced">uns</hi> vorhandenen<lb/>
+Kräfte — die Siebentheilung müssen wir<lb/>
+allerdings vorerst dahingestellt sein lassen<lb/>
+— können wir somit auf das Wesen<lb/>
+der im <hi rend="text-spaced">Weltall</hi> vorhandenen Kräfte<lb/>
+und der durch die Kräfte bedingten Ge-<lb break="no"/>
+schehnisse sobald einen Schluss ziehen,<lb/>
+als wir das Wesen derselben in uns<lb/>
+selber erkannt haben. Dieses »Erkenne<lb/>
+dich selbst« nun ist für die meisten<lb/>
+Menschen wohl nur ein frommer Wunsch,<lb/>
+aber es ist die Wahrscheinlichkeit nicht<lb/>
+ausgeschlossen, dass dem einen oder an-</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">deren Menschen im Laufe der Jahrtausende<lb/>
+doch Selbsterkenntnis gelungen sei; und<lb/>
+wenn wir nun die Lehren, die uns von<lb/>
+solchen Menschen, denen von ihren Mit-<lb break="no"/>
+menschen Selbsterkenntnis zugeschrieben<lb/>
+wurde und die uns in den verschiedensten<lb/>
+Sprachen und Ausdrucksweisen erhalten<lb/>
+sind, mit einander vergleichen und in<lb/>
+ihnen allen dieselben Grundwahrheiten<lb/>
+wiederfinden, deren Darstellung eben die<lb/>
+Geheimlehre beabsichtigt, so kann das<lb/>
+für uns immerhin Grund genug sein, der<lb/>
+Sache ohne Voreingenommenheit mit<lb/>
+aufmerksam prüfendem Sinn entgegen-<lb break="no"/>
+zutreten, das uns anzueignen, was wir<lb/>
+verstehen, und das dahingestellt sein zu<lb/>
+lassen, was wir zwar nicht verstehen,<lb/>
+aber auch nicht widerlegen können. Jedem,<lb/>
+der sich so viel Vorurteilslosigkeit zutraut,<lb/>
+den der Drang nach Wahrheit und Er-<lb break="no"/>
+kenntnis beseelt und der über eine ge-<lb break="no"/>
+nügende, allgemein <hi rend="text-spaced">wissenschaftliche<lb/>
+Vorbildung</hi> verfügt (denn eine solche ist<lb/>
+allerdings beim Studium der Geheimlehre<lb/>
+unerlässlich), dem sei dieses Werk auf’s<lb/>
+Beste empfohlen. Er wird bald fühlen,<lb/>
+dass er der Welt mit anderen Augen<lb/>
+gegenübersteht als früher. Gerade jetzt,<lb/>
+am <date>8. Mai</date>, feiert die große, über die<lb/>
+ganze civilisierte Welt verbreitete Blavatsky-<lb break="no"/>
+Gemeinde den »weißen Lotustag«, die<lb/>
+Erinnerung an ihr im Jahre <date>1891</date> erfolgtes<lb/>
+Hinscheiden. Nicht um zu trauern kommen<lb/>
+sie zusammen; weiße Blumen schmücken<lb/>
+die Versammlungsräume; und Ansprachen<lb/>
+und Vorlesungen aus auserlesenen Werken<lb/>
+des Ostens bekunden, dass Diejenigen,<lb/>
+die die Überzeugung von Karma und<lb/>
+Reinkarnation gewonnen haben, den Tod<lb/>
+nur als einen Wechsel der Erscheinungs-<lb break="no"/>
+form einer ewigen Kraft betrachten. Möge<lb/>
+diese Erkenntnis, die in den Ländern,<lb/>
+wo H. P. B. vornehmlich gewirkt hat,<lb/>
+also in Amerika, England und Indien,<lb/>
+bis in Kreise gedrungen ist, denen das<lb/>
+Glück geistigen Strebens durch die bis-<lb break="no"/>
+herigen einseitigen, in den Dienst ein-<lb break="no"/>
+zelner Classen gestellten Culturmittel früher<lb/>
+nicht zutheil werden konnte, nun auch<lb/>
+in den Ländern deutscher Cultur immer<lb/>
+weiter um sich greifen.</p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
+      </body>
+   </text>
+</TEI>

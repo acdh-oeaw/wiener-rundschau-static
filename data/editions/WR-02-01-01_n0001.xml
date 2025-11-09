@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-01_n0001.xml" prev="WR-02-01-00_i0008.xml" next="WR-02-01-01_n0002.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 1, S. 1</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0001"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-11-15">15 11 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0301">
+                  <title level="a">Der Herbst </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="1" to="5"/>
+                  <idno type="fn">WR-02-01-01_n0001.xml</idno>
+                  <author ref="#wr-person-0049">Fuchs, Georg</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>15. <hi rend="text-spaced">NOVEMBER</hi> 1897</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DER HERBST.<lb/>
+Ein Triptychon.<lb/>
+                  <hi rend="text-spaced">Von <rs type="person" key="">Georg Fuchs</rs>
+                  </hi>(<hi rend="text-spaced">München</hi>).</title>
+            </ab>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>I.<lb/>
+                  <hi rend="text-spaced">Der Rufer</hi>.</title>
+            </ab>
+            <lg>
+               <l>Es stiess ein Rufer rauh ins Horn,</l>
+               <l>Dess schauert hohl der feuchte Forst,</l>
+               <l>Im Nebel bricht das Wild vom Born,</l>
+               <l>Der Fittig schlägt erschreckt den Horst.</l>
+            </lg>
+            <lg>
+               <l>Im Osten rauchen noch die Schatten,</l>
+               <l>Und morscher Hauch entgährt dem Bruch</l>
+               <l>Durch endlos flachgereihte Matten:</l>
+               <l>Geborstner Schollen Nährgeruch.</l>
+            </lg>
+            <lg>
+               <l>Zu Häupten trägt die Tracht der Frucht</l>
+               <l>Geschürzten Schrittes stolz die Magd,</l>
+               <l>Es stützt der Arm die volle Wucht,</l>
+               <l>Die Kraft der Brüste strotzt und ragt.</l>
+               <l>Es klingt ein Licht zur Bergeszinne</l>
+               <l>Noch aus des Abends rothem Dom,</l>
+               <l>Schon dunkel wogt in tiefer Rinne</l>
+               <l>Gelabter Gründe grüner Strom</l>
+               <l>Durch buntbelaubte, goldne Ufer,</l>
+               <l>Da erdröhnst du, grosser Rufer:</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

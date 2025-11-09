@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-09_n0332.xml" prev="WR-02-01-09_n0331.xml" next="WR-02-01-09_n0333.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 9, S. 332</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="09"/>
+                        <biblScope unit="page" n="n0332"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-03-15">15 3 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0377">
+                  <title level="a">Idylle</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 9</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="09">9</biblScope>
+                  <biblScope unit="page" from="328" to="332"/>
+                  <idno type="fn">WR-02-01-09_n0328.xml</idno>
+                  <author ref="#wr-person-0141">Hofmannsthal, Hugo v.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">332</fw>
+               <fw type="ctext">HOFMANNSTHAL.</fw>
+            </fw>
+            <lg>
+               <l>Und dann, ein Wirkender, begreif dich selber ehrfurchtsvoll,</l>
+               <l>An diesen hast du mehr, als du erfassen kannst. —</l>
+               <l>Den Wanderliebenden, ich halt ihn länger nicht, allein</l>
+               <l>Der letzten Glättung noch bedarf’s, die Feile fehlt,</l>
+               <l>Ich finde sie und schaffe dir das Letzte noch.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <p>(Er geht ins Haus.)</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Die Frau</hi>.</p>
+            <lg>
+               <l>Dich führt wohl nimmermehr der Weg hieher zurück.</l>
+               <l>Hinstampfend durch die hyacinth’ne Nacht berauscht</l>
+               <l>Vergissest meiner du am Wege, fürcht’ ich, bald,</l>
+               <l>Die deiner, furcht’ ich, nicht so bald vergessen kann.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Centaur</hi>.</p>
+            <lg>
+               <l>Du irrst, verdammt von dir zu scheiden, wär’s,</l>
+               <l>Als schlugen sich die Gitter dröhnend hinter mir</l>
+               <l>Von aller Liebe dufterfülltem Garten zu.</l>
+               <l>Doch kommst du, wie ich meine, mir Gefährtin mit,</l>
+               <l>So trag’ ich solchen hohen Reiz als Beute fort,</l>
+               <l>Wie nie die hohe Aphrodite ausgegossen hat,</l>
+               <l>Die allbelebende auf Meer und wilde Flur.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Die Frau</hi>.</p>
+            <lg>
+               <l>Wie könnt’ ich Gatten, Haus und Kind verlassen hier?</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Centaur</hi>.</p>
+            <lg>
+               <l>Was sorgst du lang, um was du schnell vergessen hast?</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Die Frau</hi>.</p>
+            <lg>
+               <l>Er kommt zurück, und schnell zerronnen ist der Traum!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Centaur</hi>.</p>
+            <lg>
+               <l>Mit nichten, da doch Lust und Weg noch offen steht.</l>
+               <l>Mit festen Fingern greif mir ins Gelock und klamm’re dich,</l>
+               <l>Am Rücken ruhend, mir an Arm und Nacken an!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <p>(Sie schwingt sich auf seinen Rücken, und er stürmt hell schreiend zum Fluss<lb/>
+hinunter, das Kind erschrickt und bricht in klägliches Weinen aus. Der Schmied<lb/>
+tritt aus dem Haus. Eben stürzt sich der Centaur in das aufrauschende Wasser<lb/>
+des Flusses. Sein bronzener Oberkörper und die Gestalt der Frau zeichnen sich<lb/>
+scharf auf der abendlich vergoldeten Wasserfläche ab. Der Schmied wird sie<lb/>
+gewahr; in der Hand den Speer des Centauren, läuft er ans Ufer hinab und<lb/>
+schleudert, weit vorgebeugt, den Speer, der mit zitterndem Schaft einen Augen-<lb break="no"/>
+blick im Rücken der Frau stecken bleibt, bis diese mit einem gellenden Schrei<lb/>
+die Locken des Centauren fahren lässt und mit ausgebreiteten Armen rücklings<lb/>
+ins Wasser stürzt. Der Centaur fängt die Sterbende in seinen Armen auf und<lb/>
+trägt sie hocherhoben stromabwärts, dem anderen Ufer zuschwimmend.)</p>
+            <p>
+               <date>1894</date>.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

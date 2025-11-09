@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-11_n0440.xml" prev="WR-01-01-11_n0439.xml" next="WR-01-01-12_n0441.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 11, S. 440</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="11"/>
+                        <biblScope unit="page" n="n0440"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-04-15">15 4 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0141">
+                  <title level="a">Hafner und Weilhart, »Keine Sühne«</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 11</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="11">11</biblScope>
+                  <biblScope unit="page" from="439" to="440"/>
+                  <idno type="fn">WR-01-01-11_n0439.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0144">
+                  <title level="a">Weilhart und Hafner, »Keine Sühne«</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 11</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="11">11</biblScope>
+                  <biblScope unit="page" from="439" to="440"/>
+                  <idno type="fn">WR-01-01-11_n0439.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0145">
+                  <title level="a">Rechert, »Rauchringe«</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 11</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="11">11</biblScope>
+                  <biblScope unit="page" from="440" to="440"/>
+                  <idno type="fn">WR-01-01-11_n0440.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">440</fw>
+               <fw type="ctext">KRITIK.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">und Josef <hi rend="text-spaced">Hafner</hi>. Dresden und<lb/>
+Leipzig. E. <hi rend="text-spaced">Pierson</hi>’s Verlag, <date>1897</date>.</p>
+                     <p>Das Drama wendet sich mit<lb/>
+einem heftigen Protest gegen unsere<lb/>
+Gerichtsstrafen. Es gibt keine Sühne,<lb/>
+keine <hi rend="text-spaced">moralische</hi> Rechtfertigung,<lb/>
+das ist die deprimirende Conse-<lb break="no"/>
+quenz, die wir am Schlusse ziehen<lb/>
+müssen. Was wir Sühne nennen,<lb/>
+ist eigentlich nur Rache der be-<lb break="no"/>
+leidigten Menschheit, ist ein Hinter-<lb break="no"/>
+pförtchen zur Ehre und zum Jen-<lb break="no"/>
+seits für die guten und anständigen<lb/>
+Leute. Mit vieler Geschicklichkeit<lb/>
+ist zu dieser Theorie eine inter-<lb break="no"/>
+essante Handlung erfunden, die<lb/>
+an dramatisch bewegten Scenen<lb/>
+reich ist. Ein recht gut geführter<lb/>
+Dialog, der nur bisweilen zu pathe-<lb break="no"/>
+tisch wird, und eine scharfe Cha-<lb break="no"/>
+rakterisirung vervollständigen den<lb/>
+günstigen Eindruck des Werkes.</p>
+                     <p>
+                        <rs type="person" key="">
+                           <hi rend="italics">W. W.</hi>
+                        </rs>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-start"/>
+                     <p>Rauchringe. Gedichte von<lb/>
+                        <hi rend="text-spaced">Emil Rechert</hi>. Wien, Leopold<lb/>
+Weiss, <date>1897</date>.</p>
+                     <p>Es ist ein feiner Geist der Ironie,<lb/>
+der sich aus diesem Buch ver-<lb break="no"/>
+nehmen lässt. Zwar sind die Töne,<lb/>
+die er findet, nicht durchaus neu,</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">wohl aber sind sie hell und graziös<lb/>
+und schmiegen sich mit ihrer leichten<lb/>
+Melodie ins Ohr. Man hat den<lb/>
+Eindruck, als träte man in eine<lb/>
+andere lichte, sonnendurchfluthete<lb/>
+Welt, in eine Welt, in der man<lb/>
+sich nicht müht und dennoch auch<lb/>
+nicht langweilt. Wunschlos lehnt<lb/>
+man am Fenster, durch das die<lb/>
+herbe, befreiende Frühlingssonne<lb/>
+würzig hereinbebt, bläst den feinen<lb/>
+blauen Dampf einer duftenden<lb/>
+Cigarrette von sich und blickt<lb/>
+durch die zierlichen, schwankenden<lb/>
+Ringe lächelnd, mit einem leisen,<lb/>
+aber gutmüthigen Philosophenspott<lb/>
+auf die keuchende, rastlose Menge,<lb/>
+die sich unten hastig vorbeistösst.<lb/>
+Will man der Geste glauben, so<lb/>
+hat ein Skeptiker, ein Lebens-<lb break="no"/>
+künstler diese klugen, eleganten<lb/>
+Verse geschrieben, ein Mann, der<lb/>
+nichts mehr hasst und nichts mehr<lb/>
+wünscht, weil er Alles versteht<lb/>
+und darum Alles nur belächelt.<lb/>
+Hoffen wir, dass es ihm mit seinem<lb/>
+Scherze wenigstens theilweise Ernst<lb/>
+ist — auch dann schon wäre er ein<lb/>
+Weiser, auch dann schon müsste<lb/>
+man ihn schätzen. <rs type="person" key="">
+                           <hi rend="italics">R. St.</hi>
+                        </rs>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="hr"/>
+            <milestone unit="imprint-start"/>
+            <p>Herausgeber und verantwortlicher Redacteur: <hi rend="text-spaced">Rudolf Strauss</hi>.</p>
+            <p>Ch. Reisser &amp; M. Werthner, Wien.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

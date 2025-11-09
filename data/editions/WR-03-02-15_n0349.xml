@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-15_n0349.xml" prev="WR-03-02-15_n0348.xml" next="WR-03-02-15_n0350.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 15, S. 349</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="15"/>
+                        <biblScope unit="page" n="n0349"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0686">
+                  <title level="a">Sonett</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 15</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="15">15</biblScope>
+                  <biblScope unit="page" from="349" to="349"/>
+                  <idno type="fn">WR-03-02-15_n0349.xml</idno>
+                  <author ref="#wr-person-0228">Swinburne, Algernon Charles</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">SONETT</hi>.<lb/>
+Von <rs type="person" key="">ALGERNON CHARLES SWINBURNE</rs>.</title>
+            </ab>
+            <lg>
+               <l>Entschlummert zwischen Mitternacht und Graun</l>
+               <l>Sah ich sich neigen über meinen Pfühl</l>
+               <l>Blass wie die zartste Lilie und so kühl</l>
+               <l>Und traumhaft die geliebteste der Fraun.</l>
+            </lg>
+            <lg>
+               <l>Erschrocken, aber selig, sie zu schaun</l>
+               <l>In meinem wirren bangen Traumgewühl,</l>
+               <l>Langt’ ich nach ihr mit zitterndem Gefühl</l>
+               <l>Und langsam sah ich ihre Lippen thaun.</l>
+            </lg>
+            <lg>
+               <l>Und Honig meinem Mund war ihr Gesicht,</l>
+               <l>Die langen, schlanken Arme, ihre Brust</l>
+               <l>Und Lenden meinen Augen Trunkenheit.</l>
+            </lg>
+            <lg>
+               <l>Und Worte sprach sie — ich verstand sie nicht</l>
+               <l>Nur eines klang wie liebebange Lust</l>
+               <l>Von ihren offnen Lippen — Seligkeit.</l>
+            </lg>
+            <p>Deutsch von <rs type="person" key="">Hedwig Lachmann</rs>, Berlin.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

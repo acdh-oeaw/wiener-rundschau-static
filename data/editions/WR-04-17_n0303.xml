@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-17_n0303.xml" prev="WR-04-17_n0302.xml" next="WR-04-17_n0304.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 17, S. 303</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="17"/>
+                        <biblScope unit="page" n="n0303"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0938">
+                  <title level="a">Die internationale Kunst in Paris II.</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 17</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="17">17</biblScope>
+                  <biblScope unit="page" from="301" to="305"/>
+                  <idno type="fn">WR-04-17_n0301.xml</idno>
+                  <author ref="#wr-person-0203">Gourmont, Remy de</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">GOURMONT: DIE INTERNATIONALE KUNST IN PARIS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">technischen Qualitäten, seine glücklichen und<lb/>
+discreten Lichteffecte banal.</p>
+                     <p>
+                        <hi rend="italics">In summa:</hi> Hat Deutschland heute auch<lb/>
+keine großen Maler (Böcklin ist Schweizer),<lb/>
+so hat es doch gute. Ein gewisses Kunstleben,<lb/>
+ein Leben in Gruppen, in Schulen behauptet<lb/>
+sich. Man sucht, man studiert. Und hat im<lb/>
+allgemeinen mehr Empfindung als manuelle<lb/>
+Begabung.</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="asterisk"/>
+                     <milestone unit="untyped-start"/>
+                     <ab>
+                        <title>ÖSTERREICH.</title>
+                     </ab>
+                     <p>Das ist ein Capital deutscher Kunst. Man<lb/>
+würde Österreichs moderner Kunst unrecht<lb/>
+thun, wenn man sie nach den wenigen<lb/>
+Werken abschätzen wollte, die zur Ausstellung<lb/>
+gelangt sind. Österreich hat uns zum mindesten<lb/>
+eine Lection des <hi rend="text-spaced">guten Geschmacks</hi> ge-<lb break="no"/>
+geben, indem es uns lehrte, wie man Gemälde<lb/>
+in einem Saale anzuordnen habe, ohne dass<lb/>
+sie sich gegenseitig erdrücken. Die öster-<lb break="no"/>
+reichische Section gleicht nicht, wie die anderen<lb/>
+Abtheilungen, der Boutique eines Bilderhändlers.<lb/>
+Sie stellt vielmehr wahrhaftig einen bezau-<lb break="no"/>
+bernden Salon dar. Leider ist durch diese<lb/>
+Anordnung sehr viel Raum verloren gegangen;<lb/>
+wenn sich das Ensemble nun auch gut macht,<lb/>
+so ist es doch weit entfernt davon, vollständig<lb/>
+zu sein.</p>
+                     <p>Da ist die <hi rend="italics">Philosophie</hi>
+                        <hi rend="text-spaced">Klimts</hi>, die so<lb/>
+viel, zu viel Lärm in Wien verursacht hat.<lb/>
+Eine schöne Tafel, eher gelehrt als gut compo-<lb break="no"/>
+niert, recht interessant, aber ein bischen confus.<lb/>
+Seine <hi rend="italics">Pallas Athene</hi> scheint mir verdienstvoller;<lb/>
+man fühlt da die Einwirkung der Münchener.<lb/>
+Vielleicht ist ein einfaches Porträt desselben<lb/>
+Malers <hi rend="italics">(Dame in Rosa)</hi> den genannten beiden<lb/>
+Bildern vorzuziehen, denn es zeugt von char-<lb break="no"/>
+mantem Geschmack und ist auch subtil arran-<lb break="no"/>
+giert. Die Kunst Josef <hi rend="text-spaced">Mehoffers</hi> scheint<lb/>
+mir viel solider, viel tiefer, als Klimts Ver-<lb break="no"/>
+suche. Seine <hi rend="italics">Sängerin</hi> ist ein gutes Stück<lb/>
+Malerei, zugleich auch ein interessantes<lb/>
+Stück Sitte. Neben diesen beiden Künstlern ist<lb/>
+kaum noch etwas zu loben; zu erwähnen wären<lb/>
+etwa auch <hi rend="text-spaced">Engelhardts</hi> Pastelle (charakte-<lb break="no"/>
+ristische <hi rend="italics">Volksscenen</hi>), dann ein <hi rend="italics">Porträt</hi> Johann<lb/>
+                        <hi rend="text-spaced">Kramers</hi> und der <hi rend="italics">Platzregen</hi> von Alois<lb/>
+                        <hi rend="text-spaced">Hanisch</hi>.</p>
+                     <p>Alle diese Maler gehören der »Seces-<lb break="no"/>
+sionisten«-Gruppe an. Unter den Mitgliedern<lb/>
+der »Künstlergenossenschaft« thun sich die<lb/>
+Czechen (aber auch diese nur recht mäßig)<lb/>
+hervor: so <hi rend="text-spaced">Brozik</hi>, <hi rend="text-spaced">Urpka</hi> u. a.</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="asterisk"/>
+                     <milestone unit="untyped-start"/>
+                     <ab>
+                        <title>UNGARN UND POLEN.</title>
+                     </ab>
+                     <p>Man verbindet diese beiden Länder,<lb/>
+weil sie ein gemeinsamer Geschmack eint:<lb/>
+die Historie. Gestern noch konnte sich<lb/>
+Polen Jan <hi rend="text-spaced">Matejkos</hi> rühmen, eines der<lb/>
+letzten großen Romantiker; gestern noch<lb/>
+rühmte sich Ungarn <hi rend="text-spaced">Munkacsys</hi>, der<lb/>
+einen besonderen Romantismus geschaffen hat.<lb/>
+Dieser Romantismus war zwar recht theatra-<lb break="no"/>
+lisch, nicht aber ohne jede Größe. Man kann<lb/>
+Munkacsy unserem Roybet vergleichen, muss</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">aber dem Ungarn den Vorrang zuerkennen.<lb/>
+Ungarn hat noch einen anderen Maler von an-<lb break="no"/>
+erkannter Bedeutung, doch von verschiedener<lb/>
+Eigenart; es ist <hi rend="text-spaced">Rippl-Ronai</hi>, dessen Origi-<lb break="no"/>
+nalität seit langem in Paris geschätzt wird.<lb/>
+Er stellt ein Werk (Porträt) von bezwingend<lb/>
+künstlerischer Einfachheit aus.</p>
+                     <p>
+                        <hi rend="italics">Die Verlobung des polnischen Königs<lb/>
+Kazimierz Jagiellończyk mit der Erzherzogin<lb/>
+Elisabeth von Osterreich</hi> — das ist der lang-<lb break="no"/>
+athmige Titel eines der Hauptwerke Matejkos.<lb/>
+Es figuriert in der österreichischen Section<lb/>
+und war ehemals ohne Zweifel weit interessanter<lb/>
+als heute. Große Compositionen (wie etwa auch<lb/>
+die <hi rend="italics">Hochzeit von Kanaa</hi> oder die <hi rend="italics">Krönung<lb/>
+Napoleons</hi>) werden immer seltener. Haben wir<lb/>
+dies zu beklagen?</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="asterisk"/>
+                     <milestone unit="untyped-start"/>
+                     <ab>
+                        <title>DIE SCHWEIZ.</title>
+                     </ab>
+                     <p>Hätte <hi rend="text-spaced">Böcklin</hi> ausgestellt, dann wäre<lb/>
+der Schweizer Abtheilung ein ganz besonderes<lb/>
+Interesse erwachsen. Aber der Meister fehlt.<lb/>
+An seinerstatt sieht man seinen besten Schüler,<lb/>
+Hans <hi rend="text-spaced">Sandreuter</hi>: <hi rend="italics">Das Thal Bavona, Die<lb/>
+Umgebung Basels, Der Abend</hi> — drei Land-<lb break="no"/>
+schaften voller Milde und Größe. Sein<lb/>
+                        <hi rend="italics">Decamerone</hi> ist nur Skizze, aber von bester<lb/>
+Farbe. Neben diesen Werken, die einen großen,<lb/>
+reinen Stil verrathen, nehmen sich <hi rend="text-spaced">Hodlers</hi>
+                        <lb/>
+Malereien bizarr aus. Man muss ihnen aber<lb/>
+einen reellen decorativen Wert zusprechen<lb/>
+und sie nicht sonderlich analysieren wollen.<lb/>
+Diese <hi rend="italics">Nacht</hi> zum Beispiel (durch nackte<lb/>
+Figuren dargestellt, die — in schwarze<lb/>
+Draperien gehüllt — zu schlafen scheinen) ist<lb/>
+nahe daran, lächerlich zu wirken; aber das<lb/>
+alles ist zum mindesten nicht banal. Und besser<lb/>
+eine exaltierte Originalität als eine billige<lb/>
+Platitude.</p>
+                     <p>Ein anderer, gleichfalls sehr capriciöser<lb/>
+Künstler, Carlos <hi rend="text-spaced">Schwabe</hi>, ist bekannter als<lb/>
+Hodler. Man schätzt in ihm namentlich den<lb/>
+Bücher-Illustrator. Er ist ein ingeniöser<lb/>
+Decorateur; weit mehr ein erfinderischer,<lb/>
+einbildungskräftiger Zauberer, als ein Maler<lb/>
+von Rasse. Was er macht, ist eher graziös<lb/>
+und artig, als schön. Seine Inspiration liebt das<lb/>
+Symbolistisch-Mystische. Er zeichnet recht<lb/>
+gut und bevorzugt die lichten Töne.</p>
+                     <p>Marie <hi rend="text-spaced">Bashkirtschef</hi> hat einst das<lb/>
+Talent der Luise <hi rend="text-spaced">Breslau</hi> beneidet; dadurch<lb/>
+ist diese Künstlerin, die hier ausstellt, berühmt<lb/>
+geworden. Eine andere Schweizerin, Ottilie<lb/>
+                        <hi rend="text-spaced">Roederstein</hi>, hat Berühmtheit erlangt, weil<lb/>
+sie Porträts macht, die wie gemalte Fenster-<lb break="no"/>
+scheiben aussehen. Gleichfalls berühmt ist<lb/>
+Eugen <hi rend="text-spaced">Burnand</hi>; man weiß aber füglich<lb/>
+nicht, warum. Auch August <hi rend="text-spaced">Band-Bovy</hi> hätte<lb/>
+Ruhm erlangt, wenn er nicht gestorben wäre;<lb/>
+er hat landschaftliche Panoramen gemalt,<lb/>
+die uns die Berge seiner Heimat zeigen:<lb/>
+Kälteres, Traurigeres, Langweiligeres lässt<lb/>
+sich nicht denken.</p>
+                     <p>Die Schweiz hat das Unglück, dass alle<lb/>
+Welt <hi rend="text-spaced">Böcklin</hi> für einen Deutschen hält.<lb/>
+Und in der That: ist dieser Altmeister nicht</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

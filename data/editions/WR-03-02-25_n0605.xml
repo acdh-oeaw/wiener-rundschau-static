@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-25_n0605.xml" prev="WR-03-02-25_n0604.xml" next="WR-03-02-25_n0606.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 25, S. 605</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="25"/>
+                        <biblScope unit="page" n="n0605"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0767">
+                  <title level="a">»Don Juan« und »Fra Diavolo«</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 25</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="25">25</biblScope>
+                  <biblScope unit="page" from="603" to="605"/>
+                  <idno type="fn">WR-03-02-25_n0603.xml</idno>
+                  <author ref="#wr-person-0219">Kolb, Annette</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0768">
+                  <title level="a">Über Bühnenanweisungen</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 25</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="25">25</biblScope>
+                  <biblScope unit="page" from="605" to="606"/>
+                  <idno type="fn">WR-03-02-25_n0605.xml</idno>
+                  <author ref="#wr-person-0254">Gundolf, Friedrich</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">GUNDOLF: ÜBER BÜHNENANWEISUNGEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">wir diesen deutschen Studenten, der mit<lb/>
+Siegermiene über die Bühne marschiert.</p>
+                     <p>Umsonst versuchen wir mit ge-<lb break="no"/>
+schlossenen Augen das Werk zu recon-<lb break="no"/>
+struieren; das kleine, leer tönende Orchester<lb/>
+lässt keine Begeisterung zu, und die Be-<lb break="no"/>
+deutung des Don Juan ist zerstört.</p>
+                     <p>Was ist nun die Folge von alledem?<lb/>
+Das Publicum, dessen Urtheil durch die<lb/>
+neue Giovanni-Inscenierung glücklich irre-<lb break="no"/>
+geleitet wurde, konnte ihr naturgemäss<lb/>
+keinen wirklichen Enthusiasmus entgegen-</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">bringen, und da seine Erfordernisse in-<lb break="no"/>
+dessen nicht höher gestiegen sind, lässt<lb/>
+es sich bereitwillig zum »<hi rend="text-spaced">Fra Diavolo</hi>«<lb/>
+zurücklenken. Warum kramte man ihn<lb/>
+gerade jetzt hervor? Als »clou de saison«<lb/>
+nimmt sich diese Räubergeschichte doch<lb/>
+etwas unglücklich aus. Soll uns der<lb/>
+pfiffige, gemüthlose Banditenhäuptling für<lb/>
+den verlorenen Don Juan trösten? Dann<lb/>
+freue ich mich auf das nächste Jahr-<lb break="no"/>
+hundert, denn von dem »fin de siècle«<lb/>
+ist nicht mehr viel zu erwarten.</p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">ÜBER BÜHNENANWEISUNGEN</hi>.<lb/>
+Von <rs type="person" key="">FRIEDRICH GUNDOLF</rs> (München).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Zu jenen Schutzmitteln, welche ein<lb/>
+dilettantisches Unvermögen zu decken<lb/>
+geeignet scheinen, gehört die Sitte,<lb/>
+den Dialog mit aufdringlich belehrsamen<lb/>
+Bühnenanweisungen zu unterbrechen, wo-<lb break="no"/>
+durch ein interessantes Stammeln, eine<lb/>
+vornehm angeschminkte Dunkelheit — bei<lb/>
+aller frechen Deutlichkeit — das Werk mit<lb/>
+fremdem Zauber umgeben möchte: ein<lb/>
+liebenswürdig chaotischer Dichter verkünde<lb/>
+aus kindlichen Seelentiefen herauf stotternd<lb/>
+die anmuthige Zerrissenheit, die Ungewisse<lb/>
+zitternde Qual eines zerklüfteten Lebens.<lb/>
+Denn das »Chaos«, das herausgestossene<lb/>
+Wilde — sie nennen es Leidenschaft und<lb/>
+Stärke — ist ja der Stolz unserer jungen<lb/>
+Poeten geworden. Vielleicht ist es bald<lb/>
+möglich, zu sehen, welche Leerheit und<lb/>
+Armuth sich hinter solchem Lärm verbirgt.</p>
+                     <p>Schreien ist immer eine Unehrlichkeit<lb/>
+oder eine Schwäche. Nichts anderes ver-<lb break="no"/>
+kündet uns das zwiefache Geschrei in<lb/>
+solch zerhackten Stücken: das Geschrei<lb/>
+(oder Geächze) der Personen im Dialog,<lb/>
+das Geschrei des Autors in den Bühnen-<lb break="no"/>
+weisungen. Möchten sich die Autoren nicht<lb/>
+fragen, was eigentlich im Drama das<lb/>
+Leben sei und der Träger des Lebens?<lb/>
+Möchten sie ihre Ehrlichkeit nicht lieber<lb/>
+gegen sich selbst richten, anstatt mit<lb/>
+falschem Freimuth, der beleidigt, in das<lb/>
+Stück hineinzurufen, wie sie dies und<lb/>
+jenes aufgefasst haben wollen? Fühlt Ihr<lb/>
+nicht, wie Euer deutender Finger jedes</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">aufsteigende Bild, jede zarte Stimmung,<lb/>
+die wir gerne erwarten möchten, durch-<lb break="no"/>
+sticht? Denkt Ihr, unsere Ohren seien so<lb/>
+hart, nicht den Missklang Eurer gellen<lb/>
+Stimme zu hören, wo Ihr uns Harmonien<lb/>
+versprecht? Barbaren! Dies ist Barbarei<lb/>
+und rechte Unbildung, anfänglichster Zu-<lb break="no"/>
+stand der Seele und der Sinne, dass<lb/>
+keiner abwarten will, sondern mit rohem<lb/>
+Lärm vordrängt, eh’ Bild und Stimmung<lb/>
+sich wachsend entwickeln konnte; dass<lb/>
+die Sinne nicht geschärft dafür sind, was<lb/>
+schön ist und was hässlich, was einen<lb/>
+Einklang gibt und was ein wüstes Gewirre.<lb/>
+Nicht einmal ihre Tugenden weiss Bar-<lb break="no"/>
+barei geschmackvoll zu zeigen, noch ihre<lb/>
+Schwächen schicklich zu verhüllen. Ihr<lb/>
+fühlt nicht, wie schändlich es ist, in das<lb/>
+Organische, Feinste, Zarteste: das Kunst-<lb break="no"/>
+werk — das Unorganische, Starre, Todte:<lb/>
+die handwerkliche Anmerkung einzukeilen.<lb/>
+Trockenes Holz in blühendes Fleisch: eine<lb/>
+Marter! Aber freilich, sie empfinden wohl<lb/>
+dunkel, dass es kein Kunstwerk ist, was sie<lb/>
+so grausam zerfleischen, dass es Holz von<lb/>
+ihrem Holze ist — und sie mögen Recht<lb/>
+haben. Nichts lächerlicher und schmerz-<lb break="no"/>
+licher zugleich, als zu sehen, wie sich<lb/>
+Gegensätze aus ewig fremden Kreisen<lb/>
+verschmelzen sollen. Und nochmals:<lb/>
+Barbaren!</p>
+                     <p>Doch nicht nur dies. Auch Schwäch-<lb break="no"/>
+linge sind sie. Die jener breiten Bestimmt-<lb break="no"/>
+heit bedürfen, zeigen, dass ihre Gestalten</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

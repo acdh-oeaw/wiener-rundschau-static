@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-08_n0191.xml" prev="WR-04-08_n0190.xml" next="WR-04-08_n0192.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 8, S. 191</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="08"/>
+                        <biblScope unit="page" n="n0191"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0847">
+                  <title level="a">O grave where is thy Victory</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 8</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="175" to="208"/>
+                  <idno type="fn">WR-04-08_n0175.xml</idno>
+                  <author ref="#wr-person-0281">Toorop, Jan</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0851">
+                  <title level="a">Deutsche Buddhisten</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 8</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="187" to="191"/>
+                  <idno type="fn">WR-04-08_n0187.xml</idno>
+                  <author ref="#wr-person-0244">Thomassin, Carl von</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0852">
+                  <title level="a">Die Utopie und die Utopisten</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 8</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="191" to="194"/>
+                  <idno type="fn">WR-04-08_n0191.xml</idno>
+                  <author ref="#wr-person-0203">Gourmont, Remy de</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">GOURMONT: DIE UTOPIE UND DIE UTOPISTEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Buddhismus die älteste Religion nennt.<lb/>
+Man muss aber diesbezüglich in Betracht<lb/>
+ziehen, dass die esoterischen Buddhisten<lb/>
+nicht auf Gautama Buddha zurückgehen,<lb/>
+sondern auf die uralte <hi rend="italics">Yoga</hi>-Lehre, insofern<lb/>
+auch die »Yogis« Buddhas »Erleuchtete«<lb/>
+genannt werden. Unserer Ansicht nach wäre<lb/>
+es nothwendig gewesen, dass Bleibtreu hier-<lb break="no"/>
+über seinen Lesern eingehende Klarlegungen</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">geboten und die <hi rend="italics">Yoga</hi>-Grundlage des theoso-<lb break="no"/>
+phischen Buddhismus zur Vermeidung aller<lb/>
+Missverständnisse ganz besonders hervor-<lb break="no"/>
+gehoben hätte. Dann wäre allerdings auch<lb/>
+die Thatsache mehr ins Licht getreten,<lb/>
+dass der theosophische Buddhismus in<lb/>
+gewissem Sinne das Gegentheil des exo-<lb break="no"/>
+terischen Buddhismus ist.</p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIE UTOPIE UND DIE UTOPISTEN.<lb/>
+                  <hi rend="text-spaced">BRIEF AUS PARIS</hi>.<lb/>
+Von <rs type="person" key="">REMY DE GOURMONT</rs> (Paris).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="untyped-start"/>
+                     <p>Die Gehirne stecken heutzutage voll<lb/>
+Utopien. Jeder oder beinahe jeder Mensch<lb/>
+trachtet, unbekümmert um sein eigenes<lb/>
+Leben, darnach, seinen Brüdern ein all-<lb break="no"/>
+gemeines Glück zu bescheren. In ge-<lb break="no"/>
+wissen Kreisen liefe man fast Gefahr,<lb/>
+gesteinigt zu werden, wollte man diesen<lb/>
+Träumern Goethes Wort ins Gedächtnis<lb/>
+rufen: »Nichts ist leichter, als ein allge-<lb break="no"/>
+meines Glück auf Erden zu schaffen. Sei<lb/>
+ein jeder bestrebt, sich selbst glücklich<lb/>
+zu machen, und die Aufgabe ist gelöst.«<lb/>
+Anders jedoch fassen die Utopisten es auf.<lb/>
+An einem heftigen, fast zum Fanatismus<lb/>
+gesteigerten Christianismus krankend, ver-<lb break="no"/>
+nachlässigen sie ihr eigenes Ich, um nur<lb/>
+an die anderen zu denken. Des Wortes<lb/>
+des Evangeliums vergessend: »Die richtige<lb/>
+Barmherzigkeit fängt bei sich selbst an,«<lb/>
+überlassen sie ihren eigenen Kahn dem<lb/>
+Spiel der Wellen und verwenden ihre<lb/>
+Zeit dazu, ihren Mitmenschen ihre Rath-<lb break="no"/>
+schläge aufzudrängen. Ja, sie wären im<lb/>
+Nothfalle bereit, mit der Menschheit zu<lb/>
+verfahren, wie die Menschen mit den<lb/>
+Schafen und den Rindern verfahren,<lb/>
+sie würden ihr Glück schaffen, ohne sie<lb/>
+auch nur zu fragen — nach dem System<lb/>
+der Zähmung.</p>
+                     <p>Es hat mir stets geschienen, als be-<lb break="no"/>
+deute für gewisse Socialisten und gewisse<lb/>
+Anarchisten, vor allem für diejenigen, die<lb/>
+ihre Brüderlichkeitsgefühle am lautesten<lb/>
+proclamieren, der Mensch nichts als ein</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">zu zähmendes Thier, als eine wilde Bestie,<lb/>
+die noch nichts davon weiß, dass der<lb/>
+Inbegriff des Glückes in dem warmen<lb/>
+Stall oder der fetten Wiese besteht. Den<lb/>
+Socialisten, sehr praktisch und gefräßig,<lb/>
+kümmert vor allem das Futter; der poe-<lb break="no"/>
+tischer angelegte Anarchist vereinigt das<lb/>
+Vergnügen des Essens mit dem Vergnügen,<lb/>
+in Freiheit zu essen. Beide aber unter-<lb break="no"/>
+drücken in gleicher Weise die Freiheit,<lb/>
+der eine bewusst, der andere unbewusst.<lb/>
+Das ist es, was mir die Lectüre der<lb/>
+utopistischen Literatur so peinlich macht;<lb/>
+und überhaupt ist mir der Gedanke, mich<lb/>
+nackt auf einer Wiese unter den Blumen<lb/>
+und wohl auch unter Frauen ergehen zu<lb/>
+sollen, ebensowenig erbaulich wie der Ge-<lb break="no"/>
+danke, in den Schweinestall eingesperrt<lb/>
+zu werden, dessen Geschichte Carlyle<lb/>
+erzählt hat.</p>
+                     <p>Ein selbstgewählter Schmerz ist besser<lb/>
+als ein aufgedrungenes Vergnügen, das<lb/>
+vergessen die Utopisten. Und noch einen<lb/>
+anderen Punkt von weit größerer Bedeu-<lb break="no"/>
+tung vergessen sie.</p>
+                     <p>Sämmtliche Utopisten gehen von dem<lb/>
+Grundsatze aus, dass die Gesellschaft eine,<lb/>
+sozusagen außerhalb der Menschen und<lb/>
+gegen die Menschen geschaffene Institution<lb/>
+sei. So eingerichtet, hat diese Institution<lb/>
+sich stets als zum Schütze der Mensch-<lb break="no"/>
+heit gegen die natürlichen und socialen<lb/>
+Unbilden unbrauchbar erwiesen; um sie<lb/>
+vortrefflich zu machen, bedürfte es zahl-</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

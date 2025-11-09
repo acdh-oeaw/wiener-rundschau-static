@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-02_n0062.xml" prev="WR-01-01-02_n0061.xml" next="WR-01-01-02_n0063.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 2, S. 62</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0062"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-01">1 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0017">
+                  <title level="a">Das Meer</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="59" to="63"/>
+                  <idno type="fn">WR-01-01-02_n0059.xml</idno>
+                  <author ref="#wr-person-0013">Reibrach, Jean</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">62</fw>
+               <fw type="ctext">REIBRACH.</fw>
+            </fw>
+            <p rend="no-intend">liche Sieg über den Ocean machte ihn froh. Die Frau war<lb/>
+gewiss schon einigemale auf die Schwelle getreten, hatte die<lb/>
+Augen mit den Händen beschattet und längs der Landstrasse<lb/>
+nach ihm ausgelugt. Er sah sie mit ihrem breiten, gesunden<lb/>
+Gesicht und dem Lächeln des Empfanges, während Johann-<lb break="no"/>
+Maria auf den Knien entgegengekrabbelt kam, Johann-Maria<lb/>
+mit seinen meerblauen Augen, der mit drei Jahren schon so<lb/>
+stark war, dessen Lungen gekräftigt waren von der würzigen<lb/>
+Brise.</p>
+            <p>Einen Augenblick verschwamm das Bild seines Kindes<lb/>
+mit der Erinnerung an das soeben gerettete. Seine Zärtlichkeit<lb/>
+wuchs dadurch nur noch. Dann sah er die Zukunft vor sich.<lb/>
+Er sah, wie der grosse, stark gewordene Johann seine Barke<lb/>
+bestieg. Und zu seinen Träumen lächelnd, stieg er den<lb/>
+schmalen Pfad herab und sang ein heiteres Seemannslied.</p>
+            <milestone unit="hr"/>
+            <lb/>
+            <ab>
+               <title>III.</title>
+            </ab>
+            <p>Als er an seine Thüre kam, empfand er Unruhe und<lb/>
+hatte Herzklopfen.</p>
+            <p>Warum war sie denn verschlossen?</p>
+            <p>Und er hatte sie kaum halb geöffnet, als ihm die Nach-<lb break="no"/>
+barinnen entgegenstürzten.</p>
+            <p>»Halt! Geht nicht hinein! O Gott! Armer Yves!«</p>
+            <p>Er sah sie ganz blöde an. Dann schlug der Name Johann-<lb break="no"/>
+Maria an sein Ohr. Johann-Maria? der Kleine?</p>
+            <p>Er machte eine Schwenkung und trat ein. Rückwärts<lb/>
+im Zimmer auf dem Bett lag die Leiche des Kindes. Mit einem<lb/>
+Schrei der Verzweiflung fiel ihm die Frau um den Hals. Die<lb/>
+Nachbarinnen erzählten unter Klagen und in unzusammen-<lb break="no"/>
+hängenden Worten das Unglück. Wie Johann-Maria von der<lb/>
+Klippe, wo er gespielt hatte, ins Wasser gefallen war und<lb/>
+alle Hilfe zu spät kam. Und die Frau stöhnte lauter, be-<lb break="no"/>
+schuldigte sich, nicht genug Acht gegeben zu haben. Zer-<lb break="no"/>
+schmettert und im Vorhinein gebeugt unter dem gerechten<lb/>
+Zorn des Vaters stand sie da. Yves blieb stumm und kreide-<lb break="no"/>
+weiss vor der kleinen Leiche. Er hatte eines Anderen Kind<lb/>
+gerettet; und seines zu retten, hatte sich Niemand gefunden!<lb/>
+Aber diese Bitterkeit hielt nur einen Moment an. Der Christ</p>
+         </div>
+      </body>
+   </text>
+</TEI>

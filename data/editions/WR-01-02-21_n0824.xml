@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-21_n0824.xml" prev="WR-01-02-21_n0823.xml" next="WR-01-02-21_n0825.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 21, S. 824</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="21"/>
+                        <biblScope unit="page" n="n0824"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-09-15">15 9 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0260">
+                  <title level="a">Anarchistische Experimente</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 21</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="817" to="824"/>
+                  <idno type="fn">WR-01-02-21_n0817.xml</idno>
+                  <author ref="#wr-person-0101">Grossmann, Stefan</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0261">
+                  <title level="a">La brise en larmes</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 21</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="824" to="824"/>
+                  <idno type="fn">WR-01-02-21_n0824.xml</idno>
+                  <author ref="#wr-person-0102">Gregh, Fernand</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">824</fw>
+               <fw type="ctext">GROSSMANN.</fw>
+            </fw>
+            <p>Den besten Theil seines Lebens hat Giovanni Rossi seinen Ex-<lb break="no"/>
+perimenten gewidmet. Er ist Anarchist geblieben und hat nur den<lb/>
+Communismus über Bord geworfen. Aber das hat der grösste Theil<lb/>
+der europäischen Anarchisten gethan, vielleicht Einzelne sogar etwas zu<lb/>
+vorschnell und ohne praktische Erfahrung. Aber nunmehr, nach den<lb/>
+Aufzeichnungen Giovanni Rossi’s, dürfen wir mit noch mehr Wahr-<lb break="no"/>
+scheinlichkeit glauben, dass die heissesten Kämpfe der Zukunft die<lb/>
+Duelle des Einzelnen wider jederlei Gesammtheit sein werden. Wer<lb/>
+irgend etwas Eigenes hat — Millionen sind durchaus nichts Eigenes —<lb/>
+der wird mit allen bewussten und unbewussten Kräften seiner Seele,<lb/>
+mit seinen Instincten und seiner Vernunft auf der Seite des Einzelnen<lb/>
+stehen und — ob er’s will oder nicht — als Anarchist angesehen und<lb/>
+mit allen Paragraphen des Gesetzes und der öffentlichen Meinung ge-<lb break="no"/>
+kitzelt und verwundet werden.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>LA BRISE EN LARMES.</title>
+            </ab>
+            <lg>
+               <l>
+                  <hi rend="initial">Vom</hi> grauen Himmel sinkt mit linder Kühle</l>
+               <l>Die süsse Wehmut einer Regenstunde</l>
+               <l>Und sinkt so sacht; dass ich auf meinem Munde</l>
+               <l>Ihr Wehen wie verweinte Küsse fühle;</l>
+            </lg>
+            <lg>
+               <l>Dann kommt der Wind und ist so weich und seiden</l>
+               <l>Wie eine Welle tief im Schilfgeflüster,</l>
+               <l>Und unter seines Himmels ernstem Düster</l>
+               <l>Irrt er wie eine Seele voller Leiden.</l>
+            </lg>
+            <lg>
+               <l>Du arme Seele, die im Uferlosen</l>
+               <l>Erbebt und friert in ewigem Gequäle,</l>
+               <l>Du hohe, große, brüderliche Seele</l>
+               <l>Der Himmel und der Schatten und der Rosen,</l>
+            </lg>
+            <lg>
+               <l>Du, Himmel, blaue Wälder und das linde</l>
+               <l>Hindämmern, — Freunde meiner Traurigkeiten,</l>
+               <l>Euch gelten meine Küsse, ihr Geweihten,</l>
+               <l>Wenn ich des Windes kühle Lippen finde.</l>
+            </lg>
+            <p>Paris. <rs type="person" key="">Fernand Gregh</rs>.</p>
+            <p>Deutsch von <rs type="person" key="">Rainer Maria Rilke</rs>.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

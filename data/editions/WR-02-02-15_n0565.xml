@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-15_n0565.xml" prev="WR-02-02-15_n0564.xml" next="WR-02-02-15_n0566.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 15, S. 565</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="15"/>
+                        <biblScope unit="page" n="n0565"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-06-15">15 6 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0443">
+                  <title level="a">Liebe von damals </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 15</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="15">15</biblScope>
+                  <biblScope unit="page" from="565" to="565"/>
+                  <idno type="fn">WR-02-02-15_n0565.xml</idno>
+                  <author ref="#wr-person-0095">Wassermann, Jakob</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">LIEBE VON DAMALS</hi>
+               </title>
+            </ab>
+            <lg>
+               <l>Unbefriedigtes Verlangen,</l>
+               <l>Wie erdrückst du mich,</l>
+               <l>Wenn ich nach dem tagelangen</l>
+               <l>Zwischen Groll- und Hoffnunghangen</l>
+               <l>Seufzend Deinem Trotze wich!</l>
+            </lg>
+            <lg>
+               <l>Keine Arbeit will von statten,</l>
+               <l>Keine heit’re Stunde naht.</l>
+               <l>Einst, wenn wir geküsst uns hatten,</l>
+               <l>Gieng ich in dem milden Schatten</l>
+               <l>Deiner Liebe Pfad um Pfad.</l>
+            </lg>
+            <lg>
+               <l>Muss ich jetzt um Küsse betteln</l>
+               <l>Wie ein armer Vagabund?</l>
+               <l>Soll ich mit belohnten Vetteln</l>
+               <l>Jugendglück und Kraft verzetteln?</l>
+               <l>Öffne doch den stolzen Mund!</l>
+            </lg>
+            <lg>
+               <l>Fürchtest Du, dass meine Hände</l>
+               <l>Dir das schneeige Hemd beschmutzt <milestone unit="3dots"/>?</l>
+               <l>Ahnst Du nicht, dass Liebesbrände</l>
+               <l>Wie die meinen Dich am Ende</l>
+               <l>Schöner als zuvor geputzt?</l>
+            </lg>
+            <lg>
+               <l>Unbefriedigtes Verlangen,</l>
+               <l>Wie erfüllst du mich!</l>
+               <l>Gram und Scham auf blassen Wangen</l>
+               <l>Bin ich in die Nacht gegangen,</l>
+               <l>Aber Du bliebst jüngferlich.</l>
+            </lg>
+            <p>
+               <rs type="person" key="">Jakob Wassermann</rs>.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

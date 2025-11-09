@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-24_n0939.xml" prev="WR-01-02-24_n0938.xml" next="WR-01-02-24_n0940.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 24, S. 939</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="24"/>
+                        <biblScope unit="page" n="n0939"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-11-01">1 11 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0297">
+                  <title level="a">Zwischen den Völkern</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 24</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="936" to="939"/>
+                  <idno type="fn">WR-01-02-24_n0936.xml</idno>
+                  <author ref="#wr-person-0089">Dix, Arthur</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">ZWISCHEN DEN VÖLKERN. 939</fw>
+            <p rend="no-intend">Organisation für die Wirthschaft, zur Zeit der Wirtschaftskriege, nicht<lb/>
+auf lediglich völkerrechtlicher Grundlage angebahnt werden, wie die meisten<lb/>
+Utopisten — wenn es denn eine Utopie sein soll — mit Meister<lb/>
+Bluntschli sie bisher gewöhnlich gezeichnet haben; der Kern des<lb/>
+Zusammenschlusses muss vielmehr ein wirthschaftlicher sein; nur auf<lb/>
+dieser Grundlage ist eine über alle Gegensätze hinausragende höhere<lb/>
+Interessengemeinschaft und Sicherheit des Bündnisses in unserer Zeit<lb/>
+möglich; von einem mitteleuropäischen Staatenbunde wäre wenig oder<lb/>
+nichts, von einem Zollbunde Alles zu erwarten. Wir müssen uns ge-<lb break="no"/>
+wöhnen, stets daran zu denken, dass heute das, was ausschlaggebend<lb/>
+ist zwischen den Völkern, allein wirthschaftliche Fragen sind. Die<lb/>
+Wirthschaftskriege sind schwerer, dauernder und opferreicher als die<lb/>
+heutigen Waffenkriege. Und auf wirtschaftlichem Gebiete bildet der<lb/>
+Krieg einstweilen die Regel — der Krieg nach aussen wie im Innern<lb/>
+— das Zeitalter des Faustrechts, wenn man Vergleiche liebt.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

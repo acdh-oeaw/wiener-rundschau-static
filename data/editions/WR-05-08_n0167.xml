@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="WR-05-08_n0167.xml"
+     prev="WR-05-08_n0166.xml"
+     next="WR-05-08_n0168.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 5, Nr. 8, S. 167</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="05"/>
+                        <biblScope unit="issue" n="08"/>
+                        <biblScope unit="page" n="n0167"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1901-04-15">15 4 1901</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text">
+                  <author/>
+                  <title n=""/>
+                  <biblScope unit="page">-</biblScope>
+                  <idno/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page"><p><rs type="person" key="">GERHARD MUNTHE</rs> <milestone unit="hr"/></p><p>KÖNIG SIGURDS REISE NACH JERUSALEM</p><figure type="image">
+<p>· KONG · SIGURDS · REISE · TIL · IORSAL ·</p>
+<p>HENRIC REX</p>
+<p/>
+<p>ALKASSA</p>
+<p>FORMENTERA</p>
+<p>SICILIA</p>
+</figure></div>
+      </body>
+   </text>
+</TEI>

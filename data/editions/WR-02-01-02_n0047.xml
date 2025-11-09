@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-02_n0047.xml" prev="WR-02-01-02_n0046.xml" next="WR-02-01-02_n0048.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 2, S. 47</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0047"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-12-01">1 12 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0313">
+                  <title level="a">De amore</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="47" to="49"/>
+                  <idno type="fn">WR-02-01-02_n0047.xml</idno>
+                  <author ref="#wr-person-0004">Altenberg, Peter</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DE AMORE.<lb/>
+(Ich liebe dich. — Ich hasse dich. — Ich liebe dich.)<lb/>
+Von <rs type="person" key="">Peter Altenberg</rs> (Wien).</title>
+            </ab>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">Ich liebe dich</hi>.</title>
+            </ab>
+            <p>Ich liebe dich. Ich liebe deine hellblauen seidenen Socken. Ich<lb/>
+liebe deine zarten weissen Battistkleidchen. Ich liebe deine seidenen<lb/>
+Gürtel mit langen wunderbaren Schleifen. Ich liebe dich.</p>
+            <p>Ich liebe deine drei von dir geliebten Puppen, Mildred, Baby und<lb/>
+Dorothy, welche du an dein Herz drückst und zu welchen du sagst:<lb/>
+»Ihr macht mir viel Kummer, meine Lieben, wisst ihr das?! Immer<lb/>
+gleich verdrückt und schiefe Hüte — — —!«</p>
+            <p>Ich liebe dich. Ich liebe den Duft deines Zimmers, deines Kleider-<lb break="no"/>
+schrankes, deines Bettes. So duften die Rinden der Bäume im Vor-<lb break="no"/>
+frühling, wenn noch kein Laub ist und alle Kraft im Baume drinnen<lb/>
+liegt. Ich liebe dich.</p>
+            <p>Ich liebe dich, wenn du gestraft wirst und du eine Thräne wirst,<lb/>
+wie Daphne ein Baum.</p>
+            <p>Die Grossen weinen. Aber die Kleinen werden Thränen.</p>
+            <p>Ich liebe dich. Noch lehnst du lächelnd an dem Thor des Lebens.<lb/>
+Ich liebe dich.</p>
+            <p>Weltenweisheit hast du — — — da du noch nichts weisst.</p>
+            <p>Pallas Athene du! Unbeirrten Auges thronst du auf dem weissen<lb/>
+Throne deiner Kindlichkeiten! Ich liebe dich.</p>
+            <p>Ah, melde mir die Nacht, in der die grausame verzerrungsfreudige<lb/>
+Natur zum Weib dich macht!</p>
+            <p>Dann will ich Abschied nehmen — — — von meiner Liebe.</p>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">Ich hasse dich</hi>.</title>
+            </ab>
+            <p>Ich hasse dich, Geliebte! Ich hasse deine schönen seidenen<lb/>
+Blousen, die deines Athmens Wellenschlag mir weisen und meiner<lb/>
+Sinne »griechisches Lächeln« zum Ernste des Barbaren zwingen. Ich<lb/>
+hasse dich.</p>
+            <p>Ich hasse deiner Worte Willkürherrschaft, die mich erbleichen<lb/>
+und erröthen machen, krank und gesund, blöde und weise. Ich hasse dich.</p>
+            <p>Ich hasse deine Schönheit. Deine Schönheit hass’ ich, die mir<lb/>
+Ersatz für Weltenschönheit wird und so mit Blindheit schlägt mein<lb/>
+Weltenauge.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

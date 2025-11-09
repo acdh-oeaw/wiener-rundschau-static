@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-05_n0191.xml" prev="WR-01-01-05_n0190.xml" next="WR-01-01-05_n0192.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 5, S. 191</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="05"/>
+                        <biblScope unit="page" n="n0191"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-01-15">15 1 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0057">
+                  <title level="a">Die Uniformirung der Jugend</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 5</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="191" to="195"/>
+                  <idno type="fn">WR-01-01-05_n0191.xml</idno>
+                  <author ref="#wr-person-0030">Barrès, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIE UNIFORMIRUNG DER JUGEND.<lb/>
+Von <rs type="person" key="">Maurice Barrès</rs> (Paris).<lb/>
+Autorisirte Uebersetzung von <rs type="person" key="">Marie Lang</rs>.</title>
+            </ab>
+            <p>Man spricht viel von der »Association des étudiants« von Paris.<lb/>
+Lavisse beschützt sie, die Moralisten befragen dort »die neue Genera-<lb break="no"/>
+tion«, und die Opportunisten reissen sie an sich. Genau genommen ist<lb/>
+sie eine Gesellschaft, in der die jungen Leute, die an den verschie-<lb break="no"/>
+denen Facultäten studiren, zusammenkommen. Man fügt hinzu, es sei<lb/>
+dies der Ort, wo sich die Seele eine Heimat bereite. Anfangs be-<lb break="no"/>
+greift man nicht, welchen Zusammenhang ein wenn auch billiges Kaffee-<lb break="no"/>
+haus, ein Billard- oder ein Lesesaal mit irgendwelcher moralischen Ent-<lb break="no"/>
+wicklung eigentlich haben sollte. Aber das ist ja gerade das Charakte-<lb break="no"/>
+ristische der Philosophie, Beziehungen wahrzunehmen, die dem Ge-<lb break="no"/>
+wöhnlichen entgehen, und Lavisse, der grosse Organisator dieser<lb/>
+Studentenverbindungen, ist eben einer der thätigsten Philosophen unserer<lb/>
+Zeit. — — —</p>
+            <p>Ich wohnte den Anfängen dieser Verbindungen bei. Die erste,<lb/>
+mit der man es in Frankreich versuchte, wurde an der Facultät von<lb/>
+Nancy, wo ich studirte, gegründet. Nachdem man den Saal eines Bier-<lb break="no"/>
+hauses gemiethet und Statuten abgefasst hatte, ergriffen einige Per-<lb break="no"/>
+sonen das Wort. Mit edlem patriotischen Eifer sagten jene Redner,<lb/>
+diese Gruppirung werde unser Gefühl von der Würde des geistigen<lb/>
+Berufes kräftigen. Um die Wahrheit zu sagen, die Studenten <hi rend="text-spaced">hatten</hi>
+               <lb/>
+sich bereits einen bedeutenden Begriff von ihrer Würde gemacht: aus<lb/>
+Stolz auf ihren Beruf zogen sie die Klingeln der Bürger, vertrieben mit<lb/>
+niedrigen Epitheta die Handlungsgehilfen von den Bällen und lärmten<lb/>
+an öffentlichen Orten, um für ihre Corporation herabgesetzte Preise zu<lb/>
+erlangen. Man sieht, dass ihre Abendunterhaltungen von dem Gefühle<lb/>
+ihrer Würde erfüllt waren, sogar noch ehe sie eine Verbindung besassen.<lb/>
+Um Mitternacht leistete diese aber wirkliche Dienste. Wenn alle Kaffee-<lb break="no"/>
+häuser geschlossen waren, blieb ihr Local geöffnet; man versammelte<lb/>
+sich dort, um Schnecken zu essen, die Austern der Universität.</p>
+            <p>Das war der allerdeutlichste Vortheil. Unsere Redner verkannten<lb/>
+das keineswegs, und in den offiziellen Sitzungen sagten sie, auf diese</p>
+         </div>
+      </body>
+   </text>
+</TEI>

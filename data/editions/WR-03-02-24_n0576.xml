@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-24_n0576.xml" prev="WR-03-02-24_n0575.xml" next="WR-03-02-24_n0577.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 24, S. 576</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="24"/>
+                        <biblScope unit="page" n="n0576"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0755">
+                  <title level="a">Venedig 1899</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 24</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="573" to="576"/>
+                  <idno type="fn">WR-03-02-24_n0573.xml</idno>
+                  <author ref="#wr-person-0251">Pica, Vittorio</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0756">
+                  <title level="a">Burgtheater: »AgnesJordan«</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 24</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="576" to="579"/>
+                  <idno type="fn">WR-03-02-24_n0576.xml</idno>
+                  <author ref="#wr-person-0206">Lindner, Anton</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">LINDNER: BURGTHEATER.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Vibrieren der Seele fühlt. Als eminent<lb/>
+moderner und vielseitiger Künstler zeigt sich<lb/>
+                        <hi rend="text-spaced">Troubetzkoy</hi>, der die verschiedensten<lb/>
+Vorwürfe mit der gleichen Bravour und<lb/>
+Originalität zu behandeln weiss.</p>
+                     <p>Auf dem Gebiete der decorativen Kunst,<lb/>
+diesem neuerdings so blühenden Zweige,<lb/>
+ist in Italien noch nahezu gar nichts ge-<lb break="no"/>
+schehen, und das Kunstgewerbe beschränkt<lb/>
+sich fast nur auf die Nachahmung der<lb/>
+alten Vorbilder. Als rühmliche Ausnahmen<lb/>
+seien vier junge Architekten aus Bologna:<lb/>
+                        <hi rend="text-spaced">Rubbiani</hi>, <hi rend="text-spaced">Tartarini</hi>, <hi rend="text-spaced">Sezanne</hi> und<lb/>
+                        <hi rend="text-spaced">Cassanova</hi> genannt, die es aus eigener</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Initiative versuchen, die innere Decoration<lb/>
+und Einrichtung der von ihnen erbauten<lb/>
+Häuser mit dem Äusseren in Einklang zu<lb/>
+bringen. Einige schwache Versuche sind<lb/>
+auch in der Keramik zu bemerken.<lb/>
+Nennenswert sind nur die Fortschritte<lb/>
+der <hi rend="text-spaced">graphischen</hi> Künste, die seit zwei<lb/>
+oder drei Jahren den Vergleich mit den<lb/>
+französischen und englischen Reproduc-<lb break="no"/>
+tionen aufnehmen können. Auch der neuer-<lb break="no"/>
+dings so eifrig gepflegten Kunst der Buch-<lb/>
+und Noten-Einbände widmen sich einige<lb/>
+unserer jungen Künstler mit grossem Ge-<lb break="no"/>
+schick und erlesenem Geschmack.</p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>BURGTHEATER.</title>
+            </ab>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <milestone unit="undefined"/> Erste Première im Spieljahre 1899/1900: »<hi rend="text-spaced">Agnes Jordan</hi>«, Schauspiel in vier Acten von<lb/>
+Georg Hirschfeld. <milestone unit="undefined"/>
+                  <lb/>
+Von <rs type="person" key="">ANTON LINDNER</rs> (Wien).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Man hat des öfteren den Versuch ge-<lb break="no"/>
+macht, Georg Hirschfeld als Discipel Ger-<lb break="no"/>
+hart Hauptmanns hinzustellen und für die<lb/>
+Verirrungen des Schülers den Herrn und<lb/>
+Meister büssen zu lassen. Die »Mütter«<lb/>
+mögen nicht ohne äusseren Grund dazu<lb/>
+verleitet haben. Und Ibsen zeugte Haupt-<lb break="no"/>
+mann, Hauptmann zeugte Hirschfeld —<lb/>
+so hiess es fast allenthalben in jenen Jahren.<lb/>
+Die aber heute noch an diesen Stamm-<lb break="no"/>
+baum glauben, mögen sich bei »Agnes<lb/>
+Jordan« zu Gaste laden; bald wird ihnen<lb/>
+die Empfindung kommen, dass sich —<lb/>
+von der Rassen-Divergenz der »handelnden«<lb/>
+Personen, der stofflichen Milieus, der Welt-<lb break="no"/>
+anschauungen etc. ganz abgesehen —<lb/>
+namentlich auch in der Sonderart des Ge-<lb break="no"/>
+staltens, also in dem Vorzüglichsten, das<lb/>
+den Dichter macht, kaum disparatere Ele-<lb break="no"/>
+mente finden lassen, als Hauptmann und<lb/>
+Georg Hirschfeld. Man stelle doch beispiels-<lb break="no"/>
+weise den »Fuhrmann Henschel« neben<lb/>
+die »Agnes Jordan«. <hi rend="text-spaced">Dort</hi>: sorgsamste<lb/>
+Ökonomie im Aufbau menschlicher Figuren<lb/>
+und Zustände, bei aller Schmucklosigkeit</p>
+                  </cell>
+                  <cell>
+                     <p>eine Plastik und Polychromie der Diction,<lb/>
+eine Prägnanz in Psychologie und Stimmung,<lb/>
+ein Pointillismus der Nuancen, dem füglich<lb/>
+auch nicht ein einziges Strichelchen ge-<lb break="no"/>
+nommen werden könnte, ohne die beab-<lb break="no"/>
+sichtigte Mischung in unserer Seele zu<lb/>
+schmälern, eine Spannung der menschlichen<lb/>
+und göttlichen Affecte, die — so klein<lb/>
+auch das Ringsum dieses kleinen Schicksals<lb/>
+sein mag — durch ihre Wucht und Noth-<lb break="no"/>
+wendigkeit an die Ate der Alten denken<lb/>
+lässt. <hi rend="text-spaced">Hier</hi>: eine geschwätzige, sorglose,<lb/>
+ungezügelte Technik, die sich breit in die<lb/>
+Hüften stemmt, wo Beschränkung noth thäte,<lb/>
+fingerdick unterstreicht, wo Andeutungen<lb/>
+beredter wären, Tüpfelchen unorganisch<lb/>
+häuft, die haltlos zwischen den Contouren<lb/>
+durchfallen, und so als Ganzes spulwurm-<lb break="no"/>
+artig über die Bretter kreucht, wo man<lb/>
+den zwingenden Lauf eines unaufhaltsamen<lb/>
+Schicksals erwartet hätte. Wie knabenhaft<lb/>
+und wie senil zugleich nimmt sich solch<lb/>
+schläfriges Bemühen aus, wenn man da<lb/>
+etwa an Hebbels Wort denkt: das echte<lb/>
+Drama des echten Dichters müsste gleich-</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-13_n0303.xml" prev="WR-03-01-13_n0302.xml" next="WR-03-01-13_n0304.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 13, S. 303</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="13"/>
+                        <biblScope unit="page" n="n0303"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0670">
+                  <title level="a">Sermon wider die Literaten in Dingen der dramatischen Dichtkunstkunst</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 13</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="298" to="303"/>
+                  <idno type="fn">WR-03-01-13_n0298.xml</idno>
+                  <author ref="#wr-person-0049">Fuchs, Georg</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0671">
+                  <title level="a">Ein Vöglein über das Mitleid</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 13</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="303" to="309"/>
+                  <idno type="fn">WR-03-01-13_n0303.xml</idno>
+                  <author ref="#wr-person-0206">Lindner, Anton</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">LINDNER: EIN VÖGLEIN ÜBER DAS MITLEID.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Besonderen stets das Ganze gibt, jederzeit<lb/>
+»wahrer« sein muss, als jegliche Nach-<lb break="no"/>
+stümperung von Einzelfällen, sondern auch<lb/>
+das, dass wir von der Aussenwelt nichts<lb/>
+wissen können, als die spärlichen Eindrücke,<lb/>
+die durch die blinden Fenster der Sinne<lb/>
+in das dunkle Haus der Seele fallen. Die<lb/>
+»Theaterliteratur« von heute »arbeitet«<lb/>
+nur mit diesen. Wie könnte sie Euch die</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Erfüllung geben, die Ihr von der hohen<lb/>
+Kunst der Schaubühne mit bangendem<lb/>
+Herzen ersehnt, wie könnte sie Euch den<lb/>
+»Sinn des Lebens« freudig aufschliessen,<lb/>
+den Ihr zwar nimmermehr wissen, wohl<lb/>
+aber <hi rend="text-spaced">empfinden</hi> könnet in der Kunst,<lb/>
+die wir erstreben als einen grossen, heiligen<lb/>
+und heiteren Trost!</p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>EIN VÖGLEIN ÜBER DAS MITLEID.<lb/>
+Frühlings-Vigilie für einen todten Freund und Dichter.<lb/>
+Von <rs type="person" key="">ANTON LINDNER</rs> (Wien).</title>
+            </ab>
+            <milestone unit="verse-start"/>
+            <lg>
+               <l>Denn, was ein Vöglein spricht,</l>
+               <l>Hat guten Klang!</l>
+               <l>Fühlst Du’s nicht, —</l>
+               <l>Hülle Dein Angesicht,</l>
+               <l>Weine Dein Leben lang.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <table>
+               <row>
+                  <cell>
+                     <p>Als mir vor vielen Monden ein Freund<lb/>
+und mit ihm ein Theil meiner Seele<lb/>
+starb, schien es mir, als hätte sich das<lb/>
+Auge aller Menschen verdunkelt. Hände<lb/>
+streckten sich mir entgegen und zogen<lb/>
+sich zitternd zurück, als ich sie unwillig<lb/>
+von mir stiess. Die Abendsonne brach<lb/>
+sich in den Gassen nicht mehr, die Häuser<lb/>
+hielten den Athem an, die herbstlichen<lb/>
+Bäume verhüllten ihr Gerippe, und als<lb/>
+die Sterne wie Todtenlämpchen im Flor<lb/>
+der Wolken hiengen und mühsam die<lb/>
+verwaiste Nacht erhellten, da stockten die<lb/>
+Brunnen rings im Lande, und dorrend<lb/>
+sanken die letzten Blätter ins Gras, weil<lb/>
+selbst das Spiel der unterirdischen Säfte<lb/>
+zu erfrieren begann und alles, alles Leben<lb/>
+schläfrig ward mit meiner Seele.</p>
+                     <p>Am nächsten Morgen kam Das anders.<lb/>
+Die ganze Gemeinheit des Alltags hatte<lb/>
+sich plötzlich vertausendfacht. Sie bleckte<lb/>
+die Geiferzähne und stürmte mit grin-<lb break="no"/>
+sender Fratze, teuflischer denn je, auf<lb/>
+mich ein. Ein Schusterjunge gieng schlen-<lb break="no"/>
+dernd den Strassenpfad entlang und pfiff<lb/>
+sein Lied, wie ehedem. Und rings um<lb/>
+ihn, der mir in diesem Augenblicke alle<lb/>
+menschlichen Brutalitäten, wie das Brenn-<lb break="no"/>
+glas des Satans, radförmig auszustrahlen<lb/>
+schien, drängte sich das Knäuel der</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Müssiggänger, Bittgänger, Drauflosgänger;<lb/>
+der Betriebsamen, Regsamen, Strebsamen;<lb/>
+der Kutten, Windhunde, Plänkler und<lb/>
+Pharisäer. Die »schwülen, schwatzenden<lb/>
+Gewerbe« waren gähnend erwacht, und<lb/>
+in das Feilschen, Kreischen, Schreien der<lb/>
+Fischweiber, Lavendelweiber, Bauchtänzer<lb/>
+und Apostel, der Volksredner, Orgeldreher,<lb/>
+Prinzen und Psalmodisten mischte sich das<lb/>
+Schmatzen der Satten und Übersättigten,<lb/>
+das Wimmern der Verhungernden und<lb/>
+Verwundeten, das Scharren der Hufe und<lb/>
+Schuhe und namentlich das Knarren der<lb/>
+Achsen und Erzräder, die über Steine<lb/>
+und Leiber hinwegfuhren, dass des Ent-<lb break="no"/>
+setzens kein Ende war.</p>
+                     <p>Da erkannte ich — nicht ohne Dank-<lb break="no"/>
+barkeit —, dass sie vor dem leisen Tritt<lb/>
+der Schmerzen keinen Respect haben, die<lb/>
+Mitleidigen, wenn sie auch lärmend ihre<lb/>
+Krankenhäuser, Bethäuser, Friedhöfe und<lb/>
+Ambulanzen bauen.</p>
+                     <p>Und plötzlich eilte ich zu meinem<lb/>
+Kirschbaum, der hinter der schrillen Stadt<lb/>
+steht. Er war schon arg zerzaust von all<lb/>
+den Unbilden der grauen Tage, war bös<lb/>
+zerpflückt und blattlos und ohne Freude,<lb/>
+aber er schien mir in weisse Blüten ge-<lb break="no"/>
+taucht, wie zur Frühlingszeit: einsam<lb/>
+stand er in seinem königlichen Kummer,</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

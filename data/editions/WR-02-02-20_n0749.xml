@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-20_n0749.xml" prev="WR-02-02-19_n0748.xml" next="WR-02-02-20_n0750.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 20, S. 749</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="20"/>
+                        <biblScope unit="page" n="n0749"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-09-01">1 9 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0483">
+                  <title level="a">Bismarck-Socialdemokraten</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 20</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="20">20</biblScope>
+                  <biblScope unit="page" from="749" to="751"/>
+                  <idno type="fn">WR-02-02-20_n0749.xml</idno>
+                  <author ref="#wr-person-0007">Schik, F.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>1. <hi rend="text-spaced">SEPTEMBER</hi>. 1898</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">BISMARCK</hi>-<hi rend="text-spaced">SOCIALDEMOKRATEN</hi>.<lb/>
+Von <rs type="person" key="">F. SCHIK</rs> (Wien).</title>
+            </ab>
+            <p>Schwere Gährungsstoffe sind unserer Zeit beigemengt<lb/>
+worden. Eine Ordnung, welche es zuliess, einen Bismarck zu<lb/>
+entlassen und offen zu misshandeln, ist des Unterganges wert und<lb/>
+sicher. Da man das feststehendste, wurzeltiefste Individuum<lb/>
+schwanken sah, hat auch das Vertrauen auf die Stabilität jed-<lb break="no"/>
+weder bürgerlichen Existenz einen heftigen Stoss erhalten. Es<lb/>
+wird nun darauf ankommen, die Meinung aus der Welt zu<lb/>
+schaffen, dass ein solcher Rechtsbruch ungerächt verübt werden<lb/>
+dürfe. Der Glaube an die historische Gerechtigkeit ist ein uner-<lb break="no"/>
+lässlicher Fortschrittsfactor.</p>
+            <p>Die ins Princip unserer Gesellschaftsordnung eingebornen<lb/>
+Fehler haben die socialdemokratische Idee erzeugt, und parallel<lb/>
+mit der Entwicklung der Schäden jener, vollzieht sich der<lb/>
+Läuterungsprocess der neuen Weltanschauung. Die grundsätz-<lb break="no"/>
+lichen Irrthümer der Gegenwartsmenschheit haben sich in Einer<lb/>
+Person verkörpert und diese hat willkürlich denjenigen realen<lb/>
+Machtfactor ausgeschaltet, der die grossen Eigenschaften seiner<lb/>
+Zeit in monumentalen Formen vereinigte. Eine antisociale Ver-<lb break="no"/>
+messenheit hat den Repräsentanten des Gegenwartsstaates zu<lb/>
+Falle gebracht. Bismarck fiel durch einen Brutalitätsact der Auto-<lb break="no"/>
+kratie, gegen die als solche sich die socialdemokratische Idee<lb/>
+aufbäumt, und selbst gegen den Willen ihrer Vertreter — unter<lb/>
+einem historischen Zwange — werden diese Bismarcks Rächer</p>
+         </div>
+      </body>
+   </text>
+</TEI>

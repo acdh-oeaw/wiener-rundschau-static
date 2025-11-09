@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-11_n0271.xml" prev="WR-03-01-11_n0270.xml" next="WR-03-01-11_n0272.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 11, S. 271</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="11"/>
+                        <biblScope unit="page" n="n0271"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0647">
+                  <title level="a">»Der bunte Vogel von 1899«. Von O. J. Bierbaum</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 11</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="11">11</biblScope>
+                  <biblScope unit="page" from="270" to="271"/>
+                  <idno type="fn">WR-03-01-11_n0270.xml</idno>
+                  <author ref="#wr-person-0217">Conrad, M. G.</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0648">
+                  <title level="a">»Der Scorpion«. Von Prévost</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 11</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="11">11</biblScope>
+                  <biblScope unit="page" from="271" to="271"/>
+                  <idno type="fn">WR-03-01-11_n0271.xml</idno>
+                  <author ref="#wr-person-0131">Gemberg, Adine</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0649">
+                  <title level="a">Die Boys of Glasgow</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 11</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="11">11</biblScope>
+                  <biblScope unit="page" from="271" to="272"/>
+                  <idno type="fn">WR-03-01-11_n0271.xml</idno>
+                  <author ref="#wr-person-0206">Lindner, Anton</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KUNST.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">als modernen Künstlertypus zumal. Sein Ta-<lb break="no"/>
+lent als Lyriker und novellistischer Humorist<lb/>
+und Ironiker erstrahlt im hellen Lichte. Nur<lb/>
+seine ewigen Versöhnungsvelleitäten und Com-<lb break="no"/>
+promissversuche um jeden Preis wirken ver-<lb break="no"/>
+stimmend. Hat ein richtiger Kunstmensch<lb/>
+etwas ganz stark Individuelles, schroff Aufge-<lb break="no"/>
+schossenes und Ausgewachsenes, so schliesst<lb/>
+seine Natur den Compromiss aus. Versöhnungs-<lb break="no"/>
+politik! Was an ihr recht und gut ist, das ist<lb/>
+doch etwas ganz Alltägliches, um dessenwillen<lb/>
+ich mich nicht in Unkosten zu stürzen brauche.<lb/>
+Verschiedene Standpunkte, aber gegenseitige<lb/>
+Hochachtung — gegenseitige, wohlverstanden!<lb/>
+Das ist in ruhigen Zeiten in der Republik der<lb/>
+Geister und der edlen Künste selbstverständlich.<lb/>
+Sapienti sat! <rs type="person" key="">
+                           <hi rend="italics">M. G. Conrad</hi>
+                        </rs>.</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Scorpion</hi>. Roman von Marcel<lb/>
+                        <hi rend="text-spaced">Prévost</hi>. Verlag von Albert Langen, München,<lb/>
+Leipzig, Paris, <date>1899</date>. Eine anstrengende Lec-<lb break="no"/>
+türe! Die Geschichte von der erblichen Belastung<lb/>
+wird an einem Beispiel vorgeführt. Ein Jüngling,<lb/>
+der einer sexuellen Verirrung sein Dasein ver-<lb break="no"/>
+dankt, findet das Ende seines gequälten, kurzen</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Lebens durch eine langsam sich entwickelnde<lb/>
+organische Erkrankung, eine Geschwulst im<lb/>
+Gehirn. Von Seiten des Milieus und der Er-<lb break="no"/>
+ziehung werden alle Bedingungen erfüllt, diesen<lb/>
+klinischen Fall möglichst demonstrativ zu ge-<lb break="no"/>
+stalten. Ein ebenfalls erblich belasteter, älterer<lb/>
+Bruder macht mit dieser jungen Seele Experi-<lb break="no"/>
+mente, die selbst für einen katholischen Geist-<lb break="no"/>
+lichen, von dem man in Bezug auf Kinder-<lb break="no"/>
+behandlung keine Competenz verlangen kann,<lb/>
+etwas sonderbar sind. In stark dramatischen<lb/>
+Contrasten wird der kranke Seelenorganismus<lb/>
+zwischen dem Einfluss des Jesuitenseminars<lb/>
+und der Leidenschaft einer wildbegehrenden<lb/>
+Dirne hin- und hergerissen — bis er unterliegt.<lb/>
+Prachtvoll sind die Schilderungen der einzelnen<lb/>
+Jesuitenpatres. Wenn mehr Schriftsteller von<lb/>
+dem glänzenden Können Prévosts ihre Kraft<lb/>
+dem theologischen Roman zuwenden sollten,<lb/>
+könnte manches noch bestehende Vorurtheil<lb/>
+über die Gesellschaft Jesu beseitigt werden.<lb/>
+Ich erinnere hier nur an einen der bedeutendsten<lb/>
+modernen Romane: »En Route« von J. K. Huys-<lb break="no"/>
+mans, der einer ähnlichen Tendenz folgt.</p>
+                     <p>
+                        <rs type="person" key="">
+                           <hi rend="italics">Adine Gemberg</hi>
+                        </rs>.</p>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">KUNST</hi>.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="untyped-start"/>
+                     <p>
+                        <hi rend="text-spaced">Die Boys of Glasgow</hi>. — Man kann jetzt<lb/>
+mit vergnüglichem Groll dem Pöbel nachschauen,<lb/>
+der an den vielfach verstreuten Schotten zö-<lb break="no"/>
+gernd vorübergeht und der Wunder nicht<lb/>
+achtet, die lautlos in den Winkeln hängen.<lb/>
+Keinerlei Phrase springt aus den Rahmen,<lb/>
+keinerlei Marktgeberde fasst den Passanten an<lb/>
+den Knöpfen, nicht einmal ein Klimt’sches Pro-<lb break="no"/>
+verbium von Schillers Gnaden mahnt, dass<lb/>
+»Vielen gefallen schlimm« sei, weil ja das<lb/>
+Selbstverständliche in seiner Aufdringlichkeit<lb/>
+so läppisch wie unkünstlerisch ist und von<lb/>
+vornehmen Seelen verschwiegen wird.</p>
+                     <p>Das ist es, was die Schotten dem Be-<lb break="no"/>
+trachter so theuer macht: ihre königliche Art,<lb/>
+mit Farben, Formen und Funken wie mit<lb/>
+Glasperlen oder Edelsteinen zu spielen, den<lb/>
+Alltag nur dort zu suchen, wo er sich zu einem<lb/>
+malerischen Spiel der Sinne fügt, und auch<lb/>
+den allerletzten Rest des ehrlichen Natur-<lb break="no"/>
+berichtes oder des epischen Interesses in einem<lb/>
+Meer von Rubinen, Saphiren, Topasen zu er-<lb break="no"/>
+sticken!</p>
+                     <p>Nie sah man Künstler fürstlicher zu Kin-<lb break="no"/>
+dern werden! Nie sah man eine Gruppe<lb/>
+schöpferisch Bemühter mit erlauchterem Trotze<lb/>
+den gefahrvollen Pfad betreten, der — nach<lb/>
+dem Empfinden der Besten — der denkbar<lb/>
+künstlerischeste ist, weil er das letzte Quent-<lb break="no"/>
+chen <hi rend="text-spaced">unmalerischer</hi> Nebenwirkung mit<lb/>
+Kühnheit verwirft. Nie sah man Farben-<lb break="no"/>
+künstler leichtfüssiger den Wundern der Farbe<lb/>
+folgen, demüthiger der Farbe dienen!</p>
+                  </cell>
+                  <cell>
+                     <p>Jegliche Form, die nicht unmittelbar aus dem<lb/>
+Pinsel fliesst und ihre geliebte Farbe zeichnerisch<lb/>
+umschnüren könnte, verschmähen sie, weil sie<lb/>
+vom Übel scheint. Farben, Farben, Farben,<lb/>
+bunte, liebe, schöne Farben, häufen sich<lb/>
+da zu Massen, werden von innen her ver-<lb break="no"/>
+seelt, von innen her entfacht und glühen,<lb/>
+wachsen, <hi rend="text-spaced">gestalten sich</hi> fast ohne Zuthun<lb/>
+des Schöpfers, just wie die Wogen eines<lb/>
+tropischen Golfs im tausendfältigen Glanze<lb/>
+der Abendsonne. <hi rend="text-spaced">Hier ereignet sich das<lb/>
+Merkwürdige</hi>, <hi rend="text-spaced">dass Farben</hi>, <hi rend="text-spaced">sich selbst<lb/>
+überlassen</hi>, <hi rend="text-spaced">zu rhythmischen Gebilden<lb/>
+werden</hi>! Der Rausch coloristischer Rhythmen<lb/>
+fügt sich <hi rend="text-spaced">in den Augen des Beschauers</hi>
+                        <lb/>
+zu harmonischen Formen, nimmt willkürliche<lb/>
+Gestalten an, wird Schlange, Pfauenrad,<lb/>
+Welle, verdichtet sich zu Linien, verflüchtigt<lb/>
+sich zu Floren und zwingt durch sein Fluc-<lb break="no"/>
+tuieren zu einer Bewegtheit der Sinne, die<lb/>
+den köstlichsten Schauer bringt. So formen<lb/>
+sich bewegliche Tonmassen, Farbenvisionen,<lb/>
+die oft nur aus leuchtenden Punkten geboren<lb/>
+scheinen, zu phantastischen Landschaften von<lb/>
+übersatter Tönung und glühender Tiefe. Doch<lb/>
+wie »natürlich« wird diese Phantastik, er-<lb break="no"/>
+innert man sich der tiefschwarzen Seen und<lb/>
+Wälder, der dunkelblauen Flüsse und Grotten,<lb/>
+der rostbraunen Torfmoore, der sprühenden<lb/>
+Hochgipfel, der zerklüfteten Berghänge und<lb/>
+Höhenzüge, der purpurischen Haidekräuter,<lb/>
+der fahlgrünen Lüfte des schottischen<lb/>
+Hochlandes, die aus den alten Balladen der</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

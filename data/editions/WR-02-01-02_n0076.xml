@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-02_n0076.xml" prev="WR-02-01-02_n0075.xml" next="WR-02-01-02_n0077.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 2, S. 76</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0076"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-12-01">1 12 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0317">
+                  <title level="a">Das politische Wien</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="76" to="77"/>
+                  <idno type="fn">WR-02-01-02_n0076.xml</idno>
+                  <author ref="#wr-person-0007">Schik, F.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DAS POLITISCHE WIEN.<lb/>
+Von <rs type="person" key="">F. Schik</rs> (Wien).</title>
+            </ab>
+            <p>Die ungeheuerlichen Vorfälle, die sich in unserem Parlamente<lb/>
+abspielten, werden auf lange hinaus den Ausgangspunkt künftiger poli-<lb break="no"/>
+tischer Veränderungen bilden. Im Momente ist noch keine Möglichkeit<lb/>
+vorhanden, auch nur die nächsten Folgen klar auszudenken. Schwer-<lb break="no"/>
+wiegender als die hastigen Beschlüsse der neuen Regierung werden die<lb/>
+organischen, aus der Natur der Thatsachen von selbst entstehenden<lb/>
+Wirkungen sein.</p>
+            <p>Die Vorgänge der letzten Woche bilden ein Durcheinander, in<lb/>
+welchem eine richtunggebende Linie nicht ersehen werden kann.<lb/>
+Vielmehr könnte ein Kindergekritzel auf einem Blatt Papier die gegen-<lb break="no"/>
+wärtige politische Situation versinnbildlichen. Politische Analphabeten<lb/>
+haben österreichische Geschichte gemacht.</p>
+            <p>So planlos war das Vorgehen, dass die Opposition sich jedesmal<lb/>
+mit ihrem Widerstände beeilen musste, weil sonst die Regierung sich selbst<lb/>
+widerlegte. Schliesslich verstrickten sich die Machthaber so sehr in<lb/>
+ihre eigenen Massnahmen, dass sie die Polizei zur Aufrechterhaltung<lb/>
+der Unordnung herbeirufen mussten.</p>
+            <p>Eine einzige Stunde der jüngsten Ereignisse hat die Wiener Be-<lb break="no"/>
+völkerung heftiger durchgerüttelt, als die Jahre des antisemitischen<lb/>
+Einerlei dies zu bewirken im Stande waren. Die schwüle, gedanken-<lb break="no"/>
+lose Gemächlichkeit durchzuckten nun echte Volksblitze.</p>
+            <p>Grosse Wählermassen hatten seit vielen Jahren ihre guten Kräfte<lb/>
+an eine Idee vergeudet, welche die wirkliche Gefahr so lange um-<lb break="no"/>
+nebelte, bis sie schleichend ganz nahe herangerückt war. Nur dadurch,<lb/>
+dass eine Minorität der Wachsamen die Sorglosen ins Schlepptau nahm,<lb/>
+wurde verhindert, dass die slavisch-reactionäre Strömung Alle miteinander<lb/>
+wegschwemmte.</p>
+            <p>Viel persönlicher Mannesmuth kam hiebei zum Vorschein. Freilich<lb/>
+wird sich dieser in der Folge mit modernen geistigen Waffen armiren<lb/>
+und die alten Phrasen ins politische Zeughaus schaffen müssen. Physische<lb/>
+Leistungen in der Politik sind wohl nur die letzten Nothstandsbehelfe.</p>
+            <p>Nie so deutlich wie jetzt hat sich gezeigt, dass Wien keines Wieners ent-<lb break="no"/>
+rathen kann, dass alles Unvereinbare zwischen den Parteien nur aus persön-<lb break="no"/>
+lichem Getriebe entsteht und dem allgemeinen Interesse zuwiderlaufend ist.<lb/>
+Wenn so fundamental verschiedene Parteien doch in der Bedrängniss sich<lb/>
+zusammenfinden, dann haben sie die angebliche Berechtigung verwirkt,</p>
+         </div>
+      </body>
+   </text>
+</TEI>

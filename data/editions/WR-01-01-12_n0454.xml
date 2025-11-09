@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-12_n0454.xml" prev="WR-01-01-12_n0453.xml" next="WR-01-01-12_n0455.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 12, S. 454</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="12"/>
+                        <biblScope unit="page" n="n0454"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-05-01">1 5 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0150">
+                  <title level="a">Gedichte in Prosa</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 12</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="453" to="455"/>
+                  <idno type="fn">WR-01-01-12_n0453.xml</idno>
+                  <author ref="#wr-person-0034">Baudelaire, Charles</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">454</fw>
+               <fw type="ctext">BAUDELAIRE.</fw>
+            </fw>
+            <p rend="no-intend">Ungleich den Festen der Menschen spielt sich hier eine<lb/>
+schweigende Orgie ab.</p>
+            <p>Und ein immer stärker werdendes Licht macht alle<lb/>
+Dinge lebendiger: die Farbenglut der Blumen wetteifert mit<lb/>
+dem Azur der Himmelsdecke: und sichtbar geworden stei-<lb break="no"/>
+gen die Düfte, Rauchsäulen gleich, zum Firmament.</p>
+            <p>Da durchhricht ein Laut des Schmerzes die Wonne aller<lb/>
+Creaturen.</p>
+            <p>Zu den Füssen einer riesigen Marmor-Venus liegt ein<lb/>
+Narr: einer jener Lustigmacher, die die Könige erheiterten,<lb/>
+wenn Reue oder Langweile sie quälten. In schreiender und<lb/>
+lächerlicher Vermummung, klingende Hörnchen auf der<lb/>
+Kappe, erhebt er seine Augen zur unsterblichen Göttin.</p>
+            <p>Und seine Augen sagen: »Siehe! Ich bin aller Menschen<lb/>
+letzter und einsamster; Liebe und Freundschaft kannte ich<lb/>
+nie; ich bin viel niedriger denn die Thiere. Und doch bin<lb/>
+ich geschaffen auf dass ich die <hi rend="text-spaced">Schönheit</hi> begriffe! Habt<lb/>
+Mitleid, Göttliche, mit meiner Verzweiflung!«</p>
+            <p>Aber unbeweglich blickt die Göttin ins Weite mit<lb/>
+ihren Marmoraugen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>III. <hi rend="text-spaced">Confiteor des Künstlers</hi>.</title>
+            </ab>
+            <p>Es gibt Herbstabende, die in uns durchdringende Em-<lb break="no"/>
+pfindungen hervorrufen; durchdringend bis zum Schmerze!<lb/>
+Denn das Unbestimmte gewisser köstlicher Eindrücke schliesst<lb/>
+die Intensität nicht aus; und nichts hat für uns schärfere<lb/>
+Spitzen als das Unendliche <milestone unit="3dots"/>
+            </p>
+            <p>Einsamkeit herrscht und Schweigen; unvergleichliche<lb/>
+Keuschheit des Azur! Fern am Horizont ein weisses Segel,<lb/>
+einsam und ruhlos, wie ich; und die See heult die mono-<lb break="no"/>
+tonen Melodien der Ewigkeit: alle diese Dinge denken<lb/>
+durch mich, oder ich durch sie — im Reich des Traumes<lb/>
+verliert sich das Ich schnell: sie denken in Tönen und Far-<lb break="no"/>
+ben, ohne Spitzfindigkeiten, ohne Trugschlüsse, ohne Fol-<lb break="no"/>
+gerungen.</p>
+            <p>Und diese Gedanken, ob sie nun von mir oder von den<lb/>
+Dingen ausgehn, gewinnen mählich immer mehr Intensität.<lb/>
+Die Energie der Lustaffecte erzeugt Unbehagen und Schmerz;<lb/>
+die Schwingungen der allzu gespannten Nerven setzen</p>
+         </div>
+      </body>
+   </text>
+</TEI>

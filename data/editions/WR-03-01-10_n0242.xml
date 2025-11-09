@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-10_n0242.xml" prev="WR-03-01-10_n0241.xml" next="WR-03-01-10_n0243.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 10, S. 242</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="10"/>
+                        <biblScope unit="page" n="n0242"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0629">
+                  <title level="a">Kunst und Moral II.</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 10</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="240" to="242"/>
+                  <idno type="fn">WR-03-01-10_n0240.xml</idno>
+                  <author ref="#wr-person-0204">Ruskin, John</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0630">
+                  <title level="a">Secession</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 10</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="242" to="245"/>
+                  <idno type="fn">WR-03-01-10_n0242.xml</idno>
+                  <author ref="#wr-person-0173">Schölermann, Wilh.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">SCHÖLERMANN: SECESSION.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">
+                        <hi rend="text-spaced">stellungskraft</hi>, <hi rend="text-spaced">welche uns das Erb-<lb break="no"/>
+theil der Vergangenheit</hi>, <hi rend="text-spaced">die Er-<lb break="no"/>
+kenntnis der Gegenwart und die<lb/>
+Bereitschaft der Zukunft gibt</hi>.</p>
+                     <p>Leben ohne irgend welche geistige<lb/>
+oder körperliche Thätigkeit ist Schuld.<lb/>
+Thätigkeit ohne eine Spur von Kunst ist<lb/>
+Brutalität. Für die Worte »gut« und<lb/>
+»böse«, auf Menschen angewendet, kann<lb/>
+man annähernd die Worte »Schaffer« und</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">»Zerstörer« einsetzen. Die Schaffenden<lb/>
+ringen Zoll um Zoll dem Chaos die Ord-<lb break="no"/>
+nung ab; mit ihrer Hilfe werden alle<lb/>
+Dinge erhalten und erweitert. Ihre Thätig-<lb break="no"/>
+keit ist Kunst und ihre Spur ist Schön-<lb break="no"/>
+heit <milestone unit="4dots"/>
+                     </p>
+                     <p>Weit entfernt davon, unmoralisch zu<lb/>
+sein, gibt es in Wirklichkeit wenig ausser<lb/>
+der Kunst, was moralisch ist.</p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">SECESSION</hi>.<lb/>
+Von <rs type="person" key="">WILHELM SCHÖLERMANN</rs> (Wien).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Schon wieder haben sie den neuen<lb/>
+Kunsttempel an der Wienzeile von oben<lb/>
+bis unten ausgekehrt und umgebaut. Wie<lb/>
+Verwandlungen bei offener Scene, so<lb/>
+schnell geht das.</p>
+                     <p>In weiss-gold-hellgrün hat <hi rend="text-spaced">Olbrich</hi>
+                        <lb/>
+den Mittelsaal zur Triumphhalle gemacht.<lb/>
+Rundbogen vorne und im Rücken, hinten<lb/>
+durchbrochen. Und mitten hinein <hi rend="text-spaced">Strassers</hi>
+                        <lb/>
+Mark Anton mit den gezähmten Riesen-<lb break="no"/>
+katzen. Wo sich alle in Bewunderung<lb/>
+einig sind, brauche ich wohl nichts über<lb/>
+die Grösse dieser Leistung zu sagen.<lb/>
+Schon vor Jahren, bei dem kleinen Modell,<lb/>
+war sie mir gross vorgekommen. Jetzt<lb/>
+geht sie mit so ehernem Schritt dahin,<lb/>
+dass sehen und schweigen das beste ist,<lb/>
+was man thun kann. Roms Kaiserthum<lb/>
+steigt herauf, spannt seine Räuberfaust<lb/>
+über Morgen- und Abendland, macht<lb/>
+Menschen und Thiere zu Sclaven und<lb/>
+saugt sich voll und feist, bis es so<lb/>
+schwammig wird, wie der Stiernacken des<lb/>
+Imperators. In diesem Fettnacken liegt<lb/>
+sein Geschick im Keime, das wachsend<lb/>
+und wachsend selbst Roms gewaltigen<lb/>
+Willen und Roms kaltes Gehirn zur<lb/>
+Schlacke ausbrannte. Also spricht Strassers<lb/>
+Mark Anton.</p>
+                     <p>Die Reliefs und Büsten von <hi rend="text-spaced">Feo-<lb break="no"/>
+dorowna Ries</hi> zeigen, was ein an den<lb/>
+freien Flug der Einbildungskraft gewöhn-<lb break="no"/>
+tes Schaffen auch dann noch zu leisten<lb/>
+vermag, wenn es sich in den enger ge-<lb break="no"/>
+zogenen Grenzen der Auftrag- und Porträt-</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">kunst bewegen muss. In einer eigentüm-<lb break="no"/>
+lichen Vereinigung von schärfster Beobach-<lb break="no"/>
+tung der Wirklichkeit und visionärer Syn-<lb break="no"/>
+these liegt das Urwüchsige dieser Künst-<lb break="no"/>
+lerin. Mit zwingender Kraft arbeitet sie die<lb/>
+Essenz der Persönlichkeit zu einheitlichem<lb/>
+Leben heraus. Das Steinbildnis Professor<lb/>
+Hellmers (in Laaser Marmor) gibt diesen<lb/>
+visionären Realismus mit merkwürdiger<lb/>
+Schärfe. Schon der grau-glitzernde Stein<lb/>
+ist ein Hilfsmittel, um das bleiche Ant-<lb break="no"/>
+litz des durchgeistigten Künstlers zu sug-<lb break="no"/>
+gerieren. In dem Blick liegt eine Willens-<lb break="no"/>
+spannung, verbunden mit kühler Abstrac-<lb break="no"/>
+tion. Über dem festen Mund mit der et-<lb break="no"/>
+was vorgeschobenen Unterlippe die feine<lb/>
+Nase, an der zu beiden Seiten die scharfe<lb/>
+Falte des schmerzvollen Überwindens ihre<lb/>
+Spur zu den Mundwinkeln herunterzieht.<lb/>
+Darüber die hohen, kantigen Denkerschlä-<lb break="no"/>
+fen, weich in das volle Haar übergehend,<lb/>
+an den Seiten mit vielen Abstufungen<lb/>
+und kleinen Flächen. Das Haupt ist leicht<lb/>
+gegen die aristokratische Hand mit den<lb/>
+mageren Fingern gelehnt. In solchem<lb/>
+Augenblicke wurde vielleicht die erste Idee<lb/>
+zu dem Denkmal Emil Jacob Schindlers<lb/>
+geboren.</p>
+                     <p>Theresa Feodorowna Ries ist Russin,<lb/>
+aber von Abstammung holländisch. Für<lb/>
+Rassenpsychologen eine Gelegenheit, Muth-<lb break="no"/>
+massungen über Atavismus anzustellen.<lb/>
+Als Peter der Grosse die niederländischen<lb/>
+Emigranten aufnahm, hat er vielleicht<lb/>
+vorahnend die Nützlichkeit der Rassen-</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

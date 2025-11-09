@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-07_n0241.xml" prev="WR-02-01-06_n0240.xml" next="WR-02-01-07_n0242.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 7, S. 241</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="07"/>
+                        <biblScope unit="page" n="n0241"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-02-15">15 2 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0355">
+                  <title level="a">Der Bär </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 7</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="241" to="253"/>
+                  <idno type="fn">WR-02-01-07_n0241.xml</idno>
+                  <author ref="#wr-person-0135">Tschechow, Anton</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>15. <hi rend="text-spaced">FEBRUAR</hi> 1898</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="performance-start"/>
+            <ab>
+               <title>DER BÄR.<lb/>
+Schwank in einem Aufzug von <rs type="person" key="">Anton Tschechow</rs>.<lb/>
+Uebersetzt von <rs type="person" key="">Eugenie Kliorin</rs>.</title>
+            </ab>
+            <milestone unit="hr"/>
+            <milestone unit="persList-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">Personen</hi>:</title>
+            </ab>Helene Iwanowna Popowa, junge Witwe mit Grübchen in den Wangen, Guts-<lb break="no"/>
+herrin.<lb/>Grigorji Stepanowitsch Smyrnow, Gutsbesitzer in den besten Jahren.<lb/>Lukas, ein Greis, Bedienter bei Frau Popowa.<lb/>
+            <milestone unit="untyped-end"/>
+            <p>(Gastzimmer auf dem Popow’schen Gute.)</p>
+            <milestone unit="scene-start"/>
+            <ab>
+               <title>I.</title>
+            </ab>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi> (im Trauerkleid, hält den Blick auf eine Photographie ge-<lb break="no"/>
+richtet) und <hi rend="text-spaced">Lukas</hi>.</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Lukas</hi>. Das taugt nicht, gnädige Frau. Sie richten sich bloss<lb/>
+zu Grunde <milestone unit="3dots"/> Das Stubenmädchen und die Köchin sind nach Beeren<lb/>
+gegangen, jegliches athmende Wesen freut sich des Daseins, sogar die<lb/>
+Katze weiss ihr Leben zu gemessen, spaziert auf dem Hofe herum und<lb/>
+jagt den Vöglein nach: Sie aber sitzen den ganzen lieben Tag in der<lb/>
+Stube wie in einem Kloster und haben gar kein Vergnügen. Aber<lb/>
+wirklich! Fast ein Jahr sind Sie nicht aus dem Hause gekommen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Und werde es auch nie verlassen. Wozu auch?<lb/>
+Mein Lebenslauf ist beschlossen. Er liegt im Grabe, ich habe mich in<lb/>
+diesen vier Wänden begraben <milestone unit="3dots"/> Wir sind beide todt <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Lukas</hi>. Da haben wir’s! Es ist nicht anzuhören, wirklich! Ni-<lb break="no"/>
+colaus Michailowitsch ist gestorben, so hat es Gott gewollt <milestone unit="3dots"/> Sie<lb/>
+haben ihn beweint — und genug damit, es muss doch mal ein Ende<lb/>
+haben. Soll man denn sein ganzes Leben lang weinen und Trauer-<lb break="no"/>
+kleider tragen? Auch ich habe seinerzeit meine Alte verloren. Einen<lb/>
+Monat habe ich sie betrauert, beweint, und das ist ganz genügend,</p>
+         </div>
+      </body>
+   </text>
+</TEI>

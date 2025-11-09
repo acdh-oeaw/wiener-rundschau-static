@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-17_n0411.xml" prev="WR-03-02-17_n0410.xml" next="WR-03-02-17_n0412.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 17, S. 411</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="17"/>
+                        <biblScope unit="page" n="n0411"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0699">
+                  <title level="a">»Blaubart und Ariane«</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 17</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="17">17</biblScope>
+                  <biblScope unit="page" from="393" to="415"/>
+                  <idno type="fn">WR-03-02-17_n0393.xml</idno>
+                  <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MAETERLINCK: BLAUBART UND ARIANE.</fw>
+            </fw>
+            <p>GESANG:</p>
+            <milestone unit="song-start"/>
+            <lg>
+               <l>Um Gotteswillen —</l>
+               <l>Die Thür macht auf!</l>
+               <l>Wir bringen den stillen</l>
+               <l>Mann Euch herauf!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DIE AMME UND DIE ANDEREN FRAUEN:</p>
+            <p>Wir können nicht. — Sie ist geschlossen! — Sie brechen sie ein! <milestone unit="3dots"/>
+               <lb/>
+Sie gibt nach; hört Ihr? <milestone unit="3dots"/> Sie dringen alle ein. Sie kommen die Treppe herauf.<lb/>
+Nehmt Euch in Acht, sie sind betrunken <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Ich will die Saalthür öffnen <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DIE ANDEREN FRAUEN<lb/>
+(flehentlich, kopflos):</p>
+            <p>Nein, nein! <milestone unit="3dots"/> Ariane <milestone unit="3dots"/> Sie sind betrunken! <milestone unit="3dots"/> Macht zu, Ariane!<lb/>
+Sie kommen <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Fürchtet nichts <milestone unit="3dots"/> Kommt nicht weiter vor <milestone unit="3dots"/> Bleibt dort stehen.<lb/>
+Ich werde allein gehen.</p>
+            <milestone unit="untyped-end"/>
+            <p>(Die fünf Frauen weichen nach dem Hintergrunde zurück und bleiben dort, eng<lb/>
+aneinander geschmiegt, in schreckhafter Erwartung stehen. Ariane schreitet mit der<lb/>
+Amme zur Thür und öffnet beide Flügel. Man hört das Getöse der Menge, welche<lb/>
+die Treppe heraufdringt, Geheul, Gesang und Gelächter. Die ersten Fackeln werfen<lb/>
+ihren Schein. Die ersten Männer der Menge erscheinen im Rahmen der Thür, die<lb/>
+sie ganz erfüllen, ohne jedoch über die Schwelle zu dringen. Es sind Bauern mit<lb/>
+brutaler, wilder oder siegesfroher Miene, je nach ihrem Charakter. Ihre Kleider sind<lb/>
+zerrissen und tragen die Spuren des Kampfes. Sie tragen BLAUBART scharf geknebelt<lb/>
+und bleiben einen Augenblick verblüfft stehen, als Ariane ihnen ernst, ruhig und<lb/>
+königlich entgegentritt. Indessen dauert im Hintergrunde der Treppe, wo die Bauern,<lb/>
+die sie einnehmen, nicht sehen können, was vorgeht, das Geschrei, Gedränge, Geheul<lb/>
+und Gelächter noch einen Augenblick fort, erstickt dann aber in erfurchtsvollem und<lb/>
+befangenem Flüstern. In dem Augenblicke, da die Menge in den Saal eindringt,<lb/>
+fallen die fünf Frauen unwillkürlich still aufs Knie.)</p>
+            <milestone unit="speech-start"/>
+            <p>EIN ALTER BAUER<lb/>
+(den Hut abnehmend und in den Händen herumdrehend):</p>
+            <p>Gnädige Frau? <milestone unit="3dots"/> Darf man eintreten? <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>EINER DER BAUERN, DIE BLAUBART TRAGEN:</p>
+            <p>Hier bringen wir Euch was Verschnürtes.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>EIN ANDERER:</p>
+            <p>Er ist unschädlich gemacht.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>EIN DRITTER:</p>
+            <p>Und schwer ist er! Uh!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER ERSTE BAUER:</p>
+            <p>Wo sollen wir ihn hintragen?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>EIN ANDERER:</p>
+            <p>Wir wollen ihn da in die Ecke legen. (Sie legen ihn in eine Ecke.) So, da liegt<lb/>
+er gut <milestone unit="3dots"/> Er wird nicht mehr brummen. Er hat uns Böses genug gethan <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-01_n0022.xml" prev="WR-01-01-01_n0021.xml" next="WR-01-01-01_n0023.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 1, S. 22</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0022"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-11-15">15 11 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0008">
+                  <title level="a">Die demolirte Literatur</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="19" to="27"/>
+                  <idno type="fn">WR-01-01-01_n0019.xml</idno>
+                  <author ref="#wr-person-0008">Kraus, Karl</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">22</fw>
+               <fw type="ctext">KRAUS.</fw>
+            </fw>
+            <p rend="no-intend">literarischen Jugend spielend erlernt. Den jüngsten Kritikern<lb/>
+öffnete er die Spalten seines neugegründeten Blattes, welches<lb/>
+allwöchentlich den Bahnbrecher und seine Epigonen in engster<lb/>
+Nachbarschaft sehen liess und noch heute eine nur durch<lb/>
+die Verschiedenartigkeit der Chiffren gestörte Stileinheit<lb/>
+aufweist. Damals, als er noch nicht die abgeklärte Ruhe des<lb/>
+weimarischen Goethe besass, war es für die Anfänger noch<lb/>
+schwer, ihm durch das Gestrüpp seines seltsam verschnörkelten<lb/>
+und kunstvoll verzweigten Undeutsch zu folgen. Heute, wo<lb/>
+er Goethe copirt, findet er die meisten Nachahmer. Kaum<lb/>
+einen seiner Schüler gibt es, der um den Unterschied zwischen<lb/>
+einem »Kenner« und einer »Menge« verlegen wäre. Ein jeder,<lb/>
+der das Buch eines tadelnswerthen Autors zu besprechen<lb/>
+hat, weiss, dass man diesem nicht ein gewisses Können,<lb/>
+sondern »immerhin eine gewisse Macht« zusprechen kann.</p>
+            <p>Hier eine der Wirklichkeit nahekommende Stilprobe aus<lb/>
+der Zeit, da die französirende Art des Meisters noch nicht mit<lb/>
+Goetheischen Sprachelementen durchsetzt war. Ueber das<lb/>
+Werk eines Griensteidl-Gastes und seine Aufführung im<lb/>
+»Deutschen Volkstheater« mag er sich etwa geäussert haben:</p>
+            <milestone unit="untyped-start"/>
+            <p>»Es ist, je öfter man in dieses »Deutsche Volkstheater«<lb/>
+mit den Anführungszeichen um jeden Preis hineingeht, ein<lb/>
+gewaltsamer Aerger, über die Darstellung, über diesen Herrn<lb/>
+Kadelburg mit der Eleganz vom Tapezierer und über dieses<lb/>
+Publicum mit den Ansichten vom Wurstlprater. Man kennt<lb/>
+den Schnitzler. Ich habe, wie ich neulich die Dränge des<lb/>
+jüngsten Oesterreich zeigte, die besondere Art des Schnitzler<lb/>
+gelehrt. Es passt das herbe Wort des heimlichen und ge-<lb break="no"/>
+flissentlich komischen Julius Bauer, dort, wo er eigentlich<lb/>
+schon mehr Isidor Fuchs heisst: »Ein kleiner Beamter hat<lb/>
+nichts, aber das hat er sicher.« Er will den Viveur, aber mit<lb/>
+der wienerischen Note, nicht in der Technik der Franzosen,<lb/>
+wie ihn etwa Pierre Blanchard gezeichnet haben würde oder<lb/>
+ein anderer französischer Eigenname, den nur ich kenne,<lb/>
+wenn ich von Ferry Beraton absehen will, der ihn dann aber<lb/>
+auch von mir hat, auch nicht in der Art dieses Herrn Fulda,<lb/>
+der die letzten Wünsche des Banquiers aus der Rauch- und<lb/>
+Thiergartenstrasse in jenen schleimigen und schnodderigen<lb/>
+Weisen des Schunkelwalzers ablauschte.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

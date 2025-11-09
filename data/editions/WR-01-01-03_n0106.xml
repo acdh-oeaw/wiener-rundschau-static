@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-03_n0106.xml" prev="WR-01-01-03_n0105.xml" next="WR-01-01-03_n0107.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 3, S. 106</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0106"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-15">15 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0032">
+                  <title level="a">Eine Rettung</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="104" to="108"/>
+                  <idno type="fn">WR-01-01-03_n0104.xml</idno>
+                  <author ref="#wr-person-0020">Elbogen, Friedrich</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">106</fw>
+               <fw type="ctext">ELBOGEN.</fw>
+            </fw>
+            <p rend="no-intend">ein Auge hat, kaum wohl so ungeschickt sein werden, auch<lb/>
+Flugschriften noch zu colportiren. Um diese Schwäche zu<lb/>
+decken, hatte die Staatsanwaltschaft rechtzeitig einen anderen<lb/>
+Beweis herbeigeschafft, der allerdings verderblich schien:<lb/>
+eine Masse von Adressschleifen und Couverts, in denen jene<lb/>
+Pamphlete verschickt worden waren. Die Schrift auf diesen<lb/>
+Schleifen und Couverts hatte nun eine verzweifelte Aehn-<lb break="no"/>
+lichkeit mit der Handschrift der Angeklagten. Das heraus-<lb break="no"/>
+zufinden, dazu bedurfte es nicht einmal der Befähigungs-<lb break="no"/>
+unwissenheit der Sachverständigen im Schreibfache, deren<lb/>
+Gutachten die Anklage als Aufputz verwendete.</p>
+            <p>So stand die Sache schlimm.</p>
+            <p>Es war eine Woche vor Weihnachten, als der Process<lb/>
+seinen Anfang nahm. Der jetzige Bürgermeister von Leoben<lb/>
+und ich hatten die Vertheidigung zu führen. Die ersten Tage<lb/>
+gleich ging es herzlich schlecht. Die blutrünstige, tollwüthige<lb/>
+Sprache der zur Verlesung gelangten zahllosen Schmäh-<lb break="no"/>
+schriften, nicht wenig auch der ungebrochene Trotz der An-<lb break="no"/>
+geklagten, mit dem sie ihr socialistisches Bekenntniss vor-<lb break="no"/>
+trugen, hatten die zumeist den Kreisen der Beamten und<lb/>
+Montanunternehmer angehörigen Geschwornen in eine dü-<lb break="no"/>
+stere, nervös gereizte Stimmung versetzt. Die dramatische<lb/>
+Steigerung sollte nun an einem der letzten Verhandlungstage<lb/>
+ihren kräftigen Abschluss erfahren. Denn die Vernehmung<lb/>
+der Sachverständigen im Schreibfache war als Haupttrumpf<lb/>
+der Anklage gedacht. Das schriftliche Gutachten, das sie im<lb/>
+Untersuchungsverfahren abgelegt hatten, war für meine<lb/>
+Clienten vernichtend; es schloss jeden Zweifel an der An-<lb break="no"/>
+nahme aus, dass sie die Absender der Schriften seien.</p>
+            <p>Der grosse Augenblick war endlich da. Die Herren<lb/>
+Schriftgelehrten waren eingetreten und wiederholten nun ihr<lb/>
+Gutachten: jedes Wort ein Galgen. Ich war einer Ohnmacht<lb/>
+nahe, und nur die Rücksicht auf meinen triumphirenden<lb/>
+Processgegner, den Staatsanwalt, hielt mich ab, in sie zu<lb/>
+fallen. Gewiss hätten die beiden Schriftgelehrten es mit dem<lb/>
+Leben gebüsst, wenn der kleinste Theil jener Wünsche in<lb/>
+Erfüllung gegangen wäre, die ich in jenem Momente für sie<lb/>
+hatte. Sie wollten sich schon mit feierlicher Geberde zurück-<lb break="no"/>
+ziehen, als ich mich rasch noch ermannte und mir das Wort zur</p>
+         </div>
+      </body>
+   </text>
+</TEI>

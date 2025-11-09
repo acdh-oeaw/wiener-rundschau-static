@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-02_n0030.xml" prev="WR-03-01-02_n0029.xml" next="WR-03-01-02_n0031.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 2, S. 30</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0030"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0541">
+                  <title level="a">Gedichte</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="30" to="30"/>
+                  <idno type="fn">WR-03-01-02_n0030.xml</idno>
+                  <author ref="#wr-person-0176">George, Stefan</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">GEORGE: GEDICHTE.</fw>
+            </fw>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <rs type="person" key="">STEFAN GEORGE</rs>.*</title>
+            </ab>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>(EIN TAG AUS DEM »ALGABAL«.)</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <lg>
+                        <l>
+                           <hi rend="initial">Gegen</hi> osten ragt der bau</l>
+                        <l>Wo dem grossen Zeus zu fröhnen</l>
+                        <l>Toller wunder fremde schau</l>
+                        <l>Und die würde sich versöhnen.</l>
+                     </lg>
+                     <lg>
+                        <l>Tänzer öffnen das geleit</l>
+                        <l>In verführenden gewändern</l>
+                        <l>Knaben die ein opfer feit</l>
+                        <l>In den sonnenschlaffen ländern,</l>
+                        <l>Macht aus öl- und palmenlaub</l>
+                        <l>Vor des priesters fuss ein kissen,</l>
+                        <l>Streuet sand und silberstaub</l>
+                        <l>Tote liljen und narzissen!</l>
+                     </lg>
+                  </cell>
+                  <cell>
+                     <lg>
+                        <l>An der schwelle haltet rast</l>
+                        <l>Wo das heilge bild entschleiert</l>
+                        <l>Nur sich gibt dem einen gast</l>
+                        <l>Der es oft und innig feiert,</l>
+                        <l>Nur sein mund gebete lallt,</l>
+                        <l>Auch kein bruder sei zugegen:</l>
+                        <l>Spricht des gottes zwiegestalt</l>
+                        <l>Seinen immer gleichen segen.</l>
+                     </lg>
+                     <lg>
+                        <l>Junge stimmen · ferner hall.</l>
+                        <l>Narden die verflüchtet irren</l>
+                        <l>Durch der rauche strengen quall</l>
+                        <l>Zu dem kuss der süssen mirren.</l>
+                     </lg>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="asterismUp"/>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>(AUS DEN TRAURIGEN TÄNZEN DES »JAHRES DER SEELE«.)</title>
+            </ab>
+            <lg>
+               <l>
+                  <hi rend="initial">Drei</hi> weisen kennt vom dorf der blöde knabe</l>
+               <l>Die wenn er kommt sich ständig wiederholen:</l>
+               <l>Die eine wie der väter hauch vom grabe</l>
+               <l>Die eh sie starben sich dem herrn befohlen.</l>
+            </lg>
+            <lg>
+               <l>Die andre hat die tugendhafte weihe</l>
+               <l>Als ob sie Schwestern die beim spinnrad sassen</l>
+               <l>Und mägde sängen die in langer reihe</l>
+               <l>Vor Zeiten zogen auf den abendstrassen.</l>
+            </lg>
+            <lg>
+               <l>Die dritte droht — Versündigung und rache —</l>
+               <l>Mit altem dolch in himmel-blauer scheide,</l>
+               <l>Mit mancher sippe angestammten leide,</l>
+               <l>Mit bösen Sternen über manchem dache.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <note type="footnote">
+               <p>* Aus den bei Georg Bondi in Berlin erscheinenden gesammelten Dichtungen.</p>
+            </note>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

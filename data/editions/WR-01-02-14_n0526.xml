@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-14_n0526.xml" prev="WR-01-02-14_n0525.xml" next="WR-01-02-14_n0527.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 14, S. 526</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="14"/>
+                        <biblScope unit="page" n="n0526"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-06-01">1 6 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0175">
+                  <title level="a">Blanche</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 14</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="14">14</biblScope>
+                  <biblScope unit="page" from="526" to="526"/>
+                  <idno type="fn">WR-01-02-14_n0526.xml</idno>
+                  <author ref="#wr-person-0071">Schmitz, Oscar A. H.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">BLANCHE</hi>.</title>
+            </ab>
+            <ab>
+               <title>I.</title>
+            </ab>
+            <lg>
+               <l>Ich liebe dich wie eine weisse Blume,</l>
+               <l>Die man im Grüne theurer Gräber fand,</l>
+               <l>Denn früh entsagte ich der Lust, dem Ruhme.</l>
+            </lg>
+            <lg>
+               <l>Die Kindheit wich an sängelosem Strand</l>
+               <l>Wie eine Nacht, durchglüht vom Sonnengolde</l>
+               <l>Des Traumes aus der Sehnsucht buntem Land.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi rend="text-spaced">Du</hi> weckest Saitenspiel, und deine holde —</l>
+               <l>Der Jugend Spur erfüllt den lichten Raum:</l>
+               <l>Ein Duft ein Band und eine Fliederdolde.</l>
+            </lg>
+            <lg>
+               <l>Im Garten steht ein dunkler Eibenbaum,</l>
+               <l>Er lauscht und rauscht von fernem Alterthume;</l>
+               <l>Ich singe Nachts in deinen stillen Traum.</l>
+            </lg>
+            <lg>
+               <l>Er lauscht und rauscht mein Lied im stillen Traum:</l>
+               <l>Ich liebe dich wie eine weisse Blume.</l>
+            </lg>
+            <ab>
+               <title>II.</title>
+            </ab>
+            <lg>
+               <l>Das lichte Birkengrün an Sonnentagen</l>
+               <l>Erzittert in der Winde scheuem Kosen,</l>
+               <l>Die schweren Glockenklang herübertragen,</l>
+            </lg>
+            <lg>
+               <l>Ein Ton, der an des Klosters dunkle Rosen,</l>
+               <l>An qualmerfüllter Krypten güldne Pracht</l>
+               <l>Gemahnt und an das Weh der Liebelosen.</l>
+            </lg>
+            <lg>
+               <l>So zieht ein Beben durch die Frühlingsnacht</l>
+               <l>In deiner Seele, zart wie Birkenreis</l>
+               <l>(Bis sie zum grossen Sommerrausch erwacht),</l>
+            </lg>
+            <lg>
+               <l>Bei alter Lieder Klang, die klar und leis</l>
+               <l>Anheben, dann von bangen Schauern klingen</l>
+               <l>Und Leben hauchen, Leben wirr und heiss,</l>
+            </lg>
+            <lg>
+               <l>Den Wünschen gleichend, die im Busen singen,</l>
+               <l>Nur halb erwacht, noch halb in starrem Tod. —</l>
+               <l>Doch tragen dich der Dämmrung Silberschwingen,</l>
+            </lg>
+            <lg>
+               <l>Dann schaust du wissend in das Abendroth.</l>
+            </lg>
+            <p>(Paris.) <rs type="person" key="">Oscar A. H. Schmitz</rs>.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

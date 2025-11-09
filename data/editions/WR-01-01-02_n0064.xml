@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-02_n0064.xml" prev="WR-01-01-02_n0063.xml" next="WR-01-01-02_n0065.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 2, S. 64</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0064"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-01">1 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0018">
+                  <title level="a">Die treue Frau</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="64" to="66"/>
+                  <idno type="fn">WR-01-01-02_n0064.xml</idno>
+                  <author ref="#wr-person-0014">Strauss, Rudolf</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIE TREUE FRAU.</title>
+            </ab>
+            <p>Sie schritten durch den weiten, grünen Park, über den<lb/>
+die Sonne ihr weisses Licht goss. Die Dame rauschte in<lb/>
+einem dünnen lila Seidenkleid mit weiten Glockenärmeln und<lb/>
+unten verbreitertem Rocke; in der Rechten hielt sie einen<lb/>
+zierlichen lila Seidenschirm, mit dem sie ihr unbedecktes,<lb/>
+dunkelblondes Köpfchen schützte. Der Herr dagegen trug<lb/>
+einen eleganten, grauen Smoking, einen grauen, steifen Hut<lb/>
+mit breitem, schwarzem Bande und in der Hand ein Paar<lb/>
+neuer, heller Glacés.</p>
+            <p>Er sagte eben: »Ich liebe Sie, gnädige Frau. Antworten<lb/>
+Sie mir: Darf ich hoffen? Weisen Sie mich nicht zurück?<lb/>
+Ist irgend welche Aussicht?«</p>
+            <p>»Nein,« erwiderte sie ruhig. »Keine!«</p>
+            <p>»Aber warum denn nicht, um Himmelswillen?«</p>
+            <p>Sie senkte ihr blasses Gesichtchen, das die glatte Boti-<lb break="no"/>
+celli-Frisur wie ein Rahmen umschloss; dann sagte sie leise:</p>
+            <p>»Weil ich einen Andern liebe.«</p>
+            <p>»Wen?« brach er heftig los. »Etwa den Lieutenant<lb/>
+Korff?«</p>
+            <p>»Nein! Den gewiss nicht!«</p>
+            <p>»Oder den Doctor Weil?«</p>
+            <p>»Nein! Den schon gar nicht!«</p>
+            <p>»Oder den Banquier Gellert?«</p>
+            <p>»Nein! Den bei allen Engeln nicht!«</p>
+            <p>»Ja — also! wen lieben Sie <hi rend="text-spaced">denn</hi>? Sonst kommt ja<lb/>
+Niemand mehr hieher!«</p>
+            <p>»Oh doch! Einer — Victor.« Langsam und feierlich kam’s<lb/>
+heraus: »Ich liebe Victor, meinen Mann.«</p>
+            <p>Da sah er sie zuerst stumm an, dann aber nahm er<lb/>
+stürmisch ihre feine, weisse, schlanke Hand, tauchte seine<lb/>
+Lippen voll darauf und huldigte ihr wortlos, ganz ergriffen.</p>
+            <p>»Gnädige Frau,« sagte er später, »ich bete Sie ehrfurchts-<lb break="no"/>
+voll an. Ich bin unendlich glücklich, dass ich nun doch<lb/>
+eine Frau fand, die ihrem alten Gatten so die Treue wahrt.«</p>
+         </div>
+      </body>
+   </text>
+</TEI>

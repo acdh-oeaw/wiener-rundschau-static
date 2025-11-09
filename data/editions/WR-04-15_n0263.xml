@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-15_n0263.xml" prev="WR-04-15_n0262.xml" next="WR-04-15_n0264.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 15, S. 263</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="15"/>
+                        <biblScope unit="page" n="n0263"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0922">
+                  <title level="a">Glosse über den Selbstmord</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 15</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="15">15</biblScope>
+                  <biblScope unit="page" from="262" to="263"/>
+                  <idno type="fn">WR-04-15_n0262.xml</idno>
+                  <author ref="#wr-person-0301">Tolstoi, Leo</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0923">
+                  <title level="a">Zur Physiologie der Frivolität und des Cynismus</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 15</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="15">15</biblScope>
+                  <biblScope unit="page" from="263" to="265"/>
+                  <idno type="fn">WR-04-15_n0263.xml</idno>
+                  <author ref="#wr-person-0290">Pudor, Heinrich</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">PUDOR: ZUR PHYSIOLOGIE DER FRIVOLITÄT UND DES CYNISMUS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>ständig lächelnd, dem Herrn im Himmel<lb/>
+fast unablässig seine Dankbarkeit und<lb/>
+seine Freude über das Fünkchen Leben,<lb/>
+das sich in ihm bewahrte <milestone unit="2dots"/> Tausende<lb/>
+von Pilgern suchten ihn auf — und man<lb/>
+möchte es kaum glauben, welch wohl-<lb break="no"/>
+thätig-starke Ausstrahlung von diesem<lb/>
+Manne, der jeder physischen Thätigkeit<lb/>
+unfähig war, auf seine Mitmenschen über-<lb break="no"/>
+gieng. Dieser Paralytische hat sicherlich<lb/>
+weit mehr Gutes gethan, als so und so</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">viele jener lebenskräftigen Leute, die<lb/>
+heute in den verschiedensten Wohlfahrts-<lb break="no"/>
+anstalten gemeinnützige Aufgaben zu er-<lb break="no"/>
+füllen glauben.</p>
+                     <p>Solange sich der Mensch einen Hauch<lb/>
+seines Lebens bewahrt, kann er sich ver-<lb break="no"/>
+vollkommnen und der Welt nützlich er-<lb break="no"/>
+weisen. Nützlich ist er der Welt, indem<lb/>
+er sich vervollkommnet, und er vervoll-<lb break="no"/>
+kommnet sich, indem er der Welt nütz-<lb break="no"/>
+lich ist.</p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>ZUR PHYSIOLOGIE DER FRIVOLITÄT UND DES CYNISMUS.<lb/>
+Von <rs type="person" key="">HEINRICH PUDOR</rs> (Berlin).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>In unseren modernen Großstädten ist<lb/>
+heute kaum ein anderer Charakterzug so<lb/>
+ausgeprägt und so vorherrschend, wie der<lb/>
+des Cynismus. Die cynischeste Großstadt<lb/>
+Europas mag heute Wien sein, in zweiter<lb/>
+Linie etwa Petersburg, dann Paris, London,<lb/>
+Berlin, in letzter Linie etwa Rom. Die<lb/>
+Frivolität ist heutzutage Mode. Ein junger<lb/>
+Mann, der mitreden will, muss frivol <hi rend="text-spaced">sein</hi>
+                        <lb/>
+oder frivol <hi rend="text-spaced">thun</hi>, sofern er nicht für blöde<lb/>
+gehalten werden will. In der Kneipe, auf<lb/>
+der Straße zeigt sich offene Frivolität,<lb/>
+im Salon versteckte, berechnete Frivo-<lb break="no"/>
+lität. Ein »schneidiger« Mann ist heute<lb/>
+ohne einen Anflug von Cynismus nicht<lb/>
+denkbar. Man kann beobachten, dass<lb/>
+gerade die Wortführer, die »Helden«, die<lb/>
+Tonangebenden der Gesellschaft mit den<lb/>
+tausendfältigen Spielarten der Frivolität<lb/>
+wohl vertraut sind, wobei ich außeracht<lb/>
+lasse, ob sie ihnen angeboren oder aner-<lb break="no"/>
+zogen wurden.</p>
+                     <p>Nun will ich nicht etwa von vorn-<lb break="no"/>
+herein ein kritisches Wort über Frivolität<lb/>
+und Cynismus sprechen oder gar verur-<lb break="no"/>
+theilend darüber richten, vielmehr soll hier<lb/>
+nur der Frage nachgegangen werden,<lb/>
+woher diese Charakterzüge kommen und<lb/>
+in welcher Weise sie physisch bedingt<lb/>
+und verursacht sind.</p>
+                     <p>Der Kindheit fehlt die Frivolität<lb/>
+vollständig. Kindlichkeit und Frivolität<lb/>
+scheinen einander auszuschließen; im</p>
+                  </cell>
+                  <cell>
+                     <p>Knaben- und Mädchenalter ist Frivolität<lb/>
+so gut wie gar nicht vorhanden, schon<lb/>
+deshalb, weil sie <hi rend="text-spaced">geschlechtliche<lb/>
+Bewusstheit voraussetzt</hi>. Sie kann<lb/>
+erst mit der Mannbarkeit eintreten. Nun<lb/>
+können wir aber beobachten, dass sie<lb/>
+desto stärker auftritt, je schneller sich die<lb/>
+Mannbarkeit <hi rend="text-spaced">erschöpft</hi>. Das Wachs-<lb break="no"/>
+thum der Frivolität hält gleichen Schritt<lb/>
+mit der zunehmenden Bethätigung des<lb/>
+Geschlechtstriebes. Die Frivolität ist näm-<lb break="no"/>
+lich etwas durchaus Secundäres. Sie ist<lb/>
+sozusagen die Äußerung des Geschlechts-<lb break="no"/>
+triebes <hi rend="italics">a posteriori</hi>. Schwerlich wird ein<lb/>
+Mann zu finden sein, der vor der Be-<lb break="no"/>
+thätigung des sexuellen Triebes im Zu-<lb break="no"/>
+stande seiner Vollkraft frivol ist. Frivo-<lb break="no"/>
+lität ist nicht nur der Kindlichkeit, dem<lb/>
+Kindhaften, der absoluten Keuschheit<lb/>
+contradictorisch entgegengesetzt, sondern<lb/>
+insbesondere auch der relativen Keusch-<lb break="no"/>
+heit. Mit anderen Worten: die Frivolität<lb/>
+nimmt umsomehr zu, je mehr sich der<lb/>
+Mensch dem physischen Unvermögen<lb/>
+nähert. Sie ist gewissermaßen das Katzen-<lb break="no"/>
+jammerspiel des Geschlechtstriebes. Ihre<lb/>
+Äußerungen entstehen aus dem <hi rend="text-spaced">Bewusst</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">werden</hi> des beginnenden Unvermögens.<lb/>
+Dies trifft wenigstens bei jener Frivolität<lb/>
+zu, die als originale und logische Äuße-<lb break="no"/>
+rung des menschlichen Organismus zu<lb/>
+nehmen ist; in unseren Salons allerdings<lb/>
+wird sie heute ebenso häufig vorgeschau-</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

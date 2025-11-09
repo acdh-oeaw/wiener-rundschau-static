@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-03_n0066.xml" prev="WR-04-03_n0065.xml" next="WR-04-03_n0067.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 3, S. 66</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0066"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0806">
+                  <title level="a">Die Theosophin Annie Besant</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 3</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="63" to="66"/>
+                  <idno type="fn">WR-04-03_n0063.xml</idno>
+                  <author ref="#wr-person-0244">Thomassin, Carl von</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0807">
+                  <title level="a">Brief aus Paris</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 3</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="66" to="69"/>
+                  <idno type="fn">WR-04-03_n0066.xml</idno>
+                  <author ref="#wr-person-0203">Gourmont, Remy de</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">GOURMONT: BRIEF AUS PARIS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Lebens gegeben und unter anderem auch<lb/>
+prophezeit hat, dass sie als eine große<lb/>
+Religionsstifterin gelten werde.</p>
+                     <p>Letztere Prophezeiung scheint sich<lb/>
+nun allerdings nicht erfüllen zu können,<lb/>
+denn weder Mme. Blavatsky noch Annie<lb/>
+Besant haben jemals daran gedacht, als<lb/>
+Religionsstifterinnen aufzutreten. Die Theo-<lb break="no"/>
+sophische Gesellschaft hat niemals den<lb/>
+Charakter einer eigentlichen Religions-<lb break="no"/>
+gemeinschaft gehabt und wird ihn nach</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">ihren Principien wahrscheinlich auch<lb/>
+niemals erhalten können; sie will keine<lb/>
+Dogmen aufstellen, sondern jedem Mit-<lb break="no"/>
+glied möglichst Denkfreiheit gewähren,<lb/>
+wie es in ihrem Programm heißt.</p>
+                     <p>Immerhin hat sich aber Annie Besant,<lb/>
+wenn nicht als Religionsstifterin, so doch<lb/>
+als eine der begabtesten und erfolg-<lb break="no"/>
+reichsten Vorkämpferinnen der mystischen<lb/>
+Bewegung am Ende des Jahrhunderts,<lb/>
+ein dauerndes Andenken gesichert.</p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>BRIEF AUS PARIS.<lb/>
+Von <rs type="person" key="">REMY DE GOURMONT</rs> (Paris).</title>
+            </ab>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>VILLIERS DE L’ISLE-ADAM UND DIE »HISTOIRES SOUVERAINES«*</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>
+                        <hi rend="text-spaced">Villiers de</hi> l’<hi rend="text-spaced">Isle-Adam</hi> ist einer<lb/>
+der größten französischen Prosaisten dieses<lb/>
+Jahrhunderts. Man stellt ihn <hi rend="text-spaced">Chateau</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">briand</hi>, Victor <hi rend="text-spaced">Hugo</hi> und <hi rend="text-spaced">Flaubert</hi>
+                        <lb/>
+gleich. Aber Flaubert mit Villiers ver-<lb break="no"/>
+gleichen heißt etwa: zwischen <hi rend="text-spaced">Buffon</hi>
+                        <lb/>
+und Jean Jacques <hi rend="text-spaced">Rousseau</hi> eine Parallele<lb/>
+ziehen. Wir kommen da auf den Gegen-<lb break="no"/>
+satz, der das leidende Genie <hi rend="italics">(génie patient)</hi>
+                        <lb/>
+von dem leidenschaftlichen Genie <hi rend="italics">(génie<lb/>
+passionné)</hi> trennt.</p>
+                     <p>Villiers de l’Isle-Adam war ein leiden-<lb break="no"/>
+schaftlicher Ironiker; und gerade diese<lb/>
+ironische Leidenschaftlichkeit scheidet ihn<lb/>
+von der hochfahrenden Leidenschaftlichkeit<lb/>
+eines Chateaubriand und von der lyrischen<lb/>
+Leidenschaftlichkeit eines Victor Hugo.<lb/>
+Diese Ansicht, die heute nur ein aus-<lb break="no"/>
+erlesener Kreis theilt, wird morgen schon<lb/>
+die Meinung des literarischen Europa<lb/>
+sein. Das letzte Land aber, das den<lb/>
+Autor von „<hi rend="italics">L’Intersigne</hi>“ (ein vollendetes<lb/>
+Meisterwerk!) gerecht beurtheilen wird,<lb/>
+muss nothwendigerweise Frankreich sein.</p>
+                     <p>Wiewohl bretonischen Ursprungs —<lb/>
+er trug alle physischen Zeichen eines<lb/>
+Bretonen von Armorica an sich — ver-<lb break="no"/>
+rieth Villiers (man weiß nicht, durch<lb/>
+welchen Atavismus) eine durchaus germa-<lb break="no"/>
+nische Intelligenz. Nur die Ironie, und</p>
+                  </cell>
+                  <cell>
+                     <p>diese allein, knüpfte ihn an seine Rasse;<lb/>
+wie das keltische Irland England einen<lb/>
+                        <hi rend="text-spaced">Swift</hi> geschenkt, so gab die keltische<lb/>
+Bretagne Frankreich einen Villiers. Aber<lb/>
+die keltische Ironie oder die germanische<lb/>
+Verträumtheit sind trotz ihrer romantischen<lb/>
+Kraft nicht eben willkommen in unserem<lb/>
+Lande, das ja stets bemüht war, aus<lb/>
+jedem seiner Kinder einen literarischen<lb/>
+Sclaven der Latinität zu machen und die<lb/>
+mittelmäßigen und wägbaren Qualitäten<lb/>
+der römischen Kaiserzeit als das Ideal<lb/>
+des ewigen Humanismus hinzustellen. Ein<lb/>
+Deutscher in seinem „<hi rend="italics">Axël</hi>“, ein Kelte<lb/>
+in seinen „<hi rend="italics">Contes Cruels</hi>“, führte Villiers<lb/>
+die Frauen irre, die über Popularität ver-<lb break="no"/>
+fügen, und die Gelehrten irre, die über<lb/>
+Reputation verfügen. Er nimmt nicht für<lb/>
+sich ein — und jedenfalls nicht auf den<lb/>
+ersten Schlag. Die Truppe seiner Be-<lb break="no"/>
+wunderer ist so beschränkt an Zahl, dass<lb/>
+eines seiner Haupt- und Meisterwerke:<lb/>
+„<hi rend="italics">Tribolat Bonhomet</hi>“, kaum veröffentlicht,<lb/>
+von seinem Verleger als Maculatur an<lb/>
+Papierhändler verkauft werden musste.<lb/>
+Er erlangte Ruhm (weder die Frauen<lb/>
+noch die Gelehrten vereitelten dies), ohne<lb/>
+jemals auch nur eine Stunde in seinem<lb/>
+Leben berühmt gewesen zu sein. Auch<lb/>
+sein Name, der so wenig demokratisch</p>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Verlag Edm. <hi rend="text-spaced">Deman</hi>, Brüssel.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

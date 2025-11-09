@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-04_n0157.xml" prev="WR-02-01-04_n0156.xml" next="WR-02-01-04_n0158.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 4, S. 157</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="04"/>
+                        <biblScope unit="page" n="n0157"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-01-01">1 1 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0333">
+                  <title level="a">Zur Burgtheaterkrise</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 4</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="154" to="157"/>
+                  <idno type="fn">WR-02-01-04_n0154.xml</idno>
+                  <author ref="#wr-person-0007">Schik, F.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">ZUR BURGTHEATERKRISE.</fw>
+               <fw type="pn">157</fw>
+            </fw>
+            <p rend="no-intend">theaterdirector für sich selbst eine Tribüne errichten will, um eigene<lb/>
+»freiheitliche« Posen zur Schau zu stellen.</p>
+            <p>Herrn Burckhard war es um keine Statue neben Laube zu thun<lb/>
+— jetzt kämpft er nur um seine volle Pension. Diese trägt wohl die<lb/>
+Deckung ihrer Kosten in sich, denn wie aus einer geöffneten Schleuse<lb/>
+wird das Publicum bei geordneten Kunstverhältnissen wieder ins Burg-<lb break="no"/>
+theater einströmen. Der Name des Herrn Burckhard wird fortab wohl<lb/>
+im Pensions-, nicht aber im Kunstconto des ersten deutschen Theaters<lb/>
+geführt werden.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-13_n0493.xml" prev="WR-02-02-13_n0492.xml" next="WR-02-02-13_n0494.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 13, S. 493</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="13"/>
+                        <biblScope unit="page" n="n0493"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-05-15">15 5 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0427">
+                  <title level="a">Tulpen</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 13</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="493" to="495"/>
+                  <idno type="fn">WR-02-02-13_n0493.xml</idno>
+                  <author ref="#wr-person-0004">Altenberg, Peter</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>TULPEN.<lb/>
+Von <rs type="person" key="">Peter Altenberg</rs>.</title>
+            </ab>
+            <p>Cäcilia sagte zu ihm: »Sie, Sie sind wirklich ein zuwiderer<lb/>
+Kerl. Erstens nie elegant. Schauen Sie den Beamten an. Zweitens.<lb/>
+dieser Schnurrbart, so slowakisch. Und dann überhaupt — — —<lb/>
+was glauben Sie eigentlich?! Ich kann fliegen auf wen ich will.<lb/>
+Und just!«</p>
+            <p>Als sie sah, dass sie ihn gekränkt hatte, bekam jedoch ihr<lb/>
+Antlitz einen Zug von unerhörter Milde.</p>
+            <p>»Wie Katzen sind wir wirklich,« fühlte sie, »schade, allein<lb/>
+wir sind es!«</p>
+            <p>Er sass da, am Marterpfahl der Seele, wünschte hinweg-<lb break="no"/>
+geschwemmt zu werden in einem Bach von Thränen. Nicht mehr<lb/>
+sein, nicht mehr sein! Jedoch man ist, man bleibt!</p>
+            <p>Er schlief natürlich die ganze Nacht nicht.</p>
+            <p>Morgens ging er in den grossen Park, welcher eben Mai-<lb break="no"/>
+Toilette angelegt hatte.</p>
+            <p>Ein riesiges Blumenbeet leuchtete wie Gluth und Brand,<lb/>
+wie Schnee und übertriebene Schminke.</p>
+            <p>Tulpen! Auf ganz kurzen festen Stengeln, kerzengerade,<lb/>
+standen sie da, ziemlich gedrängt, Blumen-Regimenter, unerhört<lb/>
+rothe, unerhört weisse im Morgensonnenlichte und ganz oben,<lb/>
+als Gipfel des Farbenberges, geflammte, wie Blumen gewordene<lb/>
+Fackeln. Sie dufteten gleichsam von Farbe, Farben-Vanille, Farben-<lb break="no"/>
+Jasmin, erzeugten Migräne durch die Augen. Farbe gewordene<lb/>
+Düfte!</p>
+            <p>Er setzte sich dem Tulpenbeete gegenüber, welches uner-<lb break="no"/>
+hörte Pracht ausströmte, Extrakt von Prächten und welches man,<lb/>
+obzwar es einem nicht gehörte, ganz und leidenschaftlich geniessen<lb/>
+durfte.</p>
+            <p>Um das Tulpenbeet herum standen Greise in schwarzen<lb/>
+langen Röcken, junge Damen in weissen Kleidern, Kinder und<lb/>
+Militär, eine Theater-Elevin und Studenten mit kleinen Heften.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-16_n0622.xml" prev="WR-01-02-16_n0621.xml" next="WR-01-02-16_n0623.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 16, S. 622</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="16"/>
+                        <biblScope unit="page" n="n0622"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-07-01">1 7 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0210">
+                  <title level="a">Schulzeit, Gott und die Mutter</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 16</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="16">16</biblScope>
+                  <biblScope unit="page" from="619" to="622"/>
+                  <idno type="fn">WR-01-02-16_n0619.xml</idno>
+                  <author ref="#wr-person-0012">Schaukal, Richard</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">622</fw>
+               <fw type="ctext">SCHAUKAL.</fw>
+            </fw>
+            <p rend="no-intend">einstimmung mit dem veränderlichen Sohne immer wieder beilegte, so<lb/>
+war sie auch mit ihm eine freie, heimliche Atheistin, in der nur<lb/>
+manchmal die klagende Sehnsucht nach dem verlorenen Glaubens-<lb break="no"/>
+paradies Worte fand.</p>
+            <p>Sie hatte mit ihm gelebt und gelernt, sie hatte das stammelnde<lb/>
+Reimen des sechsjährigen Kindes gefördert, sie hatte für ihn und mit<lb/>
+ihm in Schulfragen und Seelenkämpfen gelitten, sie war langsam von<lb/>
+dem Piedestale der überlegenen Lehrerin und Ratherin zur Vertrauten,<lb/>
+zur Mitstrebenden geworden, sie liess sich jetzt willig und fügsam<lb/>
+belehren und geistig heben von seinem kühnen, oft sie bestürzenden,<lb/>
+fast hochmütigen Künstlerstreben. Er war ihr dankbar für das von ihr<lb/>
+gepflanzte und gehütete Interesse an Historie und Märchen, er über-<lb break="no"/>
+nahm und steigerte ihre Dichterliebe und Heldenideale, den Heine und<lb/>
+den Chamisso, den Lenau und den Napoleon. <milestone unit="3dots"/>
+            </p>
+            <p>Das war Alles wieder einmal so unlogisch aneinandergereiht in<lb/>
+ihm lebendig geworden, seit ihn der Arthur verlassen, dieser so ganz<lb/>
+andere als er, dieser emsige Kärrner und pflichtgetreue Arbeiter an<lb/>
+seinem einheitlichen Lebenszwecke, auch einer von den beneideten<lb/>
+harmonischen, den lebensstarken, ungebeugten Naturen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

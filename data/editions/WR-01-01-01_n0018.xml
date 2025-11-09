@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-01_n0018.xml" prev="WR-01-01-01_n0017.xml" next="WR-01-01-01_n0019.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 1, S. 18</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0018"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-11-15">15 11 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0007">
+                  <title level="a">Politisches Temperament</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="16" to="18"/>
+                  <idno type="fn">WR-01-01-01_n0016.xml</idno>
+                  <author ref="#wr-person-0007">Schik, F.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">18</fw>
+               <fw type="ctext">SCHIK.</fw>
+            </fw>
+            <p>Man erhoffte und erhofft noch von der Volksbildung<lb/>
+eine Temperamentsbelastung. Aber der Unterricht, wie er<lb/>
+heute gepflegt wird, belastet wohl den Kopf, nicht das<lb/>
+Temperament. Es kommt heute nur zu oft vor, dass das<lb/>
+Temperament mit der Schulbildung sich nicht amalgamirt:<lb/>
+Rohheit Gebildeter im gewöhnlichen Leben; bei ihnen liegt<lb/>
+der Temperamentshafen vor der Bildung, in diesen muss man<lb/>
+mit den Beweisen ihres Irrthums einlaufen, da man bei der<lb/>
+Bildung nicht unmittelbar landen kann. Ein Temperament<lb/>
+von falschem Gedankenwege zurückzuholen, ist einzig und<lb/>
+allein wieder einem Temperament möglich; nicht durch<lb/>
+Doctrinen, durch ein Temperament wird es abgelenkt werden<lb/>
+können. Die erfolgreiche Zufuhr von politischen Gedanken<lb/>
+lässt sich nur auf Temperamentscanälen bewerkstelligen.<lb/>
+Solche herzustellen ist daher eine wichtige politische Aufgabe.</p>
+            <p>Die bisherigen politischen Gedanken haben durch Gene-<lb break="no"/>
+rationen die Temperamente entsprechend belastet, jedoch<lb/>
+durch Vererbung die Menschen an die Last gewöhnt und<lb/>
+durch Uebung gestärkt. Nur sociale Gedanken haben heute<lb/>
+die Eignung, die Temperamente auf lange hinaus in ihren<lb/>
+Dienst zu stellen. Aber man zieht noch immer vor, durch<lb/>
+äussern Zwang oder Doctrinen zu ersetzen, was abgelebten<lb/>
+Begriffen an Belastungsgewicht für die aufschnellenden<lb/>
+Temperamente fehlt.</p>
+            <p>Mit der Befriedigung der Temperamente hat die Politik<lb/>
+neu anzusetzen.</p>
+            <p>Wien. <rs type="person" key="">F. Schik</rs>.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-07_n0258.xml" prev="WR-01-01-07_n0257.xml" next="WR-01-01-07_n0259.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 7, S. 258</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="07"/>
+                        <biblScope unit="page" n="n0258"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-02-15">15 2 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0080">
+                  <title level="a">Empfinden der Landschaft</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 7</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="255" to="260"/>
+                  <idno type="fn">WR-01-01-07_n0255.xml</idno>
+                  <author ref="#wr-person-0027">Schmitz, Oscar</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">258</fw>
+               <fw type="ctext">SCHMITZ.</fw>
+            </fw>
+            <p rend="no-intend">Wir suchen das Poetische, womit nicht gesagt sein soll »das<lb/>
+Literarische«. Auch ist uns der Werther recht aus dem<lb/>
+Herzen geschrieben, und Bilder, wie das des Brunnens vor<lb/>
+dem Dorf, wohin des Abends die Mägde kommen, um Wasser<lb/>
+zu schöpfen, können uns entzücken. Es liegt etwas von<lb/>
+Thoma über dieser Dichtung.</p>
+            <p>Und noch eines: Die Schicksale berühren uns nicht,<lb/>
+nur die Linie oder der Ton. Wir haben nie gefragt, was die<lb/>
+verhüllte Frau vor der Villa am Meer bewegen mag. Doch<lb/>
+fühlen wir die Wehmuth ihrer Linie und die endlose Trauer<lb/>
+der Landschaft. Auch uns mögen alte englische Schlösser<lb/>
+mit vergessenen Krypten und gewundenen Verliessen Schauer<lb/>
+erwecken, doch fragen wir nicht nach dem armen Gefan-<lb break="no"/>
+genen, der hier schuldlos verschmachtet, vielmehr wandeln<lb/>
+wir durch den welken Park und suchen bemooste, halbzer-<lb break="no"/>
+bröckelte Steinbänke auf, ob uns vielleicht aus der Däm-<lb break="no"/>
+merung ein weisser Pfau entgegenträte. Es scheint, dass<lb/>
+wir an der Oberfläche haften, weil wir »nur« Erscheinungen<lb/>
+gewahr werden. Aber dies »nur« ist vielleicht unsere Tiefe.<lb/>
+Was bedeuten Schicksale der Einzelnen, die dem, der nach<lb/>
+Lebensklugheit trachtet, für den äusseren Verlauf der Dinge<lb/>
+lehrreich sein mögen, dem, der sich mit der Lehre von der<lb/>
+Gesellschaft und der Sitte befasst, mit dem Bedingten. Viel-<lb break="no"/>
+leicht dürfte uns mehr, als es das Beobachten zufälliger, selt-<lb break="no"/>
+samer Verschlingungen vermag, wie sie die Romantik liebt,<lb/>
+das Schauen des Wechsels von Farben und Linien, von<lb/>
+denen die Geschehnisse nur mögliche Auslegungen sind, und<lb/>
+des Unwandelbaren in ihnen den ewigen Beziehungen näher<lb/>
+rücken, einem höheren Sein, welches Gott ist.</p>
+            <p>Darum ist unsere Art so aussermoralisch, so unspecu-<lb break="no"/>
+lativ und undialectisch. Wir suchen die Schauer, welche die<lb/>
+Inder empfinden, wenn sie sich in die Betrachtung der<lb/>
+Gottheit versenken. Wir suchen eigene Nervenreize, aus deren<lb/>
+sinnlicher Ordnung wir, gleichsam wie aus Symbolen, ein<lb/>
+tieferes, unbedingteres Leben ahnen. Darum sind wir so un-<lb break="no"/>
+stofflich und so durchaus künstlerisch.</p>
+            <p>Doch dies müssen wir uns gestehen: Es ist weniger der<lb/>
+Friede selbst, den wir erstreben, als dass uns das Sehnen<lb/>
+nach jenem Frieden süss erfüllt, gleich wie Hölderlin nicht</p>
+         </div>
+      </body>
+   </text>
+</TEI>

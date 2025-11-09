@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-24_n0913.xml" prev="WR-02-02-24_n0912.xml" next="WR-02-02-24_n0914.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 24, S. 913</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="24"/>
+                        <biblScope unit="page" n="n0913"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-11-01">1 11 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0521">
+                  <title level="a">Die Mondscheinsonate</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 24</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="905" to="915"/>
+                  <idno type="fn">WR-02-02-24_n0905.xml</idno>
+                  <author ref="#wr-person-0144">Wolff, Ludwig</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DIE MONDSCHEINSONATE.</fw>
+               <fw type="pn">913</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi>. Wenn man ihr sagen würde, dass das Glück ihres<lb/>
+Sohnes auf dem Spiele stehe —</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi>. Nein, nein, daran ist nicht zu denken.<lb/>
+Frau Klein (erschöpft in Thränen ausbrechend). Ich kann doch<lb/>
+nicht mein Geld hergeben. Wovon soll ich leben?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <p>Pause.</p>
+            <milestone unit="scene-start"/>
+            <ab>
+               <title>10. <hi rend="text-spaced">Scene</hi>.</title>
+            </ab>
+            <p>Die Vorigen. Isidor.</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Isidor</hi> (den Kopf zur Thür hereinsteckend, fröhlich). Na, habt Ihr<lb/>
+Euch schon ausgeplauscht? Ich bin todhungrig. (Niemand antwortet. Er<lb/>
+sieht die beiden verstörten Gesichter und tritt ganz herein, die Thüre hinter<lb/>
+sich schliessend.) Ja, was ist denn geschehen? (Niemand antwortet.) So<lb/>
+sprich doch, Tante. Was ist?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi>. Es hat sich ein Irrthum herausgestellt.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Isidor</hi>. Was für ein Irrthum?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi> (bitter). Der Herr Stransky liebt Grete und hat sich<lb/>
+mit Rosa verlobt.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Isidor</hi> (begreifend). O!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi>. Und wir sehen keinen Ausweg.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Isidor</hi> (sich hinter dem Ohre krauend). Das ist unangenehm, sehr<lb/>
+unangenehm.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi>. Herr Klein, Sie müssen die Sache mit meinen Augen<lb/>
+betrachten. Ich bin nicht frei und unabhängig wie Sie.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Isidor</hi> (verächtlich). Sie brauchen mir nicht so viel zu erklären.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi> (neuerlich in Thränen ausbrechend). Ich bin die unglück-<lb break="no"/>
+lichste Frau von der Welt.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Isidor</hi> (nach einigem Nachdenken). Du, Tante!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi>. Was denn?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Isidor</hi>. Man könnte die Sache vielleicht doch noch reparieren.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi>. Ja, wie? Mit dem Geld lässt sich nichts machen!<lb/>
+Wenigstens so lang ich lebe! Dann allerdings —</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Isidor</hi> (in Gedanken versunken). Ja, ja <milestone unit="3dots"/> Aber vielleicht lässt<lb/>
+sich noch das richtige Arrangement treffen!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi> (ungläubig). Herr Klein!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi> (rasch zu Isidor). Isidor! Wirklich?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Isidor</hi> (jovial). Ich! Ich werde die Rosa nehmen. Ich bin doch<lb/>
+aus der Familie.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi> (Isidor umarmend). Du bist ein braver Junge, Isidor!<lb/>
+Das wird Dir einmal noch belohnt werden, ich schwöre Dir! — —</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Isidor</hi>. Bitte, sprich nicht von solchen Sachen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi> (unsicher). Ja, aber die jungen Damen!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi>. Ich werde gleich mit ihnen reden. (Auf die Thüre<lb/>
+links weisend). Bitte gehen Sie mit Isidor für einen Moment in das Cabinet.</p>
+            <milestone unit="untyped-end"/>
+            <p>(Isidor und Stransky links ab.)</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

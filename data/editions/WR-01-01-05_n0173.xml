@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-05_n0173.xml" prev="WR-01-01-05_n0172.xml" next="WR-01-01-05_n0174.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 5, S. 173</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="05"/>
+                        <biblScope unit="page" n="n0173"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-01-15">15 1 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0053">
+                  <title level="a">Golgatha</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 5</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="173" to="173"/>
+                  <idno type="fn">WR-01-01-05_n0173.xml</idno>
+                  <author ref="#wr-person-0028">Wilhelm, Paul</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>GOLGATHA.</title>
+            </ab>
+            <lg>
+               <l>
+                  <hi rend="initial">Des</hi> Tages Blut träuft von den Bergen <milestone unit="3dots"/>
+               </l>
+               <l>
+                  <milestone unit="hr"/>
+               </l>
+               <l>Und leisen Schrittes naht die blinde Nacht —</l>
+               <l>Vom Thale steigt sie tastend auf zum Gipfel.</l>
+               <l>Dann scheucht sie fort den letzten Dämmerstrahl.</l>
+            </lg>
+            <lg>
+               <l>Hochaufgerichtet steht auf Golgatha</l>
+               <l>Das Kreuz und ragt gespenstisch in die Fernen —</l>
+               <l>Vom grauen Holze schimmert gelblich-weiss</l>
+               <l>Wie Elfenbein der todte Gottesleib.</l>
+               <l>Nur auf der Stirne blinken helle Tropfen</l>
+               <l>Vom Todesschweiss <milestone unit="3dots"/> Mit kühlen, sanften Lippen</l>
+               <l>Küsst sie hinweg die Nacht, die bleiche Nonne.</l>
+            </lg>
+            <lg>
+               <l>Dann hockt sie sich am Kreuzesende nieder</l>
+               <l>Und weint und weint — und ihre Thränen fallen</l>
+               <l>Auf welke Blumen, die vom Tage krank,</l>
+               <l>Und dürre Gräser, die Erlösung dürsten <milestone unit="3dots"/>
+               </l>
+               <l>Aus ihres Mantels Laken huschen Engel</l>
+               <l>Und richten auf die tiefgebeugten Halme,</l>
+               <l>Die von der Menge Fuss zum Staub getreten.</l>
+            </lg>
+            <lg>
+               <l>Vom Himmel hangen schwere Wolken nieder.</l>
+               <l>Da schlägt die Nacht die blinden Augen auf,</l>
+               <l>Und zitternd schwebt daraus ein Mondenstrahl</l>
+               <l>Und flimmert um das todte Gotteshaupt</l>
+               <l>Mit den violenblassen, herben Lippen</l>
+               <l>Und den gebroch’nen, schmerzenstiefen Augen.</l>
+               <l>Doch wundersam — die röthlich-gelben Haare</l>
+               <l>Erglühen leise, wie vom Licht entzündet,</l>
+               <l>Und eine Flamme lodert um das Haupt!</l>
+            </lg>
+            <lg>
+               <l>Da senkt die Nacht den schwarzen Wolkenschleier,</l>
+               <l>Der Strahl verlischt — doch schimmernd steht das Kreuz —</l>
+               <l>Und wie Musik erklingen alle Weiten —</l>
+               <l>Ums Haupt des Todten flattern weisse Tauben,</l>
+               <l>Und östlich wetterleuchtet das Gericht! <milestone unit="3dots"/>
+               </l>
+            </lg>
+            <p>Wien. <rs type="person" key="">Paul Wilhelm</rs>.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-08_n0281.xml" prev="WR-02-01-07_n0280.xml" next="WR-02-01-08_n0282.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 8, S. 281</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="08"/>
+                        <biblScope unit="page" n="n0281"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-03-01">1 3 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0367">
+                  <title level="a">Ein ausgegrabener Essay</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 8</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="281" to="291"/>
+                  <idno type="fn">WR-02-01-08_n0281.xml</idno>
+                  <author ref="#wr-person-0137">Stirner, Max</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>1. <hi rend="text-spaced">MÄRZ</hi> 1898</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>EIN AUSGEGRABENER ESSAY.<lb/>
+Von <rs type="person" key="">Max Stirner</rs>.1)<lb/>
+Ueber die »Mysterien von Paris« von Eugen Sue.</title>
+            </ab>
+            <p>Die Mysterien haben grosses Aufsehen in der Welt gemacht,<lb/>
+und schon drängen sich die Nachahmungen in Masse. Man will den<lb/>
+verborgenen Grund, die »unterste Schicht« der Gesellschaft kennen<lb/>
+lernen, und neugierig blickt man sich in den finsteren, grauenvollen<lb/>
+Winkeln um. Aber mit welchen Augen schaut man hinein? Mit<lb/>
+dem Auge der gesicherten Sittsamkeit, des tugendhaften Schauders.<lb/>
+»Welch ein Abgrund des Verderbens, welche Greuel, welche Tiefe<lb/>
+des Lasters! Herr Gott, wie darf es in deiner Welt so ruchlos zu-<lb break="no"/>
+gehen!« Aber bald erwacht die christliche Liebe und rüstet sich zu<lb/>
+allen Werken des Mitleids und der thätigen Hilfe. »Hier muss ge-<lb break="no"/>
+rettet, hier muss der List des Satans entgegengearbeitet werden; o ge-<lb break="no"/>
+wiss, hier ist viel zu retten und dem Reiche des Guten manche Seele<lb/>
+zu gewinnen!«</p>
+            <p>Nun beginnt die Rührigkeit der Gedanken, und auf tausend<lb/>
+Mittel und Wege wird gesonnen, wie dem Uebel abzuhelfen, der<lb/>
+grenzenlosen Verderbtheit zu steuern sei. Kerker mit abgesonderten<lb/>
+Zellen, Leihhäuser für heruntergekommene Arbeiter, Stifter für gefallene<lb/>
+und reuige Mädchen und unzähliges Andere wird nicht nur vorge-<lb break="no"/>
+schlagen, sondern auch sogleich unternommen. Es werden auch ganze<lb/>
+Wohlthätigkeitsgesellschaften zusammentreten, wie man sie nie zuvor<lb/>
+in solcher Ausdehnung gesehen hat und an Aufopferung und Mild-<lb break="no"/>
+thätigkeit wird kein Mangel sein. Rudolf, der Grossherzog von Gerol-</p>
+            <milestone unit="hr"/>
+            <note type="footnote">
+               <p>1) Wir veröffentlichen hier einen verschollenen Essay von Max Stirner,<lb/>
+welcher dem in Bälde erscheinenden Werke: »Max Stirner’s kleinere Schriften«,<lb/>
+herausgegeben von John Henry Mackay, entnommen ist. Gleichzeitig erscheint<lb/>
+im selben Verlage (Schuster &amp; Loeffler in Berlin) eine Biographie Stirner’s<lb/>
+aus der Feder Mackay’s. Ein ausführliches Eingehen auf beide bedeutsame<lb/>
+Erscheinungen behalten wir uns vor.</p>
+               <p>
+                  <hi rend="italics">D. R.</hi>
+               </p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

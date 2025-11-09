@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-12_n0199.xml" prev="WR-04-12_n0198.xml" next="WR-04-12_n0200.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 12, S. 199</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="12"/>
+                        <biblScope unit="page" n="n0199"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0895">
+                  <title level="a">Zwei Zeichnungen</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="189" to="212"/>
+                  <idno type="fn">WR-04-12_n0189.xml</idno>
+                  <author ref="#wr-person-0295">Beardsley, Aubrey</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0896">
+                  <title level="a">Salome</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="189" to="212"/>
+                  <idno type="fn">WR-04-12_n0189.xml</idno>
+                  <author ref="#wr-person-0068">Wilde, Oscar</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">WILDE: SALOME.</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Doch; die Luft ist sehr süß. Komm’, Herodias, unsere Gäste warten<lb/>
+auf uns. Ah! ich bin ausgeglitten! Ich bin in Blut getreten! Das ist ein böses Zeichen,<lb/>
+das ist ein sehr böses Zeichen. Warum ist hier Blut? <milestone unit="3dots"/> Und dieser Todte? Was<lb/>
+soll dieser Todte hier? Denkt ihr, ich sei wie der König von Egypten, der seinen<lb/>
+Gästen kein Fest gibt, ohne ihnen einen Leichnam zu zeigen? Wer ist der Todte?<lb/>
+Ich will ihn nicht sehen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER SOLDAT: Es ist unser Hauptmann, Herr. Es ist der junge Syrier,<lb/>
+den Ihr erst vor drei Tagen zum Hauptmann der Leibwache ernannt habt.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Ich erließ keinen Befehl, dass er getödtet werde.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER SOLDAT: Er hat sich selbst getödtet, Herr.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Aus welchem Grund? Ich hatte ihn zum Hauptmann meiner Leib-<lb break="no"/>
+wache ernannt!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ZWEITER SOLDAT: Wir wissen es nicht, Herr. Aber mit eigener Hand<lb/>
+hat er sich getödtet.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Das scheint mir seltsam. Ich hätte gedacht, nur die römischen<lb/>
+Philosophen tödten sich selbst. Nicht wahr, Tigellinus, die Philosophen in Rom<lb/>
+tödten sich selbst?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>TIGELLINUS: Es gibt dort einige, die sich selbst tödten. Es sind die Stoiker.<lb/>
+Die Stoiker sind Leute ohne Bildung. Es sind lächerliche Leute. Ich für meinen<lb/>
+Theil halte sie für ganz und gar lächerlich.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Ich auch. Es ist lächerlich, sich selbst zu tödten.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>TIGELLINUS: Alle Welt in Rom lacht über sie. Der Kaiser hat eine Satire<lb/>
+gegen sie geschrieben. Man trägt sie überall vor.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Ah! Er hat eine Satire gegen sie geschrieben? Cäsar ist erstaunlich.<lb/>
+Er kann alles<milestone unit="3dots"/> Es ist seltsam, dass der junge Syrier sich getödtet hat. Es thut<lb/>
+mir leid, dass er sich getödtet hat. Es thut mir sehr leid. Denn er war schön zu<lb/>
+sehen. Er war sehr schön. Er hatte so schmachtende Augen. Ich erinnere mich, ich<lb/>
+sah seine schmachtenden Augen, wenn er Salome ansah. Wahrhaftig, ich dachte:<lb/>
+er sieht sie zuviel an.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Es gibt noch andere, die sie zuviel ansehen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Sein Vater war ein König. Ich vertrieb ihn aus seinem Reiche.<lb/>
+Und seine Mutter, die eine Königin war, machtest du zur Sclavin, Herodias. Er<lb/>
+war also sozusagen mein Gast, und darum ernannte ich ihn zu meinem Haupt-<lb break="no"/>
+mann. Es thut mir leid, dass er todt ist. He! Warum habt ihr den Leichnam hier<lb/>
+liegen lassen? Er muss anderswohin gebracht werden. Ich will ihn nicht sehen —<lb/>
+Fort mit ihm! (Sie tragen den Leichnam weg.) Es ist kalt hier. Es weht ein Wind.<lb/>
+Weht nicht ein Wind?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Nein, es weht kein Wind.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Ich sage euch, es weht ein Wind<milestone unit="3dots"/> Und in der Luft höre<lb/>
+ich etwas wie das Rauschen von Flügeln, wie das Rauschen von mächtigen Flügeln.<lb/>
+Hört ihr es nicht?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Ich höre nichts.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Jetzt höre ich es nicht mehr. Aber ich habe es gehört. Es war<lb/>
+das Wehen des Windes. Es ist vorüber. Horch, jetzt höre ich es wieder. Hört ihr<lb/>
+es nicht? Es ist genau wie ein Rauschen von Flügeln.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Ich sage dir, es ist nichts daran. Du bist krank. Wir wollen<lb/>
+hineingehen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Ich bin nicht krank. Aber deine Tochter ist krank zu Tode.<lb/>
+Niemals habe ich sie so blass gesehen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Ich habe dir gesagt, du sollst sie nicht ansehen.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

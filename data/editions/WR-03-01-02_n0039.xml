@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-02_n0039.xml" prev="WR-03-01-02_n0038.xml" next="WR-03-01-02_n0040.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 2, S. 39</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0039"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0543">
+                  <title level="a">Der Künstler-Kritiker</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="33" to="39"/>
+                  <idno type="fn">WR-03-01-02_n0033.xml</idno>
+                  <author ref="#wr-person-0068">Wilde, Oscar</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">WILDE: DER KÜNSTLER- KRITIKER.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">ist Wachsthum. Du darfst dich nicht durch<lb/>
+Worte einschüchtern lassen, Ernst. Was<lb/>
+die Leute »Unaufrichtigkeit« nennen, ist<lb/>
+oft nur der Entwicklungsgang, durch den<lb/>
+wir unsere Persönlichkeit erweitern können.<lb/>
+Temperament ist das erste Erfordernis für<lb/>
+einen Kritiker, ein Temperament, unendlich<lb/>
+eindrucksfähig für die verschiedenen For-<lb break="no"/>
+men der Schönheit.</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Ernst</hi>. Glaubst du übrigens, dass ein<lb/>
+echter Künstler jemals durch die Kritik<lb/>
+wesentlich beeinflusst werden kann?</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Gilbert</hi>. Der Einfluss des Kritikers<lb/>
+wird sich unmerkbar aber sicher in der<lb/>
+Thatsache seiner Existenz offenbaren. In<lb/>
+ihm wird die jeweilige Cultur der Zeit<lb/>
+ihren Höhepunkt erreichen. Du darfst von<lb/>
+ihm nicht mehr verlangen als die Ver-<lb break="no"/>
+vollkommnung seines Selbst. Die erste<lb/>
+Forderung des Geistes ist, sich selbst<lb/>
+lebendig zu fühlen. Der Kritiker mag in<lb/>
+der That den Wunsch und das Bedürfnis<lb/>
+haben, Einfluss zu üben; aber er wird<lb/>
+weniger mit den einzelnen als mit der<lb/>
+Zeitströmung zu thun haben, welche er<lb/>
+zum klaren Bewusstsein ihrer selbst zu<lb/>
+bringen trachtet.</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Ernst</hi>. Aber kann es nicht sein, dass<lb/>
+der Poet der <hi rend="text-spaced">beste</hi> Beurtheiler der Poesie<lb/>
+ist und der Maler der beste Kritiker der<lb/>
+Malerei? Jede Kunst muss doch wohl in<lb/>
+erster Linie auf die wirken, welche in<lb/>
+ihr schaffen?</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Gilbert</hi>. Die Wirkung der Kunst wird<lb/>
+auf das künstlerische Temperament allein<lb/>
+ausgeübt. Sie wendet sich nicht an den<lb/>
+Specialisten. Weit entfernt davon, dass<lb/>
+Künstler die besten Kunstrichter sind, ver-<lb break="no"/>
+mögen sie in den meisten Fällen über-<lb break="no"/>
+haupt nicht die Arbeiten von anderen zu<lb/>
+beurtheilen. Gerade die Verdichtung der<lb/>
+Anschauung, welche zum Künstler macht,<lb/>
+schränkt schon durch ihre Intensität die<lb/>
+Fähigkeit der Unterscheidung und Wert-<lb break="no"/>
+schätzung ein. Des Künstlers Energie treibt<lb/>
+ihn blindlings auf das eigene Ziel los. Die<lb/>
+Räder seines Wagens wirbeln den Staub<lb/>
+gleich einer Wolke um ihn her.</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Ernst</hi>. Du meinst also, dass grosse<lb/>
+Künstler eine Schönheit nicht leicht er-</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">kennen können, welche von der ihrigen<lb/>
+abweicht?</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Gilbert</hi>. Es ist ihnen ganz unmög-<lb break="no"/>
+lich. Nur mittelmässige Künstler bewun-<lb break="no"/>
+dern gegenseitig ihre Werke. Sie nennen<lb/>
+das grossgeistig und vorurtheilsfrei sein.<lb/>
+Aber das Schöpferische verbraucht seine<lb/>
+ganze kritische Fähigkeit innerhalb seiner<lb/>
+eigenen Sphäre. Gerade weil ein Mensch<lb/>
+etwas nicht thun kann, ist er der beste<lb/>
+Beurtheiler desselben.</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Ernst</hi>. Meinst du das wirklich?</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Gilbert</hi>. Ja, denn Schöpfung be-<lb break="no"/>
+schränkt, Anschauung erweitert den Blick.<lb/>
+Niemals hat es eine Zeit gegeben, wo<lb/>
+Kriticismus nothwendiger war als jetzt.<lb/>
+Nur auf diesem Wege kann die Mensch-<lb break="no"/>
+heit zum Bewusstsein kommen, auf wel-<lb break="no"/>
+chem Punkte sie angelangt ist.</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Ernst</hi>. Du hast mir heute Nacht recht<lb/>
+seltsame Dinge gesagt, Gilbert. Du hast<lb/>
+gesagt, dass es schwerer ist, über eine<lb/>
+Sache zu sprechen, als sie zu thun, und<lb/>
+dass nichts zu thun, das Allerschwerste<lb/>
+ist; dass Kriticismus schöpferischer ist als<lb/>
+das Schaffen; dass gerade darum, weil<lb/>
+ein Mensch etwas nicht thun kann, er<lb/>
+der beste Beurtheiler desselben ist; und<lb/>
+dass der echte Kritiker infolge dessen auch<lb/>
+etwas offenbaren darf, was der Künstler nicht<lb/>
+eigentlich in seinem Werke beabsichtigt<lb/>
+hat. Mein Freund, Du bist ein Träumer.</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Gilbert</hi>. Ja, das bin ich. Denn ein<lb/>
+Träumer ist einer, der seinen Weg nur<lb/>
+im Mondenlicht findet, und seine Strafe<lb/>
+ist, dass er den Tagesanbruch sieht vor<lb/>
+der übrigen Menschheit!</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Ernst</hi>. Seine Strafe?</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Gilbert</hi>. Und sein Lohn. Aber sieh,<lb/>
+es dämmert schon. Zieh’ die Vorhänge<lb/>
+zurück und öffne die Fenster weit! Wie<lb/>
+kühl die Morgenluft ist. Piccadilly liegt<lb/>
+zu unseren Füssen wie ein langer silberner<lb/>
+Faden. Ein feiner violetter Dunst liegt<lb/>
+über dem Park, und die Schatten der<lb/>
+weissen Häuser sind violett. Es ist schon<lb/>
+zu spät, um zu schlafen. Lass uns nach<lb/>
+Covent-Garden hinunter gehen und die<lb/>
+Rosen ansehen. Komm, ich bin des Den-<lb break="no"/>
+kens müde.</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

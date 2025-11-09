@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-04_n0130.xml" prev="WR-01-01-04_n0129.xml" next="WR-01-01-04_n0131.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 4, S. 130</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="04"/>
+                        <biblScope unit="page" n="n0130"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-01-01">1 1 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0038">
+                  <title level="a">Traum</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 4</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="127" to="130"/>
+                  <idno type="fn">WR-01-01-04_n0127.xml</idno>
+                  <author ref="#wr-person-0022">Hirschfeld, Georg</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">130</fw>
+               <fw type="ctext">HIRSCHFELD.</fw>
+            </fw>
+            <lg>
+               <l>Schneegedeckt, ein Leichentuch,</l>
+               <l>Und den Duft, den alten, todten,</l>
+               <l>Athme ich, den Erdgeruch.</l>
+               <l>Trüb in Schnee gestampfte Strasse</l>
+               <l>Schliessen fern in dunkeln Reih’n</l>
+               <l>Sturmverwehte Weiden ein.</l>
+               <l>Und in müder, blauer Ferne,</l>
+               <l>Wo die Nacht den Boden küsst,</l>
+               <l>Wo die Stadt der Menschen ist,</l>
+               <l>Zittern trübe Dunkelsterne.</l>
+            </lg>
+            <lg>
+               <l>Starr im neuen Lebensbann</l>
+               <l>Halte ich verweilend an.</l>
+            </lg>
+            <lg>
+               <l>Sieh’, da nahen durch die Nacht</l>
+               <l>Menschen zwei in Arbeitstracht,</l>
+               <l>Wollen noch die Stadt erreichen,</l>
+               <l>Starren nach den Lichterzeichen</l>
+               <l>Fern hin. Und die zwei Gestalten</l>
+               <l>Lösten mir die Traumgewalten</l>
+               <l>In der todten Winternacht.</l>
+               <l>Bilder eines grossen Leides,</l>
+               <l>Das den stärksten Daseinskämpfern</l>
+               <l>Stummvergess’ne Gräber macht.</l>
+               <l>Jung die Frau, die Züge reif und krank,</l>
+               <l>Kommendes Leben schon im müden Leib,</l>
+               <l>Zu Tode matt am Weg sie niedersank.</l>
+               <l>Milde, wortlos hält der Mann sein Weib,</l>
+               <l>Beugt sich zu ihr und spricht ihr bittend Muth</l>
+               <l>Und hält sie wie sein letztes Gut.</l>
+               <l>Die Bürde hat er ihr abgenommen,</l>
+               <l>Doppelt beladen; in zitterndem Frost</l>
+               <l>Ist er mit ihr den weiten Weg gekommen.</l>
+               <l>Aber es ist keine Schuld</l>
+               <l>In dem sturmverwehten Gesicht —</l>
+               <l>Ernst nur und Geduld.</l>
+            </lg>
+            <lg>
+               <l>Langsam steigen ihre Augen</l>
+               <l>Auf zu ihm in stummer Liebe,</l>
+               <l>Dass sie ihm erhalten bliebe,</l>
+               <l>Will aus ihm sie Stärke saugen.</l>
+            </lg>
+            <lg>
+               <l>Und sie wandelt mit ihm weiter,</l>
+               <l>Schwer gestützt auf ihren Leiter,</l>
+               <l>Immer weiter — schwinden dann.</l>
+               <l>Und im weissen Mondenschein</l>
+               <l>Schien der ernste Arbeitsmann</l>
+               <l>Auch ein Christus mir zu sein.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

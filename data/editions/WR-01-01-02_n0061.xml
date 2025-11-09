@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-02_n0061.xml" prev="WR-01-01-02_n0060.xml" next="WR-01-01-02_n0062.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 2, S. 61</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0061"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-01">1 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0017">
+                  <title level="a">Das Meer</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="59" to="63"/>
+                  <idno type="fn">WR-01-01-02_n0059.xml</idno>
+                  <author ref="#wr-person-0013">Reibrach, Jean</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DAS MEER (LA GUEUSE).</fw>
+               <fw type="pn">61</fw>
+            </fw>
+            <p rend="no-intend">chelnd, ergeben und ohne Groll über die Niederlage; und<lb/>
+dennoch verrätherisch mit plötzlich heftigem Schlagen gegen<lb/>
+die Klippen, mit unvorhergesehenem Aufschäumen und Spritzen,<lb/>
+das den ausgreifenden Tatzen eines Raubthieres glich, dessen<lb/>
+Augenlider geschlossen scheinen.</p>
+            <p>In der Breite veränderte sich die Anmuth der See in eine<lb/>
+strengere Schönheit, in eine erhabene Pracht.</p>
+            <p>Die untergehende Sonne beschien sie mit einem blen-<lb break="no"/>
+denden Glanz von schmelzendem Metall; die eilenden Wogen<lb/>
+warfen büschelweise ihren schaumigen Rand weit aus, und<lb/>
+glitzernd fiel er herab wie ein Stahlnetz aus tausend Maschen.<lb/>
+Und weit, unabsehbar weit, den Horizont ausfüllend, so lag<lb/>
+die Fluth da und verkörperte in sich die geheimnissvolle<lb/>
+Majestät der Unendlichkeit. Yves ging weiter, gewiegt von<lb/>
+tausend und abertausend Zauberstimmen. Zu seiner Rechten,<lb/>
+dem leuchtenden Geheimniss des Oceans gegenüber, lag das<lb/>
+dunkle Mysterium der druidischen Wälder, des steilen, ver-<lb break="no"/>
+wüsteten, melancholischen Bodens mit seinen heftigen, abge-<lb break="no"/>
+hackten Erhebungen, die Sturmwellen glichen, das Mysterium<lb/>
+der bretagnischen Steppe mit grauen Felsen und dazwischen<lb/>
+blühenden Ginstersträuchern, mit wellengekräuselten Farren,<lb/>
+der Steppe, die unter der Berührung der wilden Seewinde<lb/>
+ächzte und aufstöhnte. Dann ging’s bergan über steile Klippen;<lb/>
+Yves entdeckte sein Dörfchen. Die um den Kirchthurm zer-<lb break="no"/>
+streut gebauten Häuser lagen da wie eine um ihren Hirten<lb/>
+gelagerte Heerde. Und unten am Wege erkannte er sein<lb/>
+Haus, das am Meere dort stand wie eine kühne Herausforde-<lb break="no"/>
+rung, ein baufälliges, von Wind und Regen gepeitschtes,<lb/>
+ausgebröckeltes, klägliches und doch muthiges Häuschen,<lb/>
+das gleichsam all das Elend verkörperte, dem es seit jeher<lb/>
+Obdach gab.</p>
+            <p>Ah! Das Elend! Das bittere Elend! Bitter und doch so<lb/>
+süss, wenn es überstanden war, das Elend, das den geringsten<lb/>
+Freudestrahl in seinem blauen Auge so herrlich und glänzend<lb/>
+verstärkte.</p>
+            <p>Es war Freudentag heute. Das Häuschen, rosig über-<lb break="no"/>
+gossen von den Strahlen der untergehenden Sonne, lachte<lb/>
+ihm zu. Der Mann ging trotz seiner schweren Kleider leichten<lb/>
+Schrittes dem Heim entgegen, das seiner harrte. Der neuer-</p>
+         </div>
+      </body>
+   </text>
+</TEI>

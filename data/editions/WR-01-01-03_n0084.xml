@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-03_n0084.xml" prev="WR-01-01-03_n0083.xml" next="WR-01-01-03_n0085.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 3, S. 84</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0084"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-15">15 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0025">
+                  <title level="a">Kind Gottes</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="81" to="87"/>
+                  <idno type="fn">WR-01-01-03_n0081.xml</idno>
+                  <author ref="#wr-person-0016">Janitschek, Maria</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">84</fw>
+               <fw type="ctext">JANITSCHEK.</fw>
+            </fw>
+            <p rend="no-intend">nicht sehen konnte. In der Nacht träumte er wunderliche<lb/>
+Träume und redete im Schlaf.</p>
+            <p>Einmal sagte Sarne zu der Frau: »Warum nimmst du<lb/>
+ihn denn nicht mit aufs Feld? Sterben muss er ja doch bald.<lb/>
+Im Flur steht der kleine hölzerne Wagen, mit dem er früher<lb/>
+immer gespielt hat. Setz’ ihn da hinein und nimm ihn einmal<lb/>
+mit dir. Er ist ja jetzt so klein und leicht geworden und<lb/>
+geht gewiss in das Wäglein.«</p>
+            <p>Die Frau in ihrer weiblichen Zaghaftigkeit wagte nicht,<lb/>
+Sarne’s Rath zu befolgen.</p>
+            <p>Da einmal, als sie wieder draussen war, nahm der<lb/>
+Schäfer das Kind, wickelte es gut in eine Decke ein, setzte<lb/>
+es in das Wäglein und schob es hinaus ins Freie.</p>
+            <p>Der Kleine jauchzte vor Lust. Seine Augen wurden<lb/>
+noch einmal so gross und weit. Aber plötzlich verstummte<lb/>
+sein Jubel. Ringsum die unermessliche Haide mit ihrem<lb/>
+braunrothen Boden. Im Westen aber, was war das? Seine<lb/>
+Blicke starrten wie trunken auf das Bild.</p>
+            <p>Ein zerklüftetes, wild übereinander gethürmtes Gebirge<lb/>
+scheint dort aus der Erde gewachsen zu sein. Seine Zacken<lb/>
+und Zinnen brennen feurig, als ob sie sich an der Sonne<lb/>
+entzündet hätten, indess das Massiv tief unten in dunkel-<lb break="no"/>
+blauen Tinten leuchtet.</p>
+            <p>»Da ist es ja,« stammelt der Junge und deutet mit<lb/>
+dem Finger hinüber, »da ist es ja, Hochgebirge, Hoch-<lb break="no"/>
+gebirge! <milestone unit="3dots"/> Ich möchte wohl dort hin können, aber es ist weit,<lb/>
+weit <milestone unit="3dots"/> vielleicht gar schon auf einem andern Welttheil.« <milestone unit="3dots"/>
+               <lb/>
+Der Schäfer blickt auf die lohende Wolkenwand und spricht<lb/>
+kein Wort.</p>
+            <p>Später liess sich das Kind ruhig nach Hause fahren.<lb/>
+Ein leises triumphirendes Lächeln lag um seine Lippen. Es<lb/>
+hatte gesehen, was es ersehnte.</p>
+            <p>Etliche Tage später — sie konnten nicht aufs Feld<lb/>
+hinaus, weil ein gewaltiger Sturm draussen brauste — er-<lb break="no"/>
+zählte Sarne von einer grossen Schlacht und den tapferen<lb/>
+Generälen und dem König, wie er ihm, dem Schäfer Sarne,<lb/>
+die Hand geschüttelt und ihm gedankt habe, dass er mit-</p>
+         </div>
+      </body>
+   </text>
+</TEI>

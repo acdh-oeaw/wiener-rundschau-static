@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-03_n0111.xml" prev="WR-01-01-03_n0110.xml" next="WR-01-01-03_n0112.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 3, S. 111</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0111"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-15">15 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0033">
+                  <title level="a">Hauptmann’s neuestes Bühnenwerk</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="109" to="112"/>
+                  <idno type="fn">WR-01-01-03_n0109.xml</idno>
+                  <author ref="#wr-person-0007">Schik, F.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">HAUPTMANNS NEUESTES BÜHNENWERK.</fw>
+               <fw type="pn">111</fw>
+            </fw>
+            <p rend="no-intend">sich, er versündigt sich an der Allnatur, die keine Schuld<lb/>
+kennt. Indem er sich der Natur anschloss, war er der irdi-<lb break="no"/>
+schen Strafe entronnen; nun sinkt er zu Thal und wird von<lb/>
+seinen Mitbürgern gesteinigt.</p>
+            <p>Dieser dichterischer Bau ist mit echt künstlerischer<lb/>
+Façadenpracht verkleidet. Aber das Ganze steht eingezwängt<lb/>
+in die Monumentalbauten Anderer und gewährt keine sonder-<lb break="no"/>
+lichen Perspectiven. Das Problem liegt unter dem Niveau<lb/>
+unserer Zeit. Die künstlerische Ausgestaltung mag den<lb/>
+Dichter befreit haben, das Gros der heutigen Menschen steht<lb/>
+bewusst oder unbewusst darüber. Faustische Seelenkämpfe,<lb/>
+die einst die Männerbrust durchwühlten, sind heute schon<lb/>
+zur Kinderkrankheit geworden. Alles reift jetzt früher. Die<lb/>
+Massen führen in der Gegenwart einen gewaltigeren Kampf<lb/>
+als der Einzelne mit sich. Früher entflammte Einer die<lb/>
+Massen, jetzt die Massen das Individuum. Nebelhaftes Sehnen,<lb/>
+das einst die Greise noch heimsuchte, hört heute beim Jüngling<lb/>
+schon auf. Bei diesem Drama haben wir das doppelte Gefühl<lb/>
+des Märchens: So ein Märchen klingt uns schon wie<lb/>
+ein Märchen. Diese Dichtungsform ist heute nur mehr dann<lb/>
+zu wählen, wenn die Vertiefung der Idee und der Charaktere<lb/>
+so weit geht, dass deren Consequenzen in märchenhafte<lb/>
+Fernen reichen und den realen Boden von selbst verlieren.</p>
+            <p>Diesmal hat das Temperament Hauptmann’s kaum die<lb/>
+Tragkraft, seine köstlichen Dichtergaben in unsere Zeit zu<lb/>
+schnellen. Die Verse sind unvergleichlich, die Naturschilde-<lb break="no"/>
+rungen von unerreichter Feinsinnigkeit; die Gedanken sind<lb/>
+nicht zu moderner Höhe entwickelt. Zu wenig Wurzeln, um<lb/>
+Säfte für alle Theile der Dichtung aufzusaugen, aber doch<lb/>
+eine Dichtung, die aus gutem Boden gewachsen ist.</p>
+            <p>In Hauptmann’s neuestem finden wir Elemente eines<lb/>
+seiner Erstlings-Werke, der »Einsamen Menschen«, wieder.<lb/>
+Die Seitenwege, die er in der Folge gegangen, führen ihn<lb/>
+jetzt zu seinem Ausgangpunkt zurück. Hier muss seine<lb/>
+Weiterentwicklung wieder ansetzen. Das moderne Drama<lb/>
+würde er fördern wie selten einer. Seine dichterische Ueber-<lb break="no"/>
+fülle aber muss er auch an andere Dichtungsarten ver-<lb break="no"/>
+theilen. Ein Dichter verträgt keine Beschränkung; aber er<lb/>
+darf sich auch nicht selbst beschränken und Alles der Bühne</p>
+         </div>
+      </body>
+   </text>
+</TEI>

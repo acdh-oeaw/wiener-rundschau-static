@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-17_n0408.xml" prev="WR-03-02-17_n0407.xml" next="WR-03-02-17_n0409.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 17, S. 408</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="17"/>
+                        <biblScope unit="page" n="n0408"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0699">
+                  <title level="a">»Blaubart und Ariane«</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 17</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="17">17</biblScope>
+                  <biblScope unit="page" from="393" to="415"/>
+                  <idno type="fn">WR-03-02-17_n0393.xml</idno>
+                  <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MAETERLINCK: BLAUBART UND ARIANE.</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>SÉLYSETTE:</p>
+            <p>Hier doch, in meinen Silberärmeln.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Ich sehe sie nicht mehr <milestone unit="3dots"/> Ich habe sie noch eben bewundert, als Du<lb/>
+Dein Haar aufnahmst. Sie schienen sich zu erheben und um Liebe zu bitten, und<lb/>
+gerührt folgten meine Augen allen ihren Bewegungen und liebkosten sie <milestone unit="3dots"/> Ich<lb/>
+wende mich um, und wie ich zurückkomme, finde ich nur noch ihren Schatten <milestone unit="3dots"/>
+               <lb/>
+(Knüpft die Ärmel ab.) Noch einmal zwei Glücksstrahlen, die ich doppelt be-<lb break="no"/>
+freie <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SÉLYSETTE:</p>
+            <p>Oh, meine blossen Arme, sie werden vor Kälte zittern <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Nicht doch, sie sind ja entzückend <milestone unit="3dots"/> (Geht zu Ygraine.) Wo bist Du,<lb/>
+Schwester Ygraine? Diesen Augenblick sah ich in diesem Spiegel noch Schultern<lb/>
+und einen Hals, die ihn ganz mit lieblichem, seligem Schimmer erfüllten. Ich<lb/>
+muss alles befreien <milestone unit="3dots"/> Wahrhaftig, meine jungen Schwestern, ich wundre<lb/>
+mich nicht mehr, dass er Euch gar nicht so geliebt hat, wie es hätte sein<lb/>
+sollen; und wenn er hundert Frauen wollte, so hatte er eben keine <milestone unit="3dots"/> (Nimmt<lb/>
+Ygraine den Mantel von den Schultern.) Siehe da, zwei Quellen der Schönheit, die<lb/>
+sich im Finstern verlieren würden <milestone unit="3dots"/> Vor allem fürchtet Euch nicht <milestone unit="3dots"/> Seid<lb/>
+schön heute Abend <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <p>(Durch eine Seitenthür erscheint die AMME, verstört und mit aufgelösten Haaren.)</p>
+            <milestone unit="speech-start"/>
+            <p>DIE AMME:</p>
+            <p>Er kommt zurück! Er ist da!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DIE FRAUEN:</p>
+            <p>Wer? Er? Heute Abend? Oh! <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Wer hat Dir das gesagt?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SÉLYSETTE:</p>
+            <p>Wie hat man Dich hinausgelassen?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Hast Du jemanden gesehen?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DIE AMME:</p>
+            <p>Ja, einen von der Wache <milestone unit="3dots"/> Er hat Dich gesehen und betet Dich an.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Wen? Mich?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DIE AMME:</p>
+            <p>Ja.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Aber ich habe doch keinen Menschen gesehen, seit er fort ist. Alle Thüren<lb/>
+giengen auf, ich weiss nicht wie, und das Schloss schien verödet <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DIE AMME:</p>
+            <p>Sie haben sich versteckt <milestone unit="3dots"/> Sie haben uns nicht aus den Augen ge-<lb break="no"/>
+lassen <milestone unit="3dots"/> Der Jüngste hat mir gesagt <milestone unit="3dots"/> Er hat mir gesagt <milestone unit="3dots"/> dass er<lb/>
+wiederkäme <milestone unit="3dots"/> Er muss ganz nahe sein <milestone unit="3dots"/> Die Bauern wissen es. Sie<lb/>
+sind bewaffnet <milestone unit="3dots"/> Sie empören sich <milestone unit="3dots"/> Das ganze Dorf steckt in den<lb/>
+Hecken <milestone unit="3dots"/> Sie lauern ihm auf. Horch, sie schreien. (Sie läuft ans Fenster.)<lb/>
+Ich sehe Fackeln im Walde <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <p>(Die Frauen stossen einen Angstschrei aus und rennen verzweifelt im Saale herum,<lb/>
+einen Ausweg suchend. Die Amme versucht, sie zurückzuhalten.)</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-27_n0637.xml" prev="WR-03-02-27_n0636.xml" next="WR-03-02-27_n0638.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 27, S. 637</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="27"/>
+                        <biblScope unit="page" n="n0637"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0780">
+                  <title level="a">Die Accorde Mozarts</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 27</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="27">27</biblScope>
+                  <biblScope unit="page" from="635" to="639"/>
+                  <idno type="fn">WR-03-02-27_n0635.xml</idno>
+                  <author ref="#wr-person-0099">Pastor, Willy</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">PASTOR:DIE ACCORDE MOZARTS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">seitigkeit bei aller scheinbaren Einfachheit<lb/>
+beruht in — ihrer Stellung.</p>
+                     <p>Es ist nöthig, dass wir uns hier zunächst<lb/>
+über ein Capitel der Harmonielehre ver-<lb break="no"/>
+ständigen. Die »Stellung der Accorde«,<lb/>
+was ist das?</p>
+                     <p>Nehmen wir den einfachsten Accord,<lb/>
+den C-dur-Dreiklang. Er besteht aus den<lb/>
+drei Tönen c, e und g. Ob c, e, g oder<lb/>
+e, g, c oder g, c, e, das ist schließlich<lb/>
+dasselbe, aber dennoch klingt es anders,<lb/>
+und dieser andere Klang desselben Accordes,<lb/>
+das ist es, was die Theoretiker die andere<lb/>
+Stellung dieses Accordes nennen. C, e, g<lb/>
+bezeichnen sie als die »Grundstellung«<lb/>
+des C-dur-Dreiklanges, e, g, c als die<lb/>
+»Terz-Sext-Stellung« (e, g <milestone unit="equals"/> Terz, e, c <milestone unit="equals"/>
+                        <lb/>
+Sext), g, c, e als »Quart-Sext-Stellung«<lb/>
+(g, c <milestone unit="equals"/> Quart, g, e <milestone unit="equals"/> Sext).</p>
+                     <p>Aber noch andere Veränderungen als<lb/>
+nur die der Stellung können mit dem ein-<lb break="no"/>
+fachen Dreiklang vor sich gehen. Behalten<lb/>
+wir c als Grundton bei, so können wir<lb/>
+den Accord c, e, g immer noch in c, g, e<lb/>
+variieren. Wir können ferner von den drei<lb/>
+Tönen den untersten in einer tieferen Octave<lb/>
+angeben, die beiden anderen nebeneinander<lb/>
+in der nächsthöheren Octave; oder wir<lb/>
+bringen c und e in dieselbe Octave und<lb/>
+scheiden die Quinte durch einen größeren<lb/>
+Zwischenraum; oder endlich, wir geben<lb/>
+jedem der drei Töne eine Octave für sich.<lb/>
+Die so entstehenden Verschiedenheiten<lb/>
+nennt die Harmonielehre diejenigen der<lb/>
+»Lage der Accorde«. Liegen c, e und g<lb/>
+in derselben Octave, so befindet der Drei-<lb break="no"/>
+klang sich in der »engen Lage«; ist der<lb/>
+Grundton oder die Quinte von den anderen<lb/>
+beiden Intervallen durch eine Octave ge-<lb break="no"/>
+trennt, so spricht man von einer »gemischten<lb/>
+Lage«, im letzten Falle endlich, ebenso<lb/>
+wie in dem Falle c, g, e, ist die »weite<lb/>
+Lage« gewählt.</p>
+                     <p>Man sieht, schon der einfache Drei-<lb break="no"/>
+klang ist so unwandelbar nicht, als es<lb/>
+scheint. Bedenkt man nun, dass den drei-<lb break="no"/>
+mal drei wesentlichen Veränderungen allein,<lb/>
+die man durch Stellung und Lage an ihm<lb/>
+vornehmen kann, viermal vier bei jedem<lb/>
+Sept-Accord entsprechen, so begreift man,<lb/>
+welche Möglichkeiten dem Musiker des<lb/>
+Rococo hier bereits offenstanden.</p>
+                     <p>Wie nun verhält sich zu diesen Möglich-<lb break="no"/>
+keiten der Künstler des »Figaro«?</p>
+                  </cell>
+                  <cell>
+                     <p>Die Verschiedenheiten der Lage zu-<lb break="no"/>
+nächst. Es hieße zuviel in Mozart hinein-<lb break="no"/>
+legen, sollte man seiner Kunst hier be-<lb break="no"/>
+sondere Verdienste zusprechen. Er wechselt<lb/>
+freilich unaufhörlich mit den verschiedenen<lb/>
+Lagen, es hat stets seinen Grund, wenn<lb/>
+er bei einem Accord einen Ton verdoppelt<lb/>
+oder (bei einem Vierklang) gelegentlich<lb/>
+ein Intervall unterdrückt. Aber alles das<lb/>
+ist Mozart nicht eigenthümlich. Die Har-<lb break="no"/>
+monielehre hatte zu seiner Zeit eine gute,<lb/>
+alte Tradition, in deren Zucht die Musiker<lb/>
+ohne Ausnahme aufwuchsen und von der<lb/>
+sie lernten. Die Mannigfaltigkeit, die Mozart<lb/>
+seinem Accord-Material durch die ver-<lb break="no"/>
+schiedene Lage gibt, finden wir bei jedem<lb/>
+besseren Italiener des vorigen Jahrhunderts<lb/>
+ebensogut.</p>
+                     <p>Nun aber die Stellung der Accorde. Ein<lb/>
+einfacher Vergleich lässt uns die Distanz,<lb/>
+die Mozart hier von seinen Zeitgenossen<lb/>
+trennt, in ihrer ganzen Breite überschauen.<lb/>
+Das Streichorchester beherrschte damals<lb/>
+souverän alle Partituren. Im Streichorchester<lb/>
+bauen die Harmonien sich auf den Stimmen<lb/>
+der Celli und Bässe auf, die den Grund-<lb break="no"/>
+ton der einzelnen Accorde angeben. Nun<lb/>
+vergleiche man die Stimmen der Celli<lb/>
+und Bässe in einer Mozart’schen Partitur<lb/>
+mit einer solchen irgendeines der gleich-<lb break="no"/>
+zeitigen Operncomponisten. Wie gleich-<lb break="no"/>
+giltig diese Stimme im allgemeinen be-<lb break="no"/>
+handelt wurde, wie oft man den Bogen<lb/>
+über Quinten und Quarten springen ließ,<lb/>
+und andererseits, wie sorgfältig Mozart<lb/>
+gerade diese Stimme ausarbeitet, deren<lb/>
+leere Quinten und Quarten er, so oft es<lb/>
+angeht, durch vermittelnde Intervalle aus-<lb break="no"/>
+gleicht. Bei den anderen werden die<lb/>
+Accorde immer wieder in die Grund-<lb break="no"/>
+stellung und nur zur Ausnahme einmal<lb/>
+in die Terz- oder Quart-Stellung gebracht,<lb/>
+bei Mozart dagegen, sobald es einmal<lb/>
+Mozart ist, ein ewiger Wechsel in der<lb/>
+Stellung, und dabei bisweilen geradezu<lb/>
+eine Scheu vor der trivialen Grundstellung,<lb/>
+so dass dann die Regel fast zur Ausnahme<lb/>
+und die Ausnahme zur Regel wird.</p>
+                     <p>Auch die Vielseitigkeit in der Stellung<lb/>
+der Accorde könnte nur noch ein verbissener<lb/>
+Ben Akiba als der Mozart’schen Musik<lb/>
+nicht eigenthümlich hinstellen. Die Mozart<lb/>
+vorangehenden Instrumental- und nament-<lb break="no"/>
+lich Kirchencomponisten hatten auf jede</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

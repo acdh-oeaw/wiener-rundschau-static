@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-24_n0905.xml" prev="WR-02-02-23_n0904.xml" next="WR-02-02-24_n0906.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 24, S. 905</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="24"/>
+                        <biblScope unit="page" n="n0905"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-11-01">1 11 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0521">
+                  <title level="a">Die Mondscheinsonate</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 24</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="905" to="915"/>
+                  <idno type="fn">WR-02-02-24_n0905.xml</idno>
+                  <author ref="#wr-person-0144">Wolff, Ludwig</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>1. <hi rend="text-spaced">NOVEMBER</hi> 1898</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="performance-start"/>
+            <ab>
+               <title>(Den Bühnen gegenüber Manuscript.)<lb/>
+                  <hi rend="text-spaced">DIE MONDSCHEINSONATE</hi>.<lb/>
+Komödie in einem Act von <rs type="person" key="">LUDWIG WOLFF</rs> (Wien).</title>
+            </ab>
+            <milestone unit="persList-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">Personen</hi>:</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Frau Klein</hi>.<lb/>
+                     <lb/>
+                     <table>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Grete</hi>,<lb/>
+                              <hi rend="text-spaced">Rosa</hi>,<lb/>
+                           </cell>
+                           <cell>
+ihre Töchter.<lb/>
+                           </cell>
+                        </row>
+                     </table>
+                     <lb/>
+                  </cell>
+                  <cell>
+                     <hi rend="text-spaced">Isidor Klein</hi>, ihr Neffe.<lb/>
+                     <hi rend="text-spaced">Armin Stransky</hi>.<lb/>
+                     <hi rend="text-spaced">Lisi</hi>, Dienstmädchen.<lb/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="act-start"/>
+            <p>Zimmer bei Kleins. Abend. Hängelampe. Ein Pianino, eine Credenz. Links<lb/>
+vom Zuschauer eine Thüre zu einem Cabinet, rechts zu einem Zimmer. Das<lb/>
+ganze Zimmer blank geputzt und mit allerlei Deckchen und Tischtüchern<lb/>
+geschmückt.</p>
+            <milestone unit="scene-start"/>
+            <ab>
+               <title>1. <hi rend="text-spaced">Scene</hi>.</title>
+            </ab>
+            <p>Grete und Lisi decken den Tisch.</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Grete</hi>. Sie haben ja den Tischläufer vergessen, Lisi.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Lisi</hi>. No, no, i hab’ net g’wusst, dass heut’ so nobel wird. (Holt<lb/>
+den Tischläufer).</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Grete</hi>. Und i bitt’ Sie, Lisi, binden Sie sich ein weisses<lb/>
+Schürzerl um.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Lisi</hi>. Woher nehmen und net stehl’n. Bei zehn Gulden Lohn<lb/>
+sammt’n Nachtmahlgeld kann ma sich kane weisse Schürzerl vergunna.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Grete</hi>. Ich leihe Ihnen eine von mir.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Lisi</hi>. Nachher ja. (Vertraulich.) Heut geht’s los, was?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Grete</hi>. Reden Sie doch nicht solchen Unsinn.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Lisi</hi>. ’s is do nix dabei, Fräul’n.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Grete</hi> (nimmt aus einem Kasten eine Schürze, die sie dem Mädchen<lb/>
+gibt). So, da hab’n ’s.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Lisi</hi>. I dank’ schön. (Bindet die Schürze um.) A feine Schürz’n! Net<lb/>
+wahr, Fräul’n Grete, wenn’s heut einig wer’n, g’hört d’ Schürzen mein.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Grete</hi>. Ach was, schwätzen Sie nicht, ich schenk’ sie Ihnen<lb/>
+auch so.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

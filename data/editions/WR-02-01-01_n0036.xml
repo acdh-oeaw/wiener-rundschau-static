@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-01_n0036.xml" prev="WR-02-01-01_n0035.xml" next="WR-02-01-01_n0037.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 1, S. 36</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0036"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-11-15">15 11 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0308">
+                  <title level="a">Der Kampf der Schwachen gegen die Schwachen </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="36" to="37"/>
+                  <idno type="fn">WR-02-01-01_n0036.xml</idno>
+                  <author ref="#wr-person-0007">Schik, F.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DER KAMPF DER SCHWACHEN GEGEN DIE<lb/>
+SCHWACHEN.<lb/>
+(<hi rend="text-spaced">Zur politischen Situation</hi>.)<lb/>
+Von <rs type="person" key="">F. Schik</rs> (Wien.)</title>
+            </ab>
+            <p>Es ist nicht mehr nobel, sich mit Politik zu befassen. Ehemals<lb/>
+ein vornehmer Beruf, heute ein anwiderndes Metier. Kein geistiger<lb/>
+Fernkampf regt wie früher zum Mitdenken an; das Handgemenge der<lb/>
+Phrasen macht politisch Schule bei den sogenannten Staatsmännern<lb/>
+und bei den Parteien.</p>
+            <p>Lang geübte Bürgertugenden haben plötzlich ihren Glanz ver-<lb break="no"/>
+loren, ohne dass die Gehirne darauf vorgesehen waren. Vorstellungen,<lb/>
+die in den Köpfen seit altersher beisammenlagern, sind mit einemmale<lb/>
+in der Aussenwelt auseinandergefallen, und Dinge, die sich in der<lb/>
+neugeborenen Wirklichkeit schon nahe stehen, sind in den Köpfen<lb/>
+noch getrennt. Das Innere der Menschen hat die Homogenität mit<lb/>
+den Zuständen, die sie umgeben, gänzlich verloren.</p>
+            <p>Wenn heute ein Einzelner sich Zufriedenheit mit seinen Ver-<lb break="no"/>
+hältnissen erringt, so setzt er sich dadurch in Gegensatz zur all-<lb break="no"/>
+gemeinen Unzufriedenheit. Was einst das Ziel des Individuums war,<lb/>
+sich Behaglichkeit zu verschaffen, erscheint nun als antisociales Be-<lb break="no"/>
+ginnen. Ein Hoffnungsumsturz bereitet sich vor. Ein vorbildloses Inter-<lb break="no"/>
+regnum ist im Anzuge.</p>
+            <p>Die Einen halten sich noch an die ruinenhafte, alte, die Anderen<lb/>
+an die embryonale, neue Pflichtidee. Jene ist nicht mehr, diese noch<lb/>
+nicht stark genug, den ganzen Menschen zu durchdringen. So entsteht<lb/>
+der Gegenwartskampf der Schwachen gegen die Schwachen.</p>
+            <p>Der Rapidität, mit der das Leben sich mehr und mehr ver-<lb break="no"/>
+öffentlicht und jedem Einzelnen eine Ueberfülle von Thatsachen vor<lb/>
+Augen führt, konnte die Aufnahmsfähigkeit der Massen nicht nach-<lb break="no"/>
+kommen. Die geistige Verarbeitungsträgheit verhindert das Operiren<lb/>
+mit dem Wahrgenommenen. Wie man befürchtet, in Bezug auf die<lb/>
+Beweglichkeit der jetzigen Massenheere in einem nächsten Kriege<lb/>
+schlimme Erfahrungen zu machen, so verhält es sich schon dermalen<lb/>
+mit der Unmasse von Thatsachen, die jetzt alle für agitatorische<lb/>
+Zwecke assentirt werden. Auch den schwächlichsten Vorfall hält man<lb/>
+noch für tauglich zum Kampf mit dem Gegner.</p>
+            <p>Diesem wüsten Durcheinanderwerfen von Geschehnissen, diesem<lb/>
+Thatsachenunwesen, welches man jetzt fälschlich Realpolitik nennt —</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-06_n0126.xml" prev="WR-04-06_n0125.xml" next="WR-04-06_n0127.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 6, S. 126</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="06"/>
+                        <biblScope unit="page" n="n0126"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0829">
+                  <title level="a">Mikrokosmos und Makrokosmos</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 6</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="06">6</biblScope>
+                  <biblScope unit="page" from="125" to="128"/>
+                  <idno type="fn">WR-04-06_n0125.xml</idno>
+                  <author ref="#wr-person-0277">Kniepf, Albert</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KNIEPF: MIKROKOSMOS UND MAKROKOSMOS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">in Gegensatz gebracht, worauf nur ein<lb/>
+Astrolog kommen kann.</p>
+                     <p>Die folgende Stelle in »Troilus und<lb/>
+Cressida«, I. Act, 3. Scene, verräth den<lb/>
+Kenner der Horoskopie:</p>
+                     <milestone unit="verse-start"/>
+                     <lg>
+                        <l>Der Himmel selbst, Planeten und dies Centrum</l>
+                        <l>Reih’n sich nach Abstand, Rang und Würdig-</l>
+                        <l>keit,</l>
+                        <l>Beziehung, Jahreszeit, Form, Verhältnis, Raum.</l>
+                        <l>Amt und Gewohnheit in der Ordnung Folge:</l>
+                        <l>Und deshalb thront der majestät’sche Sol</l>
+                        <l>Als Hauptplanet in höchster Herrlichkeit</l>
+                        <l>Vor allen andern; sein heilkräftig Auge</l>
+                        <l>Verbessert den Aspect bösart’ger Sterne.</l>
+                        <l>Und trifft, wie Königs Machtwort, allbe-</l>
+                        <l>herrschend</l>
+                        <l>Auf Gut’ und Böses. Doch wenn die Planeten</l>
+                        <l>In schlimmer Mischung irren ohne Regel,</l>
+                        <l>Welch Schrecknis! Welche Plag’ und Meuterei!</l>
+                        <l>Welch Stürmen auf der See! Wie bebt die</l>
+                        <l>Erde!</l>
+                        <l>Wie rast der Wind! Furcht, Umsturz, Graun</l>
+                        <l>und Zwiespalt</l>
+                        <l>Reißt nieder, wühlt, zerschmettert und ent-</l>
+                        <l>wurzelt</l>
+                        <l>Die Eintracht und vermählte Ruh’ der Staaten</l>
+                        <l>Ganz aus den Fugen!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>Diese Übersetzung von Schlegel und<lb/>
+Tieck könnte vom astrologischen Stand-<lb break="no"/>
+punkte in einigen Kunstausdrücken besser<lb/>
+sein, aber das fällt hier nicht ins<lb/>
+Gewicht.</p>
+                     <p>Eine Anspielung auf den Stand der<lb/>
+Sonne im siebenten Hause eines Horoskops,<lb/>
+ja mehr noch auf die Direction der Sonne<lb/>
+in dies Himmelsfeld der öffentlichen<lb/>
+Feindschaften* findet man in der Klage<lb/>
+des Salisbury in Richard II., III. Act,<lb/>
+1. Scene:</p>
+                     <milestone unit="verse-start"/>
+                     <lg>
+                        <l>Ach Richard, mit den Augen bangen Muths</l>
+                        <l>Seh’ ich, wie einen Sternschuss, deinen Ruhm</l>
+                        <l>Vom Firmament zur niederen Erde fallen.</l>
+                        <l>
+                           <hi rend="text-spaced">Es senkt sich weinend deine Sonn</hi>’ <hi rend="text-spaced">im</hi>
+                        </l>
+                        <l>
+                           <hi rend="text-spaced">West</hi>,</l>
+                        <l>Die nichts als Sturm, Weh, Unruh’ hinter-</l>
+                        <l>lässt,</l>
+                        <l>
+                           <hi rend="text-spaced">Zu deinen Feinden sind die Freund</hi>’</l>
+                        <l>
+                           <hi rend="text-spaced">entfloh’n</hi>,</l>
+                        <l>Und widrig Glück spricht jeder Mühe Hohn.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>Dies ist nicht etwa nur poetische<lb/>
+Licenz und Phantastik, sondern diese<lb/>
+Poesie ist gereimte Astrologie und schil-<lb break="no"/>
+dert die Wirkung besagter Direction,<lb/>
+wenn auch unter Hervorhebung ihrer<lb/>
+mehr üblen Seiten. Nur jemand, der sich<lb/>
+eingehend mit Astrologie befasst hat,</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">konnte dieses schöne Bild schreiben, ein<lb/>
+anderer hat nie etwas davon gehört, dass<lb/>
+die Sonne im Untergange Feindschaft<lb/>
+und so Unfreundliches bewirkt. Es ist<lb/>
+allerdings nicht immer so arg, wie oben<lb/>
+beschrieben, aber wenn wir uns das<lb/>
+Horoskop eines Richard II. hinzudenken,<lb/>
+hat der Dichter als Astrolog die poetische<lb/>
+Licenz keineswegs besonders in Anspruch<lb/>
+genommen.</p>
+                     <p>Solche genaue Kenntnis der Astro-<lb break="no"/>
+logie könnte geeignet erscheinen, die<lb/>
+Meinung zu bestärken, <hi rend="text-spaced">Bacon</hi> sei der<lb/>
+Dichter, wenn man anders nicht glauben<lb/>
+will, Shakespeare habe auch noch die<lb/>
+großen lateinischen Werke der Astrologen<lb/>
+eingehend studiert, was allerdings möglich<lb/>
+wäre.</p>
+                     <p>Es ist aber sehr beachtenswert, dass<lb/>
+Dichter wie Shakespeare, Goethe, Dickens,<lb/>
+Byron, Shelley mit den Wissenschaften<lb/>
+des Fatums mehr oder minder vertraut<lb/>
+waren, denn auch Goethe kannte sein<lb/>
+Horoskop; bei Dante ferner finden wir<lb/>
+den Beweis der Bekanntschaft mit der<lb/>
+Astrologie, Byron hat das Fatum durch<lb/>
+die Gestirne besungen und Shelley trieb<lb/>
+selbst Astrologie. Was schrieb Hebbel?</p>
+                     <milestone unit="verse-start"/>
+                     <lg>
+                        <l>Schon bestimmt, noch eh’ wir’s bitten.</l>
+                        <l>Ist für Thronen und für Hütten</l>
+                        <l>Lust und Leid im Lose.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>Erinnern wir uns, dass auch Schiller<lb/>
+die Horoskopie seines größten tragischen<lb/>
+Helden, Wallenstein, nicht missen mochte,<lb/>
+so werden wir einsehen, dass unseren<lb/>
+neueren Poeten die unzweifelhafte Ein-<lb break="no"/>
+sicht in das Vorhandensein eines Fatums<lb/>
+nur zum Schaden ihrer Production ab-<lb break="no"/>
+handen gekommen ist. Jedenfalls verleiht<lb/>
+diese Einsicht allem poetischen Schaffen<lb/>
+hochernster Richtung eine bedeutende<lb/>
+Vertiefung und eine Größe der An-<lb break="no"/>
+schauung vom Menschenschicksal, deren<lb/>
+Fehlen geradezu viele Mängel der heutigen<lb/>
+dramatischen Production verschuldet und<lb/>
+die zeitgenössische Dramatik kennzeichnet.<lb/>
+Denn das Vermögen zum künstlerischen<lb/>
+Schaffen und zur Poesie wird sich umso<lb/>
+schwungvoller entfalten, wenn tiefe Ideen<lb/>
+und erhabene Auffassungen es anspornen,<lb/>
+und das Princip aller Tragik ist geradezu</p>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Eine <hi rend="text-spaced">Direction</hi> nennt man die Bewegung oder Führung eines Gestirns in den<lb/>
+Aspect oder zum Ort eines andern, auch zu sensitiven Punkten des Horoskops, wie im obigen Falle.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

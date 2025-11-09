@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-15_n0594.xml" prev="WR-02-02-15_n0593.xml" next="WR-02-02-15_n0595.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 15, S. 594</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="15"/>
+                        <biblScope unit="page" n="n0594"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-06-15">15 6 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0448">
+                  <title level="a">Die Probezeit des Burgtheater-Directors</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 15</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="15">15</biblScope>
+                  <biblScope unit="page" from="592" to="594"/>
+                  <idno type="fn">WR-02-02-15_n0592.xml</idno>
+                  <author ref="#wr-person-0007">Schik, F.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">594</fw>
+               <fw type="ctext">SCHICK.</fw>
+            </fw>
+            <p rend="no-intend">Director Schlenther mit Hamlet zurufen kann: »Wirtschaft, Horatio,<lb/>
+Wirtschaft!«</p>
+            <p>Gewiss wäre niemand imstande gewesen, eine vollendete Reor-<lb break="no"/>
+ganisation in fünf Monaten zu bewerkstelligen. Es war von vorneherein<lb/>
+klar, dass man aus den ersten Schritten des neuen Directors nur die<lb/>
+Richtung, die er einzuschlagen, und die Mittel, die er zu wählen<lb/>
+gedenke, würde constatieren können. Es handelte sich vorläufig nur um die<lb/>
+Anbahnung, nicht um die Durchführung von Reformen. Wer schon<lb/>
+in dieser kurzen Zeit systemlos vorgegangen ist, dem dürfte es schwer<lb/>
+werden, in der Folge zu genügen.</p>
+            <p>Für eine achtjährige Probezeit aber, wie sie Herr Burckhard<lb/>
+ablegte, hat das Burgtheater in dem Zustande, wie dieser es zurück-<lb break="no"/>
+gelassen, keine Tragkraft mehr.</p>
+            <p>Die provisorische Berufung des Herrn Schlenther mag den löb-<lb break="no"/>
+lichsten Intentionen entsprochen haben; nun wir ihn durch mehr<lb/>
+als vier Monate am Werke gesehen, würde ein Definitiv werden seiner<lb/>
+Directionsführung darauf schliessen lassen, man habe sich mit der Idee,<lb/>
+dass ein Hoftheater zweiter Güte für Wien genüge, abgefunden.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

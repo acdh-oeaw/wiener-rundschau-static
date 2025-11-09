@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-22_n0517.xml" prev="WR-03-02-22_n0516.xml" next="WR-03-02-22_n0518.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 22, S. 517</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="22"/>
+                        <biblScope unit="page" n="n0517"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0732">
+                  <title level="a">Laus Veneris III.</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 22</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="22">22</biblScope>
+                  <biblScope unit="page" from="513" to="517"/>
+                  <idno type="fn">WR-03-02-22_n0513.xml</idno>
+                  <author ref="#wr-person-0228">Swinburne, Algernon Charles</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">SWINBURNE: LAUS VENENIS.</fw>
+            </fw>
+            <lg>
+               <l>Sie legte Hand auf mich, und festgeschmiegt</l>
+               <l>An sie, wie an den Leib die Seele liegt,</l>
+               <l>Hieng ich an ihrem Mund, vom schweren Hauch</l>
+               <l>Der vielen Wohlgerüche eingewiegt:</l>
+            </lg>
+            <lg>
+               <l>Zerriebnem Sandelholz, Gewürz und Wein,</l>
+               <l>Arabiens Räucherwerk und Spezerein,</l>
+               <l>Wie sie bei schwarzen Königen in Brauch —</l>
+               <l>Und so vergass ich alle Furcht und Pein,</l>
+            </lg>
+            <lg>
+               <l>Der Lobgesänge ungehörten Schwall</l>
+               <l>Und die Gebete ohne Widerhall,</l>
+               <l>Und fühlte, gleich von Feuer, das gering</l>
+               <l>An einem Ort entfacht, rasch überall</l>
+            </lg>
+            <lg>
+               <l>Im weiten Umkreis anwächst und sich mehrt,</l>
+               <l>Bald Glied um Glied von solcher Glut versehrt,</l>
+               <l>Wie sie wohl, da ich mich so schwer vergieng,</l>
+               <l>Einst in der Hölle meinen Leib verzehrt.</l>
+            </lg>
+            <lg>
+               <l>Fürwahr, es gibt kein besser Los als dies:</l>
+               <l>Dass wir gekannt der Liebe Bitternis,</l>
+               <l>Und dass uns aus der eisigen Region</l>
+               <l>Der Himmelsräume dann ein Bannstrahl stiess!</l>
+            </lg>
+            <lg>
+               <l>Wem ward je grössre Wonne offenbart</l>
+               <l>Als uns, zu nimmermüder Lust gepaart,</l>
+               <l>Die wir dem Tod entrissen seinen Lohn</l>
+               <l>Und tausendfach Erinnerung bewahrt?</l>
+            </lg>
+            <lg>
+               <l>Denn, wenn gleich Leib und Seele sich entzweit,</l>
+               <l>Trennt uns doch keine Macht der Ewigkeit.</l>
+               <l>Ich halte Dich mit meinen Händen fest</l>
+               <l>Und thue Deinen Willen allezeit.</l>
+            </lg>
+            <lg>
+               <l>Ich siegle mich Dir auf mit ganzer Macht,</l>
+               <l>Von Menschen und Geschicken unbewacht,</l>
+               <l>Bis Gott einst über Land und Meer entlässt</l>
+               <l>Die letzten Donner aus dem Grund der Nacht.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

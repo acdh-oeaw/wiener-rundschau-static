@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-08_n0183.xml" prev="WR-03-01-08_n0182.xml" next="WR-03-01-08_n0184.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 8, S. 183</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="08"/>
+                        <biblScope unit="page" n="n0183"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0602">
+                  <title level="a">Knabe und Herrin</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 8</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="181" to="183"/>
+                  <idno type="fn">WR-03-01-08_n0181.xml</idno>
+                  <author ref="#wr-person-0198">Schaukal, Dr. Richard</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">SCHAUKAL: KNABE UND HERRIN.</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Knabe</hi>.</p>
+            <lg>
+               <l>Du ahnst es nicht, wie Deine Worte strafen.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Die Frau</hi>.</p>
+            <lg>
+               <l>Ich will nicht strafen, um nicht zu verzeihen.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Knabe</hi>.</p>
+            <lg>
+               <l>O lass Dir meine stillen Qualen künden!</l>
+               <l>Der Abend war’s, da Dich der fremde Ritter,</l>
+               <l>Der Herr von Xanten, dem die rothe Narbe</l>
+               <l>So männlich-muthig durch die Wange glüht,</l>
+               <l>Dessen herrisches und wie in Stolz verharrendes Schreiten</l>
+               <l>Rachegedanken an seiner Verwegenheit wachrief,</l>
+               <l>Mit seinen hämischen und wie sorglos lächelnden Worten</l>
+               <l>Pries und laut und scheulos um Deine Farben</l>
+               <l>Dich, die Erröthende, fast doch Erzürnte, ansprach.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Die Frau</hi>.</p>
+            <lg>
+               <l>Standest Du hinter dem Stuhle? Ich weiss Dich mir nimmer zugegen.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Knabe</hi>.</p>
+            <lg>
+               <l>Wohl, ich war’s. Und höher und zorniger schwoll mir</l>
+               <l>Die des Waffenkleides noch nicht gewürdigte Brust.</l>
+               <l>Hätt’ ich den Dolch besessen, mit dem Du einst spielend mir drohtest.</l>
+               <l>Damals in glücklicher’n Zeiten, da ich Dir wirklich ein Kind war,</l>
+               <l>Tief in das Herz ihm hätt’ ich den scharfen gestossen,</l>
+               <l>Damals, Herrin, im Zorne, verstarb mir die Kindheit,</l>
+               <l>Und in der Lohe der unehrerbietigen Worte</l>
+               <l>Wuchs mir Dein Wesen zur Qual der entfesselten Wünsche.</l>
+               <l>Wie ein Träumender war ich bisher und plötzlich ganz Wachen;</l>
+               <l>Seit dem Tage verzehrt sich in Angst und bleichendem Sinnen</l>
+               <l>Mein ohnmächtiges Wollen — und heute hat es gesprochen.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Die Frau</hi>.</p>
+            <lg>
+               <l>Du sollst mir in den Kampf, dem Herrn will ich sagen,</l>
+               <l>Dass er Dir Wehr und Helm und eine Fährte gibt,</l>
+               <l>Auf der Dein Ross nach einem Gegner schreitet.</l>
+               <l>Ich aber will an Deinem Ehrentag</l>
+               <l>Dir in die Welt, in der Du mich vergessen</l>
+               <l>Und rasch und anderssüchtig still begraben wirst,</l>
+               <l>Mit meinem Schleier ein Geleite winken,</l>
+               <l>Dann in die Kammer geh’n und um die Jugend weinen.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

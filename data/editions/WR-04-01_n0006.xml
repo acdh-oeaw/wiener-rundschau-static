@@ -1,0 +1,204 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-01_n0006.xml" prev="WR-04-01_n0005.xml" next="WR-04-01_n0007.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 1, S. 6</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0006"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0785">
+                  <title level="a">Die Kaiserin</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 1</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="1" to="28"/>
+                  <idno type="fn">WR-04-01_n0001.xml</idno>
+                  <author ref="#wr-person-0232">Khnopff, Fernand</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0786">
+                  <title level="a">Farbe und Linie, I.</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 1</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="2" to="6"/>
+                  <idno type="fn">WR-04-01_n0002.xml</idno>
+                  <author ref="#wr-person-0206">Lindner, Anton</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0787">
+                  <title level="a">Aus ihrem Tagebuche : Ein December-Abend</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 1</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="6" to="8"/>
+                  <idno type="fn">WR-04-01_n0006.xml</idno>
+                  <author ref="#wr-person-0004">Altenberg, Peter</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">ALTENBERG: EIN DECEMBER-ABEND.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">der doch kraft seiner coloristischen<lb/>
+Souveränität gedankenlos bis in das letzte<lb/>
+Restchen seiner Nuancen ist, sind die<lb/>
+Farben-Empfindungen trotz alledem Sub-<lb break="no"/>
+strate unmalerischer Associations-Vor-<lb break="no"/>
+stellungen. Leugnet man also doch —<lb/>
+wenn auch nur innerhalb der Bewusstseins-<lb break="no"/>
+Sphäre — die äußerste Consequenz des<lb/>
+rein ästhetischen Kunstbetrachtens, die in<lb/>
+der Ansicht wurzelt, dass die Welt der<lb/>
+Linie und Farbe (eine durchaus organische<lb/>
+und exclusive Welt!) mit der Welt<lb/>
+außerhalb der Linie und Farbe gar nichts<lb/>
+gemein habe, dann wird man <hi rend="text-spaced">Lotzes</hi>
+                        <lb/>
+nicht vergessen dürfen, der die so räthsel-<lb break="no"/>
+hafte, psychische Wirkung der äußeren<lb/>
+Umrisse und Linien im Raum — allerdings<lb/>
+mit Zuhilfenahme eines <hi rend="text-spaced">associativen</hi>
+                        <lb/>
+Factors — herrlich gedeutet hat:</p>
+                     <milestone unit="untyped-start"/>
+                     <p>»Die Gewalt der (in unserem Innern)<lb/>
+herrschenden Strebungen trifft nicht allein den<lb/>
+Ablauf der Vorstellungen und Gefühle; sie zeigt<lb/>
+sich auch durch angeborene Notwendigkeit<lb/>
+in <hi rend="text-spaced">äußeren</hi>, leiblichen <hi rend="text-spaced">Bewegungen</hi>, die<lb/>
+eine Brücke von dem geistigen Werte des Ge-<lb break="no"/>
+dankens zu der <hi rend="text-spaced">sinnlichen Darstellung</hi>
+                        <lb/>
+schlagen. Zwar auch ohne dies würden ein-<lb break="no"/>
+fache, strenge <hi rend="text-spaced">Zeichnungen im Raume</hi>,<lb/>
+an sich bedeutungslos, durch den wohlthuenden<lb/>
+Wechsel der Anspannung und Ruhe, den sie<lb/>
+dem <hi rend="text-spaced">umlaufenden Auge</hi> gewähren, die<lb/>
+ersten Spuren einer noch spielenden Schönheit<lb/>
+verrathen; aber wer einmal seine eigene Stimme<lb/>
+vom Schmerz gebrochen fand und die bebende<lb/>
+Anspannung der Glieder im unterdrückten Zorne</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">fühlte, für den ist das <hi rend="text-spaced">sinnlich</hi>
+                        <hi rend="text-spaced">Anschau</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">bare</hi> redend geworden, und was er selbst<lb/>
+äußerlich kundzugeben genöthigt war, wird er<lb/>
+unter jeder ähnlichen, fremdher dargebotenen<lb/>
+Erscheinung wieder vermuthen. Man darf<lb/>
+glauben, dass auf solchen Erfahrungen am<lb/>
+meisten unsere Beurtheilung schöner, <hi rend="text-spaced">räum</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">licher</hi>
+                        <hi rend="text-spaced">Umrisse</hi> beruht. Wenn es immer ver-<lb break="no"/>
+geblich gewesen ist, <hi rend="text-spaced">für die Schönheit<lb/>
+eines solchen Umrisses eine</hi>
+                        <hi rend="text-spaced">wissen</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">schaftlich</hi>
+                        <hi rend="text-spaced">berechenbare Bedingung zu<lb/>
+finden</hi>, so rührt es daher, weil er <hi rend="text-spaced">nicht<lb/>
+durch sich selbst</hi>, sondern durch <hi rend="text-spaced">Erin</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">nerungen</hi> wirkt. Wer einmal eine theure<lb/>
+Gestalt unter dem Gewicht des Grams in weh-<lb break="no"/>
+müthiger Ermattung sich beugen und sinken<lb/>
+sah, dem wird der <hi rend="text-spaced">Umriss solchen Neigens<lb/>
+und Beugens</hi>, dem inneren Auge vorschwe-<lb break="no"/>
+bend, die <hi rend="text-spaced">Ausdeutung unendlicher</hi>
+                        <hi rend="text-spaced">räum</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">licher</hi>
+                        <hi rend="text-spaced">Gestalten</hi> vorausbestimmen, und er<lb/>
+wird sich fruchtlos besinnen, wie so einfache<lb/>
+Züge der <hi rend="text-spaced">Zeichnung</hi> so innerliche <hi rend="text-spaced">Gefühle</hi> in<lb/>
+ihm anregen konnten <milestone unit="3dots"/> So bildet also das<lb/>
+leibliche Leben, mit Nothwendigkeit Inneres<lb/>
+durch äußere Bestimmungen auszudrücken<lb/>
+treibend, einen Übergang zum Verständnis<lb/>
+sinnlicher Gestalten und Umrisse <milestone unit="3dots"/>«</p>
+                     <milestone unit="untyped-end"/>
+                     <p>Da hätten wir also den <hi rend="text-spaced">associa</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">tiven</hi> Factor als mächtigstes Element<lb/>
+der Linienwirkung. Wie aber die Linien-<lb/>
+und Farbenwirkung in ihrer psychischen<lb/>
+                        <hi rend="text-spaced">Unmittelbarkeit</hi>, deren Möglichkeit<lb/>
+heute feststeht, im Gegensatze zu der<lb/>
+bisherigen Ästhetik <hi rend="text-spaced">ohne</hi> associativen<lb/>
+Hilfsfactor zu deuten wäre, mögen in<lb/>
+Ergänzung des bisher Gesagten die nächsten<lb/>
+Ausführungen ergeben.</p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="undefined"/>
+            <p>Ein Schlussartikel folgt.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>AUS IHREM TAGEBUCHE: EIN DECEMBER-ABEND.<lb/>
+Von <rs type="person" key="">PETER ALTENBERG</rs> (Wien).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Der Winter ist draußen, in der<lb/>
+Landschaft, in der Ebene, auf den<lb/>
+Hügeln.</p>
+                     <p>Der Schnee schreit unter dem Tritte,<lb/>
+wie neues, unschmiegsames Leder, und<lb/>
+wunderbare weiße Wellen sind überall.</p>
+                     <p>Die Lunge freut sich über das Eis,<lb/>
+welches sie einsaugt, aber Hände und<lb/>
+Ohren trauern.</p>
+                  </cell>
+                  <cell>
+                     <p>Der Winter ist draußen, in der<lb/>
+Ebene, und die Stadtbrunnen haben<lb/>
+Holzverkleidung.</p>
+                     <p>Aber in meinem Zimmer ist es<lb/>
+Sommer, Sommer!</p>
+                     <p>Ein Petroleum-Öfchen aus Messing<lb/>
+mit einem eisernen Reservoire für<lb/>
+singendes Wasser ist vorhanden. Dann<lb/>
+ein Gewand aus seidenweichem, weißem</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

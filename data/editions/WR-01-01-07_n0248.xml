@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-07_n0248.xml" prev="WR-01-01-07_n0247.xml" next="WR-01-01-07_n0249.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 7, S. 248</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="07"/>
+                        <biblScope unit="page" n="n0248"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-02-15">15 2 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0077">
+                  <title level="a">Stimmungen</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 7</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="247" to="248"/>
+                  <idno type="fn">WR-01-01-07_n0247.xml</idno>
+                  <author ref="#wr-person-0035">Neumann, Alfred</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">248</fw>
+               <fw type="ctext">NEUMANN.</fw>
+            </fw>
+            <p>Seitdem waren einige Stunden vergangen, die meisten<lb/>
+Gäste schon fort.</p>
+            <p>Grell leuchtete das Licht im Saale.</p>
+            <p>»Drei Ass« <milestone unit="3dots"/> »Drei Könige« <milestone unit="3dots"/> »Drei Damen« <milestone unit="3dots"/>
+            </p>
+            <p>»Drei Damen,« murmelte der Schreibende, »ich habe<lb/>
+nur <hi rend="text-spaced">eine</hi> gehabt, und mit ihr habe ich meine Partie verloren.«</p>
+            <p>Dann schrieb er wieder weiter, ohne dabei aufzusehen,<lb/>
+aus seinem Glase trinkend und in starken Zügen rauchend.</p>
+            <p>Um drei Uhr wurde das Café gesperrt; der Mann am<lb/>
+Lesetische nahm seine Schriften, zahlte und ging als Letzter.</p>
+            <p>»Ein ekelhafter Mensch,« sagte der eine der Kellner,<lb/>
+die ihm müde und übernächtig nachsehen, »ein Nacht-<lb break="no"/>
+vogel«.</p>
+            <p>»Kein Nachtvogel,« declamirte der Andere, sich genial<lb/>
+durch das wohl frisirte Haar streichend (in früheren Jahren<lb/>
+war er Statist an der »Burg« gewesen und wusste, wie es<lb/>
+Sonnenthal macht). »Ein Unglücklicher, der vor sich selbst<lb/>
+flieht. Ich kenne das!«</p>
+            <p>Und mit düsterer Miene, jeder Zoll Weltschmerz, gieng<lb/>
+er zur Cassa, um abzurechnen und der ihn bewundernden<lb/>
+Buffetdame zwei falsche Kronen anzuhängen.</p>
+            <p>Und die Stimmung des schreibenden Mannes am Lese-<lb break="no"/>
+tische?</p>
+            <p>Sehr unglücklich, meine verehrten Herren Kellner, sehr<lb/>
+unglücklich <milestone unit="5dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

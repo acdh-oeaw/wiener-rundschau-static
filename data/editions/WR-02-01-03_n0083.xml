@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-03_n0083.xml" prev="WR-02-01-03_n0082.xml" next="WR-02-01-03_n0084.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 3, S. 83</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0083"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-12-15">15 12 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0321">
+                  <title level="a">Vision</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="81" to="88"/>
+                  <idno type="fn">WR-02-01-03_n0081.xml</idno>
+                  <author ref="#wr-person-0123">Tetmajer, Kazimir</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">VISION.</fw>
+               <fw type="pn">83</fw>
+            </fw>
+            <p rend="no-intend">eingeschlummert bin, ich weiss es nicht, aber wie sollte ich, wenn ich<lb/>
+das Meer vollkommen klar vor mir liegen sah wie eben jetzt und<lb/>
+plötzlich auf dem Ocean, dort — vom Süden her — ein Schiff erblickte,<lb/>
+ganz eis- und schneebedeckt. Das Verdeck, Mäste, Raaen und Segel,<lb/>
+Alles in Schnee und Eis gehüllt von erschreckender Weisse.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Priester</hi>. Und darum bist du so erschrocken, so entsetzt<lb/>
+aufgefahren?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Maria</hi>. Wie du bleich geworden bist! Du bist es noch!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Andreas</hi>. Weil ich gesehen habe, was ich nicht zu fassen ver-<lb break="no"/>
+mag. Um das Schiff herum war das Meer eine einzige grosse einförmige<lb/>
+Eiswüste. Weitab erst begann das offene Wasser, das hier zum Meer-<lb break="no"/>
+busen herfloss, wie wir es sehen. Plötzlich verliessen zwei Männer das<lb/>
+Schiff und richteten ihre Schritte über Eis und Schnee dem Meerbusen<lb/>
+zu. Ich sah zu ihnen hin, wie sie immer grösser und grösser wurden,<lb/>
+aber ich konnte nicht erkennen, wer sie waren. Da — als sie an den<lb/>
+Rand der Eisfläche gelangt waren und das Wasser anfing, zögerte der<lb/>
+Eine, als fürchte er weiter zu schreiten, während der Andere auf dem<lb/>
+Wasser hinschritt, als wäre es festes Land. Da fasste mich ein jäher<lb/>
+Schreck, ich fuhr auf, denn in diesem Augenblick hatte ich sie erkannt:<lb/>
+der übers Wasser schritt, war Gerhard, der am Rande des Eises Stehen-<lb break="no"/>
+gebliebene war <milestone unit="3dots"/> (er sieht mit unsicherem Blick nach Maria hin und fügt leiser<lb/>
+hinzu): Carl <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <p>(Schweigen.)</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Priester</hi>. Du hast geträumt, aber welch ein sonderbarer<lb/>
+Traum <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Andreas</hi>. So muss es wohl gewesen sein, Oheim, aber noch<lb/>
+nie habe ich im Traume etwas so deutlich gesehen. In dem Augen-<lb break="no"/>
+blick, wo ich aufsprang, sah ich trotz der Entfernung die Gesichter<lb/>
+von Gerhard und Carl so deutlich, wie ich die euren sehe. Sie waren<lb/>
+todtenbleich <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Maria</hi>. Welch sonderbarer Traum <milestone unit="3dots"/> Onkel Anselm, wenn es<lb/>
+nun kein Traum wäre?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Priester</hi>. Was kann es denn sonst sein?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Maria</hi>. Das weiss ich nicht, das weiss ich nicht, aber ich fürchte<lb/>
+mich! Ich zittere noch mehr um sie als bisher. Ich will nicht denken.<lb/>
+Bei uns am Meeresstrande geschehen oft ganz sonderbare Dinge. Fast<lb/>
+nie verunglückt einer der Unseren in der Ferne, ohne es vorher anzu-<lb break="no"/>
+kündigen. Du bist lange von hier fortgewesen, Oheim. Du hast es ver-<lb break="no"/>
+gessen. Und doch musst du dich daran erinnern, dass, als unser Gross-<lb break="no"/>
+vater während einer stürmischen Nacht mit seiner Barke an einem<lb/>
+Felsen zerschellte und unterging, die Grossmutter plötzlich durchs Fenster<lb/>
+zwei vorgestreckte Hände mit gespreizten Fingern erblickte, wie die<lb/>
+eines Ertrinkenden, der mit den Wellen ringt. Meine selige Mutter hat<lb/>
+es mir so manchesmal erzählt.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

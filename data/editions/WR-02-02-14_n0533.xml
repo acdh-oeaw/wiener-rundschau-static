@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-14_n0533.xml" prev="WR-02-02-14_n0532.xml" next="WR-02-02-14_n0534.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 14, S. 533</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="14"/>
+                        <biblScope unit="page" n="n0533"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-06-01">1 6 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0437">
+                  <title level="a">Schiffer Rejersen vom »Südstern«</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 14</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="14">14</biblScope>
+                  <biblScope unit="page" from="533" to="542"/>
+                  <idno type="fn">WR-02-02-14_n0533.xml</idno>
+                  <author ref="#wr-person-0147">Hamsun, Knut</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>SCHIFFER REJERSEN VOM »SÜDSTERN«.<lb/>
+Von <rs type="person" key="">Knut Hamsun</rs>.<lb/>
+Einzig autorisierte Übersetzung aus dem Norwegischen von <rs type="person" key="">E. Brausewetter</rs>.</title>
+            </ab>
+            <ab>
+               <title>I.</title>
+            </ab>
+            <p>Eine alte getheerte Stockfisch-Yacht gleitet nach Wiek hinein<lb/>
+und schleppt eine Jolle hinter sich her. Die Yacht heisst: »Der Süd-<lb break="no"/>
+stern« und ihr Schiffer Rejersen. Sie sind alt und gut bekannt in<lb/>
+Wiek, sowohl die Yacht, als der Fischer, sie sind dort viele ge-<lb break="no"/>
+segnete Jahre gewesen, haben im Saitenfjord Fische gedörrt, Stock-<lb break="no"/>
+fische für die Spanier.</p>
+            <p>Auf den Höhen ringsum waren keine Menschen zu sehen, nur<lb/>
+tief drinnen in der Bucht, wo die Bootschuppen standen, spielten<lb/>
+einige kleine Kinder.</p>
+            <p>Früher, vor zwanzig Jahren, als der »Südstern« zum erstenmale<lb/>
+draussen vor dem Trockenplatz ankerte, da war es anders, da standen<lb/>
+Frauen und Kinder bewundernd ringsum auf allen hohen Stellen und<lb/>
+ein Fischer nach dem andern ruderte zum »Südstern« hinaus, um ihn<lb/>
+zu empfangen und nach Neuigkeiten zu fragen.</p>
+            <p>Es sind vier Mann auf Deck; aber Rejersen steht selbst am<lb/>
+Steuer, das thut er unter wichtigen Umständen stets. Er steuert noch<lb/>
+wie in alten Tagen seine kleine Fisch-Yacht mit einer Feierlichkeit, als<lb/>
+wäre es ein ungeheures Dampfschiff. Seine Haare und sein Bart sind<lb/>
+grau, aber einst hatte er schwarze Haare und schwarzen Bart, das<lb/>
+war vor zwanzig Jahren, als er die erstenmale nach dem Saitenfjord<lb/>
+kam, als er noch ein junger Mann war. Seine Jacke ist abgenutzt<lb/>
+und zerrissen, es ist zurückgegangen mit Schiffer Rejersens Ansehen;<lb/>
+aber beim Einsegeln ist er der Admiral seines Schiffes und ertheilt<lb/>
+mit Löwenstimme seine Befehle.</p>
+            <p>»Fallen lassen!« ertönt das Commando.</p>
+            <p>Und der Anker fällt.</p>
+            <p>Der mächtige Laut der Kette rollt mit der Stimme des Mannes<lb/>
+um die Wette. Aber die Zeiten haben sich geändert. Die Postschiffe<lb/>
+haben angefangen an dem Handelsplatz anzulaufen, und die Leute<lb/>
+haben nun vor dem alten, ehrlichen Yacht-Schiffer keine sonderliche<lb/>
+Hochachtung mehr.</p>
+            <p>Als die spielenden Kinder bei den Bootschuppen hörten, dass<lb/>
+ein Anker ausgeworfen wurde, blickten sie einmal nach der Bucht<lb/>
+hinaus und spielten dann weiter, gerade als wenn eines zum andern<lb/>
+gesagt hätte, dass es nur Rejersen mit seiner Yacht wäre.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

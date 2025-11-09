@@ -1,0 +1,251 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-04_n0087.xml" prev="WR-03-01-04_n0086.xml" next="WR-03-01-04_n0088.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 4, S. 87</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="04"/>
+                        <biblScope unit="page" n="n0087"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0563">
+                  <title level="a">Die Schlüssel des Himmelreichs. (Commentar. Dritter und Fünfter Act)</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 4</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="81" to="87"/>
+                  <idno type="fn">WR-03-01-04_n0081.xml</idno>
+                  <author ref="#wr-person-0175">Strindberg, August</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">STRINDBERG: DIE SCHLÜSSEL DES HIMMELREICHS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <lg>
+                        <l>2. Prometheus.</l>
+                     </lg>
+                     <lg>
+                        <l>Hier ist Prometheus, wohl der Kuckuck</l>
+                        <l>In Deiner Himmelsstürmer Schaar,</l>
+                        <l>Im übrigen verwandt dem Riesen,</l>
+                        <l>Gedenkst doch sein? Willst lieber ihn</l>
+                        <l>vergessen! —</l>
+                     </lg>
+                     <lg>
+                        <l>3. Jakob ringt mit Jehovah.</l>
+                     </lg>
+                     <lg>
+                        <l>Hier sieh den Patriarchen Jakob,</l>
+                        <l>Der kämpfen wollte wider seinen Gott</l>
+                        <l>Mit dem Erfolge, den die Bibel lehrt. —</l>
+                        <l>Willst mehr Du sehen, sage nur ein Wort!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Ich sah genug, hab’s auch verstanden!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>So bist des Himmelsfluges Du nun satt!</l>
+                        <l>Wohlan, zurück denn auf die Erde!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Ein Wort noch! Diese Leiter hier?</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>O, das ist die berühmte Jakobsleiter. —</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Auf der die Engel steigen auf —</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Und nieder!</l>
+                        <l>Mein Seel’, ich glaub’, ’s lässt Dich nicht</l>
+                        <l>ruh’n,</l>
+                        <l>Dem Himmelswahn noch nachzujagen!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Der steckt in einem, wie die Sünde</l>
+                        <l>selbst!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Kein Wunder das! Demselben Baum</l>
+                        <l>Entspross er wie die Sünde.</l>
+                        <l>Wohlan, klimm auf, versuch’ die Leiter</l>
+                        <l>Und trägt sie Dich nicht himmelan</l>
+                        <l>Steht sie doch fest auf Erden.</l>
+                        <l>Nun scheiden wir, doch eh Du gehst,</l>
+                        <l>Nimm hier die kleine Sammlung Angedenken</l>
+                        <l>Von einem, der Dich führt’ ins Sagenland</l>
+                        <l>Und so verplauderte den Winterabend.</l>
+                        <l>Als gleich dem Regen weint’ des Schmiedes</l>
+                        <l>Gram,</l>
+                        <l>Zog ich aus meinem grossen Korb</l>
+                        <l>Des Spielzeugladens beste Waren,</l>
+                        <l>Gebrauchend sie nach Zauberart.</l>
+                     </lg>
+                     <p>(Während des Folgenden nimmt er Spielsachen<lb/>
+und Märchenbücher aus dem Korbe und legt<lb/>
+sie auf den Tisch.)</p>
+                  </cell>
+                  <cell>
+                     <lg>
+                        <l>Hier sieh, den Riesen, greulich anzuschaun,</l>
+                        <l>Der Felsen schleudert, und die Kleinen</l>
+                        <l>schluckt.</l>
+                        <l>Da haben wir den winz’gen Däumling,</l>
+                        <l>Der Riesen frässe, käm’ er ihnen bei,</l>
+                        <l>Und seine treue Gattin Cendrillon.</l>
+                        <l>Sieh hier die Sagen mit den hübschen</l>
+                        <l>Bildern,</l>
+                        <l>Den Ritter Blaubart mit den Frauen,</l>
+                        <l>St. Peter, der auf Erden wandelt,</l>
+                        <l>Ob er auch lang schon, lange todt,</l>
+                        <l>Den Schuster aus Jerusalem, Schlaraffen-</l>
+                        <l>land — — —</l>
+                        <l>Lass Dir’s genügen und trags heim den</l>
+                        <l>Kindern.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Was soll der Hohn, der grausamer denn</l>
+                        <l>all die Bilder?</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Nie sprach ich je ein wahrer Wort! —</l>
+                        <l>Steig auf die Jakobsleiter dort</l>
+                        <l>Und Du wirst sehn — ja, stelle Dir nur</l>
+                        <l>vor —</l>
+                        <l>Dort wirst zu allererst Du sehn</l>
+                        <l>Die Schmiede und Dein Kämmerlein;</l>
+                        <l>Drin an der Wand drei kleine Bettchen.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Die Räume will ich niemals wiederschaun!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Und in der Kammer findest Du Bekannte!</l>
+                        <l>Doch glaub’ nur nicht, der Himmel falle</l>
+                        <l>nieder,</l>
+                        <l>Und dass auf Leitern seine Engel wallen.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>(Die Kinder des Schmiedes erscheinen in der<lb/>
+Nische.)</p>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>O, meine Kinder!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Nun geh ich fort,</l>
+                        <l>Denn meine Zauberkunst vermag hier</l>
+                        <l>nichts.</l>
+                        <l>Bau nun ein neues Himmelreich Dir selbst,</l>
+                        <l>Glaub denen nicht, die mit den Schlüsseln</l>
+                        <l>klappern,</l>
+                        <l>Vertrau der Wirklichkeit und nicht dem</l>
+                        <l>Schein,</l>
+                        <l>Bau’ keinen Babelsthurm; er stürzt Dir ein.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>(Der Vorhang fällt. — Schluss.)</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

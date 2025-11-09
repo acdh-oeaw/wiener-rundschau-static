@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-02_n0030.xml" prev="WR-04-02_n0029.xml" next="WR-04-02_n0031.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 2, S. 30</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0030"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0795">
+                  <title level="a">Drei Gedichte</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 2</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="29" to="30"/>
+                  <idno type="fn">WR-04-02_n0029.xml</idno>
+                  <author ref="#wr-person-0263">Crane, Walter</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">CRANE: DREI GEDICHTE.</fw>
+            </fw>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>SONETT.<lb/>
+                  <milestone unit="hr"/> MEINER FRAU. <milestone unit="hr"/>
+               </title>
+            </ab>
+            <lg>
+               <l>Die Garbe hier, in deren Schatten Du,</l>
+               <l>Vor Mittagsglut geschützt, ruhn kannst mit mir,</l>
+               <l>In deren Schatten all das Leben wir</l>
+               <l>In Lichtern sehen, die vergehn im Nu,</l>
+            </lg>
+            <lg>
+               <l>Bevor zu Reichen nie gestörter Ruh</l>
+               <l>Die ZEIT entführt, was je wir hofften hier,</l>
+               <l>Was je gejauchzt, gebebt in mir und Dir —</l>
+               <l>Der Sonne streckt, der Heimat, sie sich zu.</l>
+            </lg>
+            <lg>
+               <l>Vielleicht verbirgt sie Blumen, die Dir hold</l>
+               <l>Als Kranz beschatten könnten Stirn und Brau,</l>
+               <l>Dir, die mit mir des Morgens Bürde trug?</l>
+            </lg>
+            <lg>
+               <l>Wenn auch nicht Roth, doch passt der Liebe Blau</l>
+               <l>Zum gelben Korn, und Deinen Namenszug</l>
+               <l>Schrieb Liebe selbst auf dieses Blau in Gold.*</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <p>Deutsch von <rs type="person" key="">Otto Hauser</rs>.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
+      </body>
+   </text>
+</TEI>

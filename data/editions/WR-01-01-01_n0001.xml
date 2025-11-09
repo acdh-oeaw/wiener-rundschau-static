@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-01_n0001.xml" prev="WR-01-01-00_i0006.xml" next="WR-01-01-01_n0002.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 1, S. 1</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0001"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-11-15">15 11 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0001">
+                  <title level="a">Alladine und Palomides</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="1" to="5"/>
+                  <idno type="fn">WR-01-01-01_n0001.xml</idno>
+                  <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>15. <hi rend="text-spaced">NOVEMBER</hi>, 1896</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="performance-start"/>
+            <ab>
+               <title>ALLADINE UND PALOMIDES.<lb/>
+Ein kleines Drama für Marionetten von <rs type="person" key="">Maurice Maeterlinck</rs>.<lb/>
+Autorisirte Uebersetzung von <rs type="person" key="">Marie Lang</rs>.</title>
+            </ab>
+            <milestone unit="persList-start"/>
+            <ab>
+               <title>PERSONEN:</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Ablamore</hi>.<lb/>
+                     <hi rend="text-spaced">Astolaine</hi>, Ablamore’s Tochter.<lb/>
+                     <hi rend="text-spaced">Alladine</hi>.<lb/>
+                  </cell>
+                  <cell>
+                     <hi rend="text-spaced">Palomides</hi>.<lb/>
+                     <hi rend="text-spaced">Palomidens</hi> Schwestern.<lb/>
+                     <hi rend="text-spaced">Ein Arzt</hi>.<lb/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="act-start"/>
+            <ab>
+               <title>I. ACT.</title>
+            </ab>
+            <p>
+               <hi rend="text-spaced">Parkwi1dniss</hi>.</p>
+            <p>
+               <hi rend="text-spaced">Ablamore</hi> beugt sich über die schlafende <hi rend="text-spaced">Alladine</hi>.</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Ablamore</hi>.</p>
+            <p>Ich glaube, der Schlaf herrscht Tag und Nacht unter<lb/>
+diesen Bäumen. So oft sie mit mir gegen Abend hieher<lb/>
+kommt, schläft sie ein, kaum dass sie sich niedergelassen.<lb/>
+Ach! und ich muss mich darüber freuen <milestone unit="3dots"/> Begegnet<lb/>
+während des Tags, wenn ich zu ihr spreche, ihr Blick zu-<lb break="no"/>
+fällig dem meinen, dann ist er hart wie der eines Sclaven,<lb/>
+dem man soeben etwas Unmögliches befohlen hat <milestone unit="3dots"/> Allein<lb/>
+dies ist nicht ihr gewöhnlicher Blick <milestone unit="3dots"/> Ich sah ihn oftmals,<lb/>
+wenn sie ihre schönen Augen auf Kindern, auf dem Walde,<lb/>
+dem Meere oder der Umgebung weiden liess. Sie lächelt<lb/>
+mich an, wie man den Feind anlächelt; und ich wage es<lb/>
+nicht, mich über sie zu beugen, ausser in den Momenten, in<lb/>
+denen mich ihre Augen nicht mehr sehen können <milestone unit="3dots"/> Einige<lb/>
+Augenblicke sind jeden Abend mein; und den übrigen Tag</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-10_n0149.xml" prev="WR-04-10_n0148.xml" next="WR-04-10_n0150.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 10, S. 149</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="10"/>
+                        <biblScope unit="page" n="n0149"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0868">
+                  <title level="a">Les Muses quittent Apollon</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 10</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="133" to="156"/>
+                  <idno type="fn">WR-04-10_n0133.xml</idno>
+                  <author ref="#wr-person-0285">Moreau, Gustave</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0873">
+                  <title level="a">Zur Geschichte der Passionsspiele</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 10</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="147" to="151"/>
+                  <idno type="fn">WR-04-10_n0147.xml</idno>
+                  <author ref="#wr-person-0244">Thomassin, Carl von</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">THOMASSIN: ZUR GESCHICHTE DER PASSIONSSPIELE.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">zu umfangreichen dramatischen Vor-<lb break="no"/>
+stellungen benützt. Bereits im Jahre <date>1366</date>
+                        <lb/>
+werden in Prag die <hi rend="italics">Ludi Theatrales</hi> ver-<lb break="no"/>
+boten. In England stellte vom XIV. Jahr-<lb break="no"/>
+hunderte an jede Zunft, welche an der<lb/>
+Procession theilnahm, ein Ereignis aus der<lb/>
+heiligen Geschichte dar. Die Vorstellungen<lb/>
+fanden auf fahrbaren Gerüsten statt, auf<lb/>
+welchen die Schauspieler die Procession<lb/>
+mitmachten; letztere wurde für die Auf-<lb break="no"/>
+führung der einzelnen Scenen unter-<lb break="no"/>
+brochen. Über ähnliche Frohnleichnams-<lb break="no"/>
+theater in Deutschland (z. B. in Zerbst,<lb/>
+Freiburg im Breisgau, Künzelsau, München)<lb/>
+sind mehrere Berichte aufgefunden worden.*<lb/>
+Das Gelungendste war offenbar das Kün-<lb break="no"/>
+zelsauer Frohnleichnamsspiel vom Jahre<lb/>
+                        <date>1479</date>, das die ganze Weltgeschichte von<lb/>
+der Schöpfung bis zum jüngsten Gerichte<lb/>
+umfasst.</p>
+                     <p>Neben den Mysterien und Orakel-<lb break="no"/>
+spielen tauchten am Ende des Mittelalters<lb/>
+auch die sogenannten »<hi rend="text-spaced">Moralitäten</hi>«<lb/>
+auf. In diesen moralisch-allegorischen<lb/>
+Spielen wurden Tugenden und sonstige<lb/>
+Abstracta personificiert. Diese Personifi-<lb break="no"/>
+cationen fanden sich zum Teil schon<lb/>
+in früheren Schauspielen, z. B. in dem<lb/>
+                        <hi rend="italics">Ludus Paschalis de adveniu et in-<lb break="no"/>
+teritu Antichristi</hi> (<date>1160</date>) und im Bene-<lb break="no"/>
+dictbeuerer Weinachtsspiel; in demselben<lb/>
+treten die Gestalten der Kirche und Syna-<lb break="no"/>
+goge, Barmherzigkeit und Gerechtigkeit<lb/>
+auf. Um die Ausbildung der Moralitäten<lb/>
+bemühte sich insbesondere die Corporation<lb/>
+der <hi rend="italics">Clercs</hi>, der rechtskundigen Gehilfen<lb/>
+in Paris. Dieselbe pflegte gewöhnlich bei<lb/>
+Aufstellung des Maibaumes im Hofe des<lb/>
+Justizpalastes lustige Stücke aufzuführen.<lb/>
+Als nun der Erfolg der »Mystéres«,<lb/>
+welche die »<hi rend="italics">Confrérie de la Passion</hi>«<lb/>
+in der französischen Hauptstadt aufführte,<lb/>
+immer mehr zunahm, dachten sie daran,<lb/>
+selbst ernste Stücke zu geben. Nun hatte<lb/>
+aber die Passionsbruderschaft das Privi-<lb break="no"/>
+legium für die »<hi rend="italics">Mystéres</hi>«, so dass sie<lb/>
+sich gezwungen sahen, eine neue Art<lb/>
+geistlicher Dramen zu erfinden. — Auch<lb/>
+in anderrn Ländern wurden die Morali-</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">täten bald sehr verbreitet. Sehr beliebt<lb/>
+war eine englische Moralität mit dem<lb/>
+Titel »<hi rend="italics">Everyman</hi>«, in der das mensch-<lb break="no"/>
+liche Geschick zur Darstellung kam.</p>
+                     <p>Am Ende des Mittelalters war das<lb/>
+geistliche Mysterienspiel vielfach bereits<lb/>
+in so hohem Grade entartet, dass nicht<lb/>
+nur die rohesten Zwischenspiele aufge-<lb break="no"/>
+führt wurden, sondern auch die Scenen<lb/>
+der geistlichen Dramas selbst im bur-<lb break="no"/>
+lesken Tone verfasst waren. Übrigens<lb/>
+kommen schon in einzelnen Schauspielen<lb/>
+des XIV. Jahrhunderts (z. B. im Inns-<lb break="no"/>
+brucker Passionsspiel) viele Stellen mit<lb/>
+derbem Humor vor. Unglaublich ist es<lb/>
+übrigens, dass auch mit der Person Christi<lb/>
+in den Passionsspielen Scherz getrieben<lb/>
+wurde. Im Donaueschinger Passionsspiele<lb/>
+z. B. wird Jesu bei seinem ersten Ver-<lb break="no"/>
+höre ein Stuhl hingestellt. Als er sich<lb/>
+auf denselben setzen will, zieht ihn<lb/>
+Malchus weg, so dass Jesus zur Erde<lb/>
+fällt. Im Augsburger und Alsfelder Pas-<lb break="no"/>
+sionsspiele führen die Juden, während<lb/>
+Christus am Kreuze hängt, einen grotesken<lb/>
+Tanz um dasselbe unter Gesängen auf.<lb/>
+Einzelne Passionsspiele (wie z. B. ein<lb/>
+Wiener Osterspiel aus dem Jahre <date>1472</date>)<lb/>
+sind überhaupt vom Anfang bis zum Ende<lb/>
+im burlesken Tone geschrieben. In einem<lb/>
+französischen <hi rend="italics">Mystère</hi> wird nach der<lb/>
+Kreuzigungsscene Gott der Vater, der sie<lb/>
+auf seinem Himmelsthron verschlafen hat,<lb/>
+von einem Engel geweckt, der zu ihm<lb/>
+vorwurfsvoll sagt:</p>
+                     <milestone unit="verse-start"/>
+                     <lg>
+                        <hi rend="italics">
+                           <l>„Père eternel, vous avez tort,</l>
+                           <l>Et devriez avoir vergogne,</l>
+                           <l>Votre fils bien aimé est mort</l>
+                           <l>Et vous dormez comme un yvrogne.“**</l>
+                        </hi>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>Neben derartigen Scenen finden wir<lb/>
+mitunter wieder harmlosere Scherze in<lb/>
+französischen Spielen, wie z. B. die Dar-<lb break="no"/>
+stellung der Teufelsküche in der fran-<lb break="no"/>
+zösischen Moralität: <hi rend="italics">Bien-avisé, mal-<lb break="no"/>
+avisé</hi>, die im Jahre <date>1439</date> in Rennes auf-<lb break="no"/>
+geführt wurde.***</p>
+                     <p>Die Ausartungen der geistlichen Spiele<lb/>
+veranlassten mit der Zeit auch die Parla-<lb break="no"/>
+mente, dagegen einzuschreiten. So unter-</p>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* C. v. Winterfeld, Zur Geschichte der h. Tonkunst, II., Leipzig. <date>1852</date>.</p>
+               <p>** H. <hi rend="text-spaced">Alt</hi>, Theater und Kirche in ihrem gegenseitigen Verhältnisse historisch dargestellt.<lb/>
+Berlin <date>1846</date>.</p>
+               <p>*** <hi rend="text-spaced">Parfait</hi>, Histoire des théâtre français II, 124 ss.; <hi rend="text-spaced">Callenberg</hi>, Das geistliche<lb/>
+Schauspiel des Mittelalters in Frankreich (Progr.) Mühlhausen i. Th. <date>1875</date>.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

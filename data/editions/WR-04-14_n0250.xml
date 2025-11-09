@@ -1,0 +1,277 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-14_n0250.xml" prev="WR-04-14_n0249.xml" next="WR-04-14_n0251.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 14, S. 250</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="14"/>
+                        <biblScope unit="page" n="n0250"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0912">
+                  <title level="a">Die platonische Liebe II.</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 14</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="14">14</biblScope>
+                  <biblScope unit="page" from="248" to="250"/>
+                  <idno type="fn">WR-04-14_n0248.xml</idno>
+                  <author ref="#wr-person-0297">Neera</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0913">
+                  <title level="a">Die Harmonie der Sphären</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 14</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="14">14</biblScope>
+                  <biblScope unit="page" from="250" to="253"/>
+                  <idno type="fn">WR-04-14_n0250.xml</idno>
+                  <author ref="#wr-person-0292">Bailly, Edmund</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BAILLY: DIE HARMONIE DER SPHÄREN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">ihr die Ehe verschafft hätte, denn sie<lb/>
+wollte und konnte nicht auf jene erhabene,<lb/>
+vollkommene und bedingungslose Hingabe<lb/>
+verzichten, die sie in ihrer zarten empfäng-<lb break="no"/>
+lichen Seele dem einzigen geliebten Manne<lb/>
+zu widmen entschlossen war. Was macht<lb/>
+es, dass das »eheliche Band« — unter<lb/>
+diesem Namen den Menschen bekannt —<lb/>
+die beiden nicht vereinte? Die Kraft der<lb/>
+Liebe liegt <hi rend="text-spaced">in der Liebe</hi> und nicht in<lb/>
+ihrer äußeren Form.</p>
+                     <milestone unit="asterisk"/>
+                     <p>Die Liebe, die sich auf den Pfaden<lb/>
+der Gedanken und Gefühle Nahrung sucht,</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">ist andererseits der wonnigste Lohn für<lb/>
+das Schaffensfieber des Künstlers. Die leiden-<lb break="no"/>
+schaftlichen Schriftsteller machten alle ir-<lb break="no"/>
+gend jemanden, der sie <hi rend="text-spaced">nie gesehen</hi>, in<lb/>
+sich verliebt. <hi rend="text-spaced">Darauf allein</hi> sollten die<lb/>
+Menschen eifersüchtig sein! Auf diese <hi rend="text-spaced">er</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">habenste</hi> Form der Liebe, die um uns<lb/>
+herum webt und lebt, gleich herrlichen tro-<lb break="no"/>
+pischen Pflanzen: die Reichen ziehen sie<lb/>
+als Luxus auf ihren Gütern und die Armen<lb/>
+betrachten sie neugierig als Absonderlich-<lb break="no"/>
+keit, ohne je daran zu denken, dass es ein<lb/>
+Land gibt, wo diese Pflanzen <hi rend="text-spaced">natürlich<lb/>
+aus dem Erdboden sprießen</hi>
+                        <milestone unit="2dots"/>
+                     </p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="undefined"/>
+            <p>Der Schlusstheil dieser Studie folgt im nächsten Hefte.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">DIE HARMONIE DER SPHÄREN</hi>.<lb/>
+II.<lb/>
+Von <rs type="person" key="">EDMUND BAILLY</rs> (Paris).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Das System der <hi rend="text-spaced">sphärischen</hi>
+                        <hi rend="text-spaced">Har</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">monien</hi>, das <hi rend="text-spaced">Censorin</hi> in seiner Schrift<lb/>
+                        <hi rend="italics">De die natali</hi> (I, Cap. 13) dem Pythagoras<lb/>
+zuschreibt, umfasst neun Töne und gehört<lb/>
+dem chromatischen Tongeschlecht der<lb/>
+Griechen an.* Hier seine Eintheilung:</p>
+                     <table>
+                        <row>
+                           <cell>ERSTER TETRACHORD:
+</cell>
+                        </row>
+                        <row>
+                           <cell>Von der ERDE zur SONNE — 
+</cell>
+                           <cell>1 Ton.
+</cell>
+                        </row>
+                        <row>
+                           <cell>Vom MONDE zu MERCUR — 
+</cell>
+                           <cell>½ Ton.
+</cell>
+                        </row>
+                        <row>
+                           <cell>Von MERCUR zu VENUS — 
+</cell>
+                           <cell>½ Ton.
+</cell>
+                        </row>
+                        <row>
+                           <cell>Von VENUS zur SONNE — 
+</cell>
+                           <cell>1½ Ton.
+</cell>
+                        </row>
+                        <row>
+                           <cell>ZWEITER TETRACHORD:
+</cell>
+                        </row>
+                        <row>
+                           <cell>Von der SONNE zu MARS — 
+</cell>
+                           <cell>1 Ton.
+</cell>
+                        </row>
+                        <row>
+                           <cell>Von MARS zu JUPITER — 
+</cell>
+                           <cell>½ Ton.
+</cell>
+                        </row>
+                        <row>
+                           <cell>Von JUPITER zu SATURN — 
+</cell>
+                           <cell>½ Ton.
+</cell>
+                        </row>
+                        <row>
+                           <cell>Von SATURN zu den FIXSTERNEN —
+</cell>
+                           <cell>1½ Ton.
+</cell>
+                        </row>
+                     </table>
+                     <p>Diese Verhältnisse sind offenbar ins-<lb break="no"/>
+gesammt ungenau und deuten wohl nur</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">die Reihenfolge und Ordnung in den<lb/>
+Wechselbeziehungen der Natur an. Diese<lb/>
+symbolische Gleichstellung und Verbindung<lb/>
+der Planeten mit den Stufen der diatonischen<lb/>
+Leiter wird an anderer Stelle in einer Studie<lb/>
+über die Wandlungen der modernen Scala<lb/>
+eingehend behandelt werden. Gleichwohl<lb/>
+könnten wir hier noch die interessante Art<lb/>
+in Betracht ziehen, in der ein griechischer<lb/>
+Schriftsteller aus der ersten Hälfte des drei-<lb break="no"/>
+zehnten Jahrhunderts, Georgios Pachy-<lb break="no"/>
+meres, in seinem <hi rend="italics">Tractat</hi> über <hi rend="italics">Harmonik</hi>
+                        <lb/>
+die Planeten-Scala formuliert:</p>
+                     <table>
+                        <row>
+                           <cell>SATURN
+</cell>
+                           <cell>Nete
+</cell>
+                           <cell>
+                              <hi rend="italics">la</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>JUPITER
+</cell>
+                           <cell>Paranete
+</cell>
+                           <cell>
+                              <hi rend="italics">sol</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>MARS
+</cell>
+                           <cell>Paramese
+</cell>
+                           <cell>
+                              <hi rend="italics">fa</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>SONNE
+</cell>
+                           <cell>Mese
+</cell>
+                           <cell>
+                              <hi rend="italics">mi</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>VENUS
+</cell>
+                           <cell>Lichanos
+</cell>
+                           <cell>
+                              <hi rend="italics">re</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>MERCUR
+</cell>
+                           <cell>Parhypate
+</cell>
+                           <cell>
+                              <hi rend="italics">ut</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>MOND
+</cell>
+                           <cell>Hypate
+</cell>
+                           <cell>
+                              <hi rend="italics">si</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Censorin bringt auch die Musen zu den Planeten in Beziehung. So entspricht Kalliope<lb/>
+der Erde, Thalia dem Mond, Euterpe dem Mercur, Erato der Venus, Melpomene der Sonne,<lb/>
+Klio dem Mars, Terpsichore dem Jupiter, Polyhymnia dem Saturn, Urania dem Firmament.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

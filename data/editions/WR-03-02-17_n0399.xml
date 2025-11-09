@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-17_n0399.xml" prev="WR-03-02-17_n0398.xml" next="WR-03-02-17_n0400.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 17, S. 399</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="17"/>
+                        <biblScope unit="page" n="n0399"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0699">
+                  <title level="a">»Blaubart und Ariane«</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 17</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="17">17</biblScope>
+                  <biblScope unit="page" from="393" to="415"/>
+                  <idno type="fn">WR-03-02-17_n0393.xml</idno>
+                  <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="act-start"/>
+            <ab>
+               <title>ZWEITER ACT.</title>
+            </ab>
+            <p>Langer unterirdischer Gang. Im Vordergrunde, fast unmittelbar am Rande der Bühne,<lb/>
+ein mächtiger, finstrer Gewölbebogen, darin eine schwere Flügelthür, die den ganzen<lb/>
+Hintergrund einnimmt. ARIANE und die AMME kommen von links die letzten Stufen<lb/>
+einer steinernen Treppe herunter; Ariane mit einem Schlüssel, die Amme mit einer<lb/>
+Lampe in der Hand.</p>
+            <milestone unit="speech-start"/>
+            <p>DIE AMME<lb/>
+(verstört und ausser Athem. Sie versucht, Ariane am Zipfel ihres Mantels zurück-<lb break="no"/>
+zuhalten):</p>
+            <p>Warte doch <milestone unit="3dots"/> Ich habe gehört <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Komm’ herunter <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DIE AMME:</p>
+            <p>Geh’ heute nicht hinein, die Lampe wird ausgehen <milestone unit="3dots"/> Man sieht schon<lb/>
+nichts mehr <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Dies ist schon die letzte Thür <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DIE AMME:</p>
+            <p>Nicht doch, man hört ja nichts. Es ist hier nicht, hörst Du was? Ich spitze<lb/>
+die Ohren vergebens <milestone unit="3dots"/> Hörst Du was? <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Halte doch die Lampe etwas höher <milestone unit="3dots"/> Ah! Hier ist das Schloss <milestone unit="3dots"/>
+               <lb/>
+Der grosse Schlüssel passt hinein <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DIE AMME:</p>
+            <p>Komm’, Ariane, komm’ <milestone unit="3dots"/> Ich mag nicht weiter <milestone unit="3dots"/> Es ist noch immer<lb/>
+Zeit <milestone unit="3dots"/> (Sie ergreift Ariane am Arme und will sie von der Thür fortziehen.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Lass’ mich doch. Warum kommst Du denn mit, um mich zu entmuthigen?<lb/>
+So hilft man denen nicht, die man liebt <milestone unit="3dots"/> Geh’ fort und gib mir Deine<lb/>
+Lampe, ich werde allein hineingehen <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DIE AMME:</p>
+            <p>Nein, nein, ich will ja auf Dich warten <milestone unit="3dots"/> Ich will mit Dir hineingehen <milestone unit="3dots"/>
+               <lb/>
+Nur geh’ nicht zu schnell <milestone unit="3dots"/> öffne nicht gleich <milestone unit="3dots"/> Ich wage die Augen nicht<lb/>
+aufzumachen <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE<lb/>
+(die Hand auf dem Schlüssel):</p>
+            <p>Oh, wie leicht der Schlüssel sich dreht. Die grosse Thür geht auf <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <p>(In der That theilt sich die grosse Thür bei der ersten Umdrehung in der Mitte;<lb/>
+die beiden Flügel verschwinden geräuschlos rechts und links in die Einlassungen des<lb/>
+dicken Mauerwerkes.)</p>
+         </div>
+      </body>
+   </text>
+</TEI>

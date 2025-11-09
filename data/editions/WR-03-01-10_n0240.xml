@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-10_n0240.xml" prev="WR-03-01-10_n0239.xml" next="WR-03-01-10_n0241.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 10, S. 240</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="10"/>
+                        <biblScope unit="page" n="n0240"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0628">
+                  <title level="a">Die Tragödie des d’Annunzio </title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 10</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="236" to="240"/>
+                  <idno type="fn">WR-03-01-10_n0236.xml</idno>
+                  <author ref="#wr-person-0210">Cippico, Anton</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0629">
+                  <title level="a">Kunst und Moral II.</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 10</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="240" to="242"/>
+                  <idno type="fn">WR-03-01-10_n0240.xml</idno>
+                  <author ref="#wr-person-0204">Ruskin, John</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">RUSKIN: KUNST UND MORAL.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">brunst und den in hochzüngelnde Flammen<lb/>
+wie in einen brennenden Scheiterhaufen<lb/>
+gehüllten »Bucentoro«, während die ver-<lb break="no"/>
+zweifelten Stimmen der Kämpfenden her-<lb break="no"/>
+überschallen, die den letzten Ruf: Pantea!<lb/>
+wie den Namen einer angerufenen Göttin<lb/>
+in die Lüfte senden.</p>
+                  </cell>
+                  <cell>
+                     <p>Dies ist der Inhalt und die Handlung<lb/>
+dieses »Traumes«, der eine der grössten<lb/>
+und wunderbarsten tragischen Conceptionen<lb/>
+ist, die ich kenne, ein hehres, in über-<lb break="no"/>
+menschlicher Kunstform ausgedrücktes Sym-<lb break="no"/>
+bol des stets von uns gekämpften Kampfes<lb/>
+um die Schönheit, die einzige Göttin.</p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">KUNST UND MORAL</hi>.<lb/>
+Von <rs type="person" key="">JOHN RUSKIN</rs>.<lb/>
+Übertragen von <rs type="person" key="">WILHELM SCHÖLERMANN</rs>.<lb/>
+II.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Wir kommen nun zum zweiten und<lb/>
+für uns praktisch wichtigsten Punkt:<lb/>
+»<hi rend="text-spaced">Worin besteht die Wirkung der<lb/>
+Kunst auf die Menschen in ethischer<lb/>
+Beziehung</hi>? <hi rend="text-spaced">Was hat sie gethan<lb/>
+für die nationale Moralität in ver-<lb break="no"/>
+gangenen Zeiten und welchen Effect<lb/>
+wird eine ausgedehntere Kenntnis<lb/>
+oder der Besitz derselben vermuth-<lb break="no"/>
+lich heute und künftighin auf uns<lb/>
+haben</hi>?«</p>
+                     <p>Zunächst stossen wir dabei auf manche<lb/>
+merkwürdige, ebenso düstere, wie unbe-<lb break="no"/>
+streitbare Thatsachen. Es gibt ländliche<lb/>
+Bevölkerungsschichten, welche kaum die<lb/>
+rohesten Versuche und Ansätze zu künst-<lb break="no"/>
+lerischer Bethätigung kennen, welche<lb/>
+dabei in verhältnismässiger Unschuld,<lb/>
+Rechtlichkeit und Zufriedenheit leben;<lb/>
+Während andererseits die grössten Grau-<lb break="no"/>
+samkeiten und Verirrungen wilder Stämme<lb/>
+häufig gepaart und verschlungen sind<lb/>
+mit grosser Begabung im Gebiete der<lb/>
+schmückenden (decorativen) Kunst.</p>
+                     <p>Gleichfalls lässt sich kaum leugnen,<lb/>
+dass kein Volk die höchste Stufe künst-<lb break="no"/>
+lerischer Entfaltung erreicht hat, ausser<lb/>
+in einer Periode der Verfeinerung, welche<lb/>
+befleckt ward durch häufige, gewaltsame<lb/>
+und selbst ungeheuerliche Verbrechen;<lb/>
+und schliesslich, dass das Erreichen der<lb/>
+Vollkommenheit in der künstlerischen<lb/>
+Ausdrucksfähigkeit bisher noch in jedem<lb/>
+Volk das Zeichen vom Beginn des Nieder-<lb break="no"/>
+ganges gewesen ist</p>
+                  </cell>
+                  <cell>
+                     <p>In Bezug auf die erste Erscheinung<lb/>
+sei es festgestellt, dass, obwohl das Gute<lb/>
+niemals aus dem Bösen entspringt, es zur<lb/>
+vollen Höhe erst durch den Kampf mit<lb/>
+dem Bösen entwickelt wird. Es gibt Land-<lb break="no"/>
+bevölkerungen, ganz vereinzelt in un-<lb break="no"/>
+berührten Gegenden, welche fast so schuld-<lb break="no"/>
+los wie Lämmer sind; aber die Moralität,<lb/>
+welche der Kunst ihre Kraft gibt, ist die<lb/>
+Moralität von Menschen, nicht von Schaf-<lb break="no"/>
+herden.</p>
+                     <p>Dann ist aber auch die Tugend der<lb/>
+Bewohner mancher ländlicher Gegenden<lb/>
+nur scheinbar, nicht unanfechtbar; ihr<lb/>
+Dasein ist kunstlos, aber nicht rein; es ist<lb/>
+nur die Einsamkeit der Lebensbedingungen,<lb/>
+die Entfernung aller Versuchung, welche<lb/>
+das Hervortreten niederer Leidenschaften<lb/>
+hindert, die aber darum nicht minder vor-<lb break="no"/>
+handen sind, weil sie schlummern, nicht<lb/>
+weniger verächtlich, weil sie nur in kleinen<lb/>
+Fehlern oder passiven Gehässigkeiten sicht-<lb break="no"/>
+bar werden.</p>
+                     <p>Aber das finden wir überall: vollständige<lb/>
+Kunstlosigkeit ist Menschen von irgend<lb/>
+welcher moralischer Gesundheit unmöglich.<lb/>
+Sie haben immer zum mindesten die Kunst,<lb/>
+durch die sie leben — Ackerbau oder See-<lb break="no"/>
+fahrt; in diesen Beschäftigungen, wenn sie<lb/>
+zur Geschicklichkeit ausgebildet sind, ist<lb/>
+das Gesetz ihrer moralischen Zucht ent-<lb break="no"/>
+halten. Was auch immer für störende<lb/>
+Einflüsse sich geltend machen, jede ge-<lb break="no"/>
+sunde Bauern- oder Seemannschaft hat mit<lb/>
+notwendigen Bedürfnissen eine ziemlich</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

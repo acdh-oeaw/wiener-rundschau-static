@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-16_n0618.xml" prev="WR-01-02-16_n0617.xml" next="WR-01-02-16_n0619.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 16, S. 618</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="16"/>
+                        <biblScope unit="page" n="n0618"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-07-01">1 7 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0209">
+                  <title level="a">Der Lehrer</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 16</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="16">16</biblScope>
+                  <biblScope unit="page" from="612" to="618"/>
+                  <idno type="fn">WR-01-02-16_n0612.xml</idno>
+                  <author ref="#wr-person-0064">Tschechoff, Anton</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">618</fw>
+               <fw type="ctext">TSCHECHOFF.</fw>
+            </fw>
+            <p rend="no-intend">wieder fahren, und es war ihm angenehm, allein zu sein und mit<lb/>
+Niemand sprechen zu müssen.</p>
+            <p>Zu Hause traf er den Schwiegervater und Warja, die zu Tische<lb/>
+gekommen waren. Warja hatte verweinte Augen und klagte über Kopf-<lb break="no"/>
+weh; Schelestoff ass sehr viel und sprach davon, wie unzuverlässig und<lb/>
+wenig gentlemanlike die jetzigen jungen Leute seien.</p>
+            <p>»Das ist eine Gemeinheit!« sagte er. »So werde ich es ihm<lb/>
+geradeaus sagen: Das ist eine Gemeinheit, mein Herr!«</p>
+            <p>Nikitin lächelte verbindlich und half Mania, die Gäste zu be-<lb break="no"/>
+wirthen; nach Tische aber sperrte er sich in seinem Arbeitszimmer ab.</p>
+            <p>Die Märzsonne schien grell hinein, und die heissen Strahlen fielen<lb/>
+durch die Fensterscheiben auf den Tisch. Es war erst der <date>zwanzigste<lb/>
+März</date>, aber man fuhr schon auf Rädern, und im Garten lärmten die<lb/>
+Gimpel. Nikitin weiss, dass bald Manioussia eintritt, ihn mit einer<lb/>
+Hand umarmt und sagt, dass die Reitpferde schon vorgeführt oder<lb/>
+der Wagen schon angespannt, und dass sie ihn fragt, was sie anziehen<lb/>
+soll, um nicht zu frieren. Ein ebenso wunderbarer Frühling wie voriges<lb/>
+Jahr kam ins Land und versprach dieselben Freuden <milestone unit="3dots"/> Aber Nikitin<lb/>
+dachte daran, wie schön es wäre, jetzt Urlaub zu nehmen, nach Moskau<lb/>
+zu fahren und dort in den bekannten chambres-garnies in der Neglin-<lb break="no"/>
+naja abzusteigen. Im nächsten Zimmer trank man Kaffee und sprach<lb/>
+vom Hauptmann Poljansky; Nikitin bemühte sich, es nicht zu hören,<lb/>
+und schrieb in sein Tagebuch:</p>
+            <p>»Wo bin ich, mein Gott! Mich umgibt Gemeinheit und Gemein-<lb break="no"/>
+heit. Langweilige, nichtige Menschen, Töpfchen mit Rahm, Krüge mit<lb/>
+Milch, Küchenschalen, dumme Frauenzimmer <milestone unit="3dots"/> Es gibt nichts Fürchter-<lb break="no"/>
+licheres, Beleidigenderes, Traurigeres als Gemeinheit. Fort von hier,<lb/>
+und heute noch, sonst werde ich verrückt!«</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

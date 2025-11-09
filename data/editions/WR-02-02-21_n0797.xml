@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-21_n0797.xml" prev="WR-02-02-21_n0796.xml" next="WR-02-02-21_n0798.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 21, S. 797</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="21"/>
+                        <biblScope unit="page" n="n0797"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-09-15">15 9 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0496">
+                  <title level="a">Das Wiener Couplet </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 21</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="797" to="800"/>
+                  <idno type="fn">WR-02-02-21_n0797.xml</idno>
+                  <author ref="#wr-person-0166">Graf, Dr. Max</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">DAS WIENER COUPLET</hi>.<lb/>
+Von Dr. <rs type="person" key="">MAX GRAF</rs> (Wien).</title>
+            </ab>
+            <p>Von der ältesten Periode des Wiener Couplets dürfen wir Leute<lb/>
+von heute gar nicht sprechen. Unsere Eltern und Grosseltern<lb/>
+erzählen mit Entzücken von der alten Komikergeneration und dem<lb/>
+gesungenen Altwiener Witz, und wir müssen uns bescheiden, dies<lb/>
+zu registrieren.</p>
+            <p>Ein grosses Kunstwerk der ältesten Zeit können wir in das<lb/>
+lebende Bewusstsein unserer Tage überführen: wir können es<lb/>
+lebendig machen, mit Blut füllen, und seine Eindrücke wiedergeben.<lb/>
+Ein Couplet, das einer anderen Generation angehört, ist ein todtes<lb/>
+Ding. Die Schöpfung einer Laune des Tages, eine tönende Capriole<lb/>
+des Geistes, aus überflüssigen, überschüssigen Kräften erzeugt,<lb/>
+concentriert es all sein Leben in einem Augenblick, wirkt und<lb/>
+verschwindet. So lange es lebt, ist es wohl die eindringlichste<lb/>
+Kunst; ganz gesättigt von allen Stimmungen des Tages, die<lb/>
+schnellste Auslösung aller Spannungen des momentanen Geistes.<lb/>
+Vergeht aber der Tag, der es lebendig gemacht hat, dann verraucht<lb/>
+es wie ein Witz, dessen Pointe alle kennen <milestone unit="4dots"/> Und noch eines:<lb/>
+ohne Interpreten ist das Couplet ein Häuflein todter Buchstaben<lb/>
+und Noten. Es bedarf — als einzige Form der modernen Kunst —<lb/>
+des Rhapsoden, des Troubadours, des Skalden. Seine Melodie<lb/>
+wird erst verständlich, wenn sie von der Harmonie der Geste,<lb/>
+der Augen, des Körpers begleitet wild. Die Worte erhalten Sinn,<lb/>
+Rhythmus. Der ganze Körper Blut, Athem und Sinnlichkeit. Selbst<lb/>
+die Pausen erhalten Beredsamkeit und Stimme <milestone unit="4dots"/> Ohne diesen<lb/>
+höchsten Act des Lebens, die Blut- und Fleischwerdung im Vor-<lb break="no"/>
+trage eines Rhapsoden (oder einer Rhapsodin) ist ein Couplet<lb/>
+so todt wie die grossen griechischen Couplets: die Homer’schen<lb/>
+Epen <milestone unit="6dots"/>
+            </p>
+            <p>Wir dürfen deshalb über das älteste Wiener Couplet nicht<lb/>
+voreilig sprechen. All das Zeug, das uns heute so armselig<lb/>
+läppisch, so dumm-vergnügt, so paralytisch-witzig vorkommt, war</p>
+         </div>
+      </body>
+   </text>
+</TEI>

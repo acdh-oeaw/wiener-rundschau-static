@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-06_n0227.xml" prev="WR-01-01-06_n0226.xml" next="WR-01-01-06_n0228.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 6, S. 227</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="06"/>
+                        <biblScope unit="page" n="n0227"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-02-01">1 2 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0069">
+                  <title level="a">Gespenster im Menschen</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 6</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="06">6</biblScope>
+                  <biblScope unit="page" from="227" to="234"/>
+                  <idno type="fn">WR-01-01-06_n0227.xml</idno>
+                  <author ref="#wr-person-0024">Servaes, Franz</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>GESPENSTER IM MENSCHEN.<lb/>
+(Henrik Ibsen, »John Gabriel Borkman«.)<lb/>
+Von <rs type="person" key="">Franz Servaes</rs> (Berlin).</title>
+            </ab>
+            <p>Zuweilen, wenn wir mit einem Menschen sprechen — vielleicht<lb/>
+lachen wir ihn gerade harmlos an und blasen den Dampf unserer Cigarette<lb/>
+weg — überrascht uns plötzlich in seinem Gesicht irgend eine Linie,<lb/>
+die wir niemals bemerkt haben, die jetzt plötzlich auftaucht und rasch<lb/>
+wieder verschwindet, und die doch einen Eindruck in uns hinterlässt,<lb/>
+der dem Schrecken nahekommt. Wir bezwingen uns aufs Aeusserste,<lb/>
+damit der Andere nur ja nichts merke von unserer jähen Gemüths-<lb break="no"/>
+bewegung. Aber wir lauern unaufhörlich, ob der Zug nicht wieder-<lb break="no"/>
+kehren will, der unwillkürliche, verrätherische, der mit einemmale das<lb/>
+verborgene Gewebe einer ganzen Innenwelt vor uns blosszulegen schien.<lb/>
+Aber wir lauern und lungern meist vergebens. Gespenster sind scheu.<lb/>
+Unentwirrbarer Zufall ist’s, wenn sie sich einmal ans Tageslicht hinaus-<lb break="no"/>
+gewagt haben. Und schnell verkriechen sie sich wieder und hocken<lb/>
+und kleben im verkrümmten Winkel ihrer dumpfigen Dämmerhöhle.<lb/>
+Dort aber sitzen sie und wissen, <hi rend="text-spaced">dass sie die Herren sind</hi>, über<lb/>
+die Menschen sowohl als über der Menschen Werke und der Menschen<lb/>
+Schicksale.</p>
+            <p>»Es muss diese Geisterwelt geben,« so sagt auch Willy Pastor<lb/>
+in seinem tiefangelegten Romanessay »Der Andere«. »Wir Menschen<lb/>
+dünken uns stolz, wenn wir den Fluss eindämmen und die Kraft ab-<lb break="no"/>
+schöpfen von seinen Fällen. Aber Wesen gibt es, unsichtbar und doch<lb/>
+fühlbar, die schöpfen ab von uns, was wir thun und denken. Wenn<lb/>
+wir Wege bauen oder philosophische Gedanken denken, bauen und<lb/>
+denken wir, weil sie es so wollen. Nichts, nichts ist freiwillig, was<lb/>
+wir ausüben. Und wenn böse Dämonen uns fingen, was hilft es, dass<lb/>
+wir gut sind? Wir sind doch so wehrlos gegen sie wie ein Thier im<lb/>
+Käfig.«</p>
+            <p>Hier sind die Geister allerdings als etwas gefasst, das gewisser-<lb break="no"/>
+massen ausserhalb unser existirt, das nur von Zeit zu Zeit einmal,<lb/>
+gleichsam im Vorübergehen, uns berührt und dann heilsam oder schäd-<lb break="no"/>
+lich auf uns einwirkt. In diesem Sinne steckt die ganze Umwelt voller<lb/>
+Geister, die unausgesetzt an uns saugen, unausgesetzt an uns bauen<lb/>
+und auf Millionen geheimer Porenwege in uns eindringen. Doch auch<lb/>
+in uns selber wohnt etwas Gespenstisches, gerade so unfassbar, gerade</p>
+         </div>
+      </body>
+   </text>
+</TEI>

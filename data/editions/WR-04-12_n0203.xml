@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-12_n0203.xml" prev="WR-04-12_n0202.xml" next="WR-04-12_n0204.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 12, S. 203</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="12"/>
+                        <biblScope unit="page" n="n0203"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0895">
+                  <title level="a">Zwei Zeichnungen</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="189" to="212"/>
+                  <idno type="fn">WR-04-12_n0189.xml</idno>
+                  <author ref="#wr-person-0295">Beardsley, Aubrey</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0896">
+                  <title level="a">Salome</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="189" to="212"/>
+                  <idno type="fn">WR-04-12_n0189.xml</idno>
+                  <author ref="#wr-person-0068">Wilde, Oscar</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">WILDE: SALOME.</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Wahrhaftig, es ist schändlich!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DIE STIMME DES JOCHANAAN: Es ist so, dass ich alle Verruchtheit von<lb/>
+der Erde austilgen werde, und dass alle Weiber lernen werden, nicht auf den Wegen<lb/>
+ihrer Greuel zu wandeln.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Du hörst, was er gegen mich sagt? Du duldest es, dass er Die<lb/>
+schmähe, die dein Weib ist!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Er hat deinen Namen nicht genannt.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Was thut das zur Sache? Du weißt wohl, dass ich es bin, die<lb/>
+er zu schmähen sucht. Und ich bin dein Weib — oder nicht?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: In der That, theure und vieledle Herodias, du bist mein Weib,<lb/>
+und zuvor warst du das Weib meines Bruders.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Nämlich, du rissest mich aus seinen Armen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: In der That war ich stärker als er <milestone unit="3dots"/> Aber wir wollen von<lb/>
+dieser Sache nicht reden. Ich wünsche nicht, davon zu reden. Es handelt sich um<lb/>
+die schrecklichen Worte, die der Prophet gesprochen hat. Am Ende bedeuten diese<lb/>
+Worte, dass Schlimmes geschehen wird. Wir wollen von dieser Sache nicht reden.<lb/>
+Edle Herodias, wir sind gegen unsere Gäste nicht aufmerksam. Füll’ du mein Glas,<lb/>
+Vielgeliebte. He! füllt die großen Pocale von Silber und die großen Pocale von Glas<lb/>
+mit Wein. Ich will auf Cäsar trinken. Es sind Römer hier, wir müssen auf Cäsar<lb/>
+trinken!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ALLE: Cäsar! Cäsar!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Siehst du nicht, wie blass deine Tochter ist?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Was kümmert es dich, ob sie blass ist oder nicht?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Nie habe ich sie so blass gesehen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Du brauchst sie nicht anzusehen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DIE STIMME DES JOCHANAAN: Es kommt ein Tag, da wird die Sonne<lb/>
+finster werden wie ein schwarzes Tuch, und der Mond wird werden wie Blut, und<lb/>
+die Sterne des Himmels werden auf die Erde fallen wie unreife Feigen vom Feigen-<lb break="no"/>
+baum, und die Könige der Erde werden erzittern.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Haha! Den Tag möcht’ ich sehen, von dem er spricht, wenn der<lb/>
+Mond wie Blut wird und die Steine wie unreife Feigen zur Erde fallen. Dieser<lb/>
+Prophet schwatzt wie ein Betrunkener<milestone unit="4dots"/> aber ich kann den Klang seiner Stimme<lb/>
+nicht ertragen. Ich hasse seine Stimme. Befiehl ihm, er soll schweigen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Ich will nicht. Ich kann nicht verstehen, was das sein soll, wovon<lb/>
+er spricht, aber vielleicht ist es ein Zeichen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Ich glaube nicht an Zeichen. Er spricht wie ein Betrunkener.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Kann sein, er ist trunken vom Weine Gottes.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Was ist das für ein Wein, der Wein Gottes? Auf was für Wein-<lb break="no"/>
+bergen ist er gewachsen? In welcher Kelter findet man ihn?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES (sieht von diesem Augenblicke ab fortwährend Salome an): Tigellinus,<lb/>
+als Ihr jüngst in Rom wart, sprach der Kaiser mit Euch über <milestone unit="3dots"/>?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>TIGELLINUS: Worüber, Herr?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Worüber? Ach, ich fragte Euch etwas, nicht? Ich habe ver-<lb break="no"/>
+gessen, was ich Euch fragen wollte <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Du fängst wieder an, meine Tochter anzusehen. Du sollst sie<lb/>
+nicht ansehen. Ich habe es schon gesagt.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Du sagst nichts anderes.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Ich sage es nochmals.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

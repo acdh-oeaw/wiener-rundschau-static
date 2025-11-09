@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-17_n0400.xml" prev="WR-03-02-17_n0399.xml" next="WR-03-02-17_n0401.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 17, S. 400</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="17"/>
+                        <biblScope unit="page" n="n0400"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0699">
+                  <title level="a">»Blaubart und Ariane«</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 17</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="17">17</biblScope>
+                  <biblScope unit="page" from="393" to="415"/>
+                  <idno type="fn">WR-03-02-17_n0393.xml</idno>
+                  <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MAETERLINCK: BLAUBART UND ARIANE.</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Ich sehe nichts.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DIE AMME:</p>
+            <p>Es ist nichts, ich hab’ es gleich gesagt. Komm schnell wieder fort, nur<lb/>
+schnell <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Wo sind wir? <milestone unit="3dots"/> Halte doch die Lampe etwas höher <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <p>(Allmählich gewahrt man beim Lampenscheine hinter der aufgegangenen Thür eine<lb/>
+zweite Thür, die jener ähnlich sieht; zugleich vernimmt man einen gedämpften Ge-<lb break="no"/>
+sang wie von fernen und bebenden Stimmen.)</p>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Noch eine Thür <milestone unit="3dots"/> Es wird gesungen <milestone unit="3dots"/> Hörst Du nicht <milestone unit="3dots"/> Es<lb/>
+wird gesungen <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>GESANG VON ERSTICKTEN STIMMEN:</p>
+            <milestone unit="song-start"/>
+            <lg>
+               <l>Die fünf Mädchen von Orlamünde,</l>
+               <l>Als die Fee war todt,</l>
+               <l>Die fünf Mädchen von Orlamünde</l>
+               <l>Suchten nach der Thür in Noth.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Sie sind drinnen <milestone unit="3dots"/> Sie leben <milestone unit="3dots"/> Ach, ich wusste es ja! <milestone unit="3dots"/> Amme,<lb/>
+Amme, hilf mir <milestone unit="3dots"/> leuchte mir <milestone unit="3dots"/> Du hast keine Furcht mehr? <milestone unit="3dots"/> Hörst<lb/>
+Du, sie leben! <milestone unit="2dots"/> (Sie steckt den Schlüssel ins Schloss und bemüht sich vergeblich,<lb/>
+aufzuschliessen.) Ach, die geht nicht so leicht auf, wie die erste <milestone unit="3dots"/> Wer<lb/>
+seid Ihr? <milestone unit="3dots"/> Wo seid Ihr? <milestone unit="3dots"/> Helft mir doch! <milestone unit="3dots"/> Ich komme, Euch zu<lb/>
+befreien! Macht auf! Macht auf! <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <p>(Schweigen. Dann ein Geräusch wie von plötzlicher Flucht, Jammern, Gnaden-, Angst-<lb/>
+und Schreckensrufe. Ariane macht eine verzweifelte Anstrengung, und plötzlich<lb/>
+gibt die Thüre nach und verschwindet auf dieselbe Art, wie die vorige. Ein weiter<lb/>
+unterirdischer Saal mit schweren Gewölben, die auf zahlreichen Pfeilern ruhen, wird<lb/>
+sichtbar. Ein schwacher, unbestimmter Lichtschein erhellt seinen Hintergrund. Man<lb/>
+erkennt FÜNF FRAUENGESTALTEN, die bestürzt in den Schatten der letzten Wöl-<lb break="no"/>
+bung geflohen sind. Ariane und die Amme, welche die Lampe über ihrem Kopfe hält,<lb/>
+um zu leuchten, machen einen Schritt hinein und bleiben dann stehen. Ariane<lb/>
+horcht auf und sucht das Dunkel zu durchdringen.)</p>
+            <milestone unit="speech-start"/>
+            <p>DIE AMME:</p>
+            <p>Vorsicht <milestone unit="3dots"/> Was glitzert da so? <milestone unit="3dots"/> Gewiss ein tiefes Wasser <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Wo seid Ihr?</p>
+            <milestone unit="untyped-end"/>
+            <p>(Furchtsames Seufzen ist die Antwort. Ariane erkennt allmählich die fünf Frauen,<lb/>
+die sie verstört anblicken, eilt ihnen mit offenen Armen entgegen, umfängt sie mit<lb/>
+unsicheren Händen, umarmt, küsst und liebkost sie tastend in zärtlicher, krampfhafter<lb/>
+Trunkenheit.)</p>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Ach, nun hab’ ich Euch gefunden! Sie sind voller Leben und Lieblichkeit!<lb/>
+Als die Mauer sich aufthat, wähnte ich Todte zu sehen, und ich küsste fünfmal<lb/>
+weinend holde Lippen <milestone unit="3dots"/> Ihr habt wohl nicht gelitten? Eure Lippen sind<lb/>
+frisch und Eure Wangen sind zart wie bei Kindern <milestone unit="3dots"/> Und hier — Eure<lb/>
+blossen Arme sind so weich und warm, und Eure vollen Brüste beben unter ihrem</p>
+         </div>
+      </body>
+   </text>
+</TEI>

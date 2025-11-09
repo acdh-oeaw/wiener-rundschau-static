@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-12_n0449.xml" prev="WR-02-01-12_n0448.xml" next="WR-02-01-12_n0450.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 12, S. 449</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="12"/>
+                        <biblScope unit="page" n="n0449"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-05-01">1 5 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0412">
+                  <title level="a">Die Waldseelen</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 12</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="449" to="453"/>
+                  <idno type="fn">WR-02-01-12_n0449.xml</idno>
+                  <author ref="#wr-person-0138">Wille, Bruno</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIE WALDSEELEN.<lb/>
+Von <rs type="person" key="">
+                     <hi rend="text-spaced">Bruno Wille</hi>
+                  </rs> (Friedrichshagen).<lb/>
+1. <hi rend="text-spaced">Der Wachholderbaum</hi>.</title>
+            </ab>
+            <p>Da bist du ja wieder, alte Moorlake — düstres Geheimniss<lb/>
+dieser weiten Forste. Sachtes Sausen wogt ewig über dich<lb/>
+hin — und manchmal nicken die Föhren mit den struppigen<lb/>
+Grüblerköpfen. Schwärzliche Fluth unter trübem Aprilhimmel<lb/>
+— an das Unergründliche mahnst du, wo man versinkt. Wie<lb/>
+schaudernd kräuselt sich die graue Fläche, wenn ein Wind-<lb break="no"/>
+hauch durch das dürre Schilf raschelt — dessen junge<lb/>
+Schossen noch kaum aus dem Wasser ragen. Und doch kann<lb/>
+die Moorlake wieder so lieblich sein — wenn aus ihr das<lb/>
+Blau des Sommerhimmels lächelt. Dann schwamm ich in der<lb/>
+lauen Fluth — lag auf dem Rücken — träumte mit den<lb/>
+gelben Seerosen empor zu den weissen Wölkchen — und<lb/>
+die grünen Halme wankten und tuschelten — als verstecke<lb/>
+sich in ihnen das Wasserfräulein.</p>
+            <p>Sieh — da ragt auch der Wachholderbaum auf der<lb/>
+kleinen Halbinsel, wo das Waldfliess eine knappe Windung<lb/>
+macht — bevor es sich in des Weihers Umarmung schmiegt.<lb/>
+Feierlich steht er da — ein Patriarch, umringt von einem<lb/>
+Volke kleiner Sprösslinge. Ich besuche ihn gern, wenn ich<lb/>
+in diese Gegend komme. Seltsame Träume hausen hier. Auf<lb/>
+das Moospolster gestreckt, lasse ich mich von ihnen ein-<lb break="no"/>
+spinnen — bis eine andere Welt sich aufthut. Baum und<lb/>
+Schilf und Wasser starrt mein Auge an — doch die Seele<lb/>
+dringt hindurch zu einem tiefen Grunde. Die bläulichgrüne<lb/>
+Wachholdersäule — röthlich blühendes Moos — das schleichende<lb/>
+Wässerlein — drüben über der Moorlake die alten Erlen —<lb/>
+schwarze Stämme, die erst über dem Wasser beginnen und<lb/>
+auf senkrechten Wurzeln wie auf Stelzen waten — die reh-<lb break="no"/>
+braunen Föhrenäste mit den düstern Nadelbüscheln — das<lb/>
+lugende Wolkengrau — alles webt sich seelenvoll, ge-</p>
+         </div>
+      </body>
+   </text>
+</TEI>

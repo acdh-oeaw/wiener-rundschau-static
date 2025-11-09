@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-14_n0527.xml" prev="WR-01-02-14_n0526.xml" next="WR-01-02-14_n0528.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 14, S. 527</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="14"/>
+                        <biblScope unit="page" n="n0527"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-06-01">1 6 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0176">
+                  <title level="a">Sonnenuntergang</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 14</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="14">14</biblScope>
+                  <biblScope unit="page" from="527" to="529"/>
+                  <idno type="fn">WR-01-02-14_n0527.xml</idno>
+                  <author ref="#wr-person-0072">Schaeffer, Emil</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">SONNENUNTERGANG</hi>.<lb/>
+Von <rs type="person" key="">Emil Schaeffer</rs> (Wien).</title>
+            </ab>
+            <p>»Giardino publico! avanti, Signori!!« Sie stiegen langsam<lb/>
+aus dem kleinen Dampfer ans Land. Er reckte sich, blickte<lb/>
+sich um wie prüfend, blätterte im Baedecker und las laut:<lb/>
+»Der Giardino publico, ein hübscher Volksgarten, <date>1807</date> durch<lb/>
+Abbruch mehrerer Klöster von Napoleon I. geschaffen. Am<lb/>
+südlichen Ende ein Hügel mit einem kleinen Kaffeehaus<milestone unit="2dots"/>«</p>
+            <p>Dann schritt er zur nächsten Bank.</p>
+            <p>»Wollen wir denn nicht durch den Park gehen?«</p>
+            <p>»Offen gestanden, nein; ich bin ein bischen müde von<lb/>
+dem Kirchendurchlaufen, und einen schöneren Platz zum<lb/>
+Sitzen können wir ja unmöglich finden <milestone unit="3dots"/>«</p>
+            <p>Er gähnte, räusperte sich zweimal, dann zog er sein<lb/>
+Journal aus der Tasche und begann zu lesen <milestone unit="3dots"/>
+            </p>
+            <p>Und sie starrte in den Abend <milestone unit="3dots"/>
+            </p>
+            <p>Flimmernder, gleissender Sonnenpurpur lag auf den<lb/>
+Fluthen; in goldenen Duft schien das Meer getaucht; hell-<lb break="no"/>
+schimmernde Strahlennetze spannen sich um San Marcos<lb/>
+Wunderbau; wie ein dünnes, unendlich zartes, durchscheinendes<lb/>
+Seidengewand schmiegte sich der Abend an die Kuppeln;<lb/>
+ein flüssiger Feuerball war aus der Kugel der Dogana<lb/>
+geworden; von San Zaccaria weinten schluchzende Abend-<lb break="no"/>
+glocken <milestone unit="3dots"/> weit draussen am Meer stand ein rothes, ein<lb/>
+brennrothes Segel, und ganz in verlorener Ferne verschwamm<lb/>
+der graue Rauch eines Dampfers im blauen Silber des Hori-<lb break="no"/>
+zontes <milestone unit="3dots"/> Farben <milestone unit="3dots"/> Farben <milestone unit="3dots"/> Glanz <milestone unit="3dots"/> Duft <milestone unit="3dots"/> Süden <milestone unit="3dots"/>!!</p>
+            <p>An ihre Mutter dachte sie plötzlich, wie sie mit ver-<lb break="no"/>
+härmter Stimme zu ihr gesagt: »Wenn du einmal mit dem Mann,<lb/>
+den du liebst, im Giardino publico sitzen wirst und die Sonne<lb/>
+geht unter, dann hast du das Paradies auf Erden <milestone unit="3dots"/>« Sie<lb/>
+schielte mit einem bösen, hässlichen Blick auf den Mann, der<lb/>
+ihr zur Seite sass <milestone unit="3dots"/> Mit dem Mann, den du liebst <milestone unit="3dots"/> Um<lb/>
+ihren Mund zuckte es, aber kaum merklich <milestone unit="3dots"/>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

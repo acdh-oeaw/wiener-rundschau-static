@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-05_n0112.xml" prev="WR-04-05_n0111.xml" next="WR-04-05_n0113.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 5, S. 112</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="05"/>
+                        <biblScope unit="page" n="n0112"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0821">
+                  <title level="a">Landschaft</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 5</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="101" to="124"/>
+                  <idno type="fn">WR-04-05_n0101.xml</idno>
+                  <author ref="#wr-person-0273">Wenban, Sion L.</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0825">
+                  <title level="a">Die Wahrheit der Maske</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 5</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="112" to="117"/>
+                  <idno type="fn">WR-04-05_n0112.xml</idno>
+                  <author ref="#wr-person-0068">Wilde, Oscar</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">DIE WAHRHEIT DER MASKE</hi>.<lb/>
+Von <rs type="person" key="">OSCAR WILDE</rs> (London).*</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>In den vielen und lebhaften Angriffen,<lb/>
+welche in jüngster Zeit wieder auf die<lb/>
+Pracht der Ausstattung im Theater gemacht<lb/>
+worden sind, namentlich bei classischen<lb/>
+Stücken und Shakespeare-Aufführungen,<lb/>
+scheint man von der stillschweigenden<lb/>
+Annahme ausgegangen zu sein, dass<lb/>
+Shakespeare selber ziemlich gleichgiltig<lb/>
+gegen die Bekleidung und Verkleidung<lb/>
+seiner Schauspieler gewesen sei, dass für<lb/>
+ihn die Handlung alles, Masken und<lb/>
+Costüme nur untergeordnetes Beiwerk<lb/>
+bedeutet habe. Was insbesondere die<lb/>
+historische Richtigkeit der Costüme an-<lb break="no"/>
+belangt, so hat Lord Lytton vor kurzem<lb/>
+in der »Nineteenth Century« behauptet,<lb/>
+die Archäologie sei beim historischen<lb/>
+Schauspiel ein ganz überwundener Stand-<lb break="no"/>
+punkt, und der Versuch, sie wieder einzu-<lb break="no"/>
+führen, nur die überflüssige Pedanterie eines<lb/>
+wissenschaftlich-bigotten Zeitalters.</p>
+                     <p>Lord Lyttons Standpunkt werde ich<lb/>
+späterhin untersuchen; was aber die<lb/>
+Theorie anbelangt, Shakespeare habe sich<lb/>
+überhaupt nicht um die Theater-Garderobe<lb/>
+seiner Bühne bekümmert, so kann sich<lb/>
+jeder, dem es der Mühe wert erscheint,<lb/>
+seine Methode zu erforschen und zu prüfen,<lb/>
+davon überzeugen, dass es gar keinen<lb/>
+Dramatiker der französischen, englischen<lb/>
+oder athenischen Bühne gegeben hat, der<lb/>
+mehr Gewicht auf die illusorischen<lb/>
+Wirkungen der Masken, Costüme und<lb/>
+Verkleidungen seiner Schauspieler gelegt<lb/>
+hat, als gerade Shakespeare.</p>
+                     <p>In richtiger Erkenntnis der Bedeutung,<lb/>
+welche die Schönheit des Sichtbaren und<lb/>
+Glanzvollen auf der Bühne für das künst-<lb break="no"/>
+lerische Temperament als Mittel zur An-<lb break="no"/>
+regung besitzt, schiebt er in seinen Stücken</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">fortwährend Aufzüge, Tänze, Verkleidungen<lb/>
+und Verwechslungen ein, lediglich, sofern<lb/>
+sie nicht mit der Haupthandlung mit<lb/>
+Vorbedacht schon verknüpft sind, um der<lb/>
+Freude am sichtbar Schönen willen, welche<lb/>
+das Auge dabei genießen kann. Wir be-<lb break="no"/>
+sitzen glücklicherweise noch heute seine<lb/>
+eigenen Vorschriften und Anleitungen für<lb/>
+die drei großen Fest-Aufzüge in <hi rend="text-spaced">Hein</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">rich</hi> VIII., Vorschriften, welche mit der<lb/>
+größten Ausführlichkeit jede Einzelheit<lb/>
+bestimmen, bis zum vielgefalteten Steif-<lb break="no"/>
+kragen Seiner Majestät und den Perlen im<lb/>
+Haare der Anna Buleyn. Es wäre für<lb/>
+einen modernen Regisseur kinderleicht,<lb/>
+diese großartigen Fest-Umzüge genau so<lb/>
+wiederzugeben, wie Shakespeare sie vor-<lb break="no"/>
+gezeichnet hat. Sie waren so der Wirklich-<lb break="no"/>
+keit nachgeahmt, dass sogar ein damaliger<lb/>
+Hofbeamter, anlässlich der letzten Auf-<lb break="no"/>
+führung des Stückes im Londoner Globe-<lb break="no"/>
+Theater, in einem Briefe an einen Freund<lb/>
+über die nach seiner Meinung zu wahrheits-<lb break="no"/>
+getreue Wiedergabe klagt, insbesondere<lb/>
+über die Zulassung der Ritter des hohen<lb/>
+Hosenband-Ordens in der Ordenstracht,<lb/>
+welche geeignet sei, die feierliche Würde<lb/>
+der Ordensgebräuche herabzusetzen, ganz<lb/>
+ähnlich, wie unlängst die französische<lb/>
+Regierung einem Schauspieler in Regiments-<lb break="no"/>
+uniform aufzutreten verbot, weil es den<lb/>
+Ruhm der Armee gefährden könne, wenn<lb/>
+ein Oberst carikiert würde.</p>
+                     <p>Der Pomp der Gewänder auf der unter<lb/>
+Shakespeares Einfluss stehenden englischen<lb/>
+Bühne wurde vielfach von zeitgenössischen<lb/>
+Kritikern angegriffen, nicht so sehr auf<lb/>
+Grund ihres demokratisch herabdrückenden<lb/>
+Wirklichkeitssinnes, als vielmehr aus mora-<lb break="no"/>
+lischen Gründen, welche, wie heute, so zu</p>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Dieser Aufsatz (den »Intentions« des Verfassers in gekürzter Form entnommen) mag<lb/>
+im Hinblicke auf das moderne Bühnen-Elend umso zeitgemäßer sein, als wir in der Erkennt-<lb break="no"/>
+nis fortschreiten, dass die Schaubühne nicht nur in der »Einheit der Handlung«, sondern auch<lb/>
+in der »<hi rend="text-spaced">Einheitlichkeit des Sichtbaren</hi>« das große geschlossene Kunstwerk schaffen<lb/>
+muss, wenn sie uns »jubelfestlich stimmen« und über uns hinausheben soll.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

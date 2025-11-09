@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-17_n0412.xml" prev="WR-03-02-17_n0411.xml" next="WR-03-02-17_n0413.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 17, S. 412</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="17"/>
+                        <biblScope unit="page" n="n0412"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0699">
+                  <title level="a">»Blaubart und Ariane«</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 17</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="17">17</biblScope>
+                  <biblScope unit="page" from="393" to="415"/>
+                  <idno type="fn">WR-03-02-17_n0393.xml</idno>
+                  <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MAETERLINCK: BLAUBART UND ARIANE.</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>EIN ANDERER:</p>
+            <p>Habt Ihr etwas, um ihn todt zu machen?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Jawohl, seid ohne Sorge <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER BAUER:</p>
+            <p>Sollen wir Euch helfen?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Nicht nöthig <milestone unit="3dots"/> Wir werden allein damit fertig <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>EIN BAUER:</p>
+            <p>Vor allem seht Euch vor, dass er nicht wieder entwischt! (Er entblösst<lb/>
+seine Brust.) Da seht, was er mir gethan hat!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>EIN ANDERER<lb/>
+(entblösst seinen Arm):</p>
+            <p>Und mir! Seht meinen Arm <milestone unit="3dots"/> Hier giengs herein und da heraus.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>EIN DRITTER<lb/>
+(zeigt seine zerrissene Hose):</p>
+            <p>Und mir! Bei allem Respect, wenn ich Euch alles zeigte, würdet Ihr<lb/>
+noch mehr sehen <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Ihr seid wackere Leute <milestone unit="3dots"/> Lasst uns nur, wir werden uns schon rächen!<lb/>
+Lasst uns nur <milestone unit="3dots"/> Es ist schon spät, und Ihr müsst Eure Wunden pflegen <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER ALTE BAUER:</p>
+            <p>Schön, schön! Respect vor den Damen <milestone unit="3dots"/> Wir sind keine Wilden <milestone unit="3dots"/> Es<lb/>
+soll kein Lärm mehr gemacht werden <milestone unit="3dots"/> Gnädige Frau, ’s ist keine Redensart,<lb/>
+aber Ihr seid zu schön <milestone unit="3dots"/> Gut’ Nacht <milestone unit="3dots"/> Gut’ Nacht <milestone unit="3dots"/> (Sie gehen still.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE<lb/>
+(die Thür hinter ihnen schliessend):</p>
+            <p>Lebt wohl! Lebt wohl <milestone unit="3dots"/> Dank Euch <milestone unit="3dots"/> (Als sie sich umdreht, sieht sie<lb/>
+die fünf Frauen im Hintergrunde noch auf den Knien liegen.) Ihr habt auf den<lb/>
+Knien gelegen! <milestone unit="3dots"/> (Sie nähert sich Blaubart.) Seid Ihr verwundet? Ja, das<lb/>
+Blut rinnt hier <milestone unit="3dots"/> Eine Verletzung am Halse <milestone unit="3dots"/> Aber nicht schlimm, die<lb/>
+Wunde ist nicht tief <milestone unit="3dots"/> Und eine am Arm <milestone unit="3dots"/> Die Wunden am Arm sind nie<lb/>
+sehr ernst<milestone unit="3dots"/> Ach, aber diese, das Blut hört gar nicht auf<milestone unit="3dots"/> Die Hand ist<lb/>
+durchstochen <milestone unit="3dots"/> Sie muss zu allererst verbunden werden <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <p>(Während Ariane so spricht, sind die fünf Frauen, ohne ein Wort zu sagen, näher<lb/>
+gekommen und beugen sich, theils niederkniend, über Blaubart.)</p>
+            <milestone unit="speech-start"/>
+            <p>SÉLYSETTE:</p>
+            <p>Er hat die Augen aufgemacht <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>MELISANDE:</p>
+            <p>Wie blass er ist! Er muss gelitten haben <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SÉLYSETTE:</p>
+            <p>Oh, diese Bauern sind schrecklich! <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Wasser <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DIE AMME:</p>
+            <p>Gleich, ich will welches holen.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

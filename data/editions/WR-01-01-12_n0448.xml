@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-12_n0448.xml" prev="WR-01-01-12_n0447.xml" next="WR-01-01-12_n0449.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 12, S. 448</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="12"/>
+                        <biblScope unit="page" n="n0448"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-05-01">1 5 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0148">
+                  <title level="a">Die sieben Brunnen</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 12</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="448" to="451"/>
+                  <idno type="fn">WR-01-01-12_n0448.xml</idno>
+                  <author ref="#wr-person-0061">Annunzio, Gabriele D’</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIE SIEBEN BRUNNEN.*)<lb/>
+Von <rs type="person" key="">
+                     <hi rend="text-spaced">Gabriele</hi> d’<hi rend="text-spaced">Annunzio</hi>
+                  </rs> (Rom).<lb/>
+Deutsch von <rs type="person" key="">Eugen Guglia</rs>.</title>
+            </ab>
+            <milestone unit="epigraph-start"/>
+            <p>»Eine holde Mischung von Schatten<lb/>
+und Licht liegt auf den Gesichtern<lb/>
+derer, die an den Thüren von jenen<lb/>
+Wohnungen sitzen, welche dunkel<lb/>
+sind.«</p>
+            <p>
+               <hi rend="italics">
+                  <rs type="person" key="">Leonardo da Vinci</rs>.</hi>
+            </p>
+            <milestone unit="untyped-end"/>
+            <ab>
+               <title>I.</title>
+            </ab>
+            <p>Riesige Pinien erhoben sich mit ihren geraden zweiglosen Stämmen<lb/>
+wie Mastbäume von grossen Schiffen in gleichen Zwischenräumen längs<lb/>
+der Mauer und beschatteten den Garten mit ihrem dichten, hohen<lb/>
+Blätterschirm. Und zwischen Stamm und Stamm wie zwischen Säulen<lb/>
+waren Nischen in die Felswand gehöhlt, darin standen nackte Stein-<lb break="no"/>
+bilder, erstarrte Visionen der Vergangenheit. Und wiederum in gleichen<lb/>
+Abständen von einander rauschten die sieben Brunnen des Gartens;<lb/>
+am Rande ihrer runden Becken sassen Marmorgötter, stützten sich auf<lb/>
+die Urnen, aus denen das Wasser floss, und schauten sich in dessen<lb/>
+Spiegel. Ein jeder von den Brunnen war von einem Tempeldach über-<lb break="no"/>
+deckt, auf dessen Fries eine Inschrift eingegraben war. Das Grün der<lb/>
+hohen Myrte überzog das Alles, unterbrochen nur von den weissen,<lb/>
+stillsinnenden Gestalten. Und das feuchte Erdreich war ganz bedeckt<lb/>
+von Gras und Moos wie von einem Teppich, der unsere Schritte lautlos<lb/>
+machte und die Lüste des Geheimnisses erhöhte.</p>
+            <p>»Könnt ihr diese Verse hier lesen?« sagte Violante und deutete<lb/>
+auf eine der verwitterten Inschriften über den Brunnen. »Ich wusste<lb/>
+einmal, was sie sagen wollen <milestone unit="4dots"/>«</p>
+            <milestone unit="verse-start"/>
+            <lg>
+               <l>Praecipitate moras, volucres cingatis ut horas.</l>
+               <l>Nectite formosas, mollia serta, rosas.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <p>»Eilt euch, windet zu Kränzen die holden Rosen, bekränzt mit<lb/>
+ihnen die flüchtigen Stunden.«</p>
+            <p>Es war, durch den Reim gemildert, die uralte Ermahnung, die<lb/>
+durch Jahrhunderte die Menschen zu den Freuden des kurzen Lebens<lb/>
+aufgerufen, die auf den Lippen der Liebenden so viel Küsse entflammt<lb/>
+und bei fröhlichem Mahl so viele Becher gefüllt hat. Es war die alte<lb/>
+wollüstige Melodie, von einem Mönch in mittelalterlicher Zelle variirt,</p>
+            <milestone unit="hr"/>
+            <note type="footnote">
+               <p>*) Aus »Le Vergini della Rocce«, G. d’Annunzio’s neuestem, deutsch noch<lb/>
+nicht erschienenem Roman (Mailand <date>1896</date>), auf den wir durch dieses prachtvolle<lb/>
+Bruchstück unsere Leser ganz besonders aufmerksam machen möchten.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

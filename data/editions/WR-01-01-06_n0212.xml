@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-06_n0212.xml" prev="WR-01-01-06_n0211.xml" next="WR-01-01-06_n0213.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 6, S. 212</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="06"/>
+                        <biblScope unit="page" n="n0212"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-02-01">1 2 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0066">
+                  <title level="a">October</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 6</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="06">6</biblScope>
+                  <biblScope unit="page" from="212" to="212"/>
+                  <idno type="fn">WR-01-01-06_n0212.xml</idno>
+                  <author ref="#wr-person-0032">Morris, William</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>DAS WEISSE SCHLOSS.</title>
+            </ab>
+            <lg>
+               <l>
+                  <hi rend="initial">Ein</hi> weisses Schloss in weisser Einsamkeit.</l>
+               <l>In blanken Sälen schleichen leise Schauer.</l>
+               <l>Todtkrank krallt das Gerank sich an die Mauer,</l>
+               <l>Und alle Wege weltwärts sind verschneit.</l>
+            </lg>
+            <lg>
+               <l>Darüber hängt der Himmel brach und breit.</l>
+               <l>Es blinkt das Schloss. Und längs den weissen Wänden</l>
+               <l>Hilft sich die Sehnsucht fort mit irren Händen <milestone unit="3dots"/>
+               </l>
+               <l>Die Uhren stehn im Schloss: Es starb die Zeit.</l>
+            </lg>
+            <p>München. <rs type="person" key="">René Maria Rilke</rs>.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">OCTOBER</hi>.*)</title>
+            </ab>
+            <lg>
+               <l>Fort; Liebe, vom eintön’gen Meer — hier, starre</l>
+               <l>Die graue Schlucht herab aufs alte Jahr.</l>
+            </lg>
+            <lg>
+               <l>Herab, o Liebe! Keinen Handdruck mehr?</l>
+               <l>Da wir; des Lenzes ungedenk, noch leben,</l>
+               <l>Und Sommers, nach dem Herbst nur voll Begehr?</l>
+               <l>O horch nur, horch! Vom grauen Thurme beben</l>
+               <l>Die Töne klangvoll durch das Dämmer weben.</l>
+               <l>Süss, traurig, gleich dem letzten Hauch des Jahres,</l>
+               <l>Zu lebenssatt, dem Tod zu trotzen, war es —</l>
+               <l>Gleich uns, gleich uns! o sprich, ob’s uns nicht frommt,</l>
+               <l>Uns auszuruh’n von Leben, Leid und Lasten,</l>
+               <l>Vom Glück zu ruh’n, das unvermuthet kommt,</l>
+               <l>Zu ruh’n von Liebe, die nichts weiss vom Rasten? —</l>
+               <l>Die Töne — horch — aufs Neue, die verblassten!</l>
+            </lg>
+            <milestone unit="asterismDown"/>
+            <lg>
+               <l>Blick, Lieb’, empor! Halt fest dich ohne Beben!</l>
+               <l>Wie fänd ich Liebe wohl genug und Leben! <milestone unit="3dots"/>
+               </l>
+            </lg>
+            <p>London. <rs type="person" key="">Wllliam Morris</rs>.</p>
+            <p>Deutsch von <rs type="person" key="">Friedrich v. Oppeln-Bronikowski</rs>.</p>
+            <milestone unit="hr"/>
+            <note type="footnote">
+               <p>*) Dieses Gedicht ist ein Zwischenspiel aus dem »Irdischen Paradies« des<lb/>
+jüngst verstorbenen, berühmten englischen Dichters William Morris, der im Verein<lb/>
+mit Burne Jones, dem grossen Präraphaeliten, den gewaltigen Aufschwung der<lb/>
+decorativen Künste hervorgerufen hat.</p>
+            </note>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

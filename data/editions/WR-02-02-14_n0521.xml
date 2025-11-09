@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-14_n0521.xml" prev="WR-02-02-13_n0520.xml" next="WR-02-02-14_n0522.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 14, S. 521</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="14"/>
+                        <biblScope unit="page" n="n0521"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-06-01">1 6 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0435">
+                  <title level="a">Die Nazarener </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 14</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="14">14</biblScope>
+                  <biblScope unit="page" from="521" to="528"/>
+                  <idno type="fn">WR-02-02-14_n0521.xml</idno>
+                  <author ref="#wr-person-0158">Schmitt, Dr. Eugen Heinrich</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>1. <hi rend="text-spaced">JUNI</hi> 1898</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">DIE NAZARENER</hi>.<lb/>
+Von Dr. <rs type="person" key="">Eugen Heinrich Schmitt</rs> (Budapest).</title>
+            </ab>
+            <p>Von Zeit zu Zeit tauchen Nachrichten auf, dass in Ungarn oder<lb/>
+auch in Serbien Militärpflichtige die Waffenfolge verweigern, infolge-<lb break="no"/>
+dessen zu langjährigem Kerker verurtheilt werden, in welchem sie<lb/>
+schmachten, bis sie nach wiederholter vergeblicher Aufforderung die<lb/>
+grösste Zeit ihrer Militärpflichtigkeit im Gefängnisse abgesessen, um<lb/>
+endlich nach 12- bis 16jähriger Haft als körperlich gebrochen und<lb/>
+untauglich entlassen zu werden. Man nennt die Leute <hi rend="text-spaced">Nazarener</hi>.<lb/>
+Sie weigern sich Waffen zu nehmen und Eid zu leisten, mit der Be-<lb break="no"/>
+gründung, dass Christus keinerlei Menschenmord, auch nicht den auf<lb/>
+behördlichen Befehl gestattet habe, dass er vielmehr befohlen habe,<lb/>
+selbst unsere Feinde zu lieben; dass er mit völlig klaren, völlig unzwei-<lb break="no"/>
+deutigen Worten den Eid verboten habe. (Ev. Matth. 5. V. 33—37.)</p>
+            <p>Wer sind diese eigenthümlichen Menschen, die inmitten des in<lb/>
+Waffen starrenden, christlichen Europa sich auf die Worte des Meisters<lb/>
+berufen und dieselben mit dem unerschütterlichen Heroismus der Blut-<lb break="no"/>
+zeugen der Urkirche befolgen? Begeben wir uns einmal in ihren Kreis,<lb/>
+um den Anachronismus näher zu studiren.</p>
+            <p>In einem Betsaal mit schlichten Bänken, an dessen Ende sich<lb/>
+ein Tisch befindet, versammeln sich Männer und Weiber, die einen in<lb/>
+der linken, die anderen in der rechten Bankreihe. Um den Tisch nehmen<lb/>
+auf Stühlen die Altesten der Gemeinde Platz. Es sind einfache Leute<lb/>
+in schlichten, meist ärmlichen Gewändern. Ein gewisser feierlicher<lb/>
+Ernst prägt sich aus in ihren Zügen, aber auch ein tiefer Friede und<lb/>
+eine eigenthümliche Heiterkeit, die aber in dem schwärmerischen<lb/>
+Blicke wie der Abglanz aus einer anderen Welt erscheint. Ihr ganzes<lb/>
+Auftreten macht auf uns den Eindruck einer ganz anderen Welt, einer<lb/>
+längstvergangenen. Ein älterer Mann vertheilt Bücher unter den An-<lb break="no"/>
+wesenden, es sind Gesangsbücher, die die Aufschrift: »Die Zionsharfe«</p>
+         </div>
+      </body>
+   </text>
+</TEI>

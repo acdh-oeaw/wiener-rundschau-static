@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-08_n0179.xml" prev="WR-04-08_n0178.xml" next="WR-04-08_n0180.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 8, S. 179</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="08"/>
+                        <biblScope unit="page" n="n0179"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0847">
+                  <title level="a">O grave where is thy Victory</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 8</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="175" to="208"/>
+                  <idno type="fn">WR-04-08_n0175.xml</idno>
+                  <author ref="#wr-person-0281">Toorop, Jan</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0849">
+                  <title level="a">Symbolische Kunst</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 8</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="177" to="179"/>
+                  <idno type="fn">WR-04-08_n0177.xml</idno>
+                  <author ref="#wr-person-0129">Scholz, Wilhelm von</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0850">
+                  <title level="a">Die Formen der Dichtkunst</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 8</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="179" to="186"/>
+                  <idno type="fn">WR-04-08_n0179.xml</idno>
+                  <author ref="#wr-person-0093">Bleibtreu, Carl</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BLEIBTREU: DIE FORMEN DER DICHTKUNST.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Kostbarkeiten in sich birgt, rollt er durch<lb/>
+die klare, kleine Welt unseres bewussten<lb/>
+Alltags. Den Künstlern, den Sonntags-<lb break="no"/>
+kindern, wirft er die fremden Kostbarkeiten<lb/>
+zu <milestone unit="3dots"/> Der dunkle Lebensvorgang ist<lb/>
+immer von unserem Bewusstsein ausge-<lb break="no"/>
+schlossen. Aber er kann sich unserem<lb/>
+Bewusstsein kundthun: in großen, schein-<lb break="no"/>
+bar unvermittelt auftauchenden Spiegel-<lb break="no"/>
+bildern, die er in unserer Phantasie wach-<lb break="no"/>
+ruft. In ihnen ist ein Abglanz der Welt,<lb/>
+aus der der Strom kommt, sie geben uns<lb/>
+Wahrheit, sie sind <hi rend="text-spaced">die Symbole des<lb/>
+Lebens</hi>, das wir nur in solchen Phantasie-<lb break="no"/>
+spiegelungen verstehen können. Solche<lb/>
+Gedanken müssen Friedrich <hi rend="text-spaced">Hebbel</hi> be-<lb break="no"/>
+wegt haben, als er einmal schrieb, er<lb/>
+glaube, die Phantasie schöpfe aus der-<lb break="no"/>
+selben Tiefe, aus der die Welt der Er-<lb break="no"/>
+scheinungen überhaupt heraufgestiegen sei;<lb/>
+oder wenn er von der Symbolisierung<lb/>
+seines Innern spricht. Auch Heinrich<lb/>
+                        <hi rend="text-spaced">Heine</hi> spricht von der »eingeborenen<lb/>
+Symbolik eingeborener Ideen«.</p>
+                  </cell>
+                  <cell>
+                     <p>So ist die symbolische Kunst recht<lb/>
+eigentlich eine Kunst des Lebens; die<lb/>
+schaffende Lebenskraft ist es, die hinter<lb/>
+all ihren Symbolen steht. Aber — und<lb/>
+das unterscheidet das Symbol wieder deut-<lb break="no"/>
+lich von der Allegorie — diese Lebens-<lb break="no"/>
+kraft ist in der symbolischen Kunst nicht<lb/>
+etwa in erdachten, poetischen Bildern ge-<lb break="no"/>
+geben, sondern es ist für sie in dieser<lb/>
+Kunst der einzige Ausdruck gefunden,<lb/>
+unter dem wir den Vorgang Leben be-<lb break="no"/>
+greifen. Und wir symbolisieren nichts als<lb/>
+dies Eine, Letzte, das Leben: Alles, was<lb/>
+in der Berührung mit unserer Seele lebendig<lb/>
+geworden ist, spricht uns nur mehr vom<lb/>
+Leben, freilich in der besonderen Form<lb/>
+und Rhythmik, die es in jedem einzelnen<lb/>
+Falle annehmen musste. Aber nur all Das,<lb/>
+was wir in uns begruben, was in uns<lb/>
+verweste, kann als Schatten an den Strom<lb/>
+niedersteigen, in dem es irdisches Ver-<lb break="no"/>
+gessen und ewiges Leben trinkt: drunten<lb/>
+im Lande unserer Phantasie. Nur dort<lb/>
+wird es zum lebendigen Symbol.*</p>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Angesichts der Verwirrung und des Lärms, der neulich um ein angeblich »symbolisti-<lb break="no"/>
+sches« Bild tobte, mag es an der Zeit sein, die oben behandelten Fragen in Anregung<lb/>
+zu bringen.</p>
+            </note>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">DIE FORMEN DER DICHTKUNST</hi>.<lb/>
+Von <rs type="person" key="">CARL BLEIBTREU</rs> (Berlin-Wilmersdorf).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Jedes menschliche Urtheil ist bekannt-<lb break="no"/>
+lich subjectiv oder, um es drastischer<lb/>
+herauszusagen, von Selbstsucht gefärbt.<lb/>
+Die Ausdehnung und Anschwellung seines<lb/>
+Ich-Bewusstseins unterscheidet den Men-<lb break="no"/>
+schen vom Thier, leiht ihm seine Größe<lb/>
+und sein Fortschreiten, aber auch Größen-<lb break="no"/>
+wahn und kleinliche Schwäche. Deshalb ist<lb/>
+wahre Menschenkenntnis so selten, die so<lb/>
+klare Physiognomik ein Buch mit sieben<lb/>
+Siegeln, weil das Ich jedes ihm gegen-<lb break="no"/>
+übertretende Object nicht objectiv sieht,<lb/>
+ja gleichsam es überhaupt nicht <hi rend="text-spaced">sieht</hi>,<lb/>
+sondern bloß subjectiv daran schnüffelt,<lb/>
+ob es einen Vortheil oder Nachtheil davon<lb/>
+erwarten könne. Das Thier, worüber wir<lb/>
+uns thöricht mit der Phrase vom »In-<lb break="no"/>
+stinct« wegtäuschen, urtheilt viel objectiver.</p>
+                  </cell>
+                  <cell>
+                     <p>Hund, Katze, Papagei lassen sich von sub-<lb break="no"/>
+jectiven Eindrücken nicht blenden, weisen<lb/>
+Schmeichelei und Futter vom Einen ab,<lb/>
+lassen sich durch Gleichgiltigkeit oder<lb/>
+Prügel vom Andern nicht abstoßen. Mit<lb/>
+ruhigem Blick beobachten sie, studieren<lb/>
+das Gesicht eines Sprechenden und geben<lb/>
+plötzlich, nachdem ihre intuitive Be-<lb break="no"/>
+trachtung mit sich schlüssig wurde, Be-<lb break="no"/>
+weise ihrer objectiven Zuneigung oder Ab-<lb break="no"/>
+neigung. Die unheimlich richtige Menschen-<lb break="no"/>
+kenntnis intelligenter Thiere ist lediglich<lb/>
+ein Ergebnis ihrer Objectivität. Nicht so<lb/>
+der Mensch. Selbst beim Weibe, das in<lb/>
+mancher Hinsicht objectiver angelegt als<lb/>
+der Mann, wirkt blendende Subjectivität,<lb/>
+sobald der Geschlechtstrieb egoistisch sich<lb/>
+regt. Der elegante Verführer erscheint</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-10_n0370.xml" prev="WR-02-01-10_n0369.xml" next="WR-02-01-10_n0371.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 10, S. 370</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="10"/>
+                        <biblScope unit="page" n="n0370"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-04-01">1 4 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0391">
+                  <title level="a">Stücke aus einem Roman in Romanzen »Zwei Menschen«</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 10</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="368" to="371"/>
+                  <idno type="fn">WR-02-01-10_n0368.xml</idno>
+                  <author ref="#wr-person-0018">Dehmel, Richard</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">370</fw>
+               <fw type="ctext">DEHMEL.</fw>
+            </fw>
+            <lg>
+               <l>Er stockt. Die Glocken rings verstummen;</l>
+               <l>es ist, als ob die Sterne summen.</l>
+               <l>Die Stirn erhebend sagt ein schwangres Weib:</l>
+            </lg>
+            <lg>
+               <l>Nur mir, nur Gott gehört mein Leib.</l>
+               <l>Mir steht ein andrer Himmel offen,</l>
+               <l>als ihn die Leidenden ermessen.</l>
+               <l>Hast du dein eignes Wort vergessen:</l>
+               <l>Gott ist der Mensch, auf den wir hoffen?!</l>
+               <l>Uns ging kein Paradies verloren,</l>
+               <l>es wird erst von uns selbst geboren.</l>
+               <l>Schon reift in manchem Schooss auf Erden</l>
+               <l>ein neuer Menschensohn — der sagt:</l>
+               <l>so ihr nicht alle Himmel in euch tragt,</l>
+               <l>könnt ihr nicht wie die Kindlein werden!</l>
+            </lg>
+            <lg>
+               <l>Es glitzern die Millionen Sterne;</l>
+               <l>zwei Menschen schauen in die Ferne.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="asterisk"/>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">Durch Rauch</hi>.</title>
+            </ab>
+            <lg>
+               <l>Ein Zimmer schwimmt voll Cigarettenduft,</l>
+               <l>zwei Menschen blasen Ringe in die Luft.</l>
+               <l>Nun blickt ein Weib, aufathmend, einen Mann</l>
+               <l>verstohlen an,</l>
+               <l>seine offne Stirn, den zugespitzten Bart,</l>
+               <l>den Mund von träumerisch verschlossener Art,</l>
+               <l>Hiebnarben neben den heftigen Nüstern,</l>
+               <l>und fängt wie unwillkürlich an zu flüstern:</l>
+            </lg>
+            <lg>
+               <l>Diese Nacht war furchtbar. Ich könnt nit schlafen,</l>
+               <l>mich quälten die unausgesprochnen Dinge;</l>
+               <l>es war halb Traum, halb Höllenstrafe.</l>
+               <l>Wie auf der Jagd — als stäke mein Hals in Schlingen</l>
+               <l>fern stand mein Gatte und schrie hetz-hetz!</l>
+               <l>Plötzlich ein Ruck: es war, als klinge</l>
+               <l>das Telephon am Kopfend meines Betts,</l>
+               <l>als wollte dein Weib mich Grauenhaftes fragen,</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

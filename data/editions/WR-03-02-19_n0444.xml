@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-19_n0444.xml" prev="WR-03-02-19_n0443.xml" next="WR-03-02-19_n0445.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 19, S. 444</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="19"/>
+                        <biblScope unit="page" n="n0444"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0709">
+                  <title level="a">Dichtungen nach Baudelaire</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 19</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="19">19</biblScope>
+                  <biblScope unit="page" from="441" to="445"/>
+                  <idno type="fn">WR-03-02-19_n0441.xml</idno>
+                  <author ref="#wr-person-0176">George, Stefan</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">CHARLES BAUDELAIRE: DIE BLUMEN DES BÖSEN.</fw>
+            </fw>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>FREMDLÄNDISCHER DUFT.</title>
+            </ab>
+            <lg>
+               <l>Wenn sich mein Auge schliesst am Sommerabend,</l>
+               <l>Und Deines heissen Busens Duft mich lezt,</l>
+               <l>Dann bin ich in ein selig Reich versetzt.</l>
+               <l>An immer gleicher Sonnenglut sich labend</l>
+            </lg>
+            <lg>
+               <l>Ein träges Eiland, das Natur beglückt</l>
+               <l>Mit seltnen Bäumen, Früchten süsser Säfte,</l>
+               <l>Mit Männern schlanken Leibes voller Kräfte,</l>
+               <l>Und Frauen, deren Auge Freimuth schmückt.</l>
+            </lg>
+            <lg>
+               <l>An wunderbarem Strand bin ich zu Gast,</l>
+               <l>Im weiten Hafen drängt sich Mast an Mast,</l>
+               <l>Noch von der Reise Müh ein wenig düster;</l>
+            </lg>
+            <lg>
+               <l>Indes vom grünen Tamarindengang</l>
+               <l>Entschwebt ein Duft und dringt mir in die Nüster,</l>
+               <l>Vermischt im Geiste mit der Schiffer Sang.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>ZIGEUNER AUF DER REISE.</title>
+            </ab>
+            <lg>
+               <l>Das Volk der Zaubrer, deren Augen blitzen,</l>
+               <l>Zieht weiter: Auf der Mütter Rücken sitzen</l>
+               <l>Die Kleinen oder stillen ihr Gelüste</l>
+               <l>Am immer offnen Schatz der langen Brüste.</l>
+            </lg>
+            <lg>
+               <l>Zu Fuss die Männer, die in Waffen starren,</l>
+               <l>Die Ihren kauern neben in den Karren,</l>
+               <l>Am Himmel suchen sie mit trübem Blicke</l>
+               <l>Die fernen Bilder glücklicher Geschicke.</l>
+            </lg>
+            <lg>
+               <l>Aus sandigem Versteck die Grille schaut</l>
+               <l>Und singt vor ihnen noch einmal so laut,</l>
+               <l>Die Mutter Erde liebt sie — Blumen dehnen</l>
+            </lg>
+            <lg>
+               <l>Sich in den Wüsten, Laub und Gräser sprossen,</l>
+               <l>Und Felsen fliessen vor den Wandrern, denen</l>
+               <l>Der Zukunft Finsternisse sich erschlossen.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
+      </body>
+   </text>
+</TEI>

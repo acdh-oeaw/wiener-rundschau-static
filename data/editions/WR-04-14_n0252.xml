@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-14_n0252.xml" prev="WR-04-14_n0251.xml" next="WR-04-14_n0253.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 14, S. 252</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="14"/>
+                        <biblScope unit="page" n="n0252"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0913">
+                  <title level="a">Die Harmonie der Sphären</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 14</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="14">14</biblScope>
+                  <biblScope unit="page" from="250" to="253"/>
+                  <idno type="fn">WR-04-14_n0250.xml</idno>
+                  <author ref="#wr-person-0292">Bailly, Edmund</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BAILLY: DIE HARMONIE DER SPHÄREN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Das unten folgende Notenbeispiel will<lb/>
+einen angeschlagenen Ton <hi rend="italics">(ut)</hi> mit seinen<lb/>
+harmonischen Nebentönen verdeutlichen —<lb/>
+das Ganze in Ziffern (von 1—16) über-<lb break="no"/>
+tragen; die Sonne und ihre Planeten sind<lb/>
+an den Punkten kenntlich gemacht, die<lb/>
+ihrer Distanz entsprechen. Der Register-<lb break="no"/>
+Umfang ist — wohlgemerkt — Fiction,<lb/>
+da ja Ton 1 in Wirklichkeit unhörbar<lb/>
+ist; das Ohr beginnt erst bei ungefähr<lb/>
+sechzehn Vibrationen in der Secunde<lb/>
+Klangwirkungen wahrzunehmen; aber es<lb/>
+handelt sich hier um die gegenseitigen<lb/>
+Beziehungen der Reihe und nicht um die</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Resonanz im eigentlichen Sinne. Bei 16<lb/>
+brechen wir ab in unserer Reihe, weil<lb/>
+von den Asteroïden angefangen zuviel<lb/>
+Hilfslinien erforderlich wären, und weil die<lb/>
+Musik jenseits von Jupiter keine Zeichen<lb/>
+mehr besitzt zur Verdeutlichung der über-<lb break="no"/>
+hohen Töne, die wir den Planeten nach<lb/>
+Maßgabe ihrer Distanzen zugetheilt haben.<lb/>
+Um unser Beispiel zu vervollständigen,<lb/>
+bleibt uns schließlich für diese Töne nichts<lb/>
+anderes übrig als eine Angabe ihrer<lb/>
+Schwingungs-Anzahl (pro Secunde), indem<lb/>
+wir als Grundton ein <hi rend="italics">ut</hi> von 128 Schwin-<lb break="no"/>
+gungen annehmen.</p>
+                  </cell>
+               </row>
+            </table>
+            <figure type="musicalScore">
+               <p>1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16</p>
+               <p>SONNE</p>
+               <p>VENUS</p>
+               <p>ERDE</p>
+               <p>MARS</p>
+            </figure>
+            <table>
+               <row>
+                  <cell>Index 32
+</cell>
+                  <cell>der
+</cell>
+                  <cell>ASTEROÏDEN
+</cell>
+                  <cell>entspricht
+</cell>
+                  <cell>einem <hi rend="italics">ut</hi>
+                  </cell>
+                  <cell>von
+</cell>
+                  <cell>4.096
+</cell>
+                  <cell>Schwingungen.
+</cell>
+               </row>
+               <row>
+                  <cell>52
+</cell>
+                  <cell>des
+</cell>
+                  <cell>JUPITER
+</cell>
+                  <cell>
+</cell>
+                  <cell>
+                     <hi rend="italics">la</hi> ♭
+</cell>
+                  <cell>
+</cell>
+                  <cell>6.656
+</cell>
+                  <cell>
+</cell>
+               </row>
+               <row>
+                  <cell> 96
+</cell>
+                  <cell>
+</cell>
+                  <cell>SATURN
+</cell>
+                  <cell>
+</cell>
+                  <cell>
+                     <hi rend="italics">sol</hi>
+                  </cell>
+                  <cell>
+</cell>
+                  <cell>12.288
+</cell>
+                  <cell>
+</cell>
+               </row>
+               <row>
+                  <cell> 192
+</cell>
+                  <cell>
+</cell>
+                  <cell>URANUS
+</cell>
+                  <cell>
+</cell>
+                  <cell>
+                     <hi rend="italics">sol</hi>
+                  </cell>
+                  <cell>
+</cell>
+                  <cell>24.576
+</cell>
+                  <cell>
+</cell>
+               </row>
+               <row>
+                  <cell> 300
+</cell>
+                  <cell>
+</cell>
+                  <cell>NEPTUN
+</cell>
+                  <cell>
+</cell>
+                  <cell>
+                     <hi rend="italics">mi</hi> ♭
+</cell>
+                  <cell>
+</cell>
+                  <cell>38.400
+</cell>
+                  <cell>
+</cell>
+               </row>
+            </table>
+            <table>
+               <row>
+                  <cell>
+                     <p>So setzt sich das Sonnensystem in<lb/>
+den gigantischen<lb/>
+                        <table>
+                           <row>
+                              <cell>
+                                 <p>ACCORD um:</p>
+                              </cell>
+                              <cell>
+                                 <p>ut
+ut<lb/>
+si ♭<lb/>
+mi<lb/>
+si ♮<lb/>
+ut<lb/>
+la ♭<lb/>
+sol<lb/>
+sol<lb/>
+mi ♭</p>
+                              </cell>
+                           </row>
+                        </table>
+der ein Diagramm von 38.272 Schwin-<lb break="no"/>
+gungen umspannt oder, mit anderen<lb/>
+Worten, den Umfang von acht Octaven<lb/>
+und einer kleinen Terz, was nahezu um<lb/>
+zwei Octaven die äußersten Grenzen des<lb/>
+Orchesters (zwischen dem tiefen Contra-<lb break="no"/>
+bass-<hi rend="italics">mi</hi> und dem hohen <hi rend="italics">si</hi> ♭ der kleinen<lb/>
+Flöte) überschreitet. Solch ein Accord ist<lb/>
+also — vom musikalischen Standpunkte<lb/>
+aus gesprochen — unausführbar. Seiner</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Beschaffenheit nach vereinigt er gleich-<lb break="no"/>
+zeitig zwei Tonalitäten und zwei ver-<lb break="no"/>
+schiedene Tonarten; aber die Resonanz<lb/>
+der vier äußersten Noten an der Spitze<lb/>
+der Tonleiter nimmt immer mehr und<lb/>
+mehr an Takt und Stärke ab, je näher<lb/>
+man dem Neptun kommt, dessen <hi rend="italics">mi</hi> ♭<lb/>
+(38.400 Schwingungen) nicht näher be-<lb break="no"/>
+stimmt werden kann. Diese Intensitäts-<lb break="no"/>
+Abnahme muss noch fühlbarer werden,<lb/>
+wenn man die geringe Dichte dieser so<lb/>
+sehr entlegenen Planeten in Anschlag bringt<lb/>
+und wenn man die Klang-Intensität und<lb/>
+die Planeten-Dichte in das Gesetz der<lb/>
+Analogie einbezieht. So offenbart sich uns<lb/>
+eine überraschende Ähnlichkeit zwischen<lb/>
+der harmonischen Reihe in der <hi rend="text-spaced">Musik</hi> und<lb/>
+der harmonischen Reihe der <hi rend="text-spaced">Sternen</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">welt</hi>, in deren innerstem Bereich sich<lb/>
+unsere Pläne und Träume wiegen<milestone unit="3dots"/>
+                     </p>
+                     <p>Zergliedert man dieses mächtig auf-<lb break="no"/>
+gethürmte Harmonien-Gebilde und knüpft<lb/>
+man die allzu auseinanderliegenden Theile</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

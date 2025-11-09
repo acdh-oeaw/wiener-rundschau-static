@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-13_n0298.xml" prev="WR-03-01-13_n0297.xml" next="WR-03-01-13_n0299.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 13, S. 298</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="13"/>
+                        <biblScope unit="page" n="n0298"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0669">
+                  <title level="a">Ansichtskarten</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 13</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="297" to="298"/>
+                  <idno type="fn">WR-03-01-13_n0297.xml</idno>
+                  <author ref="#wr-person-0004">Altenberg, Peter</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0670">
+                  <title level="a">Sermon wider die Literaten in Dingen der dramatischen Dichtkunstkunst</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 13</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="298" to="303"/>
+                  <idno type="fn">WR-03-01-13_n0298.xml</idno>
+                  <author ref="#wr-person-0049">Fuchs, Georg</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">FUCHS: SERMON WIDER DIE LITERATEN IN DINGEN DER DRAM. DICHTKUNST.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <ab>
+                        <title>
+                           <hi rend="text-spaced">Gruss aus W. an der Donau</hi>.</title>
+                     </ab>
+                     <p>Friedevoller Ort!</p>
+                     <p>So seien unsere Seelen, morgens,<lb/>
+abends — —.</p>
+                     <p>Wenigstens morgens, abends!</p>
+                     <ab>
+                        <title>
+                           <hi rend="text-spaced">Allee im Schlossgarten</hi>.</title>
+                     </ab>
+                     <p>Hier möchte ich mit Ihnen auf- und<lb/>
+abwandeln, Lilith, und Ihre blonden<lb/>
+langen offenen Haare küssen, ohne dass<lb/>
+Sie es merkten! Denn lose fliessen sie<lb/>
+über Ihre Schultern herab. Im Auf- und<lb/>
+Abwandeln könnte ich dieselben küssen,<lb/>
+ohne dass Sie es merkten, Lilith. Mit<lb/>
+meinen Augen!</p>
+                     <ab>
+                        <title>
+                           <hi rend="text-spaced">Salzburg im Schnee</hi>.</title>
+                     </ab>
+                     <p>Sommergast, in trägem Reichthume<lb/>
+geniessest Du die Natur, ein Schlemmer,<lb/>
+Prasser!</p>
+                  </cell>
+                  <cell>
+                     <p>Im Winter aber muss Deine Seele<lb/>
+tüchtig mithelfen, die Landschaft zu ge-<lb break="no"/>
+niessen.</p>
+                     <p>Im Sommer dichtet die Natur <hi rend="text-spaced">für<lb/>
+Dich</hi>!</p>
+                     <p>Im Winter musst Du <hi rend="text-spaced">für sie</hi> dichten!</p>
+                     <ab>
+                        <title>
+                           <hi rend="text-spaced">Blick von der Rax</hi>.</title>
+                     </ab>
+                     <p>Grellweisse Steine. Gelbgrüne Wiese<lb/>
+mit nassen Stellen. Schwarze Krumm-<lb break="no"/>
+Kiefer. Hellgraue, vom Winde ausgelaugte<lb/>
+Bäume. Hier werden keine kleinen Kinder<lb/>
+malträtiert. Hier wünscht niemand, Sec-<lb break="no"/>
+tionsrath zu werden. Hier fällt Regen,<lb/>
+saust Wind. Hier fällt Schnee, braust<lb/>
+Sturm!</p>
+                     <milestone unit="asterisk"/>
+                     <p>Sie sandte von überall Ansichtskarten.<lb/>
+Auf jeder aber stand ganz einfach: »Ich<lb/>
+gedenke Ihrer!«</p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>SERMON WIDER DIE LITERATEN<lb/>
+IN DINGEN DER DRAMATISCHEN DICHTKUNST.<lb/>
+Von <rs type="person" key="">GEORG FUCHS</rs> (Darmstadt).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Ihr erwartet nicht, dass ich mich ab-<lb break="no"/>
+gebe mit den Erzeugnissen der neuzeit-<lb break="no"/>
+lichen <hi rend="text-spaced">Theater</hi>- <hi rend="text-spaced">und Schriftsteller-<lb break="no"/>
+Geschäfte</hi>. Ihr selbst achtet diese, auch<lb/>
+wenn sie noch so »berühmt« sind, nicht<lb/>
+höher als unternehmende Gastwirte,<lb/>
+Spielhallenbesitzer und sonstige Gewerbe-<lb break="no"/>
+treibende, die sich Brot und Reichthum,<lb/>
+redlich oder betrügerisch, dadurch ver-<lb break="no"/>
+dienen, dass sie dem Haufen geringer,<lb/>
+aber wohlhabender Leute des Abends<lb/>
+eine Kurzweil bereiten. Da mag denn<lb/>
+auch mehr wie einer darunter sein, den<lb/>
+die Zeitungen heute als »wahren Dichter«<lb/>
+und in jedem Betracht »grossen Mann«<lb/>
+feiern. — Wäre dagegen die sogenannte<lb/>
+»<hi rend="text-spaced">moderne Literatur</hi>« zu beachten? —<lb/>
+Ihre Vertreter verkünden zwar, dass sie<lb/>
+die Kunst überflüssig mache, oder gar,<lb/>
+dass sie die Kunst sei, nämlich eine<lb/>
+»naturalistische« Kunst. Die meisten Er-<lb break="no"/>
+zeugnisse dieser »fortgeschrittensten Rich-<lb break="no"/>
+tung« verdanken das flüchtige Aufsehen,</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">das sie erregen, nur dem Umstande, dass<lb/>
+sie Dinge in breiter und manchmal auf-<lb break="no"/>
+reizender Weise zur Sprache bringen, die<lb/>
+der »gute Ton« des Bürgers sonst zu<lb/>
+verschweigen gebietet. Dass über diese<lb/>
+ebenso entarteten als anspruchsvollen<lb/>
+Literaten und moralistischen Exhibitionisten<lb/>
+ein Wort verloren werde, dürfte sich gleich-<lb break="no"/>
+falls ein jeglicher verbitten, der über die<lb/>
+gröbste Barbarei hinausgekommen ist.</p>
+                     <p>Um hier ein Missverständnis zu ver-<lb break="no"/>
+meiden, sei die überflüssige Anmerkung<lb/>
+nicht unterdrückt, dass keine Lebens-<lb break="no"/>
+erscheinung ausgeschlossen ist als Träger<lb/>
+einer <hi rend="text-spaced">Kunstform</hi>. Sophokles hat im<lb/>
+»König Oedipus« die Blutschande, im<lb/>
+»Philoktet« ekelhafte Krankheit dargestellt,<lb/>
+Holbein in der »Heiligen Elisabeth« die<lb/>
+mit Geschwüren bedeckten, aussätzigen<lb/>
+Krüppel unmittelbar neben die fürstlichste,<lb/>
+reinste Schönheit gesetzt. Die Kunst der<lb/>
+grossen Zeiten aller Völker ist unerschöpf-<lb break="no"/>
+lich in der »Darstellung« der Wohllust</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

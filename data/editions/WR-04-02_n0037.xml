@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-02_n0037.xml" prev="WR-04-02_n0036.xml" next="WR-04-02_n0038.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 2, S. 37</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0037"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0797">
+                  <title level="a">Die Anormalen</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 2</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="37" to="41"/>
+                  <idno type="fn">WR-04-02_n0037.xml</idno>
+                  <author ref="#wr-person-0264">Ferri, Enrico</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIE ANORMALEN.<lb/>
+Von <rs type="person" key="">ENRICO FERRI</rs> (Fiesole).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Wenn man die Existenz einer Sache<lb/>
+zum erstenmale erfährt oder bemerkt,<lb/>
+so fällt man stets der Illusion anheim,<lb/>
+diese Sache habe vorher nicht existiert,<lb/>
+und diese Illusion erzeugt stets übertriebene<lb/>
+Schlussfolgerungen.</p>
+                     <p>Die Mikroben haben vor <hi rend="text-spaced">Pasteur</hi> sicher-<lb break="no"/>
+lich existiert, doch wie vielen Leuten haben<lb/>
+die wunderbaren Entdeckungen der Mikro-<lb break="no"/>
+biologie eine übertriebene Angst vor den<lb/>
+Mikroben eingeflößt, gerade als wenn die-<lb break="no"/>
+selben erst seit der mikroskopischen Technik<lb/>
+existierten, die sie unseren Augen enthüllt<lb/>
+hat. Und so ist man zu einer wahren Mikro-<lb break="no"/>
+biophobie gelangt — der Luft und<lb/>
+dem Staub gegenüber, den man ein-<lb break="no"/>
+athmet, dem Wasser, das man trinkt,<lb/>
+den Briefmarken, die man auf die Briefe<lb/>
+klebt. In Wahrheit sind die Mikroben, als<lb/>
+sie erst einmal bekannt waren, immer<lb/>
+weniger furchtbar geworden, denn man hat<lb/>
+gefunden, dass es auch eine große Anzahl<lb/>
+von wohlthätigen Mikroben gibt, und dass<lb/>
+man bei den schädlichen Mikroben Regeln<lb/>
+der Vorbeugungsmethode zur Anwendung<lb/>
+bringen kann, die viel nützlicher und wirk-<lb break="no"/>
+samer sind, als jede blinde Therapeutik oder<lb/>
+posthume Unterdrückung. So muss man<lb/>
+sich denn schließlich an den Gedanken<lb/>
+gewöhnen, dass unser Körper stets und<lb/>
+überall von allen möglichen Mikroben<lb/>
+durchsetzt und behaftet ist, dass ihre<lb/>
+morbigene Thätigkeit das Ergebnis mehr<lb/>
+oder weniger günstiger biologischer Be-<lb break="no"/>
+dingungen der Kraft oder Schwäche unseres<lb/>
+Körpers ist, der je nach den näheren Um-<lb break="no"/>
+ständen in dem Kampfe um die Gesund-<lb break="no"/>
+heit bei dem heftigen Angriff oder dem<lb/>
+tückischen Eindringen der schädlichen<lb/>
+Mikroben Sieger oder Besiegter bleibt.</p>
+                     <p>Dieselbe Erscheinung zeigt sich an-<lb break="no"/>
+lässlich unserer Kenntnisse der anor-<lb break="no"/>
+malen Individuen: Verbrecher, Entartete,<lb/>
+Schwachsinnige, Genies, Verrückte, Fa-<lb break="no"/>
+natiker, Conträr-Sexuelle, Selbstmordcandi-<lb break="no"/>
+daten, zeitweise Gestörte, Jähzornige u.s.w.</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">u. s. w. Es sind dies Makroben, gegen die<lb/>
+man nach den in der zweiten Häfte des<lb/>
+XIX. Jahrhunderts von den Psychiatern,<lb/>
+den Neuro-Pathologen, den Anthropologen<lb/>
+(von <hi rend="text-spaced">Morel</hi> bis <hi rend="text-spaced">Lombroso</hi>) entworfenen<lb/>
+wissenschaftlichen Schilderungen eine über-<lb break="no"/>
+triebene Abneigung, Hass und Angst gefasst<lb/>
+hat.</p>
+                     <p>Man hatte wohl in der alten Geschichte<lb/>
+und in der des Mittelalters von den Extra-<lb break="no"/>
+vaganzen dieses oder jenes großen Mannes,<lb/>
+dieses oder jenes römischen Kaisers, wie:<lb/>
+Nero, Heliogabalus, Caracalla u. s. w. ge-<lb break="no"/>
+lesen; man hatte von den Epidemien des<lb/>
+Wahnsinns oder des Fanatismus, von mehr<lb/>
+oder weniger blutigen Attentaten gehört.<lb/>
+Doch das alles blieb nur im Zustande<lb/>
+einer oberflächlichen Erinnerung nach ober-<lb break="no"/>
+flächlichen Anecdoten, nach dem Muster<lb/>
+der seltsamen und stets wechselnden Costüme<lb/>
+der Mode, oder man beschränkte sich auf<lb/>
+die angebliche Erklärung der Thatsache<lb/>
+als ein Spiel der Natur, ein „lusus naturae“.</p>
+                     <p>Doch als die Experimental-Methode<lb/>
+auch beim Studium der moralischen<lb/>
+Monstrositäten, in ihren organischen<lb/>
+und psychischen Charakteren, und auch<lb/>
+beim Studium des anormalen Menschen<lb/>
+zur Anwendung gelangte, da hatte man<lb/>
+den Eindruck von der neuen Existenz<lb/>
+einer Sache, die man vorher nicht einmal<lb/>
+vermuthet hatte. Und nach der unver-<lb break="no"/>
+meidlichen Opposition des Misoneismus<lb/>
+gegen die Beobachtungen der Psycho-<lb break="no"/>
+Pathologie und criminalistischen Anthro-<lb break="no"/>
+pologie — die man schon durch die<lb/>
+Macht der üblichen Syllogismen vernichten<lb/>
+zu können geglaubt —, begann das öffent-<lb break="no"/>
+liche Bewusstsein zwei Begriffe zu unter-<lb break="no"/>
+scheiden: den <hi rend="text-spaced">normalen</hi> Menschen (der<lb/>
+an den Durchschnittsmenschen <hi rend="text-spaced">Quetelets</hi>
+                        <lb/>
+erinnert) und den <hi rend="text-spaced">anormalen</hi> Menschen.<lb/>
+Das alles ist so ziemlich positiv und<lb/>
+genau. Phantastisch und übertrieben aber<lb/>
+ist das voreilige Urtheil, das man daraus<lb/>
+gegen alle Anormale ohne Unterschied</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

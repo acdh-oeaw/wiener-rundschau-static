@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-03_n0058.xml" prev="WR-03-01-03_n0057.xml" next="WR-03-01-03_n0059.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 3, S. 58</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0058"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0551">
+                  <title level="a">Die Alkestis des Euripides</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="55" to="62"/>
+                  <idno type="fn">WR-03-01-03_n0055.xml</idno>
+                  <author ref="#wr-person-0141">Hofmannsthal, Hugo v.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">HOFMANNSTHAL: DIE ALKESTIS DES EURIPIDES.</fw>
+            </fw>
+            <lg>
+               <l>Ohnmächtig winselnd, bis der Tod mich holt</l>
+               <l>Und Dir entgegenführt zum zweitenmal!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alkestis</hi>.</p>
+            <lg>
+               <l>Habt Ihr verstanden Kinder, wie der Vater</l>
+               <l>Gelobte, dass er nie ein and’res Weib,</l>
+               <l>Mein Fleh’n missachtend, Euch zur Mutter gibt?</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Admet</hi>.</p>
+            <lg>
+               <l>Ich schwör’ es abermals und heilig Dir.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alkestis</hi>.</p>
+            <lg>
+               <l>Jetzt musst Du ihnen auch die Mutter sein.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Admet</hi>.</p>
+            <lg>
+               <l>Wohl haben sie mich nöthig, Dein beraubt.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alkestis</hi>.</p>
+            <lg>
+               <l>Ich sollte leben, Kinder, und ich muss</l>
+               <l>Hinunter!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Admet</hi>.</p>
+            <lg>
+               <l>Was beginn’ ich ohne Dich!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alkestis</hi>.</p>
+            <lg>
+               <l>Ein Todter ist ja nichts! Ein wenig Zeit,</l>
+               <l>Und alles dies ist Dir so fern und fremd!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Admet</hi>.</p>
+            <lg>
+               <l>O verlass’ die Kinder nicht!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alkestis</hi>.</p>
+            <lg>
+               <l>Ich muss fort, Kinder, Kinder! Lebt wohl!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Admet</hi>.</p>
+            <lg>
+               <l>Was willst Du denn?! Was willst Du denn?!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alkestis</hi>.</p>
+            <lg>
+               <l>Fortgeh’n. Leb’ wohl.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <p>(Sie sinkt zurück.)</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Admet</hi>.</p>
+            <lg>
+               <l>Alkestis! Todt!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Die Männer und Frauen</hi>.</p>
+            <lg>
+               <l>Todt!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der kleine Eumelos</hi>.</p>
+            <lg>
+               <l>Vater, die Mutter macht so grosse Augen,</l>
+               <l>Sie hat so starre Finger. Mutter, hör’ doch!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Admet</hi>.</p>
+            <lg>
+               <l>Sie sieht Dich nicht, sie hört Dich nicht, wir sind</l>
+               <l>Sehr elend, Kinder: Arm ist Euer Vater!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Ein Edler</hi>.</p>
+            <lg>
+               <l>Mein König, tragen heisst die strenge Noth</l>
+               <l>Wir alle leiden diesen grossen Schmerz.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Admet</hi>.</p>
+            <lg>
+               <l>Dass weiss ich ja. Nicht plötzlich ist’s gekommen:</l>
+               <l>Dies namenlose Leid, ich ahnte es</l>
+               <l>Seit langem schon, und manchmal in der Nacht</l>
+               <l>Beugt’ ich mich über sie in solcher Angst,</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

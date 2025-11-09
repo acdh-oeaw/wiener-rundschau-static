@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-09_n0329.xml" prev="WR-02-01-09_n0328.xml" next="WR-02-01-09_n0330.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 9, S. 329</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="09"/>
+                        <biblScope unit="page" n="n0329"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-03-15">15 3 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0377">
+                  <title level="a">Idylle</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 9</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="09">9</biblScope>
+                  <biblScope unit="page" from="328" to="332"/>
+                  <idno type="fn">WR-02-01-09_n0328.xml</idno>
+                  <author ref="#wr-person-0141">Hofmannsthal, Hugo v.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">IDYLLE.</fw>
+               <fw type="pn">329</fw>
+            </fw>
+            <lg>
+               <l>Des Redens war’ kein Ende, zählt’ ich Alle auf,</l>
+               <l>Die Göttlichen, an deren schönem Leben ich</l>
+               <l>— Zum zweitenmale lebend, was gebildet war —</l>
+               <l>An deren Gram und Hass und Liebeslust</l>
+               <l>Und wechselndem Erlebniss jeder Art</l>
+               <l>Ich also Antheil hatte, ich, ein Kind,</l>
+               <l>Die mir mit halbverstandener Gefühle Hauch</l>
+               <l>Anrührten meiner Seele tiefstes Saitenspiel,</l>
+               <l>Dass mir zuweilen war, als hätte ich im Schlaf</l>
+               <l>Die stets verborgenen Mysterien durchirrt,</l>
+               <l>Von Lust und Leid, Erkennende mit wachem Aug’.</l>
+               <l>Davon, an dieses Sonnenlicht zurückgekehrt,</l>
+               <l>Mir mahnendes Gedenken ander’n Lebens bleibt</l>
+               <l>Und eine Fremde, Ausgeschloss’ne aus mir macht</l>
+               <l>In dieser nährenden, lebend’gen Luft der Welt.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Schmied</hi>.</p>
+            <lg>
+               <l>Den Sinn des Seins verwirrte allzuvieler Müssiggang</l>
+               <l>Dem schön gesinnten, gern verträumten Kind, mich dünkt.</l>
+               <l>Und jene Ehrfurcht fehlte, die zu trennen weiss,</l>
+               <l>Was Göttern ziemt, was Menschen! Wie Semele dies,</l>
+               <l>Die thöricht Fordernde, vergehend erst begriff,</l>
+               <l>Des Gatten Handwerk lerne heilig halten, du,</l>
+               <l>Das aus des mütterlichen Grundes Eingeweiden stammt</l>
+               <l>Und sich die hundertarmig ungebändigte,</l>
+               <l>Die Flamme unterwerfend, klug und kraftvoll wirkt.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Die Frau</hi>.</p>
+            <lg>
+               <l>Die Flamme anzusehen lockt’s mich immer neu,</l>
+               <l>Die Wechselnde, mit heissem Hauch Berauschende.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Schmied</hi>.</p>
+            <lg>
+               <l>Vielmehr erfreue Anblick dich des Werk’s!</l>
+               <l>Die Waffen, sieh’, der Pflugschar heil’ge Härte auch,</l>
+               <l>Und dieses Beil, das wilde Bäume uns zur Hütte fügt.</l>
+               <l>So schafft der Schmied, was alles And’re schaffen soll,</l>
+               <l>Wo duftig aufgeworfne Scholle Samen trinkt</l>
+               <l>Und gelbes Korn der Sichel dann entgegenquillt;</l>
+               <l>Wo zwischen stillen Stämmen nach dem scheuen Wild</l>
+               <l>Der Pfeil hinschwirrt und tödtlich in den Nacken schlägt,</l>
+               <l>Wo harter Huf von Rossen staubaufwirbelnd dröhnt</l>
+               <l>Und rasche Räder rollen zwischen Stadt und Stadt;</l>
+               <l>Wo der gewaltig klirrende, der Männerstreit</l>
+               <l>Die hohe, liederwerthe Männlichkeit enthüllt:</l>
+               <l>Da wirk’ ich fort und halt’ umwunden so die Welt</l>
+               <l>Mit starken Spuren meines Thuens, weil es tüchtig ist.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <p>Pause.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-12_n0183.xml" prev="WR-04-12_n0182.xml" next="WR-04-12_n0184.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 12, S. 183</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="12"/>
+                        <biblScope unit="page" n="n0183"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0893">
+                  <title level="a">Das tönende Phänomen in der Natur II.</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="181" to="184"/>
+                  <idno type="fn">WR-04-12_n0181.xml</idno>
+                  <author ref="#wr-person-0292">Bailly, Edmund</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BAILLY: DIE HARMONIE DER SPHÄREN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">die Glieder der doppelten und dreifachen<lb/>
+Verhältnisse, wenn zu jeder der beiden<lb/>
+Reihen die Einheit als Glied gezählt wird.*<lb/>
+Die Alten der Vorzeit haben uns auch<lb/>
+neun Musen überliefert, von denen sich<lb/>
+acht nach Plato mit den himmlischen<lb/>
+Dingen befassen, die neunte aber das<lb/>
+Irdische besänftigt und aus regelloser, ge-<lb break="no"/>
+räuschvoller Wirrnis und Zwietracht zur<lb/>
+Ruhe lockt.«</p>
+                     <milestone unit="untyped-end"/>
+                     <p>Diese Worte <hi rend="text-spaced">Plutarchs</hi> werden dem<lb/>
+Leser wohl dunkel erscheinen, wenn er sich<lb/>
+nicht einigermaßen mit der Musik-Theorie<lb/>
+der alten Griechen vertraut gemacht hat;<lb/>
+ich möchte das Angeführte nun möglichst<lb/>
+rasch und kurz erläutern: Der erste Absatz<lb/>
+besagt deutlich, dass der Erde das tiefe <hi rend="italics">la</hi>
+                     </p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">entspricht, dem Monde: <hi rend="italics">si</hi>, dem Mercur:<lb/>
+                        <hi rend="italics">ut</hi>, der Venus: <hi rend="italics">re</hi>. Die Mese <hi rend="italics">(mi)</hi> bezieht<lb/>
+sich auf die Sonne; von Mars, Jupiter<lb/>
+und Saturn wird überhaupt nicht ge-<lb break="no"/>
+sprochen, aber ohne Frage sind es <hi rend="italics">fa</hi>
+                        <lb/>
+und <hi rend="italics">sol</hi>, die ihnen in dieser diatonischen<lb/>
+Scala entsprechen; <hi rend="italics">la</hi>, das eine Octave<lb/>
+hinter dem Ausgangspunkte liegt, wird<lb/>
+auf die Fixsterne oder die Zeichen des<lb/>
+Zodiakus bezogen. Übrigens legt Plutarch<lb/>
+keinen besonderen Nachdruck auf diese<lb/>
+Combination. Was die anderen zwei Ab-<lb break="no"/>
+sätze betrifft, so werden sie, glaube ich,<lb/>
+wohl genugsam durch die folgende Tabelle<lb/>
+klar gemacht, in der ich das <hi rend="italics">grosse</hi> und<lb/>
+                        <hi rend="italics">kleine System</hi> des <hi rend="text-spaced">Pythagoras</hi> zusammen-<lb break="no"/>
+fasse.**</p>
+                  </cell>
+               </row>
+            </table>
+            <figure type="image">
+               <p>MOND</p>
+               <p>VENUS<lb/>
+MERCUR<lb/>
+SONNE</p>
+               <p>MARS</p>
+               <p>SATURN</p>
+               <p>FIXSTERNE</p>
+               <p>LA — SI — ut — re — MI — fa — sol — LA + SI — ut — re — MI — fa — sol — LA</p>
+               <p>
+                  <hi rend="italics">Proslambanomenos</hi>
+               </p>
+               <p>I<lb/>
+                  <hi rend="italics">Hypaton</hi>
+               </p>
+               <p>II<lb/>
+                  <hi rend="italics">Meson</hi>
+               </p>
+               <p>IV<lb/>
+                  <hi rend="italics">Diezeugmenon</hi>
+               </p>
+               <p>V<lb/>
+                  <hi rend="italics">Hyperboleon</hi>
+               </p>
+               <p>JUPITER</p>
+               <p>LA — si ♭ — ut — RE</p>
+               <p>III<lb/>
+                  <hi rend="italics">Synemmenon</hi>
+               </p>
+            </figure>
+            <table>
+               <row>
+                  <cell>
+                     <p>Aus einer Prüfung dieser Tabelle, die<lb/>
+uns das Tetrachord-System der antiken<lb/>
+griechischen Musik vor Augen führt, ergibt<lb/>
+sich, dass hier die Gestirne von vier zu<lb/>
+vier in die Tonleiter eingefügt sind, was<lb/>
+ihnen fictive Distanzen zuweist. Dazu<lb/>
+kommt, dass hier der <hi rend="text-spaced">Mond</hi> als <hi rend="italics">Fun-<lb break="no"/>
+damental-Ton</hi> (<hi rend="text-spaced">Grundt</hi>on) genommen ist,<lb/>
+während doch offenbar der <hi rend="text-spaced">Sonne</hi> diese<lb/>
+Rolle zufallen müsste. Solch eine Folge<lb/>
+konnte unmöglich von Pythagoras gelehrt<lb/>
+worden sein, dem doch die kreisende Be-</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">wegung der Erde um die Bildnerin unseres<lb/>
+Systems genau bekannt war, wenn er auch<lb/>
+nur seinen Schülern gegenüber — und<lb/>
+unter dem Siegel der Verschwiegenheit —<lb/>
+davon zu sprechen pflegte.***</p>
+                     <p>Das <hi rend="italics">Diagramma</hi>
+                        <hi rend="text-spaced">Platons</hi> nähert sich<lb/>
+weit mehr der Wahrheit, wenn es zwischen<lb/>
+den Welten des Sonnen-Systems Distanzen<lb/>
+einer Octave und Quinte annimmt. Leider<lb/>
+geht aber auch er von dem <hi rend="text-spaced">Mond</hi> aus<lb/>
+und bringt ihn mit dem tiefen <hi rend="italics">mi</hi> in Ver-<lb break="no"/>
+bindung; der Sonne entspricht da nun:</p>
+                  </cell>
+               </row>
+            </table>
+            <p>* Z. B.</p>
+            <figure type="image">
+1<lb/>
+2 3<lb/>
+4 9<lb/>
+8 27<lb/>
+            </figure>
+            <note type="footnote">
+               <p>** Der Leser, der die Formation dieser Systeme im Detail kennen lernen will, wird<lb/>
+mit Nutzen zu den tiefgründigen Studien greifen, die A. Dechevrens unter dem Titel: <hi rend="italics">Études<lb/>
+de Science musicale</hi> vor kurzem veröffentlicht hat.</p>
+               <p>*** Vgl. Bailly: <hi rend="italics">Geschichte der antiken Astronomie.</hi> Viele Stellen bei Aristides Quintilianus<lb/>
+beweisen deutlich, dass es eine <hi rend="text-spaced">esoterische</hi> Lehre und Betrachtungsweise der <hi rend="text-spaced">Musik</hi> in<lb/>
+den Schulen des Alterthums gegeben.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

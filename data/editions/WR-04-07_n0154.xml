@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-07_n0154.xml" prev="WR-04-07_n0153.xml" next="WR-04-07_n0155.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 7, S. 154</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="07"/>
+                        <biblScope unit="page" n="n0154"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0841">
+                  <title level="a">Flandrische Lieder</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 7</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="153" to="154"/>
+                  <idno type="fn">WR-04-07_n0153.xml</idno>
+                  <author ref="#wr-person-0280">Lemonnier, Camille</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0842">
+                  <title level="a">Unser Leben und Tod II.</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 7</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="154" to="158"/>
+                  <idno type="fn">WR-04-07_n0154.xml</idno>
+                  <author ref="#wr-person-0276">Buttenstedt, Carl</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BUTTENSTEDT: DIE ÜBERTRAGUNG DER LEBENSKRAFT.</fw>
+            </fw>
+            <p>Sind wir erst einmal reich, dann wollen wir dorthin, an den Rand des<lb/>
+Feldes gehen, wo der Himmel glänzt, und schauen, was jenseits vom Acker<lb/>
+liegt. Dort liegt die Kirche und der Friedhof; der Tod läutet dort die Glocken.<lb/>
+Houlah! Houlah! Hü! Ja!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">DAS LIED DER JACQUERIE</hi>.*</title>
+            </ab>
+            <p>Wer hat gesagt, wir wären keine Menschen wie die andern? Wie die<lb/>
+andern hier haben auch wir unsern ersten Schrei zwischen den Wassermühlen<lb/>
+und den Windmühlen ausgestoßen. Dann wuchsen uns die Zähne und der Bart,<lb/>
+und dann haben wir gebissen wie die Thiere! Unsere Haare flatterten im<lb/>
+Winde wie die Fahnen.</p>
+            <p>Warum sollten wir geringer sein als die andern, die gleich uns aus dem<lb/>
+Schoß einer Frau hervorgegangen? Haben wir nicht auch Hände, um sie zu<lb/>
+würgen, wie sie uns erwürgen?</p>
+            <p>Wir haben grad solche Gesichter wie sie und können gerade so leiden.<lb/>
+Wir sind braun wie die Felder, unsere Augen blitzen wie die Sensen, mit<lb/>
+denen wir sie am Tag der blutigen Ernte mähen werden.</p>
+            <p>Überall, wo unsere großen Füße den Boden treten, ruht der Leib des<lb/>
+Herrn, der zu unserer Erlösung gestorben ist.</p>
+            <note type="footnote">
+               <p>* Seit dem Bauern-Aufstand von <date>1358</date>, unter Carl dem Bösen von Navarra, die allgemeine<lb/>
+Bezeichnung für aufrührerisches Volk.</p>
+            </note>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>UNSER LEBEN UND TOD.<lb/>
+Von <rs type="person" key="">
+                     <hi rend="text-spaced">CARL BUTTENSTEDT</hi>
+                  </rs> (Rüdersdorf-Berlin).<lb/>
+II.<lb/>
+DIE ÜBERTRAGUNG DER LEBENSKRAFT.</title>
+            </ab>
+            <milestone unit="epigraph-start"/>
+            <p>Die beste Medicin für den Kranken<lb/>
+ist der Gesunde. <rs type="person" key="">MESMER</rs>.</p>
+            <milestone unit="untyped-end"/>
+            <table>
+               <row>
+                  <cell>
+                     <p>Wenn ein Mensch so krank ist, dass<lb/>
+seine eigene Naturheilkraft einen so niedrigen<lb/>
+Grad erreicht hat, dass sie sich selber<lb/>
+nicht mehr helfen kann, und alle Hoffnung<lb/>
+auf Genesung aufgegeben ist, dann (hat<lb/>
+die Erfahrung gelehrt) gibt es noch <hi rend="text-spaced">ein</hi>
+                        <lb/>
+Mittel, das helfen kann, und das ist die<lb/>
+— <hi rend="text-spaced">Ansteckung durch Gesundheit</hi>.</p>
+                     <p>Das mag nun freilich den Ohren der<lb/>
+heutigen Menschheit sehr unglaubwürdig<lb/>
+klingen, aber es muss doch naturwissen-<lb break="no"/>
+schaftlich widersinnig erscheinen, wenn<lb/>
+nur kranke, nicht auch gesunde Stoffe</p>
+                  </cell>
+                  <cell>
+                     <p>ansteckend wirken sollten, denn sie müssen<lb/>
+doch beide ein und demselben Gesetze<lb/>
+unterliegen. — Wir brauchen durchaus<lb/>
+nicht weit naturwissenschaftlich zu suchen,<lb/>
+um nachzuweisen, dass jeder Mensch, jedes<lb/>
+Thier unsichtbare Ausdünstungen, Aus-<lb break="no"/>
+strömungen, ja sogar rapide Ausstrahlungen<lb/>
+hat — denn es ist eine alte Erfahrung,<lb/>
+dass unsere Haushunde unsere Spuren<lb/>
+riechen, die unser Fuß hinterlässt. Unter<lb/>
+Hunderten von Fußspuren riecht unser<lb/>
+Hund unsere Spur heraus. Die Nase ent-<lb break="no"/>
+puppt sich hier als ein feineres Organ</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

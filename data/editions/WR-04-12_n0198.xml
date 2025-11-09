@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-12_n0198.xml" prev="WR-04-12_n0197.xml" next="WR-04-12_n0199.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 12, S. 198</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="12"/>
+                        <biblScope unit="page" n="n0198"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0895">
+                  <title level="a">Zwei Zeichnungen</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="189" to="212"/>
+                  <idno type="fn">WR-04-12_n0189.xml</idno>
+                  <author ref="#wr-person-0295">Beardsley, Aubrey</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0896">
+                  <title level="a">Salome</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="189" to="212"/>
+                  <idno type="fn">WR-04-12_n0189.xml</idno>
+                  <author ref="#wr-person-0068">Wilde, Oscar</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">WILDE: SALOME.</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>ERSTER SOLDAT: Prinzessin, der junge Hauptmann hat sich eben entleibt.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Lass’ mich deinen Mund küssen, Jochanaan!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>JOCHANAAN: Wird dir nicht bange, Tochter der Herodias? Habe ich dir nicht<lb/>
+gesagt, dass ich im Palaste den Flügelschlag des Todesengels gehört habe, und ist er<lb/>
+nicht gekommen, der Engel des Todes?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Lass’ mich deinen Mund küssen!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>JOCHANAAN: Tochter der Unzucht, es lebt nur Einer, der dich retten kann.<lb/>
+Es ist Der, von dem ich sprach. Geh’, such’ ihn. Er ist in einem Nachen auf dem<lb/>
+See von Galiläa und redet zu seinen Jüngern. Knie nieder am Ufer des Sees, rufe<lb/>
+ihn an und nenne ihn beim Namen. Wenn er zu dir kommt, und er kommt zu allen,<lb/>
+die ihn anrufen, dann bücke dich zu seinen Füßen, dass er dir deine Sünden vergebe.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Lass’ mich deinen Mund küssen!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>JOCHANAAN: Sei verflucht! Tochter einer blutschänderischen Mutter, sei verflucht!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Ich will deinen Mund küssen, Jochanaan!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>JOCHANAAN: Ich will dich nicht ansehen. Du bist verflucht; Salome, du bist<lb/>
+verflucht. (Er geht in die Cisterne hinab.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Ich will deinen Mund küssen, Jochanaan, ich will deinen Mund<lb/>
+küssen! <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER SOLDAT: Wir müssen den Leichnam anderswohin tragen. Der<lb/>
+Tetrarch mag keine Todten sehen, außer wenn er selbst gemordet hat.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER PAGE DER HERODIAS: Er war mein Bruder, ja er war mir näher als ein<lb/>
+Bruder. Ich gab ihm eine kleine Nardenbüchse und einen Achatring, den er immer<lb/>
+an der Hand trug. Abends giengen wir oft am Fluss spazieren und unter den Mandel-<lb break="no"/>
+bäumen, und er erzählte mir gern von seiner Heimat. Er sprach immer sehr leise.<lb/>
+Der Klang seiner Stimme war wie der Klang der Flöte, wie wenn einer auf der<lb/>
+Flöte spielt. Er hatte auch große Freude daran, im Fluss sein Bild zu betrachten.<lb/>
+Ich habe ihn oft darum getadelt.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ZWEITER SOLDAT: Du hast recht, wir müssen den Leichnam verstecken.<lb/>
+Der Tetrach darf ihn nicht sehen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER SOLDAT: Der Tetrarch wird nicht hieher kommen. Er kommt nie<lb/>
+auf die Terrasse. Er hat zu große Angst vor dem Propheten.</p>
+            <milestone unit="untyped-end"/>
+            <p>(HERODES, HERODIAS und der GANZE HOF treten ein.)</p>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Wo ist Salome? Wo ist die Prinzessin? Warum kam sie nicht<lb/>
+wieder zum Bankett, wie ich ihr befohlen hatte? Ah! hier ist sie!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Du sollst sie nicht ansehen! Fortwährend siehst du sie an!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Wie der Mond heute Nacht aussieht! Es steckt Seltsames in ihm.<lb/>
+Ist es nicht ein seltsames Bild? Er sieht aus wie ein wahnsinniges Weib, ein wahn-<lb break="no"/>
+sinniges Weib, das überall nach Buhlen sucht. Und nackt ist, ganz nackt. Die Wolken<lb/>
+wollen seine Nacktheit bekleiden, aber das Weib lässt sie nicht. Er stellt sich nackt<lb/>
+am Himmel zur Schau, wie ein betrunkenes Weib, das durch die Wolken taumelt <milestone unit="3dots"/>
+               <lb/>
+Gewiss, er sucht nach Buhlen. Sieht er nicht aus wie ein betrunkenes Weib? Es steckt<lb/>
+heut’ etwas im Mond wie ein wahnsinniges Weib, nicht?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Nein, der Mond ist wie der Mond, das ist alles. Wir wollen<lb/>
+hineingehen <milestone unit="3dots"/> Wir haben hier nichts zu thun.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Ich will hier bleiben! Manasseh, leg’ Teppiche hierher! Zündet<lb/>
+Fackeln an! Bringt die Elfenbeintische heraus und die Tische von Jaspis! Die Luft<lb/>
+ist süß hier. Ich will noch Wein mit meinen Gästen trinken. Wir müssen den Ge-<lb break="no"/>
+sandten des Cäsar alle Ehren erweisen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Nicht um ihretwillen willst du bleiben.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

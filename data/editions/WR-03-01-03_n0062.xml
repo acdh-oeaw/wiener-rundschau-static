@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-03_n0062.xml" prev="WR-03-01-03_n0061.xml" next="WR-03-01-03_n0063.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 3, S. 62</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0062"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0551">
+                  <title level="a">Die Alkestis des Euripides</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="55" to="62"/>
+                  <idno type="fn">WR-03-01-03_n0055.xml</idno>
+                  <author ref="#wr-person-0141">Hofmannsthal, Hugo v.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">HOFMANNSTHAL: DIE ALKESTIS DES EURIPIDES.</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Herakles</hi>.</p>
+            <lg>
+               <l>Heil sei Dir, König —</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Admet</hi> (bitter).</p>
+            <lg>
+               <l>Wohl, das wünscht’ ich sehr.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <p>(Er versinkt in Gedanken, es entsteht eine peinliche Pause.)</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Admet</hi> (matt).</p>
+            <lg>
+               <l>Vergib. Mein ganzes Haus ist Dir zu Dienst</l>
+               <l>Mit Trunk und Schatten, Lager, Herd und Knecht:</l>
+               <l>Mich selber nur entlass’, mir ist die Seele</l>
+               <l>Wie mohnbetäubt von traurigen Gedanken:</l>
+               <l>In meinem Haus steht eine Todtenbahre.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <p>(Diener öffnen die Thür der Halle rechts vorne und führen den Herakles hinein. Der König,<lb/>
+im Begriffe ins Haus zu gehen, wendet sich nach den untereinander murmelnden Edlen<lb/>
+zurück und sagt stark.)</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Admet</hi>.</p>
+            <lg>
+               <l>Wer mich hier nicht versteht, wer fragen will,</l>
+               <l>Wie dieses Thun zu solcher Trauer stimmt,</l>
+               <l>Wenn alles dies unziemlich scheint und hart,</l>
+               <l>Der schweige und bedenk’: Der König that’s.</l>
+            </lg>
+            <p>(Eine Stufe heruntersteigend.)</p>
+            <lg>
+               <l>Ihr schautet doch zu meinen Vätern auf</l>
+               <l>Und dachtet: »Wenn uns der durch’s Feuer führt</l>
+               <l>Ist’s gut, trägt er doch Helm und Schild von Göttern</l>
+               <l>Und tödtet er, so kommt’s, als wie ein Blitz</l>
+               <l>Nur mittelbar, aus eines Gottes Faust.«</l>
+               <l>Ich aber hab’ viel grösseres Geschenk</l>
+               <l>Und Gabe, die mich über Menschen hebt</l>
+               <l>Als Schwerter, die vom Himmel fielen, Rosse,</l>
+               <l>Die reden, Flammen um die Stirn und Stimmen</l>
+               <l>Aus Bäumen tönend: Mir ist auferlegt</l>
+               <l>
+                  <hi rend="text-spaced">So königlich zu sein</hi>, dass ich darüber</l>
+               <l>Vergessen könne all mein eig’nes Leid!</l>
+               <l>Der schöne Leib der jungen Königin</l>
+               <l>Ward in die Erde eingesenkt als Same</l>
+               <l>Für Wunderbäume, die auf Lebensfluren</l>
+               <l>Die Schatten breiten sollen, wie die Schwärme</l>
+               <l>Der wilden Tauben rauschend; alle Flüsse</l>
+               <l>In meinem Lande sollen kühner rollen</l>
+               <l>In lauterem Triumph und rollend spiegeln</l>
+               <l>Den Schatten wundervoll erhöhten Lebens;</l>
+               <l>Und Zaum und Zügel aller dieser Wunder</l>
+               <l>Will ich, wie diesen Stab in meiner Hand,</l>
+               <l>Beherrschend halten und mein Leid vergessen!</l>
+               <l>Meint Ihr, der Mann wäre über meine Schwelle</l>
+               <l>Getreten, wenn er wüsste, dass das <hi rend="text-spaced">ist</hi>,</l>
+               <l>Was ich ableugnete? — Und dieses Haus</l>
+               <l>Soll nicht zum erstenmal ungastlich heissen!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

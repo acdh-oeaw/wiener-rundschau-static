@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-03_n0091.xml" prev="WR-02-01-03_n0090.xml" next="WR-02-01-03_n0092.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 3, S. 91</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0091"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-12-15">15 12 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0322">
+                  <title level="a">Montmartre </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="91" to="94"/>
+                  <idno type="fn">WR-02-01-03_n0091.xml</idno>
+                  <author ref="#wr-person-0101">Grossmann, Stefan</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>MONTMARTRE.<lb/>
+Von <rs type="person" key="">Stefan Grossmann</rs> (Paris).</title>
+            </ab>
+            <ab>
+               <title>I.</title>
+            </ab>
+            <p>Ach, es ist kein Vergnügen mehr, von Paris zu berichten. In<lb/>
+allen Winkeln von Paris kriechen deutsche Literaten herum, auf den<lb/>
+Boulevards, im quartier latin, in Montparnasse, überall taucht plötzlich<lb/>
+unvermuthet irgend ein Wiener, Berliner oder Münchener Literat auf,<lb/>
+und jeder von ihnen wird sicher ein besserer Berichterstatter, ein Maler<lb/>
+mit leuchtenderen Farben sein als der Schreiber dieses. Man darf auch<lb/>
+nicht vergessen, dass wir jungen Scribenten an der Literatur hängen<lb/>
+wie eine brünstige Frau an ihrem armen Erwählten. In keiner Situation,<lb/>
+auch nicht in der nacktesten, vergisst ein literarischer Jüngling seinen<lb/>
+Bleistift. Er stürzt sich in den Strom des Lebens, vielleicht ohne<lb/>
+Schwimmgürtel, aber niemals ohne Notizbuch. Er meint, was ein kleiner,<lb/>
+»greller Napoleon« der Literatur — um dieses unvergängliche Wort<lb/>
+eines Wiener Waarenlieferanten zu gebrauchen — werden soll, dürfe<lb/>
+sein Schwert niemals aus den Händen lassen! So kommt es, dass die<lb/>
+Deutschen jedes Jahr einen oder zwei »Romane aus dem quartier<lb/>
+latin« erhalten, dass sie über alle Literatur- und Theaterereignisse aus<lb/>
+Paris viel besser unterrichtet sind, als es bei der beginnenden Mono-<lb break="no"/>
+tonie des französischen Salonstückes nothwendig wäre! Und wie ähn-<lb break="no"/>
+lich sehen sich alle diese Berichte aus Paris, wie billig wird diese<lb/>
+Eleganz des espritvollen Berichterstatters, wie gleichartig sind alle diese<lb/>
+Romane aus dem quartier latin!</p>
+            <p>Einer von den heitersten Parisern, Courteline oder Bill Sharp,<lb/>
+sollte sich einmal den Spass machen und ganz genau die Route auf-<lb break="no"/>
+notiren, welche alle sensationssuchenden Literaten, Einer wie der<lb/>
+Andere, gleichmässig durchmarschiren. Sie haben sich gewöhnlich kaum<lb/>
+noch die Hände gewaschen und eilen schon Abends ins Moulin rouge.<lb/>
+Morgen geht man zu bullier auf den Studentenball, übermorgen sieht<lb/>
+man Yvette Guilbert in der Scala u. s. w. <milestone unit="3dots"/> Ach gewiss, das Alles<lb/>
+sind sehr sehenswürdige Dinge, aber weshalb kommt keiner auf den<lb/>
+Einfall, sich die nichtsehenswürdigen Dinge anzusehen? Gewiss, tausende<lb/>
+Pariser drängen in die Scala und wollen Yvette Guilbert hören, aber<lb/>
+daneben gibt es in Paris hundert oder zweihundert kleine, versteckte<lb/>
+Bühnen, Café-concerts, Cabarets <milestone unit="3dots"/>
+            </p>
+            <p>Das ist das Erheiternde, wenn man oben auf dem Berge von<lb/>
+Montmartre wohnt: Diese vielen hereinströmenden Fremden zu beob-</p>
+         </div>
+      </body>
+   </text>
+</TEI>

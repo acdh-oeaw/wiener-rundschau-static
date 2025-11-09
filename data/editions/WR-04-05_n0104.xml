@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-05_n0104.xml" prev="WR-04-05_n0103.xml" next="WR-04-05_n0105.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 5, S. 104</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="05"/>
+                        <biblScope unit="page" n="n0104"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0821">
+                  <title level="a">Landschaft</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 5</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="101" to="124"/>
+                  <idno type="fn">WR-04-05_n0101.xml</idno>
+                  <author ref="#wr-person-0273">Wenban, Sion L.</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0822">
+                  <title level="a">Das Lied vom Falken</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 5</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="102" to="105"/>
+                  <idno type="fn">WR-04-05_n0102.xml</idno>
+                  <author ref="#wr-person-0274">Gorkij, Maxim</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">GORKIJ: DAS LIED VOM FALKEN.</fw>
+            </fw>
+            <p>Und der Falke erbebte und schleppte sich mit verbissenem Schrei zum Absturz,<lb/>
+indem er sich mit den Krallen auf dem schleimigen Gestein fortbewegte.</p>
+            <p>Und als er da ankam, holte er mit den Flügeln aus. Er seufzte tief, seine<lb/>
+Augen erstrahlten in Glut, und er stürzte sich hinunter.</p>
+            <p>Und wie ein Stein an den Steinen hinunterkollernd, fiel er immer schneller,<lb/>
+brach sich die Flügel, verlor das Gefieder <milestone unit="4dots"/>
+            </p>
+            <p>Die Welle des Baches ergriff ihn, wischte sein Blut aus, hüllte ihn in Schaum<lb/>
+und trug ihn mit sich zum Meere.</p>
+            <p>Die Meeresfluten aber schlugen mit wehmüthigem Brausen an die Felsen <milestone unit="3dots"/>
+               <lb/>
+Und der todte Vogel verschwand im Reiche des Meeres <milestone unit="3dots"/>
+            </p>
+            <milestone unit="hr"/>
+            <lb/>
+            <p>In der Kluft aber lag noch lange die Ringelnatter im Nachdenken über den<lb/>
+Tod des Vogels und über die Sehnsucht nach dem Himmel.</p>
+            <p>— Was hat er doch gesehen, der sterbende Falke, in dieser boden- und end-<lb break="no"/>
+losen Wüste?</p>
+            <p>— Zu welchem Ende beunruhigen solche, wie dieser da, im Tode ihre Seelen<lb/>
+mit der Liebe zum Himmel? Was wird ihnen denn dort geoffenbart?</p>
+            <p>— Ja, alles das könnt’ ich erfahren, wenn ich mich nur einen Augenblick in<lb/>
+den Himmel versetzen wollte.</p>
+            <p>Gesagt, gethan. In einen Knäuel zusammengerollt, fuhr sie durch die Lüfte,<lb/>
+und bald erglänzte sie an der Sonne wie ein schmales Band.</p>
+            <p>Geboren zum Kriechen, vermochte sie nicht zu fliegen! <milestone unit="3dots"/> Sie wusste<lb/>
+das nicht und fiel auf die Steine herab. Doch kam sie nicht ums Leben, sondern<lb/>
+lachte laut auf <milestone unit="3dots"/>
+            </p>
+            <p>— Nun, siehe, worin die Herrlichkeit der Himmelsflüge besteht! Sie besteht —<lb/>
+im Fallen <milestone unit="3dots"/> Lächerliche Vögel!</p>
+            <p>— Sie kennen die Erde nicht und sehnen sich fort, sie streben zum Himmel<lb/>
+empor und suchen das Leben in der schwülen Wüste.</p>
+            <p>— Dort herrscht nichts als öde Leere. Dort gibt es viel Licht, doch keinerlei<lb/>
+Nahrung und Stütze für ein lebendes Wesen.</p>
+            <p>— Wozu doch der Stolz? Wozu die Vorwürfe? Um die Sinnlosigkeit der<lb/>
+eigenen Wünsche zu verdecken?!</p>
+            <p>— Um unter ihnen die Untauglichkeit zu ernster Lebensarbeit zu verbergen?<lb/>
+Lächerliche Vögel! <milestone unit="3dots"/>
+            </p>
+            <p>— Nicht sollen mich fürderhin ihre Reden täuschen. Ich weiß selber alles.<lb/>
+Ich habe den Himmel gesehen!</p>
+            <p>— Zum Himmel erhob ich mich, ich ermaß ihn, ich lernte das Fallen kennen,<lb/>
+ich erschlug mich aber nicht und umso fester glaube ich an mich selbst.</p>
+            <p>— Es mögen diejenigen nur vom Truge leben, die die Erde nicht zu lieben<lb/>
+vermögen <milestone unit="3dots"/> Ich kenne die Wahrheit.</p>
+            <p>— Und ihrem Rufen schenke ich kein Gehör. Ein Geschöpf der Erde — will<lb/>
+ich der Erde leben.</p>
+            <p>Und sie rollte sich wieder zusammen auf dem Stein und war stolz auf sich selbst.</p>
+            <p>Es schimmerte das Meer ganz in der südlichen Sonne, und rauschend schlugen<lb/>
+die Fluten an das Gestade.</p>
+            <p>In ihrem stillen Geplätscher tönte das Lied vom kühnen Vogel, der den<lb/>
+Himmel liebte:</p>
+            <p>O, muthiger Falke! Der du gelebt hast unter dem Himmel, dem unermess-<lb break="no"/>
+lichen und endlosen, als Liebling der Sonne!</p>
+            <p>O, muthiger Falke! Der du dein Grab gefunden im Meere, im unendlichen<lb/>
+Meere!</p>
+            <p>Todt bist du, todt <milestone unit="3dots"/> Doch ewig lebt in den Liedern der Kühnen und Starken<lb/>
+dein heißer Ruf nach Freiheit, nach Licht!</p>
+         </div>
+      </body>
+   </text>
+</TEI>

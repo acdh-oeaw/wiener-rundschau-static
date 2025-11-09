@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-01_n0002.xml" prev="WR-02-01-01_n0001.xml" next="WR-02-01-01_n0003.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 1, S. 2</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0002"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-11-15">15 11 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0301">
+                  <title level="a">Der Herbst </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="1" to="5"/>
+                  <idno type="fn">WR-02-01-01_n0001.xml</idno>
+                  <author ref="#wr-person-0049">Fuchs, Georg</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">2</fw>
+               <fw type="ctext">FUCHS.</fw>
+            </fw>
+            <lg>
+               <l>Des letzten Lichtes Auge bricht,</l>
+               <l>Die rothe Kuppel sinkt im West,</l>
+               <l>Die weissen Schleier schliessen dicht;</l>
+               <l>Einmal noch ein Dohlenflug —</l>
+               <l>Schrill ein Schrei aus hohem Nest;</l>
+               <l>Gestirne wandeln im steigenden Zug.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="performance-start"/>
+            <ab>
+               <title>II.<lb/>
+                  <hi rend="text-spaced">Das Pans</hi>-<hi rend="text-spaced">Opfer</hi>.</title>
+            </ab>
+            <milestone unit="speech-start"/>
+            <p>Der Sänger.</p>
+            <lg>
+               <l>Hier sind die Sitze; Vater, rastet</l>
+               <l>Bei des Gottes erznen Sohlen,</l>
+               <l>Lehnt Euch an geschweifte Bohlen,</l>
+               <l>Dass mit goldner Hand Euch der Ahorn tastet.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>Der Vater.</p>
+            <lg>
+               <l>Wie blickt der Gott?</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>Der Sänger.</p>
+            <lg>
+               <l>Froh und gnadenreich und mächtig,</l>
+               <l>Satt von ungemessnen Spenden</l>
+               <l>Quillt die Hand von Trauben trächtig,</l>
+               <l>Prachtvoll schwillt die Kraft der Lenden.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>Der Vater.</p>
+            <lg>
+               <l>Wie die Opfer?</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>Der Sänger.</p>
+            <lg>
+               <l>Hoch geschichtet!</l>
+               <l>Reinlich, ehrfurchtsvoll gesichtet,</l>
+               <l>Ueberbietend das Gebot,</l>
+               <l>Prangend unter Seinen Eichen,</l>
+               <l>Die rings aus den Felsen reichen,</l>
+               <l>Sie bedachend scharlachroth.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>Der Vater.</p>
+            <lg>
+               <l>So schau hinab auf Dorf und Thal,</l>
+               <l>Melde mir nun von den Dingen</l>
+               <l>In der Erde breitem Saal:</l>
+               <l>Lass die Leier mir erklingen!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

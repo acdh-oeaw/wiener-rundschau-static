@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="WR-02-01-02_n0051.xml"
+     prev="WR-02-01-02_n0050.xml"
+     next="WR-02-01-02_n0052.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 2, S. 51</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0051"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-12-01">1 12 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text">
+                  <author/>
+                  <title n=""/>
+                  <biblScope unit="page">-</biblScope>
+                  <idno/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page"><fw type="hd"><fw type="ctext">ADONAI.</fw><fw type="pn">51</fw></fw><ab><title>3.</title></ab><lg><l>Meine Liebe flattert, ein neckender Zephir,</l>
+<l>Um alle Duftblüthen deiner Frühlingsseele;</l>
+<l>Meine Liebe braust um alle deine Felsen,</l>
+<l>Wie ein Himmelssturm die weite Erde umarmt.</l></lg><lg><l>Meine Liebe ist wie der thätige, rastlose Tag,</l>
+<l>Der immer wieder neuerschafft;</l>
+<l>Aber auch wie die lautlos edle Mitternacht,</l>
+<l>Die jedes Wehen durchheiligt.</l></lg><lg><l>Meine Liebe ist wie das wirre Chaos,</l>
+<l>Das in sich selbst herumkreist;</l>
+<l>Meine Liebe ist wie die heilige Ruhe,</l>
+<l>Die nichts mehr kennt — ausser sich.</l></lg><ab><title>4.</title></ab><lg><l>In allem Sichtbaren</l>
+<l>Habe ich dich umarmt,</l>
+<l>Aus allen Unbegreiflichkeiten</l>
+<l>Hast du mich wiedergeküsst.</l></lg><lg><l>Alles Sichtbare</l>
+<l>Will ich dir dafür schenken,</l>
+<l>Aus allen Unbegreiflichkeiten</l>
+<l>Soll dir strömen mein Königsdank.</l></lg><lg><l>Wachsen wirst du</l>
+<l>Ueber alles Geborene;</l>
+<l>Die Umarmung unserer Liebe</l>
+<l>Erneuert das Antlitz der Welt.</l></lg><lg><l>Deine Seele wird eine Sonne sein,</l>
+<l>Die Sonne aller Sonnen;</l>
+<l>Ich aber bin eine waltende Kraft,</l>
+<l>Die ewige, alldurchwirkende.</l></lg><lg><l>So wächst aus unserer Umarmung</l>
+<l>Das endlos Kreisende;</l>
+<l>Das Unbegreifliche</l>
+<l>Wird <hi rend="text-spaced">geboren</hi> in unserer Liebe!</l></lg><p>Wien. <rs type="person" key="">Freiherr Karl von Levetzow</rs>.</p><milestone unit="untyped-end"/></div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-01_n0020.xml" prev="WR-01-01-01_n0019.xml" next="WR-01-01-01_n0021.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 1, S. 20</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0020"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-11-15">15 11 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0008">
+                  <title level="a">Die demolirte Literatur</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="19" to="27"/>
+                  <idno type="fn">WR-01-01-01_n0019.xml</idno>
+                  <author ref="#wr-person-0008">Kraus, Karl</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">20</fw>
+               <fw type="ctext">KRAUS.</fw>
+            </fw>
+            <p>schmerzlich entbehren, welches, was ihm an Bequemlichkeit<lb/>
+gefehlt, jederzeit durch Stimmung zu ersetzen vermocht hat.<lb/>
+Nur der grosse Zug, der hin und wieder durch diese Kaffee-<lb break="no"/>
+hausidylle ging, wurde von den sensiblen Stammgästen als<lb/>
+Stilwidrigkeit empfunden, und in der letzten Zeit häuften<lb/>
+sich die Fälle, dass junge Schriftsteller angestrengte Pro-<lb break="no"/>
+ductivität mit einem Rheumatismus bezahlten. Dass in einem<lb/>
+so exceptionellen Café auch die Kellnernatur einen Stich<lb/>
+ins Literarische aufweisen musste, leuchtet ein. Hier haben<lb/>
+sich die Marqueure in ihrer Entwicklung dem Milieu an-<lb break="no"/>
+gepasst. Schon in ihrer Physiognomie drückte sich eine<lb/>
+gewisse Zugehörigkeit zu den künstlerischen Bestrebungen<lb/>
+der Gäste, ja das stolze Bewusstsein aus, an einer lite-<lb break="no"/>
+rarischen Bewegung nach Kräften mitzuarbeiten. Das Ver-<lb break="no"/>
+mögen, in der Individualität eines jeden Gastes aufzugehen,<lb/>
+ohne die eigene Individualität preiszugeben, hat diese Kellner<lb/>
+hoch über alle ihre Berufscollegen emporgehoben, und man<lb/>
+mochte nicht an eine Kaffeesiedergenossenschaft glauben,<lb/>
+die ihnen die Posten vermittle, sondern stellte sich vor, die<lb/>
+deutsche Schriftstellergenossenschaft habe sie berufen. Eine<lb/>
+Reihe bedeutender Kellner, welche in diesem Kaffeehause<lb/>
+gewirkt haben, bezeichnet die Entwicklung des heimischen<lb/>
+Geisteslebens. Eine überholte Dichtergeneration sah Franz,<lb/>
+den Würdigen, dessen Andenken noch in zahlreichen Anek-<lb break="no"/>
+doten festgehalten wird. Es lag Stil und Grösse darin, wenn<lb/>
+er einem Passanten, der nach zwanzig Jahren wieder einmal<lb/>
+auftauchte, dieselbe Zeitung unaufgefordert in die Hand gab,<lb/>
+die jener als Jüngling begehrt hatte. Franz, der k. k. Hof-<lb break="no"/>
+Marqueur, hat eine Tradition geschaffen, welche heute von<lb/>
+den Jungen über den Haufen geworfen ist. Mit dem Tode<lb/>
+des alten Kellners, dessen hofräthliche Würde schlecht zu<lb/>
+dem Sturm und Drang der Neunzigerjahre gepasst hätte,<lb/>
+begann eine neue Aera. Franz, der mit Grillparzer und Bauern-<lb break="no"/>
+feld verkehrt hatte, erlebte es noch, wie der Naturalismus<lb/>
+seinen Siegeslauf von Berlin in das Café Griensteidl nahm<lb/>
+und als kräftige Reaction gegen ein schöngeisterndes Epi-<lb break="no"/>
+gonenthum von einigen Stammgästen mit Jubel aufgenommen<lb/>
+ward. Seit damals gehört das Café Griensteidl der modernen<lb/>
+Kunst, eine neue Kellnergeneration stand bereit, sich mit</p>
+         </div>
+      </body>
+   </text>
+</TEI>

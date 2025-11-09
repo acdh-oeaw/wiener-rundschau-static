@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-05_n0103.xml" prev="WR-04-05_n0102.xml" next="WR-04-05_n0104.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 5, S. 103</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="05"/>
+                        <biblScope unit="page" n="n0103"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0821">
+                  <title level="a">Landschaft</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 5</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="101" to="124"/>
+                  <idno type="fn">WR-04-05_n0101.xml</idno>
+                  <author ref="#wr-person-0273">Wenban, Sion L.</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0822">
+                  <title level="a">Das Lied vom Falken</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 5</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="102" to="105"/>
+                  <idno type="fn">WR-04-05_n0102.xml</idno>
+                  <author ref="#wr-person-0274">Gorkij, Maxim</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">GORKIJ: DAS LIED VOM FALKEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">diese silbernen Flecken auf dem Wasser,<lb/>
+sie sind vielleicht er selbst? <milestone unit="2dots"/> Wer<lb/>
+weiß es?«</p>
+                     <p>Der dunkle, sich erschließende Himmel<lb/>
+erschien heller und heller; an einzelnen<lb/>
+Stellen zeigten sich nachlässig aufgewor-<lb break="no"/>
+fene Strahlen des Mondes. Hinter den<lb/>
+bemoosten Bergen tauchten sie auf und<lb/>
+ergossen nun gedankenvoll ihr Licht auf<lb/>
+das Meer, das ihnen still engegenathmete.</p>
+                     <p>»Ragim! Erzähle mir ein Märchen <milestone unit="2dots"/>«<lb/>
+drang ich in den Alten.</p>
+                     <p>»Wozu?« fragte Ragim, ohne sich<lb/>
+mir zuzuwenden.</p>
+                  </cell>
+                  <cell>
+                     <p>»So! Ich liebe deine Märchen.«</p>
+                     <p>»Hab’ sie dir ja schon alle erzählt <milestone unit="3dots"/>
+                        <lb/>
+Weiß keine mehr <milestone unit="3dots"/>«</p>
+                     <p>Er wollte also, dass ich ihn bitte,<lb/>
+Und ich erneuerte meine Bitte.</p>
+                     <p>»Wenn du willst, so singe ich dir<lb/>
+ein Lied vor,« erklärte Ragim bereit-<lb break="no"/>
+willig.</p>
+                     <p>Ich wollte das alte Lied hören, und<lb/>
+er begann in wehmüthigem Recitativ,<lb/>
+indem er sich Mühe gab, die eigenartige<lb/>
+Steppenmelodie des Liedes beizubehalten,<lb/>
+die russischen Worte seltsam ver-<lb break="no"/>
+drehend.</p>
+                  </cell>
+               </row>
+            </table>
+            <p>Hoch in die Berge hinein kroch eine Ringelnatter und legte sich in eine feuchte<lb/>
+Felsenkluft. Zu einem Knoten verschlungen, lag sie da und blickte auf das Meer hinab.</p>
+            <p>Hoch am Firmament schien die Sonne, und die in Glut getauchten Berge<lb/>
+athmeten schwer zum Himmel empor; unter ihnen schlugen die Wellen an den<lb/>
+Stein <milestone unit="3dots"/>
+            </p>
+            <p>Und durch die Kluft, in Dunkel und Wasserstaub gehüllt, eilte ein Bach dem<lb/>
+Meere zu, über die Steine springend.</p>
+            <p>Ganz im weißen Schaum, grau und gewaltig, durchschnitt er den Berg und<lb/>
+ergoss sich ins Meer, grimmig heulend.</p>
+            <p>Plötzlich fiel in die Kluft, wohin die Ringelnatter sich verkrochen, vom Himmel<lb/>
+ein Falke mit durchbohrter Brust, Blut an dem Gefieder <milestone unit="3dots"/>
+            </p>
+            <p>Mit kurzem Schrei fiel er zur Erde und schlug in ohnmächtigem Zorn mit<lb/>
+der Brust an den harten Stein <milestone unit="3dots"/>
+            </p>
+            <p>Die Ringelnatter erschrak und verkroch sich hurtig; bald aber ward ihr klar,<lb/>
+dass das Leben des Vogels nur nach Minuten zähle <milestone unit="3dots"/>
+            </p>
+            <p>Sie kroch nahe an den durchbohrten Vogel heran und zischte ihm gerade ins<lb/>
+Gesicht:</p>
+            <p>— Was, du stirbst?</p>
+            <p>— Jawohl, ich sterbe! antwortete der Falke, tief Athem holend. — Rühmlich<lb/>
+hab’ ich gelebt <milestone unit="3dots"/> Viel hab’ ich erlebt <milestone unit="3dots"/> Tapfer hab’ ich gestritten <milestone unit="3dots"/> Und<lb/>
+den Himmel hab’ ich gesehen. Du erspähest ihn nicht so bald <milestone unit="3dots"/> Du armer Tropf!</p>
+            <p>— Nun, was ist denn der Himmel? — Ein öder Ort! <milestone unit="3dots"/> Wie soll ich dort<lb/>
+kriechen! Hier ist’s mir herrlich <milestone unit="3dots"/> ist’s warm und feucht!</p>
+            <p>So antwortete sie dem freien Vogel und verlachte ihn im Geheimen ob dieses<lb/>
+Unsinns.</p>
+            <p>Und sie dachte folgendermaßen: Magst du fliegen oder kriechen, du endest<lb/>
+gleich: Alles sinkt in die Erde, alles wird zu Staub <milestone unit="3dots"/>
+            </p>
+            <p>Doch der Falke fuhr auf einmal empor, erhob sich ein wenig und ließ seinen<lb/>
+Blick über die Kluft gleiten.</p>
+            <p>Durch das feuchte Gestein sickerte das Wasser, und es war beklemmend in der<lb/>
+dunklen Kluft und es roch nach Fäulnis.</p>
+            <p>Und der Falke schrie auf vor Kummer und Weh, indem er alle seine Kräfte<lb/>
+zusammenraffte: O, könnte ich mich nur noch einmal zum Himmel emporschwingen! <milestone unit="3dots"/>
+            </p>
+            <p>Die Ringelnatter aber dachte: In der That, es muss doch angenehm sein im<lb/>
+Himmel, da dieser da so sehr darnach seufzt! <milestone unit="3dots"/>
+            </p>
+            <p>Und sie rieth dem freien Vogel: Schlepp’ dich an den Rand der Kluft und<lb/>
+stürz’ dich hinunter. Es ist möglich, dass dir so die Flügel wieder heil werden und<lb/>
+du dich dann noch einige Zeit deines Elementes erfreust.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

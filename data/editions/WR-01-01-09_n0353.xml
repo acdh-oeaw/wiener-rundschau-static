@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-09_n0353.xml" prev="WR-01-01-09_n0352.xml" next="WR-01-01-09_n0354.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 9, S. 353</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="09"/>
+                        <biblScope unit="page" n="n0353"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-03-15">15 3 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0111">
+                  <title level="a">Die sexuelle Belastung der Psyche</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 9</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="09">9</biblScope>
+                  <biblScope unit="page" from="349" to="353"/>
+                  <idno type="fn">WR-01-01-09_n0349.xml</idno>
+                  <author ref="#wr-person-0025">Panizza, Oscar</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DIE SEXUELLE BELASTUNG DER PSYCHE.</fw>
+               <fw type="pn">353</fw>
+            </fw>
+            <p>Dass eine rapide Steigerung der symbolisirenden, typus-creirenden<lb/>
+Kräfte in uns durch stricte Enthaltsamkeit eintritt, zeigt die patho-<lb break="no"/>
+logische Geschichte der Heiligen, Büsser und Asketen, denn was waren<lb/>
+ihre Visionen und Hallucinationen Anderes, als die in der Richtung<lb/>
+des Eigentypus, der Idealgestalt liegende Verwirklichung gestauter<lb/>
+Kräfte in mentaler Verarbeitung.</p>
+            <p>In jedem Falle also kämen wir bei der von Léon Bazalgette<lb/>
+aufgestellten Frage, ob die von Rodenbach und den französischen<lb/>
+Blüthenjünglingen geübte und empfohlene sexuale Enthaltsamkeit bei<lb/>
+gleichzeitiger unvermeidlicher sexueller Belastung der Psyche künst-<lb break="no"/>
+lerischer Vertiefung, Reife und Production förderlich sei oder nicht —<lb/>
+die er verneint — zu einer Bejahung und stützen uns dabei in gleicher<lb/>
+Weise auf Geschichte wie psychologische Beobachtung.1)</p>
+            <milestone unit="hr"/>
+            <note type="footnote">
+               <p>1) Man kann wohl daran denken, dass die mit der fortschreitenden Cultur<lb/>
+und der Uebervölkerung immer schwieriger gebotene Gelegenheit zu sexuellem<lb/>
+Verkehr und die wachsende Complicirtheit des Schambegriffes und der sittlichen<lb/>
+Forderung — man denke an das rapide Zurückgehen der Eheschliessungen —<lb/>
+seit Jahrhunderten die menschliche Psyche einseitig belastet und die Phantasie<lb/>
+zum Wachsen und zur äussersten Anspannung ihrer Kräfte veranlasst hat. Man<lb/>
+braucht nur z. B. die noch von <hi rend="text-spaced">Luther</hi> aufgestellte Forderung, dass »ein Knabe<lb/>
+aufs längest, wenn er zwanzig, ein Maidlein umb fünfzehn oder achtzehn Jahre«<lb/>
+zur Ehe greifen solle (Predigten, Bd. I, Frankfurt <date>1877</date>, S. 541), mit unseren<lb/>
+heutigen Zuständen zusammenzuhalten, wo eine derartige Forderung geradezu<lb/>
+lächerlich, ja unsittlich erscheinen würde, um den Kräftezuschuss zu ermessen, der<lb/>
+in unserer heutigen Culturperiode vom Eintritt der Pubertät an dem <hi rend="italics">sexus</hi> ent-<lb break="no"/>
+zogen und dem Gehirn zugeführt wird. Und vergleichsweise dürfen wir sagen:<lb/>
+das, was wir durch Stauung, Stopfung und Ueberernährung in der Gans zuwege<lb/>
+gebracht haben — die Gansleber — das hat die Cultur in jahrhundertelanger<lb/>
+Uebung aus unserer cerebralen Anlage gemacht: das Menschenhirn.</p>
+            </note>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

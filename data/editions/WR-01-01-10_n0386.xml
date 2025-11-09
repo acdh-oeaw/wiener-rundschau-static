@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-10_n0386.xml" prev="WR-01-01-10_n0385.xml" next="WR-01-01-10_n0387.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 10, S. 386</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="10"/>
+                        <biblScope unit="page" n="n0386"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-04-01">1 4 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0122">
+                  <title level="a">Jungpolnische Lyrik</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 10</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="383" to="386"/>
+                  <idno type="fn">WR-01-01-10_n0383.xml</idno>
+                  <author ref="#wr-person-0051">Szczepanski, Ludwig</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0123">
+                  <title level="a">Der Läufer</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 10</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="386" to="386"/>
+                  <idno type="fn">WR-01-01-10_n0386.xml</idno>
+                  <author ref="#wr-person-0052">Stern, Maurice von</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">386</fw>
+               <fw type="ctext">SZCZEPANSKI.</fw>
+            </fw>
+            <lg>
+               <l>Ein stolz’ Juwel, dem Künstler zum Genuss!</l>
+               <l>Was kümmert mich plebeisches Gespötte!</l>
+               <l>Gerundet schlingen Blumen sich zur Kette,</l>
+               <l>Gerundet beut die Lippe sich zum Kuss,</l>
+               <l>Gerundet glitzert mit des Reimes Glätte</l>
+               <l>Das Rondeau!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="asterismDown"/>
+            <p>Kühl und alabasterhaft ist die Lyrik Miriams, aber voll edlen<lb/>
+Gehaltes. Er ist Pessimist; allein sein Pessimismus ist der geruhige,<lb/>
+heitere und <hi rend="text-spaced">objective</hi> Pessimismus des Weisen.</p>
+            <p>Heute lebt der Dichter in Paris, beschäftigt mit Studien zu einem<lb/>
+Werke über Hoene-Wronski, einen genialen Mystiker (aus der Zeit<lb/>
+Napoleons des Grossen), dessen Schüler Eliphas Levi war. So geht er<lb/>
+abseits von der Menge, heiter und still <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">DER LÄUFER</hi>.</title>
+            </ab>
+            <lg>
+               <l>
+                  <hi rend="initial">Da</hi> liegt das Land, so hart und todt.</l>
+               <l>Ein Läufer läuft in das Abendroth.</l>
+            </lg>
+            <lg>
+               <l>Es keucht die Brust. Es rinnt der Schweiss.</l>
+               <l>? du Lauf zur Sonne, wie bist du so heiss!</l>
+            </lg>
+            <lg>
+               <l>Der nackte Fuss schlägt sich wund am Stein.</l>
+               <l>Kein Quell. Kein Schatten. Nur Sonnenschein.</l>
+            </lg>
+            <lg>
+               <l>Nur Sonnenschein, so glühend, so fern.</l>
+               <l>Kein kühles Mondlicht. Kein Abendstern.</l>
+            </lg>
+            <lg>
+               <l>Wann hat der Läufer die Sonne erreicht?</l>
+               <l>Schon senken sich Schatten. Der Purpur erbleicht.</l>
+            </lg>
+            <lg>
+               <l>Da stürzt er zu Boden — er ist zu Haus</l>
+               <l>Und ruht in den Armen des Lichtgott’s aus.</l>
+            </lg>
+            <p>Zürich. <rs type="person" key="">Maurice von Stern</rs>.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

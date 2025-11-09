@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-03_n0098.xml" prev="WR-01-01-03_n0097.xml" next="WR-01-01-03_n0099.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 3, S. 98</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0098"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-15">15 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0028">
+                  <title level="a">Der Recitator</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="97" to="98"/>
+                  <idno type="fn">WR-01-01-03_n0097.xml</idno>
+                  <author ref="#wr-person-0004">Altenberg, Peter</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">98</fw>
+               <fw type="ctext">ALTENBERG.</fw>
+            </fw>
+            <p>
+               <hi rend="text-spaced">Nicht Dir und Einem gib das Gute, welches Du</hi>
+               <hi rend="text-spaced">ge</hi>-<lb break="no"/>
+               <hi rend="text-spaced">funden</hi>
+               <hi rend="text-spaced">auf Deinen schweren Wegen</hi>! <hi rend="text-spaced">Gib es Allen</hi>!!</p>
+            <p>
+               <hi rend="text-spaced">Gib auf die feige Vorsicht</hi>, <hi rend="text-spaced">gleichgesinnten Herzen<lb/>
+Dich zu eröffnen</hi>!</p>
+            <p>
+               <hi rend="text-spaced">Sei stark</hi>! <hi rend="text-spaced">Wirf</hi>’s <hi rend="text-spaced">in die Welt</hi>! <hi rend="text-spaced">Und lass</hi>’ <hi rend="text-spaced">Dich</hi>
+               <hi rend="text-spaced">kreu</hi>-<lb break="no"/>
+               <hi rend="text-spaced">zigen</hi>!!</p>
+            <p>Solches wuchs in seinem Herzen und bedrängte es.</p>
+            <p>Eines Abends trat Er in schwarzem Anzüge und weisser Cra-<lb break="no"/>
+vatte in einen weiten wundervollen Saal, betrat ein kleines Podium,<lb/>
+rückte ein wenig an den silbernen Kerzenträgern, wartete ein bischen,<lb/>
+und kühn und stark warf Er das Gute in die Welt! Nichts sah Er in<lb/>
+dem weiten Räume als seinen Freund, das Buch und dessen erste<lb/>
+Leserin, die edle Dame, welche in der ersten Reihe sass mit ihrem<lb/>
+Gatten. Als Er zu der Stelle kam: »Gestern sagtest du zu mir: »<hi rend="text-spaced">lieber</hi>
+               <lb/>
+Olaf,« meinst du es so?!«, durfte er diesmal keine Pause machen.<lb/>
+Selbstverständlich. Das erstemal in seinem Leben!</p>
+            <p>Doch in den Hörern hielt der Herzschlag an — — —.</p>
+            <p>So las Er bis zu Ende.</p>
+            <p>Als Er zu Ende war, blieb Alles lautlos, wie in einer Kirche.</p>
+            <p>Auf jedem Antlitz lag das Buch geschrieben.</p>
+            <p>Er sah sein Buch in allen Herzen drin.</p>
+            <p>Da fühlte Er: »Ich warf das Gute in die Welt!« und »Amen!«</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

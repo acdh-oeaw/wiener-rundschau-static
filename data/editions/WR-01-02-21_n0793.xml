@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-21_n0793.xml" prev="WR-01-02-20_n0792.xml" next="WR-01-02-21_n0794.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 21, S. 793</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="21"/>
+                        <biblScope unit="page" n="n0793"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-09-15">15 9 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0255">
+                  <title level="a">Der alte Oberst</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 21</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="793" to="796"/>
+                  <idno type="fn">WR-01-02-21_n0793.xml</idno>
+                  <author ref="#wr-person-0099">Pastor, Willy</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>15. SEPTEMBER 1897</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DER ALTE OBERST.<lb/>
+Novelle von <rs type="person" key="">Willy Pastor</rs> (Berlin).</title>
+            </ab>
+            <p>»Und ich lasse mir das nicht länger gefallen! Du brutalisirst mich,<lb/>
+du bist roh, du bist gemein, du — oh, du — Scheusal!«</p>
+            <p>Die Thüre fiel so kräftig zu, dass die Kaiserbüste auf dem Wand-<lb break="no"/>
+brett schwankte. Eine zweite und dritte Thüre machten nicht weniger<lb/>
+Lärm. Dann endlich wurde es ruhig. Frau Oberst war in ihrem Zimmer.</p>
+            <p>Jetzt erst wagte der alte Mann sich zu rühren. Mit müden<lb/>
+Schritten ging er an den kleinen Ecktisch und zog die Spieluhr auf.<lb/>
+Das war ihm nun fast zu einer Art instinctiver Handlung geworden,<lb/>
+die das Gekeife seiner Frau in ihm auslöste. Die leisen Accorde, die<lb/>
+sich so angenehm folgten, ohne dass einer sich vordrängte, hatten etwas<lb/>
+so Beruhigendes. Mochte es ihm von der letzten Gardinenpredigt noch<lb/>
+so sehr in den Ohren stechen und summen, diese Melodien mit ihrem<lb/>
+sanften Geriesel spülten Alles weg.</p>
+            <p>Und dann die Erinnerungen, die wunderbaren Erinnerungen, denen<lb/>
+man bei solcher Musik nachhängen konnte! Besonders wenn ein Marsch<lb/>
+an der Reihe war. Wie die starken Klänge in der schwachen Spieluhr<lb/>
+sich ausnahmen, das war ganz unbegreiflich schön. Dann konnte der<lb/>
+alte Oberst träumen wie ein Jüngling. Es war ihm, als stünde er auf<lb/>
+einer endlosen Ebene, und in weiter, weiter Ferne zog Militär vorüber.<lb/>
+Aber die Entfernungen schwanden, je länger er hinhörte. Und plötzlich<lb/>
+sah er sich mitten unter den Pickelhauben, hoch zu Pferd. Er hörte<lb/>
+ihren schweren Tritt, und das Herz ging ihm auf, wenn die rauhen<lb/>
+Stimmen um ihn her die lieben, alten Soldatenlieder sangen.</p>
+            <p>Ach, die Zeiten hatten doch recht viel geändert! Der Mann,<lb/>
+der damals vor der Front straff seinen Dienst versah, sass jetzt mit ein-<lb break="no"/>
+gefallenem Gesicht vor einem kleinen Leierkasten. Und gar das Ohr,<lb/>
+dem das Dröhnen der Soldatenkehlen Musik gewesen war, das hielt<lb/>
+nicht mal mehr Stand vor einer Weiberstimme.</p>
+            <p>Heute war diese Stimme besonders scharf gewesen. Der Alte<lb/>
+wollte noch genauer als sonst hinhorchen. So legte er zum erstenmal</p>
+         </div>
+      </body>
+   </text>
+</TEI>

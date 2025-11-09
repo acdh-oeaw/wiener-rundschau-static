@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-03_n0060.xml" prev="WR-03-01-03_n0059.xml" next="WR-03-01-03_n0061.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 3, S. 60</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0060"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0551">
+                  <title level="a">Die Alkestis des Euripides</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="55" to="62"/>
+                  <idno type="fn">WR-03-01-03_n0055.xml</idno>
+                  <author ref="#wr-person-0141">Hofmannsthal, Hugo v.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">HOFMANNSTHAL: DIE ALKESTIS DES EURIPIDES.</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Herakles</hi> (in den Thorweg tretend).</p>
+            <lg>
+               <l>Geh’ ich hier recht zur Schwelle des Admet?</l>
+               <l>Treff ich den König, Eueren Herrn, daheim?</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Ein Jüngling</hi>.</p>
+            <lg>
+               <l>O lass’ mich sie anrühren, Herr, die Keule!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Ein Älterer</hi>.</p>
+            <lg>
+               <l>Meinst Du, es würde was hinüberzucken</l>
+               <l>Vom wilden Feuer der lernäischen,</l>
+               <l>Vom Löwenkampf und von Centaurenschlachten?</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Ein sehr alter Mann</hi>.</p>
+            <lg>
+               <l>So hab’ ich den Herakles noch geseh’n,</l>
+               <l>Bevor ich starb und kann im Schattenland</l>
+               <l>Davon erzählen, wenn mich einer fragt!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Herakles</hi> (lächelnd).</p>
+            <lg>
+               <l>Da hast Du gar was Grosses, alter Mann!</l>
+               <l>Staunst Du auch jedesmal, wenn Du den Blitz</l>
+               <l>In alle Bäume fahren siehst? Und doch</l>
+               <l>Der schlägt viel stärker zu als ich und kommt</l>
+               <l>Viel weiter her —</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Ein junger Mann</hi>.</p>
+            <lg>
+               <l>Der Blitz hat nur noch nie mit uns geredet!</l>
+               <l>Du aber, wenn Du nur den Mund aufthust,</l>
+               <l>Ist einem doch, als wachsen alle Sterne,</l>
+               <l>Als würden alle Wasser feuerfarb’,</l>
+               <l>So läuft ein Wind von Wundern vor Dir her!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Jüngling</hi>.</p>
+            <lg>
+               <l>Und sag’, Herakles, wohin gehst Du jetzt?</l>
+               <l>Dass Du an uns’rer Stadt vorübermusst?</l>
+               <l>Damit ich, wenn ich künftig dieses Thal</l>
+               <l>Und die vertrauten Wege seh’, mir sag:</l>
+               <l>Auch hier bist Du so gut im Märchenland</l>
+               <l>Als irgendwo, nur wie der Floh im Pelz:</l>
+               <l>Was kümmert’s ihn, ob Löwe oder Hund?</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Herakles</hi>.</p>
+            <lg>
+               <l>Dem Trauernden will ich nicht lästig sein,</l>
+               <l>Dass Du um einen Nahverwandten weinst,</l>
+               <l>Ich wusst’ es früher nicht, jetzt freilich geh’ ich</l>
+               <l>Und suche mir ein andres Haus zur Rast.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <p>(Er wendet sich zum Gehen, der König sieht ihm theilnahmslos nach; plötzlich besinnt er sich,<lb/>
+richtet sich auf und sagt stark.)</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Admet</hi>.</p>
+            <lg>
+               <l>Herakles, nur dies eine thu’ mir nicht,</l>
+               <l>Dass Du, ein Gast, umkehrst auf meiner Schwelle!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Herakles</hi>.</p>
+            <lg>
+               <l>Entlass’ mich und ich dank’ Dir tausendmal.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Admet</hi>:</p>
+            <lg>
+               <l>Ich lasse Dich zu keines andern Herd,</l>
+               <l>Eh liess’ ich meine Todten unbegraben!</l>
+               <l>Werd’ meine Art so ganz unköniglich,</l>
+               <l>Dass ich den fortscheuch’, den ich ehren soll?!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

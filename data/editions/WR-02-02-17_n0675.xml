@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-17_n0675.xml" prev="WR-02-02-17_n0674.xml" next="WR-02-02-17_n0676.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 17, S. 675</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="17"/>
+                        <biblScope unit="page" n="n0675"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-07-15">15 7 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0467">
+                  <title level="a">Der Petschenjeg</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 17</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="17">17</biblScope>
+                  <biblScope unit="page" from="658" to="676"/>
+                  <idno type="fn">WR-02-02-17_n0658.xml</idno>
+                  <author ref="#wr-person-0135">Tschechow, Anton</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">ENGLÄNDER U. FRANZOSEN I. D. JUBILÄUMS-KUNSTAUSSTELLUNG</fw>
+               <fw type="pn">675</fw>
+            </fw>
+            <p rend="no-intend">Fiebertraumes? Aber wir sind bald darüber belehrt. Da neben ihm am<lb/>
+Divan liegt ein dickes, nacktes Weib. Das Weib ist hässlich, von<lb/>
+einer rohen Hässlichkeit, es dehnt sich faul und gähnt. Und das Weib<lb/>
+ist die Natur, »la Nature seule, cette femme bestiale qui dort étendue,<lb/>
+la Nature est sereine et immortelle«. — — — — — — — — —</p>
+            <p>Das kleine Bild im Künstlerhaus bedeutet etwas Ähnliches. Da<lb/>
+ist wieder das dicke, nackte Weib »cette femme bestiale« und spielt<lb/>
+mit abgeschlagenen Männerköpfen ein grauenhaftes Spiel. Aber das<lb/>
+Weib lacht roh und stemmt den Arm in die Hüfte, sie ist ja »la<lb/>
+Nature, la Nature, qui est seule, sereine et immortelle«, was haben<lb/>
+da Männerköpfe und zerknickte Illusionen zu bedeuten, es ist etwas<lb/>
+von dem Geiste Félicien Rops’, das einem in diesen Bildern von<lb/>
+Veber begegnet, und das Lachen vergeht einem vor ihnen ebenso<lb/>
+gründlich, wie in Ibsens »Gespenstern«. Mich wenigstens hat kaum<lb/>
+irgend ein anderes Bild so dämonisch berührt wie dieser »homme aux<lb/>
+poupées«, dieser bleiche, nervöse Moderne mit der grossen bestialischen<lb/>
+Natur neben sich, die das Weib ist, dem er sich verschworen hat.</p>
+            <p>Mit der Erwähnung dieser Bilder glaube ich das interessante<lb/>
+in der französischen Abteilung der Jubiläums-Ausstellung so ziemlich<lb/>
+erschöpft zu haben und verweise nur noch auf die Bilder von Jacques<lb/>
+Emile Blanches und Fritz Thaulow, dem hochbegabten in Dieppe<lb/>
+lebenden Norweger, der wie wenig andere in die malerischen Geheim-<lb break="no"/>
+nisse des fliessenden Wassers eingedrungen ist.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

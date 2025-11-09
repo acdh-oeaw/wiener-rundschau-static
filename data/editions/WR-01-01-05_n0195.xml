@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-05_n0195.xml" prev="WR-01-01-05_n0194.xml" next="WR-01-01-05_n0196.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 5, S. 195</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="05"/>
+                        <biblScope unit="page" n="n0195"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-01-15">15 1 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0057">
+                  <title level="a">Die Uniformirung der Jugend</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 5</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="191" to="195"/>
+                  <idno type="fn">WR-01-01-05_n0191.xml</idno>
+                  <author ref="#wr-person-0030">Barrès, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DIE UNIFORMIRUNG DER JUGEND.</fw>
+               <fw type="pn">195</fw>
+            </fw>
+            <p>2. Es ist die Aufgabe des jungen Mannes, sich selbst sein Sitten-<lb break="no"/>
+gesetz und seine Auffassung des Glückes zu finden. Immer Lehrer!<lb/>
+Immer Organisationen! Nur jene Wahrheit ist von Nutzen, welche von<lb/>
+einem Geist gefunden ward, der sich, gemäss den dunkeln Instincten<lb/>
+seiner zwanzig Jahre, selbst zurecht findet.</p>
+            <p>Ich betrachte die Frage eben vom Standpunkte der jungen Leute.<lb/>
+Aber für den Abgeordneten, der gestern bei ihrem Bankette sprach,<lb/>
+ist die Menschheit ein weites Feld, auf dem es sich darum handelt,<lb/>
+Wähler zu sammeln. Ueberzeugt, dass die ewige Wahrheit in seiner<lb/>
+Politik enthalten ist, ist er sehr besorgt, den Neuangekommenen zu<lb/>
+helfen, dem <hi rend="text-spaced">Unbekannten</hi>, das sie in sich tragen, ein Ende zu setzen.<lb/>
+Dem ungebildeten Politiker erscheint die <hi rend="text-spaced">Association</hi> nur als sein<lb/>
+Werkzeug.</p>
+            <p>Was Lavisse betrifft, so bedurfte er eines Milieus, wo seine Eigen-<lb break="no"/>
+schaften den Leiter der Menschen und Organisator spielen konnten.<lb/>
+Jeder bedeutende Geist, der sich einer Rolle würdig fühlt, schafft sich<lb/>
+unwiderstehlich sein Theater und sein Publicum. Wahrhaftig, wenn<lb/>
+unsere künftigen Notare, Mediciner, Advocaten und Vertreter zu er-<lb break="no"/>
+mässigten Preisen Billard spielen müssen, damit Lavisse seinen ausser-<lb break="no"/>
+ordentlich edlen, patriotischen Idealismus entwickeln kann, dann zaudere<lb/>
+ich nicht, mich willig dareinzuschicken.</p>
+            <p>Ich gebe zu, dass das Leben der meisten Studenten stets bei<lb/>
+unbedeutenden alltäglichen Vergnügungen und einer vollständigen geistigen<lb/>
+Sorglosigkeit verging. Wird aber der officielle Charakter, den sie heute<lb/>
+ihren kleinen Zerstreuungen und ihren unbestimmten moralischen Nach-<lb break="no"/>
+forschungen geben, ihre Mittelmässigkeit nicht noch bedeutend steigern?</p>
+            <p>Von denen unter ihnen, die eine Individualität besitzen, hoffe ich<lb/>
+bestimmt, dass sie sich gegen diese Uniformirung, gegen jede Ver-<lb break="no"/>
+mischung mit der Menge der Halbstudenten sträuben werden.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

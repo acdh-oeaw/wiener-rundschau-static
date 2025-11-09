@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-13_n0508.xml" prev="WR-02-02-13_n0507.xml" next="WR-02-02-13_n0509.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 13, S. 508</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="13"/>
+                        <biblScope unit="page" n="n0508"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-05-15">15 5 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0429">
+                  <title level="a">Gedichte</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 13</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="508" to="509"/>
+                  <idno type="fn">WR-02-02-13_n0508.xml</idno>
+                  <author ref="#wr-person-0157">d’Annunzio, Gabriele</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>GEDICHTE VON <rs type="person" key="">GABRIELE D’ANNUNZIO</rs>.</title>
+            </ab>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>I.<lb/>
+DÄMMERUNG.</title>
+            </ab>
+            <lg>
+               <l>O bleibet, bleibt, o bitte, bleibt noch hier,</l>
+               <l>Erhebt Euch nicht! Verlangt Ihr, dass ich Licht</l>
+               <l>Ins Zimmer bringe? Nein? O lasst doch nicht</l>
+               <l>Den Traum so schnell erlöschen, bleibt noch hier!</l>
+            </lg>
+            <lg>
+               <l>Es würde uns vielleicht gleich einem Pfeil</l>
+               <l>Das Licht verwunden <milestone unit="3dots"/> Ach schon allzulange</l>
+               <l>Hat dieser Tag gewährt; ich denke bange</l>
+               <l>Des nächsten <milestone unit="3dots"/> denn das Licht ist wie ein Pfeil <milestone unit="5dots"/>
+               </l>
+            </lg>
+            <lg>
+               <l>Ihr liebt es auch nicht — nicht wahr? — Eure Augen</l>
+               <l>Sind müd im Tageslicht <milestone unit="4dots"/> und immer wieder</l>
+               <l>Ist mir, als ob Ihr kaum die schweren Lider</l>
+               <l>Erheben könnt, von Euren schmerzlichen Augen.</l>
+            </lg>
+            <lg>
+               <l>Und nichts, ich schwör es, nichts auf Erden fand</l>
+               <l>Ich trauriger, als starrer Wimpern Schatten</l>
+               <l>Auf bleichen Wangen, starrer Wimpern Schatten</l>
+               <l>Auf Wangen, von denen für immer das Lächeln</l>
+               <l>schwand <milestone unit="5dots"/>
+               </l>
+            </lg>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

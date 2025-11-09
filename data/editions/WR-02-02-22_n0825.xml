@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-22_n0825.xml" prev="WR-02-02-21_n0824.xml" next="WR-02-02-22_n0826.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 22, S. 825</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="22"/>
+                        <biblScope unit="page" n="n0825"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-10-01">1 10 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0504">
+                  <title level="a">Die menschliche Wahrheit über Bismarck</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 22</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="22">22</biblScope>
+                  <biblScope unit="page" from="825" to="834"/>
+                  <idno type="fn">WR-02-02-22_n0825.xml</idno>
+                  <author ref="#wr-person-0168">Bleibtreu, Karl</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>1. <hi rend="text-spaced">OCTOBER</hi> 1898</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIE MENSCHLICHE WAHRHEIT ÜBER BISMARCK.<lb/>
+Von <rs type="person" key="">KARL BLEIBTREU</rs> (Wilmersdorf bei Berlin).</title>
+            </ab>
+            <p>Sich zu voller Objectivität aufzuschwingen fällt selbst Auserlesenen<lb/>
+schwer. Menschliches, allzu Menschliches wuchtet uns allemal zu Boden,<lb/>
+fesselt uns an den Ichwahn, der die Dinge nur vom eigenen Gefühls-<lb/>
+oder Interessenstandpunkt wertet, Gut und Böse mit subjectiver Elle<lb/>
+misst. Dächten alle oder auch nur die Mehrzahl objectiv, so gäbe es<lb/>
+keine sociale Frage zu lösen, denn das Reich der Gerechtigkeit und<lb/>
+Freiheit, des Wohlwollens und der Liebe käme von selber. Das Sprich-<lb break="no"/>
+wort hat den gesunden Altruismus, nämlich die Rücksicht auf den<lb/>
+Nebenmenschen aus Rücksicht auf uns selbst, triftig ausgedrückt: »Was<lb/>
+du nicht willst, dass dir man thu’, das füg’ auch keinem andern zu!«<lb/>
+Wenn man nun als Unterdrücker oder Ausbeuter unendlich vielen<lb/>
+unendlich vieles zufügt, wovon man selber nicht den tausendsten Theil<lb/>
+ertragen möchte, so gehört doch naive Unbilligkeit dazu, von den Ge-<lb break="no"/>
+schädigten zu erwarten, sie sollten dafür noch dankbar die Ruthe küssen.<lb/>
+Wir müssen es daher als den Gipfel subjectiver Selbstsucht, völliger<lb/>
+Unfähigkeit zu objectivem Denken bezeichnen, wenn man der Social-<lb break="no"/>
+demokratie vorwarf, sie habe Bismarcks Apotheose nicht mitmachen<lb/>
+und ihm noch gar Lorbeerkränze ums Grab nicht winden wollen. Man<lb/>
+müsste die Socialdemokraten im Gegenteil verachten, wenn sie ihren<lb/>
+grimmen vollberechtigten Hass gegen einen Despoten verhehlen wollten,<lb/>
+der zahllosen ihrer Genossen schweres Leid bereitete, bis zuletzt ihre<lb/>
+Sache mit unversöhnlicher Wuth befehdete und sogar den Vorschlag<lb/>
+nicht scheute, man solle die »Umstürzler« einfach ausserhalb des Gesetzes<lb/>
+erklären. Bismarck blieb bis zum letzten Athemzug eine anachronistische<lb/>
+Erscheinung, ein verstockter Feudalbaron, jeglichem socialen Empfinden<lb/>
+fremd, das seiner durch und durch egoistischen Herrennatur natürlich<lb/>
+in jeder Fiber widerstrebte. Dies darf man ihm nicht verargen, denn<lb/>
+niemand kann über seinen Schatten springen. Ein Mann, der mit pein-</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-14_n0557.xml" prev="WR-02-02-14_n0556.xml" next="WR-02-02-14_n0558.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 14, S. 557</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="14"/>
+                        <biblScope unit="page" n="n0557"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-06-01">1 6 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0439">
+                  <title level="a">Fidus</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 14</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="14">14</biblScope>
+                  <biblScope unit="page" from="554" to="557"/>
+                  <idno type="fn">WR-02-02-14_n0554.xml</idno>
+                  <author ref="#wr-person-0139">Spohr, Wilhelm</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">FIDUS.</fw>
+               <fw type="pn">557</fw>
+            </fw>
+            <p rend="no-intend">die aus dem Körper einen Kosmos macht, für den in einer Weise,<lb/>
+die uns so gern an dieses Wunder glauben lässt, die Schwerkraft<lb/>
+unserer Erde aufgehoben ist, indem er das Centrum in sich gefunden<lb/>
+zu haben scheint und so schwebend das Blatt der Blume unter seinen<lb/>
+Füssen nicht niederbeugt, diese glückliche Lösung der Aufgabe der<lb/>
+Silhouette, jede Massigkeit in ungezwungene Gliederung aufzulösen,<lb/>
+was hier sogar bei zwei zum Tanze innig verbundenen Gestalten<lb/>
+gelungen ist, diese Harmonie in dem Verhalten der beiden und dabei<lb/>
+doch die strenge Scheidung männlicher und weiblicher Wesenheit in<lb/>
+den Kindern — und das alles mit einer Einfalt der Mittel, die so<lb/>
+rührend schwesterlich dem Vorwurf zu seinem zarten Leben verhilft:<lb/>
+— — ja, das alles in seiner Vereinigung scheint wirklich nur wie<lb/>
+auf einem Gnadenwege möglich geworden zu sein. Und man kann<lb/>
+mit Recht von einem Gnadenwege reden. Denn den verlangenden<lb/>
+Künstler, den Ernst und Fähigkeit zu einem feinen Erzieherberuf<lb/>
+lockten, begünstigte auch äusserlich das Schicksal, indem es ihn dem<lb/>
+Maler <hi rend="text-spaced">Diefenbach</hi> in Höllriegelsgereuthe bei München zuführte,<lb/>
+der ihn zwar nicht viel Zeichnen und Malen lehren konnte, der aber<lb/>
+durch seine reformatorische Idee, olympische Freiheit in alle äusseren<lb/>
+Lebensformen dringen zu lassen, Fidus zu einer lebendigen Anschauung<lb/>
+des Menschen verhalf, die kein Modellstudium bieten kann. Im Diefenbach-<lb break="no"/>
+Kreise, der der Moral der Civilisation den Krieg erklärte, wurde die<lb/>
+Scheu vor der Nacktheit überwunden; da beobachtete er die Kinder<lb/>
+seines Meisters in einem herrlichen Leben der Freiheit, die Natur des<lb/>
+Kindes offenbarte sich ihm in ihrem Sichfreifühlen von allem Zwange,<lb/>
+und er lernte die wunderbare Sprache des Leibes und der Glieder,<lb/>
+die auch die Sprache der Seele ist. So hat er uns in erhabener Weise<lb/>
+die Kindesseele schildern können. Wenn irgend eine Kunst, so möchte<lb/>
+ich diese als das vornehmste Erziehungsmittel hinstellen.</p>
+            <p>(Schluss folgt.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

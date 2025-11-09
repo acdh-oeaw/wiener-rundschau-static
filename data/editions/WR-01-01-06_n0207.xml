@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-06_n0207.xml" prev="WR-01-01-06_n0206.xml" next="WR-01-01-06_n0208.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 6, S. 207</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="06"/>
+                        <biblScope unit="page" n="n0207"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-02-01">1 2 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0063">
+                  <title level="a">Die Entarteten</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 6</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="06">6</biblScope>
+                  <biblScope unit="page" from="206" to="207"/>
+                  <idno type="fn">WR-01-01-06_n0206.xml</idno>
+                  <author ref="#wr-person-0031">Saar, Ferdinand von</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0064">
+                  <title level="a">Leben</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 6</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="06">6</biblScope>
+                  <biblScope unit="page" from="207" to="207"/>
+                  <idno type="fn">WR-01-01-06_n0207.xml</idno>
+                  <author ref="#wr-person-0027">Schmitz, Oscar</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">LEBEN.</fw>
+               <fw type="pn">207</fw>
+            </fw>
+            <lg>
+               <l>Ob gefoltert sie im Siechbett</l>
+               <l>Oder in des Wahnsinns Krallen, —</l>
+               <l>Ob sie unterm Henkerbeile,</l>
+               <l>Ob durch eigne Hand sie enden:</l>
+            </lg>
+            <lg>
+               <l>Ruhlos wandeln sie auf Erden,</l>
+               <l>Schon als Embryos belastet,</l>
+               <l>Und in Purpur und in Lumpen</l>
+               <l>Tragen ihres Daseins Fluch sie.</l>
+            </lg>
+            <p>Raitz in Mähren. <rs type="person" key="">Ferdinand von Saar</rs>.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>LEBEN.<lb/>
+II.</title>
+            </ab>
+            <lg>
+               <l>»Verblasstes Gestern, unerwünschtes Morgen,</l>
+               <l>die mir den Geist in dumpfes Heute zwingen!</l>
+               <l>Naht sich kein Traum, die Stunden zu beschwingen,</l>
+               <l>verschollner Zeiten Farbenspiel zu borgen?«</l>
+            </lg>
+            <lg>
+               <l>Er wollte sich das Haupt mit Rosen kränzen,</l>
+               <l>das Mahl erstrahlte in geerbter Pracht,</l>
+               <l>und Frauen kamen, die in losen Tänzen</l>
+               <l>sein Bett umkreist in schlummerloser Nacht.</l>
+            </lg>
+            <lg>
+               <l>Er suchte in den Schriften weiser Ahnen</l>
+               <l>und fand nur, was sein Sinnen selbst erlauscht,</l>
+               <l>dass irgendfern auf unerforschten Bahnen</l>
+               <l>ein grosses Leben durch die Zeiten rauscht.</l>
+            </lg>
+            <lg>
+               <l>»Wo schläft der Gott, mit dem das Leben schied,</l>
+               <l>ragt der Altar, umglüht von Opferherden?</l>
+               <l>Ihm strebt die Seele Weihrauchduft zu werden,</l>
+               <l>ein Rausch von Duft und Ton: ein bacchisch Lied.</l>
+            </lg>
+            <p>München. <rs type="person" key="">Oscar A. H. Schmitz</rs>.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

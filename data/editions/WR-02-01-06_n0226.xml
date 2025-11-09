@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-06_n0226.xml" prev="WR-02-01-06_n0225.xml" next="WR-02-01-06_n0227.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 6, S. 226</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="06"/>
+                        <biblScope unit="page" n="n0226"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-02-01">1 2 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0345">
+                  <title level="a">Ein Märtyrer der Literatur</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 6</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="06">6</biblScope>
+                  <biblScope unit="page" from="224" to="229"/>
+                  <idno type="fn">WR-02-01-06_n0224.xml</idno>
+                  <author ref="#wr-person-0132">Steinbach, Josef</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">226</fw>
+               <fw type="ctext">STEINBACH.</fw>
+            </fw>
+            <p rend="no-intend">haltenen Anerkennung nicht gerade allzu plumpen, aber doch lauten<lb/>
+Ausdruck zu geben, beeilte ich mich, wie umschreibend, an ihn die<lb/>
+Frage zu richten: »Gelingt Ihnen das leichtere Caliber, das Zartere,<lb/>
+das Volksthümlichere auch immer so ganz aus einem Gusse?« —<lb/>
+»Wenn ich nicht just mein Hemmungsquartal habe!« entgegnete er<lb/>
+sichtlich befriedigt. »Nur eins,« fuhr er fast ungehalten fort, »trotzt<lb/>
+mir, wie es noch allen Anderen getrotzt, und doch wälze ich das<lb/>
+winzige Ding seit Monaten im Kopfe herum.« — »So? Und wie heisst<lb/>
+denn das widerspenstige Kind?« frug ich jetzt aus plötzlich gewecktem,<lb/>
+praktischem Kunstinteresse. — »Sie kennen das kleine, neckische Lied,<lb/>
+wo Petöfi den Burschen unvermittelt zu dem Mädchen in die Küche<lb/>
+biegen lässt: das habe ich in Dutzenden Varianten angestimmt, aber<lb/>
+es will mir nicht glatt und rein aus der Kehle!« — »O, wer hätte sich<lb/>
+daran nicht schon versucht!« sagte ich offenbar im Tone eines ge-<lb break="no"/>
+troffenen Gewissens. Er horchte auf und drang mit lebhaftem Eifer in<lb/>
+mich: »Wenn Sie das übersetzt haben, müssen Sie es mich hören<lb/>
+lassen, schon um des Vergleiches willen!« und bat immer dringender,<lb/>
+es ihm zu lesen. Zum Zeichen meines Dankes für den mir bereiteten<lb/>
+Hochgenuss und zugleich zur psychologischen Probe auf sein vorhin<lb/>
+erwähntes seelisches Verhalten, suchte ich das kurze, zum Volkslied<lb/>
+gewordene Gedicht, das seiner specifisch nationalen Spiessigkeit wegen<lb/>
+in der That der Schrecken aller Uebersetzer war, schliesslich heraus<lb/>
+und las es ihm vor. Da das Liedchen auch heute noch ungedruckt<lb/>
+ist, lege ich es dem wackeren Todten, dem es einen Augenblick neid-<lb break="no"/>
+losen Vergnügens verschafft, als unberührten Blüthenzweig auf das<lb/>
+kahle, verlassene Grab:</p>
+            <milestone unit="verse-start"/>
+            <table>
+               <row>
+                  <cell>
+                     <lg>
+                        <l>1. Ich schwenkte in die Küche ein,</l>
+                        <l>Mein Pfeifchen anzuzünden;</l>
+                        <l>Das heisst, ich nahm das nur zum Schein,</l>
+                        <l>Um mich dort einzufinden.</l>
+                     </lg>
+                     <lg>
+                        <l>2. Mein Pfeifchen brannte wohlgemuth,</l>
+                        <l>Mich zog’s aus andern Gründen:</l>
+                        <l>Ich sah ein holdes, junges Blut</l>
+                        <l>Am Herde Feuer zünden.</l>
+                     </lg>
+                  </cell>
+                  <cell>
+                     <lg>
+                        <l>3. Das Dirndel blies die Funkenschaar</l>
+                        <l>Zu hellem Brand zusammen,</l>
+                        <l>Doch brannten ihr im Augenpaar</l>
+                        <l>Juchhe! Noch heisse Flammen.</l>
+                     </lg>
+                     <lg>
+                        <l>4. Ihr Zauberblick hielt mich gebannt,</l>
+                        <l>Als wir einander nahten;</l>
+                        <l>Erloschen war der Pfeife Brand,</l>
+                        <l>Mein Herz in Brand gerathen.</l>
+                     </lg>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <p>Wie ein verzückter Derwisch bei den beschwingenden Lauten<lb/>
+einer koranischen Sure wirbelte er im Zimmer umher und rief in<lb/>
+ekstatischer Uebertreibung: »Columbus, Columbus! Ja, so wächst’s auch<lb/>
+in Kärnten nicht schöner!«</p>
+            <p>Kurz darauf kam er mit dem strahlenden Gesicht eines Freiers<lb/>
+und warb um meine Mitarbeiterschaft an einem grossangelegten Werke.<lb/>
+Er hatte zu Ludwig Aigner in Budapest, einem der wenigen Verleger,<lb/>
+die selbst schaffend in die Literatur eingegriffen und der in Ungarn<lb/>
+eine angesehene Doppelstellung als Literat und Verlagsbuchhändler ein-<lb break="no"/>
+nahm, engere Beziehungen gewonnen und hoffte in ihm, der rathend<lb/>
+und helfend schon einer Reihe von jungen Autoren die Wege zum<lb/>
+Parnass geebnet, einen hilfreichen Gönner zu finden, der auch ihn aus<lb/>
+dem Jammerthale knechtischen Daseins zu den lichten Höhen einer</p>
+         </div>
+      </body>
+   </text>
+</TEI>

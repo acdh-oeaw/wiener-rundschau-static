@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-07_n0152.xml" prev="WR-04-07_n0151.xml" next="WR-04-07_n0153.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 7, S. 152</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="07"/>
+                        <biblScope unit="page" n="n0152"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0840">
+                  <title level="a">Der Garten</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 7</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="149" to="152"/>
+                  <idno type="fn">WR-04-07_n0149.xml</idno>
+                  <author ref="#wr-person-0279">Ysaey, L.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">YSAEY: DER GARTEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="speech-start"/>
+                     <p>MAREEN:</p>
+                     <lg>
+                        <l>
+                           <milestone unit="2dots"/> Dann kamen Stunden voller Kummer</l>
+                        <l>Und Thränen, bis ich endlich stille ward</l>
+                        <l>Und leben lernte, wie ich heute lebe.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>FERRAND:</p>
+                     <lg>
+                        <l>Und dann?</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>MAREEN:</p>
+                     <lg>
+                        <l>Dann kamst ja Du.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>FERRAND:</p>
+                     <lg>
+                        <l>Ja, dann kam ich,</l>
+                        <l>Und nahm Dich bei der Hand, und führte</l>
+                        <l>Dich</l>
+                        <l>In dieses Haus und glaubte eine Göttin</l>
+                        <l>Aus weißem, keuschen Marmor zu behausen,</l>
+                        <l>Und freute mich zuweilen ihrer Kühle.</l>
+                        <l>Nun seh ich —</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>MAREEN:</p>
+                     <lg>
+                        <l>Was? Dass ich aus Marmor nicht?</l>
+                        <l>Nicht kalter Stein?</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>FERRAND:</p>
+                     <lg>
+                        <l>Mareen, ich fass es nicht!</l>
+                        <l>Mir ist, als wendest Du zum erstenmale</l>
+                        <l>Dein Antlitz meinem zu und anders sind</l>
+                        <l>Die Züge, als ich nach der Form des Kopfes,</l>
+                        <l>Der Haltung, der Geberden und der Sprache</l>
+                        <l>Es mir gedacht. Fremd bist Du plötzlich mir,</l>
+                        <l>Und in das Neue kann ich mich nicht finden.</l>
+                        <l>Noch nicht, vielleicht lern ich es einstens</l>
+                        <l>lieben,</l>
+                        <l>Wie ich mein Traumbild liebte, aber jetzt</l>
+                        <l>Bin ich erschreckt, verwirrt.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>MAREEN:</p>
+                     <lg>
+                        <l>Und warum das?</l>
+                        <l>Was ist geschehn? Wir sprachen ja von</l>
+                        <l>Zeiten,</l>
+                     </lg>
+                  </cell>
+                  <cell>
+                     <lg>
+                        <l>Die längst vergangen sind und wesenlos.</l>
+                        <l>Der Schatten eines Schattens zog vorbei</l>
+                        <l>Und haucht auf unsres Glückes klaren</l>
+                        <l>Spiegel,</l>
+                        <l>Das will uns kümmern? — Fühlst Du denn</l>
+                        <l>nicht auch,</l>
+                        <l>Dass, was so lange ich vor Dir verborgen,</l>
+                        <l>Ein Nichts ist, längst in todten Staub</l>
+                        <l>zerfallen?</l>
+                        <l>Das Einz’ge, was ihm Leben gab, das war,</l>
+                        <l>Dass Du nichts davon wusstest; hätt ich Dir</l>
+                        <l>Davon gesprochen, längst war es vergessen.</l>
+                        <l>Und dann — nun, da ich alles Dir gesagt,</l>
+                        <l>Versuchst Du es wohl, eher als bisher,</l>
+                        <l>Den Eingang zu dem Gartenthor zu</l>
+                        <l>finden — —</l>
+                        <l>Vielleicht wirst Du den Abend einstens</l>
+                        <l>segnen,</l>
+                        <l>Der Dir Erkenntnis brachte, wirst vielleicht</l>
+                        <l>Die Jahre nur beklagen, wo dem Steinbild</l>
+                        <l>Du huldigtest, da doch das Leben nah.</l>
+                        <l>Vielleicht — wer weiß, was noch aus dieser</l>
+                        <l>Stunde</l>
+                        <l>An süßem Glück erblüht. — Geliebter</l>
+                        <l>Freund,</l>
+                        <l>Es gibt so wundervolle Möglichkeiten,</l>
+                        <l>Die köstlicher als jegliche Gewissheit!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>FERRAND:</p>
+                     <lg>
+                        <l>Mareen, Geliebte, Süße, hast Du wirklich</l>
+                        <l>Auch alles mir gesagt? Steht wirklich nichts,</l>
+                        <l>Auch nicht ein Schatten, zwischen unsern</l>
+                        <l>Seelen?</l>
+                        <l>Du raubst mir viel und schenkst mir fast</l>
+                        <l>noch mehr!</l>
+                        <l>Ich liebe Dich so sehr, Grausame Du,</l>
+                        <l>Großmüthige — wie soll ich Dich nur</l>
+                        <l>nennen?</l>
+                        <l>Du bist wohl beides, beides, wie das Leben,</l>
+                        <l>Es gibt im Nehmen und es nimmt im</l>
+                        <l>Geben — — —</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
+      </body>
+   </text>
+</TEI>

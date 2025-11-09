@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+   xml:id="about.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Über das Projekt</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <ab>born digital</ab>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div><p>Die Wiener Rundschau war eine Kulturzeitschrift, die in Wien von 1896 bis 1901 erschien. </p></div>
+      </body>
+   </text>
+</TEI>

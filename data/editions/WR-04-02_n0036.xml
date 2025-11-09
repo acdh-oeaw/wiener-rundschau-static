@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-02_n0036.xml" prev="WR-04-02_n0035.xml" next="WR-04-02_n0037.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 2, S. 36</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0036"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0796">
+                  <title level="a">Farbe und Linie II.</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 2</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="31" to="36"/>
+                  <idno type="fn">WR-04-02_n0031.xml</idno>
+                  <author ref="#wr-person-0206">Lindner, Anton</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">LINDNER: FARBE UND LINIE.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>befruchtend zurückfuhrt und keinen Augen-<lb break="no"/>
+blick lang den Zusammenhang mit ver-<lb break="no"/>
+gangenen Entwicklungen oder den Einklang<lb/>
+mit aller menschlichen und aller kosmischen<lb/>
+Intuition vergessen lässt. Wer also noch<lb/>
+fähig ist, zu der Sonne Homers zu beten,<lb/>
+ein deutsches Volkslied unter Thränen zu<lb/>
+lesen, das Staunen, Schauen, Lauschen<lb/>
+der Kinder zu ehren oder mit Thieren<lb/>
+stumme Discurse zu führen, wird gerade</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">gut und reif genug sein, eine moderne<lb/>
+                        <hi rend="text-spaced">Linie</hi>, die »das Empfinden der Gegenwart<lb/>
+ausdrückt«, oder eine <hi rend="text-spaced">Farbe</hi>, die »alle<lb/>
+geheime Sehnsucht unserer Tage in sich<lb/>
+schließt«, in ihren psychischen Wirkungen<lb/>
+restlos zu erfassen, sofern er nur mit<lb/>
+wachen Sinnen in seine Zeit lauscht und<lb/>
+willig sich prägen lässt von ihrem tausend-<lb break="no"/>
+köpfigen Hammer.</p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
+      </body>
+   </text>
+</TEI>

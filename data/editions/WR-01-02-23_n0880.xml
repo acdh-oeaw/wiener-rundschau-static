@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-23_n0880.xml" prev="WR-01-02-23_n0879.xml" next="WR-01-02-23_n0881.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 23, S. 880</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="23"/>
+                        <biblScope unit="page" n="n0880"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-10-15">15 10 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0282">
+                  <title level="a">Josef Kainz im Burgtheater</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 23</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="878" to="880"/>
+                  <idno type="fn">WR-01-02-23_n0878.xml</idno>
+                  <author ref="#wr-person-0007">Schik, F.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">880</fw>
+               <fw type="ctext">SCHIK.</fw>
+            </fw>
+            <p>Schon zur Zeit Mitterwurzer’s wäre selbstverständlich eine tief-<lb break="no"/>
+gehende Reorganisation des Burgtheaters erspriesslich gewesen, jetzt<lb/>
+nach dem Engagement Kainz’ ist sie unerlässlich. Mitterwurzer hat<lb/>
+den <hi rend="text-spaced">alten</hi> Styl des Burgtheaters zur höchsten Blüthe gebracht — mit<lb/>
+Kainz kommt ein ganz neuer ins Haus. Dieser Künstler nimmt sich<lb/>
+jetzt hier wie ein fremdsprachiger Schauspieler aus, der in einem<lb/>
+deutschen Ensemble gastirt, oder etwa wie einer, der im Strassenanzuge<lb/>
+unter costümirten Bühnenmenschen wandelt.</p>
+            <p>Vergleicht man das Deutsche Theater in Berlin, aus dem Kainz<lb/>
+kommt, mit dem, in welchem er jetzt in Wien wirken soll, so finden<lb/>
+wir dort in mässigen Abständen von einander eine von moderner Kunst<lb/>
+durchdrungene Schaar, die durch ihre organische Gliederung den<lb/>
+grossartigen Fähigkeiten eines Kainz doch nur Raum für eine harmo-<lb break="no"/>
+nische Entwicklung gestattete. Er hatte da stets nur für sich einzu-<lb break="no"/>
+stehen, aber nicht auch für alle anderen Rollen zu sorgen, damit sie durch<lb/>
+sein Licht erhellt werden. Wie die Sachen bei uns liegen, müsste er<lb/>
+in der Regel nicht nur seine Rolle spielen, sondern zugleich auch die<lb/>
+Mängel seiner Mitspieler verdecken. Er müsste damit das werden, was<lb/>
+seiner Natur und seinem bisherigen Entwicklungsgange widerspricht —<lb/>
+ein Star. Wir wollen aber keinen anderen Kainz als den, der er jetzt<lb/>
+ist und der er sein will; um nicht die Verantwortung auf uns zu laden,<lb/>
+ein so grosses schauspielerisches Genie in seiner natürlichen Entfaltung<lb/>
+gestört zu haben, darf Kainz nicht bloss ins Burgtheater engagirt werden,<lb/>
+vielmehr ist ein neues Burgtheater für ihn zu engagiren.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

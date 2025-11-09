@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-12_n0184.xml" prev="WR-04-12_n0183.xml" next="WR-04-12_n0185.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 12, S. 184</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="12"/>
+                        <biblScope unit="page" n="n0184"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0893">
+                  <title level="a">Das tönende Phänomen in der Natur II.</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="181" to="184"/>
+                  <idno type="fn">WR-04-12_n0181.xml</idno>
+                  <author ref="#wr-person-0292">Bailly, Edmund</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BAILLY: DIE HARMONIE DER SPHÄREN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">
+                        <hi rend="italics">mi</hi>, die folgende Octave zieht sich nach<lb/>
+oben hin, der Venus entspricht: <hi rend="italics">si</hi> (ver-<lb break="no"/>
+doppelte Quinte des fundamentalen <hi rend="italics">mi</hi>),<lb/>
+dem Mercur: <hi rend="italics">mi</hi> (verdoppelte Octave),<lb/>
+dem Mars <hi rend="italics">mi</hi> (verdreifachte Octave), dem<lb/>
+Jupiter <hi rend="italics">fa</hi> ♯ (Doppel-Quinte des <hi rend="italics">si</hi> der<lb/>
+Venus), dem Saturn: <hi rend="italics">ut</hi> ♯ (Doppel-Quinte<lb/>
+des <hi rend="italics">fa</hi> ♯ Jupiters). Das Ergebnis ist im<lb/>
+ganzen noch recht dürftig, da nur Mercur<lb/>
+und Mars fast tadellos in Tonbeziehungen<lb/>
+gebracht sind, der erstere nur mit einem<lb/>
+Fehler von nahezu einer Octave, der<lb/>
+letztere mit einem Fehler von zwei<lb/>
+Octaven weniger einen halben Ton.</p>
+                     <p>
+                        <hi rend="text-spaced">Nicomach</hi> und nach ihm <hi rend="text-spaced">Boëtius</hi>
+                        <lb/>
+haben in das Problem der <hi rend="italics">Sphärenharmonie</hi>
+                        <lb/>
+keine Klarheit gebracht. <hi rend="text-spaced">Cicero</hi> eben-<lb break="no"/>
+sowenig; er soll aber hier citiert werden,<lb/>
+wenn auch nur um seines Gedanken-<lb break="no"/>
+fluges willen. Man lese die Worte, die<lb/>
+er Scipio Africanus in den Mund legt.*<lb/>
+Auf eine Zwischenfrage Scipios, der er-<lb break="no"/>
+staunt ist, mächtige Geräusche und Töne<lb/>
+zu vernehmen, die nicht aus irdischen<lb/>
+Regionen kommen, antwortet Africanus:<lb/>
+»Das ist der Klang, der in ungleichen<lb/>
+Pausen, die jedoch nach wohlbemes-<lb break="no"/>
+senem Verhältnis von einander abstehen,<lb/>
+durch den Schwung und die Bewegung<lb/>
+der Sphären selbst zustandekommt und,<lb/>
+hohe Töne mit tiefen mischend, die<lb/>
+mannigfaltigsten Accorde in gleichmäßiger<lb/>
+Weise erzeugt; denn solch gewaltige<lb/>
+Bewegungen können nicht im Stillen vor<lb/>
+sich gehen, und die Natur will es, dass<lb/>
+das Äußere der einen Seite in einem<lb/>
+tiefen, das der anderen Seite aber in</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">einem hellen Ton erklinge. Daher bewegt<lb/>
+sich die oberste Sphäre des Himmels,<lb/>
+die Fixstern-Sphäre, deren Umschwung<lb/>
+schneller ist, in einem scharfen und hohen<lb/>
+Ton, die unterste Sphäre aber, die des<lb/>
+Mondes, im tiefsten Ton, denn die Erde<lb/>
+als neunte Sphäre bleibt unbeweglich und<lb/>
+ist an die unterste Stelle unverrückbar<lb/>
+gebunden, wo sie das Centrum der Welt<lb/>
+einnimmt. Jene acht Sphären aber, von<lb/>
+denen zwei — die des Mercur und der<lb/>
+Venus — die gleiche Kraft haben (im<lb/>
+Widertönen eine Octave umspannen),<lb/>
+bilden sieben durch Pausen unterschiedene<lb/>
+Töne, und diese Zahl ist im großen und<lb/>
+ganzen der Knoten aller Dinge. Gelehrte<lb/>
+Männer haben diese Harmonie im Saiten-<lb break="no"/>
+spiel und Gesang nachgebildet und sich<lb/>
+dadurch die Rückkehr in diese himmlischen<lb/>
+Regionen geöffnet, gleichwie jene anderen,<lb/>
+die, von ausgezeichneten geistigen An-<lb break="no"/>
+lagen und höheren Mächten geleitet, im<lb/>
+Laufe ihres irdischen Lebens göttlichen<lb/>
+Bestrebungen zugethan waren. Mensch-<lb break="no"/>
+liche Ohren, von diesem sphärischen<lb/>
+Schall erfüllt, sind taub geworden, denn<lb/>
+kein Sinn in uns ist stumpfer als das Ge-<lb break="no"/>
+hör, wie ja auch beispielsweise das Volk,<lb/>
+das bei den hohen Katarakten des Nil<lb/>
+wohnt, infolge des allzu mächtigen Schalls<lb/>
+seinen Gehörsinn verloren hat. Das Tönen<lb/>
+der Sphären aber ist infolge der rapiden<lb/>
+Bewegung der ganzen Welt so gewaltig,<lb/>
+dass menschliche Ohren es nicht zu fassen<lb/>
+vermögen, wie ihr ja auch der Sonne<lb/>
+nicht ins Gesicht sehen könnt, ohne dass<lb/>
+ihre Strahlen eueren Blicken und Sinnen<lb/>
+die Schärfe benehmen.«</p>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* <hi rend="text-spaced">Cicero</hi>: <hi rend="italics">Somnium Scipionis.</hi>
+               </p>
+            </note>
+            <milestone unit="undefined"/>
+            <p>Der Schluss dieser Studie folgt im nächsten Hefte.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
+      </body>
+   </text>
+</TEI>

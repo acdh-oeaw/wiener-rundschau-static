@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-08_n0287.xml" prev="WR-01-01-08_n0286.xml" next="WR-01-01-08_n0288.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 8, S. 287</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="08"/>
+                        <biblScope unit="page" n="n0287"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-03-01">1 3 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0088">
+                  <title level="a">An Friedrich Mitterwurzer</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 8</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="287" to="287"/>
+                  <idno type="fn">WR-01-01-08_n0287.xml</idno>
+                  <author ref="#wr-person-0038">Guglia, Eugen</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>AN FRIEDRICH MITTERWURZER.1)</title>
+            </ab>
+            <lg>
+               <l>
+                  <hi rend="initial">Du</hi> warst ein Ritter, rittest auf fahlem Ross,</l>
+               <l>Schwarz deine Rüstung, dein Helmbusch schwarz,</l>
+               <l>Ueber dunkle Wiesen trug dich das Ross durch Dämmerungen;</l>
+               <l>Der bleiche Knappe hinter dir, dein treuer Knappe —</l>
+               <l>denkst du daran? — der war ich.</l>
+            </lg>
+            <lg>
+               <l>Nein, du warst ein alter Bettler mit blinden Augen,</l>
+               <l>Heischtest Almosen, betend an der Kirchenpforte,</l>
+               <l>Der Knabe neben dir, dein Führer durch so viel Finsternisse,</l>
+               <l>Du hattest ihn lieb, weisst du, er führte dich gut und sicher —</l>
+               <l>der Knabe — war der nicht ich?</l>
+            </lg>
+            <lg>
+               <l>Nein, du warst ein Fürst, im Purpurmantel throntest du,</l>
+               <l>Im Morgenlicht glänzte deine goldene Krone;</l>
+               <l>Der Kanzler hinter dir, der alte, im schwarzen Talare,</l>
+               <l>Er stritt für dein Recht, er stritt mit tönender Stimme —</l>
+               <l>Weisst du es noch? Der war ich.</l>
+            </lg>
+            <lg>
+               <l>Ueber die Bretter schrittest du dann in der Gauklermaske,</l>
+               <l>Aber ich wusste gleich, wer du warst; ich wusst’ es;</l>
+               <l>Hast du mir nicht zugewinkt über alle die Fremdlinge,</l>
+               <l>Mit dem Bettler- und Königsblick, du, der schwarze Ritter?</l>
+               <l>O ich dachte daran, dachte daran.</l>
+            </lg>
+            <lg>
+               <l>Und jetzt, wo bist du jetzt hin? Wo treff ich dich wieder?</l>
+               <l>Ziehst über ferne Meere du, mit weissem Segel segelnd?</l>
+               <l>Wandelst über Wolken du oder schlürfst in Tiefen, in grauen</l>
+               <l>Tiefen?</l>
+               <l>Es wird vielleicht lange dauern, bis ich dich finde — sehr</l>
+               <l>lange —</l>
+               <l>denke nur dran!</l>
+            </lg>
+            <lg>
+               <l>Aber einmal noch kreuzen sich doch unsere Wege,</l>
+               <l>Ich habe so viel noch zu fragen, zu sagen noch Vieles.</l>
+               <l>O wenn du mich wieder siehst, rühr’ mit dem Finger leise</l>
+               <l>die Lippen,</l>
+               <l>Und ich will still dir folgen, still den langen, langen Pfad <milestone unit="3dots"/>
+               </l>
+               <l>Denke nur dran, denke daran.</l>
+            </lg>
+            <p>Wien. <rs type="person" key="">Eugen Guglia</rs>.</p>
+            <milestone unit="hr"/>
+            <note type="footnote">
+               <p>1) Von seinem Biographen und langjährigen Freund.</p>
+            </note>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

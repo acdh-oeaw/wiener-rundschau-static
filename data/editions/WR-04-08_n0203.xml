@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-08_n0203.xml" prev="WR-04-08_n0202.xml" next="WR-04-08_n0204.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 8, S. 203</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="08"/>
+                        <biblScope unit="page" n="n0203"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0847">
+                  <title level="a">O grave where is thy Victory</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 8</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="175" to="208"/>
+                  <idno type="fn">WR-04-08_n0175.xml</idno>
+                  <author ref="#wr-person-0281">Toorop, Jan</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0855">
+                  <title level="a">Die Freie Bühne in Wien</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 8</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="202" to="203"/>
+                  <idno type="fn">WR-04-08_n0202.xml</idno>
+                  <author ref="#wr-person-0206">Lindner, Anton</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0856">
+                  <title level="a">Kunst*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 8</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="203" to="203"/>
+                  <idno type="fn">WR-04-08_n0203.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">RUNDSCHAU.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>geboren? Als Bjarne P. Holmsen, der<lb/>
+Doppeldichter, das Erstlingsdrama Gerhart<lb/>
+Hauptmanns gezeugt, wandelten sich in<lb/>
+den Mappen der Mittelschüler die Conra-<lb break="no"/>
+dine, Brutusse, Gracchen wie mit <hi rend="text-spaced">einem</hi>
+                        <lb/>
+Schlage in Dirnen-, Schwindsuchts-, Ent-<lb break="no"/>
+bindungs-Dithyramben. Und heute leben<lb/>
+diese Surrogate noch? Leben heute noch<lb/>
+bei uns, da sie doch anderwärts schon<lb/>
+Moder geworden? Wie über alles sonst in<lb/>
+Österreich, ist eben auch über unsere<lb/>
+Mittelschüler der Zeitgeist der »Moder-<lb break="no"/>
+nität« um zehn Jahre zu spät gekommen.<lb/>
+Denen der Brutus gestern gelungen wäre,<lb/>
+muss aber der Hinterhäusler heute glücken,<lb/>
+da doch die modische Tradition dem ge-<lb break="no"/>
+schickten Jünger so zeugungskräftig wie<lb/>
+die alte ist. So sieht man jetzt fast zu<lb/>
+gleicher Zeit im Deutschen Volkstheater,</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">im Josefstädter- und im Jubiläumstheater den<lb/>
+consequentesten Naturalismus vierschrötig<lb/>
+mit den Hüften wackeln. Bedarf es da also<lb/>
+noch der Freien Bühnen? Wir brauchen<lb/>
+                        <hi rend="text-spaced">Unfreie</hi> Bühnen, die unter stilkundiger<lb/>
+Leitung inmitten dieses anarchischen<lb/>
+Treibens neuerdings verkünden müssten,<lb/>
+dass ohne die zwingendste Beschränkung,<lb/>
+ohne Selbstzucht und Selbstcultur keinerlei<lb/>
+Kunstthat zu erreichen ist. Man hat sich<lb/>
+lange genug in Rudeln <hi rend="text-spaced">ausg</hi>elebt. Sich<lb/>
+wieder einsam <hi rend="text-spaced">einz</hi>uleben in die ewigen<lb/>
+Gesetze, die sich in den Entwicklungen<lb/>
+unserer Großen und Größten seit Jahr-<lb break="no"/>
+tausenden spiegeln, <hi rend="text-spaced">dazu</hi> sind wir jetzt<lb/>
+unter den Lebenden. Aber <hi rend="text-spaced">unf</hi>rei zu sein<lb/>
+im Sinne dieser Größten kann sich heute<lb/>
+natürlich kein Einziger recht gestatten.</p>
+                     <p>
+                        <rs type="person" key="">ANTON LINDNER</rs>.</p>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>KUNST.</title>
+            </ab>
+            <milestone unit="untyped-start"/>
+            <p>Im Anschlusse an die Zeichnung <hi rend="text-spaced">Jan Toorops</hi> „<hi rend="italics">O grave where is thy Victory</hi>“,<lb/>
+die wir in dieser Nummer (S. 175) publicieren, sei hier auf die beiden Artikel über<lb/>
+das künstlerische Schaffen dieses Meisters (»Wiener Rundschau«, III. Jahrg., Nr. 11<lb/>
+u. 12) und auf die biographisch-kritischen Ausführungen des letzten Heftes (»Wiener<lb/>
+Rundschau«, IV. Jahrg., Nr. 7) verwiesen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="asterisk"/>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="untyped-start"/>
+                     <p>Im »<hi rend="italics">Magazin of Art</hi>« spricht Philipp Burne-<lb break="no"/>
+Jones soeben über den Bilder-Nachlass seines<lb/>
+Vaters Sir <hi rend="text-spaced">Edward Burne-Jones</hi>. Einzelne<lb/>
+dieser noch völlig unbekannten und unver-<lb break="no"/>
+öffentlichten Bilder werden im Anschlusse an die<lb/>
+Ausführungen des Textes in guten Reproductionen<lb/>
+vorgeführt. Die Originale befinden sich jetzt<lb/>
+im verwaisten Hause des Meisters, das höchst<lb/>
+wahrscheinlich (wie beispielsweise auch das Haus<lb/>
+                        <hi rend="text-spaced">Gustav Moreaus</hi> zu Paris) in ein Museum<lb/>
+umgewandelt werden dürfte. Die Studie des<lb/>
+Sohnes über den großen Vater und seine<lb/>
+letzten Werke gibt in vielfacher Hinsicht sehr</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">instructive und interessante Aufschlüsse. Unter<lb/>
+den letzten Bildern des Künstlers, deren einige<lb/>
+unvollendet geblieben sind, nehmen »<hi rend="italics">Venus<lb/>
+Discordia</hi>« und »<hi rend="italics">Venus Concordia</hi>« — zwei<lb/>
+bewunderungswürdige Tafeln — die erste<lb/>
+Stelle ein. Es wäre sehr an der Zeit, einige<lb/>
+Werke aus diesem frei verfügbaren Nachlass<lb/>
+nach Wien zu bringen. Vielleicht entschließt<lb/>
+sich also eine unserer Vereinigungen oder<lb/>
+Kunsthandlungen zu diesem schönen und ver-<lb break="no"/>
+muthlich auch einträglichen Wagnis.</p>
+                     <p>Auf das Museum <hi rend="text-spaced">Moreau</hi> werden wir<lb/>
+im nächsten Hefte zu sprechen kommen.</p>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-09_n0209.xml" prev="WR-03-01-09_n0208.xml" next="WR-03-01-09_n0210.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 9, S. 209</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="09"/>
+                        <biblScope unit="page" n="n0209"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0614">
+                  <title level="a">Des Dichters Freundin</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 9</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="09">9</biblScope>
+                  <biblScope unit="page" from="208" to="209"/>
+                  <idno type="fn">WR-03-01-09_n0208.xml</idno>
+                  <author ref="#wr-person-0004">Altenberg, Peter</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0615">
+                  <title level="a">Pariser Brief</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 9</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="09">9</biblScope>
+                  <biblScope unit="page" from="209" to="212"/>
+                  <idno type="fn">WR-03-01-09_n0209.xml</idno>
+                  <author ref="#wr-person-0203">Gourmont, Remy de</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">GOURMONT: PARISER BRIEF.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Nach einem Monate schrieb sie dem<lb/>
+Dichter: »Er hat mir endgiltig abge-<lb break="no"/>
+schrieben, heute. Ich habe meine Geige<lb/>
+genommen und habe eine Stunde lang<lb/>
+Beethoven gespielt und an diejenigen ge-<lb break="no"/>
+dacht, welche stehen gelassen werden und<lb/>
+nicht Beethoven spielen können — —.«</p>
+                     <p>Der Dichter gieng gleich zu ihr. Eigent-<lb break="no"/>
+lich nahm er einen Wagen und fuhr hin.</p>
+                     <p>Da sagte sie: »Wenn er nur die<lb/>
+Schnecke meiner Geige nicht geküsst hätte<lb/>
+damals, ich hätte wirklich leichter los<lb/>
+kommen können — — —.«</p>
+                  </cell>
+                  <cell>
+                     <p>»Wann machen Sie Ihre Tournee nach<lb/>
+Russland?!«</p>
+                     <p>»In einigen Tagen.«</p>
+                     <p>»Wie lange bleiben Sie aus?!</p>
+                     <p>»Sechs Monate.«</p>
+                     <p>Da sagte der Dichter: »Nehmen Sie<lb/>
+warme gestrickte Handschuhe mit für Ihre<lb/>
+Geigenhände und warme Unterkleider.<lb/>
+Schicken Sie mir Ansichtskarten.</p>
+                     <p>»Sammeln Sie denn?!»</p>
+                     <p>»Ja, ich sammle« sagte der Dichter<lb/>
+sanft.</p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>PARISER BRIEF.<lb/>
+Von <rs type="person" key="">RÉMY DE GOURMONT</rs>.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>
+                        <hi rend="text-spaced">Paris</hi>, März 1899.</p>
+                     <p>Das Leben eilt, die Existenzen ziehen<lb/>
+vorüber, und es bleibt ein Angedenken,<lb/>
+es bleiben Worte. Man denke nur an die<lb/>
+grossen Tage der Weltgeschichte; sie hatten<lb/>
+einen Morgen und einen Abend, und die<lb/>
+Nacht, die kam, glich allen anderen Nächten.<lb/>
+Die Existenzen müssen ihren Lauf nehmen,<lb/>
+die Berufe ausgeübt werden, die Körper<lb/>
+müssen sich aneinanderschliessen; unter<lb/>
+dem Volke der Staatsbürger ist das Volk<lb/>
+der Menschen ein fester Faden, auf<lb/>
+dem die Arabesken der Politik gewoben<lb/>
+werden, gewoben oder — mit Wasser-<lb break="no"/>
+farben gemalt, denn ein Gewitterregen,<lb/>
+ein sonniger Nachmittag geben in diesen<lb/>
+winzigen Zeichnungen, die Caricaturen<lb/>
+sind, den Ausschlag. Darum hat man in<lb/>
+der Ferne nur eine schwache Vorstellung,<lb/>
+wie wenig sich in einer Stadt ereignet,<lb/>
+aus der die Zeitungen zweier Welten die<lb/>
+sensationellsten Telegramme bringen. Ich<lb/>
+kreuzte vor kurzem längs der Quais fünf<lb/>
+bis sechs einherschlenkernde Pensionate,<lb/>
+junge Mädchen, die von den braven Kloster-<lb break="no"/>
+schwestern in die Champs Elysées geführt<lb/>
+werden, ich sah zarte schwarze Kleidchen<lb/>
+mit blauen, violetten, orangegelben oder<lb/>
+feuerrothen Bändern und lachende, obgleich<lb/>
+schon durch die äussere Welt beunruhigte<lb/>
+Augen. Der Wille zum Leben spottet<lb/>
+selbst des Todes; kürzlich, als man Herrn<lb/>
+Felix Faure begrub, schwebte in der Menge</p>
+                  </cell>
+                  <cell>
+                     <p>ein Duft von Liebe. Die jüngsten Ereignisse<lb/>
+haben das geistige Leben kaum mehr als<lb/>
+das physische gestört; doch gab es auch<lb/>
+hier ein leichtes Fieber. Die allzu inter-<lb break="no"/>
+essanten Zeitungen haben einige Stunden<lb/>
+gestohlen, die der Kunst und der Literatur<lb/>
+angehörten. Es erscheinen weniger Bücher<lb/>
+und jene, die erscheinen, werden weniger<lb/>
+gelesen und namentlich weniger besprochen.<lb/>
+Dies behaupten die Autoren, aber da das<lb/>
+Publicum sich schon lange nicht mehr für<lb/>
+das, was man ohne Ironie »die literarische<lb/>
+Kritik« nennt, interessiert, hat dies weder<lb/>
+grosse Bedeutung, noch grossen Einfluss<lb/>
+auf die Verbreitung der jüngsten Literatur.<lb/>
+Es gibt wirklich keine einzige Zeitung in<lb/>
+Paris, bei der man sicher ist, dass ein<lb/>
+neues Buch von augenscheinlichem lite-<lb break="no"/>
+rarischem Wert von einem unparteilichen,<lb/>
+mit dem Zeichen literarischer Autorität<lb/>
+gestempelten Richter kritisiert wird; diese<lb/>
+Gattung ist den abscheulichsten Schul-<lb break="no"/>
+füchsen, wenn nicht gar den schamlosesten<lb/>
+Krämern zum Opfer gefallen. Manchmal<lb/>
+springen die Chronisten der Mittelmässig-<lb break="no"/>
+keit der Berufskritiker bei; die Herren<lb/>
+Barrès, Faguet, Léon Daudet wagen es,<lb/>
+an manchen Tagen zum Thema einer<lb/>
+Plauderei das jüngst erschienene Buch zu<lb/>
+wählen, aber dies ist selten und namentlich<lb/>
+dem Zufall anheimgegeben. Zum Über-<lb break="no"/>
+fluss lieben alle Chronisten, die die Lite-<lb break="no"/>
+ratur bevorzugten, jetzt nur mehr die</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

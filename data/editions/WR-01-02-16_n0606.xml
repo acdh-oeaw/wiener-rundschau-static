@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-16_n0606.xml" prev="WR-01-02-16_n0605.xml" next="WR-01-02-16_n0607.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 16, S. 606</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="16"/>
+                        <biblScope unit="page" n="n0606"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-07-01">1 7 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0204">
+                  <title level="a">Quintin Messis</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 16</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="16">16</biblScope>
+                  <biblScope unit="page" from="601" to="607"/>
+                  <idno type="fn">WR-01-02-16_n0601.xml</idno>
+                  <author ref="#wr-person-0081">Kürnberger, Ferdinand</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">606</fw>
+               <fw type="ctext">KÜRNBERGER.</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Dorothea</hi>. Ei, macht mich nicht so kostbar, sonst muss ich<lb/>
+fürchten, auch so einzig zu bleiben, als ich bin, und das möcht’ ich<lb/>
+doch nicht gerne.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Messis</hi>. Gewiss, ich kann mir keinen Mann denken, den ich<lb/>
+Euch werth hielte!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Dorothea</hi>. Nicht? Aber ich!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Messis</hi> (ergreift mit Wärme ihre Hand). Was soll ich einem edlen<lb/>
+Weibe wünschen? Dass sie ihres Werthes sich bewusst sei? Dann wäre<lb/>
+sie vielleicht so liebenswürdig nicht, dass sie, sich selbst verborgen,<lb/>
+ihren unbefangenen Wandel durch die Welt gehe. Dann verschenkt<lb/>
+sie vielleicht die Summe unschätzbarer Herrlichkeiten um elenden Bettel-<lb break="no"/>
+werth, wie jener Krieger, der den erbeuteten Diamant des feindlichen<lb/>
+Fürsten für schlechte Münze losschlug. Und, o, was schmerzt mehr,<lb/>
+als ein solches Schauspiel? Ein edles Weib der Besitz eines unberufenen<lb/>
+Selbstlings! Fräulein, wenn Ihr einst wählt — das Eine versprecht mir!<lb/>
+— wählt Eurer würdig!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Dorothea</hi>. Guter Messis!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="scene-start"/>
+            <ab>
+               <title>3. <hi rend="text-spaced">Scene</hi>.</title>
+            </ab>
+            <p>
+               <hi rend="text-spaced">Die Vorigen</hi>. <hi rend="text-spaced">Memling</hi>.</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Memling</hi> (auftretend). Ist es erlaubt, einen Blick vor der Zeit<lb/>
+zu thun.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Messis</hi>: Vor der Zeit? Meine Zeit ist um, ich bin fertig.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Memling</hi>. Ha, wie sich das eilt! Lasst einmal sehen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Messis</hi>. Mir schlägt das Herz wie unterm Hochgerichte.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Memling</hi>. Ob wohl Einer von euch mit fester Hand ge-<lb break="no"/>
+zeichnet hat? — Gebt!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Messis</hi>. Da!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Memling</hi> (mit Ekstase). Messis!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Messis</hi>. Nun?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Memling</hi>. Könnt’ ich sagen, es ist mein Verdienst! Aber das<lb/>
+ist es so wenig, wie wenn Jemand einen Brunnen graben will, und der<lb/>
+Quell springt ihm auf der Oberfläche entgegen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Messis</hi>. Ihr seid also zufrieden mit dem Bilde?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Memling</hi>. Verwundert hätt’ es mich, wär’ es Euch missrathen,<lb/>
+aber nun — da es Euch so einzig gelungen ist, verwundert mich’s<lb/>
+wieder.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Messis</hi>. Ach, wir wollen sehen, was Dagobert ausgeheckt hat!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Memling</hi>. Bei Gott, ich bin in grosser Spannung. Seit meine<lb/>
+Schule besteht, ward solch ein Wettstreit nicht geführt in ihr. Ich bin<lb/>
+überzeugt, die zwei grössten Maler der Zukunft messen sich hier.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

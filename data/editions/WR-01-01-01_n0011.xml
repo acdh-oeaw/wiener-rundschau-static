@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-01_n0011.xml" prev="WR-01-01-01_n0010.xml" next="WR-01-01-01_n0012.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 1, S. 11</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0011"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-11-15">15 11 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0003">
+                  <title level="a">Gedichte</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="11" to="12"/>
+                  <idno type="fn">WR-01-01-01_n0011.xml</idno>
+                  <author ref="#wr-person-0003">Hofmannsthal, Hugo von</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">GEDICHTE</hi>.</title>
+            </ab>
+            <milestone unit="hr"/>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>I.</title>
+            </ab>
+            <lg>
+               <l>
+                  <hi rend="initial">Den</hi> Erben lass verschwenden</l>
+               <l>An Adler, Lamm und Pfau</l>
+               <l>Das Salböl aus den Händen</l>
+               <l>Der todten alten Frau!</l>
+               <l>Die Todten, die entgleiten,</l>
+               <l>Die Wipfel in dem Weiten,</l>
+               <l>Ihm sind sie wie das Schreiten</l>
+               <l>Der Tänzerinnen werth!</l>
+            </lg>
+            <lg>
+               <l>Er geht, wie den kein Walten</l>
+               <l>Vom Rücken her bedroht.</l>
+               <l>Er lächelt, wenn die Falten</l>
+               <l>Des Lebens flüstern: Tod!</l>
+               <l>Ihm bietet jede Stelle</l>
+               <l>Geheimnissvoll die Schwelle,</l>
+               <l>Es gibt sich jeder Welle</l>
+               <l>Der Heimatlose hin!</l>
+            </lg>
+            <lg>
+               <l>Der Schwarm von wilden Bienen</l>
+               <l>Nimmt seine Seele mit,</l>
+               <l>Das Singen von Delphinen</l>
+               <l>Beflügelt seinen Schritt:</l>
+               <l>Ihn tragen alle Erden</l>
+               <l>Mit mächtigen Geberden,</l>
+               <l>Der Flüsse Dunkelwerden</l>
+               <l>Begrenzt den Hirtentag!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

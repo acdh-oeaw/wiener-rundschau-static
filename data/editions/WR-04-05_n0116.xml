@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-05_n0116.xml" prev="WR-04-05_n0115.xml" next="WR-04-05_n0117.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 5, S. 116</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="05"/>
+                        <biblScope unit="page" n="n0116"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0821">
+                  <title level="a">Landschaft</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 5</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="101" to="124"/>
+                  <idno type="fn">WR-04-05_n0101.xml</idno>
+                  <author ref="#wr-person-0273">Wenban, Sion L.</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0825">
+                  <title level="a">Die Wahrheit der Maske</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 5</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="112" to="117"/>
+                  <idno type="fn">WR-04-05_n0112.xml</idno>
+                  <author ref="#wr-person-0068">Wilde, Oscar</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">WILDE: DIE WAHRHEIT DER MASKE.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">einheimischer Alterthumskunde, weil in<lb/>
+den Kirchen die Rüstungen und Trachten<lb/>
+aus der Vergangenheit aufbewahrt wurden.<lb/>
+Der puritanische Hass gegen Schmuck,<lb/>
+Farbe und Anmuth in der Kleidung war<lb/>
+nichts anderes als der große Pöbelaufstand<lb/>
+der englischen Mittelclassen gegen die<lb/>
+Schönheit im XVII. Jahrhundert. Die<lb/>
+Folgen dieses Pöbelaufstandes hat England<lb/>
+zwei Jahrhunderte hindurch wie Sträflings-<lb break="no"/>
+ketten an seiner Cultur getragen.</p>
+                     <milestone unit="asterisk"/>
+                     <p>Polonius sagt in seiner väterlichen<lb/>
+Abschiedsrede: Das Merkmal der guten<lb/>
+Kleidung ist <hi rend="text-spaced">Ausdrucksfähigkeit</hi>. —<lb/>
+Für die Bühne hat sie zwei Aufgaben:<lb/>
+die malerische und die dramatische; erstere<lb/>
+hängt von der Farbe, die zweite von der<lb/>
+Umrisszeichnung (Ausdrucksform) ab. Ver-<lb break="no"/>
+schiedene Formen, aus verschiedenen Zeit-<lb break="no"/>
+altern genommen, verwandeln die Bühne<lb/>
+in jenes <hi rend="text-spaced">Costüm-Chaos</hi>, welches die<lb/>
+Caricatur aller Jahrhunderte ist, das wir<lb/>
+mit dem Namen »Costümball« bezeichnen.<lb/>
+Damit geht jeder einheitliche malerische<lb/>
+und dramatische Effect verloren, weil eine<lb/>
+Verwirrung der Costüme eine Verwirrung<lb/>
+des Stückes selbst bedeutet. Da Kleidung<lb/>
+Entwicklung und Evolutionsform ist, so<lb/>
+darf auch der Dramatiker diesen Ausdruck<lb/>
+des Zeitalters nicht ungestraft verachten.<lb/>
+Shakespeares Ansicht über <hi rend="text-spaced">Mischklei</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">dung</hi> kann man entnehmen aus der<lb/>
+häufigen Verspottung der elisabethinischen<lb/>
+Dandys, die sich einbildeten, gut gekleidet<lb/>
+zu sein, weil sie ihre Hemdkrägen aus<lb/>
+Italien, ihre Hüte aus Deutschland und<lb/>
+ihre Hosen aus Frankreich bezogen. Ebenso<lb/>
+streng und einheitlich fasste er die Costüm-<lb break="no"/>
+frage für den Geist und die sociale<lb/>
+Atmosphäre seiner Bühnenwerke auf.</p>
+                     <p>Wie gewissenhaft und klug Shakespeare<lb/>
+die Archäologie benützte, geht wohl am<lb/>
+schlagendsten aus der historischen Kleidung<lb/>
+des Coriolan hervor, bei dem der alte<lb/>
+Plutarch zu Rathe gezogen worden ist,<lb/>
+der uns den Kranz von Eichenlaub be-<lb break="no"/>
+schreibt, mit welchem Cajus Martius<lb/>
+bekrönt worden sei, desgleichen den<lb/>
+Schnitt und Sinn des eigenartigen Mantels,<lb/>
+in welchem er nach antiker Sitte seinen<lb/>
+Wählern entgegentreten und um ihre<lb/>
+Stimmen werben musste. Als echter</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Künstler »übernimmt« Shakespeare vom<lb/>
+Historiker die Thatsachen, indem er sie in<lb/>
+dramatische und malerische Effecte um-<lb break="no"/>
+wertet. Dieses dunkle Gewand der Demuth,<lb/>
+dieses »wölfische Gewand«, wie er es<lb/>
+nennt, bildet den eigentlichen Schlüssel<lb/>
+zum ganzen Stück.</p>
+                     <p>Archäologische Genauigkeit ist also eine<lb/>
+wesentliche Voraussetzung der Bühnen-<lb break="no"/>
+Illusion. Daher beruht Lord Lyttons Vor<lb/>
+schlag, »nur schöne«, nicht richtige<lb/>
+Costüme zu gebrauchen, auf einer ganz<lb/>
+irrthümlichen Auffassung vom Wesen und<lb/>
+Sinn der Bekleidung. Ganz neue Costüme<lb/>
+zu entwerfen, die allgemeine Giltigkeit<lb/>
+beanspruchen könnten, ist — außer für<lb/>
+heiteren Mummenschanz — fast undenk-<lb break="no"/>
+bar, weil Kleidung nicht »entdeckt«, son-<lb break="no"/>
+dern entwickelt wird.</p>
+                     <p>Der Archäologe der Zukunft wird<lb/>
+wahrscheinlich unser Zeitalter als dasjenige<lb/>
+bezeichnen, in welchem die Bedeutung<lb/>
+und decorative Schönheit des Schwarz<lb/>
+erkannt worden ist. Was aber die Bühne<lb/>
+anbelangt, so finde ich nicht, dass sie<lb/>
+dort hinreichend verstanden wird, nämlich<lb/>
+als Stimmungsmotiv, wie etwa Weiß oder<lb/>
+Gold. In modernen Stücken wird wenig<lb/>
+darauf geachtet, dass dem schwarzen<lb/>
+Kammgarn- oder Tuch-Gehrock des Helden<lb/>
+als Farbenmotiv an sich Bedeutung inne-<lb break="no"/>
+wohnt, zu dem ein passender Hintergrund<lb/>
+gegeben werden sollte. Das geschieht sehr<lb/>
+selten. In der weitaus größten Mehrheit<lb/>
+aller modernen Inscenierungen verschwindet<lb/>
+der Held in einem Urwald von Palmen-<lb break="no"/>
+blättern oder verwirrenden Durcheinander<lb/>
+von Nippsachen; oder er ertrinkt in den<lb/>
+schwellenden Polstern von Louis Quatorze-<lb break="no"/>
+Möbeln mit ihren weiten, ausladenden<lb/>
+Formen und gähnenden Abgründen von<lb/>
+Gold und Rosa; oder er schrumpft zur<lb/>
+Mücke zusammen inmitten von Riesen-<lb break="no"/>
+schränken mit unruhigen Intarsia-Flecken.<lb/>
+Der Hintergrund sollte dagegen ruhig<lb/>
+gehalten sein, in seiner Farbe dem Ganzen<lb/>
+einheitlich untergeordnet.</p>
+                     <p>Viele unserer Schauspieler scheinen<lb/>
+furchtbar unbeholfen mit den Armen und<lb/>
+wissen ihre Hände nirgends unterzubringen,<lb/>
+sobald die gewohnten Seitentaschen an den<lb/>
+Röcken fehlen. Sie tragen ihre Kleider<lb/>
+wie Costüme. Costüme dürfen sie aber<lb/>
+nur für den sein, der sie entwirft und</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

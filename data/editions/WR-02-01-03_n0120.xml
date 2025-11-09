@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-03_n0120.xml" prev="WR-02-01-03_n0119.xml" next="WR-02-01-04_n0121.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 3, S. 120</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0120"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-12-15">15 12 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0328">
+                  <title level="a">Rink, »Aus dem hohen Norden«</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="118" to="120"/>
+                  <idno type="fn">WR-02-01-03_n0118.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">120</fw>
+               <fw type="ctext">NOTIZEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>das Bedürfnis, sich zu entschuldi-<lb break="no"/>
+gen. »Obgleich die Sache ja von<lb/>
+keiner weiteren Bedeutung ist als<lb/>
+für mich selbst<milestone unit="2dots"/>« — Das sind die<lb/>
+Dinge, die den Grönländer an die<lb/>
+tiefste Seele gehn und unerörtert<lb/>
+verklingen. Wenn z. B. einer der<lb/>
+jungen Meerschiffer vom Kajak-<lb break="no"/>
+schwindel befallen wird, und das<lb/>
+Treiben auf hoher See ein jähes<lb/>
+Ende hat, dann ahnt man hinter<lb/>
+den dürftigen Worten nur, welche</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Fülle von Hoffnungen, ehrgeizigen<lb/>
+Wünschen zerstört wurde. — Auch<lb/>
+heimlich träumende Köpfe sind<lb/>
+unter den Grönländern, und nicht<lb/>
+bloss im Salon erblüht die blaue<lb/>
+Blume. Ich wüsste keinen Moder-<lb break="no"/>
+nen, von dem die Kajakmänner<lb/>
+zulernen sollten, aber gar manchen<lb/>
+Modernen, der zu den Seehunds-<lb break="no"/>
+fängern in die Lehre gehen kann.</p>
+                     <p>
+                        <hi rend="italics">Wien. <rs type="person" key="">E. K.</rs>
+                        </hi>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="hr"/>
+            <milestone unit="imprint-start"/>
+            <p>Herausgeber: <hi rend="text-spaced">Gustav Schoenaich</hi>, <hi rend="text-spaced">Felix Rappaport</hi>.</p>
+            <p>Verantwortlicher Redacteur: <hi rend="text-spaced">Gustav Schoenaich</hi>.</p>
+            <p>Ch. Reisser &amp; M. Werthner, Wien.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

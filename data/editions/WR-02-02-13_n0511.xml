@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-13_n0511.xml" prev="WR-02-02-13_n0510.xml" next="WR-02-02-13_n0512.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 13, S. 511</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="13"/>
+                        <biblScope unit="page" n="n0511"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-05-15">15 5 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0430">
+                  <title level="a">Das Todesproblem und die moderne Literatur</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 13</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="510" to="512"/>
+                  <idno type="fn">WR-02-02-13_n0510.xml</idno>
+                  <author ref="#wr-person-0101">Grossmann, Stefan</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DAS TODESPROBLEM UND DIE MODERNE LITERATUR.</fw>
+               <fw type="pn">511</fw>
+            </fw>
+            <p rend="no-intend">Seit jener lieblosen Nacht, in der er gezeugt wurde, stand ein Stern<lb/>
+über seinem Leben. In diesem war zu lesen: Du bist der Verfall, die<lb/>
+innere Verwesung, die wahre Decadence, der <hi rend="text-spaced">Untergang</hi>!</p>
+            <p>Aber wie selten sind die einzelnen »Fälle« im Leben so einfach.<lb/>
+Darf man denn sicher sein, dass z. B. Dr. Rank aus Ibsen’s »Nora«<lb/>
+sich wirklich erschiesst, wenn er an die frische Luft kommt? Wie viel<lb/>
+Todte sind in physisch starken Organismen! Und wie wenige kennen<lb/>
+den Leichengeruch des »homme médiocre«! Ohne Rausch, in lieb-<lb break="no"/>
+losen Nächten gezeugt, gleitet sein Leben ohne Rausch und lieblos<lb/>
+dahin. Aber mit der Leiche seiner Seele im Innern, imitirt er alle<lb/>
+Symptome des Lebens. Zwar bleibt die mediocre Temperatur seines<lb/>
+Lebens immer dieselbe, er erhitzt sich nicht, er kann nicht kalt<lb/>
+werden, aber um so schärfer vermag er die Symptome der Lebendig-<lb break="no"/>
+keit nachzuahmen. Jeder Leidenschaft unfähig, imitirt er Affecte mit<lb/>
+der ganzen Erbitterung seines Starrsinns. Ohne jeden heiligen Eifer,<lb/>
+weiss er diesen zu markiren und wird ein viel erbitterterer Dogmatiker,<lb/>
+als es die Propheten sind. In den entscheidenden Stunden fehlt ihm<lb/>
+jene spontane Energie, die ein Merkmal des innerlich lebendigen,<lb/>
+glühenden Menschen ist, also construirt er sich falsche Energien, am<lb/>
+unrechten Platze. Wer vermag schliesslich zwischen den Echten und<lb/>
+Unechten zu entscheiden? Ein namenloser Zorn muss den wirklich<lb/>
+lebendigen Menschen angesichts dieser geschminkten wandelnden<lb/>
+Leichen befallen. Zwar hat er das Bewusstsein, dass eine tödtlich-<lb break="no"/>
+kühle Atmosphäre im Innern dieser Leichenmenschen wohnt, dass sie<lb/>
+stöhnen vor innerer Verödung und Ausgestorbenheit. Aber wer bringt<lb/>
+diesem homme médiocre seine seelische Decadence ins Bewusstsein?</p>
+            <p>
+               <hi rend="text-spaced">Eine</hi> solche Abrechnung hat Hugo v. Hofmannsthal in seinem<lb/>
+»Thor und der Tod« mit ihm gehalten. Der Thor seufzt:</p>
+            <milestone unit="verse-start"/>
+            <lg>
+               <l>Was weiss ich denn vom Menschenleben?</l>
+               <l>Bin freilich <hi rend="text-spaced">scheinbar</hi> drin gestanden,</l>
+               <l>Aber ich hab’ es höchstens verstanden,</l>
+               <l>Hab’ mich niemals drin verloren.</l>
+               <l>Wo Andre nehmen, Andre geben,</l>
+               <l>Blieb ich beiseit’, <hi rend="text-spaced">im Innern stumm geboren</hi>.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <p>In der Nähe des Todes erscheinen ihm jetzt die Mutter, die<lb/>
+Geliebte, der active Mann, der Veränderer des Lebens, nun erst, im<lb/>
+Tode erhält er sein wahres Lebensgefühl: seine seelische Beziehung<lb/>
+zu den Dingen. Alle Lebensbetrüge der Vergangenheit sinken in einen<lb/>
+Haufen elender Asche vor ihm zusammen, alle frech gewählten Costüme<lb/>
+fallen von ihm und sein wahres Lebensgefühl, das Bewusstsein von<lb/>
+seinem ungelebten Leben, überfällt ihn. — Wie mit elektrischem Blitz<lb/>
+beleuchtet der Todesgedanke die dunkle Landschaft eines unbewussten<lb/>
+Lebens und alle Wege werden sichtbar <milestone unit="4dots"/> Der Todesgedanke ist<lb/>
+der stärkste Bewusstseinserreger.</p>
+            <p>Will der dekadente Mensch sein Lebensgefühl behalten, so darf<lb/>
+er den Todesgedanken nicht aus dem Auge verlieren. Dieser Rückhalt,<lb/>
+diese Stütze kann ihn zum heroischen, zum religiösen Menschen machen.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

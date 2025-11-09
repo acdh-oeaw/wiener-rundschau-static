@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-06_n0129.xml" prev="WR-04-06_n0128.xml" next="WR-04-06_n0130.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 6, S. 129</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="06"/>
+                        <biblScope unit="page" n="n0129"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0830">
+                  <title level="a">Sonette</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 6</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="06">6</biblScope>
+                  <biblScope unit="page" from="129" to="130"/>
+                  <idno type="fn">WR-04-06_n0129.xml</idno>
+                  <author ref="#wr-person-0225">Rossetti, Dante Gabriel</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <rs type="person" key="">DANTE GABRIEL ROSSETTI</rs>
+                  <lb/>
+SONETTE: <milestone unit="hr"/>
+               </title>
+            </ab>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>DER LIEBESBRIEF.</title>
+            </ab>
+            <lg>
+               <l>Von ihrer Hand erwärmt und ganz von ihr</l>
+               <l>Durchathmet, da beim Schreiben sie sich dicht</l>
+               <l>Zu dir herniederbog, und ihr Gesicht</l>
+               <l>Allmählich röther glühte über dir:</l>
+            </lg>
+            <lg>
+               <l>Von ihrem Sein erfülltes Blatt Papier —</l>
+               <l>An Stelle ihres Auges, das sonst licht</l>
+               <l>Von dem Verschwiegenen des Innern spricht,</l>
+               <l>Enthülle du nun ihre Seele mir!</l>
+            </lg>
+            <lg>
+               <l>Gern hätt’ ich sie belauscht, wenn dann und wann</l>
+               <l>Bei einem rückhaltloseren Erguss</l>
+               <l>Sie ihre Brust genähert deinem Rand —</l>
+            </lg>
+            <lg>
+               <l>Wenn sie aufblickend in die Ferne sann</l>
+               <l>Und dort im magischen Zusammenfluss</l>
+               <l>Der Seelen ihrer Liebe Ausdruck fand.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>TOD DER LIEBE.</title>
+            </ab>
+            <lg>
+               <l>Ein Bild erschien vor mir, vom Traum belebt,</l>
+               <l>Das trug der Liebe Flügel und Panier.</l>
+               <l>Zart war der Stoff und ins Gespinst verwebt,</l>
+               <l>Entseeltes Antlitz, Zug um Zug von dir.</l>
+            </lg>
+            <lg>
+               <l>Wirres Getön, wie es sich im Revier</l>
+               <l>Der Grenzen zwischen Tag und Nacht erhebt,</l>
+               <l>Umbrauste mich und liess mich angstdurchbebt,</l>
+               <l>Betäubten Sinnes und die Augen stier.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

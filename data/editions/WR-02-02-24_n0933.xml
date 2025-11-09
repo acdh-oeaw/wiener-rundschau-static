@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="WR-02-02-24_n0933.xml"
+     prev="WR-02-02-24_n0932.xml"
+     next="WR-02-02-24_n0934.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 24, S. 933</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="24"/>
+                        <biblScope unit="page" n="n0933"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-11-01">1 11 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text">
+                  <author/>
+                  <title n=""/>
+                  <biblScope unit="page">-</biblScope>
+                  <idno/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page"><fw type="hd"><fw type="ctext">GASTSPIEL-TOURNEE.</fw><fw type="pn">933</fw></fw><p rend="no-intend">Dienste zu leisten, indem ich Publicum und Theatergetriebe an<lb/>
+verschiedenen Orten studiere und die Augen offen halte nach<lb/>
+modernen schauspielerischen Talenten, die unbekannt in der Welt<lb/>
+verstreut sind, um nach einiger Zeit im Schwarme frischer<lb/>
+Collegen mich irgendwo wieder dauernd niederzulassen.</p><p>Ähnlich wie Werner in der »Minna von Barnhelm« nehme<lb/>
+ich mir vor, über Jahr und Tag als Theatergeneralin zurückzu-<lb break="no"/>
+kehren; selbst eine moderne Bühne zu leiten oder vielleicht als<lb/>
+Theaterkritikerin meine Erfahrungen nutzbar zu machen.</p><milestone unit="untyped-end"/><milestone unit="hr"/></div>
+      </body>
+   </text>
+</TEI>

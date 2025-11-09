@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-17_n0651.xml" prev="WR-01-02-17_n0650.xml" next="WR-01-02-17_n0652.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 17, S. 651</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="17"/>
+                        <biblScope unit="page" n="n0651"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-07-15">15 7 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0222">
+                  <title level="a">Quintin Messis</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 17</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="17">17</biblScope>
+                  <biblScope unit="page" from="646" to="652"/>
+                  <idno type="fn">WR-01-02-17_n0646.xml</idno>
+                  <author ref="#wr-person-0081">Kürnberger, Ferdinand</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">QUINTIN MESSIS.</fw>
+               <fw type="pn">651</fw>
+            </fw>
+            <p rend="no-intend">Opfert Euch Eurem Wahne, aber opfert ein edles Mädchen in seiner<lb/>
+ersten Liebe nicht.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Messis</hi>. Ein edles Mädchen ist auch ein Mädchen! Wenn’s hoch<lb/>
+kommt, so vertrauert sie diesen Sommer, aber unter den Blumen des<lb/>
+nächsten Frühlings stehen ihre bräutlichen Myrten — soll mir die<lb/>
+Seeligkeit entgehen!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Memling</hi>. Oder sie selbst liegt unter diesen Blumen. Man hat<lb/>
+Geschichten von gebrochenen Herzen —</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Messis</hi>. Märchen hat man! nichts als Märchen, Gedichte, Fabeln,<lb/>
+Erfindungen, Lügen! Nein! Nein! Meister, hier steh’ ich auf <hi rend="text-spaced">meinem</hi>
+               <lb/>
+Boden! — Nichts davon, ich bitt’ Euch!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Memling</hi>. Messis! Messis! Welches Ungemach bereitet Ihr mir!<lb/>
+Kann ich den Kummer und die Schmach der Verschmähung in meines<lb/>
+würdigen Freundes Haus verkünden? Oder kann ich den Sieger meiner<lb/>
+Schule verleugnen und Hildebalds Vertrauen mit falscher Münze be-<lb break="no"/>
+zahlen?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Messis</hi>. Welch ein glücklicher Gedanke! O thut’s! thut’s! Schenkt<lb/>
+dies mein Bild dem armen Dagobert! Sagt jenen —</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Memling</hi>. Nein! nein! Ich lüge nicht für Euch, ich steh’ nicht<lb/>
+ein für Eure Thorheit!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Messis</hi>. Nun denn, ich will Euch’s leichter machen! (Er zerreisst<lb/>
+sein Bild und wirft es geballt zu dem andern.) Hier liegt Messis, hier liegt<lb/>
+Dagobert! Der Kaufmann komme und wäge sie!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Memling</hi>. Wahnsinniger! Was habt Ihr gethan? Euren Glückstern<lb/>
+aus seiner Bahn geschleudert, den Schuldbrief des Schicksals an Euch<lb/>
+zerrissen, gebrochen mit der schönsten Zukunft Eures Lebens!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Messis</hi>. O, mein treuer Meister! Könntet Ihr mit meinen Augen<lb/>
+sehen! Ich will Euch diese schöne Zukunft zeigen. Ich sitze in einem<lb/>
+prächtigen Stadthause und sehe vom freien Balkon weit hinaus über<lb/>
+eine Reihe Landhäuser am Rhein, über unermessliche Gebreiten von<lb/>
+Feld und Flur, Garten und Wald — und das Alles ist mein. Wie ein<lb/>
+König in seinem Reiche thron’ ich in Hildebalds fürstlichem Erbe.<lb/>
+Aber neben mir auf dem Sammte meiner Kissen ruht ein Weib, im<lb/>
+Saale und neben mir, in meinen Arm verschlungen, wandelt ein Weib<lb/>
+durch die Gärten — woher kommt nur die? Das ist dem Einzigen die<lb/>
+Einzige! Das ist die Hälfte meines Ichs, mein Fleisch, mein Blut! Doch<lb/>
+fremd ist mir die Farbe ihres Haares, und fremd das Lächeln ihrer Züge,<lb/>
+und fremd jede Geberde ihres Körpers, wie reizend sie auch sei. Ich<lb/>
+sehe sie an, und sehe nicht ihre eigene Schönheit, sehe nur, worin sie<lb/>
+jener Unvergesslichen nicht gleicht, und nähre meinen Gram aus dem,<lb/>
+was mir zur Wonne sollte da sein. Und falsch ist ihr mein Kuss, und<lb/>
+Trug meine Umarmung, und Lüge meine Treue, die das Herz schon<lb/>
+brach, ehe noch der Mund sie schwur; so stahl ich einem edlen Weibe<lb/>
+das Glück ihres Lebens und fand mein eignes nicht dabei, denn halb<lb/>
+ist Alles nur, was ich geniesse, und das entadelte Gewissen verkümmert</p>
+         </div>
+      </body>
+   </text>
+</TEI>

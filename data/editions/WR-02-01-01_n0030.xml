@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-01_n0030.xml" prev="WR-02-01-01_n0029.xml" next="WR-02-01-01_n0031.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 1, S. 30</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0030"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-11-15">15 11 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0306">
+                  <title level="a">Zur Charakteristik der japanischen Kunst</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="28" to="30"/>
+                  <idno type="fn">WR-02-01-01_n0028.xml</idno>
+                  <author ref="#wr-person-0120">Brosch, Leopold</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">30</fw>
+               <fw type="ctext">BROSCH.</fw>
+            </fw>
+            <p rend="no-intend">ihr öfter an Form und Symmetrie; unter den vielen sind wohl einige<lb/>
+gute Stücke, so Mäuse und Vögel. Und der ganz kleine Tand ist un-<lb break="no"/>
+gemein humoristisch aufgefasst. Doch wo es sich um Darstellung von<lb/>
+Menschen handelt, fehlt es an der richtigen Proportion des menschlichen<lb/>
+Körpers. Von den schönen japanischen Vasen, die einen Weltruhm besitzen,<lb/>
+wäre es überflüssig, zu berichten.</p>
+            <p>Allein was den japanischen Künstlern in ihrer Gesammtheit<lb/>
+mangelt, ist persönliche Originalität — Einer guckt dem Anderen die<lb/>
+Kunstgriffe ab; es herrscht kein individueller Unterschied zwischen der<lb/>
+Mache zweier Meister, Beide streben in gleicher Richtung, und Alle<lb/>
+sind gleichgerathene Kinder derselben Urahnen, die zum erstenmal den<lb/>
+Pinsel geführt. Keiner ist dem Anderen soweit überlegen, dass man<lb/>
+ihn als den Ersten oder als das Haupt der Schule bezeichnen könnte.<lb/>
+Trotzdem muss man ihnen lassen, dass sie jede Regung im Thier- wie<lb/>
+im Pflanzenleben mit äusserster Genauigkeit zu beobachten und wieder-<lb break="no"/>
+zugeben wissen. Und weil sie das können, haben sie gut gethan, zum<lb/>
+erstenmal direct eine europäische Ausstellung zu beschicken; denn ihre<lb/>
+Werke liebvoll betrachtend, wird Einem zu Muthe, als ob zarte Mai-<lb break="no"/>
+glöckchen oder violette Veilchen den Sinn betäubten, während hoch<lb/>
+darüber Lerchentöne erschallen und als ob wir selbst an die Schönheiten<lb/>
+der Natur so unzertrennlich gebunden wären wie das blasse Mondlicht an<lb/>
+die thronende Sonne — gebunden durch Macht jener Liebe, von der<lb/>
+Petrarca singt:</p>
+            <milestone unit="verse-start"/>
+            <lg>
+               <l>Amor fra l’erbe una leggiadra rete</l>
+               <l>D’oro e di perle tese sott’ un ramo.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

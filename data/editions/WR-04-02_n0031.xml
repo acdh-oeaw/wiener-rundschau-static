@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-02_n0031.xml" prev="WR-04-02_n0030.xml" next="WR-04-02_n0032.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 2, S. 31</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0031"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0796">
+                  <title level="a">Farbe und Linie II.</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 2</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="31" to="36"/>
+                  <idno type="fn">WR-04-02_n0031.xml</idno>
+                  <author ref="#wr-person-0206">Lindner, Anton</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>FARBE UND LINIE.<lb/>
+Ein Versuch<lb/>
+Von <rs type="person" key="">
+                     <hi rend="text-spaced">ANTON LINDNER</hi>
+                  </rs> (Wien)<lb/>
+II.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Die weit ausladenden Untersuchungen,<lb/>
+was eigentlich in die Kategorie des<lb/>
+Schönen, absolut Schönen, noch Schönen,<lb/>
+nicht mehr Schönen gehöre und nicht<lb/>
+gehöre, oder die infalliblen Rescripte, die<lb/>
+kund und zu wissen thun, dass aus<lb/>
+den Elementen α, β, γ, δ <milestone unit="3dots"/> in ent-<lb break="no"/>
+sprechender Confusion der ästhetische<lb/>
+Eindruck π resultieren müsse, haben füg-<lb break="no"/>
+lich selbst in gelehrten Cirkeln nur noch<lb/>
+antiquarisches Interesse. Über »schön«<lb/>
+oder »nicht schön«; regen wir uns heute<lb/>
+nicht auf. Es gibt erbaulichere Dinge<lb/>
+zwischen Himmel und Erde. Nur wenige<lb/>
+Fischhändler im deutschen Mittel-Europa<lb/>
+brüten auch heute noch ernsthaft auf<lb/>
+ausgeblasenen Eiern. Zeigt man ihnen<lb/>
+mit langem Finger die kleine Wolke hoch<lb/>
+oben, die frei von Fett und Schwere<lb/>
+zwischen Sonnenstrahlen dahinhuscht und<lb/>
+aller Sesshaftigkeit spottet, und fragt man<lb/>
+mit respectierlichem Gestus:</p>
+                     <p>Seht ihr die Wolke dort, beinah’ in Gestalt<lb/>
+eines Kameels? —</p>
+                     <p>dann heben sie den nackten Kopf,<lb/>
+der in den trockenen Charnieren knarrt,<lb/>
+ängstlich von ihrer Tischkante auf und<lb/>
+betheuern mit einer Stimme, die wie das<lb/>
+Rascheln von Spänen klingt:</p>
+                     <p>Bei der Messe! Sie sieht auch wirklich<lb/>
+aus wie ein Kameel!</p>
+                     <p>Mich dünkt — antwortet man — sie<lb/>
+sieht aus wie ein Wiesel!</p>
+                     <p>Sie hat — raschelt es zurück — einen<lb/>
+Rücken wie ein Wiesel!</p>
+                     <p>Oder — antwortet man — wie ein<lb/>
+Walfisch?</p>
+                     <p>Ganz — raschelt es zurück — wie<lb/>
+ein Walfisch!</p>
+                     <p>Nur nach diesem und keinem anderen<lb/>
+Schema sind Dispute, Repliken und</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Dupliken über das Schöne und minder<lb/>
+Schöne heute noch denkbar. Darum<lb/>
+müsste die Aufgabe einer modernen<lb/>
+Ästhetik just eigentlich dort erst beginnen,<lb/>
+wo die Formalisten alter Fechsung —<lb/>
+Robert Zimmermann in Verehrung aus-<lb break="no"/>
+genommen! — die Papierbolzen in den<lb/>
+Sand werfen und ihre Mission damit be-<lb break="no"/>
+endet glauben. Nach Dem aber, was <hi rend="italics">in<lb/>
+aestheticis</hi> uns heute überhaupt noch in-<lb break="no"/>
+teressieren kann, nach modernen Er-<lb break="no"/>
+klärungsversuchen kunstpsychischer Phäno-<lb break="no"/>
+mene, wird man in den meisten Com-<lb break="no"/>
+pendien nur vergeblich fahnden, denn<lb/>
+dergleichen Probleme werden in der<lb/>
+Regel <hi rend="italics">a priori</hi> mit und ohne <hi rend="italics">Ignorabimus</hi>
+                        <lb/>
+selbst heute noch unter den Tisch ge-<lb break="no"/>
+schoben. Betrachtet man aber die Weni-<lb break="no"/>
+gen, die derlei ausnahmsweise zu deuten<lb/>
+wagen, dann zeigt es sich recht bald,<lb/>
+dass die gesammte Kunstphilosophie —<lb/>
+— insonderheit auch Fechner — an dem<lb/>
+historischen Respect vor dem <hi rend="text-spaced">associa</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">tiven</hi> Factor festhält.</p>
+                     <p>Heute darf man wohl anders denken.<lb/>
+Heute darf man, wie meine Ausführungen*<lb/>
+zum Theil ergaben, an eine psychische<lb/>
+                        <hi rend="text-spaced">Unmittelbarkeit</hi> der Linien- und<lb/>
+Farbenwirkung glauben, die im Gegen-<lb break="no"/>
+satz zu der bisherigen Ästhetik auch<lb/>
+                        <hi rend="text-spaced">ohne</hi> associativen Hilfsfactor verständ-<lb break="no"/>
+lich wird. Denn heute darf man<lb/>
+vor allem fordern, dass die innere<lb/>
+Cultur den innerlich freien Menschen<lb/>
+der knechtenden Gewalt seiner Associa-<lb break="no"/>
+tionen möglichst entrücke. Wer sich der<lb/>
+umprägenden Macht des äußeren Milieus<lb/>
+wirksam entgegenstellt und den »Kampf<lb/>
+mit dem Object« erfolgreich besteht, wird<lb/>
+schließlich durch graduelle Selbstzucht</p>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Vergl. »Farbe und Linie«, Artikel I, »Wiener Rundschau« Nr. 1 vom <date>1. Jänner 1900</date>,<lb/>
+Seite 2 ff.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

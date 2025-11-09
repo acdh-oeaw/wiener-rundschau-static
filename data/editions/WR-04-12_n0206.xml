@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-12_n0206.xml" prev="WR-04-12_n0205.xml" next="WR-04-12_n0207.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 12, S. 206</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="12"/>
+                        <biblScope unit="page" n="n0206"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0895">
+                  <title level="a">Zwei Zeichnungen</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="189" to="212"/>
+                  <idno type="fn">WR-04-12_n0189.xml</idno>
+                  <author ref="#wr-person-0295">Beardsley, Aubrey</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0896">
+                  <title level="a">Salome</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="189" to="212"/>
+                  <idno type="fn">WR-04-12_n0189.xml</idno>
+                  <author ref="#wr-person-0068">Wilde, Oscar</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">WILDE: SALOME.</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Du hörst, was deine Tochter sagt. Sie will für mich tanzen. Du<lb/>
+thust recht, wenn du für mich tanzest, Salome. Und wenn du für mich getanzt<lb/>
+hast, vergiss nicht, von mir zu begehren, was zu begehren dir in den Sinn kommen<lb/>
+mag. Alles, was du verlangst, werde ich dir geben, und wäre es die Hälfte meines<lb/>
+Königreichs. Ich habe es geschworen — oder nicht?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Du hast es geschworen, Tetrarch!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Und ich habe immer mein Wort gehalten. Ich bin keiner von<lb/>
+Denen, die ihre Eide brechen. Ich verstehe mich nicht aufs Lügen. Ich bin der<lb/>
+Sclave meiner Worte, und mein Wort ist das Wort eines Königs. Der König von<lb/>
+Cappadocien trug immer Lügen im Mund, aber er ist kein echter König. Er ist ein<lb/>
+Wicht. Er schuldet mir auch Geld, das er nicht heimzahlt. Er hat sogar meine<lb/>
+Gesandten beleidigt. Er hat Worte gesprochen, die kränkend waren. Aber Cäsar<lb/>
+wird ihn ans Kreuz schlagen lassen, wenn er nach Rom kommt. Ich weiß, Cäsar<lb/>
+wird ihn kreuzigen lassen. Und wenn er ihn nicht kreuzigen lässt, wird er doch<lb/>
+sterben und von den Würmern gefressen werden. Der Prophet hat es prophezeit.<lb/>
+Nun! Warum zögerst du, Salome?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Ich warte, bis meine Sclavinnen mir Salben und die sieben Schleier<lb/>
+bringen und die Sandalen von meinen Füßen lösen.</p>
+            <milestone unit="untyped-end"/>
+            <p>(SCLAVEN bringen Salben und die sieben Schleier und nehmen Salome die Sandalen ab.)</p>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Ah, du wirst mit nackten Füßen tanzen! ’s ist gut! ’s ist gut!<lb/>
+Deine kleinen Füße werden wie weiße Tauben sein. Sie werden wie kleine weiße<lb/>
+Blumen sein, die auf Bäumen tanzen <milestone unit="3dots"/> Nein, nein, sie wird auf Blut tanzen!<lb/>
+Da auf dem Boden ist Blut vergossen! Sie soll nicht auf Blut tanzen! Es wäre ein<lb/>
+böses Zeichen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Was kümmert es dich, ob sie auf Blut tanzt? Du hast tief genug<lb/>
+darin gewatet <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Was kümmert es mich? Ah, sieh’ den Mond an! Er ist roth<lb/>
+geworden. Er ist roth geworden wie Blut. Ah, der Prophet hat wahr prophezeit. Er<lb/>
+prophezeite, dass der Mond wie Blut werden würde. Hat er das nicht prophezeit? Ihr<lb/>
+alle habt gehört, wie er es prophezeite. Und jetzt ist der Mond wie Blut geworden.<lb/>
+Seht ihr es nicht?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: O ja, ich sehe es gut, und die Sterne fallen wie unreife Feigen,<lb/>
+nicht? Und die Sonne wird finster wie ein schwarzes Tuch, und die Könige der<lb/>
+Erde erzittern. Das wenigstens kann man sehen. Darin wenigstens hat der Prophet<lb/>
+Recht behalten mit seinem Wort, denn fürwahr, die Könige der Erde zittern <milestone unit="3dots"/>
+               <lb/>
+Wir wollen hineingehen. Du bist krank. Sie werden in Rom sagen, dass du verrückt<lb/>
+bist. Wir wollen hineingehen, sage ich.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DIE STIMME DES JOCHANAAN: Wer ist Der, der von Edom kommt, wer<lb/>
+ist Der, der von Bozra kommt, dessen Kleid mit Purpur gefärbt ist, der in der<lb/>
+Schönheit seiner Gewänder leuchtet, der mächtig in seiner Größe wandelt? Warum<lb/>
+ist dein Kleid mit Scharlach gefleckt?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Wir wollen hineingehen. Die Stimme dieses Menschen macht<lb/>
+mich wahnsinnig. Ich will nicht haben, dass meine Tochter tanze, während er fort-<lb break="no"/>
+während dazwischenschreit. Ich will nicht, dass sie tanze, während du sie auf solche<lb/>
+Art ansiehst. Mit einem Wort, ich will nicht haben, dass sie tanze.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Steh’ nicht auf, mein Weib, meine Königin, es wird dir nichts<lb/>
+helfen. Ich gehe nicht hinein, bevor sie nicht getanzt hat. Tanze, Salome, tanze<lb/>
+für mich!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Tanze nicht, meine Tochter!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Ich bin bereit, Tetrarch.</p>
+            <milestone unit="untyped-end"/>
+            <p>(SALOME <hi rend="text-spaced">tanzt den Tanz der sieben Schleier</hi>.)</p>
+         </div>
+      </body>
+   </text>
+</TEI>

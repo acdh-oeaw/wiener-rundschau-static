@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-26_n0626.xml" prev="WR-03-02-26_n0625.xml" next="WR-03-02-26_n0627.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 26, S. 626</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="26"/>
+                        <biblScope unit="page" n="n0626"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0776">
+                  <title level="a">Die materielle und moralische Stellung des Schriftstellers in Paris II.</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 26</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="26">26</biblScope>
+                  <biblScope unit="page" from="622" to="627"/>
+                  <idno type="fn">WR-03-02-26_n0622.xml</idno>
+                  <author ref="#wr-person-0187">Mauclair, Camille</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MAUCLAIR: DIE STELLUNG DES SCHRIFTSTELLERS IN PARIS</fw>
+            </fw>
+            <ab type="catchall">.</ab>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Welche Schlussfolgerungen hat man<lb/>
+nun aus diesen Ausführungen zu ziehen?<lb/>
+Man wird vielleicht zugeben, dass sie sich<lb/>
+auf folgende Betrachtungen reducieren<lb/>
+lassen:</p>
+                     <p>Der Schriftstellerberuf ist, praktisch<lb/>
+genommen, ein schwieriger Beruf mit sehr<lb/>
+langsamem Avancement, der eine besondere<lb/>
+Begabung verlangt und ungefähr wie der<lb/>
+ehrenhafte Durchschnitt der öffentlichen,<lb/>
+gerichtlichen oder administrativen Func-<lb break="no"/>
+tionen und mit weit geringerer Sicher-<lb break="no"/>
+heit, Behaglichkeit und Muße bezahlt<lb/>
+wird. Alles in allem, ist die einzig mögliche<lb/>
+Basis in diesem Zustand, wie in allen<lb/>
+anderen, ein persönliches Vermögen, das<lb/>
+einem gestattet, Einnahmen abzuwarten<lb/>
+und einzig und allein nach seinem<lb/>
+Geschmack zu schreiben, oder eine reiche<lb/>
+Heirat, die den Mangel des Vermögens<lb/>
+ausgleicht. Und thatsächlich streben die<lb/>
+meisten nach dieser Lösung, wenn sie<lb/>
+nicht von ihrer Familie von Haus aus<lb/>
+einen verhältnismäßigen Wohlstand er-<lb break="no"/>
+halten haben. So fühlt man also, dass in<lb/>
+dieser ganzen Carrière ein seltsamer, ge-<lb break="no"/>
+heimnisvoller Irrthum steckt.</p>
+                     <p>
+                        <hi rend="text-spaced">Die Literatur ist keine Carrière</hi>.<lb/>
+Der Irrthum besteht darin, dass man sie<lb/>
+für eine solche hält. Die Literatur ist<lb/>
+weder ein elegantes Amüsement, noch eine<lb/>
+Aristokratie, noch ein Handwerk. Sie ist<lb/>
+in Wirklichkeit eine moralische <hi rend="text-spaced">Mission</hi>
+                        <lb/>
+und eine harte, schwere, mit dem ge-<lb break="no"/>
+wöhnlichen Leben unverträgliche Verpflich-<lb break="no"/>
+tung. Sie wird nur durch eine Reihe von<lb/>
+Notwendigkeiten und Ausflüchten mit<lb/>
+einer Entgelt bringenden Arbeit und einer<lb/>
+Profession in Verbindung gebracht. Wenn<lb/>
+sie ein Handwerk geworden ist, so ist<lb/>
+das nothgedrungen geschehen; sie sollte<lb/>
+es aber nicht sein.</p>
+                     <p>Die Gabe zu schreiben birgt eine<lb/>
+ernste, tiefe Verpflichtung, die sehr genaue<lb/>
+moralische Pflichten schafft und zu einer<lb/>
+steten Selbst-Beobachtung anhält, so dass<lb/>
+das Leben des Schriftstellers mit seinen<lb/>
+Gedanken und seinen Büchern im Ein-<lb break="no"/>
+klang stehen muss. Für diese zeigt sich<lb/>
+die Rolle des Schriftstellers als eine be-<lb break="no"/>
+deutende, sei es, dass er sich, auf die<lb/>
+Schöpfung wertvoller, gelehrter Werke</p>
+                  </cell>
+                  <cell>
+                     <p>beschränkt, die für ein sehr spärliches<lb/>
+Publicum bestimmt sind, sei es, dass er<lb/>
+eine sociologische Wirkung auf seine Zeit<lb/>
+ausüben will. Ein Schriftsteller muss glauben,<lb/>
+er sei mit einer großen, bedeutungsvollen<lb/>
+Aufgabe betraut, der er sich nicht ent-<lb break="no"/>
+ziehen kann. Ist er aufrichtig, so wird er<lb/>
+sofort die Kleinlichkeit, das Elend der als<lb/>
+Carrière betrachteten Literatur bemerken<lb/>
+— und seinen Entschluss fassen. Er wird<lb/>
+begreifen, dass er das Pariser Leben fliehen<lb/>
+muss.* Er muss sich von allen Vortheilen<lb/>
+der Carrière fernhalten, ohne sie zu bedauern,<lb/>
+muss mit allen eitlen Neigungen reinen<lb/>
+Tisch machen. Wenn ihm das gelingt,<lb/>
+dann erst begreift er die Größe und die<lb/>
+schwermüthige Schönheit seines intel-<lb break="no"/>
+lectuellen Berufes. Er entschließt sich<lb/>
+fröhlichen Herzens zu bescheidenem Leben,<lb/>
+er fügt sich in den Verlust finanzieller<lb/>
+Vortheile und in beschränkte Einnahmen;<lb/>
+er weiß, dass es nicht seine Aufgabe ist,<lb/>
+in den Premieren zu glänzen, seine Bücher<lb/>
+in großen Auflagen zu verkaufen, sein<lb/>
+Knopfloch zu schmücken, vor den Frauen<lb/>
+zu paradieren, bei den officiellen Dîners<lb/>
+zu figurieren, mit einem Wort: ein Komö-<lb break="no"/>
+diant zu sein. Er wird sich nach und nach<lb/>
+zu dem Gedanken erheben, dass dies alles<lb/>
+erbärmlich ist, und die geheimnisvolle<lb/>
+Stimme vernehmen, die da ewig spricht:<lb/>
+»<hi rend="text-spaced">Das Heil ist in euch</hi>.« Er wird<lb/>
+Frieden mit seiner Seele schließen, indem<lb/>
+er die berufsmäßige Eitelkeit tödtet, indem<lb/>
+er sich demüthigt, wenn der Stolz und Hoch-<lb break="no"/>
+muth ihn packt. Er wird sich mit unbeug-<lb break="no"/>
+samer Aufrichtigkeit und Wahrhaftigkeit<lb/>
+prüfen, denn er weiß, dass man sich und<lb/>
+seine Fehler nicht schonen darf. Er wird<lb/>
+sich selbst als sein schwierigstes Werk<lb/>
+betrachten, an dem er stets aufs neue<lb/>
+herumfeilen müsse. Dann wird er sich<lb/>
+mit frommer Ehrfurcht den Werken der<lb/>
+Todten zuwenden und fühlen, welche<lb/>
+Verpflichtungen sie ihm auferlegen.<lb/>
+Vor allem aber wird er sich mit Mit-<lb break="no"/>
+leid und Erbarmen waffnen und alles von<lb/>
+einem erhabenen Standpunkte aus be-<lb break="no"/>
+trachten. Seine erste Aufgabe wird es sein,<lb/>
+jede Lüge zu fliehen, für sich und für andere,<lb/>
+und schon diese Bedingung allein wird<lb/>
+ihn anti-social machen. Denn es gibt im</p>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Camille Mauclair hat sich vor wenigen Wochen in Marseille niedergelassen.</p>
+               <p>DIE RED.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

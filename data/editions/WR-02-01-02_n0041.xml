@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-02_n0041.xml" prev="WR-02-01-01_n0040.xml" next="WR-02-01-02_n0042.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 2, S. 41</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0041"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-12-01">1 12 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0312">
+                  <title level="a">In der Christnacht</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="41" to="46"/>
+                  <idno type="fn">WR-02-01-02_n0041.xml</idno>
+                  <author ref="#wr-person-0117">Henckel, W.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>1. <hi rend="text-spaced">DECEMBER</hi> 1897</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>IN DER CHRISTNACHT.<lb/>
+Nach Anton Tschechow von <rs type="person" key="">W. Henckel</rs> (München).</title>
+            </ab>
+            <p>Eine bleiche, junge Frau stand am Meeresufer und blickte in die<lb/>
+Ferne. Dicht vor ihr war eine alte, mit einem einseitigen, morschen<lb/>
+Geländer versehene Treppe, die ans Meer hinabführte.</p>
+            <p>Die Frau richtete ihre Blicke auf die in Finsterniss gehüllte, weite<lb/>
+Fläche. Ein strömender Regen verbarg den ganzen Horizont.</p>
+            <p>»Was mag wohl jetzt dort vorgehen?« dachte die junge Frau<lb/>
+und hüllte sich fröstelnd in ihr durchnässtes Pelzchen und in ihren<lb/>
+Shawl.</p>
+            <p>Dort, in jener undurchdringlichen Finsterniss, weit entfernt vom<lb/>
+Ufer, musste sich jetzt ihr Mann, der Gutsbesitzer Litwinow, mit seinen<lb/>
+Fischern befinden. Wenn der Sturm der letzten Tage sie nicht im<lb/>
+Schnee begraben hat, so werden sie wohl jetzt dem Lande zueilen.<lb/>
+Das Meer steigt, und das Eis muss bald brechen; einem solchen Sturm<lb/>
+kann es nicht lange widerstehen. Ob wohl ihre plumpen Fischerschlitten<lb/>
+das Ufer erreichen, bevor man das Heulen der aus dem Winterschlaf<lb/>
+erwachenden See vernimmt?</p>
+            <p>Die junge Frau möchte gern dort hinabsteigen; aber das Ge-<lb break="no"/>
+länder ist wackelig, nass und schlüpfrig, sie kann sich nicht fest darauf<lb/>
+stützen. Endlich hockt sie nieder, hält sich an den kalten, schmutzigen<lb/>
+Stufen fest und kriecht so rückwärts hinab. Der Sturmwind weht sie<lb/>
+fast hinunter, er reisst ihren Pelz auf, und die feuchte Kälte dringt bis<lb/>
+zu ihrer Brust.</p>
+            <p>»Heiliger Nicolaus! nimmt denn diese verwünschte Treppe gar<lb/>
+kein Ende!« flüsterte das junge Weib, sich hinabtastend. Neunzig steile<lb/>
+Stufen waren es, die sie da hinunterkriechen musste. Die Treppe<lb/>
+ächzte und konnte jeden Augenblick zusammenbrechen.</p>
+            <p>Nach endlosen zehn Minuten war die junge Frau unten, hart am<lb/>
+Meere. Der Sturmwind heulte hier noch ärger als dort oben, und der<lb/>
+Regen floss in Strömen.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

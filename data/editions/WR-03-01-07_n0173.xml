@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-07_n0173.xml" prev="WR-03-01-07_n0172.xml" next="WR-03-01-07_n0174.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 7, S. 173</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="07"/>
+                        <biblScope unit="page" n="n0173"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0597">
+                  <title level="a">Über die Forderung von sogenannten Gedanken in der Dichtung</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 7</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="171" to="173"/>
+                  <idno type="fn">WR-03-01-07_n0171.xml</idno>
+                  <author ref="#wr-person-0198">Schaukal, Dr. Richard</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0598">
+                  <title level="a">Brahms-Probleme</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 7</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="173" to="175"/>
+                  <idno type="fn">WR-03-01-07_n0173.xml</idno>
+                  <author ref="#wr-person-0166">Graf, Dr. Max</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">GRAF: BRAHMS-PROBLEME.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">gewohnt ist, an die Äusserung dieser<lb/>
+seltsamen Macht herantreten. Wie der<lb/>
+Spiegel die Eigenschaft besitzt, das ihm<lb/>
+Entgegentretende aufzunehmen und wieder-<lb break="no"/>
+zugeben, so gibt die Seele eines Dichters<lb/>
+mit dem Mittel der Worte die Eindrücke<lb/>
+wieder, die ihr ein Reiz verursacht.</p>
+                     <p>Und wenn die Verse mancher Künstler<lb/>
+schwierig, räthselhaft und voll Dunkelheit<lb/>
+erscheinen, so mag man an die schwierige,<lb/>
+räthselhafte und sicher-stolze Seele dieser<lb/>
+Künstler denken, die sich nicht jeder<lb/>
+anderen Menschenseele offenbaren will.<lb/>
+Dass nicht jede Dichtung wie der Apfel<lb/>
+ist, den man nur ergreifen und anbeissen<lb/>
+darf, um Geschmack und Befriedigung<lb/>
+zu empfinden, soll man ihr nicht vor-</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">werfen. Es gibt Gerichte, die man erst<lb/>
+essen lernen muss. Und wie das Kind<lb/>
+allmählich nur den Raum begreifen lernt<lb/>
+und anfangs ganz in der Fläche lebt, so<lb/>
+mag sich der noch so »gebildete« Bücher-<lb break="no"/>
+mensch dieser unruhigen und würdelosen<lb/>
+Zeit sagen, dass auch er erst seine an<lb/>
+Alltäglichkeiten und Traditionen abge-<lb break="no"/>
+stumpften Organe höheren Dimensionen<lb/>
+anpassen gelehrt werden muss, ehe er<lb/>
+den ganz unwillkürlichen Äusserungen<lb/>
+höher gearteter, ernster Künstler als ein<lb/>
+Berufener sich nähern darf, Künstler, denen<lb/>
+sich ein Sinn erschliesst aus Zeichen, in<lb/>
+denen er nur stumme, dumpfe Thatsachen<lb/>
+zu erblicken gewohnt war.</p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">BRAHMS-PROBLEME</hi>.<lb/>
+Von Dr. <rs type="person" key="">MAX GRAF</rs> (Wien).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Jenseits des Journalismus beginnt die<lb/>
+moderne Cultur. Ich meine hier Jour-<lb break="no"/>
+nalismus im weitesten Wortsinne: die<lb/>
+Form der Lebensführung, des Denkens<lb/>
+und Kunstempfindens der bürgerlichen<lb/>
+Welt. In der Lebensführung zeigt sich<lb/>
+der Journalismus als gänzlicher Mangel<lb/>
+jedes Hintergrundes im Leben. Als Mangel<lb/>
+jedes religiösen oder metaphysischen<lb/>
+Empfindens, jedes persönlichen Erlebens,<lb/>
+jedes Horchens auf innere und äussere<lb/>
+Stimmen, jeder Einkehr und jedes Sich-<lb break="no"/>
+besinnens. Im Denken als oberflächlicher<lb/>
+Realismus, der die Dinge so nimmt, wie<lb/>
+sie dem flüchtigen Blicke erscheinen und<lb/>
+ihren Wert nach den momentanen Be-<lb break="no"/>
+dürfnissen abschätzt. Im Kunstempfinden:<lb/>
+als Mangel jedes Fühlens der ewigen<lb/>
+Quellen der Kunst, die ja ein Lebendes,<lb/>
+das ton- oder formgewordene Blut des<lb/>
+Künstlers ist. Mit einem Worte, Journalis-<lb break="no"/>
+mus als Leben, Denken und Empfinden<lb/>
+ohne Perspectiven, ohne Tiefen, ohne<lb/>
+Ahnungen<milestone unit="4dots"/>
+                     </p>
+                     <p>Drei Dinge charakterisieren die moderne<lb/>
+Cultur. Sie ist revolutionär; da sie gegen<lb/>
+die furchtbarsten Machtmittel der kleinsten,<lb/>
+bornirtesten, verlogensten Köpfe zu kämpfen<lb/>
+hat. Sie ist metaphysisch; voll des Be-</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">wusstseins der Heiligkeit aller Dinge der<lb/>
+Welt und der innersten Ströme des<lb/>
+Lebens. Sie ist heroisch: aus einem ge-<lb break="no"/>
+steigerten Wertbewusstsein des inneren<lb/>
+Lebens heraus. Alle grossen Führer der<lb/>
+neuen Cultur zeigen jene Züge. Schopen-<lb break="no"/>
+hauer, Nietzsche, Wagner, Ibsen, Tolstoi,<lb/>
+Maeterlinck. Alle werden ausgezeichnet<lb/>
+durch den Hass und die Feindschaft der<lb/>
+journalistischen Welt und ihrer literarischen<lb/>
+Wortführer.</p>
+                     <p>In der Geschichte der modernen Cultur-<lb break="no"/>
+bestrebungen spielt <hi rend="text-spaced">Johannes Brahms</hi>
+                        <lb/>
+eine eigenthümliche Rolle. Eine höchst<lb/>
+complicierte, tragische, sonderbare: die<lb/>
+umso schwieriger zu enträthseln ist, als<lb/>
+Brahms wortkarg und in sich verschlossen<lb/>
+jeder Berührung in krankhafter Scheu aus<lb/>
+dem Wege gieng.</p>
+                     <p>Sein Werk zeigt keines jener oben-<lb break="no"/>
+zitierten Hauptmerkmale des neuen Geistes.<lb/>
+Es ist nicht revolutionär, sondern beladen<lb/>
+mit allem geistigen Musikempfinden von<lb/>
+drei Jahrhunderten. Stolz auf sein Be-<lb break="no"/>
+wahren alter Formen. Wie eine Festung<lb/>
+mit classischen Tongestalten verbarricadiert.<lb/>
+Es zeigt keine metaphysischen Züge: die<lb/>
+religiösen Werke, welche Brahms ge-<lb break="no"/>
+schaffen hat, sind aus einer engen Puri-</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

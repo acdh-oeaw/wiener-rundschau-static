@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-24_n0914.xml" prev="WR-02-02-24_n0913.xml" next="WR-02-02-24_n0915.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 24, S. 914</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="24"/>
+                        <biblScope unit="page" n="n0914"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-11-01">1 11 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0521">
+                  <title level="a">Die Mondscheinsonate</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 24</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="905" to="915"/>
+                  <idno type="fn">WR-02-02-24_n0905.xml</idno>
+                  <author ref="#wr-person-0144">Wolff, Ludwig</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">914</fw>
+               <fw type="ctext">WOLFF.</fw>
+            </fw>
+            <milestone unit="scene-start"/>
+            <ab>
+               <title>11. <hi rend="text-spaced">Scene</hi>.</title>
+            </ab>
+            <p>Frau Klein, Grete, Rosa.</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi> (ruft). Grete, Rosa! (Die Mädchen treten ein, Grete<lb/>
+verweint, Rosa gleichgiltig).</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Grete</hi> (Frau Klein umschlingend). O, Mama, Mama!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi>. Ihr wisst?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Rosa</hi>. Ihr habt ja so laut gesprochen, dass man jedes Wort<lb/>
+hören konnte.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi>. Ihr dürft es dem Armin nicht so übel nehmen,<lb/>
+er kann nicht, wie er will. Er lässt sich ganz von seiner Mutter leiten.<lb/>
+Er selbst ist ein ganz guter Junge.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Rosa</hi> (leichtsinnig). Ach was, mir ist es egal. Ich nehme auch<lb/>
+den Isidor. (Grete hat sich in einen Stuhl gesetzt und beginnt erneut zu<lb/>
+schluchzen.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi>. Geh’ Gretel, du darfst die Sache nicht so tragisch<lb/>
+nehmen. Schau, in der Ehe sind die Männer einer wie der andere.<lb/>
+Wenn man aufrichtig sein will, ist es ganz gleichgiltig, wen man<lb/>
+heiratet. Und siehst du, der Armin ist nicht der Ärgste. Er wird sich<lb/>
+lenken lassen. Hast du denn so eine Antipathie gegen ihn?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Grete</hi>. Nein, aber ich hab’ mich so an den Isidor gewöhnt.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Rosa</hi> (überlegen). Du wirst Dich jetzt an den Armin gewöhnen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi>. Schau, Kind, ich will Dich ja nicht zwingen. Ich<lb/>
+will gewiss das Beste für Dich. Will ich das nicht, sag’ selbst?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Grete</hi> (nachgiebig). O ja, Mama.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi>. Wenn Du den Armin nicht willst, so brauchst Du<lb/>
+ihn nicht zu nehmen. Da werde ich halt wieder von neuem herum-<lb break="no"/>
+laufen, einen für die Rosa zu finden. Es ist freilich nicht leicht, und<lb/>
+ich bin auch nicht mehr jung, aber was soll man machen? Euer Glück<lb/>
+liegt mir vor allem am Herzen. Also entscheide Dich. Ich kann ihn<lb/>
+doch nicht so lange warten lassen. Ja oder nein? Es ist gar kein<lb/>
+Zwang da. Du kannst thun, was Du willst. Ich werde Dir keine Vor-<lb break="no"/>
+würfe machen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Grete</hi> (nach einigem Kampf aufstehend). Also gut — —</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi> (sie auf die Stirne küssend). Du bist mein braves Kind.<lb/>
+Darf ich ihn jetzt rufen?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Grete</hi>. Ja. Sehe ich sehr verweint aus?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi>. Es ist nicht so arg. Weisst Du, hauch’ ein bisserl<lb/>
+das Taschentuch an und leg’s auf die Augen. (Grete thut es.) Ja, was<lb/>
+ich noch sagen wollte, sei nicht unfreundlich gegen ihn. Es ist ihm<lb/>
+ja auch peinlich.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Grete</hi>. Ja, Mama.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi> (zu Rosa). Du geh’ in die Küche, Rosa, und<lb/>
+schau’, dass der Braten nicht ganz eintrocknet. Jetzt werden wir<lb/>
+doch endlich essen können. (Rosa ab.) Also, ich rufe ihn jetzt.<lb/>
+(Geht in das Cabinet.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

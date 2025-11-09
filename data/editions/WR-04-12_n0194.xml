@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-12_n0194.xml" prev="WR-04-12_n0193.xml" next="WR-04-12_n0195.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 12, S. 194</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="12"/>
+                        <biblScope unit="page" n="n0194"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0895">
+                  <title level="a">Zwei Zeichnungen</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="189" to="212"/>
+                  <idno type="fn">WR-04-12_n0189.xml</idno>
+                  <author ref="#wr-person-0295">Beardsley, Aubrey</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0896">
+                  <title level="a">Salome</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="189" to="212"/>
+                  <idno type="fn">WR-04-12_n0189.xml</idno>
+                  <author ref="#wr-person-0068">Wilde, Oscar</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">WILDE: SALOME.</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>ZWEITER SOLDAT: Der Prophet, Prinzessin.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Ach, der Prophet! Der, vor dem der Tetrarch Angst hat?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ZWEITER SOLDAT: Wir wissen davon nichts, Prinzessin. Es war der Prophet<lb/>
+Jochanaan, der gerufen hat.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER JUNGE SYRIER: Beliebt es Euch, dass ich Eure Sänfte holen lasse,<lb/>
+Prinzessin? Die Nacht ist schön im Garten.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Er sagt schreckliche Dinge über meine Mutter, nicht wahr?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ZWEITER SOLDAT: Wir verstehen nie, was er sagt, Prinzessin.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Ja, er sagt schreckliche Dinge über sie.</p>
+            <milestone unit="untyped-end"/>
+            <p>(Ein SCLAVE tritt ein.)</p>
+            <milestone unit="speech-start"/>
+            <p>DER SCLAVE: Prinzessin, der Tetrarch ersucht Euch, wieder zum Fest hinein-<lb break="no"/>
+zugehen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Ich will nicht hineingehen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER JUNGE SYRIER: Verzeihung, Prinzessin, aber wenn Ihr nicht hinein-<lb break="no"/>
+geht, kann Schlimmes geschehen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Ist dieser Prophet ein alter Mann?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER JUNGE SYRIER: Prinzessin, es wäre besser, hineinzugehen. Gestattet,<lb/>
+dass ich Euch führe.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Ist der Prophet ein alter Mann?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER SOLDAT: Nein, Prinzessin, er ist ganz jung.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ZWEITER SOLDAT: Man kann es nicht sicher wissen. Welche sagen, es sei Elias.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Wer ist Elias?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ZWEITER SOLDAT: Ein Prophet dieses Landes aus vergangenen Tagen,<lb/>
+Prinzessin.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER SCLAVE: Welche Antwort soll ich dem Tetrarchen von der Prinzessin bringen?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DIE STIMME DES JOCHANAAN: Jauchze nicht, du Land Palästina, weil<lb/>
+der Stab Dessen, der dich schlug, zerbrochen ist. Denn aus dem Samen der Schlange<lb/>
+wird ein Basilisk kommen, und seine Brut wird die Vögel verschlingen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Welch seltsame Stimme! Ich möchte mit ihm sprechen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER SOLDAT: Ich fürchte, das kann nicht sein, Prinzessin. Der Tetrarch<lb/>
+duldet nicht, dass irgendwer mit ihm spricht. Er hat selbst dem Hohepriester ver-<lb break="no"/>
+boten, mit ihm zu sprechen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Ich wünsche mit ihm zu sprechen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER SOLDAT: Es ist unmöglich, Prinzessin.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Ich will mit ihm sprechen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DER JUNGE SYRIER: Wäre es nicht besser, wieder zum Bankett zu gehen?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Bringt diesen Propheten heraus.</p>
+            <milestone unit="untyped-end"/>
+            <p>(Der SCLAVE geht ab.)</p>
+            <milestone unit="speech-start"/>
+            <p>ERSTER SOLDAT: Wir dürfen nicht, Prinzessin.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME (tritt an die Cisterne heran und blickt hinunter): Wie schwarz es da<lb/>
+drunten ist! Es muss schrecklich sein, in so einer schwarzen Höhle zu leben. Es ist<lb/>
+wie eine Gruft <milestone unit="3dots"/> (Zu den Soldaten): Habt ihr nicht gehört? Bringt den Propheten<lb/>
+heraus. Ich möchte ihn sehen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ZWEITER SOLDAT: Prinzessin, ich bitte Euch, verlangt das nicht von uns.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Ich soll wohl warten, bis es euch beliebt?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER SOLDAT: Prinzessin, unser Leben gehört Euch, aber wir können<lb/>
+nicht thun, was Ihr von uns begehrt. Und Ihr solltet das wirklich von uns nicht<lb/>
+verlangen.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

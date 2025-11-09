@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-04_n0128.xml" prev="WR-01-01-04_n0127.xml" next="WR-01-01-04_n0129.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 4, S. 128</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="04"/>
+                        <biblScope unit="page" n="n0128"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-01-01">1 1 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0038">
+                  <title level="a">Traum</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 4</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="127" to="130"/>
+                  <idno type="fn">WR-01-01-04_n0127.xml</idno>
+                  <author ref="#wr-person-0022">Hirschfeld, Georg</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">128</fw>
+               <fw type="ctext">HIRSCHFELD.</fw>
+            </fw>
+            <lg>
+               <l>Ich fragt’ ihn scheu: »Führst du mich nun zu Gott?</l>
+               <l>Ich hoffe, Gott <milestone unit="3dots"/>«</l>
+            </lg>
+            <lg>
+               <l>‚Fühlst du ihn schon?‘</l>
+               <l>Fragt mich sein süsser Kinderton.</l>
+               <l>‚Endloser Weltraum athmet um dich her,</l>
+               <l>Der Sterne strahlendes Wandelmeer.</l>
+               <l>Blick’ auf den Pfad, den deine Füsse schreiten,</l>
+               <l>Demanten sich darüber breiten,</l>
+               <l>Noch körnig, und wo sie zusammenfliessen,</l>
+               <l>Zuoberst, im geahnten Licht,</l>
+               <l>Ist Gott — und siehst du ihn auch nicht,</l>
+               <l>So wirst du ahnend ihn geniessen.‘</l>
+            </lg>
+            <lg>
+               <l>»O, kehrte noch im Tode nicht die Sonne</l>
+               <l>In meine armen Augen ein?</l>
+               <l>Muss ich vor meiner letzten Wonne</l>
+               <l>So menschlich noch geblendet sein?«</l>
+            </lg>
+            <lg>
+               <l>‚Es lebt in dir sein Bild, in deinem Sehnen,</l>
+               <l>Und schöner sehe ich ihn nicht.</l>
+               <l>Ein Jeder hat im Reich des Schönen</l>
+               <l>Ein Gottesbild im Angesicht.‘ — —</l>
+               <l>Still und gleitend schwebt er weiter,</l>
+               <l>Wie ein Engel und ein Traum,</l>
+               <l>Die demant’ne Strahlenleiter.</l>
+               <l>Und mir war, als sei das hohe Wesen</l>
+               <l>Nur mein eig’ner Drang zum Licht gewesen,</l>
+               <l>Sinnend folg’ ich seinem Saum.</l>
+            </lg>
+            <lg>
+               <l>»Wo sind Gottes and’re Todten?</l>
+               <l>Bin denn ewig ich allein?</l>
+               <l>Unter stillen, freien Todten</l>
+               <l>Muss auch meine Liebe sein.«</l>
+            </lg>
+            <lg>
+               <l>‚Weiss es nicht. Der weiss es oben.‘</l>
+            </lg>
+            <lg>
+               <l>»O, wie die Demanten funkeln,</l>
+               <l>Wie sie glühend sich verdunkeln —</l>
+               <l>Sind die Sterne unter uns?</l>
+               <l>Sind wir schon so hoch gestiegen?</l>
+               <l>Weisse Adler seh’ ich fliegen,</l>
+               <l>Unten ist ein Silberdunst.</l>
+               <l>Sind die Sterne Menschenwelten?</l>
+               <l>Sag’ es mir, sie sind so nah.«</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

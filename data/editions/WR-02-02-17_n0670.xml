@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-17_n0670.xml" prev="WR-02-02-17_n0669.xml" next="WR-02-02-17_n0671.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 17, S. 670</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="17"/>
+                        <biblScope unit="page" n="n0670"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-07-15">15 7 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0467">
+                  <title level="a">Der Petschenjeg</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 17</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="17">17</biblScope>
+                  <biblScope unit="page" from="658" to="676"/>
+                  <idno type="fn">WR-02-02-17_n0658.xml</idno>
+                  <author ref="#wr-person-0135">Tschechow, Anton</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0468">
+                  <title level="a">Aufzug</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 17</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="17">17</biblScope>
+                  <biblScope unit="page" from="670" to="670"/>
+                  <idno type="fn">WR-02-02-17_n0670.xml</idno>
+                  <author ref="#wr-person-0006">Verlaine, Paul</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">670</fw>
+               <fw type="ctext">LANDAUER. — VERLAINE.</fw>
+            </fw>
+            <p rend="no-intend">wenigstens die Bösewichte, à la Richard der Dritte etc. Wo ihr die Guten<lb/>
+hernehmt, ist eure Sache. Vielleicht denkt ihr an das Recept, das<lb/>
+Heine erwähnt, wie er einem Maler nachsagt, er schöpfe die Kameele,<lb/>
+die er male, aus der Tiefe seines Gemüths. Das nächstemal mehr<lb/>
+von der Psychologie solcher übergenug activer Naturen. Für heute<lb/>
+sei nur noch eingeräumt, dass das Citat aus einer Rede vor Gericht,<lb/>
+das ich gegen Dostojewskij anführe, nicht von mir erfunden, sondern<lb/>
+historisch ist. Auch davon werde ich im weiteren noch zu reden haben.</p>
+            <p>(Ein zweiter Artikel folgt.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">AUFZUG</hi>.<lb/>
+(Cortège.)</title>
+            </ab>
+            <lg>
+               <l>Ein Äffchen im Brocatgewand</l>
+               <l>springt vor ihr her von Baum zu Baume, —</l>
+               <l>sie ballt in handschuhschmaler Hand</l>
+               <l>ein Tuch mit feinem Spitzensaume.</l>
+               <l>Ihr schwarzer Groom, roth costümiert,</l>
+               <l>kann kaum die Last der Schleppe halten,</l>
+               <l>doch späht er scharf nach allen Falten,</l>
+               <l>wie das Gewand sich regt and rührt.</l>
+            </lg>
+            <lg>
+               <l>Der Affe blinzelt unverwandt</l>
+               <l>auf seiner Dame weisse Büste,</l>
+               <l>(die bei den Göttern ruhen müsste</l>
+               <l>im Taxusgrün am Gartenrand!);</l>
+               <l>der Negerbursch hebt dann und wann</l>
+               <l>die Last noch höher auf — man höre! —:</l>
+               <l>ob er es nicht erspähen kann,</l>
+               <l>was nächtens seinen Schlummer störe.</l>
+            </lg>
+            <lg>
+               <l>Sie aber schreitet stolz und still</l>
+               <l>hinan die breite Marmortreppe,</l>
+               <l>und achtet nicht auf Hals und Schleppe</l>
+               <l>und ihrer Thierchen freches Spiel.</l>
+            </lg>
+            <p>
+               <rs type="person" key="">PAUL VERLAINE</rs>.</p>
+            <p>Übersetzt von <rs type="person" key="">Max Bruns</rs>.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

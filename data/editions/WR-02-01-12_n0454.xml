@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-12_n0454.xml" prev="WR-02-01-12_n0453.xml" next="WR-02-01-12_n0455.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 12, S. 454</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="12"/>
+                        <biblScope unit="page" n="n0454"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-05-01">1 5 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0413">
+                  <title level="a">Verse zum Gedächtnis eines Schauspielers</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 12</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="454" to="455"/>
+                  <idno type="fn">WR-02-01-12_n0454.xml</idno>
+                  <author ref="#wr-person-0141">Hofmannsthal, Hugo v.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>VERSE ZUM GEDÄCHTNISS EINES SCHAUSPIELERS.</title>
+            </ab>
+            <lg>
+               <l>
+                  <hi rend="initial">Er</hi> losch auf einmal aus so wie ein Licht.</l>
+               <l>Wir trugen alle wie von einem Blitz</l>
+               <l>den Wiederschein als Blässe im Gesicht.</l>
+            </lg>
+            <lg>
+               <l>Er fiel: da fielen alle Puppen hin,</l>
+               <l>in deren Adern er sein Lebensblut</l>
+               <l>gegossen hatte, lautlos starben sie,</l>
+               <l>und wo er lag, da lag ein Haufen Leichen,</l>
+               <l>wüst hingestreckt: das Knie von einem Säufer</l>
+               <l>in eines Königs Aug’ gedrückt, Don Philipp</l>
+               <l>mit Caliban als Alp um seinen Hals,</l>
+               <l>und jeder todt, o todt wie eine Ratte!</l>
+            </lg>
+            <lg>
+               <l>Da wussten wir, wer uns gestorben war:</l>
+               <l>der Zauberer, der grosse, grosse Gaukler!</l>
+               <l>Und aus den Häusern traten wir heraus</l>
+               <l>und fingen an zu reden, wer er war.</l>
+               <l>Wer aber war er und wer war er nicht?</l>
+            </lg>
+            <lg>
+               <l>Er kroch von einer Larve in die andre,</l>
+               <l>sprang aus des Vaters in des Sohnes Leib</l>
+               <l>und tauschte wie Gewänder die Gestalten.</l>
+               <l>Mit Schwertern, die er kreisen liess so schnell,</l>
+               <l>dass Niemand ihre Klinge funkeln sah,</l>
+               <l>hieb er sich selbst in Stücke: Jago war</l>
+               <l>vielleicht das eine, und die andre Hälfte</l>
+               <l>gab einen süssen Narren oder Träumer.</l>
+               <l>Sein ganzer Leib war wie der Zauberschleier,</l>
+               <l>in dessen Falten alle Dinge wohnen:</l>
+               <l>er holte Thiere aus sich selbst hervor:</l>
+               <l>das Schaf, den Löwen, einen dummen Teufel</l>
+               <l>und einen schrecklichen, und den, und jenen,</l>
+               <l>und dich und mich.</l>
+               <l>Sein ganzer Leib war glühend</l>
+               <l>von innerlichem Schicksal durch und durch</l>
+               <l>wie Kohle glühend, und er lebte drin</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

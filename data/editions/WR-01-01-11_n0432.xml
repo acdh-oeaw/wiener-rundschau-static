@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-11_n0432.xml" prev="WR-01-01-11_n0431.xml" next="WR-01-01-11_n0433.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 11, S. 432</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="11"/>
+                        <biblScope unit="page" n="n0432"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-04-15">15 4 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0139">
+                  <title level="a">Gegen die Emancipation des Weibes</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 11</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="11">11</biblScope>
+                  <biblScope unit="page" from="431" to="437"/>
+                  <idno type="fn">WR-01-01-11_n0431.xml</idno>
+                  <author ref="#wr-person-0029">Weisengrün, Dr. Paul</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">432</fw>
+               <fw type="ctext">WEISENGRÜN.</fw>
+            </fw>
+            <p rend="no-intend">genug geachtet, nicht genug geliebt. Sie wollen in erster Linie bessere,<lb/>
+vollkommenere, harmonischere Menschen sein, um sich dann auch als<lb/>
+glücklich liebende Frauen bethätigen zu können.</p>
+            <p>Sprechen wir zunächst von der socialen Lage der Mitglieder der<lb/>
+ersten Kategorie. Diesen geht es wirklich herzlich schlecht. Wer die<lb/>
+Wiener Enquête über die Frauenarbeit1) auch nur flüchtig durch-<lb break="no"/>
+gelesen, der wird wohl geraume Zeit einen sehr unangenehmen Ein-<lb break="no"/>
+druck nicht los. Diese Lectüre wirkt wie ein sehr bitteres Getränk,<lb/>
+von dem wir noch lange den Nachgeschmack behalten. Man erfährt<lb/>
+daraus, dass die meisten in den verschiedenen Industriebranchen be-<lb break="no"/>
+schäftigten Frauen und Mädchen im Durchschnitt drei bis vier Gulden<lb/>
+per Woche verdienen, dass in vielen Berufen die Mittagspause nicht<lb/>
+einmal eine halbe Stunde dauert, dass oft auch in besseren Betrieben<lb/>
+die Fabriksordnung eine überaus strenge ist, ja dass es in manchen<lb/>
+Fabriken den Arbeiterinnen bei Geldstrafe verboten ist, ein Wort zu<lb/>
+reden. Man kann da lesen, wie schwierig in manchen Zweigen, be-<lb break="no"/>
+sonders in der Putzbranche, die Lehrlingsverhältnisse sind und wie sehr<lb/>
+das weibliche Personal in gewissen Industrien von Inspectoren und Auf-<lb break="no"/>
+sehern aller Art persönlich abhängt. Am traurigsten aber sind die<lb/>
+Wohnungs- und Nahrungsverhältnisse. Ganze Familien bewohnen oft<lb/>
+eine einzige elende Kammer, sind doch die Wohnungspreise in Wien<lb/>
+(selbst für Kleinbürger) sehr hohe. In den Ziegelwerken bewohnen<lb/>
+sogar drei, vier und noch mehr Familien einen einzigen Raum, dessen<lb/>
+Fussboden aus Ziegeln besteht. Die Nahrung ist durchwegs eine sehr<lb/>
+mangelhafte. Schlechter Kaffee bildet gewöhnlich die tägliche Haupt-<lb break="no"/>
+mahlzeit. Berufskrankheiten aller Art machen sich oft geltend; sie<lb/>
+bilden eine schier endlose Scala von den Leiden, welche beim Lumpen-<lb break="no"/>
+verarbeiten und Hadernsortiren entstehen, bis zu den Berufskrankheiten<lb/>
+der Blumenmacherinnen,2) von der Bleichsucht der Näherin bis zu den<lb/>
+               <milestone unit="3dots"/> chronischen Leiden der Choristinnen. Sehr bezeichnend sind auch<lb/>
+die Daten über das Verhältniss der Entlohnung der Frauenarbeit gegen-<lb break="no"/>
+über der Männerarbeit.3) — Wenn man in Betracht zieht, dass es ein-<lb break="no"/>
+geschüchterte, oft nicht besonders intelligente und geschulte Geschöpfe<lb/>
+waren, die die Aussagen vor der Enquêtecomraission machten, wenn<lb/>
+man ferner bedenkt, dass Trotz, Schamhaftigkeit und vor Allem Eitel-<lb break="no"/>
+keit ein Hinderniss für die Erfahrung der vollen und ganzen Wahrheit<lb/>
+naturgemäss bilden mussten, so bekommt man ein schreckliches Bild<lb/>
+von der Lage der Wiener Arbeiterinnen. Hiezu kommt noch, dass es<lb/>
+sich in dieser Enquête zumeist um wirthschaftliche und rein sociale<lb/>
+Phänomene handelt. Diese menschlichen Wesen aber, diese Arbeiterinnen<lb/>
+mit den drei, vier Gulden Durchschnittsgehalt, müssen noch alle Schmerzen<lb/>
+der Mutter und Gattin erdulden, müssen unter jenen elenden wirth-</p>
+            <milestone unit="hr"/>
+            <note type="footnote">
+               <p>1) Die Arbeits- und Lebensverhältnisse der Wiener Lohnarbeiterinnen.<lb/>
+Wien <date>1897</date>. Ign. Brand.</p>
+               <p>2) Die Arbeits- und Lebensverhältnisse etc., S. 60.</p>
+               <p>3) S. 308, 311, 420, 422, 427, 508.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

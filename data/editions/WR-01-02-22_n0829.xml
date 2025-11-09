@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-22_n0829.xml" prev="WR-01-02-21_n0828.xml" next="WR-01-02-22_n0830.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 22, S. 829</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="22"/>
+                        <biblScope unit="page" n="n0829"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-10-01">1 10 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0266">
+                  <title level="a">Ein armer Augenblick</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 22</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="22">22</biblScope>
+                  <biblScope unit="page" from="829" to="835"/>
+                  <idno type="fn">WR-01-02-22_n0829.xml</idno>
+                  <author ref="#wr-person-0103">Lassen, Helene</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>1. <hi rend="text-spaced">OCTOBER</hi> 1897</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>EIN ARMER AUGENBLICK.<lb/>
+                  <hi rend="text-spaced">Skizze</hi>
+                  <hi rend="text-spaced">von</hi>
+                  <rs type="person" key="">
+                     <hi rend="text-spaced">Helene Lassen</hi>
+                  </rs> (<hi rend="text-spaced">Kopenhagen</hi>).<lb/>
+Autorisirte Uebersetzung von <rs type="person" key="">E. Brausewetter</rs>.</title>
+            </ab>
+            <p>(Nachdruck verboten.)</p>
+            <p>Vor einigen Jahren im Juli kam ich an einem regnerischen Nach-<lb break="no"/>
+mittag zu einem unserer Gebirgssanatorien. Es hatte gerade einen<lb/>
+Augenblick aufgehört zu regnen, und eine Masse Menschen strömten<lb/>
+auf den Hof hinaus. Ein Maler hatte seine Staffelei hinausgeschafft,<lb/>
+die Modelle aufgestellt und malte nun auf Tod und Leben, um den<lb/>
+Augenblick, den es nicht regnete, zu benutzen, ohne sich darum zu<lb/>
+bekümmern, was um ihn her vorging.</p>
+            <p>Ein bummlerhafter junger Mann von ungewöhnlich schwerem Körper<lb/>
+und mit ein paar unförmlich weiten Beinkleidern hatte sich nonchalant<lb/>
+bei der Treppe aufgestellt, indem er träge aus einer langen Pfeife<lb/>
+dampfte und den Maler mit Kennerblick beobachtete, während er bald<lb/>
+seine raschen Pinselstriche und bald die beiden kleinen blaugefrorenen<lb/>
+Modelle betrachtete — hu, wie langweilig das Alles hier oben in den<lb/>
+Bergen war. Er sah sich nach einer Abwechslung um. Da kam rasch<lb/>
+ein junges Mädchen im Regenmantel vorbei. Sie trug in der einen<lb/>
+Hand eine Angelstange und ein irdenes Gefäss, mit der andern Hand<lb/>
+hielt sie das für ihre Angeltour sehr unpraktische Kleid empor, der<lb/>
+Kopf war in einer eigenen, schüchternen Weise geneigt, die Züge waren<lb/>
+fein und der Ausdruck kindlich weich. Sie eilte schnell an der Maler-<lb break="no"/>
+gruppe vorüber — o, da hakte der Angelhaken sich am Regenmantel<lb/>
+fest. Sie blieb stehen und versuchte ihn loszumachen. Der Dicke setzte<lb/>
+erstaunlich schnell seinen schweren Corpus in Bewegung und ging zu<lb/>
+ihr hinunter, um ihr zu helfen. Unter Scherzen und Lachen bekamen<lb/>
+sie den Haken los. Er begleitete sie weiter, und sie verschwanden<lb/>
+unten beim Wasserfall, wo sie angeln wollte.</p>
+            <p>Ich bummelte eine Weile umher und traf dann meine Reise-<lb break="no"/>
+gefährtin, Frau L.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

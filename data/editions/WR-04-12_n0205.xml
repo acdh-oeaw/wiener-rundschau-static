@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-12_n0205.xml" prev="WR-04-12_n0204.xml" next="WR-04-12_n0206.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 12, S. 205</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="12"/>
+                        <biblScope unit="page" n="n0205"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0895">
+                  <title level="a">Zwei Zeichnungen</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="189" to="212"/>
+                  <idno type="fn">WR-04-12_n0189.xml</idno>
+                  <author ref="#wr-person-0295">Beardsley, Aubrey</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0896">
+                  <title level="a">Salome</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="189" to="212"/>
+                  <idno type="fn">WR-04-12_n0189.xml</idno>
+                  <author ref="#wr-person-0068">Wilde, Oscar</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">WILDE: SALOME.</fw>
+            </fw>
+            <p rend="no-intend">dass wir bei Sonnenaufgang zur Jagd gehen. Alle Ehren müssen Cäsars Gesandten<lb/>
+erwiesen werden, nicht?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ZWEITER SOLDAT: Der Tetrarch blickt finster drein.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER SOLDAT: Ja, er blickt finster drein.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Salome, Salome, tanz’ für mich. Ich bitte dich, tanz’ für mich.<lb/>
+Ich bin traurig heut’ Nacht. Als ich hieher kam, bin ich in Blut getreten, und das<lb/>
+ist ein böses Zeichen; auch hört’ ich in der Luft ein Rauschen von Flügeln, ein<lb/>
+Rauschen von riesengroßen Flügeln. Ich weiß nicht, worauf das deuten mag <milestone unit="4dots"/>
+               <lb/>
+Ich bin traurig heut’ Nacht. Drum tanz’ für mich. Tanz’ für mich, Salome, ich<lb/>
+bitte gar sehr. Wenn du für mich tanzest, kannst du von mir begehren, was du<lb/>
+willst, ich werde es dir geben. Ja, tanz’ für mich, Salome, und was du immer von<lb/>
+mir begehren magst, das will ich dir geben, und wär’s die Hälfte meines Königreichs.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME (steht auf): Willst du mir wirklich alles geben, was ich von dir<lb/>
+begehre, Tetrarch?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Tanze nicht, meine Tochter!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Alles, was du von mir begehren wirst, und wär’s die Hälfte meines<lb/>
+Königreichs.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Du schwörst es, Tetrarch?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Ich schwöre es, Salome!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Tanze nicht, meine Tochter!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Wobei willst du das beschwören, Tetrarch?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Bei meinem Leben, bei meiner Krone, bei meinen Göttern. Ver-<lb break="no"/>
+lange, was du willst, ich will es dir geben, und wär’s die Hälfte meines Königreichs,<lb/>
+wenn du nur für mich tanzen willst. O Salome, Salome, tanz’ für mich!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Du hast einen Eid geschworen, Tetrarch.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Ich habe einen Eid geschworen!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Meine Tochter, tanze nicht!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Und wär’s die Hälfte meines Königreichs. Du wirst unermesslich<lb/>
+schön sein als Königin, Salome, wenn es dir gefällt, die Hälfte meines Königreichs<lb/>
+zu begehren. Wird sie nicht schön sein als Königin? Ah, es ist kalt hier! Es geht<lb/>
+ein eisiger Wind, und ich höre <milestone unit="3dots"/> Warum hör’ ich in der Luft dies Rauschen von<lb/>
+Flügeln? Ah! Es ist doch so, als ob ein ungeheurer schwarzer Vogel über der<lb/>
+Terrasse schwebte. Warum kann ich ihn nicht sehen, diesen Vogel? Das Rauschen<lb/>
+seiner Flügel ist schrecklich. Der sausende Wind von diesen Flügelschlägen ist<lb/>
+schrecklich. Es ist ein schneidender Wind. Aber nein, er ist nicht kalt, er ist heiß.<lb/>
+Es ist zum Ersticken. Gießt mir Wasser über die Hände. Gebt mir Schnee zu essen.<lb/>
+Macht mir den Mantel los! Schnell, schnell, macht mir den Mantel los! Doch nein,<lb/>
+lasst ihn. Mein Kranz drückt mich, die Rosen meines Kranzes. Die Blumen sind wie<lb/>
+Feuer. Sie haben mir die Stirn verbrannt. (Er reißt das Gewinde vom Kopf und wirft<lb/>
+es auf den Tisch.) Ah! Jetzt kann ich athmen. Wie roth diese Rosenblätter sind! Sie<lb/>
+sind wie Blutflecken auf einem Gewande. Doch lassen wir’s. Es ist thöricht, in allem,<lb/>
+was man sieht, Bedeutung zu spüren. Es bringt zu viel Entsetzen ins Leben. Es<lb/>
+wäre besser zu sagen, dass Blutflecken so lieblich wie Rosenblätter sind. Es wäre<lb/>
+ferner besser zu sagen, dass <milestone unit="4dots"/> Aber wir wollen nicht davon sprechen. Ich bin<lb/>
+jetzt glücklich. Ich bin über die Maßen glücklich. Hab’ ich nicht das Recht, glück-<lb break="no"/>
+lich zu sein? Deine Tochter will für mich tanzen. Wirst du nicht für mich tanzen,<lb/>
+Salome? Du hast versprochen, für mich zu tanzen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Ich will nicht haben, dass sie tanze.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Ich will für dich tanzen, Tetrarch.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

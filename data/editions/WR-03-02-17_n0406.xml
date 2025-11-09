@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-17_n0406.xml" prev="WR-03-02-17_n0405.xml" next="WR-03-02-17_n0407.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 17, S. 406</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="17"/>
+                        <biblScope unit="page" n="n0406"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0699">
+                  <title level="a">»Blaubart und Ariane«</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 17</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="17">17</biblScope>
+                  <biblScope unit="page" from="393" to="415"/>
+                  <idno type="fn">WR-03-02-17_n0393.xml</idno>
+                  <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MAETERLINCK: BLAUBART UND ARIANE.</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>MELISANDE:</p>
+            <p>Du auch, Du bist blass <milestone unit="3dots"/> Sieh’ mich nicht an <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SÉLYSETTE:</p>
+            <p>Dein Kleid ist zerlumpt, man sieht Dich hindurch <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>MELISANDE:</p>
+            <p>Deins auch. Deine blossen Brüste theilen Dein Haar <milestone unit="3dots"/> Sieh’ mich<lb/>
+nicht an <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>BELLANGÈRE:</p>
+            <p>Wie lang Eure Haare sind! <milestone unit="2dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>YGRAINE:</p>
+            <p>Und unsere Gesichter — wie blass! <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>BELLANGÈRE:</p>
+            <p>Und unsere Hände — wie durchsichtig! <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>MELISANDE:</p>
+            <p>Alladine schluchzt <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SÉLYSETTE:</p>
+            <p>Ich umarme sie, ich küsse sie! <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Ja <milestone unit="3dots"/> ja <milestone unit="3dots"/> küsst Euch, umarmt Euch! Seht Euch noch nicht an.<lb/>
+Kommt, glaubt nicht, das Licht wolle Euch betrüben <milestone unit="3dots"/> Die Kerker sind<lb/>
+geöffnet. Man sieht bis auf den Grund. Tausend Strahlen tanzen auf den Stufen,<lb/>
+und auf dem stillen Wasser liegt ein Sonnenfleck <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <p>(Sie steigt schnell herab und läuft nach dem Eingang des Kerkers.)</p>
+            <milestone unit="speech-start"/>
+            <p>SÉLYSETTE<lb/>
+(folgt ihr und zieht die andern Frauen nach):</p>
+            <p>Ja, ja, kommt, tanzen wir auch, tanzen wir dem Lichte zu Ehren <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <p>(Sie tanzen und singen eine Weile in rasender Freude im Sonnenlicht, das sich bis<lb/>
+zur Thür ergiesst, und eilen dann hinaus.)</p>
+            <p>GESANG UND TANZ:</p>
+            <milestone unit="song-start"/>
+            <lg>
+               <l>Die fünf Mädchen von Orlamünde,</l>
+               <l>Als die Fee war todt,</l>
+               <l>Die fünf Mädchen von Orlamünde</l>
+               <l>Fanden Thür und Morgenroth! <milestone unit="3dots"/>
+               </l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

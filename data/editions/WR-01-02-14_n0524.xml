@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-14_n0524.xml" prev="WR-01-02-14_n0523.xml" next="WR-01-02-14_n0525.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 14, S. 524</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="14"/>
+                        <biblScope unit="page" n="n0524"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-06-01">1 6 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0174">
+                  <title level="a">Bekenntnisse</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 14</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="14">14</biblScope>
+                  <biblScope unit="page" from="521" to="525"/>
+                  <idno type="fn">WR-01-02-14_n0521.xml</idno>
+                  <author ref="#wr-person-0070">Nansen, Peter</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">524</fw>
+               <fw type="ctext">NANSEN.</fw>
+            </fw>
+            <p rend="no-intend">kleinen Schmuck begleite, den wir neulich gemeinsam be-<lb break="no"/>
+wunderten, als wir aus dem Theater kamen.</p>
+            <p>Indem ich die edlen Steine um Ihren blendenden Nacken<lb/>
+schlinge, winde ich zu Ihrem Andenken einen Kranz aus<lb/>
+Lächeln und Thränen, dem Lächeln unseres Zusammenlebens,<lb/>
+den Thränen unserer Trennung.</p>
+            <p>Ihr stets getreuer<lb/>
+Freund.</p>
+            <milestone unit="asterismDown"/>
+            <p>
+               <hi rend="text-spaced">Lieber Freund</hi>!</p>
+            <p>Ihr Brief hat mich sehr gerührt. Ich verstehe, was es<lb/>
+Sie gekostet hat, ihn zu schreiben. Ich schätze zehnfach die<lb/>
+Ehrlichkeit, die Ihnen nicht gestattete, zu schweigen. Und<lb/>
+ich kenne Ihr edles Herz hinreichend, um zu wissen, dass<lb/>
+Sie auch Werth auf Offenheit von meiner Seite legen<lb/>
+werden.</p>
+            <p>Es würde feige von mir sein, wenn ich nicht Gleiches<lb/>
+mit Gleichem vergelten wollte. Umsomehr, als Sie in<lb/>
+Ihrem Briefe etwas berühren, was mich lange gequält hat.<lb/>
+Sie erwähnen jenes Abends, an dem ich Sie besorgt fragte,<lb/>
+ob Sie sich nicht wohl fühlten. Und Sie erzählten halb<lb/>
+scherzend, halb wehmüthig Ihre sinnreich erfundene Fabel<lb/>
+von dem Droschkenkutscher und dem Schutzmann.</p>
+            <p>Wohlan, lieber Freund, lassen Sie mich Ihnen gestehen,<lb/>
+dass der Grund, weswegen ich Sie fragte, ob Ihnen etwas<lb/>
+fehle, der war, dass zwei Minuten, ehe Sie zu mir kamen,<lb/>
+der Mann, den ich in vierzehn Tagen heiraten werde,<lb/>
+der steinreiche Banquier H., mich verlassen hatte. Ich<lb/>
+fürchtete, dass Sie ihm auf der Treppe begegnet seien, und<lb/>
+dass dies der Grund zu Ihrer Verstimmtheit sei.</p>
+            <p>Mein lieber Freund, Ihr künftiger Schwiegervater, mein<lb/>
+zukünftiger Gatte, ist ein so hochherziger Mann, und sein<lb/>
+Vermögen ist so enorm, dass Niemand von uns Furcht zu<lb/>
+hegen braucht.</p>
+            <p>Ich meine, es wird am besten, sowohl mit Ihren wie<lb/>
+mit meinen Gefühlen und Interessen übereinstimmen, wenn<lb/>
+ich nicht auf Ihrer Hochzeit erscheine.</p>
+            <p>Während Sie und Ihre junge Frau ihre Flitterwochen<lb/>
+in Italien verleben, lassen Ihr Schwiegervater und ich in</p>
+         </div>
+      </body>
+   </text>
+</TEI>

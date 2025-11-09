@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-24_n0921.xml" prev="WR-02-02-24_n0920.xml" next="WR-02-02-24_n0922.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 24, S. 921</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="24"/>
+                        <biblScope unit="page" n="n0921"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-11-01">1 11 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0523">
+                  <title level="a">Naturlehre</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 24</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="921" to="921"/>
+                  <idno type="fn">WR-02-02-24_n0921.xml</idno>
+                  <author ref="#wr-person-0004">Altenberg, Peter</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">NATURLEHRE</hi>.<lb/>
+Von <rs type="person" key="">PETER ALTENBERG</rs> (Wien).</title>
+            </ab>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">WELTEN</hi>-<hi rend="text-spaced">SEELE</hi>.</title>
+            </ab>
+            <p>Pflanze und Genie besitzen die Erdkraft, von <hi rend="text-spaced">überall</hi>,<lb/>
+aus der zufälligen Umgebung, die für sie dienlichen Nährsalze<lb/>
+zu ziehen — — —.</p>
+            <p>Die Mittelglieder »Thier« und »Mensch« jedoch sind<lb/>
+angewiesen, einer <hi rend="text-spaced">bestimmten</hi> Nahrung mühselig nachzu-<lb break="no"/>
+pürschen — — —.</p>
+            <p>Das nennen sie dann »ihren Idealen nachjagen«!?</p>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">EHEBRUCH</hi>.</title>
+            </ab>
+            <p>Aluminium hat eine so unentrinnbare Leidenschaft zu Sauer-<lb break="no"/>
+stoff, dass es denselben selbst aus so zähen Verbindungen wie<lb/>
+mit dem Chrom zu reissen im Stande ist und ihn für sich<lb/>
+gewinnt!!</p>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">KEUSCHHEIT</hi>.</title>
+            </ab>
+            <p>Indem man die »Vestalin« im Bienenstaate, welche bis dahin<lb/>
+nur den »heiligsten Pflichten« der Selbstentäusserung gelebt hat,<lb/>
+mit <hi rend="text-spaced">besonders nahrhaften Speisen aufpäpelt</hi>, ist man im<lb/>
+Stande, sie ihrem wahren Berufe zu entfremden und sie zur<lb/>
+Organisation einer <hi rend="text-spaced">empfangs</hi>- und <hi rend="text-spaced">befruchtungsfreudigen</hi>
+               <lb/>
+Königin (Sclavin) zu erhöhen (zu erniedrigen)!!?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

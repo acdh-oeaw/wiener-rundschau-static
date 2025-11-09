@@ -1,0 +1,221 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-04_n0099.xml" prev="WR-03-01-04_n0098.xml" next="WR-03-01-04_n0100.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 4, S. 99</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="04"/>
+                        <biblScope unit="page" n="n0099"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0566">
+                  <title level="a">Stefan George</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 4</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="97" to="100"/>
+                  <idno type="fn">WR-03-01-04_n0097.xml</idno>
+                  <author ref="#wr-person-0179">Levetzow, Freiherr Carl von</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">LEVETZOW: STEFAN GEORGE.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <lg>
+                        <l>Wo du mich hättest lenken können einem</l>
+                        <l>kinde gleich</l>
+                        <l>Wo jedes deiner worte mir ein süsser hauch</l>
+                        <l>gedäucht</l>
+                        <l>Und jeder deiner mäkel nur ein frischer reiz-</l>
+                        <l>mir gilt</l>
+                        <l>Nun vor der deinen die geberde jener tänzerin,</l>
+                        <l>Kein Wunderding erscheint mir mehr die narbe</l>
+                        <l>deines kinns</l>
+                        <l>Und wenig bin ich in gefahr an deiner seite ob</l>
+                        <l>Du auch bei unsrem gange unter dunklen</l>
+                        <l>uferbäumen</l>
+                        <l>Den sklaven fortbefohlen der vor uns die</l>
+                        <l>fackel trug.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>bald ist es der biblische oder bukolische<lb/>
+Ideenkreis</p>
+                     <milestone unit="verse-start"/>
+                     <ab>
+                        <title>
+                           <hi rend="strong">
+                              <hi rend="text-spaced">JAHRESTAG</hi>
+                           </hi>
+                        </title>
+                     </ab>
+                     <lg>
+                        <l>O schwester nimm den krug aus grauem thon,</l>
+                        <l>Begleite mich! denn du vergassest nicht</l>
+                        <l>Was wir in frommer Wiederholung pflegten.</l>
+                        <l>Heut sind es sieben sommer dass wir’s hörten</l>
+                        <l>Als wir am brunnen schöpfend uns besprachen:</l>
+                        <l>Uns starb am selben tag der bräutigam.</l>
+                        <l>Wir wollen an der quelle wo zwei pappeln</l>
+                        <l>Mit einer fichte in den wiesen stehn</l>
+                        <l>Im krug aus grauem thone wasser holen.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="verse-start"/>
+                     <ab>
+                        <title>
+                           <hi rend="strong">
+                              <hi rend="text-spaced">DER TAG DES HIRTEN</hi>
+                           </hi>
+                        </title>
+                     </ab>
+                     <lg>
+                        <l>Die heerden trabten aus den Winterlagern.</l>
+                        <l>Ihr junger hüter zog nach langer frist</l>
+                        <l>Die ebne wieder die der fluss erleuchtet,</l>
+                        <l>Die froh-erwachten äcker grüssten frisch,</l>
+                        <l>Ihm riefen singende gelände zu,</l>
+                        <l>Er aber lächelte für sich und ging</l>
+                        <l>Voll neuer ahnung auf den frühlingswegen.</l>
+                        <l>Er übersprang mit seinem stab die furt</l>
+                        <l>Und hielt am andern ufer wo das gold</l>
+                        <l>Von leiser flut aus dem geröll gespült</l>
+                        <l>Ihn freute und die bunten vielgestalten</l>
+                        <l>Und zarten muscheln deuteten ihm glück.</l>
+                        <l>Er hörte nicht mehr seiner lämmer blöcken</l>
+                        <l>Und wanderte zum wald zur kühlen schlucht,</l>
+                        <l>Da stürzen steile bäche zwischen felsen</l>
+                        <l>Auf denen moose tropfen und entblösst</l>
+                        <l>Der buchen schwarze wurzeln sich verästen.</l>
+                        <l>Im schweigen und erschauern dichter wipfel</l>
+                        <l>Entschlief er während hoch die sonne stand</l>
+                        <l>Und in den wassern schnellten silberschuppen.</l>
+                        <l>Er klomm erwacht zu berges haupt und kam</l>
+                        <l>Zur feier bei des lichtes weiterzug,</l>
+                        <l>Er krönte betend sich mit heilgem laub</l>
+                        <l>Und in die lind bewegten lauen schatten</l>
+                        <l>Schon dunkler wolken drang sein lautes lied.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>bald sind es wieder mittelalterliche oder<lb/>
+Renaissance- oder christliche Vorstellung.</p>
+                     <p>Aber es ist nicht bloss Angefühltes,<lb/>
+Nachgeahmtes. Diese Menschen, diese<lb/>
+Künstler <hi rend="text-spaced">sind</hi> wirklich nicht bei uns;<lb/>
+sie leben ein anderes Leben; sie sind die<lb/>
+lebende Synthese von all dem, was sie<lb/>
+schaffend wiedergeben, von allem Ver-<lb break="no"/>
+gangenen.</p>
+                  </cell>
+                  <cell>
+                     <p>Und wie sie selbst, wird naturgemäss<lb/>
+auch ihre Kunst, die uns oft so unbe-<lb break="no"/>
+greiflich erscheint, die der Unverstand so<lb/>
+gerne und leicht ins Lächerliche zieht.<lb/>
+Es ist nicht eine Kunst der <hi rend="text-spaced">Höhe</hi>, aber<lb/>
+wohl der <hi rend="text-spaced">Ferne</hi>. Auch sie — hat Per-<lb break="no"/>
+spectiven. Man hat ihr die Beschränktheit<lb/>
+des Particularismus vorgeworfen, ihre Vor-<lb break="no"/>
+nehmheit als Pose gedeutet und als Im-<lb break="no"/>
+potenz zum Leben. In ihrer heiligen Ruhe<lb/>
+sah man Bewegungsunfähigkeit, Erstarrung,<lb/>
+Schwäche. Vielleicht ist mehr als ein<lb/>
+Korn Wahrheit in diesem Urtheil. — Aber<lb/>
+sie haben doch die grosse Kraft, <hi rend="text-spaced">sich<lb/>
+selbst so zu wollen</hi>, <hi rend="text-spaced">wie sie sind</hi>.<lb/>
+Das ist die tiefe <hi rend="text-spaced">Berechtigung</hi> ihres<lb/>
+                        <hi rend="text-spaced">Wesens</hi> und damit auch ihrer <hi rend="text-spaced">Form</hi>. —<lb/>
+                        <hi rend="text-spaced">Ihnen ist das Leben nur ein halb-<lb break="no"/>
+vergessener Traum</hi>; <hi rend="text-spaced">können sie ihr<lb/>
+Kunstwerk anders wollen</hi>, <hi rend="text-spaced">als wie<lb/>
+einen traumschönen</hi>, <hi rend="text-spaced">halbverwehten<lb/>
+Klang</hi>?</p>
+                     <p>Das folgende Gedicht spricht selbst<lb/>
+(wie übrigens viele andere auch) diese<lb/>
+Ferne als Lebens- und Kunstprincip<lb/>
+symbolisch aus.</p>
+                     <milestone unit="verse-start"/>
+                     <ab>
+                        <title>
+                           <hi rend="strong">
+                              <hi rend="text-spaced">DER HERR DER INSEL</hi>
+                           </hi>
+                        </title>
+                     </ab>
+                     <lg>
+                        <l>Die fischer überliefern dass im süden</l>
+                        <l>Auf einer insel reich an zimmt und öl</l>
+                        <l>Und edlen steinen die im sande glitzern</l>
+                        <l>Ein vogel war der wenn am boden fussend</l>
+                        <l>Mit seinem schnabel hoher stamme krone</l>
+                        <l>Zerpflücken konnte · wenn er seine flügel</l>
+                        <l>Gefärbt wie mit dem saft der Tyrerschnecke</l>
+                        <l>Zu schwerem niedrem flug erhoben: habe</l>
+                        <l>Er einer dunklen wolke gleichgesehn.</l>
+                        <l>Des tages sei er im gehölz verschwunden,</l>
+                        <l>Des abends aber an den strand gekommen.</l>
+                        <l>Im kühlen windeshauch von salz und tang</l>
+                        <l>Die süsse stimme hebend dass delfine</l>
+                        <l>Die freunde des gesanges näher schwammen</l>
+                        <l>Im meer voll goldner federn goldner funken.</l>
+                        <l>So habe er seit urbeginn gelebt,</l>
+                        <l>Gescheiterte nur hätten ihn erblickt.</l>
+                        <l>Denn als zum ersten mal die weissen segel</l>
+                        <l>Der menschen sich mit günstigem geleit</l>
+                        <l>Dem eiland zugedreht sei er zum hügel</l>
+                        <l>Die ganze teure stätte zu beschaun gestiegen,</l>
+                        <l>Verbreitet habe er die grossen schwingen</l>
+                        <l>Verscheidend in gedämpften schmerzeslauten.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>Wir freilich, die wir mitten im oder<lb/>
+                        <hi rend="text-spaced">über</hi> dem Leben sind und sein wollen,<lb/>
+treibend oder getrieben, wir verstehen sie<lb/>
+nur selten, begreifen sie fast nie. Mit<lb/>
+ihnen ist uns keine Rast gegeben.</p>
+                     <p>Manchmal, in blassen, lebensfernen<lb/>
+Stunden, laden sie uns auf ihre Inseln.</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

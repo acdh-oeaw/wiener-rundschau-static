@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-01_n0025.xml" prev="WR-01-01-01_n0024.xml" next="WR-01-01-01_n0026.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 1, S. 25</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0025"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-11-15">15 11 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0008">
+                  <title level="a">Die demolirte Literatur</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="19" to="27"/>
+                  <idno type="fn">WR-01-01-01_n0019.xml</idno>
+                  <author ref="#wr-person-0008">Kraus, Karl</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DIE DEMOLIRTE LITERATUR.</fw>
+               <fw type="pn">25</fw>
+            </fw>
+            <p rend="no-intend">Auch jene Menge von Kennern, welche die Posen erst aus<lb/>
+zweiter Hand haben und auf die Affectationen subabonnirt<lb/>
+sind, bekannte sich jetzt zur olympischen Weltanschauung,<lb/>
+und das ruhige Künstlerauge, mit dem einige reine Künstler<lb/>
+über ökonomische Thatsachen hinwegsahen, verrieth nur zu<lb/>
+deutlich die Goethe-Naturen. Kurz, Alles, was im Café<lb/>
+Griensteidl die Zeche schuldig bleibt, war jetzt abgeklärt.<lb/>
+Wer nicht eigentlich zur Literatur gehörte, aber den Ge-<lb break="no"/>
+sprächen lauschen und Stichworte bringen durfte, begann<lb/>
+sich als Eckermann zu fühlen. Der Führer aber, der so that,<lb/>
+als ob Weimar und nicht Urfahr die Vorstadt von Linz<lb/>
+wäre, weitete seinen Blick immer mehr und wurde so viel-<lb break="no"/>
+seitig, dass man allgemein befürchtete, er werde sich am<lb/>
+Ende noch mit Farbenlehre und Optik beschäftigen. Denn nicht<lb/>
+zufrieden damit, eine ungefähre Kenntniss des Theaters zu<lb/>
+besitzen, fing er jetzt an, bildende Kunst misszuverstehen,<lb/>
+ja abstract philosophische Themen eingehender zu verflachen.<lb/>
+Für den wohlwollenden Ton, in welchem dieser erste Kenner<lb/>
+zu seiner Menge sprach, sind die Worte charakteristisch,<lb/>
+die er unlängst in einer Abhandlung über den Werth körper-<lb break="no"/>
+licher Uebungen geschrieben hat: »<milestone unit="4dots"/> und so kann man<lb/>
+mich jetzt, gegen meine sonst lieber sitzende und meditativ<lb/>
+herumliegende Art, fleissig in unserer lieben Stadt spazieren<lb/>
+sehen, ganz wie Vater Horaz, behaglich schlendernd, Schwänke<lb/>
+im Sinn, ohne Plan.«</p>
+            <p>Ueber den Verkehr mit seinen Schülern ist bekannt,<lb/>
+dass der Herr aus Linz sich jederzeit mit Selbstentäusserung<lb/>
+für sie eingesetzt hat. Ohne ihn wäre manche junge Talent-<lb break="no"/>
+losigkeit frühzeitig zugrunde gegangen und vergessen worden.<lb/>
+Es sind nicht Wenige, die sich rühmen können, von ihm ent-<lb break="no"/>
+deckt zu sein. Sie tragen das unverlöschliche Brandmal<lb/>
+seiner Prophezeiung, Europa werde in vier Wochen von<lb/>
+ihnen sprechen. »Wie ich Europa kenne« — denn, sagte er<lb/>
+einmal, »Europa zwischen Wolga und Loire hat kein Ge-<lb break="no"/>
+heimniss vor mir«. Nun schien es aber selbst in dieser be-<lb break="no"/>
+scheidenen Einschränkung doch ein Geheimniss vor ihm zu<lb/>
+haben. Es wollte sich, selbst als man den Termin der vier<lb/>
+Wochen erheblich prolongirt hatte, zu einer Aeusserung über<lb/>
+die im Café Griensteidl gemachten Entdeckungen nicht bewegen</p>
+         </div>
+      </body>
+   </text>
+</TEI>

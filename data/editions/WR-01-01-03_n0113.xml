@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-03_n0113.xml" prev="WR-01-01-03_n0112.xml" next="WR-01-01-03_n0114.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 3, S. 113</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0113"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-15">15 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0034">
+                  <title level="a">Die demolirte Literatur</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="113" to="118"/>
+                  <idno type="fn">WR-01-01-03_n0113.xml</idno>
+                  <author ref="#wr-person-0008">Kraus, Karl</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIE DEMOLIRTE LITERATUR.<lb/>
+Von<lb/>
+                  <rs type="person" key="">Karl Kraus</rs> (Wien).<lb/>
+III.</title>
+            </ab>
+            <p>Man sieht, es ist nicht immer nur das Fachinteresse,<lb/>
+auf welches Gäste des Literatur-Cafés rechnen können, einige<lb/>
+tragen ja doch auch eine allgemein menschliche Komik zur<lb/>
+Schau. Man verzeihe, dass sie unbedeutend sind, und man<lb/>
+wird sich ihrer Wirksamkeit freuen. Der kleinste Streber,<lb/>
+der in dem Kampfe um das Kaffeehaus-Dasein sich durch-<lb break="no"/>
+setzen will und nach einer festen Position an dem Tische<lb/>
+der fertigen Literaten ringt, darf nicht übersehen werden.<lb/>
+Die Entwicklung werdender Talentlosigkeiten gibt eine Fülle<lb/>
+von Beobachtungen an die Hand, und pikant ist es, durch<lb/>
+ein Kaffeehausfenster zuzusehen, wie sich heute der Neuling<lb/>
+durch den gestern gemachten Mann lancirt. — Da fällt zunächst<lb/>
+ein Schriftsteller auf, der sich aus schüchternen Anfängen<lb/>
+zum Freunde des Burgtheaterautors emporgerungen hat.<lb/>
+Sechs Uhr ist es, also Zeit, dass er auf dem Plan erscheine.<lb/>
+Ein Parvenu der Gesten, der seinen literarischen Tisch-<lb break="no"/>
+genossen Alles abgeguckt hat und ihnen die Kenntniss der<lb/>
+wichtigsten Posen verdankt. Haben es die Andern in der<lb/>
+Unnatürlichkeit bereits zu einiger Routine gebracht, ihm<lb/>
+sieht man stets noch die Mühe an, die ihn seine Nervosität<lb/>
+kostet. Immerhin hat er sich heute doch schon glücklich<lb/>
+drei Nerven zusammengescharrt, die ihm die Ausübung einer<lb/>
+bescheidenen Sensitivität erlauben. So legt er besonderen<lb/>
+Werth darauf, es nicht vertragen zu können, wenn man mit<lb/>
+einem Messer auf den Teller kratzt. Aus solchen Vorfällen,<lb/>
+die in Andern das normale Unbehagen erzeugen, empfängt<lb/>
+er die Anregung zu dichterischem Schaffen. Hier liegen Art<lb/>
+und Stärke seines Talentes. Nach den Stoffen hatte er nie<lb/>
+weit zu gehen. Er schrieb immer das, woran seine Freunde<lb/>
+gerade arbeiteten, und da die Jung-Wiener Schule einstimmig<lb/>
+das Thema vom Sterben gewählt hat und mit vereinten</p>
+         </div>
+      </body>
+   </text>
+</TEI>

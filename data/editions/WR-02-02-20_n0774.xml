@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-20_n0774.xml" prev="WR-02-02-20_n0773.xml" next="WR-02-02-20_n0775.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 20, S. 774</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="20"/>
+                        <biblScope unit="page" n="n0774"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-09-01">1 9 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0487">
+                  <title level="a">Literarische Erwerbsverhältnisse</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 20</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="20">20</biblScope>
+                  <biblScope unit="page" from="771" to="774"/>
+                  <idno type="fn">WR-02-02-20_n0771.xml</idno>
+                  <author ref="#wr-person-0101">Grossmann, Stefan</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0488">
+                  <title level="a">Weltgefühl</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 20</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="20">20</biblScope>
+                  <biblScope unit="page" from="774" to="774"/>
+                  <idno type="fn">WR-02-02-20_n0774.xml</idno>
+                  <author ref="#wr-person-0010">Ssologub, Fjodor</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">774</fw>
+               <fw type="ctext">GROSSMANN.</fw>
+            </fw>
+            <p>Wo solche Leser bestehen, darf man es den Autoren nicht ver-<lb break="no"/>
+denken, wenn sie jetzt alle dramatischen Talente in sich entdecken <milestone unit="4dots"/>
+               <lb/>
+Dort liegt die geringere Prostituierung.</p>
+            <p>Übrigens verübelt man es keinem socialistischen Arbeiter, wenn<lb/>
+er in einer Gewehrfabrik arbeitet, man nimmt es keinem Schuster<lb/>
+übel, wenn er für seine Fabrik Schleuderarbeit macht <milestone unit="4dots"/> Nur der<lb/>
+Schriftsteller muss alle seine Stiefel mit Überzeugung oder gar<lb/>
+Inspiration machen! <milestone unit="2dots"/> Zum Teufel, die Schriftstellerei ist kein Beruf,<lb/>
+sondern ein <hi rend="text-spaced">Erwerb</hi>. Warum soll es dem Literaten nicht gestattet sein,<lb/>
+in Gottesnamen, Schund zu schreiben, wenn er verlangt wird? Man<lb/>
+gönne dem Literaten, wie jedem andern Lohnarbeiter, eine einträgliche<lb/>
+               <hi rend="text-spaced">Tagesa</hi>rbeit, mit einem revolutionären <hi rend="text-spaced">Abend</hi>. An diesen Abenden<lb/>
+wollen wir dann, meinetwegen, von den Werken der <hi rend="text-spaced">Dichter</hi> reden!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>WELTGEFÜHL.<lb/>
+Von <rs type="person" key="">FJODOR SSOLOGUB</rs>.</title>
+            </ab>
+            <lg>
+               <l>Ich lieb’ meine finstere Erde,</l>
+               <l>Und im Ahnen des baldigen Scheidens</l>
+               <l>Trink ich Freuden mit froher Geberde,</l>
+               <l>Und — ergeben — die Schale des Leidens.</l>
+            </lg>
+            <lg>
+               <l>Nichts verstoss’ ich von Gaben des Lebens,</l>
+               <l>In Allem wohnt Freude und Jubel —</l>
+               <l>Grosse Kälte im heiligen Streben,</l>
+               <l>Kühnes Träumen im Alltagsgetrubel.</l>
+            </lg>
+            <lg>
+               <l>Ich beug’ mich dem Geiste des Werdens,</l>
+               <l>Mit ihm ist mein Dasein verschlungen;</l>
+               <l>Mir ist in der Pracht seiner Erden</l>
+               <l>Die Einheit des Weltalls erklungen.</l>
+            </lg>
+            <p>Übersetzt von <rs type="person" key="">Alexander Brauner</rs>.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

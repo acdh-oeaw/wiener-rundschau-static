@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-08_n0181.xml" prev="WR-03-01-08_n0180.xml" next="WR-03-01-08_n0182.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 8, S. 181</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="08"/>
+                        <biblScope unit="page" n="n0181"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0602">
+                  <title level="a">Knabe und Herrin</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 8</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="181" to="183"/>
+                  <idno type="fn">WR-03-01-08_n0181.xml</idno>
+                  <author ref="#wr-person-0198">Schaukal, Dr. Richard</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="performance-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">KNABE UND HERRIN</hi>.*<lb/>
+(Gegenreden in der Dämmerung.)<lb/>
+Von <rs type="person" key="">RICHARD SCHAUKAL</rs> (Brünn).</title>
+            </ab>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Knabe</hi>.</p>
+            <lg>
+               <l>Lange sehnt’ ich die glückliche Stunde herbei,</l>
+               <l>Die mir vom harrenden Herzen die Fesseln löste,</l>
+               <l>Die meinen bebenden Worten gestattete, laut zu sein.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Die Frau</hi>.</p>
+            <lg>
+               <l>Sprich mir von Deiner Kunst, die mich selig erstaunen macht,</l>
+               <l>Die meine trägen Gedanken ins Blaue trägt,</l>
+               <l>Wo die kommenden Winde sind und die flatternden Lerchen.</l>
+               <l>Wenn Du mit schlanken Fingern zärtlich die Laute rührst,</l>
+               <l>Wenn Dein erblassender Mund jene traurigen Weisen sagt,</l>
+               <l>Bin ich die Frau nicht mehr, die, gereift, vor dem Herbste bangt,</l>
+               <l>Bin ich das Mädchen von einst, das mit ahnendem scheuem Schritt</l>
+               <l>Still und erröthend durch summende Wiesen gieng</l>
+               <l>Und unterm rauschenden Walddach vor seinen Wünschen erschrak.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Knabe</hi>.<lb/>
+(Er hat das Kinn in die Hand gestützt und sieht traurig zu ihr auf, zu deren Füssen er sitzt.)</p>
+            <lg>
+               <l>Nicht von der Kunst der Saiten und meines Gesanges</l>
+               <l>Wollte ich reden. Ihr macht mich immer so traurig.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Die Frau</hi>.<lb/>
+(Sie streicht ihm leise das blonde weiche Haar aus der Stirne.)</p>
+            <lg>
+               <l>Mach ich Dich traurig? Warum? Bemüh’ ich mich doch um Dich,</l>
+               <l>Bin ich die erste doch stets, der all Deine Lieder ertönen,</l>
+               <l>Der sich Dein sehnendes Herz innig und trauend erschliesst.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Knabe</hi>.</p>
+            <lg>
+               <l>Nimmer noch habt Ihr mein Herz, das zitternde, wärmend gehalten,</l>
+               <l>Wie Ihr den Vogel einst hieltet, den nestentfall’nen, verwaisten;</l>
+               <l>Eure kühle Hand auf meinem Scheitel betrübt mich.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Die Frau</hi>.<lb/>
+(Sie hat die Arme über den Knien herabhängend und sitzt vorgebeugt, wie besorgt.)</p>
+            <lg>
+               <l>Fehlt Dir die Sorge, die mütterliche, die fragende?</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Knabe</hi>.</p>
+            <lg>
+               <l>Ob mir die Mutter auch fehlt in Stunden herben Alleinseins,</l>
+               <l>Nicht von der Mutter zu reden, erhob ich die flehende Stimme.</l>
+               <l>O, Ihr verschmäht meine Liebe, verweiset mich lächelnd und ruhig!</l>
+               <l>Nie in Eure Nächte noch drang wie ein Rufen mein Dasein.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <note type="footnote">
+               <p>* Aus dem demnächst erscheinenden neuen Bande Verse: »Tristia«.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

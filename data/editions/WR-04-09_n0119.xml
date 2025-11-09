@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-09_n0119.xml" prev="WR-04-09_n0118.xml" next="WR-04-09_n0120.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 9, S. 119</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="09"/>
+                        <biblScope unit="page" n="n0119"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0864">
+                  <title level="a">Wille und Heilung</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 9</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="09">9</biblScope>
+                  <biblScope unit="page" from="118" to="120"/>
+                  <idno type="fn">WR-04-09_n0118.xml</idno>
+                  <author ref="#wr-person-0268">Spreti, Adolf Graf von</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">SPRETI: WILLE UND HEILUNG.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">meinen die Ursache der Krankheiten<lb/>
+ist und worin deren Heilung besteht.</p>
+                     <p>Krankheit ist nichts Anderes als eine<lb/>
+(infolge ganz bestimmter Ursachen plötz-<lb break="no"/>
+lich hervorgerufene oder bereits erblich<lb/>
+überkommene) Störung der normalen, zu<lb/>
+unserem vollen Wohlbefinden nothwendigen<lb/>
+Ordnung in unserem Organismus. Mit<lb/>
+anderen Worten: Gewisse in unserem<lb/>
+Körper unausgesetzt — wenn freilich uns<lb/>
+unbewusst — wirkende Kräfte schaffen<lb/>
+und arbeiten nicht mehr gesetzmäßig, ihre<lb/>
+gegenseitigen Beziehungen und Wechsel-<lb break="no"/>
+wirkungen sind in Verwirrung gerathen, und<lb/>
+ehe nicht das Gleichgewicht und die<lb/>
+harmonische Thätigkeit aller wieder her-<lb break="no"/>
+gestellt ist, kann dieser Zustand nicht auf-<lb break="no"/>
+gehoben oder rückgängig gemacht werden.<lb/>
+Unter Besserung oder Heilung ist demnach<lb/>
+nichts anderes zu verstehen, als: die an-<lb break="no"/>
+nähernde, beziehungsweise vollständige<lb/>
+Wiederherstellung der normalen Func-<lb break="no"/>
+tionen <hi rend="text-spaced">aller</hi> zu unserem Körper gehörigen<lb/>
+Einzel-Organe und Bestandtheile.</p>
+                     <p>Die hier erwähnten, unsichtbar und<lb/>
+im gesunden Zustande auch ganz unfühl-<lb break="no"/>
+bar wirkenden Kräfte können aber durch<lb/>
+den <hi rend="text-spaced">Willen</hi> beeinflusst werden, und zwar<lb/>
+in <hi rend="text-spaced">der</hi> Weise, dass jene Kraftkategorien,<lb/>
+welchen sich das Denken und Sinnen<lb/>
+und demnach auch das Wollen des<lb/>
+Menschen vorzugsweise zuwendet, dadurch<lb/>
+an Kraft gewinnen und veranlasst werden,<lb/>
+in der durch den Willen angegebenen<lb/>
+Richtung intensive Thätigkeit zu entfalten.<lb/>
+Denkt demnach ein Kranker immer nur<lb/>
+an seine Leiden und Schmerzen, <hi rend="text-spaced">so leitet<lb/>
+er hiemit den ganzen Strom seines<lb/>
+Wollens fast ausschließlich den<lb/>
+gestörten und in Unordnung</hi>
+                        <hi rend="text-spaced">gera</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">tenen</hi>
+                        <hi rend="text-spaced">Kräften zu</hi>, wodurch diese<lb/>
+fortwährend an Macht und Spielraum ge-<lb break="no"/>
+winnen und (je nach Art und Grad der<lb/>
+Krankheit) die noch gesunden Kräfte<lb/>
+immer mehr in Mitleidenschaft ziehen und<lb/>
+schwächen. Je weniger der Patient sich zu<lb/>
+einem Entgegensteuern seines Willens gegen<lb/>
+das Fortschreiten der Krankheit aufraffen<lb/>
+kann, umso mutloser wird er werden, und<lb/>
+mit dem Sinken seines Mutes wird die<lb/>
+Verschlimmerung seines Übels ziemlich<lb/>
+gleichen Schritt halten und den allge-<lb break="no"/>
+meinen Verfall beschleunigen; denn durch<lb/>
+seine Mutlosigkeit <hi rend="text-spaced">verlieren auch die</hi>
+                     </p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">
+                        <hi rend="text-spaced">noch gesunden Kräfte an</hi>
+                        <hi rend="text-spaced">Wider</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">standsfähigkeit</hi> gegen die krankhaft<lb/>
+erregten; mit ihrer Schwächung wird die<lb/>
+                        <hi rend="text-spaced">Unordnung im Organismus immer<lb/>
+größer</hi> und der den verordneten Heil-<lb break="no"/>
+factoren sich entgegenstellende Widerstand<lb/>
+ein immer bedenklicherer.</p>
+                     <p>Gelingt es umgekehrt dem Zuspruche<lb/>
+des Arztes, die Gedanken des Kranken<lb/>
+mehr auf die Heilung zu lenken, ihn aus<lb/>
+seinem Sinnen und Grübeln über seinen<lb/>
+krankhaften Zustand aufzurütteln, das Ver-<lb break="no"/>
+trauen auf die Widerstandsfähigkeit seiner<lb/>
+eigenen Natur anzufachen, die Hoffnung<lb/>
+auf die Möglichkeit einer Wiedergenesung<lb/>
+zu heben und seinen Willen, gesund zu<lb/>
+werden, neu zu beleben — dann wird diese<lb/>
+entgegengesetzte Denkungsart und Willens-<lb break="no"/>
+richtung auch die entgegengesetzten Wir-<lb break="no"/>
+kungen hervorbringen: die noch ganz oder<lb/>
+doch großentheils noch intacten Kräfte<lb/>
+werden erstarken, können die Oberherr-<lb break="no"/>
+schaft über die gestörten erhalten oder<lb/>
+wiedergewinnen, günstig auf sie einwirken<lb/>
+und dadurch den heilenden Einfluss richtig<lb/>
+angewendeter, geeigneter Arzneien oder<lb/>
+Stärkungsmittel mächtig unterstützen.<lb/>
+Hiemit sind aber meist schon die Haupt-<lb break="no"/>
+hindernisse der Genesung beseitigt —<lb/>
+und die Gesundung kann ihren Fortgang<lb/>
+nehmen.</p>
+                     <p>Manche möchten dies Verfahren wohl<lb/>
+in das Gebiet der Suggestion und Auto-<lb break="no"/>
+suggestion verweisen, die sich ja heut-<lb break="no"/>
+zutage schon ein ziemlich weites Feld<lb/>
+erobert haben. Dies ist durchaus nicht zu-<lb break="no"/>
+treffend! Es würde jedoch zu weit führen,<lb/>
+den Unterschied hier genauer auseinander-<lb break="no"/>
+zusetzen, zumal er jedem mit der Sache<lb/>
+Vertrauten ohnehin einleuchtend sein wird.</p>
+                     <p>Wenn ich nun auch nicht so weit<lb/>
+gehe, zu behaupten, dass dies Verfahren<lb/>
+im allgemeinen, als alleiniges Heilmittel<lb/>
+angewendet, immer durchschlagenden Er-<lb break="no"/>
+folg haben muss: so lehrt uns doch das<lb/>
+Studium des Okkultismus, dass der bis<lb/>
+zu einem gewissen Grade der Entwick-<lb break="no"/>
+lung vorgeschrittene Okkultist <hi rend="text-spaced">die volle<lb/>
+Herrschaft über die Thätigkeit all</hi>’<lb/>
+                        <hi rend="text-spaced">seiner Organe gewinnt und selbe<lb/>
+durch seinen Willen lenken und<lb/>
+seinen Zwecken dienstbar machen<lb/>
+kann</hi>. Aber auch der Alltags-Mensch wird<lb/>
+aus dem Gesagten entnehmen müssen, es</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

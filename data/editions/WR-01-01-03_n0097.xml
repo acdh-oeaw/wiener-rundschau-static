@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-03_n0097.xml" prev="WR-01-01-03_n0096.xml" next="WR-01-01-03_n0098.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 3, S. 97</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0097"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-15">15 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0028">
+                  <title level="a">Der Recitator</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="97" to="98"/>
+                  <idno type="fn">WR-01-01-03_n0097.xml</idno>
+                  <author ref="#wr-person-0004">Altenberg, Peter</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DER RECITATOR.<lb/>
+(Anlässlich des Recitations-Abends: Rafael Faelberg, F.W. Weber’s »Goliath«,<lb/>
+                  <date>15. December 1896</date>.)<lb/>
+Von <rs type="person" key="">Peter Altenberg</rs> (Wien).</title>
+            </ab>
+            <p>Eines Tages fand Er ein Buch in einem rothen Einbande, irgendwo<lb/>
+in der Welt, auf einem Tische.</p>
+            <p>Sechs Jahre lag es von da an in seiner Nähe. Wie ein Hund,<lb/>
+der Uns liebt. Das Buch liebte Ihn, weil Er dasselbe liebte. Wirklich,<lb/>
+Er wusste nicht mehr, »ist das Buch bei mir oder ich bei meinem<lb/>
+Buche?!«</p>
+            <p>Immer wenn Er in diesem treuen Buche zu der Stelle kam:<lb/>
+»Gestern sagtest du zu mir: »<hi rend="text-spaced">lieber</hi> Olaf« — — —; meinst du es<lb/>
+so?!«, musste Er einen Augenblick innehalten, bevor er weiterlas. Dann<lb/>
+las Er weiter.</p>
+            <p>Dieses Innehalten wurde nie kürzer, im Laufe der Jahre.</p>
+            <p>Im fünften Jahre wurde es sogar um ein Stückchen länger. Und<lb/>
+einmal, eines Abends, ganz lang. Man hätte vermuthen können, Er<lb/>
+würde die Lectüre überhaupt diesen Abend nicht mehr fortsetzen. So<lb/>
+eine riesige Pause machte Er bei dieser Stelle. Aber auch an diesem<lb/>
+Abende las Er das Capitel zu Ende und das ganze Buch. Nur wie Er<lb/>
+zu den letzten Worten des Buches kam: »Glück ist Entsagung«, schloss<lb/>
+Er das Buch und küsste es einigemale und umfasste es in tiefer Freund-<lb break="no"/>
+schaft mit seinen Fingern und küsste es wieder.</p>
+            <p>An diesem Abende schlief es neben Ihm auf seinem Kopfpolster.</p>
+            <p>Niemand hatte eine Ahnung von diesem zärtlichen Verhältnisse<lb/>
+dieses verschlossenen Mannes zu seinem Buche.</p>
+            <p>Aber manchesmal sagte man über Ihn: »Was hat Er?! Wie pre-<lb break="no"/>
+occupirt stellt er sich. Welches süsse Geheimniss, he?!«</p>
+            <p>Einer edlen Dame zeigte Er zuerst das Buch; und gab es ihr.</p>
+            <p>Die Dame las es. Bei der Stelle: »Gestern sagtest du zu mir:<lb/>
+»<hi rend="text-spaced">lieber</hi> Olaf«; meinst du es so?!«, machte sie eine Pause. Dann las<lb/>
+sie weiter, zu Ende.</p>
+            <p>»Was ist denn mit dir?!«, sagte der heimkehrende Gatte.</p>
+            <p>»Nichts — — —,« sagte sie und küsste seine liebevolle Hand<lb/>
+und liess sie nicht mehr los, den ganzen Abend.</p>
+            <milestone unit="hr"/>
+            <lb/>
+         </div>
+      </body>
+   </text>
+</TEI>

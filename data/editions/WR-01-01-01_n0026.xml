@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-01_n0026.xml" prev="WR-01-01-01_n0025.xml" next="WR-01-01-01_n0027.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 1, S. 26</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0026"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-11-15">15 11 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0008">
+                  <title level="a">Die demolirte Literatur</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="19" to="27"/>
+                  <idno type="fn">WR-01-01-01_n0019.xml</idno>
+                  <author ref="#wr-person-0008">Kraus, Karl</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">26</fw>
+               <fw type="ctext">KRAUS.</fw>
+            </fw>
+            <p rend="no-intend">lassen. Aber vielleicht hat gerade der Umstand, dass sie<lb/>
+nach so lärmender Inscenirung unbekannt blieben, diesen<lb/>
+jüngsten Dichtern einen Namen gemacht.</p>
+            <p>Eine der zartesten Blüthen der Decadence sprosste dem<lb/>
+Café Griensteidl in einem jungen Freiherrn, der, wie man<lb/>
+erzählte, seine Manierirtheit bis auf die Kreuzzüge zurück-<lb break="no"/>
+leitet. Die Art des jungen Mannes, der sich einst zufällig<lb/>
+in das Kaffeehaus verirrte, gefiel dem Herrn aus Linz. Als<lb/>
+jener sich vollends zu der enthusiastischen Bemerkung hin-<lb break="no"/>
+reissen liess: »Der Goethe is ganz g’scheit«, da fühlte dieser:<lb/>
+hier lag eine Fülle von Manierirtheit, die der Literatur nicht<lb/>
+verloren gehen durfte. So ward in dem Jüngling das Be-<lb break="no"/>
+wusstsein seiner Sensitivität geweckt, welches ausgereicht<lb/>
+hätte, ihn zu productivem Schaffen anzuregen. Dazu kam<lb/>
+eine mit Kalksburg übertünchte Phantasie, und als das<lb/>
+Product jener geistigen Beschränktheit, welche, von den<lb/>
+sich an das Wort »wienerisch« knüpfenden Vorstellungen<lb/>
+ausgefüllt, unter dem Namen: reines Künstlerthum geläufig<lb/>
+ist, entstand eine Novelle, »Der Kindergarten der Un-<lb break="no"/>
+kenntniss«.</p>
+            <p>Kein Wunder, dass sie dem Entdecker gefiel. Er stellte<lb/>
+den Autor neben Goethe, den neuerlich zu feiern er Ge-<lb break="no"/>
+legenheit fand, und freute sich, dass ihm das Verständniss<lb/>
+für den ihm unbekannten Meister aus der Ueberschätzung<lb/>
+des ihm bekannten Dilettanten so schön aufgegangen war.<lb/>
+Goethe hatte die Bausteine für einen jungen Ruhm und die<lb/>
+Phraseologie einer neuen Kunst für das Café Griensteidl<lb/>
+zu liefern. In der That erschien das kunstphilosophische<lb/>
+Grundprincip von dem »Besondern, aus dem das Allgemeine<lb/>
+zu ziehen« und dem »Einzelfall, der in das Ewige zu rücken«<lb/>
+ist, wiederholt compromittirt und als modernes Schlagwort<lb/>
+protzig hingestellt, auf die letzte literarische Sensation in-<lb break="no"/>
+soferne anwendbar, als hier der Herr aus Linz für eine be-<lb break="no"/>
+sondere Talentlosigkeit das allgemeine Interesse in Anspruch<lb/>
+nehmen wollte und die Blamage, die wohl ein Einzelfall war,<lb/>
+in das Ewige zu rücken gewusst hat.</p>
+            <p>Noch oft hat Goethe ihm in der Folgezeit wichtige<lb/>
+Dienste geleistet; sein Zettelkasten wuchs, entwickelte sich,<lb/>
+reifte. Die sattsam bekannte Anekdote von dem Hunde</p>
+         </div>
+      </body>
+   </text>
+</TEI>

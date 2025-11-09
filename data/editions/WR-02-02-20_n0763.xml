@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-20_n0763.xml" prev="WR-02-02-20_n0762.xml" next="WR-02-02-20_n0764.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 20, S. 763</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="20"/>
+                        <biblScope unit="page" n="n0763"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-09-01">1 9 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0486">
+                  <title level="a">Orphisches Lied</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 20</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="20">20</biblScope>
+                  <biblScope unit="page" from="763" to="765"/>
+                  <idno type="fn">WR-02-02-20_n0763.xml</idno>
+                  <author ref="#wr-person-0019">Christomanos, Constantin</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">ORPHISCHES LIED</hi>.<lb/>
+(Aus dem cyklus: »Von den träumen der bäume«.)</title>
+            </ab>
+            <lg>
+               <l>
+                  <hi rend="initial">Wie</hi> eine föhre rauscht und tönt</l>
+               <l>meine seele —</l>
+               <l>wie eine föhre</l>
+               <l>wann der heisse wind des mittags</l>
+               <l>heimlich</l>
+               <l>in ihren träumen</l>
+               <l>sie über-</l>
+               <l>fällt /</l>
+               <l>fauchend sie in die arme nimmt</l>
+               <l>mit sengendem begehren <milestone unit="2dots"/>
+               </l>
+               <l>mit sehrenden begehrens rasendem schrei</l>
+               <l>sie an sich zerrt</l>
+               <l>so jäh / so wild / so schreckens-</l>
+               <l>gewaltig</l>
+               <l>als wollt’ er sie zer-</l>
+               <l>knicken —</l>
+            </lg>
+            <lg>
+               <l>(<milestone unit="2dots"/> einen atemzug lang —)</l>
+            </lg>
+            <lg>
+               <l>
+                  <milestone unit="2dots"/> dann lösen sich weich</l>
+               <l>die liebe- wütenden krallen <milestone unit="2dots"/>
+               </l>
+               <l>— denn sie erbebt</l>
+               <l>und rauscht und raunt</l>
+               <l>und säuselt und seufzt</l>
+               <l>so abgrund-</l>
+               <l>bang —</l>
+               <l>so aller glühenden quälen voll <milestone unit="2dots"/>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <milestone unit="2dots"/> und der wind flieht von hinnen</l>
+               <l>tief auf-</l>
+               <l>stöhnend <milestone unit="2dots"/>
+               </l>
+               <l>lange und schrill entstöhnend <milestone unit="3dots"/>
+               </l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

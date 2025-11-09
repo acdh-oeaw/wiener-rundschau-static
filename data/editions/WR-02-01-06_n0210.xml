@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-06_n0210.xml" prev="WR-02-01-06_n0209.xml" next="WR-02-01-06_n0211.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 6, S. 210</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="06"/>
+                        <biblScope unit="page" n="n0210"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-02-01">1 2 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0342">
+                  <title level="a">Gold </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 6</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="06">6</biblScope>
+                  <biblScope unit="page" from="201" to="210"/>
+                  <idno type="fn">WR-02-01-06_n0201.xml</idno>
+                  <author ref="#wr-person-0131">Gemberg, Adine</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">210</fw>
+               <fw type="ctext">GEMBERG.</fw>
+            </fw>
+            <p rend="no-intend">sie auf den schmutzigen, roh gezimmerten Tisch, neben welchem<lb/>
+er steht.</p>
+            <p>Langsam, mit gemessenen Bewegungen zieht er aus seiner Tasche<lb/>
+eine Goldrolle nach der andern, bricht sie auf und schüttet die Gold-<lb break="no"/>
+stücke auf den Tisch.</p>
+            <p>Ein ganzer Haufen Gold glänzt und gleisst endlich mit un-<lb break="no"/>
+endlich verlockender Pracht in all diese Armuth hinein.</p>
+            <p>Unwillkürlich denken die Beamten, deren Pflicht es ist, in der<lb/>
+nächsten Minute diese Illusion zu zerstören, wie glücklich diese armen,<lb/>
+verlassenen Kinder gemacht werden könnten, wenn dieser Reichthum<lb/>
+wirklich ihr Eigenthum wäre, dann aber thun sie unerbittlich ihre<lb/>
+Pflicht.</p>
+            <p>Der Arzt stellt sich dem unglücklichen »König des Goldes« als<lb/>
+Minister vor und ersucht Seine Majestät unterthänigst, einen Wagen<lb/>
+vorfahren zu lassen, um in seiner Begleitung nach dem königlichen<lb/>
+Schlosse zu fahren.</p>
+            <p>Der Polizeicommissär folgt dem hohen, gnädigst auf Alles ein-<lb break="no"/>
+gehenden Herrscher als Schatzmeister, den Schatz sorglich in einer<lb/>
+Ledertasche bewahrend.</p>
+            <p>Nur der ehemalige Vorgesetzte Langes, der Bankdirector, bleibt<lb/>
+zurück.</p>
+            <p>Er theilt den erwachsenen Kindern mit, dass der Vater einer<lb/>
+Anstalt zugeführt werde. Dann macht er die drei ältesten darauf auf-<lb break="no"/>
+merksam, dass sie von nun an für sich selbst sorgen müssen. Nur den<lb/>
+drei jüngsten Kindern im Alter von sechs bis zwölf Jahren kann er die<lb/>
+Fürsorge der Gemeinde-Armenverwaltung versprechen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

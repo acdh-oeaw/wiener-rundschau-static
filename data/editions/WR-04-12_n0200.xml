@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-12_n0200.xml" prev="WR-04-12_n0199.xml" next="WR-04-12_n0201.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 12, S. 200</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="12"/>
+                        <biblScope unit="page" n="n0200"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0895">
+                  <title level="a">Zwei Zeichnungen</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="189" to="212"/>
+                  <idno type="fn">WR-04-12_n0189.xml</idno>
+                  <author ref="#wr-person-0295">Beardsley, Aubrey</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0896">
+                  <title level="a">Salome</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="189" to="212"/>
+                  <idno type="fn">WR-04-12_n0189.xml</idno>
+                  <author ref="#wr-person-0068">Wilde, Oscar</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">WILDE: SALOME.</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Schenkt mir Wein ein. (Es wird Wein gebracht.) Salome, komm’,<lb/>
+trink’ Wein mit mir. Ich habe hier einen köstlichen Wein. Cäsar hat ihn mir selbst<lb/>
+geschickt. Tauche deine kleinen rothen Lippen hinein, dann will ich den Becher leeren.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Ich bin nicht durstig, Tetrarch.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Hörst du, wie sie mir antwortet, diese deine Tochter?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Sie hat recht. Warum stierst du sie immer an?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Bringt reife Früchte. (Es werden Früchte gebracht.) Salome, komm’,<lb/>
+iss mit mir von diesen Früchten. Ich sehe den Abdruck deiner kleinen Zähne in<lb/>
+einer Frucht so gern. Beiß nur ein wenig von dieser Frucht hier ab, dann will ich<lb/>
+essen, was übrig ist.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Ich bin nicht hungrig, Tetrarch.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES (zu Herodias): Du siehst, wie du diese deine Tochter erzogen hast.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Meine Tochter und ich stammen aus königlichem Blut. Du aber,<lb/>
+weißt du, dein Vater war Kameeltreiber! Dein Vater war ein Dieb und ein<lb/>
+Räuber obendrein!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Du lügst!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Du weißt wohl, dass es wahr ist.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Salome, komm’, setz’ dich zu mir. Du sollst auf dem Thron<lb/>
+deiner Mutter sitzen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Ich bin nicht müde, Tetrarch.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Du siehst, wie sie dich achtet.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Bringt mir — Was wünsche ich denn? Ich hab’ es vergessen.<lb/>
+Ah! Ah! Ich erinnere mich.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DIE STIMME DES JOCHANAAN: Siehe, die Zeit ist gekommen! Was ich<lb/>
+vorhersagte, ist eingetroffen. Der Tag, von dem ich sprach, ist da.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Heiß’ ihn schweigen. Ich will seine Stimme nicht hören. Dieser<lb/>
+Mensch beschimpft mich fortwährend.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Er hat nichts gegen dich gesagt. Überdies ist er ein sehr großer<lb/>
+Prophet.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Ich glaube nicht an Propheten. Kann jemand sagen, was sich<lb/>
+in Zukunft ereignen wird? Niemand weiß das. Auch beschimpft er mich fortwährend.<lb/>
+Aber ich glaube, du hast Angst vor ihm. Ich weiß wohl, dass du Angst vor ihm hast.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Ich habe keine Angst vor ihm. Ich habe vor niemandem Angst.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Ich sage dir, du hast Angst vor ihm. Wenn du keine Angst vor<lb/>
+ihm hast, warum lieferst du ihn nicht den Juden aus, die seit sechs Monaten nach<lb/>
+ihm schreien?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>EIN JUDE: Wahrhaftig, Herr, es wäre besser, ihn in unsere Hände zu geben.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Genug davon. Ich habe euch meine Antwort schon gegeben. Ich<lb/>
+werde ihn nicht in eure Hände geben. Er ist ein heiliger Mann. Er ist ein Mann,<lb/>
+der Gott geschaut hat.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>EIN JUDE: Das kann nicht sein. Seit dem Propheten Elias hat niemand Gott<lb/>
+gesehen. Er war der letzte, der Gott von Angesicht zu Angesicht geschaut hat.<lb/>
+In unseren Tagen zeigt Gott sich nicht. Gott verbirgt sich. Darum ist großes Übel<lb/>
+über das Land gekommen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>EIN ANDERER JUDE: In Wahrheit weiß niemand, ob Elias in der That<lb/>
+Gott gesehen hat. Möglicherweise war es nur der Schatten Gottes, was er sah.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>EIN DRITTER JUDE: Gott ist zu keiner Zeit verborgen. Er zeigt sich zu<lb/>
+allen Zeiten und an allen Orten. Gott ist in dem Schlimmen ebenso wie in dem Guten.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

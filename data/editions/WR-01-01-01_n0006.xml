@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-01_n0006.xml" prev="WR-01-01-01_n0005.xml" next="WR-01-01-01_n0007.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 1, S. 6</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0006"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-11-15">15 11 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0002">
+                  <title level="a">Wanjka</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="6" to="10"/>
+                  <idno type="fn">WR-01-01-01_n0006.xml</idno>
+                  <author ref="#wr-person-0002">Tchechow, Anton</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>WANJKA.</title>
+            </ab>
+            <p>Wanjka Schukow, ein neunjähriger Knabe, der vor drei<lb/>
+Monaten zum Schuster Aljachin in die Lehre gegeben wurde,<lb/>
+legte sich in der Nacht vor Weihnachten nicht zu Bett. Er<lb/>
+wartete ab, bis die Hausleute und die Gehilfen zur Früh-<lb break="no"/>
+messe gegangen waren, langte aus dem Schrank ein Fläsch-<lb break="no"/>
+chen mit Tinte, einen Federstiel mit einer verrosteten Feder<lb/>
+hervor, breitete vor sich ein zerknittertes Blatt Papier aus<lb/>
+und begann zu schreiben. Bevor er den ersten Buchstaben<lb/>
+gezogen hatte, blickte er einigemale ängstlich zur Thüre und<lb/>
+zum Fenster, schielte auf das dunkle Heiligenbild, zu dessen<lb/>
+beiden Seiten sich Stellagen mit Schuhleisten hinzogen, und<lb/>
+seufzte tief auf. Das Papier lag auf der Bank, er selbst lag<lb/>
+vor der Bank auf den Knien.</p>
+            <p>»Liebes Grossväterchen Constantin Makaritsch!« schrieb<lb/>
+er. »Und ich schreibe Dir einen Brief. Ich gratulire Ihnen<lb/>
+zu Weihnachten und wünsche Dir Alles vom lieben Herr-<lb break="no"/>
+gott. Ich habe keinen Vater und kein Mütterchen, nur Du<lb/>
+allein bist mir geblieben.«</p>
+            <p>Wanjka wandte seine Augen zum dunklen Fenster, in<lb/>
+welchem der Widerschein seiner Kerze flackerte, und stellte<lb/>
+sich lebhaft seinen Grossvater Constantin Makaritsch vor,<lb/>
+der als Nachtwächter bei den Herrschaften Schiwarjow dient.<lb/>
+Das ist ein kleiner, magerer, doch aussergewöhnlich beweg-<lb break="no"/>
+licher Alter von 65 Jahren, mit einem ewig lachenden Ge-<lb break="no"/>
+sicht und versoffenen Aeuglein. Tagsüber schläft er in der<lb/>
+Gemeindeküche oder schäkert mit den Köchinnen, bei Nacht<lb/>
+jedoch geht er, in einen weiten Schafpelz eingehüllt, um<lb/>
+das Gut herum und klopft mit seinem Schlägel. Hinter ihm,<lb/>
+den Kopf gesenkt, schreiten die alte Kaschtanka und der<lb/>
+Hund Wjun. Dieser Wjun ist aussergewöhnlich ehrerbietig<lb/>
+und liebenswürdig, blickt gerade so lieb auf die Seinigen<lb/>
+wie auf die Fremden, geniesst aber trotzdem keinen Credit.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

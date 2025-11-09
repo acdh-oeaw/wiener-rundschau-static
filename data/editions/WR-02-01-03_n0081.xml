@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-03_n0081.xml" prev="WR-02-01-02_n0080.xml" next="WR-02-01-03_n0082.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 3, S. 81</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0081"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-12-15">15 12 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0321">
+                  <title level="a">Vision</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="81" to="88"/>
+                  <idno type="fn">WR-02-01-03_n0081.xml</idno>
+                  <author ref="#wr-person-0123">Tetmajer, Kazimir</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>15. <hi rend="text-spaced">DECEMBER</hi> 1897</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="performance-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">VISION</hi>.<lb/>
+Dramatische Phantasie von <rs type="person" key="">Kazimir Tetmajer</rs>.<lb/>
+Deutsch von <rs type="person" key="">Leonhard Brixen</rs>.</title>
+            </ab>
+            <p>(Eine Meeresbucht im Westen. Traurig hinwelkende, herbstliche Vegetation.<lb/>
+Kahle, schroffe Felsen und eine öde Sandbank, auf die man Fischerboote ans<lb/>
+Land gebracht hat. Graues, nebliges Wetter, der Tag geht zur Neige. Einige<lb/>
+Möven kreisen über dem Wasser. <hi rend="text-spaced">Andreas</hi>, ein siebzehnjähriger Fischerknabe,<lb/>
+liegt mit geschlossenen Augen auf dem Rücken im Sande. <hi rend="text-spaced">Maria</hi> und der<lb/>
+               <hi rend="text-spaced">Priester</hi> sitzen in der Nähe auf einer moosbewachsenen Felsbank. Maria ist<lb/>
+einfach und dunkel gekleidet, nur eine breite weisse Halskrause fällt bis auf die<lb/>
+Schultern nieder. Brünett, tiefblaue Augen, ein längliches, mattbleiches Antlitz<lb/>
+mit kirschrothen Lippen. Der Priester ist alt, weisse Haare.)</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Priester</hi>. Ich wollte, dein Bruder Gerhard wäre zurück.<lb/>
+So lange hab’ ich ihn nicht gesehen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Maria</hi>. Weisst du, Onkel, länger als zwei Wochen ist es her,<lb/>
+seit die letzten Fischerboote heimkehrten. Mich quält die Angst, ihm<lb/>
+könnte ein Unglück widerfahren sein. Eis und Kälte sind jäh herein-<lb break="no"/>
+gebrochen, so berichteten die Heimgekehrten.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Priester</hi>. Wie sonderbar mir zu Muthe ist. Weile ich<lb/>
+doch erst einige Stunden unter euch. So viele Jahre war ich fern,<lb/>
+habe in einer so fremden Welt gelebt, und doch ist es mir, als hätte<lb/>
+ich dieses Land nie verlassen, als wäre Alles, was hinter mir liegt, ein Traum.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Maria</hi>. Jetzt aber bleibst du bei uns, Oheim, nicht wahr?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Priester</hi>. Ja, mein Kind. Ich bin zu alt, um weiterhin<lb/>
+noch den Missionsdienst zu versehen. Die Reihe ist an den Jüngeren.<lb/>
+Ich bleibe hier und will hier begraben werden, wo alle meine Vor-<lb break="no"/>
+fahren ruhen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Maria</hi>. Mit Ausnahme derer, die das Meer verschlungen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Priester</hi>. Ja, mit Ausnahme derer, die auf dem Meeres-<lb break="no"/>
+grunde ruhen. Gott schenke ihnen die ewige Ruh’. — Also fünf Jahre<lb/>
+sind es her, seit euere Mutter gestorben ist?</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

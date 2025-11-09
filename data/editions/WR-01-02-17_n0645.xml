@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-17_n0645.xml" prev="WR-01-02-17_n0644.xml" next="WR-01-02-17_n0646.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 17, S. 645</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="17"/>
+                        <biblScope unit="page" n="n0645"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-07-15">15 7 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0220">
+                  <title level="a">Eine seltene Begegnung</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 17</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="17">17</biblScope>
+                  <biblScope unit="page" from="641" to="645"/>
+                  <idno type="fn">WR-01-02-17_n0641.xml</idno>
+                  <author ref="#wr-person-0086">Kromer, Heinrich Ernst</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0221">
+                  <title level="a">Frau Sorge</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 17</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="17">17</biblScope>
+                  <biblScope unit="page" from="645" to="645"/>
+                  <idno type="fn">WR-01-02-17_n0645.xml</idno>
+                  <author ref="#wr-person-0015">Morgenstern, Christian</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">EINE SELTENE BEGEGNUNG.</fw>
+               <fw type="pn">645</fw>
+            </fw>
+            <p>»So hätte also der Heiland mit Ihrer Verfluchung zu ewigem Leben<lb/>
+nur Gutes geschaffen?«</p>
+            <p>»Für mich gewiss! Freilich auf dem Weg der Selbsttäuschung und<lb/>
+ohne es im letzten Grunde zu wollen. Darin gleicht er — gleichfalls<lb/>
+wider Willen — einem andern Geiste —«</p>
+            <p>»Ich verstehe Sie <milestone unit="3dots"/>«</p>
+            <p>»Doch muss ich ihm gerecht werden und gestehen: er hat immer<lb/>
+nur das Gute gewollt.««</p>
+            <p>Und dabei lächelte Ahasver.</p>
+            <p>»Eine Frage noch: Dürfen Sie auch heiraten, will sagen: das<lb/>
+Weib lieben und Kinder zeugen?«</p>
+            <p>Ahasver wurde heiter. »Wie können Sie nur fragen? Das gehört<lb/>
+doch Alles zum Leben, und zum Leben bin ich ja verflucht — Ver-<lb break="no"/>
+zeihung, ich wollte sagen: gesegnet!«</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>FRAU SORGE.</title>
+            </ab>
+            <lg>
+               <l>
+                  <hi rend="initial">An</hi> das Marmorkreuz des Liedes</l>
+               <l>Schlag’ ich düster dich, Frau Sorge,</l>
+               <l>Mit den Stricken meiner Verse</l>
+               <l>Schnür’ ich fest dir die Gelenke.</l>
+            </lg>
+            <lg>
+               <l>Magst als Standbild dann in meinem Vorraum</l>
+               <l>Mit den andern Götterbildern stehen,</l>
+               <l>Und statt deiner kalten Arme werden</l>
+               <l>Grazien mich als ihren Freund umschlingen.</l>
+            </lg>
+            <ab type="catchall">Lächle nicht so starr und grausig!</ab>
+            <milestone unit="3dots"/>
+            <lb/>
+            <p>Weh! das Marmorkreuz des Liedes<lb/>
+Trägt dich nicht <milestone unit="3dots"/> und sinkt und neigt sich<lb/>
+Gegen mich <milestone unit="3dots"/> und wird mich tödten <milestone unit="3dots"/>
+               <lb/>
+Und als Grabstein mich bedecken <milestone unit="3dots"/>
+            </p>
+            <p>Berlin. <rs type="person" key="">Christian Morgenstern</rs>.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

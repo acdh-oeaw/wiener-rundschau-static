@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-12_n0460.xml" prev="WR-02-01-12_n0459.xml" next="WR-02-01-12_n0461.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 12, S. 460</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="12"/>
+                        <biblScope unit="page" n="n0460"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-05-01">1 5 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0414">
+                  <title level="a">Die Missachtung der Kunst</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 12</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="456" to="460"/>
+                  <idno type="fn">WR-02-01-12_n0456.xml</idno>
+                  <author ref="#wr-person-0136">Hello, Ernest</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">460</fw>
+               <fw type="ctext">HELLO.</fw>
+            </fw>
+            <p>Was ist das Bild an sich? Ich weiss es nicht. Aber so hat man<lb/>
+es beurtheilt. Ob es nun eine solche Behandlung verdient oder nicht,<lb/>
+jedenfalls hat es sie erhalten. Und diese Dinge werden nach mehr als<lb/>
+1800 Jahren nach Christi Geburt gedruckt.</p>
+            <ab>
+               <title>V.</title>
+            </ab>
+            <p>Eine der häufigsten Erscheinungen bei den Künstlern ist die<lb/>
+Missachtung der Kunst. Eine der häufigsten Erscheinungen bei den<lb/>
+Kritikern ist die Missachtung der Kunst.</p>
+            <p>Was ich »die Kunst missachten« nenne, heisst, ihr gestatten, dass<lb/>
+sie lügt.</p>
+            <p>Der Künstler missachtet die Kunst, wenn er anderes anstrebt, als<lb/>
+das Wahre zu verwirklichen. Der Kritiker missachtet die Kunst, wenn<lb/>
+er ihr verzeiht, ein Ideal zu haben, das nicht wahr ist.</p>
+            <p>Wir hören alle Tage die absurden Worte, auf diesen oder jenen<lb/>
+Irrthum angewendet, wenn dieser Irrthum in glänzender Sprache aus-<lb break="no"/>
+gedrückt ist:</p>
+            <p>»Das ist Poesie.«</p>
+            <p>Wenn der Durchschnittsmensch, von einer Lüge sprechend, die<lb/>
+Worte: »das ist Poesie« ausgesprochen hat, glaubt er den Lügner ent-<lb break="no"/>
+lastet zu haben. Ganz im Gegentheil hat er eine neue Beschuldigung<lb/>
+ausgesprochen, denn wenn der Lügner »poetisch« lügt, lässt er das<lb/>
+Wort in seiner erhabensten Form lügen.</p>
+            <p>Poesie heisst Schöpfung.</p>
+            <p>Die Lüge, welche die Poesie trifft, stürmt ein Heiligthum. Der<lb/>
+Durchschnittsmensch, der der Unklarheit eines anderen Menschen<lb/>
+schmeicheln will, sagt: »Das ist ein Künstler«. Wenn es sich in der<lb/>
+That um einen Künstler handelt, so ist diese Unklarheit bei ihm un-<lb break="no"/>
+geheuerlich. Die Musik hat die Mathematik zum Kernpunkt; der Vers<lb/>
+findet seinen Wohllaut in der Strenge seiner Gesetze.</p>
+            <p>Der Künstler soll unter dem Zeichen strenger Ordnung leben;<lb/>
+die Bewunderung soll sich ihm nur mit Ehrfurcht nahen und die Be-<lb break="no"/>
+wunderung, die nicht ernst und streng ist, ist die grausamste aller<lb/>
+Schmähungen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

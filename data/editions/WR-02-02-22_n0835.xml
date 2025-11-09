@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="WR-02-02-22_n0835.xml"
+     prev="WR-02-02-22_n0834.xml"
+     next="WR-02-02-22_n0836.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 22, S. 835</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="22"/>
+                        <biblScope unit="page" n="n0835"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-10-01">1 10 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text">
+                  <author/>
+                  <title n=""/>
+                  <biblScope unit="page">-</biblScope>
+                  <idno/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page"><milestone unit="verse-start"/><ab><title><hi rend="text-spaced">DEIN BRIEF</hi>.</title></ab><lg><l>Ich sitze still in meiner dunklen Laube</l>
+<l>Am Tisch von Eichenholz geschnitzt, die Ranken</l>
+<l>Von wildem Wein umschmeicheln luft’ge Äste,</l>
+<l>Aus denen sich der Bau zusammenfügt.</l>
+<l>Die Luft ist mild, und still bewegen sich die Blätter,</l>
+<l>Sie lächeln über Sommerwindes Spiel,</l>
+<l>Dann träumt es wieder — tief und ruhig,</l>
+<l>Gefällig eingewiegt schläft die Natur.</l>
+<l>Mein Haupt sinkt auf die müden Arme nieder,</l>
+<l>Das Auge blickt umflort auf einen Gegenstand,</l>
+<l>Der zitternd in der Hand mir wilde Gluten</l>
+<l>Und sanfte Rührungen erweckt: Dein Brief.</l>
+<l>So lern’ ich Deine Züge, so umfass’ ich</l>
+<l>Dein Wesen segnend, wie ein müder Pilger</l>
+<l>Vor einem Bildstock schluchzend niedersinkt.</l>
+<l>Dein Brief! — Ich les’ ihn nicht, ich seh’ ihn nur</l>
+<l>Und lese tief in Deinem tiefen Herzen. — —</l>
+<l>Genug der Träumerei. Das Leben fordert mich,</l>
+<l>Es fordert, dass ich thätig nun Dich preise,</l>
+<l>Dass nicht in rührend sehnenden Gedanken,</l>
+<l>Nein, in der That Dein Segen sich erweise.</l></lg><p><date>1889</date>. <rs type="person" key="">Georg Hirschfeld</rs>.</p><milestone unit="untyped-end"/></div>
+      </body>
+   </text>
+</TEI>

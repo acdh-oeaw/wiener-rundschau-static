@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-19_n0747.xml" prev="WR-01-02-19_n0746.xml" next="WR-01-02-19_n0748.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 19, S. 747</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="19"/>
+                        <biblScope unit="page" n="n0747"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-08-15">15 8 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0243">
+                  <title level="a">Leo Taxil und seine Puppen</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 19</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="19">19</biblScope>
+                  <biblScope unit="page" from="742" to="749"/>
+                  <idno type="fn">WR-01-02-19_n0742.xml</idno>
+                  <author ref="#wr-person-0025">Panizza, Oscar</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">LEO TAXIL UND SEINE PUPPEN.</fw>
+               <fw type="pn">747</fw>
+            </fw>
+            <p rend="no-intend">
+               <hi rend="italics">»de Notre Très Saint Père le Pape Léon XIII«</hi>. Wenn man bedenkt,<lb/>
+dass zu einem so umfangreichen Werke bedeutende Quellenstudien ge-<lb break="no"/>
+hören, dann ist gewiss die Frage berechtigt, etwas über den inter-<lb break="no"/>
+essanten Zeitpunkt zu erfahren, <hi rend="text-spaced">wann</hi> Herr <hi rend="text-spaced">Taxil</hi> sich bekehrt hat.<lb/>
+Steht vermuthlich dem obigen <hi rend="italics">»à partir de ce jour«</hi> ein <hi rend="italics">jusqu’à ce jour</hi>
+               <lb/>
+gegenüber? Heute roth, morgen — katholisch oder päpstlich-violett?</p>
+            <p>Nach einem weiteren Jahr, <date>1886</date>, veröffentlichte <hi rend="text-spaced">Taxil</hi> in einem<lb/>
+stockkatholischen Verlag seine <hi rend="italics">»Confessions d’un ex-libre-penseur«, Paris,<lb/>
+Letouzey et Ané, <date>1887</date>
+               </hi>, ein Buch, das angeblich über 30 Auflagen<lb/>
+erlebt hat und welches die niederträchtigste und heuchlerischste schrift-<lb break="no"/>
+stellerische Selbstbefleckung darstellt, die je ein Autor an sich be-<lb break="no"/>
+gangen hat. Er behauptet darin, Alles, was er seit zehn Jahren gegen<lb/>
+die katholische Kirche geschrieben und an historischen Documenten<lb/>
+veröffentlicht hat, sei von ihm absichtlich gefälscht und mehr oder<lb/>
+weniger erfunden. Er nimmt jedes seiner früheren Bücher her, um an<lb/>
+ihm seine, des Verfassers, teuflische Niedertracht zu erweisen und ins<lb/>
+helle Licht zu setzen. Ja, er schreckt nicht davor zurück, den <hi rend="italics">Curé<lb/>
+Meslier</hi> und sein hinterlassenes atheistisches Werk <hi rend="italics">»Mon testament«</hi>, welches<lb/>
+eine der wichtigsten Etappen in der Geschichte des Freidenkerthums<lb/>
+und der materialistischen Philosophie im XVIII. Jahrhundert bedeutet,<lb/>
+welches er selbst neu in drei Bänden herausgegeben hatte und von<lb/>
+dem wir oben gesprochen haben, <hi rend="text-spaced">als eine Fälschung</hi>
+               <hi rend="italics">
+                  <hi rend="text-spaced">Voltaire</hi>’s</hi>
+               <lb/>
+               <hi rend="text-spaced">hinzustellen</hi>. Er benützt hiezu eine Briefstelle <hi rend="italics">Voltaire’s</hi>, der das<lb/>
+               <hi rend="italics">»Testament« Meslier’s</hi>
+               <date>1762</date> im Auszug herausgegeben hatte, an seinen<lb/>
+Freund <hi rend="italics">Thiériot</hi>, worin er ihm schreibt: es sei schade, dass man diesen<lb/>
+               <hi rend="italics">Curé Meslier</hi> nicht als <hi rend="text-spaced">Bischof</hi> der Welt vorführen könne, er würde<lb/>
+dann mit seinem Testament noch ein weit grösseres Aufsehen machen.<lb/>
+Wenn der in Bücherkenntnissen enorm beschlagene <hi rend="text-spaced">Taxil</hi> diese ver-<lb break="no"/>
+gessene Briefstelle kannte, dann muss er auch jene zahllosen Stellen<lb/>
+in <hi rend="italics">Voltaire’s</hi> Werken kennen, wo dieser — der bekanntlich an ein so-<lb break="no"/>
+genanntes »höheres Wesen« glaubte — den verstorbenen <hi rend="italics">Curé</hi>, der<lb/>
+unter dem Drucke der Hierarchie zu einem crassen Materialisten geworden<lb/>
+war, als einen verstockten Landpfarrer, der nichts von Philosophie ver-<lb break="no"/>
+stehe, heftig angreift, ohne ihm die Bedeutung seines <hi rend="italics">»Testament«</hi> des-<lb break="no"/>
+wegen in Abrede zu stellen — <hi rend="text-spaced">Taxil</hi> muss dann wissen und weiss,<lb/>
+dass das <hi rend="italics">»Testament« Meslier’s</hi> eine der Hauptdiscussionen in der Mitte<lb/>
+des XVIII. Jahrhunderts und im Kreise der Encyklopädisten bildete,<lb/>
+dass es ausser auf <hi rend="italics">Voltaire</hi> stark auf <hi rend="italics">d’Alambert, Rousseau, Diderot, Hol-<lb break="no"/>
+bach,</hi> den englischen Atheisten <hi rend="italics">Bolingbroke,</hi> auf <hi rend="italics">Swift</hi> u. A. wirkte, dass<lb/>
+der Philosoph <hi rend="italics">Holbach</hi> selbst die Werke <hi rend="italics">Meslier’s</hi> herausgab, und dass<lb/>
+die Biographie <hi rend="italics">Meslier’s</hi> als ein offenes Buch vor Aller Augen liegt.<lb/>
+               <hi rend="text-spaced">Taxil</hi> speculirt also in der leichtfertigsten Weise auf die Leichtgläubig-<lb break="no"/>
+keit und Unwissenheit seiner Leser und scheidet als offenkundiger<lb/>
+literarischer Betrüger aus der Reihe der ernsthaft zu nehmenden Schrift-<lb break="no"/>
+steller aus.</p>
+            <p>Selbst der Versuch, die vielleicht werthvollste seiner früheren<lb/>
+Publicationen, die <hi rend="italics">»Livres secrets des confesseurs«, Paris, librairie anti-</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-06_n0235.xml" prev="WR-01-01-06_n0234.xml" next="WR-01-01-06_n0236.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 6, S. 235</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="06"/>
+                        <biblScope unit="page" n="n0235"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-02-01">1 2 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0070">
+                  <title level="a">Die Theatercensur</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 6</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="06">6</biblScope>
+                  <biblScope unit="page" from="235" to="237"/>
+                  <idno type="fn">WR-01-01-06_n0235.xml</idno>
+                  <author ref="#wr-person-0033">Stiglitz, Dr. Maximilian</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIE THEATERCENSUR IN ÖSTERREICH.<lb/>
+Von Dr. <rs type="person" key="">Maximilian Stiglitz</rs> (Wien).</title>
+            </ab>
+            <p>Max Halbe feiert jetzt einen seltenen Triumph; selten in seiner<lb/>
+Ursache und selten in seiner Veranlassung. Die Ursache seines Triumphes<lb/>
+ist seine »Jugend«, die mit überraschender Geschwindigkeit in den<lb/>
+Bücher- und Bühnenschatz des deutschen Volkes überging, die Ver-<lb break="no"/>
+anlassung das rein <hi rend="text-spaced">locale</hi> Verbot ihrer Aufführung.</p>
+            <p>Es ist nicht wahr, dass die österreichische Regierung die Auf-<lb break="no"/>
+führung von Halbe’s »Jugend« ganz verbot. Wer das behauptet, irrt.<lb/>
+Im Gegentheil, die Herren <hi rend="text-spaced">Badeni</hi> und <hi rend="text-spaced">Kielmansegg</hi> haben die<lb/>
+Aufführung der »Jugend« ausdrücklich gestattet. Aber allerdings nur<lb/>
+in der Bukowina.</p>
+            <p>Allem Anschein nach wurde Halbe’s »Jugend« für Czernowitz<lb/>
+               <hi rend="text-spaced">reservirt</hi>, um all die stacheligen Wiener Literaten zum Pilgerzug<lb/>
+nach dem Hinterland von Badeni’s Mutterprovinz zu zwingen, auf dass<lb/>
+sie sich in östlicher Cultur von westlichen Schlacken reinigten. Viel-<lb break="no"/>
+leicht war da durch die Massenbeförderung Wiener Volkes nach Czerno-<lb break="no"/>
+witz auch den nothleidenden galizischen Staatsbahnen auf leichte Weise<lb/>
+aufzuhelfen. Also zwei Fliegen auf einen Schlag! Max Halbe’s zweiter<lb/>
+Triumph besteht darin: Er wird ein Mittel zur Hebung des Fremden-<lb break="no"/>
+verkehrs nach dem Lande, in welchem sich Graf Kielmansegg seine<lb/>
+ersten bezirkshauptmännlichen Sporen verdiente. Und er weist uns<lb/>
+schliesslich auch die Geistesrichtung der Herren Badeni und Kiel-<lb break="no"/>
+mansegg — die halbasiatische.</p>
+            <p>Allein die Sache hat noch eine andere Seite, welche die Schrift-<lb break="no"/>
+steller, die mit solcher Bevorzugung ihrer Dichtungen nicht einver-<lb break="no"/>
+standen sind, und das Volk, welches zu einer Urlaubsreise nach Halb-<lb break="no"/>
+asien kein Geld und keine Zeit hat, ernstlich in ihren vitalsten geistigen<lb/>
+Interessen berührt. Und darum haben die Schriftsteller und die breiten<lb/>
+Volksschichten sich kürzlich in mehreren Versammlungen gegen diese<lb/>
+neueste Methode von Cultureinimpfung heftig ausgesprochen. Die Praxis<lb/>
+der heutigen Theatercensur kam dabei recht übel weg, und die öffentlich<lb/>
+rechtliche Basis derselben erfuhr eine vernichtende Kritik.</p>
+            <p>Die öffentlich rechtliche Basis? Eigentlich hat die Theatercensur<lb/>
+nach den Gesetzen, die heute in Oesterreich in Geltung stehen, über-<lb break="no"/>
+haupt keine staatsrechtliche Grundlage mehr; sie würde längst nicht<lb/>
+mehr ihr anrüchiges Gewerbe ausüben, würden in Oesterreich die Ge-<lb break="no"/>
+setze nicht bloss zu dem Zweck erlassen, um von dem Theoretiker<lb/>
+studirt und von dem Praktiker ignorirt zu werden. Das Recht auf das<lb/>
+freie Wort und die freie Schrift ist nach langen, oft blutigen Kämpfen</p>
+         </div>
+      </body>
+   </text>
+</TEI>

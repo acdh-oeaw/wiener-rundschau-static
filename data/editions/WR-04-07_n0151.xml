@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-07_n0151.xml" prev="WR-04-07_n0150.xml" next="WR-04-07_n0152.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 7, S. 151</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="07"/>
+                        <biblScope unit="page" n="n0151"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0840">
+                  <title level="a">Der Garten</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 7</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="149" to="152"/>
+                  <idno type="fn">WR-04-07_n0149.xml</idno>
+                  <author ref="#wr-person-0279">Ysaey, L.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">YSAEY: DER GARTEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <lg>
+                        <l>Die Deine heiße — — Nun, Du weißt</l>
+                        <l>nicht mehr</l>
+                        <l>Von mir und meiner Seele Heimlichkeiten,</l>
+                        <l>Hast solches Wissen auch noch nie be-</l>
+                        <l>gehrt —</l>
+                        <l>Es ist ja gleich, der Tag ist nun vorbei,</l>
+                        <l>So sagtest Du vorhin, es lohnt sich nicht,</l>
+                        <l>Am Abend noch vom Morgenwind zu</l>
+                        <l>sprechen.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>FERRAND:</p>
+                     <lg>
+                        <l>Es lohnt sich nicht? Was lohnt sich nicht,</l>
+                        <l>Mareen?</l>
+                        <l>Was weiß ich nicht? Du sprichst so wie</l>
+                        <l>im Traume.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>MAREEN:</p>
+                     <lg>
+                        <l>Vergib mir, seltsam muss ich Dir wohl</l>
+                        <l>scheinen,</l>
+                        <l>Ich komme selber mir verwandelt vor,</l>
+                        <l>Doch kränkt es mich, dass ich in Deinen</l>
+                        <l>Augen</l>
+                        <l>Das nicht besitze, was doch für die Frau</l>
+                        <l>Dasselbe ist, wie Duft für rothe Rosen.</l>
+                        <l>Wenn Du in einem wohlverschlossnen</l>
+                        <l>Garten</l>
+                        <l>Siehst Sommerblumen leuchten und zu fern</l>
+                        <l>Doch bist, um wirklich ihren Duft zu fühlen,</l>
+                        <l>Sagst Du dann auch: die Blumen duften</l>
+                        <l>nicht?</l>
+                        <l>Sie duften Dir nicht, doch vielleicht dem</l>
+                        <l>Andern,</l>
+                        <l>Der näher stand, so nah, dass er die Blüten</l>
+                        <l>Berühren konnte, ihre weichen, warmen</l>
+                        <l>Kelchblätter fühlte, der — Was hast Du</l>
+                        <l>denn?</l>
+                        <l>Wie Du mich anblickst, Du bist blass und</l>
+                        <l>zitterst!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>FERRAND:</p>
+                     <lg>
+                        <l>Dem Andern also, Dem, der näher stand,</l>
+                        <l>Dem duften sie! — — — — Wann stand</l>
+                        <l>er denn so nahe,</l>
+                        <l>Mareen; steht er vielleicht noch jetzt im</l>
+                        <l>Garten,</l>
+                        <l>Der nur für den Besitzer scheint ver-</l>
+                        <l>schlossen?</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>MAREEN:</p>
+                     <lg>
+                        <l>Du Thor, so wie ein unverständ’ges Kind</l>
+                        <l>Den Tisch, an den es sich gestoßen, schlägt,</l>
+                        <l>So schiltst Du mich. Eins müsstest Du</l>
+                        <l>doch wissen:</l>
+                     </lg>
+                  </cell>
+                  <cell>
+                     <lg>
+                        <l>Dass, wenn Das, was ich unvorsicht’gerweise</l>
+                        <l>Aus meinen Worten Dich errathen ließ,</l>
+                        <l>Und das — ich leugne nicht — die Wahrheit</l>
+                        <l>ist,</l>
+                        <l>Dass, wenn Das mir nicht ferner als der</l>
+                        <l>Stern,</l>
+                        <l>Der dort am dunklen Abendhimmel glänzt,</l>
+                        <l>Ich lieber mir die Zunge abgebissen,</l>
+                        <l>Mit bloßen Füßen lieber fortgelaufen,</l>
+                        <l>Als nur ein Wort davon zu Dir zu sprechen —</l>
+                        <l>Was Dir in meinem Leben fremd, geschah</l>
+                        <l>In jener Zeit, da ich selbst Deinen Namen</l>
+                        <l>Nicht kannte, da ich, noch ein halbes Kind,</l>
+                        <l>Heißhungrig vor dem Thor des Lebens</l>
+                        <l>stand</l>
+                        <l>Und nach ein wenig Glück die Hände</l>
+                        <l>streckte —</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>FERRAND:</p>
+                     <lg>
+                        <l>Es wurde Dir?</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>MAREEN:</p>
+                     <lg>
+                        <l>So wie uns alles wird,</l>
+                        <l>Was wir ersehnen — —</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>FERRAND:</p>
+                     <lg>
+                        <l>Sag mir, Mareen, Du hast seit jener Zeit</l>
+                        <l>Ihn nie gesehn?</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>MAREEN:</p>
+                     <lg>
+                        <l>Niemals, wir waren Kinder,</l>
+                        <l>Da wir uns kannten, wenig älter er</l>
+                        <l>Als ich, und einen kurzen Sommer nur</l>
+                        <l>Beisammen. — So wie er die Frühlingsluft,</l>
+                        <l>Die milde, athmete, den Duft der Blumen</l>
+                        <l>Genoss, und von der Vögel Liebeslied</l>
+                        <l>Und Windesrauschen sich in Schlaf ließ</l>
+                        <l>singen,</l>
+                        <l>So nahm er auch mein Herz, so absichtslos,</l>
+                        <l>Gedankenlos, fast ohne es zu merken.</l>
+                        <l>Und ich war selig wie die holde Braut</l>
+                        <l>Des Hohen Liedes, stolz auf meine Jugend,</l>
+                        <l>Die unberührte, die ich ihm zu Füßen</l>
+                        <l>Mit meiner Liebe legte, ein Geschenk,</l>
+                        <l>Das königlich und meiner würdig war.</l>
+                        <l>Und als ich mich so ganz ihm hingegeben</l>
+                        <l>Und meine Seele sich vor ihm verneigte,</l>
+                        <l>Wie man die Könige des Lebens grüßt,</l>
+                        <l>Da zog er wie ein wilder Wandervogel</l>
+                        <l>Davon, ohn’ nur den Blick zurück zu wenden.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>FERRAND:</p>
+                     <lg>
+                        <l>Und dann?</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

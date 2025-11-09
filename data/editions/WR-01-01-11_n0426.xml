@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-11_n0426.xml" prev="WR-01-01-11_n0425.xml" next="WR-01-01-11_n0427.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 11, S. 426</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="11"/>
+                        <biblScope unit="page" n="n0426"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-04-15">15 4 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0137">
+                  <title level="a">Th. Th. Heine</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 11</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="11">11</biblScope>
+                  <biblScope unit="page" from="421" to="426"/>
+                  <idno type="fn">WR-01-01-11_n0421.xml</idno>
+                  <author ref="#wr-person-0035">Neumann, Alfred</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">426</fw>
+               <fw type="ctext">NEUMANN.</fw>
+            </fw>
+            <p rend="no-intend">Wollen enthält einen tiefen, sittlichen Kern, den der Satyriker ja immer<lb/>
+im Grunde genommen besitzt. Was Thakerey im »Jahrmarkt des Lebens«,<lb/>
+Swift im »Gulliver« und Boz in den »Harten Zeiten« anstrebten, den<lb/>
+Mitmenschen den Spiegel vorzuhalten, damit das Zerrbild sie erschrecke<lb/>
+und sie anders mache, das erzielt Heine durch seine Bilder. Und wenn<lb/>
+               <hi rend="text-spaced">The Skatch</hi> über Phil May schrieb: »Many of them are well worth<lb/>
+the keeping, well worth the framing, and well worth the hanging. There<lb/>
+is a wealth of drawing worth framing from the pens of such men as<lb/>
+Phil May <milestone unit="3dots"/> Too much good work is just now allowed to waste <milestone unit="3dots"/>«,<lb/>
+so könnte dieses starke Lob mit demselben Rechte auch Heine gezollt<lb/>
+werden; unverdient wäre es nicht <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

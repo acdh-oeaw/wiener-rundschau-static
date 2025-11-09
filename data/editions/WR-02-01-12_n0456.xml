@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-12_n0456.xml" prev="WR-02-01-12_n0455.xml" next="WR-02-01-12_n0457.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 12, S. 456</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="12"/>
+                        <biblScope unit="page" n="n0456"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-05-01">1 5 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0414">
+                  <title level="a">Die Missachtung der Kunst</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 12</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="456" to="460"/>
+                  <idno type="fn">WR-02-01-12_n0456.xml</idno>
+                  <author ref="#wr-person-0136">Hello, Ernest</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">DIE MISSACHTUNG DER KUNST</hi>.<lb/>
+Von <rs type="person" key="">Ernest Hello</rs>.<lb/>
+Autorisirte Uebersetzung von <rs type="person" key="">Clara Theumann</rs>.</title>
+            </ab>
+            <ab>
+               <title>I.</title>
+            </ab>
+            <p>Es gibt Gefühle, für welche die Menschen leben und sterben,<lb/>
+Gefühle, die sie ernst nehmen. Dahin gehört das Gefühl für die Fa-<lb break="no"/>
+milie, ein sehr schätzenswerthes, aber sehr oft verderbtes Gefühl, dessen<lb/>
+Verderbtheit Ungeheuer hervorbringt, die vor unseren Augen empor-<lb break="no"/>
+wuchern.</p>
+            <p>Es gibt andere Gefühle, die man zu verachten pflegt. Ein Gefühl<lb/>
+verachten nenne ich aber: sich ihm hingeben und es doch nicht ernst<lb/>
+nehmen.</p>
+            <p>Von den verachteten Gefühlen citire ich die Bewunderung.</p>
+            <milestone unit="hr"/>
+            <lb/>
+            <p>Es gibt Leute, die die Bewunderung nicht kennen; sie empfanden<lb/>
+sie nie. Sie weisen sie nicht einmal zurück, es wäre ungerecht zu be-<lb break="no"/>
+haupten, dass die Todten das Leben zurückweisen. Sie sind fern von<lb/>
+ihr, und sie ist fern von ihnen, Nicht von diesen will ich sprechen.</p>
+            <p>Von jenen will ich sprechen, die bewundern und ihrer Bewunde-<lb break="no"/>
+rung die nöthige Achtung versagen.</p>
+            <p>Diese sind für das Schöne nicht ganz unempfänglich, aber ihre<lb/>
+Empfänglichkeit ist eine Beleidigung, weil sie nicht ernst ist. Man möge<lb/>
+ihnen etwas Erhabenes sagen, vorlesen, zeigen, und sie werden gerührt<lb/>
+sein: vielleicht, ja sogar sehr oft wird ihre Rührung äusserlich, lärmend,<lb/>
+wortreich, lebendig sein. Sie wird sich nach der Gewohnheit jener<lb/>
+Menschen und Dinge, die ihrer Dauer nicht sicher sind, selbst aus-<lb break="no"/>
+stellen.</p>
+            <p>Aber am nächsten Tage merkt man nichts mehr davon. Die<lb/>
+Geschäfte sind gekommen, die Bewunderung hat nicht einmal eine<lb/>
+Ruine hinter sich gelassen, um uns ihr Vorbeischreiten kund zu thun.<lb/>
+Sie hat nicht einmal das lautere Nichts, ein einfaches Vergessen hinter-<lb break="no"/>
+lassen, sie hinterliess eine Art Vergessen, das die Erinnerung nicht<lb/>
+ausschliesst und sich oft in folgenden Worten ausdrückt: Ich habe<lb/>
+diesen Künstler gehört; er hat mir Vergnügen bereitet.</p>
+            <ab>
+               <title>II.</title>
+            </ab>
+            <p>Der Mensch, der den Tag zuvor bewunderte, sagt am nächsten<lb/>
+dass man ihm Vergnügen bereitet hat. War denn seine Bewunderung<lb/>
+lügenhaft? Nein, aber es hat sich Folgendes zugetragen:</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-26_n0609.xml" prev="WR-03-02-25_n0608.xml" next="WR-03-02-26_n0610.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 26, S. 609</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="26"/>
+                        <biblScope unit="page" n="n0609"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0771">
+                  <title level="a">Zwei Sonette</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 26</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="26">26</biblScope>
+                  <biblScope unit="page" from="609" to="609"/>
+                  <idno type="fn">WR-03-02-26_n0609.xml</idno>
+                  <author ref="#wr-person-0157">d’Annunzio, Gabriele</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="strong">
+                     <rs type="person" key="">GABRIELE D’ANNUNZIO</rs>:</hi>
+                  <hi rend="strong">ZWEI SONETTE.</hi>
+               </title>
+            </ab>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>ARTIFEX GLORIOSUS.</title>
+            </ab>
+            <lg>
+               <l>Ich kann das Gold wie Benvenuto zwingen!</l>
+               <l>Mag Göttertraum, mag Menschentraum dich blenden,</l>
+               <l>Befiehl: und meinen sieggewohnten Händen</l>
+               <l>Wird das erlesenste Gefäss entspringen.</l>
+            </lg>
+            <lg>
+               <l>Soll auf dem Henkel hier den Faun ich bringen,</l>
+               <l>Zu dem Waldgötter sich und Nymphen wenden?</l>
+               <l>Soll ich dir der Titanen Schlachten spenden?</l>
+               <l>Laut lärmend wird das stumme Gold dann klingen.</l>
+            </lg>
+            <lg>
+               <l>Ein Wink! Es schreiten dir in Doppelreihe</l>
+               <l>Die Jünglinge und Jungfrau’n der Athene</l>
+               <l>Mit streng gefaltetem Gewand entgegen.</l>
+            </lg>
+            <lg>
+               <l>Kein Nass gewährt dem gold’nen Becher Weihe!</l>
+               <l>Es sei denn deines Auges reine Thräne,</l>
+               <l>Das reinste Blut, das deine Adern hegen.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>DER SITTENRICHTER.</title>
+            </ab>
+            <lg>
+               <l>Die Hecken kahl, vorbei ihr Rosentragen!</l>
+               <l>Die Kränze fort, der Becher leer, o Schrecken!</l>
+               <l>Ich trank und trank. Wer kann den Rausch entdecken,</l>
+               <l>Der fremd mir blieb? Mein Ziel war: Alles wagen!</l>
+            </lg>
+            <lg>
+               <l>„Was wirst du thun“, hör’ ich den Alten fragen,</l>
+               <l>„Soll jemand dich durch Schläge neu erwecken?</l>
+               <l>Willst du die Wangen ihm entgegenstrecken?</l>
+               <l>Strick oder Büsserhemd! Wähl’ ohne Zagen!“</l>
+            </lg>
+            <lg>
+               <l>Ich wähl’ den Strick; er wird dem Halse frommen,</l>
+               <l>Dem zwanzigjährigen! Doch, Weiser, rede:</l>
+               <l>Kann’s unbekannte Wohllust für mich geben?</l>
+            </lg>
+            <lg>
+               <l>Dann sei als letzter Lehrer angenommen,</l>
+               <l>O Alter; denn ich weiss, tief kennst du jede</l>
+               <l>Unwürd’ge Schmach in diesem Menschenleben!*</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <note type="footnote">
+               <p>* Deutsch von Walter Kaehler.</p>
+            </note>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

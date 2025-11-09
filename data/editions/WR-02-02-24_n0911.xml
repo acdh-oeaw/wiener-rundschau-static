@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-24_n0911.xml" prev="WR-02-02-24_n0910.xml" next="WR-02-02-24_n0912.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 24, S. 911</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="24"/>
+                        <biblScope unit="page" n="n0911"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-11-01">1 11 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0521">
+                  <title level="a">Die Mondscheinsonate</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 24</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="24">24</biblScope>
+                  <biblScope unit="page" from="905" to="915"/>
+                  <idno type="fn">WR-02-02-24_n0905.xml</idno>
+                  <author ref="#wr-person-0144">Wolff, Ludwig</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DIE MONDSCHEINSONATE.</fw>
+               <fw type="pn">911</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi>. Wollen Sie unseren Bund segnen, Frau Klein?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi> (gerührt). Machen Sie mein Kind glücklich, Armin,<lb/>
+wie es Sie glücklich machen wird. Rosa ist ein gutes, braves Kind —</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Rosa</hi> (verschämt). O, Mama!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi> (entschieden). — Ein gutes, braves Kind, sage ich,<lb/>
+das alles Glück verdient.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi> (überzeugend). Es wird das Streben meines ganzen<lb/>
+Lebens sein, ihr das Glück zu verschaffen, das sie verdient, Frau<lb/>
+Klein. Das schwöre ich Ihnen bei allem, was mir heilig ist.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi> (zerfliessend). Ich glaube Ihnen, Armin.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="scene-start"/>
+            <ab>
+               <title>8. <hi rend="text-spaced">Scene</hi>.</title>
+            </ab>
+            <p>Die Vorigen. — Isidor und Grete.</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Isidor</hi> (parodierend). Du kannst mich zum glücklichsten aller<lb/>
+Sterblichen machen, liebste Tante, wenn Du mir die Hand des schönsten<lb/>
+Mädchens unter der Sonne —</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Grete</hi> (verlegen und unwillig). Aber Isidor!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Isidor</hi> (fortfahrend). — Anvertrauen wolltest.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi> (überwältigt). O, das ist zu viel. Grete, Isidor,<lb/>
+wirklich? wirklich?</p>
+            <milestone unit="untyped-end"/>
+            <p>
+               <hi rend="text-spaced">Grete</hi> und <hi rend="text-spaced">Isidor</hi> (nicken mit den Köpfen).</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi>. Seid glücklich, meine Kinder, seid glücklich.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Isidor</hi> (auf Stransky zugehend). Ich habe die Ehre, Herr Stransky.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi>. Guten Abend, Herr Klein.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi> (glücklich). Aber seid doch nicht so förmlich, Ihr<lb/>
+müsst Bruderschaft trinken, Ihr werdet ja Schwäger.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Isidor</hi> (Stransky überrascht ansehend und ihm nochmals herzlich die<lb/>
+Hand schüttelnd). Ich gratuliere, Armin.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi>. Danke, Isidor.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Lisi</hi> (steckt den Kopf zur Thür herein). Darf i auftrag’n, gnä’ Frau?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi> (sich besinnend). Noch nicht. (Isidor macht ein ent-<lb break="no"/>
+muthigtes Gesicht. Lisi ab.) Ich habe noch mit Ihnen zu sprechen, lieber<lb/>
+Armin.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi>. Bitte, liebe Mama.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi> (zu den Töchtern und zu Isidor). Nicht wahr, Kinder,<lb/>
+Ihr lasst uns einen Augenblick allein?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Grete</hi> und <hi rend="text-spaced">Rosa</hi>. Aber ja, Mama. (Grete, Rosa und Isidor ab.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="scene-start"/>
+            <ab>
+               <title>9. <hi rend="text-spaced">Scene</hi>.</title>
+            </ab>
+            <p>Frau Klein. Stransky.</p>
+            <milestone unit="speech-start"/>
+            <p>Frau Klein. Nämlich, ich muss ja noch über einige Details mit<lb/>
+Ihnen reden. Bitte setzen Sie sich.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Stransky</hi> (Platz nehmend). Ich danke schön.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Klein</hi>. Wie Sie wissen, hat mein gottseliger Mann den<lb/>
+beiden Mädchen Geld hinterlassen.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

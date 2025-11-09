@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-03_n0096.xml" prev="WR-01-01-03_n0095.xml" next="WR-01-01-03_n0097.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 3, S. 96</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0096"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-15">15 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0027">
+                  <title level="a">Wunder</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="96" to="96"/>
+                  <idno type="fn">WR-01-01-03_n0096.xml</idno>
+                  <author ref="#wr-person-0017">Evers, Franz</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">GEDICHT</hi>.</title>
+            </ab>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>WUNDER.</title>
+            </ab>
+            <lg>
+               <l>
+                  <hi rend="initial">Wunderbar</hi> ist diese Nacht,</l>
+               <l>Die mich in dein Haus geladen;</l>
+               <l>Wie die fernen Wälder baden</l>
+               <l>In tiefdunkelblauer Pracht.</l>
+            </lg>
+            <lg>
+               <l>Und du hast das Fenster offen,</l>
+               <l>Dass wir alle Wunder schauen <milestone unit="3dots"/>
+               </l>
+               <l>Lass mich deinen Blicken trauen,</l>
+               <l>Halte deine Flechten offen.</l>
+            </lg>
+            <lg>
+               <l>Sieh! die Sterne glühn wie nie!</l>
+               <l>Nimm die Alabasterschale,</l>
+               <l>Reich’ sie mir zum Abendmahle —</l>
+               <l>Diese Nächte, fühlst du sie? <milestone unit="3dots"/>
+               </l>
+            </lg>
+            <lg>
+               <l>Keinen Schleier sollst du tragen;</l>
+               <l>Deine Schönheit will ich küssen,</l>
+               <l>Will sie ganz erkennen müssen</l>
+               <l>Und es dann dem Himmel sagen.</l>
+            </lg>
+            <lg>
+               <l>Gib mir Leben! gib, oh gib!</l>
+               <l>Gib mir Wein, dass ich ihn trinke.</l>
+               <l>Meine Seele hat dich lieb —</l>
+               <l>Du mein Traum, drin ich versinke.</l>
+            </lg>
+            <lg>
+               <l>O du weisst nicht, wie das ist,</l>
+               <l>Wenn ich so an dir vergehe</l>
+               <l>Und nur herrlicher erstehe,</l>
+               <l>Wie du dann mein Wunder bist.</l>
+            </lg>
+            <p>Berlin. <rs type="person" key="">Franz Evers</rs>.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

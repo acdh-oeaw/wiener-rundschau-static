@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-09_n0346.xml" prev="WR-02-01-09_n0345.xml" next="WR-02-01-09_n0347.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 9, S. 346</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="09"/>
+                        <biblScope unit="page" n="n0346"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-03-15">15 3 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0381">
+                  <title level="a">Der moderne Schicksalsroman </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 9</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="09">9</biblScope>
+                  <biblScope unit="page" from="343" to="346"/>
+                  <idno type="fn">WR-02-01-09_n0343.xml</idno>
+                  <author ref="#wr-person-0143">Hartwig, Th. J.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">346</fw>
+               <fw type="ctext">HARTWIG.</fw>
+            </fw>
+            <p rend="no-intend">Weltempfindung mit der Rührung beginnt: »Habe nun, ach <milestone unit="3dots"/>« Und<lb/>
+ein rauher Krieger, wie Wallenstein, erfüllt von weittragenden Plänen,<lb/>
+darf zur Zeit Schiller’s gefühlvoll werden: »Dich hab’ ich geliebt <milestone unit="3dots"/>«</p>
+            <p>Und Maupassant entspricht unserer geheimsten Seelenregung,<lb/>
+wenn er die Entdeckung macht, dass »das sittliche Wesen eines Jeden<lb/>
+von uns ewiglich einsam durch das ganze Leben hindurch verbleibt«.</p>
+            <p>Wir verlangen eine Vertiefung der Hauptperson als Persönlich-<lb break="no"/>
+keit, die, wie immer geartet, das Leben reicher und vielfältiger wieder-<lb break="no"/>
+spiegelt, als wir an uns zu beobachten Gelegenheit hätten. Ob die<lb/>
+raffinirte Zergliederung der Eindrücke wie bei Gabriele d’Annunzio,<lb/>
+ob die tiefe Träumerei einer Dostojewsky die entsprechende Erfüllung<lb/>
+dieser Forderung bedeutet, mag dahingestellt bleiben.</p>
+            <p>Wir benöthigen die Literatur nicht wie das Volk als geistige<lb/>
+Nothdurft, um in Mussestunden ein Leben in der Phantasie zu führen,<lb/>
+sondern als Anregung, ein wenig Phantasie in das gemeine Leben<lb/>
+hineinzutragen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

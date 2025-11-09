@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-12_n0455.xml" prev="WR-02-01-12_n0454.xml" next="WR-02-01-12_n0456.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 12, S. 455</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="12"/>
+                        <biblScope unit="page" n="n0455"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-05-01">1 5 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0413">
+                  <title level="a">Verse zum Gedächtnis eines Schauspielers</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 12</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="454" to="455"/>
+                  <idno type="fn">WR-02-01-12_n0454.xml</idno>
+                  <author ref="#wr-person-0141">Hofmannsthal, Hugo v.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">VERSE ZUM GEDÄCHTNISS EINES SCHAUSPIELERS.</fw>
+               <fw type="pn">455</fw>
+            </fw>
+            <lg>
+               <l>und sah auf uns, die wir in Häusern wohnen,</l>
+               <l>mit jenem undurchdringlich fremdem Blick</l>
+               <l>des Salamanders, der im Feuer wohnt.</l>
+            </lg>
+            <lg>
+               <l>Er war ein wilder König. Um die Hüften</l>
+               <l>trug er wie bunte Muscheln aufgereiht</l>
+               <l>die Wahrheit und die Lüge von uns Allen.</l>
+               <l>In seinen Augen flogen unsre Träume</l>
+               <l>vorüber, wie von Schaaren wilder Vögel</l>
+               <l>das Spiegelbild in einem tiefen Wasser.</l>
+            </lg>
+            <lg>
+               <l>Hier trat er her, auf eben diesen Fleck,</l>
+               <l>wo ich jetzt steh’, und wie im Tritonshorn</l>
+               <l>der Lärm des Meeres eingefangen ist,</l>
+               <l>so war in ihm die Stimme alles Lebens:</l>
+               <l>Er wurde gross. Er war der ganze Wald,</l>
+               <l>er war das Land, durch das die Strassen laufen.</l>
+               <l>Mit Augen wie die Kinder sassen wir</l>
+               <l>und sah’n an ihm hinauf wie an den Hängen</l>
+               <l>von einem grossen Berg: in seinem Mund</l>
+               <l>war eine Bucht, drin brandete das Meer.</l>
+            </lg>
+            <lg>
+               <l>Denn in ihm war etwas, das viele Thüren</l>
+               <l>aufschloss und viele Räume überflog:</l>
+               <l>Gewalt des Lebens, diese war in ihm.</l>
+               <l>Und über ihn bekam der Tod Gewalt!</l>
+               <l>Blies aus die Augen, deren inn’rer Kern</l>
+               <l>bedeckt war mit geheimnissvollen Zeichen,</l>
+               <l>erwürgte in der Kehle tausend Stimmen</l>
+               <l>und tödtete den Leib, der Glied für Glied</l>
+               <l>beladen war mit ungebornem Leben.</l>
+            </lg>
+            <lg>
+               <l>Hier stand er. Wann kommt einer, der ihm gleicht?</l>
+               <l>Ein Geist, der uns das Labyrinth der Brust</l>
+               <l>bevölkert mit verständlichen Gestalten,</l>
+               <l>Erschliesst aufs Neu’ zu schauerlicher Lust?</l>
+               <l>Die er uns gab, wir konnten sie nicht halten,</l>
+               <l>und starren nun bei seines Namens Klang</l>
+               <l>hinab den Abgrund, der sie uns verschlang.</l>
+            </lg>
+            <p>Wien. <rs type="person" key="">Hugo von Hofmannsthal</rs>.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-04_n0127.xml" prev="WR-01-01-04_n0126.xml" next="WR-01-01-04_n0128.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 4, S. 127</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="04"/>
+                        <biblScope unit="page" n="n0127"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-01-01">1 1 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0038">
+                  <title level="a">Traum</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 4</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="127" to="130"/>
+                  <idno type="fn">WR-01-01-04_n0127.xml</idno>
+                  <author ref="#wr-person-0022">Hirschfeld, Georg</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">TRAUM</hi>.*)<lb/>
+Von <rs type="person" key="">Georg Hirschfeld</rs> (Berlin).</title>
+            </ab>
+            <lg>
+               <l>
+                  <hi rend="initial">Ich</hi> kam zu Gott. Denn eine hohe Gabe</l>
+               <l>Floss seine Hand für meine Seele aus:</l>
+               <l>Ich wachte auf in meinem jungen Grabe</l>
+               <l>Und stieg an eines Engels Hand heraus.</l>
+            </lg>
+            <lg>
+               <l>Da war die Nacht in Silberbläue,</l>
+               <l>Und Sterne neigten sich so nah</l>
+               <l>Und waren mit weichen Händen da,</l>
+               <l>Die letzten Thränen aufzufangen,</l>
+               <l>Die mir vom Leben her in Augen blieben hangen.</l>
+            </lg>
+            <lg>
+               <l>Ich hatte tief gefühlt und eigen,</l>
+               <l>Ich konnte mich dem Elend neigen</l>
+               <l>Und führte es gern in den Frühling hinaus.</l>
+               <l>So hold geschaffen bist du, meine Welt,</l>
+               <l>So eigengekräftet, blumendurchhellt.</l>
+               <l>So frei für die Freiheit, Frieden, Dank</l>
+               <l>Und doch so krank</l>
+               <l>In deinem Nichtbegreifen.</l>
+               <l>Nebelstreifen</l>
+               <l>Legst du dir selber um die Stirn.</l>
+               <l>Von Geschlecht zu Geschlecht</l>
+               <l>Erbt sich ein todtes Sclavenrecht.</l>
+               <l>Viel Leichen schwimmen den Silberstrom</l>
+               <l>Allabendlich zum Frieden ein —</l>
+               <l>Die mögen alle ruhig sein</l>
+               <l>Und sprechen doch der Ruhe Hohn.</l>
+               <l>Gelebt in müder Sehnsucht nach dem Hafen,</l>
+               <l>Und in der Stunde des Erreichens eingeschlafen.</l>
+            </lg>
+            <lg>
+               <l>Der Engel, der mich weckte, war ein Kind,</l>
+               <l>Die Augen wie ein Bergsee tief,</l>
+               <l>Und freie, süsse Wonne lief</l>
+               <l>Aus seiner Hand mir in die meine,</l>
+               <l>Wie Elend küssende Himmelsreine.</l>
+            </lg>
+            <milestone unit="hr"/>
+            <note type="footnote">
+               <p>*) Der Dichter, dessen Schauspiel »Die Mütter« auch in Wien so grossen,<lb/>
+ehrlichen Beifall weckte, theilt uns mit, dass diese Verse ihr Entstehen dem<lb/>
+                  <hi rend="text-spaced">Uhdeschen</hi> Bilde »<hi rend="text-spaced">Nach kurzer Rast</hi>« verdanken.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

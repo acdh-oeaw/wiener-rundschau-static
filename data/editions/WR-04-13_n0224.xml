@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-13_n0224.xml" prev="WR-04-13_n0223.xml" next="WR-04-13_n0225.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 13, S. 224</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="13"/>
+                        <biblScope unit="page" n="n0224"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0903">
+                  <title level="a">Die platonische Liebe I.</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 13</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="222" to="224"/>
+                  <idno type="fn">WR-04-13_n0222.xml</idno>
+                  <author ref="#wr-person-0297">Neera</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0904">
+                  <title level="a">Wie gelangen wir zu einer heroischen Weltanschauung?</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 13</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="224" to="230"/>
+                  <idno type="fn">WR-04-13_n0224.xml</idno>
+                  <author ref="#wr-person-0275">Kuhlenbeck, Ludwig, Dr.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KUHLENBECK: WIE GELANGEN WIR ZU EINER HEROISCHEN WELTANSCHAUUNG?</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Die griechische Dichtung weist folgende<lb/>
+Strophe auf:</p>
+                     <milestone unit="verse-start"/>
+                     <lg>
+                        <l>Du gleichst der süßen Frucht, die hoch erhoben</l>
+                        <l>Sich röthet einsam an des Astes Ende;</l>
+                        <l>Zu äußerst an der Spitze prangt sie droben,</l>
+                        <l>Nicht überseh’n — zu hoch nur für die Hände.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>Wer weiß jene Liebe zu würdigen,<lb/>
+die für die Hände zu hoch ist? Solche<lb/>
+Liebesfälle sickern im lärmenden, äußeren<lb/>
+Leben ein und bilden einen unsicht-<lb break="no"/>
+baren, tiefen und so verdichteten Theil<lb/>
+desselben, dass nur die seltenen, mit<lb/>
+Seherkraft begabten Geister langsam gleich<lb/>
+Tauchern auf jene Gründe kommen und<lb/>
+aus den unbekannten Regionen die ver-<lb break="no"/>
+borgenen Kostbarkeiten an die allen zu-<lb break="no"/>
+gängliche Oberfläche bringen.</p>
+                     <p>An <hi rend="text-spaced">Dante</hi> mögen alle jene denken,<lb/>
+die da glauben, dass die Liebe nur in einer<lb/>
+Umarmung bestehe; und an <hi rend="text-spaced">Francesco<lb/>
+von Assisi</hi> — auch einer, der durch-<lb break="no"/>
+aus nicht »naiv« war — jenen Meister<lb/>
+der Liebe, der in Chiara seine würdige<lb/>
+Gefährtin fand. Gibt es jemanden, der<lb/>
+je den glühenden Moment ausdachte,<lb/>
+in dem das edle, bräutlich gekleidete</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Mädchen verstohlen in der süßen Früh-<lb break="no"/>
+lingsnacht der umbrischen Landschaft nach<lb/>
+Santa Maria degli Angeli zog, um das<lb/>
+Gewand ihres Freundes anzulegen und<lb/>
+die herrlichen Haare der Schere darzu-<lb break="no"/>
+bieten, die Francesco selbst in die jugend-<lb break="no"/>
+liche Haarfülle führte?</p>
+                     <p>Haben die toscanischen, mit Wein<lb/>
+bewachsenen Hügel, auf denen Boccaccio<lb/>
+Fiammetta liebte, je einen süßeren Schauer<lb/>
+gekannt als jenen, der den kleinen Garten<lb/>
+und die bleichen Schatten von San Da-<lb break="no"/>
+miano während all der Jahre durchwehte,<lb/>
+in denen Chiara dort nahe dem rein er-<lb break="no"/>
+glühenden, armen Francesco wohnte? —<lb/>
+Kommt nur nicht, um mir zu sagen,<lb/>
+dass derartige Liebe unfruchtbar und<lb/>
+daher unnütz sei! Nicht nur <hi rend="text-spaced">Kinder</hi>
+                        <lb/>
+werden gezeugt. Wenn uns diese Liebe<lb/>
+Gedichte und Heilige, Religionen und<lb/>
+neue Ideale schenkt, können wir sie wohl<lb/>
+der unüberlegten Regung vorziehen (oder<lb/>
+doch wenigstens gleichstellen), die der<lb/>
+Welt unter einigen wirklichen Menschen<lb/>
+eine unberechenbare Menge von Halb-<lb break="no"/>
+thieren beschert!</p>
+                  </cell>
+               </row>
+            </table>
+            <p>(Schluss im nächsten Heft.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>WIE GELANGEN WIR ZU EINER HEROISCHEN WELT-<lb break="no"/>
+ANSCHAUUNG?<lb/>
+Ein Beitrag zur Psychologie und Kritik der Erkenntnis als Vorwort zu weiteren gedanklichen<lb/>
+Bausteinen einer heroischen Weltanschauung.<lb/>
+Von DR. <rs type="person" key="">
+                     <hi rend="text-spaced">LUDWIG KUHLENBECK</hi>
+                  </rs> (Jena).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>In unseren Tagen ist der alte Satz:<lb/>
+»Ein Mensch sein heißt ein Kämpfer<lb/>
+sein« wohl mehr als jemals zuvor der<lb/>
+allgemeinsten Anerkennung sicher. Die<lb/>
+Lehre vom <hi rend="text-spaced">Kampf ums Dasein</hi> ist<lb/>
+sogar zu einem recht verdrießlichen Ge-<lb break="no"/>
+meinplatz entwertet, gegen dessen Miss-<lb break="no"/>
+brauch einzutreten hin und wieder größeren</p>
+                  </cell>
+                  <cell>
+                     <p>Muth erfordern mag, als es Geist zu ver-<lb break="no"/>
+rathen scheint, diesen Gemeinplatz zum<lb/>
+Ausgangspunkt denkerischer Betrachtungen<lb/>
+und Verständigungsversuche zu nehmen.<lb/>
+Denn augenscheinlich läuft das moderne<lb/>
+Geschlecht Gefahr, mit dieser Phrase einer<lb/>
+sittlichen Verrohung das Wort zu reden,<lb/>
+deren bedenkliche Folgen sich bereits auf</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

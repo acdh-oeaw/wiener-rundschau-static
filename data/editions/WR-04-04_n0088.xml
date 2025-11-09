@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-04_n0088.xml" prev="WR-04-04_n0087.xml" next="WR-04-04_n0089.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 4, S. 88</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="04"/>
+                        <biblScope unit="page" n="n0088"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0814">
+                  <title level="a">Die Philosophie des Giordano Bruno I.</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 4</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="88" to="91"/>
+                  <idno type="fn">WR-04-04_n0088.xml</idno>
+                  <author ref="#wr-person-0270">Kuhlenbeck, Ludwig</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">DIE PHILOSOPHIE DES GIORDANO BRUNO</hi>.<lb/>
+Von <rs type="person" key="">LUDWIG KUHLENBECK</rs> (Jena).<lb/>
+I.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Am <date>17. Februar d. J.</date> sind dreihundert<lb/>
+Jahre verflossen, seitdem <hi rend="text-spaced">Giordano<lb/>
+Bruno</hi> sein rastloses Leben und Streben<lb/>
+als »Fürst der Ketzer«, wie ihn die heilige<lb/>
+Inquisition bezeichnete, auf dem Campo<lb/>
+di fiori zu Rom in den Flammen des<lb/>
+Scheiterhaufens beendigt hat. Damals diente<lb/>
+dieses Autodafé zur besonderen Verherr-<lb break="no"/>
+lichung des Jubiläums, das ebenso wie zur<lb/>
+Zeit noch zahlreiche Pilger in Rom ver-<lb break="no"/>
+sammelte. Heute erhebt sich an derselben<lb/>
+Stätte sein von einem der ersten Künstler<lb/>
+Italiens, Ettore Ferrari, gegossenes, im<lb/>
+Jahre <date>1889</date> errichtetes Standbild mit der<lb/>
+Inschrift auf dem Sockel:</p>
+                     <milestone unit="dedication-start"/>
+                     <p>
+                        <hi rend="italics">A Giordano Bruno<lb/>
+Il Secolo<lb/>
+Da Lui Divinato<lb/>
+Qui Dove<lb/>
+Il Rogo Arse.</hi>*</p>
+                     <milestone unit="untyped-end"/>
+                     <p>Die Curie hat die Errichtung dieses<lb/>
+Denkmals im Jahre <date>1889</date> als eine große<lb/>
+Beleidigung empfunden. Man wird sich<lb/>
+noch der Sühnmessen erinnern, die damals<lb/>
+für die gesammte katholische Kirche<lb/>
+angeordnet wurden und den Namen dieses<lb/>
+Philosophen bis in die entlegenste Dorf-<lb break="no"/>
+kirche trugen. Umgekehrt ist der Anhänger<lb/>
+der Weltanschauung, welche Giordano<lb/>
+Bruno vertrat, durch diese Denkmals-<lb break="no"/>
+errichtung an das stille Walten der <hi rend="text-spaced">sitt</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">lichen</hi>
+                        <hi rend="text-spaced">Weltordnung</hi> erinnert worden,<lb/>
+welche jene Stätte eines unvergesslichen<lb/>
+Verbrechens auch <hi rend="text-spaced">äußerlich</hi> zu ent-<lb break="no"/>
+sühnen gedachte. Wichtiger als diese<lb/>
+äußerliche Sühne muss dem wirklichen<lb/>
+Kenner des Lebens und der Lehre jenes<lb/>
+Märtyrers der Geistesfreiheit aber die mit<lb/>
+der dritten Wiederkehr seines Gedächtnis-<lb break="no"/>
+tages von neuem an ihn herantretende<lb/>
+Aufgabe erscheinen, dem geistigen Inhalte</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">seiner Lehre diejenige Anerkennung und<lb/>
+Würdigung zu erkämpfen, die sie ver-<lb break="no"/>
+dient und die ihr bislang vielfach selbst<lb/>
+auf der Seite noch mangelt, wo man das<lb/>
+äußerliche geschichtliche Moment seines<lb/>
+Martyriums als günstige Veranlassung zur<lb/>
+Bekämpfung der immer noch bedeutenden<lb/>
+Geistesmacht, der er zum Opfer fiel, zwar<lb/>
+gerne benützt, aber über dem rein nega-<lb break="no"/>
+tiven Berührungspunkte die positiven<lb/>
+Werte vernachlässigt, für welche dieser<lb/>
+Geistesheld sein Leben einsetzte.</p>
+                     <p>Vielleicht ist der folgende Versuch<lb/>
+einer Skizze der Weltanschauung des Gior-<lb break="no"/>
+dano Bruno geeignet, die immer noch von<lb/>
+Feinden und vermeintlichen Freunden seines<lb/>
+Namens mit Schlagworten umnebelten<lb/>
+Vorstellungen von seiner Lehre in wesent-<lb break="no"/>
+lichen Punkten richtigzustellen. Eine<lb/>
+befriedigende Skizze der Grundgedanken<lb/>
+zu geben, auf denen die universelle Welt-<lb break="no"/>
+anschauung des Nolaners beruht, ist<lb/>
+schwierig — wegen <hi rend="italics">embarras de richesse</hi>.<lb/>
+Handelte es sich um ein eigentliches<lb/>
+System im modernen Sinne, so ließe sich<lb/>
+vielleicht ein Grundriss nach Art eines<lb/>
+architektonischen Entwurfes zeichnen. Aber<lb/>
+die speculative Construction, in der sich<lb/>
+nach ihm als bedeutendster Vorgänger<lb/>
+unserer deutschen Systemdichter <hi rend="italics">more<lb/>
+geometrico</hi> Spinoza versucht hat, verbot ihm<lb/>
+seine Methode oder auch, wenn man will,<lb/>
+vielmehr sein vorurtheilsloser Mangel einer<lb/>
+solchen, den er selber im <hi rend="italics">Exenbitor</hi>
+                        <lb/>
+folgendermaßen kennzeichnet: »Wen das<lb/>
+Schicksal mit guten Gaben ausgerüstet hat,<lb/>
+wer einen regsamen Geist besitzt, der<lb/>
+wird die schwierige Arbeit nicht scheuen,<lb/>
+das Licht überall aufzufangen, wo es sich<lb/>
+ergießt, der wird den gemeinen Menschen-<lb break="no"/>
+verstand einerseits und den hochmüthigen<lb/>
+Glauben andererseits als Processparteien vor<lb/>
+den Richterstuhl seiner Vernunft laden,</p>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Dem Giordano Bruno — Das von ihm vorausgeschaute Jahrhundert — Hier, wo der<lb/>
+Scheiterhaufen brannte.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

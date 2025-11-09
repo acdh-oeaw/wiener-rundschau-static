@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-01_n0004.xml" prev="WR-02-01-01_n0003.xml" next="WR-02-01-01_n0005.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 1, S. 4</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0004"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-11-15">15 11 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0301">
+                  <title level="a">Der Herbst </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="1" to="5"/>
+                  <idno type="fn">WR-02-01-01_n0001.xml</idno>
+                  <author ref="#wr-person-0049">Fuchs, Georg</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">4</fw>
+               <fw type="ctext">FUCHS.</fw>
+            </fw>
+            <lg>
+               <l>Und schon fidelt es drauss auf erleuchtetem Plan</l>
+               <l>Und tritt und schlürfet im Tanze,</l>
+               <l>Da prasselt der Wimpel, da schwählet der Span,</l>
+               <l>Da lächelt die Jungfer im Kranze.</l>
+               <l>Vom bebänderten Baume gebreitet zum Kreis,</l>
+               <l>Auf beflitterten Schnüren gezogen,</l>
+               <l>Schwingt Kürbis, Hagebutten und Mais</l>
+               <l>Mit Aepfeln und Blumen im Bogen.</l>
+               <l>Die Holde führt des Knaben Arm,</l>
+               <l>Die Sträubende zu biegen,</l>
+               <l>Er drängt sie aus dem tollen Schwarm</l>
+               <l>Mit Küssen und mit Schmiegen.</l>
+               <l>Ihr Kosen glüht von Scham und Dank,</l>
+               <l>Er trägt sie in die Grotte,</l>
+               <l>Der Gürtel springt von Hüften blank,</l>
+               <l>Er pranget gleich dem Gotte.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>Der Vater mit dem Sänger anbetend.</p>
+            <lg>
+               <l>Der du Reiz und Kraft gepaaret,</l>
+               <l>Der du alle Samen säst,</l>
+               <l>Der du der Heerden Stamm geschaaret,</l>
+               <l>Der du Brut und Keime blähst,</l>
+               <l>Der du lind im Lenze stammelst,</l>
+               <l>Rauschend dich im Regen regst,</l>
+               <l>Die Gestirne stet versammelst,</l>
+               <l>Um dein Herze warm bewegst,</l>
+               <l>Der du Blut und Blüte letzest,</l>
+               <l>Brüsten volle Tränke giessest,</l>
+               <l>Der du hoch die Sonnen setzest,</l>
+               <l>Verschwiegnen Schooss mit Lust erschliessest:</l>
+               <l>Allbewegend rollt dein Ruf;</l>
+               <l>Vor dir beben unsre Glieder,</l>
+               <l>Vor dir danken unsre Lieder,</l>
+               <l>Die dem Sohn dein Odem schuf,</l>
+               <l>Deine Wiederkunft zu künden.</l>
+               <l>Wir bringen Guss und Opfer dar:</l>
+               <l>Des Lebens Lichter zu entzünden,</l>
+               <l>Wandelst du uns Jahr um Jahr.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

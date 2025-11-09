@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-21_n0511.xml" prev="WR-03-02-21_n0510.xml" next="WR-03-02-21_n0512.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 21, S. 511</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="21"/>
+                        <biblScope unit="page" n="n0511"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0730">
+                  <title level="a">Zur Psychologie des Hellsehens</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 21</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="506" to="511"/>
+                  <idno type="fn">WR-03-02-21_n0506.xml</idno>
+                  <author ref="#wr-person-0240">Deinhard, Ludwig</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0731">
+                  <title level="a">Carl du Prel: Die Magie als Naturwissenschaft</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 21</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="511" to="512"/>
+                  <idno type="fn">WR-03-02-21_n0511.xml</idno>
+                  <author ref="#wr-person-0200">Graevell, Harald van Jostenoode</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BÜCHER.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Kenntnis des ganzen Berges weiterzu-<lb break="no"/>
+helfen. Willig vertrauen sie sich seiner<lb/>
+Führung an und lassen sich gerne belehren<lb/>
+über all das Wunderbare, das sich nun<lb/>
+in diesen erhabenen Regionen ihrem Auge<lb/>
+erschliesst <milestone unit="4dots"/> Unten aber, auf der Land-<lb break="no"/>
+strasse, wandelt die Menge bedächtig<lb/>
+weiter, und wenn die höher Gestiegenen</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">dieser hinunterrufen, es fänden sich auf<lb/>
+ihrem Bergpfade Führer und es sei da oben<lb/>
+eine wunderbare Hochgebirgs-Vegetation,<lb/>
+so glaubt ihnen kein Mensch, weil man<lb/>
+fest überzeugt ist, dass dort oben über-<lb break="no"/>
+haupt keine Pflanzen mehr fortkommen,<lb/>
+und wo sollen aus diesen Schnee- und<lb/>
+Eisregionen die Führer herkommen?</p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">BÜCHER</hi>.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="untyped-start"/>
+                     <p>
+                        <hi rend="text-spaced">Die Magie als Naturwissenschaft</hi>.<lb/>
+Von <hi rend="text-spaced">Carl du Prel</hi>. II. Jena, Coste-<lb break="no"/>
+noble <date>1899</date>. — Das neue Werk des<lb/>
+nun entschlafenen Münchener Philosophen<lb/>
+ist zur Einführung in die interessanten<lb/>
+Probleme recht geeignet. Dem Kenner<lb/>
+bietet es nichts eigentlich Neues. Du<lb/>
+Prel hat — ich weiss nicht warum — die<lb/>
+                        <hi rend="text-spaced">indische</hi> Psychologie gar nicht berück-<lb break="no"/>
+sichtigt, obgleich die <hi rend="text-spaced">Brahmanen</hi> doch<lb/>
+gewiss am tiefsten in jenes geheimnisvolle<lb/>
+Reich hinabgetaucht sind. Ohne innere<lb/>
+Selbsterfahrung kommt man aber hier<lb/>
+nicht weiter. So sind denn auch manche<lb/>
+Schlüsse du Prels nicht ganz richtig. Da<lb/>
+er von der Magie als Naturwissenschaft<lb/>
+spricht, hätte er die ganze Lehre vom<lb/>
+                        <hi rend="text-spaced">Äther</hi>, vom <hi rend="text-spaced">Astrallicht</hi>, bringen müssen.<lb/>
+Er nimmt einen »<hi rend="text-spaced">Astralkörper</hi>« an.<lb/>
+Aber dieser Astralkörper lebt in seinem<lb/>
+Elemente, wie jedes Thier in seinem ihm<lb/>
+zuträglichen Elemente existiert; sein<lb/>
+Lebenselement ist eben die Astral-Ebene.<lb/>
+Das Wesen dieses, uns mit den ge-<lb break="no"/>
+wöhnlichen Sinnen unzugänglichen Astral-<lb break="no"/>
+gebietes hätte gezeigt werden müssen.<lb/>
+Statt dessen schiebt du Prel Alles, was<lb/>
+ihm über die Sinnenwelt erhaben erscheint,<lb/>
+dem transcendentalen Unbewussten der<lb/>
+Individualseele zu. Er huldigt zu sehr<lb/>
+dem subjectiven Element und wird daher<lb/>
+dem objectiven nicht gerecht. So gut<lb/>
+aber wie mich die Sinnenwelt beeinflusst,</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">wirkt auch die Astralwelt auf mich ein,<lb/>
+nur zunächst natürlich unbewusst für mich.<lb/>
+Dass z. B. an Wallfahrtsorten Wunder<lb/>
+geschehen, liegt nicht allein an dem durch<lb/>
+die frohe Erwartung auf Heilung gestärkten<lb/>
+Glauben — wie du Prel annimmt —<lb/>
+vielmehr ist die ganze dortige Atmosphäre<lb/>
+mit »Od« getränkt, dem Fluidum der<lb/>
+frommen Personen, die dort gebetet haben.<lb/>
+Dieses Od bleibt auch an den Reliquien<lb/>
+und geweihten Gegenständen, daher ist<lb/>
+es keineswegs gleichgiltig, ob eine Reliquie<lb/>
+echt ist oder nicht. Im letzteren Falle<lb/>
+kann zwar auch durch eigene Anstrengung<lb/>
+Heilung eintreten. Aber im ersteren ist es<lb/>
+natürlich leichter. <hi rend="text-spaced">Annie Besant</hi> hat in<lb/>
+London das Weihwasser in den katholischen<lb/>
+Kirchen auf seine mystische Wirkung hin<lb/>
+untersucht und jedesmal constatieren<lb/>
+können, wie gross beim Weihen die<lb/>
+magische Kraft des jeweiligen Priesters<lb/>
+war. Ebenso hat jeder Fluch eine <hi rend="text-spaced">objec-<lb break="no"/>
+tive</hi> Wirkung. Denn er geht in das<lb/>
+Astralgebiet, und seine magischen Wellen<lb/>
+kommen nach den Gesetzen, die dort<lb/>
+herrschen und die ich hier nicht anführen<lb/>
+kann, mit Nothwendigkeit zum Ziele,<lb/>
+manchmal freilich zum grossen Schaden<lb/>
+des Fluchenden, den sie selbst oft, rück-<lb break="no"/>
+wärts eilend, treffen.</p>
+                     <p>Der Astralkörper ist auch nicht ewig,<lb/>
+wie du Prel meint. Er löst sich im Jenseits<lb/>
+allmählich auf, nachdem sich vorher schon</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

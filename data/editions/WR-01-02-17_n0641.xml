@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-17_n0641.xml" prev="WR-01-02-16_n0640.xml" next="WR-01-02-17_n0642.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 17, S. 641</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="17"/>
+                        <biblScope unit="page" n="n0641"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-07-15">15 7 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0220">
+                  <title level="a">Eine seltene Begegnung</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 17</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="17">17</biblScope>
+                  <biblScope unit="page" from="641" to="645"/>
+                  <idno type="fn">WR-01-02-17_n0641.xml</idno>
+                  <author ref="#wr-person-0086">Kromer, Heinrich Ernst</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>15. <hi rend="text-spaced">JULI</hi> 1897</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>EINE SELTENE BEGEGNUNG.<lb/>
+Von <rs type="person" key="">Heinrich Ernst Kromer</rs> (Constanz).</title>
+            </ab>
+            <p>Es dämmerte schon schwer, und gerade flammten die Bogen-<lb break="no"/>
+laternen auf, alle auf einen Schlag, als ich einsam durch eine Vorstadt<lb/>
+nach Hause wanderte, müde von einem weiten Spaziergang und voll<lb/>
+Sehnsucht, auszuruhen. Da trat an einer Strassenecke ein vornehmer<lb/>
+Herr auf mich zu und fragte mich nach dem Weg zum Hotel »Kaiser-<lb break="no"/>
+hof«. Weil ich selber in jener Richtung zu gehen hatte, lud ich ihn<lb/>
+ein, mich zu begleiten, und in der kurzen Viertelstunde, die wir neben<lb/>
+einander hergingen, lernte ich ihn als einen weitgereisten, weltgewandten<lb/>
+Mann kennen, ohne indess, dass er dies irgend absichtlich zur Schau<lb/>
+trug. Am »Kaiserhof« angekommen, verabschiedete er sich und übergab<lb/>
+mir unter höflichem Dank seine Karte mit der freundlichen Einladung<lb/>
+zugleich, ihn bei Gelegenheit zu besuchen, er halte sich — sagte er —<lb/>
+in Familiensachen einige Tage hier auf. Ich überreichte ihm gleichfalls<lb/>
+meine Karte, sagte ihm einige verbindliche Worte und empfahl mich.<lb/>
+Statt indess heimzugehen, besuchte ich noch Ein Kaffeehaus nach dem<lb/>
+andern in einer seltsamen Unruhe, die mich plötzlich befallen und<lb/>
+deren Ursache ich mir nicht erklären konnte, und kam schliesslich erst<lb/>
+gegen Mitternacht heim, mit ödem Hirn und unzufrieden mit dem<lb/>
+Tage. Beim Schlafengehen fiel mir mit einemmal der fremde Herr<lb/>
+wieder ein, und eine thörichte Neugier trieb mich, seine Karte zu lesen.<lb/>
+Warum nur? Was ging mich ein gleichgiltiger Fremder an? Aber ich<lb/>
+suchte sie hervor und sah nach dem Namen:</p>
+            <p>Dr. Ahasver, genannt der ewige Jude.</p>
+            <p>Ich wurde ärgerlich; denn zweifellos hatte ich’s mit einem<lb/>
+Schwindler zu thun, der mich für meine Gefälligkeit noch foppen wollte:<lb/>
+wenn aber nicht, dann mit einem Verrückten. Doch unterdrückte ich<lb/>
+schnell meinen Unwillen, um mir wenigstens nicht den Schlaf dadurch<lb/>
+zu verderben, und legte mich nieder mit abgestelltem Denken; allein</p>
+         </div>
+      </body>
+   </text>
+</TEI>

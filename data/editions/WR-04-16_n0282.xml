@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-16_n0282.xml" prev="WR-04-16_n0281.xml" next="WR-04-16_n0283.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 16, S. 282</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="16"/>
+                        <biblScope unit="page" n="n0282"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0930">
+                  <title level="a">Brief aus Paris</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 16</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="16">16</biblScope>
+                  <biblScope unit="page" from="279" to="282"/>
+                  <idno type="fn">WR-04-16_n0279.xml</idno>
+                  <author ref="#wr-person-0025">Panizza, Oscar</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0931">
+                  <title level="a">Die deutsche Literatur des neunzehnten Jahrhunderts</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 16</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="16">16</biblScope>
+                  <biblScope unit="page" from="282" to="285"/>
+                  <idno type="fn">WR-04-16_n0282.xml</idno>
+                  <author ref="#wr-person-0271">Drews, Arthur, Prof.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DREWS: DIE DEUTSCHE LITERATUR DES NEUNZEHNTEN JAHRHUNDERTS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>das Krächzen junger Adler: <hi rend="italics">Vive la France!</hi>
+                        <lb/>
+Auf dem ganzen Platz, bis zur <hi rend="italics">Chambre<lb/>
+des Députés</hi>, zur Seine und zum Aus-<lb break="no"/>
+stellungsthor — der eine Schrei der Ent-<lb break="no"/>
+lastung: <hi rend="italics">Vive la France!</hi>
+                        <milestone unit="5dots"/> und<lb/>
+drüben, auf der langen Rampe des <hi rend="italics">Jardin<lb/>
+des Tuileries</hi>, unter den Tausenden von<lb/>
+Schwitzenden und Erschöpften — der eine<lb/>
+Ruf, Kinder- und Damenstimmen und<lb/>
+Stimmen von Dienstmädchen: <hi rend="italics">Vive la<lb/>
+France!</hi>
+                        <milestone unit="6dots"/> wie wenn ein Hagel-<lb break="no"/>
+wetter nach wochenlanger Hitze über die<lb/>
+Felder geht, und Riesen-Schloßen prasselnd<lb/>
+unter die dürren Maiskolben und Schilf-</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">blätter fallen, so erlöste hier der eine<lb/>
+Schrei: <hi rend="italics">Vive la France!</hi> die stundenlang<lb/>
+Erschöpften und zum Stillschweigen Ge-<lb break="no"/>
+zwungenen <milestone unit="6dots"/>
+                     </p>
+                     <p>Dann zog man hinüber zur hübschen,<lb/>
+kleinen <hi rend="italics">Pucelle</hi> auf ihrem goldenen<lb/>
+Pferdchen und wiederholte dasselbe —<lb/>
+und auf dem ganzen Weg raunte und<lb/>
+flüsterte man sich zu: <hi rend="italics">Pas de discours!</hi>
+                        <lb/>
+— Keine Reden! — Nicht wahr, meine<lb/>
+Herren? <hi rend="italics">C’est entendu?</hi>
+                        <milestone unit="5dots"/>
+                     </p>
+                     <p>Das war der <date>
+                           <hi rend="italics">quatorze Juillet</hi> im<lb/>
+Jahre 1900</date>.</p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIE DEUTSCHE LITERATUR<lb/>
+DES NEUNZEHNTEN JAHRHUNDERTS.<lb/>
+Von PROF. <rs type="person" key="">ARTHUR DREWS</rs> (Karlsruhe).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Richard M. Meyer hat vor kurzem ein<lb/>
+umfangreiches Werk* herausgegeben, das<lb/>
+die deutsche Literatur des neunzehnten<lb/>
+Jahrhunderts in umfassender Weise be-<lb break="no"/>
+handelt; es bildet den dritten Band der<lb/>
+Sammlung: »Das neunzehnte Jahrhundert<lb/>
+in Deutschlands Entwicklung«. Das Buch<lb/>
+hat, soviel ich sehe, bisher mehr Verur-<lb break="no"/>
+theilung als Anerkennung gefunden. Dass<lb/>
+dabei vielfach gekränkte Autoren-Eitelkeit,<lb/>
+auch wohl ein bischen Antisemitismus,<lb/>
+sowie particularistische Abneigung gegen<lb/>
+alles, was aus Berlin kommt, mitgespielt<lb/>
+haben, das kann dem tieferen Blick nicht<lb/>
+verborgen bleiben. Gewiss, das Meyer’sche<lb/>
+Werk hat seine großen Mängel. Schon seine<lb/>
+unsystematische und willkürliche Eintheilung<lb/>
+des Stoffes nach Jahrzehnten ist höchst<lb/>
+anfechtbar und hat die schlimmsten Nach-<lb break="no"/>
+theile zur Folge. Zusammengehöriges,<lb/>
+das sich über verschiedene Jahrzehnte<lb/>
+hinaus erstreckt, wird dadurch vielfach</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">auseinandergerissen, Personen werden an-<lb break="no"/>
+einandergereiht, deren Namen man an<lb/>
+ganz anderer Stelle suchen müsste u. s. w.<lb/>
+Dazu kommt, dass das ganze Werk den<lb/>
+Eindruck des Zusammengetragenen macht.<lb/>
+Es sind Aufsätze über die verschiedenen<lb/>
+Schriftsteller, die nur nothdürftig zu einem<lb/>
+Ganzen verbunden wurden. Gesuchte Geist-<lb break="no"/>
+reichigkeiten stehen oft genug an Stelle tiefer,<lb/>
+eindringender Untersuchungen, und zahl-<lb break="no"/>
+reiche Widersprüche tragen dazu bei, das<lb/>
+Oberflächliche und Überhastete der Arbeit<lb/>
+offenbar zu machen. So wird z. B. <hi rend="text-spaced">Fontane</hi>
+                        <lb/>
+einmal »der erste consequente Realist der<lb/>
+deutschen Literatur« genannt, was bereits<lb/>
+vorher mit genau denselben Worten von<lb/>
+Georg <hi rend="text-spaced">Büchner</hi> gesagt war. Auch kann<lb/>
+man dem Werke mit Recht zum Vorwurf<lb/>
+machen, dass es die Modeansichten einer ge-<lb break="no"/>
+wissen Berliner Literaturschule mit gar zu<lb/>
+großer Treue widerspiegelt und sich nirgends<lb/>
+auf die Entdeckung von Neuland einlässt.</p>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Richard M. <hi rend="text-spaced">Meyer</hi>: »Die deutsche Literatur des XIX. Jahrhunderts«. Verlag <hi rend="text-spaced">Georg<lb/>
+Bondi</hi>. Berlin, <date>1900</date>. 966 Seiten. — Das Werk gliedert sich in zehn Capitel, die je ein Jahrzehnt<lb/>
+literarischer Entwicklung behandeln: 1800—10, 1810—20, 1820—30, 1830—40, 1840—50, 1850—60,<lb/>
+1860—70, 1870—80, 1880—90, 1890—99. Beigegeben ist eine tabellarische Übersicht (»Annalen«<lb/>
+betitelt), die (»als eine Art Repetition« gedacht) die charakteristischesten Bücher des Jahr-<lb break="no"/>
+hunderts, nach Einzeljahren geordnet, verzeichnet. Acht Vollbilder (Gottfried Keller, Annette<lb/>
+v. Droste-Hülshoff, Heinrich Heine, Fritz Reuter, Friedrich Hebbel, Theodor Fontane, Paul<lb/>
+Heyse, Gerhart Hauptmann) sind dem Texte eingefügt.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-22_n0834.xml" prev="WR-02-02-22_n0833.xml" next="WR-02-02-22_n0835.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 22, S. 834</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="22"/>
+                        <biblScope unit="page" n="n0834"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-10-01">1 10 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0504">
+                  <title level="a">Die menschliche Wahrheit über Bismarck</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 22</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="22">22</biblScope>
+                  <biblScope unit="page" from="825" to="834"/>
+                  <idno type="fn">WR-02-02-22_n0825.xml</idno>
+                  <author ref="#wr-person-0168">Bleibtreu, Karl</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">834</fw>
+               <fw type="ctext">BLEIBTREU.</fw>
+            </fw>
+            <p rend="no-intend">schämen, die derlei — übrigens <hi rend="text-spaced">auch</hi> obendrein Plagiat — als<lb/>
+Wodans-Weisheit nachlallt. Dass in seinen Briefen viel Frisches,<lb/>
+Munteres, Medisant-Humoristisches sich findet, sei nicht bestritten.<lb/>
+Dass die Mär von seiner völligen Gleichgiltigkeit gegen Poesie und<lb/>
+Kunst unwahr sei, glauben wir gern. Aber kann man sich bei ihm<lb/>
+Ähnliches auch nur vorstellen wie Napoleons Gespräche mit Goethe<lb/>
+und Wieland, mit Laplace und Monge, wobei er u. a. die Natur-<lb break="no"/>
+wissenschaftler auf die Welt des unendlich Kleinen hinwies, die<lb/>
+spätere Mikroskopforschung anregte. Für den Wissenden ist es einfach<lb/>
+eine Frechheit, den einseitigen Willensmenschen Bismarck mit dem<lb/>
+Gedankenriesen aus Corsica in einem Athem zu nennen.</p>
+            <p>(Schluss folgt.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

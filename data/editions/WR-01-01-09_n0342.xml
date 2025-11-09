@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-09_n0342.xml" prev="WR-01-01-09_n0341.xml" next="WR-01-01-09_n0343.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 9, S. 342</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="09"/>
+                        <biblScope unit="page" n="n0342"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-03-15">15 3 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0109">
+                  <title level="a">Ueber Leo Tolstoj’s Lehre</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 9</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="09">9</biblScope>
+                  <biblScope unit="page" from="337" to="342"/>
+                  <idno type="fn">WR-01-01-09_n0337.xml</idno>
+                  <author ref="#wr-person-0048">Frommel, Gaston</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">342</fw>
+               <fw type="ctext">FROMMEL.</fw>
+            </fw>
+            <p rend="no-intend">hinführend — das höchste Gut auch noch andere, vorbereitende,<lb/>
+erziehende Formen hat; dass es zwischen dem absoluten Egoismus und<lb/>
+der stricten Nächstenliebe noch Mittelstufen gibt, namentlich das Recht<lb/>
+und die Gerechtigkeit! Man könnte vielleicht annehmen, dass diese,<lb/>
+wenn auch nur transitorischen und anfechtbaren Auskunftsmittel mit<lb/>
+der Zeit verschwinden werden, muss aber doch zugeben, dass sie<lb/>
+für die noch unvollkommene Menschheit einstweilen unentbehrlich<lb/>
+sind. Die Menschheit, welche sich gegenwärtig in einem nichts weniger<lb/>
+als vollkommenen Zustande befindet, kann nicht warten, bis sie die<lb/>
+Vollkommenheit erreicht hat, welche die Vorbedingung zu einer un-<lb break="no"/>
+beschränkten Nächstenliebe ist. Es muss daher Recht und Gerechtigkeit,<lb/>
+und zwar ganz entschieden gefordert werden. Dazu bedürfen wir aber<lb/>
+eines Minimums von Zwang, dessen Anwendung ohne Gewaltmittel<lb/>
+undenkbar ist.</p>
+            <p>Muss nun unbedingt daraus geschlossen werden, dass Tolstoj sogar in<lb/>
+dieser Beziehung total im Irrthum befangen ist? Dass es unmöglich sei,<lb/>
+in einer Welt, die die definitive Form der Nächstenliebe noch nicht zu<lb/>
+realisiren vermag, eine solche absolute Forderung zu vertheidigen?<lb/>
+Dass er der gegenwärtigen Menschheit ein solch blendendes Ideal nicht<lb/>
+vorhalten durfte? <milestone unit="3dots"/> Im Gegentheile! Wir sind fest überzeugt, dass<lb/>
+nur selten ein Prophet so glücklich inspirirt war wie er. Und wenn<lb/>
+er sogar wirklich geirrt haben sollte, so täuscht er deswegen die ehr-<lb break="no"/>
+lichen Seelen dennoch nicht. Denn aus ihm spricht Einer, der grösser<lb/>
+ist als er. Wer war es doch, der zu sagen wagte: Seid vollkommen,<lb/>
+wie euer Vater im Himmel vollkommen ist! Keine Botschaft von oben<lb/>
+herab kann sowohl tröstender wie auch strenger sein als die Ver-<lb break="no"/>
+kündigung eines Ideals, das voll und ganz zwar nur vom Gewissen<lb/>
+bestätigt wird, dem dieses allein aber nicht Genüge leisten kann. Wenn<lb/>
+das Geschick des Menschen von diesem Ideal nicht getrennt werden<lb/>
+darf, so geschieht es deshalb, weil der Mensch, obschon tatsächlich<lb/>
+ein Sünder, dennoch erlösungsfähig ist und eine göttliche Bestimmung hat.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

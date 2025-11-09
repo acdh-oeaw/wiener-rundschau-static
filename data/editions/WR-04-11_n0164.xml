@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-11_n0164.xml" prev="WR-04-11_n0163.xml" next="WR-04-11_n0165.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 11, S. 164</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="11"/>
+                        <biblScope unit="page" n="n0164"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0882">
+                  <title level="a">Neu-Romantik</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 11</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="11">11</biblScope>
+                  <biblScope unit="page" from="164" to="164"/>
+                  <idno type="fn">WR-04-11_n0164.xml</idno>
+                  <author ref="#wr-person-0004">Altenberg, Peter</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>NEU-ROMANTIK.<lb/>
+Von <rs type="person" key="">PETER ALTENBERG</rs> (Wien).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Heinrich Frauenlob, Walther von der<lb/>
+Vogelweide, Hölty, Hölderlin, wo weilet<lb/>
+Ihr?!?</p>
+                     <p>Sind eure Sammet-Wamse von den<lb/>
+Schaben zerstückelt, hat eure Locken der<lb/>
+Sturm zerzaust?!?</p>
+                     <p>Hier stehe ich, Siebzehnjährige, nachts<lb/>
+am Balkone der Land-Villa, in offenem<lb/>
+Nachtgewande, bereit, meinen Haarkamm<lb/>
+hinabfallen zu lassen, dass Ihr ihn an<lb/>
+eure Lippen drücktet und voll innerer<lb/>
+Gesänge dahinwandeltet in die dunklen<lb/>
+Straßen — — —!</p>
+                     <p>Wo seid Ihr?!? Träumerische?! Von<lb/>
+uns Träumende!?</p>
+                     <milestone unit="asterisk"/>
+                     <p>Meine Herren, ich tanzte heute nach-<lb break="no"/>
+mittags auf der Wiese im alten melancholi-<lb break="no"/>
+schen Herzogs-Parke, hielt mein Kleid mit<lb/>
+beiden Händen und tanzte — — —.</p>
+                     <p>Werden Sie, bitte, davon träumen heute<lb/>
+nachts, dass ich auf der Wiese im alten<lb/>
+melancholischen Herzogs-Parke tanzte und<lb/>
+mein Kleid mit beiden Händen hielt?!?</p>
+                     <p>Will niemand heute nachts davon<lb/>
+träumen?!?</p>
+                     <p>Träumet, träumet doch davon! Traum-<lb break="no"/>
+lose!</p>
+                     <milestone unit="asterisk"/>
+                  </cell>
+                  <cell>
+                     <p>Höret, ihr Herren! Ich tanzte heute<lb/>
+nachmittags auf der Wiese im alten,<lb/>
+melancholischen Herzogs-Parke, splitter-<lb break="no"/>
+nackt; und ich hielt kein Kleid mit beiden<lb/>
+Händen, denn ich hatte keines an und<lb/>
+war nackt!</p>
+                     <p>Träumet davon! Traumlose!</p>
+                     <milestone unit="asterisk"/>
+                     <p>A, Verdammte, höret! Ich saß in<lb/>
+meiner Stube, spielte und sang Grieg-<lb break="no"/>
+Lieder. Da kam der große Hund des<lb/>
+jungen Grafen, kroch unter das Clavier,<lb/>
+unter mein Kleid und leckte meine<lb/>
+Kniee — — —</p>
+                     <p>Träumet davon!</p>
+                     <milestone unit="asterisk"/>
+                     <p>Elender, Elender! Da hast du mich<lb/>
+ganz, ganz — — —!</p>
+                     <p>Aber träume davon! Träume davon,<lb/>
+ich flehe dich an, wenigstens heute und<lb/>
+morgen nachts!</p>
+                     <milestone unit="asterisk"/>
+                     <p>Aber er träumte nicht davon, sondern<lb/>
+schlief fest und tief wie ein sattes<lb/>
+Thier — — —.</p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
+      </body>
+   </text>
+</TEI>

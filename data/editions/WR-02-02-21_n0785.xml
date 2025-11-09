@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-21_n0785.xml" prev="WR-02-02-20_n0784.xml" next="WR-02-02-21_n0786.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 21, S. 785</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="21"/>
+                        <biblScope unit="page" n="n0785"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-09-15">15 9 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0493">
+                  <title level="a">Um die Todte</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 21</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="785" to="787"/>
+                  <idno type="fn">WR-02-02-21_n0785.xml</idno>
+                  <author ref="#wr-person-0019">Christomanos, Constantin</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>15. <hi rend="text-spaced">SEPTEMBER</hi> 1898</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">UM DIE TODTE</hi>.</title>
+            </ab>
+            <p>Es fauchte der Wind aus einer Höhle, und Sie<lb/>
+erstarrte. — — Es fauchte der Moder aus einem finsteren<lb/>
+Sterne, und <hi rend="text-spaced">Sie</hi> entblätterte <milestone unit="3dots"/> »<hi rend="text-spaced">Sie</hi>!« — »<hi rend="text-spaced">Elisa-<lb break="no"/>
+beth</hi>!« Gibt es heiligere Namen im Himmel oder auf<lb/>
+Erden, als »Sie« und »Elisabeth«. War sie nicht ge-<lb break="no"/>
+kommen von den entfernten Meeren, ein Wunder allen<lb/>
+Rosen der Gärten? <milestone unit="5dots"/> O du, der heiligsten Blumenopfer<lb/>
+lichter Altar! (und alle Blumen, gehörten sie nicht mein?)<lb/>
+Ein Blitz fiel, und du versankest in den Abgrund — —<lb/>
+Höret! — er versank in der Vergangenheit unvergäng-<lb break="no"/>
+lichen Abgrund — — Psyche, Psyche! Die Blumen,<lb/>
+die deine Haare sind, deine Haare, die Veilchen und<lb/>
+Hyakinthen sind, irren auf den nächtlichen Wogen der<lb/>
+Trauer <milestone unit="3dots"/> Psyche, Psyche! Du bist selbst Welle geworden<lb/>
+— wilde Woge nächtlicher Verzweiflung, taub den eigenen<lb/>
+Seufzern, die wie Lilien den Nächten deiner Brüste ent-<lb break="no"/>
+spriessen: Nie! nie! nie! — — Hört ihr, die gebrochenen<lb/>
+Lilienseufzer aus den Nachtbrüsten der Zukunft: Nie!<lb/>
+nie! nie wieder! — — —</p>
+            <p>O Stern der Schönheit, erloschen wie ein Traum, der<lb/>
+viel zu licht war <milestone unit="3dots"/>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

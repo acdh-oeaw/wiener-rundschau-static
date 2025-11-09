@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-15_n0360.xml" prev="WR-03-02-15_n0359.xml" next="WR-03-02-15_n0361.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 15, S. 360</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="15"/>
+                        <biblScope unit="page" n="n0360"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0688">
+                  <title level="a">Aus: Sieben Nächte am mystischen Quell</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 15</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="15">15</biblScope>
+                  <biblScope unit="page" from="360" to="361"/>
+                  <idno type="fn">WR-03-02-15_n0360.xml</idno>
+                  <author ref="#wr-person-0229">Lechter, Melchior</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>AUS: SIEBEN NÄCHTE AM MYSTISCHEN QUELL.<lb/>
+VON <rs type="person" key="">MELCHIOR LECHTER</rs> (BERLIN).</title>
+            </ab>
+            <milestone unit="verse-start"/>
+            <lg>
+               <l>DIE WEISSE HAND, GESCHMÜCKT MIT</l>
+               <l>DEM GRÜNEN OPAL, RUHT WIE ENT-</l>
+               <l>SEELT AUF SAMMT: DES FARBE IST</l>
+               <l>GEHEIMNISVOLL UND VIOLETT UND</l>
+               <l>KRANK, MIT SILBERSTICKEREIN —</l>
+               <l>URALT — VERZIERT.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="verse-start"/>
+            <lg>
+               <l>TAUCHE UNTER IN DEN MYSTISCHEN BRUNNEN DEINER SEELE, SO</l>
+               <l>TIEF, BIS ÜBER DIR DER JENSEITIGE TRAUM-HIMMEL ERHABEN SICH</l>
+               <l>WÖLBT.</l>
+               <l>HIER ERST ATHMET DEIN INNERES, WAHRES WESEN FREI;</l>
+               <l>HIER WACHSEN DEINEM GEIST TAUSEND GOLDENE SCHWINGEN;</l>
+               <l>HIER GLÜHEN UM DICH DER MITTNACHT BLUTROTHE ROSEN;</l>
+               <l>HIER LODERT VON EWIGEN SCHALEN DER RAUSCH UNENDLICHER</l>
+               <l>EINSAMKEITEN BETÄUBEND EMPOR!</l>
+            </lg>
+            <lg>
+               <l>LAUSCHE ICH DEN FERNEN STIMMEN, DIE IM WELTALL NÄCHTIG</l>
+               <l>KLINGEN, HOCH VON STERNEN ZU MIR DRINGEN, ANVERTRAUEND:</l>
+               <l>TIEFSTEN SCHMERZES WELKES DUFTEN, MÜDES WEHEN, GLETSCHER-</l>
+               <l>SONNENGLEICHES GLÜHEN — UND VERSINKEN IN DES SÜSSEN LEIDES</l>
+               <l>HERBE GRUFT.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

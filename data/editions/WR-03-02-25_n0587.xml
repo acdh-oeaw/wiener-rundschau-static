@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-25_n0587.xml" prev="WR-03-02-25_n0586.xml" next="WR-03-02-25_n0588.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 25, S. 587</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="25"/>
+                        <biblScope unit="page" n="n0587"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0762">
+                  <title level="a">Lobgesang</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 25</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="25">25</biblScope>
+                  <biblScope unit="page" from="586" to="587"/>
+                  <idno type="fn">WR-03-02-25_n0586.xml</idno>
+                  <author ref="#wr-person-0246">Wickström, Victor Hugo</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">WICKSTRÖM: LOBGESANG.</fw>
+            </fw>
+            <lg>
+               <l>Gabst Du uns nicht der Liebe Entzücken in lenzlicher Zeit, da Brust an Brust</l>
+               <l>des ersten Kusses magische Macht verschämten Rausch in Seelen senkt, die sich</l>
+               <l>heimlich geschenkt?</l>
+            </lg>
+            <lg>
+               <l>Gabst Du uns nicht der Arbeit Mühe, vermengt mit der Musse winkender Rast,</l>
+               <l>des Willens stachelndes, starkes Streben, des Schlafes träumende, selige Ruhe, lieb=</l>
+               <l>liche Nacht nach thatvollem Tag?</l>
+            </lg>
+            <lg>
+               <l>Gabst Du uns nicht des Singens Gabe, der Töne Zauber, der Farben Spiel, des</l>
+               <l>Marmors Meissel, des Liedes Lyra? Gabst Du uns Kraft nicht, zum Himmel zu heben</l>
+               <l>der Kirchen Kuppeln, des Tempels Thurm?</l>
+            </lg>
+            <lg>
+               <l>Gabst Du uns nicht holdselige Träume, erfüllt von des Lebens spielender Lust,</l>
+               <l>warme Gefühle, die schwelgen in Duft, kühne Gedanken, die Tiefen ergründen, Glauben</l>
+               <l>und Sehnsucht, Hoffnung und Muth?</l>
+            </lg>
+            <lg>
+               <l>Ach, ich vermag nicht, wie ich es wünschte, die Wunder zu nennen, die tausend=</l>
+               <l>fältigen, die Du weit über die Welt verstreut als Gabe dem mürrischen Menschen=</l>
+               <l>geschlecht.</l>
+            </lg>
+            <lg>
+               <l>Undank, nur Undank in Wort und Gedanken erntest Du ein, wo Du herrlich gesät.</l>
+            </lg>
+            <lg>
+               <l>Und nun wir verschmäht Deinen Reichthum, verspottet das Schöne und Dich</l>
+               <l>geärgert mit Undank und Klage, reichst Du uns mit beglückender Hand des Todes</l>
+               <l>betäubenden, herrlichen Trank und führst nach lächelnden Auen den Weg, auf dass</l>
+               <l>wir der neuen Wunder geniessen und Dich, Du Hoher, aufs neue verdammen.*</l>
+            </lg>
+            <milestone unit="undefined"/>
+            <note type="footnote">
+               <p>* Deutsch von ELSBETH SCHERING.</p>
+            </note>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

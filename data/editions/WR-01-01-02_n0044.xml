@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-02_n0044.xml" prev="WR-01-01-02_n0043.xml" next="WR-01-01-02_n0045.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 2, S. 44</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0044"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-01">1 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0013">
+                  <title level="a">Alladine und Palomides</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="41" to="49"/>
+                  <idno type="fn">WR-01-01-02_n0041.xml</idno>
+                  <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">44</fw>
+               <fw type="ctext">MAETERLINCK.</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Ich bin nie über diese Brücke gekommen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi>.</p>
+            <p>Sie führt in den Wald. Man geht da selten hinüber.<lb/>
+Lieber macht man einen grossen Umweg. Ich glaube, man<lb/>
+fürchtet sich davor, weil die Gräben an dieser Stelle tiefer<lb/>
+sind als anderswo und weil das schwarze Wasser, das von<lb/>
+den Bergen herabstürzt, schauerlich zwischen den Mauern<lb/>
+sprudelt, ehe es sich ins Meer ergiesst. Es grollt dort immer;<lb/>
+aber die Wälle sind so hoch, dass man es kaum wahrnimmt.<lb/>
+Es ist das der verödetste Flügel des Schlosses. Aber von dieser<lb/>
+Seite hier ist der Wald schöner, älter und grösser als alle<lb/>
+Wälder, die Ihr gesehen habt. Er ist voll seltener Bäume<lb/>
+und voll wildwachsender Blumen. — Kommt Ihr?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Ich weiss nicht <milestone unit="3dots"/> Ich fürchte mich vor dem grollenden<lb/>
+Wasser.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi>.</p>
+            <p>Kommt, kommt; es grollt ohne Grund. Seht doch Euer<lb/>
+Lamm; es blickt mich an, als wollt’ es kommen <milestone unit="3dots"/> Komm’,<lb/>
+komm’ <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Ruft es nicht <milestone unit="3dots"/> Es wird entrinnen <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi>.</p>
+            <p>Komm’, komm’.</p>
+            <milestone unit="untyped-end"/>
+            <p>(Das Lamm entrinnt Alladinens Händen und kommt hüpfend zu Palomides, gleitet<lb/>
+aber auf der geneigten Fläche der Zugbrücke aus und rollt in den Graben.)</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Was hat es gethan? — Wo ist es?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi>.</p>
+            <p>Es ist ausgeglitten! Es zappelt mitten im Wirbel. Blickt<lb/>
+es nicht an. Da ist keine Hilfe.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="WR-02-01-11_n0406.xml"
+     prev="WR-02-01-11_n0405.xml"
+     next="WR-02-01-11_n0407.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 11, S. 406</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="11"/>
+                        <biblScope unit="page" n="n0406"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-04-15">15 4 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text">
+                  <author/>
+                  <title n=""/>
+                  <biblScope unit="page">-</biblScope>
+                  <idno/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page"><milestone unit="untyped-start"/><ab><title>»STUDIA LA MATEMATICA.«<lb/>
+<hi rend="text-spaced">Von <rs type="person" key="">Ernest La Jeunesse</rs></hi> (<hi rend="text-spaced">Paris</hi>).<lb/>
+Autorisirte Uebersetzung.</title></ab><p>Im Garten des Palais Royal. Da denken wir an das kleine<lb/>
+Mädchen aus der Sammlung des Herrn Frédéric Masson.1)</p><p>Es besitzt immer noch »seine grosse Jugend, seine bleiche Gesichts-<lb break="no"/>
+farbe und seine schwache Gestalt«.</p><p>Und es ist ihm kalt.</p><p>Es steht in einer Ecke des Palais Royal, von dunklem Grün<lb/>
+umgeben, in einer Ecke, wo der Stein weich erscheint.</p><p>Und das kleine Geschöpf »weiblichen Geschlechts« scheint auf<lb/>
+Jemanden zu warten.</p><p>Es kommt Jemand. Es ist kein kleiner Officier, dem sie, auf<lb/>
+seine Bitte hin, erzählen wird, auf welche Weise sie ihre Jungfrauschaft<lb/>
+verloren hat, es ist eine Frau, »ein junges Mädchen von blendender<lb/>
+Schönheit, sehr kokett und sehr flink«.</p><p>Das kleine Mädchen vom Palais Royal ist sehr traurig; es<lb/>
+friert. Und sie begrüsst höflich, fast respectvoll die schöne Dame, die<lb/>
+nicht friert.</p><p>Die schöne Dame gibt ihm seinen Gruss zurück — auf italienisch.<lb/>
+»Ihre Manchetten und ihre Halsumfassung sind mit Goldfäden besetzt,<lb/>
+welche rosafarbener Flitter ziert.«</p><p>Sie spricht.</p><p>Ich heisse Julietta, sagt sie. Ich bin die Julietta von Jean Jacques<lb/>
+Rousseau.2)</p><p>— Ich weiss nicht, wie man mich nennt, sagt das kleine Mädchen<lb/>
+aus der Sammlung des Herrn Frédéric Masson. Ich weiss, dass<lb/>
+ich sehr viel genannt werde. Und das kommt daher, weil ich an dieser<lb/>
+Stelle mit einem schwarz-gelben kleinen Officier geplaudert habe, dessen<lb/>
+Namen ich ein Jahrhundert später erfuhr. Es war Napoleon Bonaparte.</p><milestone unit="hr"/><note type="footnote">
+<p>1) In dem ersten Capitel seines »<hi rend="text-spaced">Napoleon et les Femmes</hi>« citirt<lb/>
+Frédéric Masson die Schilderung, welche der achtzehnjährige Corse von seiner<lb/>
+Begegnung mit dem »Mädchen des Palais Royal« gab. Die Anekdote ist zu be-<lb break="no"/>
+kannt, als dass näher darauf hingewiesen werden müsste. <hi rend="italics">H. A.</hi></p>
+<p>2) Rousseau spricht in dem siebenten Buch seiner »<hi rend="text-spaced">Bekenntnisse</hi>« von<lb/>
+dem Abenteuer, das er <date>1744</date> in Venedig mit dieser Julietta hatte. Sie warf ihm,<lb/>
+ihn enttäuscht zur Thüre hinauswerfend, das verächtliche: »<hi rend="text-spaced">Lascia le donne<lb/>
+e studia la maternatica</hi>«zu. Die beiden oberen in Anführungszeichen stehenden<lb/>
+Sätze sind wörtlich Rousseau’s »<hi rend="text-spaced">Bekenntnissen</hi>« entnommen. <hi rend="italics">H. A.</hi></p>
+</note></div>
+      </body>
+   </text>
+</TEI>

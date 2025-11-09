@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="WR-04-24_n0443.xml"
+     prev="WR-04-24_n0442.xml"
+     next="WR-04-24_n0444.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 24, S. 443</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="24"/>
+                        <biblScope unit="page" n="n0443"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text">
+                  <author/>
+                  <title n=""/>
+                  <biblScope unit="page">-</biblScope>
+                  <idno/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page"><milestone unit="advertisement-start"/><figure type="image">
+<p>MEYERS KONVERSATIONS-<lb break="no"/>
+LEXIKON</p>
+<p>Mehr als 147,100 Artikel u. Verweisungen.</p>
+<p><milestone unit="hr"/> <hi rend="italics">Vollständig liegt vor</hi> <milestone unit="hr"/></p>
+<p><hi rend="italics">In 6., neubearbeiteter und vermehrter Auflage:</hi></p>
+<p><hi rend="italics">17 Bände<lb/>
+in Halb-<lb break="no"/>
+leder geb.<lb/>
+je 10 Mk.</hi></p>
+<p>18,100 <hi rend="text-spaced">Seiten Text</hi>.</p>
+<p>19,500 <hi rend="text-spaced">Abbildungen</hi>.</p>
+<p><hi rend="italics">272 Hefte<lb/>
+je 50 Pf<lb/>
+17 Bändel<lb/>
+je 8 Mk</hi></p>
+<p><hi rend="italics">Probehefte und Prospekte gratis durch<lb/>
+jede Buchhandlung.</hi></p>
+<p><hi rend="italics">Verlag des Bibliographischen Institute, Leipzig.</hi></p>
+<p><hi rend="text-spaced">Mit</hi> 1088 <hi rend="text-spaced">Bildertafeln</hi> u. <hi rend="text-spaced">Kartenbeilagen</hi>.</p>
+</figure><milestone unit="untyped-end"/><milestone unit="hr"/><milestone unit="advertisement-start"/><table><row><cell>
+<p>KUNST-SALON ARTARIA &amp; CO.</p>
+<p>IN WIEN, I. KOHLMARKT 20 <milestone unit="undefined"/></p>
+</cell><cell>
+<figure type="image"/>
+</cell></row></table><table><row><cell>
+<figure type="image"/>
+</cell><cell>
+<p>GEMÄLDE — AQUARELLE <milestone unit="hr"/></p>
+<p>NEUE ORIGINAL-RADIERUNGEN <milestone unit="hr"/><lb/>
+UND LITHOGRAPHIEN <milestone unit="hr"/></p>
+<p>ALTE UND MODERNE STICHE <milestone unit="hr"/></p>
+<p>PHOTOGRAPHIEN NACH ALTEN MEISTERN <milestone unit="hr"/></p>
+</cell></row></table><milestone unit="untyped-end"/><milestone unit="hr"/><milestone unit="advertisement-start"/><p><hi rend="strong">„DIE INSEL“</hi></p><p>Illustrierte Monatsschrift</p><p>und</p><p>Vierteljahrsmappen <milestone unit="undefined"/><lb/>
+<milestone unit="undefined"/> von Original=Plattendrucken</p><milestone unit="hr"/><p>Herausgegeben von:</p><p>O. J. Bierbaum, A. W. Heymel, R. A. Schröder</p><table>
+<row><cell>Abonnements-<lb break="no"/>
+Preis
+</cell><cell>der Monatsschrift:
+</cell><cell>Mark 36
+</cell><cell>jährlich
+</cell></row>
+<row><cell>der Kunstmappen:
+</cell><cell>Mark 50
+</cell></row>
+<row><cell>des Gesammtwerkes:
+</cell><cell>Mark 75
+</cell></row>
+</table><milestone unit="hr"/><p>Erscheint bei:</p><p>Schuster und Loeffler, Verlag</p><p>Berlin S.W. 46.</p><milestone unit="untyped-end"/></div>
+      </body>
+   </text>
+</TEI>

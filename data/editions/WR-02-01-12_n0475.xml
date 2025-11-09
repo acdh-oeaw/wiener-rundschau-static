@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-12_n0475.xml" prev="WR-02-01-12_n0474.xml" next="WR-02-01-12_n0476.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 12, S. 475</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="12"/>
+                        <biblScope unit="page" n="n0475"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-05-01">1 5 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0418">
+                  <title level="a">Wiener Kunstfrühling </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 12</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="471" to="475"/>
+                  <idno type="fn">WR-02-01-12_n0471.xml</idno>
+                  <author ref="#wr-person-0122">Schoenaich, Gustav</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">WIENER KUNSTFRÜHLING.</fw>
+               <fw type="pn">475</fw>
+            </fw>
+            <p rend="no-intend">jeder Richtung vortrefflich wirkende spanische Sängerin ausgestellt.<lb/>
+»Nach dem Bade« und »Schlangen« — zwei weibliche Acte, im Freien<lb/>
+liegend dargestellt, vermögen die Erinnerung an Alfred <hi rend="text-spaced">Roll</hi>’s gleich-<lb break="no"/>
+falls ausgestelltes »Plein-air«, das denselben Stoff behandelt, nicht zu<lb/>
+verdrängen. <hi rend="text-spaced">Krämer</hi>’s »Porträt meiner Eltern« gehört durch Schlicht-<lb break="no"/>
+heit des Vortrages, Charakteristik und warme Plein-air-Wirkung zu den<lb/>
+wirklich guten Erzeugnissen der Bildnissmalerei. An seiner »Verkündi-<lb break="no"/>
+gung« stört Vieles. Das Bild ist der exacte Gegensatz zur Behandlung<lb/>
+               <hi rend="text-spaced">Uhde</hi>’s. Es mangelt ihm an Ernst und Grösse. Hier wird der er-<lb break="no"/>
+habene Stoff zum Vorwand der Geltendmachung technischer Künste.<lb/>
+Der Effect der zerstreuten Sonnenreflexe ist von den Neueren ausserdem<lb/>
+schon allzu sehr verbraucht worden. Und an der Einfalt, welche die<lb/>
+Poesie eines solchen Vorganges auslöst, mangelt es dieser Verkündi-<lb break="no"/>
+gung durchaus.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

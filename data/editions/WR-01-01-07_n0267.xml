@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-07_n0267.xml" prev="WR-01-01-07_n0266.xml" next="WR-01-01-07_n0268.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 7, S. 267</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="07"/>
+                        <biblScope unit="page" n="n0267"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-02-15">15 2 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0081">
+                  <title level="a">Haberfeldtreiben</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 7</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="261" to="267"/>
+                  <idno type="fn">WR-01-01-07_n0261.xml</idno>
+                  <author ref="#wr-person-0025">Panizza, Oscar</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">HABERFELDTREIBEN.</fw>
+               <fw type="pn">267</fw>
+            </fw>
+            <p rend="no-intend">Aufnahme. Das Geschlechtsleben wird jetzt von <hi rend="text-spaced">Origines</hi> ex Cathedra, ob<lb/>
+in oder ausser der Ehe, für sündhaft und teuflisch erklärt. Das Weib<lb/>
+wird jetzt direct eine Creatur des Teufels, eine »schöne Teufelinne«,<lb/>
+wie sie im Tannhäuserliede heisst. Sie darf nicht die Klosterschwelle<lb/>
+überschreiten. Sie darf (heute noch) nicht mit dem Papst zu Tische<lb/>
+sitzen. Nur im Stande der absoluten Jungfernschaft kann sie sich<lb/>
+einigermassen in Achtung setzen. Wollust im Geschlechtsleben ist nur<lb/>
+erlaubt, wenn die Absicht auf Nachkommenschaft dabei vorhanden ist.<lb/>
+Sonst Todsünde. Die Menschen werden belehrt, dass sie hier auf<lb/>
+Erden nichts, im Himmel Alles zu suchen haben. Die Thiere auf dem<lb/>
+Erntefelde, die dem Cult der Fruchtbarkeit gedient hatten, kommen<lb/>
+natürlich jetzt in eine klägliche Stellung. <hi rend="text-spaced">Freyrs</hi> Thier, der Bock,<lb/>
+wird zum lasterhaften Scheusal und zum Vertreter des Bösen auf<lb/>
+dem Blocksberg; und die Feder des Hahns steckt sich der Teufel selbst<lb/>
+auf den Hut. Aber so eingewurzelte Gewohnheiten und liebgewordene<lb/>
+Opferungen lassen sich nicht von heute auf morgen entfernen. Und da<lb/>
+man die Thiere — Bock, Sau, Hahn — nicht mehr ernst nehmen kann,<lb/>
+so nimmt man sie spasshaft. Und nun beginnt jenes gemeine, obscöne<lb/>
+Spiel auf dem Erntefelde mit seinen widerlichen Andeutungen und<lb/>
+schmutzigen Verstecktheiten, jene Verhöhnung aller erotischen Be-<lb break="no"/>
+ziehungen im Menschen, die zum »Haberfeldtreiben«, zur Verspottung<lb/>
+der Ehe im französischen »Charivari«, zu den tollen Aufzügen und<lb/>
+Katzenmusiken auf englischem Boden führten. Denn die reine Freude<lb/>
+am Naturgeschehen war unterbunden worden. Irgendwo aber will die<lb/>
+Natur hinaus. Und da sie nicht nach oben konnte, als Idee der Lust<lb/>
+und Freude, so ging sie nach unten und ward gemein.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

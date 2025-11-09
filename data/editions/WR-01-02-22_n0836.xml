@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-22_n0836.xml" prev="WR-01-02-22_n0835.xml" next="WR-01-02-22_n0837.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 22, S. 836</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="22"/>
+                        <biblScope unit="page" n="n0836"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-10-01">1 10 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0267">
+                  <title level="a">Selene</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 22</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="22">22</biblScope>
+                  <biblScope unit="page" from="836" to="836"/>
+                  <idno type="fn">WR-01-02-22_n0836.xml</idno>
+                  <author ref="#wr-person-0104">Schmitz Oscar A. H.</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0268">
+                  <title level="a">Zu einem Bild von Holman Hunt</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 22</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="22">22</biblScope>
+                  <biblScope unit="page" from="836" to="836"/>
+                  <idno type="fn">WR-01-02-22_n0836.xml</idno>
+                  <author ref="#wr-person-0105">Soulier, Gaston</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>ZU EINEM BILD VON HOLMAN HUNT.</title>
+            </ab>
+            <lg>
+               <l>
+                  <hi rend="initial">Sie</hi> scheint in dieser Einsamkeit zu leben</l>
+               <l>— Kaum ist der Glanz der Farbe noch verwischt —</l>
+               <l>Und ihre Ruhe leis mit Schmerz gemischt</l>
+               <l>Dem alten Schlosse immer noch zu geben.</l>
+            </lg>
+            <lg>
+               <l>Sie steht im Kleid vergangener Jahrzehnte</l>
+               <l>Auf der Terrasse die den Thurm umschliesst</l>
+               <l>Als ob im Dämmern, wenn die Form zerfiiesst</l>
+               <l>Sie noch der Wolken fernes Weiss ersehnte.</l>
+            </lg>
+            <lg>
+               <l>In blindgewordnen Spiegeln schimmert wieder</l>
+               <l>Der Hochmuth um die Lippen die stets schweigen</l>
+               <l>Und die verhehlte Traurigkeit der Lider.</l>
+            </lg>
+            <lg>
+               <l>Durch gothische Bogenfenster langsam steigen</l>
+               <l>Die letzten Lichter nieder und umziehn</l>
+               <l>Das Bild mit einem Schein, grau und carmin.</l>
+            </lg>
+            <p>Paris. <rs type="person" key="">Gaston Soulier</rs>.</p>
+            <p>Deutsch von <rs type="person" key="">F. R.</rs>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>SELENE.</title>
+            </ab>
+            <lg>
+               <l>
+                  <hi rend="initial">Darf</hi> ich Freundin dich und Schwester nennen,</l>
+               <l>Die des Nachts dem Wolkenbett entflieht,</l>
+               <l>Wenn die Glieder in den Linnen brennen,</l>
+               <l>Dass es mich zu deinem Lichte zieht?</l>
+            </lg>
+            <lg>
+               <l>Denn ich ward gezeugt in deinem Scheine,</l>
+               <l>Fremd mir selbst, in wandelbarem Sinn,</l>
+               <l>Dass ich ewig nach dem Lande weine,</l>
+               <l>Dessen Bläue ich am fernsten bin.</l>
+            </lg>
+            <lg>
+               <l>Dass ich mich in stetem Sehnen wiege,</l>
+               <l>Ohne Heim und überall ein Gast,</l>
+               <l>Dass ich mich wie eine Weide biege,</l>
+               <l>Die ein abendlicher Schauer fasst.</l>
+            </lg>
+            <lg>
+               <l>Und ich spiegle mich in allen Quellen,</l>
+               <l>Und ich lausche mein in jedem Hain,</l>
+               <l>Meine Sehnsucht fliesst in allen Wellen,</l>
+               <l>Meine Ohnmacht schläft in jedem Stein.</l>
+            </lg>
+            <lg>
+               <l>Wenn ich Abends auf die Höhen steige,</l>
+               <l>Harrend deinem bleichen Trost im Traum,</l>
+               <l>Ist’s, als ob das nahe Leben schweige,</l>
+               <l>Ob ein todter Vogel fiel vom Baum.</l>
+            </lg>
+            <p>Paris. <rs type="person" key="">Oscar A. H. Schmitz</rs>.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

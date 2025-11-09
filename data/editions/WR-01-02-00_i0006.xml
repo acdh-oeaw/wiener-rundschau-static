@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="WR-01-02-00_i0006.xml"
+     prev="WR-01-02-00_i0005.xml"
+     next="WR-01-02-13_n0481.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Inhalt S. 6</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="00"/>
+                        <biblScope unit="page" n="i0006"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-01-01">1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text">
+                  <author/>
+                  <title n=""/>
+                  <biblScope unit="page">-</biblScope>
+                  <idno/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page"><fw type="hd"><fw type="ctext">INHALTS-VERZEICHNISS.</fw></fw><table>
+<row><cell><hi rend="text-spaced">panski</hi>, »Srebrne noce« Nr. <hi rend="strong">13,</hi> S. 519; <hi rend="text-spaced">Wassermann</hi>, »Die Juden von Zirn-
+dorf« Nr. <hi rend="strong">19,</hi> S. 751; <hi rend="text-spaced">Wedekind</hi>, »Die Fürstin Russalka« Nr. <hi rend="strong">20,</hi> S. 792;
+<hi rend="text-spaced">Wendriner</hi>, »Föhn« Nr. <hi rend="strong">22,</hi> S. 864; »Horatius travestitus« Nr. <hi rend="strong">13,</hi> S. 518;
+»Die Reden Kaiser Wilhelms II.« Nr. <hi rend="strong">20,</hi> S. 791; »Das Wiener Barreau«
+Nr. <hi rend="strong">18,</hi> S. 714.
+</cell></row>
+<row><cell><ab><title><hi rend="strong">Kunst.</hi></title></ab>
+</cell></row>
+<row><cell>Edmund Hellmer’s Marmorbrunnen Nr. <hi rend="strong">15,</hi> S. 557; Unsere Kunstkritik Nr. <hi rend="strong">18,</hi>
+S. 715; Secession Nr. <hi rend="strong">15,</hi> S. 559; Slevogt Nr. <hi rend="strong">24,</hi> S. 943.
+</cell></row>
+<row><cell><ab><title><hi rend="strong">Vorträge.</hi></title></ab>
+</cell></row>
+<row><cell>Calderon <milestone unit="dots"/>
+</cell><cell>Nr. <hi rend="strong">15,</hi> S. 597
+</cell></row>
+<row><cell><ab><title><hi rend="strong">Diverse Notizen.</hi></title></ab>
+</cell></row>
+<row><cell>Die Budapester Theaterscandale <milestone unit="dots"/>
+</cell><cell>Nr. <hi rend="strong">15,</hi> S. 600
+</cell></row>
+<row><cell>Director Emerich v. Bukovics <milestone unit="dots"/>
+</cell><cell>Nr. <hi rend="strong">22,</hi> S. 863
+</cell></row>
+<row><cell>Vincenz Chiavacci — entdeckt <milestone unit="dots"/>
+</cell><cell>Nr. <hi rend="strong">15,</hi> S. 559
+</cell></row>
+</table><milestone unit="untyped-end"/><milestone unit="hr"/></div>
+      </body>
+   </text>
+</TEI>

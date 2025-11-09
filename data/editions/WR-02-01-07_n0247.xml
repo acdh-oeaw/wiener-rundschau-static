@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-07_n0247.xml" prev="WR-02-01-07_n0246.xml" next="WR-02-01-07_n0248.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 7, S. 247</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="07"/>
+                        <biblScope unit="page" n="n0247"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-02-15">15 2 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0355">
+                  <title level="a">Der Bär </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 7</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="241" to="253"/>
+                  <idno type="fn">WR-02-01-07_n0241.xml</idno>
+                  <author ref="#wr-person-0135">Tschechow, Anton</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DER BÄR.</fw>
+               <fw type="pn">247</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Ich sagte ja in russischer Sprache, dass ich<lb/>
+augenblicklich kein übriges Geld habe, und dass Sie bis übermorgen<lb/>
+warten sollen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Ich hatte gleichfalls die Ehre, Ihnen in russischer<lb/>
+Sprache zu sagen, dass ich das Geld nicht übermorgen, sondern heute<lb/>
+nöthig habe. Wenn Sie heute nicht zahlen, so muss ich mich morgen<lb/>
+erhängen <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Was soll ich aber thun, wenn ich kein Geld<lb/>
+habe? Wie komisch!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Sie wollen also augenblicklich nicht zahlen? Nein?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Ich kann nicht <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Dann bleibe ich hier und werde so lange sitzen,<lb/>
+bis ich das Verlangte erhalte <milestone unit="3dots"/> (Setzt sich.) Sie wollen übermorgen<lb/>
+zahlen? Ausgezeichnet! Ich werde bis übermorgen sitzen. Ich werde<lb/>
+ganz einfach so dasitzen <milestone unit="3dots"/> (Springt auf). Ich frage sie bloss: muss ich<lb/>
+morgen Zinsen entrichten oder nicht? <milestone unit="3dots"/> Oder glauben Sie, dass ich<lb/>
+scherze?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Mein Herr, ich bitte Sie, nicht zu schreien!<lb/>
+Hier ist ja kein Stall!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Ich frage Sie nicht, ob hier ein Stall ist, sondern<lb/>
+ob ich morgen Zinsen entrichten soll oder nicht?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Sie verstehen es nicht, sich in Damengesell-<lb break="no"/>
+schaft zu benehmen!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Nein, ich verstehe es wohl, mich in Damengesell-<lb break="no"/>
+schaft zu benehmen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Nein, Sie verstehen es nicht! Sie sind ein<lb/>
+schlecht erzogener, roher Mensch! Anständige Leute sprechen nicht so<lb/>
+mit Damen!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Ach, merkwürdig! Wie soll ich denn mit Ihnen<lb/>
+reden? Französisch? (Boshaft lispelnd.) Madame, je vous prie <milestone unit="3dots"/> wie<lb/>
+glücklich bin ich, dass Sie mir kein Geld geben <milestone unit="3dots"/> Ach, pardon, dass<lb/>
+ich Sie belästigt habe! Das Wetter ist heute so schön! Und diese<lb/>
+Trauerkleider kleiden Sie herrlich! (Macht einen Kratzfuss.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Frau Popowa</hi>. Das ist nicht geistreich, sondern grob!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi> (neckend). Nicht geistreich, sondern grob! In Damen-<lb break="no"/>
+gesellschaft versteh’ ich mich nicht zu benehmen! Gnädige Frau, in<lb/>
+meinem Leben habe ich mehr Frauen gesehen, als Sie Sperlinge!<lb/>
+Dreimal habe ich mich der Frauen wegen duellirt, zwölf Frauen habe<lb/>
+ich verlassen, neun sind mir untreu geworden! Ja, wohl! Es gab eine<lb/>
+Zeit, wo ich den Narren spielte, Honig im Munde führte, mit Compli-<lb break="no"/>
+menten um mich warf: Kratzfüsse machte <milestone unit="3dots"/> Ich litt Liebesqualen,<lb/>
+seufzte angesichts des Mondes, zerfloss in Wehmuth <milestone unit="3dots"/> Ich liebte<lb/>
+leidenschaftlich, wahnsinnig, auf alle möglichen Arten, schwatzte wie<lb/>
+eine Elster von Emancipation, verschwendete dank diesen süssen Ge-<lb break="no"/>
+fühlen mein halbes Vermögen, aber jetzt — hol’ mich der Henker —<lb/>
+hat’s ein Ende. Jetzt lass’ ich mich von Euch nicht anführen! Genug<lb/>
+damit! Schwarze Augen, feurige Augen, Purpurlippen, Wangengrübchen,</p>
+         </div>
+      </body>
+   </text>
+</TEI>

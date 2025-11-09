@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-10_n0235.xml" prev="WR-03-01-10_n0234.xml" next="WR-03-01-10_n0236.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 10, S. 235</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="10"/>
+                        <biblScope unit="page" n="n0235"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0627">
+                  <title level="a">Zur Nacht</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 10</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="235" to="235"/>
+                  <idno type="fn">WR-03-01-10_n0235.xml</idno>
+                  <author ref="#wr-person-0209">Puttkamer, Alberta von</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">ZUR NACHT</hi>.</title>
+            </ab>
+            <lg>
+               <l>Auf den blühenden Kastanienzweigen</l>
+               <l>Liegt das mitternächt’ge grosse Schweigen.</l>
+            </lg>
+            <lg>
+               <l>Und der Tag mit allen seinen Stunden</l>
+               <l>Hat zur Ewigkeit zurückgefunden.</l>
+            </lg>
+            <lg>
+               <l>Und die Zeit entrollt die finstern Falten</l>
+               <l>Ihres Mantels, den die Sterne halten.</l>
+            </lg>
+            <lg>
+               <l>»Sag, was hast Du, Heilige, geborgen?</l>
+               <l>»Sind es Seligkeiten? Sind es Sorgen?«</l>
+            </lg>
+            <lg>
+               <l>Doch sie schweigt und wandert in die Weiten —</l>
+               <l>Jeder Schritt wird zu Vergangenheiten <milestone unit="3dots"/>
+               </l>
+            </lg>
+            <lg>
+               <l>Aber es erwacht wie süsses Reden,</l>
+               <l>Wie Geheimes aus verschlossnem Eden;</l>
+            </lg>
+            <lg>
+               <l>Aus den blühenden Kastanienzweigen</l>
+               <l>Weht der Wind hinweg das grosse Schweigen;</l>
+            </lg>
+            <lg>
+               <l>Und er redet: »Die da blühn und leben,</l>
+               <l>»Sollen sich dem Gegenwärt’gen geben.</l>
+            </lg>
+            <lg>
+               <l>»Und die Flammen, die in Seelen glühen,</l>
+               <l>»Sollen nicht verlodern, nicht versprühen;</l>
+            </lg>
+            <lg>
+               <l>»Folgen sollen sie dem Lebenswerben:</l>
+               <l>»Denn im <hi rend="text-spaced">Unterlassen</hi> liegt das <hi rend="text-spaced">Sterben</hi>!«</l>
+            </lg>
+            <p>Strassburg. <rs type="person" key="">ALBERTA von PUTTKAMER</rs>.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

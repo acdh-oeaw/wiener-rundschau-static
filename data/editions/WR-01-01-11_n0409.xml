@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-11_n0409.xml" prev="WR-01-01-11_n0408.xml" next="WR-01-01-11_n0410.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 11, S. 409</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="11"/>
+                        <biblScope unit="page" n="n0409"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-04-15">15 4 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0132">
+                  <title level="a">Der Freund der Logik</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 11</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="11">11</biblScope>
+                  <biblScope unit="page" from="405" to="409"/>
+                  <idno type="fn">WR-01-01-11_n0405.xml</idno>
+                  <author ref="#wr-person-0055">Leblanc, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DER FREUND DER LOGIK.</fw>
+               <fw type="pn">409</fw>
+            </fw>
+            <p rend="no-intend">ein sicheres Mittel, ihn zu erhellen! Ich gab dem Regungslosen Zeit<lb/>
+wieder zu sich zu kommen, und sagte:</p>
+            <p>»Auf drei schiesse ich <milestone unit="3dots"/>«</p>
+            <p>Und ich zählte:</p>
+            <p>»Eins <milestone unit="3dots"/> Zwei <milestone unit="3dots"/>«</p>
+            <p>Er bewegte sich nicht. Mich erfasste die stürmische Freude, die<lb/>
+einen guten Schützen gegenüber einem hübschen, lockenden Ziel ergreift.<lb/>
+Wie unterhaltend das war!</p>
+            <ab type="catchall">»</ab>
+            <milestone unit="3dots"/>
+            <ab type="catchall">drei</ab>
+            <milestone unit="3dots"/>
+            <ab type="catchall">«</ab>
+            <lb/>
+            <p>Ein ganz kleines Loch, in der Mitte der Stirne ein Bluts-<lb break="no"/>
+tröpfchen <milestone unit="3dots"/> Ah, diesesmal, mein guter Herr, diesesmal war doch<lb/>
+etwas daran! Nichtsdestoweniger setzte ich mein Thun fort. Und<lb/>
+ich zählte:</p>
+            <p>»Eins <milestone unit="3dots"/> zwei <milestone unit="3dots"/> drei <milestone unit="3dots"/>«</p>
+            <p>Das rechte Auge ging drauf, dann das linke, zuletzt zerschmetterte<lb/>
+ich ihm das Kinn. Die Logik nahm Rache <milestone unit="3dots"/> Und was für eine<lb/>
+Rache! <milestone unit="3dots"/> Welch herrliche Rolle als Rächer der Bedrängten <milestone unit="3dots"/> Ich<lb/>
+war bewundernswerth; hoch aufgerichtet, die Pistole in der Hand <milestone unit="3dots"/>
+               <lb/>
+Und er, er <milestone unit="3dots"/> ein schauerlicher Klumpen <milestone unit="3dots"/> er, gerade noch so<lb/>
+schön <milestone unit="3dots"/> ein jämmerlicher Brei <milestone unit="3dots"/> Ach, endlich hatte ich ihn wirklich<lb/>
+getödtet, den Todten <milestone unit="3dots"/> und <hi rend="text-spaced">ich</hi> bin es, der ihn getödtet hat! <milestone unit="3dots"/>
+            </p>
+            <p>
+               <rs type="person" key="">
+                  <hi rend="italics">A. N.</hi>
+               </rs>
+            </p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

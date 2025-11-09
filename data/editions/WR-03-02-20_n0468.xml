@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-20_n0468.xml" prev="WR-03-02-20_n0467.xml" next="WR-03-02-20_n0469.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 20, S. 468</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="20"/>
+                        <biblScope unit="page" n="n0468"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0716">
+                  <title level="a">Laus Veneris I.</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 20</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="20">20</biblScope>
+                  <biblScope unit="page" from="465" to="468"/>
+                  <idno type="fn">WR-03-02-20_n0465.xml</idno>
+                  <author ref="#wr-person-0228">Swinburne, Algernon Charles</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">SWINBURNE: LAUS VENERIS.</fw>
+            </fw>
+            <lg>
+               <l>Nein, nicht wie sie — wie ihrer Buhler Schar</l>
+               <l>Der Vorzeit, deren Los Verdammnis war,</l>
+               <l>Die plötzlich, eingewiegt von ihrem Kuss,</l>
+               <l>Die Nattern zischen hörten durch ihr Haar.</l>
+            </lg>
+            <lg>
+               <l>Sie düngt mit Blut das Wurzelwerk der Zeit</l>
+               <l>In jenem Hain, der ihrem Dienst geweiht,</l>
+               <l>Und erntet tausendfältigen Genuss</l>
+               <l>Aus tausendfältger Qual und Bitterkeit.</l>
+            </lg>
+            <lg>
+               <l>Sie trägt um Hals und Haar in Scharlachglut</l>
+               <l>Rubinenschnüre aus krystallnem Blut</l>
+               <l>Und stampft die Kelter ohne Unterlass,</l>
+               <l>Durch die das Leben fliesst als ihr Tribut.</l>
+            </lg>
+            <lg>
+               <l>Ihr Thorweg dampft von Weihrauch und Geschwel</l>
+               <l>Der Seufzer und Begierden geil und fehl.</l>
+               <l>Ihr Vorhof widerhallt vom Übermaass</l>
+               <l>Der Schwüre, die einander gram und scheel.</l>
+            </lg>
+            <lg>
+               <l>Um ihre Lagerstätten klingt Geschwirr</l>
+               <l>Von Weinen und Gelächter wild und wirr,</l>
+               <l>Zu ihren Füssen windet sich im Krampf</l>
+               <l>Die Liebe ohne Lohn, verstört und irr.</l>
+            </lg>
+            <lg>
+               <l>Der Held Adonis fiel durch ihre Hand;</l>
+               <l>Mit einem Strang aus Blut und Sehnen band</l>
+               <l>Sie ihn an Leib und Seele, bis im Kampf</l>
+               <l>Sie Nerv um Nerv den Starken überwand.</l>
+            </lg>
+            <lg>
+               <l>Ja, alle schlägt sie in der Manneskraft.</l>
+               <l>Nur mich, mit tausendfachem Fluch gestraft,</l>
+               <l>Mich Satten, nicht zu Sättigenden löst</l>
+               <l>Nicht Zeit, nicht Ewigkeit aus ihrer Haft.</l>
+            </lg>
+            <lg>
+               <l>O, Deine Schönheit! Bitter meinem Mund</l>
+               <l>Ist ihr Geschmack. Mein Herz ist siech und wund,</l>
+               <l>Als wäre jeder Nerv daran entblösst</l>
+               <l>Und aufgewühlt, wie Wasser, bis zum Grund.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <p>(Des Gedichtes zweiter Theil folgt.)</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

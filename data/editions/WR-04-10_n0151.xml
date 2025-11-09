@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-10_n0151.xml" prev="WR-04-10_n0150.xml" next="WR-04-10_n0152.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 10, S. 151</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="10"/>
+                        <biblScope unit="page" n="n0151"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0868">
+                  <title level="a">Les Muses quittent Apollon</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 10</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="133" to="156"/>
+                  <idno type="fn">WR-04-10_n0133.xml</idno>
+                  <author ref="#wr-person-0285">Moreau, Gustave</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0873">
+                  <title level="a">Zur Geschichte der Passionsspiele</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 10</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="147" to="151"/>
+                  <idno type="fn">WR-04-10_n0147.xml</idno>
+                  <author ref="#wr-person-0244">Thomassin, Carl von</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">THOMASSIN: ZUR GESCHICHTE DER PASSIONSSPIELE.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Am Ende des XVI. Jahrhunderts machte<lb/>
+sich das weltliche Drama neben dem<lb/>
+geistlichen geltend, das immer mehr<lb/>
+zurückgedrängt wurde. In Spanien er-<lb break="no"/>
+reichte das letztere in den Schöpfungen<lb/>
+eines <hi rend="text-spaced">Lope</hi> de Vega und <hi rend="text-spaced">Calderon</hi>
+                        <lb/>
+de la Barca seinen Höhepunkt. Im katho-<lb break="no"/>
+lischen Deutschland erhielten sich die<lb/>
+Passionsspicle noch in verschiedenen<lb/>
+Gegenden, namentlich in den abge-<lb break="no"/>
+schloßenen Gebirgtsthälern in Baiern und<lb/>
+Oesterreich. Am Ende des XVIII. Jahr-<lb break="no"/>
+hunderts, während der Aufklärungsperiode,<lb/>
+wurde deren Aufführung allerorts ver-<lb break="no"/>
+boten. Jedoch erhielten sich noch einige<lb/>
+Spiele bis in unsere Zeit. Nur hat man<lb/>
+sich bemüht, die anstößigen Teufels-<lb/>
+und Judenscenen aus denselben zu be-<lb break="no"/>
+seitigen. Von diesen noch vorhandenen<lb/>
+Spielen ist das berühmteste das <hi rend="text-spaced">Ober</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">ammergauer</hi> Passionsspiel. Bekannt<lb/>
+ist auch das Passionsspiel von <hi rend="text-spaced">Brix</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">legg</hi>. In den letzten Jahren führte<lb/>
+man auch ein solches in <hi rend="text-spaced">Stieldorf</hi>
+                        <lb/>
+in der Rheinprovinz auf. Besonders<lb/>
+beliebt scheinen in neuerer Zeit die geist-<lb break="no"/>
+lichen Spiele in Süditalien und Sicilien<lb/>
+zu werden. Über dieselben hat Th. <hi rend="text-spaced">Trede</hi>
+                        <lb/>
+in seinem Werke »Das geistliche Schau-<lb break="no"/>
+spiel in Süditalien« berichtet. — Die<lb/>
+Benediktiner, welche bekanntlich den<lb/>
+altlithurgischen Gottesdienst zu fördern<lb/>
+suchen, haben im Jahre <date>1897</date>, am<lb/>
+weissen Sonntag, in der Kirche ihrer<lb/>
+Abtei Emmaus in <hi rend="text-spaced">Prag</hi> ein altes lithur-<lb break="no"/>
+gisches Osterspiel zur Darstellung gebracht.<lb/>
+Dieser Versuch, das alte lithurgische Drama<lb/>
+in den Kirchen wieder einzuführen, hat<lb/>
+grosses Aufsehen erregt, und man wird<lb/>
+auch die weiteren Bemühungen der be-<lb break="no"/>
+rühmten Benediktiner in dieser Hinsicht<lb/>
+mit Interesse verfolgen, wenn man auch</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">sehr bezweifeln muss, ob solche Spiele<lb/>
+noch im XX. Jahrhundert ein künst-<lb break="no"/>
+lerisches oder auch nur religiöses Be-<lb break="no"/>
+dürfnis sind.</p>
+                     <milestone unit="asterismDown"/>
+                     <p>
+                        <hi rend="text-spaced">Litteratur</hi>: F. J. <hi rend="text-spaced">Mone</hi>, Altdeutsche<lb/>
+Schauspiele, Quedlinburg, <date>1841</date>; Schauspiele<lb/>
+des Mittelalters, Carlsruhe, <date>1846</date>, 2 Bde.; H.<lb/>
+                        <hi rend="text-spaced">Alt</hi>, Theater und Kirche in ihrem gegensei-<lb break="no"/>
+tigen Verhältnis historisch dargestellt. Berlin,<lb/>
+                        <date>1846</date>. Ph. E. <hi rend="text-spaced">Devrient</hi>, Geschichte der<lb/>
+deutschen Schauspielkunst I., Leipzig, <date>1848</date>.<lb/>
+                        <hi rend="text-spaced">Pichler</hi>, Ueber das Drama des Mittelalters<lb/>
+in Tirol. Innsbruck, <date>1850</date>. Carl <hi rend="text-spaced">Hase</hi>, Das<lb/>
+geistliche Schauspiel, geschichtliche Uebersicht,<lb/>
+Leipzig, <date>1858</date>. <hi rend="text-spaced">Clarus</hi>, Das Passionsspiel in<lb/>
+Oberammergau, 2. Aufl., München, <date>1866</date>. E. de<lb/>
+                        <hi rend="text-spaced">Coussemaker</hi>, <hi rend="italics">Drames liturgiques du moyen<lb/>
+âge.</hi> Paris, <date>1861</date>. H. <hi rend="text-spaced">Holland</hi>, Die Entwick-<lb break="no"/>
+lung des deutschen Theaters im Mittelalter und<lb/>
+das Ammergauer Passionsspiel. München, <date>1861</date>.<lb/>
+Heinrich <hi rend="text-spaced">Reidt</hi>, Das geistliche Schauspiel des<lb/>
+Mittelalters in Deutschland, Frankfurt a. M.,<lb/>
+                        <date>1868</date>. E. <hi rend="text-spaced">Wilken</hi>, Geschichte der geist-<lb break="no"/>
+lichen Spiele in Deutschland, Göttingen <date>1872</date>.<lb/>
+Ueber die kritische Behandlung der geistlichen<lb/>
+Spiele, <date>1873</date>. <hi rend="text-spaced">Callenberg</hi>, Das geistliche<lb/>
+Schauspiel des Mittelalters (Programm), Mühl-<lb break="no"/>
+hausen in Th. <date>1875</date>. Carl <hi rend="text-spaced">Weinhold</hi>, Weih-<lb break="no"/>
+nachtsspiele und Lieder, neue Auflage. Wien,<lb/>
+                        <date>1875</date>. Gustav <hi rend="text-spaced">Milchsack</hi>, die Oster- und<lb/>
+Passionsspiele I., Wolfenbüttel, <date>1886</date>. Léon<lb/>
+                        <hi rend="text-spaced">Gautier</hi>, <hi rend="italics">Histoire de la poésie liturgique<lb/>
+au moyen âge. Les tropes.</hi> I. Paris, <date>1886</date>.<lb/>
+J. <hi rend="text-spaced">Fehr</hi>, Das religiöse Schauspiel des Mittel-<lb break="no"/>
+alters, <date>1887</date> (Frankfurter zeitgemäße Brochüren.<lb/>
+VIII). Karl <hi rend="text-spaced">Lange</hi>, Die lateinischen Oster-<lb break="no"/>
+feiern. München, <date>1887</date>. W. <hi rend="text-spaced">Creizenach</hi>,<lb/>
+Geschichte der neueren Dramas. I., Halle a. S.,<lb/>
+                        <date>1893</date>. <hi rend="text-spaced">Bahlmann</hi>, Die lateinischen Dramen<lb/>
+von Wimpheling’s Stylpho (<date>1480</date>) bis zur Mitte<lb/>
+des XVI. Jahrhunderts. Münster, <date>1893</date>. Alfred<lb/>
+                        <hi rend="text-spaced">Hauffen</hi>, Über das Höritzer Passionsspiel<lb/>
+(Sammlung gemeinnütziger Vorträge. Nr. 192),<lb/>
+Prag, <date>1894</date>. Paul <hi rend="text-spaced">Weber</hi>, Geistliches Schau-<lb break="no"/>
+spiel und christliche Kunst. Stuttgart, <date>1894</date>
+                        <lb/>
+(Diss.) R. <hi rend="text-spaced">Heinzel</hi>, Beschreibung des geist-<lb break="no"/>
+lichen Schauspiels im deutschen Mittelalter.<lb/>
+Hamburg und Leipzig, <date>1898</date>.</p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
+      </body>
+   </text>
+</TEI>

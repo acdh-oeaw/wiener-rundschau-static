@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-01_n0001.xml" prev="WR-03-01-00_i0006.xml" next="WR-03-01-01_n0002.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 1, S. 1</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0001"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0529">
+                  <title level="a">Leitwort zum dritten Jahrgang</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="1" to="1"/>
+                  <idno type="fn">WR-03-01-01_n0001.xml</idno>
+                  <author ref="#wr-person-0170">Wiener Rundschau</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="preface-start"/>
+            <p>Wir könnten es uns füglich schenken, dem dritten Jahrgange<lb/>
+dieses Blattes ein geleitendes Wort voraufzuschicken, welches<lb/>
+wahrlich nicht deutlicher reden wird denn die bis jetzt erschienenen<lb/>
+zweimal vierundzwanzig Hefte.</p>
+            <p>Zwei Ziele hat, seit sie besteht, diese Zeitschrift sich gesetzt.</p>
+            <p>Losgelöst von allen Rücksichten und Vorurtheilen, versuchte<lb/>
+sie den Menschen eine andere Art der Wertung aller Erscheinungen<lb/>
+nahe zu bringen. Nicht auf dem Standpunkte der naheliegendsten<lb/>
+Nützlichkeit stehend, welcher in Vertretungskörpern und Tages-<lb break="no"/>
+zeitungen die öffentliche Kritik leitet, sondern vom erhöhten Gesichts-<lb break="no"/>
+felde eines geistigeren Daseins aus hält sie in ihren Spalten die<lb/>
+Entwicklungsstufen der europäischen Seele fest. Sie wendet sich<lb/>
+nicht an Leute, die sich nur in genau begrenzten Gedankenkreisen<lb/>
+bewegen können; für diejenigen wird sie geschrieben, welche über<lb/>
+der Mannigfaltigkeit des Stoffes die Einheit des Geistes fühlen:<lb/>
+sie will <hi rend="text-spaced">gelebt</hi>, nicht nur gelesen sein.</p>
+            <p>Sie will überdies zu einer Zeit, da das Verständnis des<lb/>
+Wesens der Kunst fast gänzlich abhanden gekommen ist, der<lb/>
+               <hi rend="text-spaced">Kunst an sich</hi> eine Zufluchtstätte bieten, gänzlich entrückt den<lb/>
+Masstäben, welche die herrschende Halbbildung, auf ihre mate-<lb break="no"/>
+rielle Macht gestützt, auch an die Werke der Kunst zu legen ge-<lb break="no"/>
+neigt ist.</p>
+            <p>Das Gefühl für Distanzen, für Zwischenräume und Rang-<lb break="no"/>
+unterschiede, diese Grundlage jeder Cultur, ist uns verloren ge-<lb break="no"/>
+gangen; die Pfaidler schwatzen über die Wissenschaft, und die<lb/>
+Handwerksleute der öffentlichen Meinung über die Kunst; ohne die<lb/>
+Stütze einer sicheren Weltanschauung verliert die Gegenwart die<lb/>
+Fähigkeit Werte zu beurtheilen; im Schlamm der alles über-<lb break="no"/>
+flutenden Mittelmässigkeit versinkt die Ehrfurcht vor dem Recht<lb/>
+der Persönlichkeit.</p>
+            <p>Der dereinstigen Herrschaft der Geistigen die Wege zu<lb/>
+bahnen:</p>
+            <p>das war und ist unser Programm.</p>
+            <p>
+               <hi rend="strong">
+                  <rs type="person" key="">Die Wiener Rundschau</rs>.</hi>
+            </p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-23_n0877.xml" prev="WR-01-02-23_n0876.xml" next="WR-01-02-23_n0878.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 23, S. 877</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="23"/>
+                        <biblScope unit="page" n="n0877"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-10-15">15 10 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0281">
+                  <title level="a">Arnold Böcklin</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 23</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="870" to="877"/>
+                  <idno type="fn">WR-01-02-23_n0870.xml</idno>
+                  <author ref="#wr-person-0086">Kromer, Heinrich Ernst</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">ARNOLD BÖCKLIN.</fw>
+               <fw type="pn">877</fw>
+            </fw>
+            <p rend="no-intend">eignen Glück, indem sie dadurch des kommenden Genusses freudiger,<lb/>
+würdiger würden. Diese stillen, aristokratischen Mienen, dieses Räthsel<lb/>
+auf den Gesichtern. Sie machen, wie die lebenden vornehmen Basle-<lb break="no"/>
+rinnen, immer den Eindruck, als sprächen sie nie; als wäre das Reden<lb/>
+für sie das Preisgeben eines hohen Geheimnisses; ein leeres, unnützes<lb/>
+Schwatzen über einen ungeheuren Verlust, den sie einst erlitten; als<lb/>
+gäbe es Grösseres, Würdigeres als das Sprechen oder als wäre es ihrer<lb/>
+Aller nicht angemessen, zu Menschen einer Zeit zu reden, die in einem<lb/>
+so grauen Leben wandeln und die nicht in der Tiefe ihrer Seelen<lb/>
+noch die Tradition einer aristokratischen Vergangenheit heilig hüten.<lb/>
+Als hätten sie Trauer im Blicke, weil ihre herrliche Stadt mit eins ihr<lb/>
+ganzes Antlitz verändern und verkehren konnte, und als lebten sie im<lb/>
+Puritanismus nur wie unter einer den Athem beengenden Maske, die<lb/>
+sie einst um so heitrer und freier wieder von sich würfen, wenn die<lb/>
+frühere Herrlichkeit für ihre Stadt wieder anbrechen würde. Schweigende,<lb/>
+vornehme Häuser mit geschlossenen Läden; verschwiegene, schweigende,<lb/>
+sehnende Herzen <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

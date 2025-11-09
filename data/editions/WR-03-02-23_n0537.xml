@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-23_n0537.xml" prev="WR-03-02-22_n0536.xml" next="WR-03-02-23_n0538.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 23, S. 537</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="23"/>
+                        <biblScope unit="page" n="n0537"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0740">
+                  <title level="a">Gedichte in Prosa</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 23</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="537" to="540"/>
+                  <idno type="fn">WR-03-02-23_n0537.xml</idno>
+                  <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="strong">GEDICHTE IN PROSA</hi>
+                  <milestone unit="hr"/>
+                  <lb/>
+VON <rs type="person" key="">
+                     <hi rend="strong">MAURICE MAETERLINCK</hi>
+                  </rs>
+                  <lb/>
+PARIS <milestone unit="hr"/>
+               </title>
+            </ab>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>TREIBHAUS.</title>
+            </ab>
+            <lg>
+               <l>O Treibhaus inmitten des Waldes</l>
+               <l>mit deinen stets geschlossnen Thüren <milestone unit="3dots"/>
+               </l>
+               <l>Und was deine Kuppel Alles birgt!</l>
+               <l>Dinge, die mich an meine Seele mahnen:</l>
+            </lg>
+            <lg>
+               <l>Die Gedanken einer Prinzessin, die Hunger quält,</l>
+               <l>die Verzweiflung eines Seemanns in öder Wüste,</l>
+               <l>Trompetenmusik an den Fenstern von unheilbar Kranken.</l>
+            </lg>
+            <lg>
+               <l>Geht in die schwülsten Winkel!</l>
+               <l>Dort meint man, es liege ein Weib in Ohnmacht an einem heissen Schnittertag,</l>
+               <l>Postillons durchlaufen den Hof des Hospizes;</l>
+               <l>fern geht ein Krankenwärter vorbei.</l>
+            </lg>
+            <lg>
+               <l>O seht, seht im Mondenlicht!</l>
+               <l>„Nichts ist an seinem Platze!“</l>
+               <l>Man meint, eine Wahnsinnige steht vor den Richtern,</l>
+               <l>ein Kriegsschiff passiert, die Segel gebläht, den Canal,</l>
+               <l>Nachtvögel wiegen auf Lilien,</l>
+               <l>ein Todtenglockenschlag um Mittag,</l>
+               <l>ein Krankenzug in der Wüste,</l>
+               <l>ein Ätherduft an einem Tag voll brennnender Sonnenglut <milestone unit="3dots"/>
+               </l>
+            </lg>
+            <lg>
+               <l>Mein Gott, mein Gott, wann kommt Regen,</l>
+               <l>Schnee und Wind in das Treibhaus!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
+      </body>
+   </text>
+</TEI>

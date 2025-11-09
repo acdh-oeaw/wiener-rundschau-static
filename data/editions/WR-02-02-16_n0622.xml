@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-16_n0622.xml" prev="WR-02-02-16_n0621.xml" next="WR-02-02-16_n0623.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 16, S. 622</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="16"/>
+                        <biblScope unit="page" n="n0622"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-07-01">1 7 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0457">
+                  <title level="a">Diese ist sein</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 16</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="16">16</biblScope>
+                  <biblScope unit="page" from="620" to="623"/>
+                  <idno type="fn">WR-02-02-16_n0620.xml</idno>
+                  <author ref="#wr-person-0004">Altenberg, Peter</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">622</fw>
+               <fw type="ctext">ALTENBERG.</fw>
+            </fw>
+            <p>»Gott, wie oft mussten diese jungen Frauen übel gelaunt<lb/>
+sein und verdrossen. Aber man führte es auf das »Seelische«<lb/>
+zurück.«</p>
+            <p>»Jawohl, auf das »Seelische« — — —. Du, übrigens,<lb/>
+könntest Du mit Herrn von Artin darüber sprechen?!«</p>
+            <p>»Nein. Unter keiner Bedingung. Wie kommst Du darauf?!«</p>
+            <p>»So — — —.«</p>
+            <p>»Es ist merkwürdig. Ich empfand gerade vorhin zum ersten-<lb break="no"/>
+male, als ob er sich die billige Komödie vorspielte, dass ich ein<lb/>
+»ausserirdisches Geschöpf« sei. Weil er nicht genug Freundschaft<lb/>
+hat, mich als ein »schwaches irdisches Geschöpf« zu nehmen!<lb/>
+So verstrickt er sich und mich in Verlogenheiten. Ich fühle, dass<lb/>
+er nie mit mir über Tamar sprechen könnte — — —.«</p>
+            <p>»Und darum hassest Du ihn?!«</p>
+            <p>»Ja, darum.«</p>
+            <p>»Dennoch wüsste ich Einen, mit dem Du nicht darüber<lb/>
+sprächest! Und es wäre dennoch keine Verlogenheit darin.«</p>
+            <p>»?!«</p>
+            <p>»Mit Lord Byron.«</p>
+            <p>Sie schwieg.</p>
+            <p>Dann sagte sie verlegen: »Aber der lebt ja gar nicht mehr.«</p>
+            <p>»Glaubst Du?!«</p>
+            <p>Er schwieg, gieng schweigend.</p>
+            <p>Sie kämen zum Opernhause, traten ein in das goldene<lb/>
+Vestibüle durch die hellgrünen Tuch-Thüren, portes Battantes.</p>
+            <p>Er dachte: »Meine Forelle gelangt in ihren Gebirgsbach.<lb/>
+Was verlangt übrigens die Frauenseele von uns?! In den Gebirgs-<lb break="no"/>
+bach zu gelangen?! Keineswegs. <hi rend="text-spaced">Sie wünscht nur</hi>, <hi rend="text-spaced">dass wir<lb/>
+es wissen</hi>, <hi rend="text-spaced">dass sie hingehört</hi>!!«</p>
+            <p>»Du kommst in Dein Gebirgswasser« sagte er.</p>
+            <p>Sie dachte: »Artin wird in der Loge sein bei dem Grafen.<lb/>
+Und ich trage heute ein weissgrünes Seidenkleid, in Plissés von<lb/>
+oben bis unten. Wie würde Artin es benennen?! Eine romantische<lb/>
+Bezeichnung!?«</p>
+            <p>Der Gatte sagte bewundernd: »Wie Schaum von Gebirgs-<lb break="no"/>
+wasser ist Dein Kleid. Wenn Artin Dich sähe!?«</p>
+            <p>»Warum sagst Du das?!«</p>
+            <p>»Sage <hi rend="text-spaced">ich</hi> das?!«</p>
+         </div>
+      </body>
+   </text>
+</TEI>

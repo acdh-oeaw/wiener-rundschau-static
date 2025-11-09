@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-01_n0036.xml" prev="WR-01-01-01_n0035.xml" next="WR-01-01-01_n0037.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 1, S. 36</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0036"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-11-15">15 11 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0009">
+                  <title level="a">Das Weib in Giorgione’s Malerei</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="28" to="36"/>
+                  <idno type="fn">WR-01-01-01_n0028.xml</idno>
+                  <author ref="#wr-person-0009">Schäffer, Emil</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">36</fw>
+               <fw type="ctext">SCHÄFFER.</fw>
+            </fw>
+            <p rend="no-intend">empfinden sie hellenisch vor der Frauenschöne, aber Tizian wie ein<lb/>
+athenischer Zeitgenosse des Phidias, und Giorgone wie ein Hellenist aus<lb/>
+Alexandria. Der <hi rend="text-spaced">Künstler</hi> Tizian berauschte sich am hellen Glanze<lb/>
+des Frauenkörpers, der <hi rend="text-spaced">Mensch</hi> in ihm blieb kühl und kalt. Sein<lb/>
+Modell war ihm eben nur Modell, und Giorgone <milestone unit="3dots"/> hat es umarmt.</p>
+            <p>Nach der Venus hat Giorgone kein Bild mehr gemalt, kaum<lb/>
+dreiunddreissig Jahre war er, als sie ihn bestatteten, und man wusste<lb/>
+sehr wohl, was man in dem Todten zu Grabe trug, wie viel Jugend,<lb/>
+wie viel Sonne, und man hat ihn doch schnell vergessen. Den ver-<lb break="no"/>
+waisten Herrscherthron der venetianischen Kunst bestieg ein Gewaltiger,<lb/>
+dem es beschieden war, drei Menschenalter zu leben, vor dem sich die<lb/>
+Grossen der Erde bückten und dem der Herrscher zweier Welten den<lb/>
+Pinsel aufhob, da er seiner Hand einmal entglitten <milestone unit="3dots"/> und Andere<lb/>
+kamen, viele Andere noch, denen ein langes Leben viele Meisterwerke<lb/>
+gönnte <milestone unit="3dots"/> wer wollte da noch des armen, süssen Farbenpoeten<lb/>
+denken, den die Liebe so jung gemordet? <milestone unit="3dots"/> Wer erinnert sich der<lb/>
+Knospen, die kalter Reif im Frühling getödtet, wenn die voll erblühten<lb/>
+Rosen des Sommers schimmern und duften? <milestone unit="3dots"/> Manche vielleicht,<lb/>
+und die werden verstehen, wie mir’s erging. Ich träumte in Venedigs<lb/>
+Accademia vor Tizian’s Assunta, jenem Bilde reifster Sommerschöne,<lb/>
+vor jener brennenden Farbenorgie, und siehe, das Bild versank, und in<lb/>
+der stillen, weissen Kirche Castelfranco’s stand ich wieder. Durch die<lb/>
+Scheiben sah der Abend und wob um das süsse, sündige Mädchen-<lb break="no"/>
+haupt Cecilia’s einen goldenflimmernden Heiligenschein, und dessen<lb/>
+musst’ ich denken, der irdische Frauenschönheit wieder entdeckt hatte<lb/>
+und in seiner Jugend Maienblüthe darob gestorben, und mir war, als<lb/>
+sollt’ ich weinen.</p>
+            <p>Venedig. <rs type="person" key="">Emil Schäffer</rs>.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

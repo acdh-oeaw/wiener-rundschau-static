@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-11_n0411.xml" prev="WR-01-01-11_n0410.xml" next="WR-01-01-11_n0412.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 11, S. 411</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="11"/>
+                        <biblScope unit="page" n="n0411"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-04-15">15 4 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0134">
+                  <title level="a">Lieder</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 11</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="11">11</biblScope>
+                  <biblScope unit="page" from="411" to="411"/>
+                  <idno type="fn">WR-01-01-11_n0411.xml</idno>
+                  <author ref="#wr-person-0056">Althof, Paul</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">LIEDER</hi>.</title>
+            </ab>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>I.</title>
+            </ab>
+            <lg>
+               <l>
+                  <hi rend="initial">Ich</hi> will beneidet sein und lachend schreiten</l>
+               <l>Durch die vergrämte, lichtentwöhnte Schar;</l>
+               <l>Aus meiner Stimme zittern Seligkeiten;</l>
+               <l>Aus meinen Augen leuchtet’s flammenklar.</l>
+            </lg>
+            <lg>
+               <l>Blickt her, ihr Kampfesmüden, Freudelosen!</l>
+               <l>Ich trage jauchzend einen Kranz im Haar</l>
+               <l>Von scharfen Dornen und von rothen Rosen!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>II.</title>
+            </ab>
+            <lg>
+               <l>Lehr’ mich vergessen, lehre mich versinken</l>
+               <l>In eine tiefe, stille Seligkeit;</l>
+               <l>Ich will den Hauch von deinen Lippen trinken,</l>
+               <l>Der mich erlöst, der mir den Glauben leiht.</l>
+            </lg>
+            <lg>
+               <l>O, lehr’ mich glauben, dass in fernen Tagen</l>
+               <l>Ein Strahl uns bleibt von dieser Sonnenzeit, —</l>
+               <l>Nur ein Erinnern, nur ein leises Fragen — — —</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <p>Wien. <rs type="person" key="">Paul Althof</rs>.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-23_n0903.xml" prev="WR-02-02-23_n0902.xml" next="WR-02-02-23_n0904.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 23, S. 903</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="23"/>
+                        <biblScope unit="page" n="n0903"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-10-15">15 10 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0517">
+                  <title level="a">Deutsches Volkstheater </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 23</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="902" to="903"/>
+                  <idno type="fn">WR-02-02-23_n0902.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0518">
+                  <title level="a">Verlaine,»Gedichte«</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 23</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="903" to="903"/>
+                  <idno type="fn">WR-02-02-23_n0903.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0519">
+                  <title level="a">Bruns, »Aus meinem Blute«</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 23</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="903" to="903"/>
+                  <idno type="fn">WR-02-02-23_n0903.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0520">
+                  <title level="a">Von der Wiener Kritik</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 23</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="23">23</biblScope>
+                  <biblScope unit="page" from="903" to="904"/>
+                  <idno type="fn">WR-02-02-23_n0903.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">NOTIZEN.</fw>
+               <fw type="pn">903</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">zusammen gezimmert. Er zeigt in<lb/>
+seinem Wesen und in seinen<lb/>
+Werken, dass es jetzt deutsche<lb/>
+Literaten gibt, die ebenso dichten,<lb/>
+wie die deutschen Professoren<lb/>
+compilieren mit möglichst grossem,<lb/>
+kritischen Apparat und aus allen<lb/>
+Ecken zusammen getragenen Düf-<lb break="no"/>
+teleien. Der grosse, schaffende<lb/>
+Odem der Mutter Erde fehlt.</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-start"/>
+                     <ab>
+                        <title>LITERATUR.</title>
+                     </ab>
+                     <milestone unit="untyped-start"/>
+                     <p>»<hi rend="text-spaced">Aus meinem Blute</hi>.« Ge-<lb break="no"/>
+dichte von Max Bruns. Minden,<lb/>
+Bruns’ Verlag. — <hi rend="text-spaced">Gedichte</hi> von<lb/>
+Paul <hi rend="text-spaced">Verlaine</hi>, übertragen von<lb/>
+                        <hi rend="text-spaced">Hans Kirchner</hi>, Halle, Otto<lb/>
+Hendel.</p>
+                     <p>Von den hunderten Gedicht-<lb break="no"/>
+bänden, die der deutsche Bücher-<lb break="no"/>
+marktjährlich ausspeit, sind durch-<lb break="no"/>
+schnittlich kaum 5—10 lesbar,<lb/>
+aber nur 1—5 werthvoll und Kunst-<lb break="no"/>
+werke. Nehmen wir an, dass diese<lb/>
+Gedichte von Bruns zu den 5—10<lb/>
+lesbaren gehören, denn es zeigt<lb/>
+sich wenigstens ein aufrichtiges<lb/>
+Herz und eine, wenn auch nicht<lb/>
+grosse oder abnorme, so doch un-<lb break="no"/>
+verschmockte Seele. Aber ist das<lb/>
+genug?? Genügt dieses Fehlen von<lb/>
+allzuschlechten Eigenschaften, um<lb/>
+den massenweisen Druck von Ge-<lb break="no"/>
+dichten zu rechtfertigen! Wird<lb/>
+die »Nation der Lyriker«, die<lb/>
+Nation Goethes, Heines, Lenaus,<lb/>
+Dehmels, Stefan Georges dadurch<lb/>
+nicht compromittiert, dass auf ein<lb/>
+wahrhaft edles und eigenartiges<lb/>
+Gedicht, das jährlich erscheint,<lb/>
+2000 miserable oder imitierte<lb/>
+»Gedichte« kommen? — So wie<lb/>
+bei jedem Übel, so kann man auch<lb/>
+bei dem lyrischen eine gute Seite<lb/>
+finden. Durch das viele Verse-</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">machen steigert sich die Über-<lb break="no"/>
+setzungsfähigkeit unserer »Lyriker«<lb/>
+auf das angenehmste. Wir erinnern<lb/>
+uns, von Bruns ausgezeichnete Über-<lb break="no"/>
+tragungen gelesen zu haben. —<lb/>
+Ein Herr Hans Kirchner hat in<lb/>
+der billigen und schönen Hendel-<lb break="no"/>
+ausgabe eine kleine Sammlung von<lb/>
+Verlaine-Gedichten versucht. Sie ist<lb/>
+vollkommen gelungen. Die Verse<lb/>
+sind glatt und wohlklingend. Der<lb/>
+Sinn folgt verständnisvoll dem<lb/>
+Original. Eine gescheite Charakte-<lb break="no"/>
+ristik Verlaines leitet die Samm-<lb break="no"/>
+lung ein.</p>
+                     <p>
+                        <rs type="person" key="">
+                           <hi rend="italics">m. m.</hi>
+                        </rs>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="hr"/>
+                     <milestone unit="untyped-start"/>
+                     <p>
+                        <hi rend="text-spaced">Von der Wiener Kritik</hi>.<lb/>
+Gerade jetzt, wo die jungen Schrift-<lb break="no"/>
+steller gar so hastig zum Theater<lb/>
+drängen, kann es nicht schaden,<lb/>
+wenn man von Zeit zu Zeit auf<lb/>
+jene Factoren einen Blick wirft,<lb/>
+die über Erfolg und Durchfall von<lb/>
+Premieren ein ziemlich entscheiden-<lb break="no"/>
+des Wort zu reden haben, die<lb/>
+Recensenten. Für heute stellen wir<lb/>
+Herrn Bernhard Buchbinder, den<lb/>
+Libretto-Dichter und Volksstück-<lb break="no"/>
+fabrikanten mit einem würdigen<lb/>
+Citat vor. Anlässlich einer Vor-<lb break="no"/>
+stellung im Raimund-Theater bot<lb/>
+Herr Buchbinder in einem kurzen<lb/>
+Referat folgende Stylblütensamm-<lb break="no"/>
+lung: »Fräulein Barsescu kam mit<lb/>
+einer unfertigen Darbietung. Die<lb/>
+                        <hi rend="text-spaced">ganze</hi> Leistung <hi rend="text-spaced">ein Stückwerk</hi>. (!)<lb/>
+Mit einem schweren Ton und tragi-<lb break="no"/>
+schen Gesten fasste sie diese hoch-<lb break="no"/>
+moderne Rolle an, <hi rend="text-spaced">stolzte</hi> auf<lb/>
+dem Kothurn herum, (!) decla-<lb break="no"/>
+mierte in den Zuschauerraum hinein.<lb/>
+Sie kam uns wie aus einer anderen<lb/>
+Theaterwelt. Später fand <hi rend="text-spaced">sie sich<lb/>
+etwas in Sardou</hi>
+                        <milestone unit="4dots"/> Herr Wirth,<lb/>
+ein Schauspieler, der etwas ver-</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

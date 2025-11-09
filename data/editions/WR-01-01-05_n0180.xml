@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-05_n0180.xml" prev="WR-01-01-05_n0179.xml" next="WR-01-01-05_n0181.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 5, S. 180</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="05"/>
+                        <biblScope unit="page" n="n0180"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-01-15">15 1 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0054">
+                  <title level="a">Alladine und Palomides</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 5</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="174" to="183"/>
+                  <idno type="fn">WR-01-01-05_n0174.xml</idno>
+                  <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">180</fw>
+               <fw type="ctext">MAETERLINCK.</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi>.</p>
+            <p>Schliess’ nicht die Augen, wenn ich dich so küsse <milestone unit="3dots"/>
+               <lb/>
+Ich will die Küsse sehen, die in deinem Herzen zittern; und<lb/>
+all den Thau, der aus deiner Seele quillt <milestone unit="3dots"/> uns werden<lb/>
+keine Küsse mehr zu theil wie diese <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Immer, immer! <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi>.</p>
+            <p>Nein, nein; man küsst kein zweitesmal unter den Fit-<lb break="no"/>
+tichen des Todes <milestone unit="3dots"/> Wie schön du bist! <milestone unit="3dots"/> Es ist das<lb/>
+erstemal, dass ich dich in der Nähe sehe <milestone unit="3dots"/> Wie eigen, man<lb/>
+glaubt, eins das andere gesehen zu haben, weil man zwei Schritte<lb/>
+weit an einander vorüberging; aber Alles verwandelt sich<lb/>
+im Augenblick, da die Lippen sich berühren <milestone unit="3dots"/> So ist es;<lb/>
+ich muss dich gewähren lassen <milestone unit="3dots"/> Ich strecke die Arme<lb/>
+aus, um dich zu bewundern, als wärest du nicht mehr mein,<lb/>
+und schliesse dich dann wieder an mich, bis ich deine Küsse<lb/>
+fühle und nichts mehr als ewige Seligkeit gewahre <milestone unit="3dots"/> Wir<lb/>
+bedurften dieses übernatürlichen Lichtes! <milestone unit="3dots"/> (Er küsst sie wieder.)<lb/>
+Ach! Was thust du? Gib Acht, wir stehen auf dem Grat<lb/>
+eines Felsens, der über das leuchtende Meer ragt. Tritt<lb/>
+nicht zurück. Es war hohe Zeit <milestone unit="3dots"/> Wende dich nicht zu<lb/>
+rasch um. Ich war geblendet <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>
+            </p>
+            <p>(wendet sich um und betrachtet das blaue Wasser, das sie beleuchtet). Oh! <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi>.</p>
+            <p>Man könnte glauben, der Himmel fluthet bis hieher <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Das Wasser ist voll regungsloser Blumen <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Palomides</hi>.</p>
+            <p>Es ist voll regungsloser, sonderbarer Blumen <milestone unit="3dots"/> Siehst<lb/>
+du die grösste, die unter den anderen erblüht? Es scheint,<lb/>
+sie lebt ein rhythmisches Leben <milestone unit="3dots"/> Und das Wasser <milestone unit="3dots"/>
+               <lb/>
+Ist es Wasser? <milestone unit="3dots"/> Es scheint schöner und klarer und blauer<lb/>
+als alles Wasser der Erde <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Alladine</hi>.</p>
+            <p>Ich wage nicht mehr, es anzublicken <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

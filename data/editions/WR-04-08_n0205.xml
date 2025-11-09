@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-08_n0205.xml" prev="WR-04-08_n0204.xml" next="WR-04-08_n0206.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 8, S. 205</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="08"/>
+                        <biblScope unit="page" n="n0205"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0847">
+                  <title level="a">O grave where is thy Victory</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 8</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="175" to="208"/>
+                  <idno type="fn">WR-04-08_n0175.xml</idno>
+                  <author ref="#wr-person-0281">Toorop, Jan</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0857">
+                  <title level="a">L’Ennemie des rêves, roman contemporain, par Camille Mauclair</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 8</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="204" to="205"/>
+                  <idno type="fn">WR-04-08_n0204.xml</idno>
+                  <author ref="#wr-person-0203">Gourmont, Remy de</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0858">
+                  <title level="a">Gobineau: Les Religions et les Philosophies dans l’Asie Centrale!—A. Ribot: La Réforme de l’Enseignement secondaire*</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 8</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="205" to="205"/>
+                  <idno type="fn">WR-04-08_n0205.xml</idno>
+                  <author ref="#wr-person-0261">Graevell, Harald</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">RUNDSCHAU.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">nothwendigkeit, nicht aber aus stumpfer<lb/>
+Zahmheit; und je größer ihre Hingebung,<lb/>
+je glücklicher fühlt sie sich.</p>
+                     <p>Doch, wie eine geistvolle Frau des<lb/>
+vorigen Jahrhunderts sagte: »In der Liebe<lb/>
+ist das Gegentheil des Wahren auch noch<lb/>
+wahr«. Camille Mauclairs Roman ist also<lb/>
+möglich; und was will man mehr von<lb/>
+einem Roman verlangen, wenn er anderer-<lb break="no"/>
+seits, wie »L’Ennemie des rêves« unbe-<lb break="no"/>
+steitbare Vorzüge des Stils besitzt und<lb/>
+Interesse einflößt?</p>
+                     <p>PARIS. <rs type="person" key="">REMY DE GOURMONT</rs>.</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="asterisk"/>
+                     <milestone unit="untyped-start"/>
+                     <p>
+                        <hi rend="text-spaced">Gobineau</hi>: <hi rend="italics">Les Religions et les Philo-<lb break="no"/>
+sophies dans l’Asie Centrale.</hi> Paris, Leroux,<lb/>
+                        <date>1900</date>. — Ich erlaube mir die Aufmerk-<lb break="no"/>
+samkeit der Gebildeten auf die neue Auf-<lb break="no"/>
+lage des Gobineau’schen Buches zu lenken,<lb/>
+die vom Professor Schemann in Freiburg<lb/>
+herausgegeben und bevorwortet ist. Schon<lb/>
+der Umstand, dass ein Deutscher die<lb/>
+Werke eines in seinem Vaterlande beinahe<lb/>
+vergessenen großen Mannes ediert, ist<lb/>
+bemerkenswert. Das Buch verdient aber<lb/>
+auch, abgesehen von diesem mehr äußer-<lb break="no"/>
+lichen Grund, die Aufmerksamkeit. Es<lb/>
+schildert das geistige Leben der Orientalen,<lb/>
+die der Verfasser durch langjährigen<lb/>
+Aufenthalt im Lande der Sonne gründlich<lb/>
+kennen gelernt hat. Es zeigt, dass die<lb/>
+von uns so verachteten Orientalen Seiten<lb/>
+in ihrem Wesen haben, die uns nicht<lb/>
+allein fremd sind, sondern unsere Be-<lb break="no"/>
+wunderung verdienen.</p>
+                     <p>Eine religiöse Bewegung zeigt sich am<lb/>
+Horizont. Sie ist noch allemal aus dem<lb/>
+Osten gekommen. »<hi rend="italics">Tout ce que nous<lb/>
+pensons et toutes les manières dont nous<lb/>
+pensons ont leur origine en Asie</hi>« fängt<lb/>
+Gobineau sein Buch an. Er weist aus-<lb break="no"/>
+führlich auf eine neue Secte in Persien<lb/>
+hin, die eine große Zukunft zu haben<lb/>
+scheint, deren Entstehung und Geschichte</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">er beschreibt. Sie geht auf die uralte<lb/>
+Religion des Landes zurück, welche durch<lb/>
+den Mohammedanismus scheinbar verdrängt<lb/>
+war, nun aber wieder zum Vorschein<lb/>
+kommt, wie nach einem Naturgesetz der<lb/>
+an dem Volke haftende Geist immer wieder<lb/>
+sich erhebt. — Gerade Gobineau hat zu<lb/>
+einer tieferen Auffassung des Völkerlebens<lb/>
+beigetragen, besonders durch sein gran-<lb break="no"/>
+dioses Werk über die Ungleichheit der<lb/>
+Menschenrassen,* das ebenfalls von Sche-<lb break="no"/>
+mann dem deutschen Publicum in einer<lb/>
+schönen deutschen Ausgabe zugänglich<lb/>
+gemacht wird. Möchten die Bestrebungen<lb/>
+der »Gobineau-Vereinigung« die Beachtung<lb/>
+finden, die sie wünscht und verdient!</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="asterisk"/>
+                     <milestone unit="untyped-start"/>
+                     <p>A. <hi rend="text-spaced">Ribot</hi>: <hi rend="italics">La Réforme de l’ Enseigne-<lb break="no"/>
+ment secondaire.</hi> Paris, Colin. — In Frank-<lb break="no"/>
+reich, wie überall, regt sich ein neues<lb/>
+Leben, um den veralteten Anschauungen<lb/>
+im <hi rend="text-spaced">Unterrichtswesen</hi> den Garaus zu<lb/>
+machen. Den Niederschlag davon findet<lb/>
+man in dem vorliegenden Buche, das auf<lb/>
+Veranlassung des Cultusministers und der<lb/>
+von der Deputiertenkammer eingesetzten<lb/>
+Commission herausgegeben worden ist.<lb/>
+Es macht der französischen Nation Ehre,<lb/>
+dass sie auf so wichtigem Gebiete eine<lb/>
+so umfassende Enquête veranstaltet. Vom<lb/>
+17. Jänner bis zum 27. März 1899 hat<lb/>
+die Commission 196 Depositionen gehört,<lb/>
+deren Bericht zwei Bände in 40 zu zwei<lb/>
+Colonnen umfasst. Möchten doch andere<lb/>
+Regierungen dem gegebenen Beispiele<lb/>
+folgen und in <date>diesem Jahre</date>, das den Über-<lb break="no"/>
+gang zum neuen Jahrhundert bildet, eine<lb/>
+allgemeine Aussprache aller Gebildeten<lb/>
+über die <hi rend="text-spaced">Reform des Unterrichts</hi> ver-<lb break="no"/>
+anlassen, die doch schließlich das ganze<lb/>
+Volk angeht, nicht bloß ein paar Bureau-<lb break="no"/>
+kraten.</p>
+                     <p>LÜTTICH. <rs type="person" key="">HARALD GRAEVELL</rs>.</p>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Vgl. »Wiener Rundschau«, III. Jahrg., Nr. 12, S. 294.</p>
+            </note>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
+      </body>
+   </text>
+</TEI>

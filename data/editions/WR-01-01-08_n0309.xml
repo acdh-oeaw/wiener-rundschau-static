@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-08_n0309.xml" prev="WR-01-01-08_n0308.xml" next="WR-01-01-08_n0310.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 8, S. 309</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="08"/>
+                        <biblScope unit="page" n="n0309"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-03-01">1 3 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0095">
+                  <title level="a">Das nächste Conclave</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 8</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="08">8</biblScope>
+                  <biblScope unit="page" from="305" to="309"/>
+                  <idno type="fn">WR-01-01-08_n0305.xml</idno>
+                  <author ref="#wr-person-0043">Fiamingo, Giuseppe</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DAS NÄCHSTE CONCLAVE.</fw>
+               <fw type="pn">309</fw>
+            </fw>
+            <p rend="no-intend">nichts als einen Irrthum zu sehen; sie antworteten natürlich beleidigt<lb/>
+und ebenso beleidigend.</p>
+            <p>Wie masslos muss erst der Geist des unbegrenzten Selbstbewusst-<lb break="no"/>
+seins in dem Haupt der Kirche schwellen, wenn er die Reiche Buddhas<lb/>
+oder Mahomets zum wahren Glauben zurück entbietet! Dasselbe<lb/>
+thäten sämmtliche papstfähige Cardinäle, wenn sie morgen gewählt<lb/>
+würden, Vanuntelli, Jacobini, Svamba. Ein Conclave ist zu schwach,<lb/>
+den Geist des heutigen Katholicismus zu ändern, jede Wandlung ist<lb/>
+ausgeschlossen. Will man nicht annehmen, dass sich die menschlichen<lb/>
+Eigenschaften des Clerus von heute auf morgen in ihr Gegentheil ver-<lb break="no"/>
+kehren, so verstehe ich diese ganze Vermenschlichung und Universali-<lb break="no"/>
+sirung des Katholicismus nicht, nach der die Elite der Katholiken<lb/>
+unter ihrem Wortführer Péladan ruft.</p>
+            <p>Der Conservatismus und Misoneismus ist und bleibt die grösste<lb/>
+Macht in der Evolutionsgeschichte der Menschheit; und dass er auch<lb/>
+in der Religionsgeschichte gross genug ist, um alle momentanen Reform-<lb break="no"/>
+ideen bei Seite zu schieben, ist wahrlich gut. Denn eher stirbt eine<lb/>
+Religion, als dass sie sich — entgegen ihrem tiefsten Wesen — ver-<lb break="no"/>
+ändert.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

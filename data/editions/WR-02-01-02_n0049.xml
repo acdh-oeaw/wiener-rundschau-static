@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-02_n0049.xml" prev="WR-02-01-02_n0048.xml" next="WR-02-01-02_n0050.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 2, S. 49</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0049"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-12-01">1 12 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0313">
+                  <title level="a">De amore</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 2</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="47" to="49"/>
+                  <idno type="fn">WR-02-01-02_n0047.xml</idno>
+                  <author ref="#wr-person-0004">Altenberg, Peter</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DE AMORE.</fw>
+               <fw type="pn">49</fw>
+            </fw>
+            <p>Geliebte Lügnerin, die du mich leitest zu Höhen, um mich zu<lb/>
+               <hi rend="text-spaced">deinen</hi> Höhen nur <hi rend="text-spaced">herabzuleiten</hi>! <hi rend="text-spaced">Ver</hi>-<hi rend="text-spaced">Führerin</hi>! Ich hasse dich.</p>
+            <p>Ah, melde mir den Tag, da ich dich nicht mehr liebe — — — —<lb/>
+dann will ich Abschied nehmen — — von meinem Hasse!!</p>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">Ich liebe dich</hi>.</title>
+            </ab>
+            <p>Sie: »Wie werden Blätter gelb?!«</p>
+            <p>Er: »Das grüne Chlorophyll des Blattes verwandelt sich in Gelb-<lb break="no"/>
+stoff, Xantophyll, unter dem Einflüsse der Kälte.«</p>
+            <p>Sie: »Wie werden Blätter roth?!«</p>
+            <p>Er: »Das grüne Chlorophyll des Blattes verwandelt sich in Roth-<lb break="no"/>
+stoff, Erythrophyll.«</p>
+            <p>Sie: »Und schwarz?!«</p>
+            <p>Er: »Das ist das Sterben des Blattes. Wenn es nicht mehr Kraft<lb/>
+hat, Farben umzuwandeln, wird es schwarz.«</p>
+            <p>Sie: »Und Blätter werden Erde?!«</p>
+            <p>Er: »Ja, der Schnee zermürbt sie, präparirt sie vor.«</p>
+            <p>Sie: »Lehre mich Botanik. Aber nicht wie in der Jugend, wie<lb/>
+viele Staubgefässe jede Blume hat, wie sie lateinisch heisst, wo man<lb/>
+sie findet. Lehre mich das Tiefe, wie sie wird und stirbt und niemals<lb/>
+aufbegehrt und wieder wird und stirbt und wieder stirbt und dann<lb/>
+doch auflebt — — —.«</p>
+            <p>Er: »Anatomie, Physiologie der Pflanzen?!«</p>
+            <p>Sie: »Ja, das.«</p>
+            <p>Er: »So komm’. Es ist zu kalt zum Sitzen im Freien. Und wir<lb/>
+sind in Jahren — — —. Wir brennen Holz im Ofen, und ich lehre<lb/>
+dich, wie junge Stämme ihren Ring ansetzen. Vor Allem, weisst du,<lb/>
+wenn im ersten Frühjahr — — —.«</p>
+            <p>Und sie ging schweigend, lauschend neben ihm.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

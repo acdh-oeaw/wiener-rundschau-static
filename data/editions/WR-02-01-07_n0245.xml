@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-07_n0245.xml" prev="WR-02-01-07_n0244.xml" next="WR-02-01-07_n0246.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 7, S. 245</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="07"/>
+                        <biblScope unit="page" n="n0245"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-02-15">15 2 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0355">
+                  <title level="a">Der Bär </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 7</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="241" to="253"/>
+                  <idno type="fn">WR-02-01-07_n0241.xml</idno>
+                  <author ref="#wr-person-0135">Tschechow, Anton</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DER BÄR.</fw>
+               <fw type="pn">245</fw>
+            </fw>
+            <milestone unit="scene-start"/>
+            <ab>
+               <title>V.</title>
+            </ab>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi> (allein).</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Sagen Sie ’mal! Stimmung <milestone unit="3dots"/> Vor sieben Monaten<lb/>
+ist der Mann gestorben! Muss ich aber Zinsen zahlen oder nicht? —<lb/>
+Ich frage: muss ich zahlen oder nicht? Nun ja, der Mann ist todt,<lb/>
+da kommt die Stimmung und allerhand Hokuspokus <milestone unit="3dots"/> Der Verwalter,<lb/>
+dass ihn der Teufel hole, ist verreist, aber was soll ich denn thun?<lb/>
+Soll ich auf einen Luftballon den Gläubigern entfliehen? Oder soll ich<lb/>
+mir den Kopf einrennen? Grusdew war nicht zu Hause, Jaroschewitsch<lb/>
+hat sich versteckt, mit Kurytzin habe ich mich verzankt und hätte ihn<lb/>
+beinahe durchs Fenster geworfen, Masutow hat die Cholerina, und<lb/>
+diese da kommt mir mit ihrer Stimmung. Keine einzige Canaille will<lb/>
+zahlen! Das kommt daher, weil ich sie zu sehr verwöhnte, weil ich<lb/>
+ein Waschlappen, ein altes Weib bin! Ich war zu zartfühlend! Aber<lb/>
+wartet nur! Ihr sollt mich schon kennen lernen! Ich werde nicht ge-<lb break="no"/>
+statten, mit mir Spass zu treiben, hol’ euch der Teufel! Ich bleibe<lb/>
+hier und gehe nicht eher weg, als bis sie bezahlt haben wird! Hu! <milestone unit="3dots"/>
+               <lb/>
+Wie böse ich heute bin, wie böse! Vor Wuth zittere ich förmlich, und<lb/>
+der Athem stockt <milestone unit="3dots"/> Pfui, mein Gott, es wird mir sogar übel! (Schreit.)<lb/>
+Diener!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="scene-start"/>
+            <ab>
+               <title>VI.</title>
+            </ab>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi> und <hi rend="text-spaced">Lukas</hi>.</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Lukas</hi> (eintretend). Was wünschen Sie?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Gib mir Kwas oder Wasser!</p>
+            <milestone unit="untyped-end"/>
+            <p>(Lukas ab.)</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Nein, wie gefällt Ihnen diese Logik! Man hat das<lb/>
+Geld nothwendig nöthig, man möchte sich vor Verzweiflung erhängen,<lb/>
+sie aber will nicht zahlen, weil sie keine Lust hat, sich mit Geld-<lb break="no"/>
+geschäften abzugeben! <milestone unit="3dots"/> Das ist eine echte Weiberlogik, eine Tournüre-<lb break="no"/>
+logik! Darum eben war und ist es mir unerträglich, mit Weibern zu<lb/>
+reden. Mir wäre es viel leichter, auf einem Pulverfass zu sitzen, als<lb/>
+mit einer Frau zu reden. Hu! <milestone unit="3dots"/> Mich überläuft es sogar eiskalt —<lb/>
+so sehr hat mich diese Tournüre aufgebracht! Erblicke ich solche<lb/>
+poetische Geschöpfe auch nur aus der Ferne, so bekomme ich vor<lb/>
+Wuth Wadenkrämpfe. Es ist geradezu Gewalt zu schreien.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="scene-start"/>
+            <ab>
+               <title>VII.</title>
+            </ab>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi> und <hi rend="text-spaced">Lukas</hi>.</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Lukas</hi> (tritt ein und reicht Wasser). Die gnädige Frau ist krank<lb/>
+und empfängt nicht.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Hinaus!</p>
+            <milestone unit="untyped-end"/>
+            <p>(Lukas ab.)</p>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Smyrnow</hi>. Ist krank und empfängt nicht! Ist auch gar nicht<lb/>
+nöthig, mag sie nicht empfangen <milestone unit="3dots"/> Ich bleibe hier und werde so lange</p>
+         </div>
+      </body>
+   </text>
+</TEI>

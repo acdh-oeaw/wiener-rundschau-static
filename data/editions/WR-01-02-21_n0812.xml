@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-21_n0812.xml" prev="WR-01-02-21_n0811.xml" next="WR-01-02-21_n0813.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 21, S. 812</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="21"/>
+                        <biblScope unit="page" n="n0812"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-09-15">15 9 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0258">
+                  <title level="a">Maurice Maeterlinck</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 21</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="808" to="812"/>
+                  <idno type="fn">WR-01-02-21_n0808.xml</idno>
+                  <author ref="#wr-person-0094">Bornstein, Dr. Paul</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">812</fw>
+               <fw type="ctext">BORNSTEIN.</fw>
+            </fw>
+            <p rend="no-intend">unerreicht trotz allen Nachahmern. Ist seine Poesie krank? Man kann<lb/>
+es nicht sagen. Ist sie gesund? Nimmermehr! Die Mitte zwischen<lb/>
+Krankheit und Gesundheit hält sie: sie ist nicht mehr krank wie die<lb/>
+Decadenz, die Maeterlinck überwunden; sie ist noch nicht gesund —<lb/>
+sie ist zu künstlich, zu mönchisch-christlich, zu mystisch, um gesund<lb/>
+zu sein, aber sie tendirt zu einer neuen Gesundheit. Reconvalescenten-<lb break="no"/>
+poesie hat sie Harden genannt; Maeterlinck steht «auf halber Höhe des<lb/>
+Berges, dessen Scheitel eine neue Sonne krönt«. Einer neuen Schönheit,<lb/>
+einer neuen Natur ringt er entgegen mit neuen Mitteln; ein echter<lb/>
+Schöpfer, baut er vor uns eine neue Welt auf. Vielleicht ist diese<lb/>
+Schönheit künstlich: was thut’s? Jede Schönheit ist Erlösung in dieser<lb/>
+Zeit, die so rauh, diesem Leben, das so unkünstlerisch ist. Maeterlinck<lb/>
+ist ein Poet nicht für die Vielzuvielen, aber für die Aristokraten des<lb/>
+Geistes und der Seele, die selber feine Nerven haben und Tiefen und<lb/>
+Höhen wie er; für die Empfindenden und Suchenden, denen es noch<lb/>
+Räthsel gibt. Die Protzen des Verstandes, die an den Fingern ab-<lb break="no"/>
+zählen und es so herrlich weit gebracht haben, können ihn nicht<lb/>
+fassen. Wir Jüngeren aber, da wir ihn haben und verstehen, lassen<lb/>
+ihn uns nicht mehr nehmen; wir fühlen: unsere tiefsten Empfindungen<lb/>
+sind es, denen er die Lippe löst; unsere feinsten und besten Geheim-<lb break="no"/>
+nisse sind es, deren Mitwisser er ist. Und da er wie kein Zweiter<lb/>
+mit uns und in uns zu leben weiss, wie sollten nicht auch wir mit ihm<lb/>
+und in ihm leben?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-01_n0008.xml" prev="WR-03-01-01_n0007.xml" next="WR-03-01-01_n0009.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 1, S. 8</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0008"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0530">
+                  <title level="a">Über Richard Wagner</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="7" to="9"/>
+                  <idno type="fn">WR-03-01-01_n0007.xml</idno>
+                  <author ref="#wr-person-0171">Nietzsche, Friedrich</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">FRIEDRICH NIETZSCHE ÜBER RICHARD WAGNER.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Mensch in Deutschland, der diese zwei, der<lb/>
+zugleich Richard Wagner und Schopen-<lb break="no"/>
+hauer mit <hi rend="text-spaced">einer</hi> Begeisterung liebte.</p>
+                     <milestone unit="asterisk"/>
+                     <p>Einige meiner Freunde wurden angesteckt.<lb/>
+Es ist sehr gleichgiltig, ob mein<lb/>
+damaliges Bild des Künstlers oder des<lb/>
+Philosophen, in Hinsicht auf das vielleicht<lb/>
+zufällig mir dargebotene Subject (Richard<lb/>
+Wagner oder Schopenhauer) falsch ist;<lb/>
+vielleicht, dass der Irrthum sogar ins Un-<lb break="no"/>
+geheuerliche geht — was liegt daran!</p>
+                     <p>Nach langen Jahren, welche aber nichts<lb/>
+weniger waren als lange Unterbrechungen,<lb/>
+fahre ich fort, auch öffentlich das wieder<lb/>
+zu thun, was ich für mich immer thue<lb/>
+und immer gethan habe: nämlich Bilder<lb/>
+                        <hi rend="text-spaced">neuer</hi> Ideale an die Wand zu malen.</p>
+                     <milestone unit="asterisk"/>
+                     <p>Ich habe mich in eine gute helle Höhe<lb/>
+gehoben: und mancher, der mir, als ich<lb/>
+jung war, wie ein Stern über mir leuchtete,<lb/>
+ist mir nun fern — aber <hi rend="text-spaced">unter</hi> mir;<lb/>
+z. B. Sch(openhauer), W(agner).</p>
+                     <milestone unit="asterisk"/>
+                     <p>Eine gute Anzahl höherer und besser<lb/>
+ausgestatteter Menschen wird, wie ich<lb/>
+hoffe, endlich so viel Selbstüberwindung<lb/>
+haben, um den schlechten Geschmack für<lb/>
+Attitüde und die sentimentale Dunkelheit<lb/>
+von sich abzuthun und gegen Richard<lb/>
+Wagner ebenso sehr als gegen Schopen-<lb break="no"/>
+hauer sich zu wenden. Diese Deutschen<lb/>
+verderben uns, sie schmeicheln unseren<lb/>
+gefährlichsten Eigenschaften<milestone unit="4dots"/>
+                     </p>
+                     <milestone unit="asterisk"/>
+                     <p>Alles, was ich über R(ichard) W(agner)<lb/>
+gesagt habe, ist falsch. Ich empfand es<lb/>
+                        <date>1876</date>, »es ist an ihm alles unecht«; was<lb/>
+echt ist, wird versteckt oder decoriert.<lb/>
+Er ist ein Schauspieler in jedem schlimmen<lb/>
+und guten Sinne des Wortes.</p>
+                     <milestone unit="asterisk"/>
+                     <p>R. Wagner zu beschreiben — Ver-<lb break="no"/>
+such einer Dictatur. Aber zuletzt <hi rend="text-spaced">strich<lb/>
+er sich selber durch</hi>, unfähig zu einer<lb/>
+eigenen Gesammtconception. Die Ent-<lb break="no"/>
+zückungen des protestantischen Abend-<lb break="no"/>
+mahles verführten ihn! So gestand er mit</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">dem Schlusse seines Lebens unfreiwillig<lb/>
+ein, dass er verzweifelte und sich vor dem<lb/>
+Christenthum niederwarf.</p>
+                     <milestone unit="asterisk"/>
+                     <p>
+                        <hi rend="text-spaced">Die intellectuelle Charakter-<lb break="no"/>
+losigkeit</hi>. Als Richard Wagner mir gar<lb/>
+von dem Genusse zu sprechen begann,<lb/>
+den er dem christlichen Abendmahle (dem<lb/>
+protestantischen) abzugewinnen wisse, da<lb/>
+war es aus mit meiner Geduld. Er war<lb/>
+ein grosser Schauspieler, aber ohne Halt,<lb/>
+und inwendig die Beute von allen Sachen,<lb/>
+welche stark berauschen. Er hat alle<lb/>
+Wandlungen durchgemacht, welche die<lb/>
+guten Deutschen seit den Tagen der<lb/>
+Romantik durchgemacht haben: Wolfs-<lb break="no"/>
+schlucht und Euryanthe, Schauer-Hoffmann,<lb/>
+dann »Emancipation des Fleisches« und<lb/>
+Durst nach Paris, dann der Geschmack<lb/>
+für grosse Oper, für Meyerbeer’sche und<lb/>
+Bellini’sche Musik; Volkstribun, später<lb/>
+Feuerbach und Hegel — die Musik sollte<lb/>
+aus der Unbewusstheit heraus; dann die<lb/>
+Revolution, dann die Enttäuschung und<lb/>
+Schopenhauer und neue Annäherung an<lb/>
+deutsche Fürsten, dann Huldigungen vor<lb/>
+Kaiser und Reich, dann auch vor dem<lb/>
+Christenthum, mit Verwünschungen gegen<lb/>
+die »Wissenschaft«.</p>
+                     <milestone unit="asterisk"/>
+                     <p>Wagner hat vollkommen Recht, wenn<lb/>
+er sich vor jedem tiefen Christen in den<lb/>
+Staub wirft; aber er steht wirklich viel<lb/>
+tiefer als solche Naturen! Nur soll er sich<lb/>
+nicht beikommen lassen, die ihm über-<lb break="no"/>
+legenen <hi rend="text-spaced">höheren Naturen</hi> zu seiner<lb/>
+Attitüde herabzuziehen!</p>
+                     <milestone unit="asterisk"/>
+                     <p>Wie Winckelmann am Laokoon, gleich-<lb break="no"/>
+sam am Ende des Alterthums, den Sinn<lb/>
+für dasselbe sich erwarb, so Richard<lb/>
+Wagner an der Oper, der <hi rend="text-spaced">schlechtesten</hi>
+                        <lb/>
+aller Kunstgattungen, den Sinn für Stil,<lb/>
+d. h. Einsicht, dass es nicht möglich ist,<lb/>
+Künste zu isolieren.</p>
+                     <milestone unit="asterisk"/>
+                     <p>
+                        <hi rend="text-spaced">Der demagogische Charakter der<lb/>
+Kunst Wagners</hi> (wie bei Victor Hugo):<lb/>
+zuletzt mit der Consequenz, dass er sich</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

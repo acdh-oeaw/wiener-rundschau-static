@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-12_n0204.xml" prev="WR-04-12_n0203.xml" next="WR-04-12_n0205.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 12, S. 204</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="12"/>
+                        <biblScope unit="page" n="n0204"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0895">
+                  <title level="a">Zwei Zeichnungen</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="189" to="212"/>
+                  <idno type="fn">WR-04-12_n0189.xml</idno>
+                  <author ref="#wr-person-0295">Beardsley, Aubrey</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0896">
+                  <title level="a">Salome</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="189" to="212"/>
+                  <idno type="fn">WR-04-12_n0189.xml</idno>
+                  <author ref="#wr-person-0068">Wilde, Oscar</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">WILDE: SALOME.</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Und dann, der Ausbau des Tempels, von dem sie soviel geredet<lb/>
+haben, wird da etwas geschehen? Sie sagen, der Vorhang zum Allerheiligsten sei<lb/>
+verschwunden, nicht wahr?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Du hast ihn selber gestohlen. Du schwatzest in den Tag hinein<lb/>
+und sinnloses Zeug. Ich will nicht hierbleiben. Wir wollen hineingehen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Tanz’ für mich, Salome.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Ich will nicht haben, dass sie tanze.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Ich habe keine Lust zu tanzen, Tetrarch.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Salome, Tochter der Herodias, tanz’ für mich.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Sei still! Lass’ sie in Frieden.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Ich befehle dir zu tanzen, Salome.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SALOME: Ich will nicht tanzen, Tetrarch.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS (lachend): Du siehst, wie sie dir gehorcht.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Was kümmert es mich, ob sie tanzt oder nicht? Das gilt mir<lb/>
+gleich. Heut’ Nacht bin ich glücklich. Ich bin ausnehmend glücklich. Ich bin nie<lb/>
+so glücklich gewesen. <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ERSTER SOLDAT: Der Tetrarch blickt finster drein. Sieht er nicht<lb/>
+finster drein?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ZWEITER SOLDAT: Ja, er sieht finster drein.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Warum sollte ich nicht glücklich sein? Cäsar, der der Herr der<lb/>
+Welt ist, Cäsar, der der Herr über alles ist, liebt mich gar sehr. Er hat mir<lb/>
+höchst kostbare Geschenke übersandt. Auch hat er mir versprochen, den König von<lb/>
+Cappadocien, der mein Feind ist, nach Rom vorzuladen. Kann sein, dass er ihn in<lb/>
+Rom ans Kreuz schlagen lässt, denn er ist imstande, alles zu thun, wonach ihm<lb/>
+der Sinn steht. Cäsar ist in Wahrheit ein Herr. Drum thue ich wohl daran,<lb/>
+glücklich zu sein. Ich bin sehr glücklich, nie bin ich so glücklich gewesen. Nichts<lb/>
+in der Welt kann mein Glück stören.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>DIE STIMME DES JOCHANAAN: Er wird auf seinem Throne sitzen. Er wird<lb/>
+gekleidet sein in Scharlach und Purpur. In seiner Hand wird er einen goldenen<lb/>
+Becher halten, der voll ist seiner Lästerungen. Und der Engel des Herrn wird ihn<lb/>
+darniederschlagen. Er wird von den Würmern gefressen werden.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Du hörst, was er über dich sagt. Er sagt, du wirst von den<lb/>
+Würmern gefressen werden.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Er spricht nicht von mir. Er spricht nie gegen mich. Er spricht<lb/>
+von dem König von Cappadocien, der mein Feind ist. Der wird von den Würmern<lb/>
+gefressen werden. Ich bin es nicht. Nie hat er ein Wort gegen mich gesprochen,<lb/>
+dieser Prophet, außer, dass ich sündigte, als ich das Weib meines Bruders zum Weibe<lb/>
+nahm. Kann sein, er hat recht. Denn in der That, du bist unfruchtbar.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Ich bin unfruchtbar, ich? Das sagst du, du, der fortwährend<lb/>
+meine Tochter ansieht, du, der sich an ihrem Tanze weiden möchte? Du sprichst<lb/>
+wie ein Narr. Ich habe ein Kind geboren. Du hast kein Kind gezeugt, nein, nicht<lb/>
+mit einer einzigen deiner Sclavinnen. An dir liegt es, nicht an mir!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Still, Weib! Ich sage, du bist unfruchtbar. Du hast mir kein<lb/>
+Kind geboren, und der Prophet sagt, dass unsere Ehe keine rechte Ehe ist. Er<lb/>
+sagt, dass es eine Ehe der Blutschande ist, eine Ehe, die Unheil bringen wird <milestone unit="3dots"/>
+               <lb/>
+Ich fürchte, er hat recht; es ist mir sicher, dass er recht hat. Aber es ist nicht<lb/>
+die Stunde, von diesen Dingen zu sprechen. Ich möchte glücklich sein heute. Wahr-<lb break="no"/>
+haftig, ich bin glücklich. Es gibt nichts, was ich misse.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Ich bin froh, dass du heut’ Nacht so gutgelaunt bist. Es kommt<lb/>
+nicht oft vor bei dir. Aber es ist spät. Wir wollen hineingehen. Vergiss nicht,</p>
+         </div>
+      </body>
+   </text>
+</TEI>

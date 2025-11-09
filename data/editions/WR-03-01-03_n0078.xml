@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-03_n0078.xml" prev="WR-03-01-03_n0077.xml" next="WR-03-01-03_n0079.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 3, S. 78</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0078"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0558">
+                  <title level="a">Der Salon der Drei</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="76" to="78"/>
+                  <idno type="fn">WR-03-01-03_n0076.xml</idno>
+                  <author ref="#wr-person-0114">Rilke, Rainer Maria</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0559">
+                  <title level="a">Zwei Premieren: »Star«; »Vermächtnis«</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="78" to="78"/>
+                  <idno type="fn">WR-03-01-03_n0078.xml</idno>
+                  <author ref="#wr-person-0007">Schik, F.</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0560">
+                  <title level="a">Hof-Operntheater: »Donna Diana«</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="78" to="79"/>
+                  <idno type="fn">WR-03-01-03_n0078.xml</idno>
+                  <author ref="#wr-person-0166">Graf, Dr. Max</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">THEATER.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">und schleudert es wie eine dunkle<lb/>
+Kluft der tausendstämmigen Gier ent-<lb break="no"/>
+gegen<milestone unit="4dots"/>
+                     </p>
+                     <p>Rops ist Historiker; er ist also nicht<lb/>
+ein unseriger in jedem Sinn, und wir<lb/>
+können ihn nur lieben wie eine über-<lb break="no"/>
+lebensgrosse Vergangenheit. Warum sollen</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">wir von dem Zorn der entfremdeten Mächte<lb/>
+erzählen, die wir unerschöpfliche Möglich-<lb break="no"/>
+keiten neuer Götter sind? Gerade jetzt<lb/>
+hat unsere Kunst gelernt von jenem Gotte<lb/>
+zu träumen, der in der Wärme unserer<lb/>
+Liebe keimt und der erwachen wird einmal,<lb/>
+in unseren Enkeln vielleicht.</p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">THEATER</hi>.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="untyped-start"/>
+                     <p>
+                        <hi rend="text-spaced">Zwei Premièren</hi>. Unlängst hat<lb/>
+Hermann Bahr sich in einem Zuge mit<lb/>
+Arthur Schnitzler beinahe wegwerfend ge-<lb break="no"/>
+nannt: er meinte, beide seien ganz nette<lb/>
+Theaterleute. Wir aber stellen sie neben-<lb break="no"/>
+einander, damit es keinem Zweifel unter-<lb break="no"/>
+liege, dass in der That etwas Gemeinsames<lb/>
+zwischen ihnen nicht besteht. Schnitzler<lb/>
+ist eine strebsame Künstlernatur, Bahr<lb/>
+dagegen ein Lieferant von Dutzendware.<lb/>
+Schnitzlers Gestalten wachsen — aller-<lb break="no"/>
+dings in der Regel auf schlechtem Erdreich<lb/>
+— organisch heran, Bahr flickt seine<lb/>
+Figuren aus allerlei Material zusammen und<lb/>
+überlackiert die Ritzen zum Zwecke der<lb/>
+Irreführung des Publicums. Die Kunst<lb/>
+Schnitzlers vollendet sich mehr und mehr,<lb/>
+nur sein Gesichtsfeld will sich nicht<lb/>
+erweitern. Die grosse Einsicht bei der<lb/>
+Wahl des Themas, welche die grossen<lb/>
+Dichter an den Tag legten, war gewiss<lb/>
+keine unkünstlerische Findigkeit. Der Stoff<lb/>
+flog ihnen zu wie jeder andere grosse<lb/>
+Gedanke. Bei den Bahr’schen Erzeugnissen,<lb/>
+auch im »Star«, spielen seine Zettelkasten-<lb break="no"/>
+Notizen die Hauptrolle. Auf den Schein ober-<lb break="no"/>
+flächlicher Natürlichkeit ist sein ganzes<lb/>
+Streben gerichtet. Er stellt lebendig gemalte<lb/>
+Puppen hin, aber innen sind sie mit Säge-<lb break="no"/>
+spänen oder Werg gefüllt. Dramatische<lb/>
+Gestaltungskraft besitzt er keine. Im<lb/>
+Schnitzler’schen »Vermächtnis« gibt es<lb/>
+fast durchwegs wirkliche Menschen, aus-<lb break="no"/>
+gerüstet für weite, innere und äussere<lb/>
+Handlungswanderungen, aber Schnitzler<lb/>
+lässt sie nur auf einem kleinen Fleck<lb/>
+herumtrippeln — also auch Puppenschritte<lb/>
+machen. Während wir sie auf der Bühne<lb/>
+sehen, wirken sie oft recht langweilig,<lb/>
+weil sie unsere Phantasie knebeln, nach</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">der Vorstellung aber beginnen sie sich<lb/>
+zu recken und wenn wir acht Tage<lb/>
+von ihnen entfernt sind, lassen wir die<lb/>
+Schnitzler’schen Gestalten ganz andere Ver-<lb break="no"/>
+bindungen in unseren Gedanken eingehen,<lb/>
+die uns weit mehr interessieren, als es der<lb/>
+Dichter imstande war. Schnitzler ist ein<lb/>
+immerhin ernst zu nehmender Wiener Dra-<lb break="no"/>
+matiker, Bahr dagegen arbeitet, ohne dass<lb/>
+er sich es klar zu machen im Stande wäre<lb/>
+am literarischen Niedergang unserer Stadt:<lb/>
+er verwirrt die Kunstregeln. Er gilt in<lb/>
+Deutschland als Standarte der schrift-<lb break="no"/>
+stellerischen Lächerlichkeit, die über Wien<lb/>
+flattert. <rs type="person" key="">—<hi rend="italics">i</hi>—</rs>.</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-start"/>
+                     <p>
+                        <hi rend="text-spaced">Hofoperntheater</hi>. »<hi rend="text-spaced">Donna Diana</hi>«<lb/>
+von <hi rend="text-spaced">Reznicek</hi> ist die Schöpfung eines<lb/>
+musikalischen Journalismus. Je nach seinen<lb/>
+eigenen Sympathien für journalistisches<lb/>
+Denken, Fühlen, Kunstmachen wird man<lb/>
+dieses Werk als pikant, geistreich und<lb/>
+ähnlich bezeichnen, oder als flach, auf-<lb break="no"/>
+dringlich gemacht. Jede dieser Meinungen<lb/>
+hat ihre relative Berechtigung. Für den<lb/>
+                        <hi rend="italics">l’homme médiocre</hi> bedeutet die jour-<lb break="no"/>
+nalistische Kunst — die oberflächliche,<lb/>
+brillante, technisch-geschickte — sicher<lb/>
+eine Verfeinerung und eine höhere Stufe<lb/>
+der Cultur. Er findet in ihr seine eigenen<lb/>
+trivialen Vordergrundsgedanken wieder,<lb/>
+durch zärtliche Sentiments, witzige Ein-<lb break="no"/>
+fälle, cultivierte Glätte erhöht, auf einen<lb/>
+Thron erhoben. Sie präsentieren sich ihm<lb/>
+in einem höheren Entwicklungsstadium,<lb/>
+des Geistes, mit aller Autorität des Classi-<lb break="no"/>
+cismus ausgestattet. Aufs musikalische<lb/>
+Gebiet angewandt: man wird die Rasse<lb/>
+der banalen Menschen nicht verbessern,<lb/>
+indem man ihnen die Werke Richard<lb/>
+Wagners aufdrängt, zu welchen sie ihrer</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

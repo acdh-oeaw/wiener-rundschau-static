@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-21_n0800.xml" prev="WR-02-02-21_n0799.xml" next="WR-02-02-21_n0801.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 21, S. 800</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="21"/>
+                        <biblScope unit="page" n="n0800"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-09-15">15 9 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0496">
+                  <title level="a">Das Wiener Couplet </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 21</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="21">21</biblScope>
+                  <biblScope unit="page" from="797" to="800"/>
+                  <idno type="fn">WR-02-02-21_n0797.xml</idno>
+                  <author ref="#wr-person-0166">Graf, Dr. Max</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">800</fw>
+               <fw type="ctext">GRAF.</fw>
+            </fw>
+            <p rend="no-intend">formlos ist, kann in sich den Keim der Zukunft tragen. Wenn<lb/>
+aus diesen Kreisen — freilich primitive — künstlerische Ver-<lb break="no"/>
+bindungen zu den Ideenkreisen jener ersten Epoche alter Wiener<lb/>
+Kunst gesucht werden, deren Entwicklung in den Sechziger-Jahren<lb/>
+abgeschnitten worden ist, so könnten diese Bestrebungen zu den<lb/>
+Uranfangen der Wiener Musik und des Wiener Liedes, an welchem<lb/>
+in den letzten Jahrzehnten so furchtbar gesündigt worden ist,<lb/>
+zurück und weiter führen.</p>
+            <milestone unit="asterismUp"/>
+            <p>Zur gleichen Zeit, da in Wien alles in Krakauer’schen<lb/>
+Melodien schwelgte, begann in einem kleinen Beisel am Boulevard<lb/>
+Rochechouart Aristide Bruant seine grossen Hymnen des Elends<lb/>
+und jeder Noth der Menschheit zu singen, Marcel Legay com-<lb break="no"/>
+ponierte seinen »Chanson du semeur« und das Moulinrouge-Lied,<lb/>
+Poncin seine »Soularde« <milestone unit="5dots"/> Während in Paris aus dem alten<lb/>
+Chanson das neue Volkslied entstand und die Klänge der Mar-<lb break="no"/>
+seillaise einer neuen Zeit zum erstenmale ertönten, sassen in Wien<lb/>
+beim Heurigen Prinz und Fiaker brüderlich trunken beisammen<lb/>
+und sangen zum dünnen Klang zweier Violinen und einer<lb/>
+Harmonika:</p>
+            <milestone unit="verse-start"/>
+            <lg>
+               <l>»Menschen, Menschen san mir alle,</l>
+               <l>Fehler hat ein jeder gnua,</l>
+               <l>’s können ja nicht alle gleich sein,</l>
+               <l>Liegt schon so in der Natua!«</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

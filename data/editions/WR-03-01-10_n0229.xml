@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-10_n0229.xml" prev="WR-03-01-10_n0228.xml" next="WR-03-01-10_n0230.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 10, S. 229</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="10"/>
+                        <biblScope unit="page" n="n0229"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0625">
+                  <title level="a">Ehe</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 10</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="227" to="229"/>
+                  <idno type="fn">WR-03-01-10_n0227.xml</idno>
+                  <author ref="#wr-person-0208">Asenijeff, Elsa</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0626">
+                  <title level="a">Über Hans Schwaiger</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 10</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="10">10</biblScope>
+                  <biblScope unit="page" from="229" to="234"/>
+                  <idno type="fn">WR-03-01-10_n0229.xml</idno>
+                  <author ref="#wr-person-0206">Lindner, Anton</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">LINDNER: ÜBER HANS SCHWAIGER.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>In der Seele der jungen Frau wieder-<lb break="no"/>
+hallte es schmerzlich dissonierend: »<hi rend="text-spaced">Mühe-<lb break="no"/>
+volle Arbeit</hi>«.</p>
+                     <p>Dies tugendhafte Wort roch förmlich<lb/>
+nach Schweiss. Pfui!</p>
+                     <p>Sie verkroch sich tiefer in die Scham-<lb break="no"/>
+haftigkeit ihrer Seelengeheimnisse, wo die<lb/>
+seligen Verjüngungsfluten strömten. Dort<lb/>
+badete sie im Vergessen des Gewöhn-<lb break="no"/>
+lichen. Mann, Weib, Fessel, Ehesclaverei,<lb/>
+Unglück, alles versank. Zauberisch stieg<lb/>
+aus dieser Menschenseele der ewig neu-</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">geborene Gottmensch Schöpfer empor, der<lb/>
+eine Welt aus dem Nichts dichtet.</p>
+                     <p>Sie schuf eine herrliche Welt aus<lb/>
+nichts, aus dem Alltag ihres Gatten,<lb/>
+welcher, die Hände in den Taschen,<lb/>
+gähnend vor ihr stand; aus dem verbrannten<lb/>
+Gras und den zertretenen Kieswegen.</p>
+                     <p>Sie dichtete das Herrlichste, was sein<lb/>
+konnte. Etwas, das immer starb und<lb/>
+ewig neugeboren wurde. Auf den Purpur-<lb break="no"/>
+harfen ihrer Seele vibrierte das süsse,<lb/>
+thränenheisse Lied vom <hi rend="text-spaced">All-Leben</hi> —<lb/>
+von <hi rend="text-spaced">ihrem</hi> Leben.</p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">ÜBER HANS SCHWAIGER</hi>.<lb/>
+Von <rs type="person" key="">ANTON LINDNER</rs> (Wien).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>»Mann mit dem Antlitz einer bebrillten<lb/>
+Ratte« — so kann man itzt bei Miethke<lb/>
+zu Hans Schwaigers Selbstporträt sprechen<lb/>
+und diesem Conterfey in Demuth Reverenz<lb/>
+machen.«</p>
+                     <p>»Wofern es wahr ist, Mann, dass<lb/>
+Dein ergetzlicher Nasengrat so blitz und<lb/>
+blank zwei listigliche Äuglein trennt, ein<lb/>
+hürnen Oculare trägt, gigantisch, wie zwo<lb/>
+Theetassen, und über dem Seegras Deines<lb/>
+Schnauzbartes fast wie ein Lanzknecht<lb/>
+auf Posten steht —«</p>
+                     <p>»wofern es wahr ist, Mann, dass die<lb/>
+Staffelbeine Deines Rumpfes dürr sind,<lb/>
+wie geknickte Schachtelhalme, und dass<lb/>
+Du in engsten Hosenschläuchen und weissen<lb/>
+Filzschuhen über die Bohlen Deines<lb/>
+Alkovens hüpfst —«</p>
+                     <p>»wofern es wahr ist, Mann, dass<lb/>
+Dein Oberleib kürzer ist als Dein Unter-<lb break="no"/>
+leib, und dass Dir Gesslers Hut wie ein<lb/>
+Mauerschwamm aus dem Haupte wächst —«</p>
+                     <p>»wofern es wahr ist, Mann, dass Du<lb/>
+daheim in Deinem Urwald von morgens<lb/>
+bis abermorgens aus Kalkpfeifen, Thon-<lb break="no"/>
+pfeifen, Holzpfeifen zum Himmel qualmst,<lb/>
+auf schweinsledernen Hundertpfündern<lb/>
+brütest und trockene Maikäfer zu Farben<lb/>
+verreibst —«</p>
+                     <p>»wofern es wahr ist, Mann, dass Du<lb/>
+wie weiland Hans Grimmelshausen an<lb/>
+Teufel, Hexen und Galgenmännchen, in-</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">sonderheit aber an Wunschdinge, Spring-<lb break="no"/>
+wurzeln und heilige Vögel glaubst — —:«</p>
+                     <p>»dann neige ich mich, Hans Schwaiger<lb/>
+de la Mancha, in Demuth vor Deinem<lb/>
+Angesicht. Denn sieh: dann kündest Du,<lb/>
+Dein Werk, Dein Leben die Eintracht,<lb/>
+Einheit und süsse <hi rend="text-spaced">Harmonia</hi>, von der<lb/>
+einst Simplicius Simplicissimus, der Stief-<lb break="no"/>
+sohn eines slavonischen Gauklers, in Sehn-<lb break="no"/>
+sucht und holder Rührung geträumt!<lb/>
+Denn sieh: dann ist Dein Schaffen wie<lb/>
+Du, Dein Wachen wie Du, Dein Träumen<lb/>
+wie Du — und jeder Pinselstrich, den<lb/>
+Du malst, jeder Athemzug, den Du hauchst,<lb/>
+ist Eins mit Dir, Eins in Dir, Eins wie<lb/>
+Gott und Welt. Das wär’ ein Gott, der<lb/>
+nur von aussen stiesse! Wie würdest Du<lb/>
+lachen, Schwaiger, käm’ solch ein Jammer-<lb break="no"/>
+gott Dir in den Weg! Auf Künstlern<lb/>
+aber, die nicht von aussen stossen, liegt<lb/>
+Sommersegen, das weisst Du. Sie lieben<lb/>
+sich, weil sie ihre Kunst lieben. Sie lieben<lb/>
+ihre Kunst, weil sie sich selber lieben.<lb/>
+Sie verzagen nie, weil sie der Anderen<lb/>
+nicht bedürfen. Denn sie <hi rend="text-spaced">können nicht</hi>
+                        <lb/>
+wider sich selbst. Man setze sie in die<lb/>
+Amethystfauteuils der Herzogin von West-<lb break="no"/>
+minster, in die Dschungeln Hinterindiens,<lb/>
+zwischen die Eisquadern der arktischen<lb/>
+Zone, auf den schiefen Thurm Pisas, in<lb/>
+die Lavafluten des Ätna: stets werden sie<lb/>
+ihr tönend Herz bewahren, mit Kinder-</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

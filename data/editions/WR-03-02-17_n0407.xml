@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-17_n0407.xml" prev="WR-03-02-17_n0406.xml" next="WR-03-02-17_n0408.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 17, S. 407</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="17"/>
+                        <biblScope unit="page" n="n0407"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0699">
+                  <title level="a">»Blaubart und Ariane«</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 17</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="17">17</biblScope>
+                  <biblScope unit="page" from="393" to="415"/>
+                  <idno type="fn">WR-03-02-17_n0393.xml</idno>
+                  <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="act-start"/>
+            <ab>
+               <title>DRITTER ACT.</title>
+            </ab>
+            <p>Die Marmorsäulenhalle. Die Laden und Kästchen stehen offen. Überall auf Hausrath<lb/>
+und Teppichen liegen die kostbaren Seidenstoffe, Gold- und Silberbrocate, Perlen-<lb break="no"/>
+Halsbänder, Gürtel und Armbänder, Ringe und Geschmeide aller Zeiten und Länder<lb/>
+ausgebreitet. Es ist Nacht; die Kronleuchter brennen. Die FÜNF FRAUEN stehen vor<lb/>
+den grossen Spiegeln und knüpfen ihr Haar auf, legen ihre schimmernden Gewänder<lb/>
+in Falten und schmücken sich mit Blumen und Edelsteinen, während ARIANE von der<lb/>
+Einen zur Andern geht, ihnen räth und hilft. Die Fenster öffnen sich in die Nacht.</p>
+            <milestone unit="speech-start"/>
+            <p>SÉLYSETTE:</p>
+            <p>Ariane, glaubst Du, dass er heute abends noch zurückkommt?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Ja, ich habe den ganzen Tag lang eine grosse Bewegung im Dorfe be-<lb break="no"/>
+merkt. Die Bauern müssen eine schlimme Nachricht bekommen haben. Sie<lb/>
+haben sich mit Gabeln und Knütteln bewaffnet. Sie haben versucht, an das<lb/>
+Schloss zu kommen, aber die Wache ist ihnen am Aussenthor entgegen-<lb break="no"/>
+getreten <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SÉLYSETTE:</p>
+            <p>Wo ist er hingegangen?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Er hat’s mir nicht verrathen. Er ist noch am Abend desselben Tages<lb/>
+gegangen, an dem ich gekommen bin. Ich habe ihn nicht wieder gesehen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SÉLYSETTE:</p>
+            <p>Er hat Dich mehr als einmal geküsst?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Ja.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>MELISANDE:</p>
+            <p>Oh, ich fürchte mich <milestone unit="3dots"/> Du wirst nicht fortgehen?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE:</p>
+            <p>Wie soll ich denn fortgehen, wo alle Thore geschlossen sind? Aber was<lb/>
+thust Du da, Melisande? Dein Haar ist fast wie ein Wunder. Dort unten im<lb/>
+Kerker leuchtete es und würde noch in der Nacht des Grabes lächeln. Und Du<lb/>
+bemühst Dich, jede seiner Flammen zu ersticken? <milestone unit="3dots"/> Halt an, dass ich noch<lb/>
+einmal das Licht befreie.</p>
+            <milestone unit="untyped-end"/>
+            <p>(Sie reisst ihr den Schleier fort, schneidet die Bänder der Haarflechten mit der<lb/>
+Schere entzwei, und Melisandes ganzes volles Haar geht plötzlich auf und über-<lb break="no"/>
+strömt ihre Schultern wie Gold.)</p>
+            <milestone unit="speech-start"/>
+            <p>YGRAINE<lb/>
+(sich umwendend, um Melisande zu sehen):</p>
+            <p>Oh!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>SÉLYSETTE<lb/>
+(sich gleichfalls umwendend):</p>
+            <p>Und so schön ist sie, dass ich fast glaube, sie ist’s nicht mehr <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>ARIANE<lb/>
+(geht zu Sélysette):</p>
+            <p>Und Du, Sélysette, was hast Du gemacht? Wo sind Deine holdseligen Arme?</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

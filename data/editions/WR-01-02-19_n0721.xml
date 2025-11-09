@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-19_n0721.xml" prev="WR-01-02-19_n0720.xml" next="WR-01-02-19_n0722.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 19, S. 721</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="19"/>
+                        <biblScope unit="page" n="n0721"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-08-15">15 8 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0237">
+                  <title level="a">Die zwei Frauen des Bürgers von Brügge</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 19</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="19">19</biblScope>
+                  <biblScope unit="page" from="717" to="721"/>
+                  <idno type="fn">WR-01-02-19_n0717.xml</idno>
+                  <author ref="#wr-person-0030">Barrès, Maurice</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DIE ZWEI FRAUEN DES BÜRGERS VON BRÜGGE.</fw>
+               <fw type="pn">721</fw>
+            </fw>
+            <p rend="no-intend">Was aber hatte sie von der Liebe und von der Eitelkeit jemals gewusst,<lb/>
+welche die Welt erfüllen? In ihrer Seele blühte nichts, das complicirter<lb/>
+wäre, als was im Innenhof des Schwesternheims zu sehen, diesem un-<lb break="no"/>
+regelmässigen Viereck, das eine von schmalen Pfaden durchschnittene<lb/>
+Wiese überzieht, worin gleich Osterpalmen lange, schwächliche Pappel-<lb break="no"/>
+bäume aufragen.</p>
+            <p>Ihre letzten Altweiberwünsche waren, dass man sie den Ihren zu<lb/>
+Füssen betten möge, und das überraschte Niemand, denn man achtete<lb/>
+Jene Gottseligen gleich. Sie wollte auch, dass man sie in Erz bilde<lb/>
+und ihnen zu Füssen auf dem Grabmal an den Ort stelle, wo<lb/>
+man gewöhnlich den treuen Hund hinsetzt. Allein diese Demuth schien<lb/>
+übertrieben und dem Familiensinn entgegen; so sieht man sie nun<lb/>
+auch in der Kirche alle Drei als Ebenbürtige nebeneinander unter-<lb break="no"/>
+gebracht, jedes von ihnen die Banderole in der Hand, darauf die<lb/>
+frommen Worte zu lesen, die sie gewählt hatte: »Martha, Martha, du<lb/>
+hast viele Sorge und Mühe — Maria aber hat das gute Theil erwählet.«</p>
+            <p>Ich aber protestire gegen diese Nichtbeachtung ihres berechtigten<lb/>
+Wunsches, ich widersetze mich dieser beleidigenden Gleichheit, in die<lb/>
+man sie gegen ihren Willen zu der Anderen erhoben! Und wenn alle<lb/>
+Welt Lobpreisungen erhebt über die armseligen Primitiven, über alle<lb/>
+Memlings und alle hindämmernden Tugenden, so will ich die italienische<lb/>
+Pracht lobpreisen, die Leidenschaft, die nicht schlummert, die Leiden-<lb break="no"/>
+schaft, die auch die Geberde der Leidenschaft hat, die handelnde<lb/>
+Leidenschaft!</p>
+            <p>Ah, wenn es auf mich ankäme, so sollte jene, die zur Dienerin<lb/>
+geboren war, in alle Ewigkeit zu den Füssen ihrer Herren ruhen. Gott<lb/>
+hätte eine Seele nicht in Flandern geschaffen, aus welcher er eine<lb/>
+Venetianerin hätte machen können! Mag sich die kleine Flamänderin<lb/>
+damit begnügen, geschätzt zu werden! Wir lieben und ehren nur die<lb/>
+theure Redemptoristin, und wenn mich etwas in einem Schwesternheim<lb/>
+bewegt, so ist es das, dass ich mich von dem Hintergrunde der Mittel-<lb break="no"/>
+mässigkeit mit doppeltem Feuer den Herrlichkeiten einer zärtlichen<lb/>
+und prangenden Leidenschaft zuwende.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-18_n0423.xml" prev="WR-03-02-18_n0422.xml" next="WR-03-02-18_n0424.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 18, S. 423</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="18"/>
+                        <biblScope unit="page" n="n0423"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0703">
+                  <title level="a">Gedichte</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 18</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="18">18</biblScope>
+                  <biblScope unit="page" from="422" to="423"/>
+                  <idno type="fn">WR-03-02-18_n0422.xml</idno>
+                  <author ref="#wr-person-0236">Walser, Robert</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">WALSER: GEDICHTE.</fw>
+            </fw>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>LEICHT GESAGT.</title>
+            </ab>
+            <lg>
+               <l>Mögen sich die Stunden dehnen</l>
+               <l>Wie der Himmel und mein Sehnen.</l>
+               <l>Schnell, wie eines Namens Nennen,</l>
+               <l>Ist mein fliegendes Erkennen.</l>
+               <l>Schneller als der Stunden Blähen,</l>
+               <l>Schneller als der Sehnsucht Flehen</l>
+               <l>Ist des Drängens Überstehen.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="verse-start"/>
+                     <ab>
+                        <title>TRUG.</title>
+                     </ab>
+                     <lg>
+                        <l>Nun wieder müde Hände,</l>
+                        <l>Nun wieder müde Beine;</l>
+                        <l>Ein Dunkel ohne Ende.</l>
+                        <l>Ich lache, dass die Wände</l>
+                        <l>Sich drehen, doch dies Eine</l>
+                        <l>Ist Lüge, denn ich weine.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+                  <cell>
+                     <milestone unit="verse-start"/>
+                     <ab>
+                        <title>MÜDIGKEIT.</title>
+                     </ab>
+                     <lg>
+                        <l>Entführ’ mich wie ich bin.</l>
+                        <l>Sieh, mein verirrter Sinn</l>
+                        <l>Weist von sich diese Welt,</l>
+                        <l>Die ihn nicht mehr erhellt.</l>
+                        <l>Komm, o ich werde brav</l>
+                        <l>Und selig stille sein</l>
+                        <l>In deinem dichten Schein,</l>
+                        <l>Heiliger, süsser Schlaf.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>SPRUCH.</title>
+            </ab>
+            <lg>
+               <l>Ich mache meinen Gang;</l>
+               <l>Der führt ein Stückchen weit</l>
+               <l>Und heim. Dann ohne Klang</l>
+               <l>Und Wort bin ich beiseit.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="asterisk"/>
+            <milestone unit="editorialStatement-start"/>
+            <p>Herr Robert <hi rend="text-spaced">Walser</hi>, der in einem Modewaren-Geschäfte zu Thun (Schweiz) thätig ist,<lb/>
+sendet uns ein Päckchen Gedicht-Manuscripte und fügt folgendes Schreiben bei: »Indem ich<lb/>
+hoffe, dass ich Ihnen mit meiner Zusendung nicht überraschend komme, darf ich auch zugleich<lb/>
+hoffen, dass keine Störung hierin liegt. Wenn es doch der Fall wäre, so möchte ich um Ent-<lb break="no"/>
+schuldigung bitten. Ich überlasse alle Anordnung der Angelegenheit Ihrem Wohlwollen, dem<lb/>
+ich mich dankbarst und ruhig unterwerfe.«</p>
+            <p>Es freut uns, einem von jeglicher Pose freien Dichter begegnet zu sein, dessen Ver-<lb break="no"/>
+suche bei mancher Unbeholfenheit ein durchaus selbständiges Naturgefühl und wohl vor<lb/>
+allem jenes »nachtwandlerische« Schaffen und Schauen verrathen, das nicht nur zu Goethes<lb/>
+Zeiten als das unfehlbarste Zeichen ehrlicher Begabung gegolten. D. RED.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

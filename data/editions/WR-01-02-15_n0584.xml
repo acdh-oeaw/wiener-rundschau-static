@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-15_n0584.xml" prev="WR-01-02-15_n0583.xml" next="WR-01-02-15_n0585.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 15, S. 584</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="15"/>
+                        <biblScope unit="page" n="n0584"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-06-15">15 6 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0197">
+                  <title level="a">Zur Psychologie des Kerkerlebens</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 15</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="15">15</biblScope>
+                  <biblScope unit="page" from="579" to="584"/>
+                  <idno type="fn">WR-01-02-15_n0579.xml</idno>
+                  <author ref="#wr-person-0080">Zerboglio, Prof. Adolfo</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">584</fw>
+               <fw type="ctext">ZERBOGLIO.</fw>
+            </fw>
+            <p>So verliert die Gefängnisszelle in unseren Augen nach und<lb/>
+nach von ihrer Düsterkeit, von ihrem Elend und ihrem Schreckniss,<lb/>
+sobald wir wissen, wie ihre Inwohner beschaffen sind und was sie<lb/>
+fühlen. In jener kleinen Welt der Zelle leben Individuen, die weit<lb/>
+weniger unglücklich sind als so Mancher, der Freiheit und wohl auch<lb/>
+Reichthum geniesst <milestone unit="3dots"/>
+            </p>
+            <p>Eine grosse Anzahl von Sträflingen, denen ich mich näherte,<lb/>
+bestand aus rückfälligen Verbrechern, also aus solchen, die durchaus<lb/>
+nicht vor einer etwaigen Kerkerstrafe zurückschrecken und die sich<lb/>
+durch diese absolut nicht vor Begehen eines neuen Verbrechens zurück-<lb break="no"/>
+schrecken liessen.</p>
+            <p>Natürlich gehören nicht alle Sträflinge zu der Kategorie der eben<lb/>
+geschilderten. Es gibt unter ihnen auch solche, für welche die Zelle<lb/>
+eine unsägliche Folter bedeutet. Die wenigen Quadratmeter, innerhalb<lb/>
+welcher der Mensch einem wilden Thier im Käfig gleicht, sind für<lb/>
+gewisse Menschen geradezu ein unerträgliches Martyrium, und die Ge-<lb break="no"/>
+fängnissdirectoren sind manchmal gezwungen, gewisse Individuen der<lb/>
+Einzelhaft zu entziehen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

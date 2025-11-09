@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-09_n0111.xml" prev="WR-04-09_n0110.xml" next="WR-04-09_n0112.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 9, S. 111</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="09"/>
+                        <biblScope unit="page" n="n0111"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0861">
+                  <title level="a">Stefan George: Der Teppich des Lebens und die Lieder von Traum und Tod</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 9</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="09">9</biblScope>
+                  <biblScope unit="page" from="109" to="115"/>
+                  <idno type="fn">WR-04-09_n0109.xml</idno>
+                  <author ref="#wr-person-0254">Gundolf, Friedrich</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">GUNDOLF: STEFAN GEORGE, DER TEPPICH DES LEBENS.</fw>
+            </fw>
+            <milestone unit="verse-start"/>
+            <lg>
+               <l>Wir die als fürsten wählen und verschmähn</l>
+               <l>Und welten heben aus den alten angeln</l>
+               <l>Wir sollen siech und todesmüde spähn</l>
+               <l>Und denken dass des höchsten wir ermangeln —</l>
+            </lg>
+            <lg>
+               <l>Dass wir der Liebe treuste priester wol</l>
+               <l>Sie suchen müssen in verhülltem jammern</l>
+               <l>Die augen weit von wilden feuern hohl —</l>
+               <l>Und wenn wir endlich unser gut umklammern</l>
+            </lg>
+            <lg>
+               <l>Dass es verehrt gekrönt genossen kaum</l>
+               <l>Den sinnen wieder flüchtet fahl und mürbe <milestone unit="2dots"/>
+               </l>
+               <l>All unsre götter schalten nur und schaum!</l>
+               <l>»Ich weiß dass euer herz verblutend stürbe</l>
+            </lg>
+            <lg>
+               <l>Wenn ich den spruch nicht kennte der es stillt:</l>
+               <l>Da jedes bild vor dem ihr fleht und fliehet</l>
+               <l>Durch euch so gross ist und durch euch so gilt <milestone unit="2dots"/>
+               </l>
+               <l>Beweinet nicht zu sehr was ihr im liehet!«</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="verse-start"/>
+            <lg>
+               <l>So werd ich immer harren und verschmachten</l>
+               <l>Die Sonne steigt noch. Meine fahrt wird schlimm.</l>
+               <l>»Gepeinigt wärest du von gleichem trachten</l>
+               <l>Auch wenn ich heut dir sagte: komm und nimm!</l>
+            </lg>
+            <lg>
+               <l>Denn du gedeihst in kämpfen die dir ziemen</l>
+               <l>Du weisst dass stets ein linder balsam fliesst</l>
+               <l>Von meinem munde auf die blutigen Striemen</l>
+               <l>Doch ist hier niemand der sie dauernd schliesst.«</l>
+            </lg>
+            <lg>
+               <l>Und die verehrend an mein knie getastet</l>
+               <l>Und die ich lenke mit dem fingerzeig</l>
+               <l>Und deren haupt an meiner brust gerastet?</l>
+               <l>»Die jünger lieben doch sind schwach und feig.«</l>
+            </lg>
+            <lg>
+               <l>So ring ich bis ans end allein? so weil ich</l>
+               <l>Niemals versenkt im arm der treue? sprich</l>
+               <l>»Du machst dass ich vor mitleid zittre. Freilich</l>
+               <l>Ist keiner der dir bleibt: nur du und ich.«</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <table>
+               <row>
+                  <cell>
+                     <p>Wenn das Vorspiel Leben und Lösung<lb/>
+des Einzelnen zum Gegenstand hat, so<lb/>
+ist der Inhalt des »Teppichs« (des eigent-<lb break="no"/>
+lich beherrschenden Werks der drei Gedicht-<lb break="no"/>
+kreise) die Entstehung der Menschheits-<lb break="no"/>
+Cultur unter dem Gesichtspunkte der<lb/>
+Deutschen. Wir verstehen dabei unter<lb/>
+Cultur die völlige Freiheit und Sicherheit<lb/>
+der einem Volke gemäßen Lebensäusse-<lb break="no"/>
+rungen (am Einzelnen heisst es »Stil«),</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">unter Entwicklung zur Cultur den Drang<lb/>
+aus ungemäßen äußeren oder inneren<lb/>
+Zuständen. An seinen einzelnen Typen<lb/>
+wird das Ganze deutlich: so gestaltet der<lb/>
+»Teppich« diese einzelnen selbst als künst-<lb break="no"/>
+lerische Gebilde und stellt aus vielen<lb/>
+Einzelentwicklungen, welche ineinander<lb/>
+übergreifen, die Gesammtentwicklung dar.</p>
+                     <p>Ein poetisches Geleitwort, fast pro-<lb break="no"/>
+grammatisch, eröffnet das Ganze.</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

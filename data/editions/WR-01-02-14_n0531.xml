@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-14_n0531.xml" prev="WR-01-02-14_n0530.xml" next="WR-01-02-14_n0532.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 14, S. 531</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="14"/>
+                        <biblScope unit="page" n="n0531"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-06-01">1 6 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0177">
+                  <title level="a">Drei Cartons von Sascha Schneider</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 14</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="14">14</biblScope>
+                  <biblScope unit="page" from="530" to="531"/>
+                  <idno type="fn">WR-01-02-14_n0530.xml</idno>
+                  <author ref="#wr-person-0073">Basedow, Hans von</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DREI CARTONS VON SASCHA SCHNEIDER.</fw>
+               <fw type="pn">531</fw>
+            </fw>
+            <p>Und Alles ist Götzenbild, was den Menschen unfrei<lb/>
+macht — so ist er schuldig vor Allen, nur nicht vor sich<lb/>
+selbst.</p>
+            <p>Finster und ernst und kalt starrt ihn das steinerne<lb/>
+Götzenbild an — sicher und siegesgewiss.</p>
+            <p>Steinern und hart liegt es vor ihm — es ist die Un-<lb break="no"/>
+freiheit, die Unwahrheit, die Blödheit, die Tödtung des Selbst.</p>
+            <p>Und sie will er vernichten, der dasteht in seiner kühnen<lb/>
+Mannheit. Sein Geschoss glüht und brennt, das er in der<lb/>
+Hand schwingt, zu vernichten die Lüge, die Unfreiheit, die<lb/>
+Götzen —</p>
+            <p>Vergebener Kampf! Das Geschoss fliegt hinaus — aber<lb/>
+der steinerne Moloch liegt da — ruhig, kalt, hart, finster wie<lb/>
+zuvor — und vernichtet ist der freiheitsdurstige Mensch, der<lb/>
+Kämpfer für „Wahrheit, schuldig vor den Gesetzen, schuldig<lb/>
+vor Gott — aber schuldfrei vor sich selbst.</p>
+            <ab>
+               <title>III.</title>
+            </ab>
+            <p>Nacht — heilige, schweigende Nacht. Am Himmel<lb/>
+blinken die Sterne friedevoll, ruhig, mild.</p>
+            <p>Und es blickt zum Himmel das Weib, der Quell, das<lb/>
+Symbol der Menschheit, fragend und sehnend, gelehnt an<lb/>
+die grosse Sphynx, den Thierleib mit dem seltsamen Weib-<lb break="no"/>
+antlitz, gelehnt an die grosse Frage, die glühend und be-<lb break="no"/>
+gehrend und räthselhaft ist, wie das Weibantlitz, die grosse<lb/>
+Frage, die nur <hi rend="text-spaced">eine</hi> Antwort findet: den Thierleib.</p>
+            <p>Die grosse Frage: Warum gibt es eine Schuld? Und<lb/>
+der Mensch blickt gen Himmel, der daliegt in unergründ-<lb break="no"/>
+licher Klarheit und Reinheit, friedlich und mild.</p>
+            <p>Ringsum Natur — und in der Natur gibt es keine<lb/>
+Schuld. Steh da, du Mensch, und frage die Natur, sie wird<lb/>
+dir keine Antwort geben — Schuld gibt es nur, wo es<lb/>
+Menschen gibt.</p>
+            <p>Frage nicht den Himmel und die blinkenden Sterne,<lb/>
+wende dich um, Mensch, sieh dir an deine Frage, das selt-<lb break="no"/>
+same Weibantlitz, sieh dir an die Antwort: den Thierleib.—</p>
+            <p>Heilige, schweigende Nacht — am Himmel blinken die<lb/>
+Sterne, friedvoll und ruhig und mild.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

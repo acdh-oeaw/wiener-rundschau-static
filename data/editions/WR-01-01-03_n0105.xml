@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-03_n0105.xml" prev="WR-01-01-03_n0104.xml" next="WR-01-01-03_n0106.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 3, S. 105</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0105"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-15">15 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0032">
+                  <title level="a">Eine Rettung</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="104" to="108"/>
+                  <idno type="fn">WR-01-01-03_n0104.xml</idno>
+                  <author ref="#wr-person-0020">Elbogen, Friedrich</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">EINE RETTUNG.</fw>
+               <fw type="pn">105</fw>
+            </fw>
+            <p rend="no-intend">schwornen der neuen Aera der Justizpolitik den entschieden-<lb break="no"/>
+sten Widerstand entgegengesetzt hätten. Damals erwies sich,<lb/>
+wie unerlässlich die Geschwornengerichte in Oesterreich sind.<lb/>
+Sie wurden auch bald genug suspendirt (<date>1883</date>).</p>
+            <p>Eine der interessantesten unter den Gerichtsverhand-<lb break="no"/>
+lungen jener Tage spielte sich in Leoben ab. Die Alpen-<lb break="no"/>
+länder waren der radicalste Flügel der Propaganda geworden,<lb/>
+die inzwischen ihr System, ihre Presse, ihren Fonds und in<lb/>
+Wien ihren natürlichen Mittelpunkt gefunden hatte. Die<lb/>
+Männer dort haben etwas von dem Eisen ihrer Berge im<lb/>
+Blute.</p>
+            <p>Die Staatspolizei hielt an der Behauptung fest, dass<lb/>
+alle Arbeiterdistricte Oesterreichs damals von einem dichten<lb/>
+Netz geheimer, aneinander gegliederter Clubs umsponnen<lb/>
+waren; die Leitung wurde in den Hauptstädten jener Bezirke<lb/>
+vermuthet. Jede dieser Städte hatte ihren Hochverrathsprocess<lb/>
+und nahezu überall mit demselben Misserfolg der Anklage.<lb/>
+Leoben, als Mittelpunkt der nordsteierischen Eisenindustrie,<lb/>
+kam ziemlich spät an die Reihe. Auch hier soll eine ge-<lb break="no"/>
+heime hochverrätherische Verbindung existirt haben, und um<lb/>
+sie aufzudecken, zu vernichten und zugleich die Rädelsführer<lb/>
+zu strafen, wurde fünf Montanarbeitern von Obersteier der<lb/>
+Process gemacht, der nach dem ersten Angeklagten »Process<lb/>
+Schwarzelmüller« genannt ward. Es waren fünf blutjunge<lb/>
+Leute, insgesammt intelligent, temperamentvoll, herzensgut.<lb/>
+Neun Monate waren die armen Jungen in Untersuchungshaft<lb/>
+gesessen, während von Staatsanwaltschaft und Polizei fieber-<lb break="no"/>
+haft gearbeitet wurde. Hochverrathsprocesse waren damals<lb/>
+jüngste Mode, und Leoben wollte natürlich nicht zurück-<lb break="no"/>
+stehen. Berge von Acten hatten sich angesammelt, dazu<lb/>
+eine Literatur von gedruckten Pamphleten, anarchistischen<lb/>
+Zeitungen, mit denen Obersteier überschwemmt worden war.<lb/>
+Die Verbreitung aller dieser Druckschriften wurde nun den<lb/>
+Angeklagten zur Last gelegt. Begründet wurde diese An-<lb break="no"/>
+schuldigung vor Allem mit der notorisch agitatorischen<lb/>
+Thätigkeit der Angeklagten. Dieses Argument erschien wohl<lb/>
+selbst der Anklagebehörde zu hinfällig und hätte leicht mit<lb/>
+der Erwägung entkräftet werden können, dass notorische<lb/>
+Agitatoren, das heisst also Menschen, auf welche die Polizei</p>
+         </div>
+      </body>
+   </text>
+</TEI>

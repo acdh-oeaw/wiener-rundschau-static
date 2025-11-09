@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-20_n0483.xml" prev="WR-03-02-20_n0482.xml" next="WR-03-02-20_n0484.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 20, S. 483</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="20"/>
+                        <biblScope unit="page" n="n0483"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0720">
+                  <title level="a">Du Prels Spiritismus und dieTheosophie</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 20</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="20">20</biblScope>
+                  <biblScope unit="page" from="480" to="483"/>
+                  <idno type="fn">WR-03-02-20_n0480.xml</idno>
+                  <author ref="#wr-person-0183">Hartmann, Franz</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0721">
+                  <title level="a">Die Schaubühne — ein Fest des Lebens</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 20</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="20">20</biblScope>
+                  <biblScope unit="page" from="483" to="486"/>
+                  <idno type="fn">WR-03-02-20_n0483.xml</idno>
+                  <author ref="#wr-person-0049">Fuchs, Georg</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">FUCHS: DIE SCHAUBÜHNE — EIN FEST DES LEBENS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>scharfsinniger Denker und Philosoph, der<lb/>
+ein aufrichtiges Bestreben hatte, die Wahr-<lb break="no"/>
+heit zu finden und den Muth besass, seine<lb/>
+Überzeugung auszusprechen. Ob es ihm<lb/>
+gelungen ist, vor seinem Tode noch auf<lb/>
+den Grund aller Dinge zu sehen, ist eine<lb/>
+Frage, die wir nicht beantworten können;<lb/>
+aber er hat den Spiritismus auf eine<lb/>
+höhere Stufe erhoben und der alltäglichen<lb/>
+Wissenschaft das Reich des Übersinnlichen</p>
+                  </cell>
+                  <cell>
+näher gebracht. Er hat der geistlosen<lb/>
+Lehre von »Kraft und Stoff« das »Be-<lb break="no"/>
+wusstsein« hinzugefügt. Dadurch hat er der<lb/>
+Materie den Geist (das Leben) gegeben<lb/>
+und dem stumpfsinnigen Materialismus<lb/>
+den Todesstoss in Deutschland beigebracht.<lb/>
+Er war in seiner Art ein Werkzeug der-<lb break="no"/>
+jenigen Kraft, welche den Fortschritt des<lb/>
+Menschengeistes leitet, und er hat seine<lb/>
+Aufgabe treulich erfüllt.<lb/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIE SCHAUBÜHNE — EIN FEST DES LEBENS.<lb/>
+Von <rs type="person" key="">GEORG FUCHS</rs> (Darmstadt).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Ohne Umschweife gesprochen: Was<lb/>
+wollen die Menschen, wenn sie vor die<lb/>
+Schaubühne kommen? — Sie wollen nichts,<lb/>
+als sich erheitern, sich ergötzen, sich er-<lb break="no"/>
+bauen: sie wollen ein <hi rend="text-spaced">Fest</hi>. Diesen An-<lb break="no"/>
+spruch <hi rend="text-spaced">muss</hi> die Kunst erfüllen, wenn<lb/>
+anders sie eine Stätte und Wirksamkeit<lb/>
+im Leben behaupten will. <hi rend="text-spaced">Goethe</hi> sagte<lb/>
+vom Theater: »Da ist Poesie, da ist<lb/>
+Malerei, da ist Gesang und Musik, da ist<lb/>
+Schauspielkunst und was nicht noch alles!<lb/>
+Wenn alle diese Künste und Reize von<lb/>
+Jugend und Schönheit an einem einzigen<lb/>
+Abend, <hi rend="text-spaced">und zwar auf bedeutender<lb/>
+Stufe</hi>, zusammenwirken, so gibt es ein<lb/>
+                        <hi rend="text-spaced">Fest</hi>, das mit keinem anderen zu ver-<lb break="no"/>
+gleichen.« — Wenn wir nun zusehen,<lb/>
+wie wir bei dem heutigen verwirrten<lb/>
+Stande der Dinge wieder zu einem solchen<lb/>
+Feste gelangen könnten, so thun sich<lb/>
+zweierlei Wege vor uns auf. Einestheils<lb/>
+können wir die <hi rend="text-spaced">vorhandenen</hi> Bühnen<lb/>
+durch zweckmässige Verbesserungen dazu<lb/>
+geeignet machen und anderntheils können<lb/>
+wir eine neue Einrichtung schaffen: <hi rend="text-spaced">das<lb/>
+Festspielhaus</hi>.</p>
+                     <p>Schon jetzt erachten es die Leiter<lb/>
+grösserer Bühnen für erspriesslich, dann<lb/>
+und wann Vorstellungen zu geben, die<lb/>
+sich in festlicher Weise herausheben aus<lb/>
+dem Durchschnitte der allabendlichen,<lb/>
+zeitvertreibenden Stücke. Leider blieben<lb/>
+sie fast durchwegs beim Ton-Drama. Das<lb/>
+war eine halbe Massnahme von Unge-<lb break="no"/>
+wissem Erfolge. Ungeachtet der Bayreuther</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Festspiele werden heute beinahe in jeder<lb/>
+grösseren Stadt so vortreffliche Auf-<lb break="no"/>
+führungen der musik-dramatischen Haupt-<lb break="no"/>
+werke veranstaltet, dass das Bedürfnis<lb/>
+nach »Muster-Aufführungen« dieser Art<lb/>
+mindestens sehr viel weniger dringend<lb/>
+ist als dasjenige nach einem <hi rend="text-spaced">festlichen<lb/>
+Ringe poetischer Dramen</hi>, die fast<lb/>
+allenthalben arg vernachlässigt werden.</p>
+                     <p>Wenn solche Festspiele jedoch einem<lb/>
+lebendigen, nationalen Bedürfnisse in Wahr-<lb break="no"/>
+heit genügen sollen, dann dürfen sie sich<lb/>
+freilich nicht mit jenen trübseligen Er-<lb break="no"/>
+zeugnissen einer entartenden und durch<lb/>
+und durch unschöpferischen »Literatur«<lb/>
+befassen, die heute der öffentlichen Meinung<lb/>
+aufgebürdet werden, seien wir offen, durch<lb/>
+gewisse Theater-Geschäfte und Schrift-<lb break="no"/>
+steller-Genossenschaften. Hier muss wieder<lb/>
+die <hi rend="text-spaced">wahre Dichtkuns</hi>t im Sinne <hi rend="text-spaced">Goethes</hi>
+                        <lb/>
+in den Vordergrund treten, hier müssen<lb/>
+vor allem die Bedingungen und Forde-<lb break="no"/>
+rungen in <hi rend="text-spaced">künstlerische</hi>r Weise erfüllt<lb/>
+werden, welche das <hi rend="text-spaced">Leben</hi> stellt.</p>
+                     <p>Die erste Forderung ist die, dass die<lb/>
+Zuschauer äusserlich und innerlich heraus-<lb break="no"/>
+gehoben sein wollen aus dem Alltage,<lb/>
+wenn sie für mehr als Alltägliches zu-<lb break="no"/>
+gänglich sein sollen. Der Gedanke <hi rend="text-spaced">Goethes</hi>
+                        <lb/>
+und Richard <hi rend="text-spaced">Wagners</hi>, alle Künste zu-<lb break="no"/>
+sammenwirken zu lassen zur Erregung<lb/>
+der festlichen Stimmung in der schauenden<lb/>
+Gemeinde, ist festzuhalten. Schon die<lb/>
+                        <hi rend="text-spaced">Ankündigung</hi> soll eine gewisse Würde<lb/>
+wahren. Wir laden die Menschen zu</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-01_n0018.xml" prev="WR-04-01_n0017.xml" next="WR-04-01_n0019.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 1, S. 18</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0018"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0785">
+                  <title level="a">Die Kaiserin</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 1</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="1" to="28"/>
+                  <idno type="fn">WR-04-01_n0001.xml</idno>
+                  <author ref="#wr-person-0232">Khnopff, Fernand</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0790">
+                  <title level="a">Richard Wagner und das französische Publicum</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 1</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="12" to="18"/>
+                  <idno type="fn">WR-04-01_n0012.xml</idno>
+                  <author ref="#wr-person-0187">Mauclair, Camille</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0791">
+                  <title level="a">Die Naturheilbewegung</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 1</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="18" to="23"/>
+                  <idno type="fn">WR-04-01_n0018.xml</idno>
+                  <author ref="#wr-person-0259">Wachtelborn, Carl</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">WACHTELBORN: DIE NATURHEILBEWEGUNG.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Wahnfried schlummert, nichts anderes<lb/>
+wünschte. Eine letzte, meine These unter-<lb break="no"/>
+stützende Beobachtung soll mir als Schluss-<lb break="no"/>
+folgerung dienen. Die »Meistersinger« sind<lb/>
+ein tief deutsches Werk, ebenso wie das<lb/>
+legendäre Drama der Tetralogie, ent-<lb break="no"/>
+halten aber keine Symbole. Nun, das<lb/>
+französische Publicum bejubelt sie und<lb/>
+verirrt sich keinen Augenblick darin. Es<lb/>
+ist also nicht die Eigenschaft der Sitten,<lb/>
+der Komik oder des deutschen Stils, was<lb/>
+sie im »Ring« zurückstoßen könnte. Es<lb/>
+ist der Symbolismus an sich selbst und</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">als ästhetische Methode. Nun aber gibt es<lb/>
+nie eine Meinungsverschiedenheit über eine<lb/>
+                        <hi rend="text-spaced">Methode</hi>, sondern nur über die <hi rend="text-spaced">Emotion</hi>,<lb/>
+die das Verständnis eines Werkes hindert.<lb/>
+Und es gibt von nun an keine Schranke<lb/>
+mehr zwischen dem Genie Wagners und<lb/>
+dem französischen Publicum, die Emotion<lb/>
+kommt ungehindert zum Durchbruch und<lb/>
+die Discussionen verschwinden nach und<lb/>
+nach im Schatten; sie werden in den Rang<lb/>
+kritischer Curiositäten zurückgedrängt,<lb/>
+während das Licht des neuen Sternes<lb/>
+über der Welt erstrahlt.</p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIE NATURHEILBEWEGUNG.<lb/>
+IHRE BEDEUTUNG UND IHR EINFLUSS AUF CULTUR UND SEELENLEBEN.<lb/>
+Von <rs type="person" key="">CARL WACHTELBORN</rs> (Fürstenwalde, Spree).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Man mag über des Menschen Ver-<lb break="no"/>
+gangenheit, über seine Entstehung denken,<lb/>
+wie man will, — es bleibt über jeden<lb/>
+Streit und Zweifel erhaben, dass er einst<lb/>
+zur Natur und dem, was dieser zugrunde<lb/>
+liegt, in einem innigeren Verhältnis stand<lb/>
+als jetzt. Die Natur war sein Reich, in<lb/>
+dem er lebte und wirkte; sie war sein<lb/>
+Regiment und sein Gesetz.</p>
+                     <p>Gibt es denn aber überhaupt in der<lb/>
+Natur ein Gesetz, einen Willen, eine<lb/>
+herrschende Kraft? Gewiss. Versuche der<lb/>
+Mensch doch die in ihm thätigen Kräfte<lb/>
+zu hemmen durch seinen Willen, das,<lb/>
+was vom Anbeginn an, Zelle um Zelle,<lb/>
+den Aufbau seines Körpers leitete, selbst<lb/>
+zu lenken. Er kann es nicht. Die Natur<lb/>
+vielmehr ist und bleibt seine Herrin. Von<lb/>
+ihr, der großen Lenkerin des Lebens und<lb/>
+der Welten, wird auch er durch die<lb/>
+Schöpfung getragen — und er kann nicht<lb/>
+anders als: sich ihr willig fügen.</p>
+                     <p>Der Mensch fügte sich ihr einst; er<lb/>
+lebte naturgemäß, weil ihm erstens die<lb/>
+beständige Erfahrung sagte, dass das<lb/>
+Naturgesetz gut ist, und er so gar keinen<lb/>
+Grund hatte, dagegen zu fehlen; zweitens,<lb/>
+weil die Stimme der Natur noch klar<lb/>
+und deutlich in ihm sprach; denn sein<lb/>
+Sinn war noch rein, noch nicht von</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">unseren heutigen Dingen, von Opern und<lb/>
+Theatern, Zeitungen und Bauten, Cigarren<lb/>
+und Champagner, Eisenbahnen und Tele-<lb break="no"/>
+graphen, Polizei und Militär, Politik,<lb/>
+Steuern u. s. w. erfüllt, und so fand<lb/>
+denn der Natur geheime innere Sprache,<lb/>
+Instinct und Gewissen in seinem Be-<lb break="no"/>
+wusstsein ungetheiltes, willfähriges Gehör;<lb/>
+drittens aber lebte er naturgemäß, weil<lb/>
+er <hi rend="text-spaced">musste</hi>.</p>
+                     <p>Das Naturgesetz fordert, dass sich der<lb/>
+Mensch Bewegung mache, dass er reine<lb/>
+Luft athme, die Haut pflege, Licht- und<lb/>
+Luftcultur treibe, natürliche Nahrung ge-<lb break="no"/>
+nieße u. s. w. Nun, er <hi rend="text-spaced">musste</hi> sich<lb/>
+bewegen, um sich Nahrung zu verschaffen,<lb/>
+um sich seiner Feinde zu erwehren —<lb/>
+und noch aus den verschiedensten anderen<lb/>
+Gründen; er <hi rend="text-spaced">musste</hi> reine Luft athmen,<lb/>
+da er immer im Freien war, und durch<lb/>
+seine Arbeiten und Kämpfe wurde er<lb/>
+wohl auch oft genug zum nicht minder<lb/>
+wichtigen Tiefathmen gezwungen; er<lb/>
+                        <hi rend="text-spaced">musste</hi> Hautcultus treiben, weil die<lb/>
+Röcke aus Fellen, die Schürzen aus<lb/>
+Feigenblättern, die er einst trug, Licht<lb/>
+und Luft sicher genug zum Körper ge-<lb break="no"/>
+langen ließen. Essen und trinken jedoch<lb/>
+konnte er auch nichts weiter, als was<lb/>
+ihm seine Scholle im natürlichen Zustande</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

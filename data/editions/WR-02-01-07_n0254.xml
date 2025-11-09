@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-07_n0254.xml" prev="WR-02-01-07_n0253.xml" next="WR-02-01-07_n0255.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 7, S. 254</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="07"/>
+                        <biblScope unit="page" n="n0254"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-02-15">15 2 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0356">
+                  <title level="a">Im Garten</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 7</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="07">7</biblScope>
+                  <biblScope unit="page" from="254" to="254"/>
+                  <idno type="fn">WR-02-01-07_n0254.xml</idno>
+                  <author ref="#wr-person-0126">Holitscher, Arthur</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>IM GARTEN.</title>
+            </ab>
+            <lg>
+               <l>
+                  <hi rend="initial">Sie</hi> kam heraus zu mir</l>
+               <l>In ihrem hellen Morgenkleide</l>
+               <l>Und reichte mir die Hand.</l>
+            </lg>
+            <lg>
+               <l>Die war so krank wie Seide.</l>
+            </lg>
+            <lg>
+               <l>Ich sah sie lächelnd an, dann ernst.</l>
+               <l>Ihr Schritt war zart und schlank</l>
+               <l>Und that den kleinen Blumen nichts zu Leide.</l>
+            </lg>
+            <lg>
+               <l>Ein Morgenglockensang</l>
+               <l>Erbebte fernst.</l>
+               <l>Wir schwiegen beide.</l>
+            </lg>
+            <lg>
+               <l>Mir ward dabei im tiefen Herzen bang,</l>
+               <l>Ich musste um mich blicken, ob denn Frühling sei?</l>
+               <l>Der Herbst lag auf dem Land,</l>
+               <l>Die Sonnenstrahlen sanken müde auf den Sand.</l>
+            </lg>
+            <lg>
+               <l>Es war nicht Mai.</l>
+            </lg>
+            <p>München. <rs type="person" key="">Arthur Holitscher</rs>.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

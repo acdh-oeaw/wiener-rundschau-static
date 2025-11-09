@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-02_n0029.xml" prev="WR-04-01_n0028.xml" next="WR-04-02_n0030.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 2, S. 29</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="02"/>
+                        <biblScope unit="page" n="n0029"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0795">
+                  <title level="a">Drei Gedichte</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 2</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="02">2</biblScope>
+                  <biblScope unit="page" from="29" to="30"/>
+                  <idno type="fn">WR-04-02_n0029.xml</idno>
+                  <author ref="#wr-person-0263">Crane, Walter</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <rs type="person" key="">WALTER CRANE</rs>
+                  <lb/>
+LONDON <milestone unit="hr"/>
+                  <lb/>
+DREI GEDICHTE: <milestone unit="hr"/>
+               </title>
+            </ab>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>RONDELL.</title>
+            </ab>
+            <lg>
+               <l>Wenn, einer Schwalbe gleich,</l>
+               <l>Sorglos die ZEIT entflieht,</l>
+               <l>Dann in der LIEBE Reich</l>
+               <l>Schweigt ihrer Vögel Lied.</l>
+               <l>Die Bäume werden bleich,</l>
+               <l>Denn auch der Frühling schied,</l>
+               <l>Wenn, einer Schwalbe gleich,</l>
+               <l>Sorglos die ZEIT entflieht.</l>
+               <l>Wer weiss, ob dann entweicht</l>
+               <l>Der Traum, der uns umzieht,</l>
+               <l>Ob uns gefällt ein Streich,</l>
+               <l>Ob Hoffnung uns verrieth —</l>
+               <l>Wenn, einer Schwalbe gleich,</l>
+               <l>Sorglos die ZEIT entflieht.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>TRIOLETT.</title>
+            </ab>
+            <lg>
+               <l>Im Lichte des Tags, im Schatten der Nacht</l>
+               <l>Das ist das Maass der ZEIT und des LEBENS;</l>
+               <l>Dero Herzen, dem nichts bange macht,</l>
+               <l>Im Lichte des Tags, im Schatten der Nacht,</l>
+               <l>Ist HOFFNUNG geboren und nicht gemacht,</l>
+               <l>Und das Herz sucht nie seine Schätze vergebens</l>
+               <l>Im Lichte des Tags, im Schatten der Nacht —</l>
+               <l>Das ist das Maass der ZEIT und des LEBENS.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
+      </body>
+   </text>
+</TEI>

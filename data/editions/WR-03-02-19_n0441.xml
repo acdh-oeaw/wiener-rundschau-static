@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-19_n0441.xml" prev="WR-03-02-18_n0440.xml" next="WR-03-02-19_n0442.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 19, S. 441</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="19"/>
+                        <biblScope unit="page" n="n0441"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0709">
+                  <title level="a">Dichtungen nach Baudelaire</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 19</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="19">19</biblScope>
+                  <biblScope unit="page" from="441" to="445"/>
+                  <idno type="fn">WR-03-02-19_n0441.xml</idno>
+                  <author ref="#wr-person-0176">George, Stefan</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIE BLUMEN DES BÖSEN <milestone unit="hr"/>
+                  <lb/>
+VON <rs type="person" key="">
+                     <hi rend="strong">CHARLES BAUDELAIRE</hi>
+                  </rs>
+                  <lb/>
+UMDICHTUNGEN <milestone unit="hr"/>
+                  <lb/>
+VON <rs type="person" key="">
+                     <hi rend="strong">STEFAN GEORGE</hi>
+                  </rs>
+                  <milestone unit="hr"/>
+               </title>
+            </ab>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>DER ALBATROS.</title>
+            </ab>
+            <lg>
+               <l>Oft kommt es, dass das Schiffsvolk zum Vergnügen</l>
+               <l>Die Albatros, die grossen Vögel, fängt,</l>
+               <l>Die sorglos folgen, wenn auf seinen Zügen</l>
+               <l>Das Schiff sich durch die schlimmen Klippen zwängt.</l>
+            </lg>
+            <lg>
+               <l>Kaum sind sie unten auf des Deckes Gängen,</l>
+               <l>Als sie, die Herrn im Azur, ungeschickt</l>
+               <l>Die grossen weissen Flügel traurig hängen</l>
+               <l>Und an der Seite schleifen wie geknickt.</l>
+            </lg>
+            <lg>
+               <l>Er, sonst so flink, ist nun der Matte, Steife,</l>
+               <l>Der Lüfte König duldet Spott und Schmach;</l>
+               <l>Der eine neckt ihn mit der Tabakspfeife,</l>
+               <l>Ein anderer ahmt den Flug des Ärmsten nach.</l>
+            </lg>
+            <lg>
+               <l>Der Dichter ist wie jener Fürst der Wolke,</l>
+               <l>Er haust im Sturm, er lacht dem Bogenstrang,</l>
+               <l>Doch hindern drunten zwischen frechem Volke</l>
+               <l>Die riesenhaften Flügel ihn am Gang.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
+      </body>
+   </text>
+</TEI>

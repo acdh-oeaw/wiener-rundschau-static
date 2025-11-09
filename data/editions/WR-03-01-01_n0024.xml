@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-01_n0024.xml" prev="WR-03-01-01_n0023.xml" next="WR-03-01-02_n0025.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 1, S. 24</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0024"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0537">
+                  <title level="a">Carltheater: »Eine guter Partie«</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="23" to="24"/>
+                  <idno type="fn">WR-03-01-01_n0023.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0538">
+                  <title level="a">»Vereinigung bildender Künstler Österreichs«</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="24" to="24"/>
+                  <idno type="fn">WR-03-01-01_n0024.xml</idno>
+                  <author ref="#wr-person-0173">Schölermann, Wilh.</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0539">
+                  <title level="a">Hofrath v. Scala und die Banausen</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="24" to="24"/>
+                  <idno type="fn">WR-03-01-01_n0024.xml</idno>
+                  <author ref="#wr-person-0174">Christomanos Constantin</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">RUNDSCHAU.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Sein Ensemble bewegt sich auf der<lb/>
+Höhe landläufigster Provinzroutine und<lb/>
+enthält keine irgendwie überraschende<lb/>
+schauspielerische Erscheinung. Viel be-<lb break="no"/>
+merkt wurde, dass nach der Première</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">des neuesten Werkes Victor Léons Col-<lb break="no"/>
+porteure an das das Haus verlassende<lb/>
+Publikum Reclamezettel mit der Auf-<lb break="no"/>
+schrift »<hi rend="text-spaced">Wo unterhält man sich am<lb/>
+besten</hi>?« vertheilten.</p>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">RUNDSCHAU</hi>.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="untyped-start"/>
+                     <p>
+                        <hi rend="text-spaced">Hofrath</hi> v. <hi rend="text-spaced">Scala und die Banausen</hi>.<lb/>
+Wir waren in den letzten Tagen Zeugen<lb/>
+einer selbst für Wien erniedrigenden Hetze<lb/>
+gewesen. Dass man einen kaiserlichen<lb/>
+Prinzen in das hässliche Getümmel hin-<lb break="no"/>
+einzerrte, hat das moralische Niveau<lb/>
+des Schlachtfeldes nicht gehoben. Viel-<lb break="no"/>
+mehr muss man es beklagen, dass die<lb/>
+Banausen-Horde, die mit der Taktik der<lb/>
+Taktloligkeit und dem Geschütze der<lb/>
+Verleumdung und Verdächtigung gegen<lb/>
+den Feind der Unkunst gezogen, sich<lb/>
+selbst hinter einer edlen Gestalt ver-<lb break="no"/>
+schanzen konnte. Jetzt ist der Pulverdampf<lb/>
+verzogen und die Leichen werden sichtbar.<lb/>
+Da liegt vor allen der pensionierte Vor-<lb break="no"/>
+gänger des Herrn v. Scala, Hofrath Bruno<lb/>
+Bucher, auf der Walstatt. Ja, war er<lb/>
+nicht schon todt, bevor er in Pension<lb/>
+gieng? Oder seit wann stehen die pen-<lb break="no"/>
+sionierten Leichen wieder auf, um sich<lb/>
+dem flutenden Leben entgegenzustellen?<lb/>
+Eine handvoll Menschen, welche zur Über-<lb break="no"/>
+zeugung gekommen waren, dass sie an<lb/>
+den Rand ihrer künstlerischen Impotenz<lb/>
+und Geschmacklosigkeit gelangt waren,<lb/>
+haben in der letzten Stunde ihres Daseins<lb/>
+ihr Gift wider die kommende Kunst aus-<lb break="no"/>
+zuspeien versucht, indem sie gegen den<lb/>
+Leiter des österreichischen Museums die<lb/>
+ehrenrührige Beschuldigung erhoben, er<lb/>
+hätte aus geheimen Fonds ausländische<lb/>
+Möbel gekauft und in Wien anzubringen<lb/>
+getrachtet. Eigentlich hofften sie dadurch<lb/>
+ihren unvermeidlichen Untergang hinaus-<lb break="no"/>
+zuschieben und inzwischen dem auf-<lb break="no"/>
+blühenden, kleinen Gewerbe den Todes-<lb break="no"/>
+stoss zu versetzen. Hofrath v. Scala ist<lb/>
+nicht nur der moderne Mensch, der den<lb/>
+Adel der Kunst in sich verkörpert, sondern</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">im eigentlichen Sinne des Wortes der<lb/>
+sociale Kunstmäcen, der die wahre Kunst-<lb break="no"/>
+production in den Bereich eines jeden<lb/>
+kommen lassen will. Deswegen hat er<lb/>
+sich auch zum Ziele gesetzt, das Monopol<lb/>
+einiger Latifundien-Inhaber des Kunstge-<lb break="no"/>
+werbes zu brechen und das wahre Museum<lb/>
+für Kunst und Industrie auch dem kleinen<lb/>
+Gewerbetreibenden und dem kleinen Käufer<lb/>
+zu eröffnen.</p>
+                     <p>Die düpierte öffentliche Meinung wendet<lb/>
+sich nun mit Entrüstung und Abscheu<lb/>
+gegen die Kunstgewerbe-Jagos. Obwohl<lb/>
+sie sich selbst in einer solchen Rolle be-<lb break="no"/>
+schämende Inferiorität zu Schulden kommen<lb/>
+liessen, nachdem diesmal die neue Kunst<lb/>
+unerdrosselt blieb, wird ihnen hoffentlich<lb/>
+die öffentliche Auspeitschung nicht erspart<lb/>
+bleiben. <rs type="person" key="">
+                           <hi rend="italics">— hri —</hi>
+                        </rs>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-start"/>
+                     <p>Die »<hi rend="text-spaced">Vereinigung bildender<lb/>
+Künstler Österreichs</hi>« hat ihren<lb/>
+neuen Kunsttempel eingeweiht durch die<lb/>
+am Samstag erfolgte Eröffnung ihrer<lb/>
+zweiten Ausstellung. Das Schmerzenskind<lb/>
+der Wiener Bierbankästhetiker und Café-<lb break="no"/>
+kritiker ist seinem Beruf übergeben worden:<lb/>
+ein <hi rend="text-spaced">zeitgemässes Ausstellungs-<lb break="no"/>
+gebäude</hi> für <hi rend="text-spaced">Kunstwerke</hi> zu sein.<lb/>
+Wer das noch nicht erkannt hat, dem ist<lb/>
+nicht zu helfen. Auch die Ausstellung<lb/>
+selbst enthält fast nur Kunstwerke und<lb/>
+was erfreulich ist: die Österreicher fallen<lb/>
+diesmal gegen das Ausland nicht ab. In<lb/>
+diesen Tagen wird man wieder recht<lb/>
+hübsche Beobachtungen machen können,<lb/>
+wie weit die Wiener Kritik im Stande<lb/>
+ist, vor der Kunst zu bestehen! Hoffen<lb/>
+wir das Beste. — Wir kommen auf<lb/>
+Olbrichs Schöpfung und die Ausstellung<lb/>
+selbst zurück. <rs type="person" key="">
+                           <hi rend="italics">W. Sch.</hi>
+                        </rs>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="imprint-start"/>
+            <p>Herausgeber: <hi rend="strong">Constantin Christomanos</hi> und <hi rend="strong">Felix Rappaport</hi>. — Verantwortlicher Redacteur:<lb/>
+               <hi rend="strong">Constantin Christomanos</hi>.<lb/>
+K. k. Hoftheater-Druckerei, Wien, I., Wollzeile 17. (Verantwortlich A. Rimrich.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-04_n0129.xml" prev="WR-01-01-04_n0128.xml" next="WR-01-01-04_n0130.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 4, S. 129</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="04"/>
+                        <biblScope unit="page" n="n0129"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-01-01">1 1 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0038">
+                  <title level="a">Traum</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 4</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="127" to="130"/>
+                  <idno type="fn">WR-01-01-04_n0127.xml</idno>
+                  <author ref="#wr-person-0022">Hirschfeld, Georg</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">TRAUM.</fw>
+               <fw type="pn">129</fw>
+            </fw>
+            <lg>
+               <l>‚Weiss es nicht, der weiss es oben,</l>
+               <l>Wag’ den Blick, denn wir sind da <milestone unit="3dots"/>
+               </l>
+               <l>Sei geheiligt und geniesse.‘</l>
+            </lg>
+            <lg>
+               <l>Und ich fühlte es sich weiten,</l>
+               <l>Pfadlos ew’ge Ewigkeiten,</l>
+               <l>Und es drängte sich mein Ahnen</l>
+               <l>Aufwärts, immer neue Bahnen — —</l>
+               <l>Wonnevolles Gottessuchen <milestone unit="3dots"/>
+               </l>
+               <l>Und ein Wunsch aus meinem Munde</l>
+               <l>Wagt sich vor den Weltberather,</l>
+               <l>Reinbewusst der Feierstunde</l>
+               <l>Fühlt’ ich mich als Kind dem Vater.</l>
+            </lg>
+            <lg>
+               <l>»Bin ein Mensch, o neig’ dich nieder,</l>
+               <l>Mensch zu sein ist deine Ehre,</l>
+               <l>Doch wir brauchen eine Lehre,</l>
+               <l>Sende einen Christus wieder.</l>
+               <l>Herrlich und zerrissen ist der Menschengeist,</l>
+               <l>Tausend deiner Räthsel hat er schon ergründet,</l>
+               <l>Doch vor allen Schätzen, die er blutend findet,</l>
+               <l>Flieht die Liebe, die ihn in die Kindheit weist.«</l>
+            </lg>
+            <lg>
+               <l>Strahlende Reihen</l>
+               <l>Höchsten Ortes,</l>
+               <l>Ferne Schalmeien</l>
+               <l>Fernen Wortes:</l>
+            </lg>
+            <lg>
+               <l>»»Kind Christus sandt’ ich eurer Kindheit,</l>
+               <l>Kinderaugen sind Führer der Blindheit —</l>
+               <l>Den Weg der Lehre habt ihr verloren,</l>
+               <l>Mann Christus werde in euch geboren.</l>
+               <l>Einsamer Drang muss einsam es ergründen,</l>
+               <l>Ein Jeder in sich selbst Erlösung finden —</l>
+               <l>Die sündige Reife nun zu reinen,</l>
+               <l>Sind alle Kreuze nöthig statt des einen.««</l>
+            </lg>
+            <lg>
+               <l>Nebel schieben sich zu Füssen,</l>
+               <l>Duftig graues Silberfliessen,</l>
+               <l>Schweigen, Dunkeln, Niederschweben,</l>
+               <l>Schaudernd fühl’ ich neues Leben,</l>
+               <l>Breite meine Arme aus.</l>
+               <l>Nebel werden Wetterwolken,</l>
+               <l>Sterne zucken schwach heraus.</l>
+               <l>Und ich steh’ in meinem Lande,</l>
+               <l>In dem alten Erdenbande,</l>
+               <l>Kalte, weisse Winternacht.</l>
+               <l>Endlos breitet sich der Boden</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

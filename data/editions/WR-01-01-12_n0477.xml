@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-12_n0477.xml" prev="WR-01-01-12_n0476.xml" next="WR-01-01-12_n0478.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 12, S. 477</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="12"/>
+                        <biblScope unit="page" n="n0477"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-05-01">1 5 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0154">
+                  <title level="a">Chronik</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 12</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="474" to="477"/>
+                  <idno type="fn">WR-01-01-12_n0474.xml</idno>
+                  <author ref="#wr-person-0008">Kraus, Karl</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">CHRONIK.</fw>
+               <fw type="pn">477</fw>
+            </fw>
+            <p rend="no-intend">das schlechte Deutsch, das er an ihn verschwendet hat, fände<lb/>
+gewiss seine Anhänger. Dieser Extract aus allen literarischen Moden<lb/>
+der letzten Wochen, der Dunst von falschem Fin de siècle, in den das<lb/>
+Ganze gehüllt, der schwüle und schwülstige Styl, in dem es geschrieben<lb/>
+ist und der den Eindruck erweckt, als ob hier ein Mitglied der zweiten<lb/>
+schlesischen Dichterschule die Barrisons vorausgeahnt hätte — dies<lb/>
+Alles wäre sicher geeignet gewesen, die Unklarheit, die hierzulande<lb/>
+über Begriff und Wesen der modernen Literatur herrscht, zu steigern,<lb/>
+ernste Bestrebungen gründlich zu compromittiren. Aber Lindner hat<lb/>
+sich verleiten lassen, sein Werk als die Uebersetzung aus dem<lb/>
+Französischen eines angeblichen Vicomte d’<hi rend="text-spaced">Aubecq</hi> herauszugeben,<lb/>
+und je heftiger er uns einzureden sucht, dass ein französischer Autor<lb/>
+dieses Namens wirklich existire, desto rascher durchschaut auch der<lb/>
+ungeübteste Leser den längst abgenützten Tric. Für den Pariser sind<lb/>
+die Barrisons als der Auswurf des Variété abgethan; es ist ein specula-<lb break="no"/>
+tiver Wiener, der ihrem Auftreten im Etablissement Ronacher die Be-<lb break="no"/>
+deutung eines Culturereignisses zuschreibt.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-13_n0502.xml" prev="WR-01-02-13_n0501.xml" next="WR-01-02-13_n0503.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 13, S. 502</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="13"/>
+                        <biblScope unit="page" n="n0502"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-05-15">15 5 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0166">
+                  <title level="a">Das kriegerische Genie</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 13</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="499" to="502"/>
+                  <idno type="fn">WR-01-02-13_n0499.xml</idno>
+                  <author ref="#wr-person-0069">Ferrero, Guglielmo, Prof.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">502</fw>
+               <fw type="ctext">FERRERO.</fw>
+            </fw>
+            <p rend="no-intend">die Fähigkeit, mit der vollen Thatkraft, mit der Klarheit des Blickes<lb/>
+und der Grösse der Ideen jene Umwandlungen zu beschleunigen, die<lb/>
+für eine Gesellschaft nothwendig sind, deren Einrichtungen — nach<lb/>
+dem Ueberstehen furchtbarer Wirren — gefestigt und dauernder ge-<lb break="no"/>
+staltet wenden sollen. Er war also ein Schöpfer, und als solcher war<lb/>
+er ein frohsinniger Geist, ein Mann, wie ihn die Alten geschildert<lb/>
+haben: heiter und friedfertig, Herr über sich selbst, voll Vertrauen in<lb/>
+alle Dinge, in sich, in sein Glück, in seine Freunde, in die Zukunft<lb/>
+seiner Ideen, in die Vernünftigkeit und Dankbarkeit der Menschen.<lb/>
+Dieses optimistische Vertrauen in alle Dinge bei einem Manne, der so<lb/>
+viel gelebt und gehandelt hatte, musste für ihn die höchste Glück-<lb break="no"/>
+seligkeit bedeuten, deren ein Mann in einer solchen gewaltthätigen Epoche<lb/>
+fähig sein konnte. Und so kommt es auch, dass Julius Cäsar heute<lb/>
+noch, nach so vielen Jahrhunderten, uns ein freude- und jugendstrahlendes<lb/>
+Antlitz zeigt. Wie so ganz anders sieht neben ihm das finstere Antlitz<lb/>
+Napoleon’s aus, dieses furchtbaren Völkervernichters! Denn, seien wir<lb/>
+ehrlich, die Fabel vom schöpferischen Genius Napoleon’s ist eine der<lb/>
+grössten Täuschungen unseres Jahrhunderts. Die Intelligenz Napoleon’s<lb/>
+hatte wohl manche besondere, bewundernswerthe Eigenschaft: das<lb/>
+kolossale Gedächtniss für Einzelheiten, die Raschheit des Denkver-<lb break="no"/>
+mögens, die Widerstandsfähigkeit gegenüber allen Mühen; aber es<lb/>
+mangelte ihr an der grundlegenden Eigenschaft des wahren, politischen<lb/>
+Genies, an derjenigen, die Julius Cäsar in so überaus hohem Grade<lb/>
+besass; an dem Realismus, an der Fähigkeit, die Gesellschaft und deren<lb/>
+vielseitig verworrene Bedürfnisse und dunkle Neigungen zu verstehen,<lb/>
+um sie dieser selbst zu enthüllen und so ihre Aufgabe zu erfüllen. Es<lb/>
+ist unmöglich, in der ganzen Politik Napoleon’s irgend einen Plan, eine<lb/>
+Cohärenz, irgend eine leitende Idee zu finden, abgesehen von jener,<lb/>
+seinen Verwandten Throne zu geben; alles Uebrige ist das confuse<lb/>
+Gebahren eines Mannes, der, statt einer Gesellschaft ihre eigenen noch<lb/>
+verworrenen Tendenzen zu enthüllen, bloss bestrebt war, mit einer<lb/>
+fieberhaften, aber sterilen Willensanstrengung die ganze Gesellschaft<lb/>
+seinen eigenen überspannten und ausschweifenden Wahnideen anzu-<lb break="no"/>
+passen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

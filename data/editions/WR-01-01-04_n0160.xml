@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-04_n0160.xml" prev="WR-01-01-04_n0159.xml" next="WR-01-01-05_n0161.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 4, S. 160</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="04"/>
+                        <biblScope unit="page" n="n0160"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-01-01">1 1 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0047">
+                  <title level="a">Eingesendet</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 4</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="159" to="160"/>
+                  <idno type="fn">WR-01-01-04_n0159.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">160</fw>
+               <fw type="ctext">KRITIK.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">schickt, wenn man sich beleidigt<lb/>
+fühlt, seine Zeugen. Der in Rede<lb/>
+stehende Herr hat keinen dieser<lb/>
+beiden Wege betreten, sondern es<lb/>
+vorgezogen, die Sache in Kirch-<lb break="no"/>
+weihmanier durch eine thätliche<lb/>
+Attaque auf einen Ahnungslosen<lb/>
+auszutragen. Warum dieser Herr<lb/>
+den ersten Weg nicht eingeschlagen<lb/>
+hat, ist mir, wie oben schon an-<lb break="no"/>
+gedeutet, vollständig klar. Welche<lb/>
+Gründe haben ihn nun von dem<lb/>
+zweiten Wege abgehalten?</p>
+                     <p>Man kann ein <hi rend="text-spaced">principieller</hi>
+                        <lb/>
+Gegner des Duells sein, oder man<lb/>
+hat verschiedenartige Veranlassung,<lb/>
+es zu vermeiden, sei es nun aus<lb/>
+Mangel an Muth — das körper-<lb break="no"/>
+liche Kraftübergewicht des Einen<lb/>
+kann ja möglicherweise durch die<lb/>
+grössere Gewandtheit des Anderen</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">paralysirt werden — sei es, weil<lb/>
+man auf Grund einer bewegten Ver-<lb break="no"/>
+gangenheit den Spruch eines Ehren-<lb break="no"/>
+gerichtes fürchtet. Offenbar ist<lb/>
+dieser Herr ein <hi rend="text-spaced">principieller</hi>
+                        <lb/>
+Gegner des Duells <milestone unit="3dots"/>
+                     </p>
+                     <p>Die Art, wie er dieser Gegner-<lb break="no"/>
+schaft Ausdruck gab, die Anwen-<lb break="no"/>
+dung der Brachialgewalt, verdient<lb/>
+in jedem Falle die unbedingte Ver-<lb break="no"/>
+urtheilung, die sie in allen Kreisen<lb/>
+der Gesellschaft erfahren hat.</p>
+                     <p>Ich spreche im Namen Vieler,<lb/>
+geehrte Redaction, wenn ich Sie<lb/>
+bitte, vorstehenden Zeilen in Ihrem<lb/>
+geschätzten Blatte freundlichst Raum<lb/>
+geben zu wollen. Mit vorzüglicher<lb/>
+Hochachtung</p>
+                     <p>
+                        <rs type="person" key="">
+                           <hi rend="italics">Otto Werneck</hi>
+                        </rs>,<lb/>
+Wien, IX. Eisengasse 15.</p>
+                     <p>Am <date>22. December 1896</date>.</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="hr"/>
+            <milestone unit="imprint-start"/>
+            <p>Herausgeber und verantwortlicher Redacteur: <hi rend="text-spaced">Rudolf Strauss</hi>.</p>
+            <p>Ch. Reisser &amp; M. Werthner, Wien.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

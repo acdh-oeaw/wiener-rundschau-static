@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-12_n0212.xml" prev="WR-04-12_n0211.xml" next="WR-04-12_n0213.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 12, S. 212</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="12"/>
+                        <biblScope unit="page" n="n0212"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0895">
+                  <title level="a">Zwei Zeichnungen</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="189" to="212"/>
+                  <idno type="fn">WR-04-12_n0189.xml</idno>
+                  <author ref="#wr-person-0295">Beardsley, Aubrey</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0896">
+                  <title level="a">Salome</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 12</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="12">12</biblScope>
+                  <biblScope unit="page" from="189" to="212"/>
+                  <idno type="fn">WR-04-12_n0189.xml</idno>
+                  <author ref="#wr-person-0068">Wilde, Oscar</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">WILDE: SALOME.</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>HERODES: Sie ist ein Ungeheuer, deine Tochter; ich sage dir, sie ist ein<lb/>
+Ungeheuer. In Wahrheit, was sie gethan hat, ist ein großes Verbrechen. Mir ist<lb/>
+gewiss, es ist ein Verbrechen gegen einen unbekannten Gott.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODIAS: Ich bin ganz zufrieden mit meiner Tochter. Sie hat recht gethan.<lb/>
+Und ich möchte jetzt hier bleiben.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>HERODES (steht auf): Ah! da spricht meines Bruders Weib! Komm’! Ich<lb/>
+will nicht an diesem Orte bleiben. Komm’, sag’ ich dir! Sicher, es wird Schreckliches<lb/>
+geschehen. Manasseh, Issaschar, Ozias, löscht die Fackeln aus. Ich will all die Dinge<lb/>
+nicht sehen, ich will nicht leiden, dass all die Dinge mich sehen. Löscht die Fackeln<lb/>
+aus! Verbergt den Mond! Verbergt die Sterne! Wir wollen uns selber im Palaste<lb/>
+verbergen, Herodias. Ich fange an zu erzittern.</p>
+            <milestone unit="untyped-end"/>
+            <p>(Die Sclaven löschen die Fackeln aus. Die Sterne verschwinden. Eine große Wolke zieht<lb/>
+über den Mond und verhüllt ihn völlig. Die Bühne wird ganz dunkel. Der Tetrarch beginnt<lb/>
+die Treppe hinaufzusteigen.)</p>
+            <milestone unit="speech-start"/>
+            <p>DIE STIMME DER SALOME: Ah, ich habe deinen Mund geküsst, Jochanaan;<lb/>
+ich hab’ ihn geküsst, deinen Mond. Es war ein bitterer Geschmack auf deinen Lippen.<lb/>
+Hat er nach Blut geschmeckt? <milestone unit="3dots"/> Nein; doch schmeckte er vielleicht nach Liebe <milestone unit="3dots"/>
+               <lb/>
+Sie sagen, dass die Liebe bitter schmecke <milestone unit="3dots"/> Doch was thut’s, was thut’s? Ich<lb/>
+habe deinen Mund geküsst, Jochanaan, ich hab’ ihn geküsst, deinen Mund!</p>
+            <milestone unit="untyped-end"/>
+            <p>(Ein Strahl des Mondlichtes fällt auf Salome und beleuchtet sie.)</p>
+            <milestone unit="speech-start"/>
+            <p>HERODES (wendet sich um und erblickt Salome): Man tödte dieses Weib!</p>
+            <milestone unit="untyped-end"/>
+            <p>(Die SOLDATEN <hi rend="text-spaced">stürzen vor</hi> und <hi rend="text-spaced">zermalmen</hi> SALOME <hi rend="text-spaced">unter ihren Schilden</hi>.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
+      </body>
+   </text>
+</TEI>

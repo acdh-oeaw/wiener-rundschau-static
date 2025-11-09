@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-01_n0014.xml" prev="WR-01-01-01_n0013.xml" next="WR-01-01-01_n0015.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 1, S. 14</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0014"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-11-15">15 11 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0004">
+                  <title level="a">Venedig in Wien</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="13" to="14"/>
+                  <idno type="fn">WR-01-01-01_n0013.xml</idno>
+                  <author ref="#wr-person-0004">Altenberg, Peter</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">14</fw>
+               <fw type="ctext">ALTENBERG.</fw>
+            </fw>
+            <p>Ganz unbedenklich sitzen wir und schau’n und lauschen.</p>
+            <p>Noch eine Rose kaufen wir und schenken sie Maria.<lb/>
+Und noch eine Rose kaufen wir. Und einen Strauss von<lb/>
+Rosen.</p>
+            <p>Geld spielt keine Rolle.</p>
+            <p>Wie Aristokraten sind wir, die von ihren Gütern leben.<lb/>
+Etwas abseits vom schweren Leben sind wir. Wir schleichen<lb/>
+nicht dahin wie Brackwasser. Ueber uns selbst erstaunen wir.</p>
+            <p>Signorina Maria — — —!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>Der Baron.</title>
+            </ab>
+            <p>Baron Lulu sitzt mit gekreuzten Beinen vor den Strassen-<lb break="no"/>
+sängerinnen Emilia, Eliza, Ermelinda. Blumenmädchen bringen<lb/>
+Rosen, stecken dieselben in ein Glas auf dem Tische des Barons.<lb/>
+Für jede Rose eine Krone. Der Baron nimmt endlich den<lb/>
+Rosenstrauss, schüttelt das Wasser ab, umwickelt den Strauss<lb/>
+mit Papier, damit es trocken sei zum Anfassen. Das Papier<lb/>
+ist blau mit zwei zart ausgeführten Knabengestalten —<lb/>
+Staatsnote.</p>
+            <p>Ein Uhr Nachts. Emilia befindet sich im glücklichen<lb/>
+Besitze eines Rosenstrausses und eines blauen Papieres mit<lb/>
+zwei zart ausgeführten Knabengestalten.</p>
+            <p>Der Baron sitzt mit gekreuzten Beinen.</p>
+            <p>Die Azaleen leuchten lila-rosa und weinroth und schwefel-<lb break="no"/>
+gelb im Bogenlichte. Farben hauchen sie aus.</p>
+            <p>Niemand ist mehr im Café San Marco.</p>
+            <p>Die Kellnerinnen warten ehrerbietig.</p>
+            <p>Die Strassensängerinnen sind schlafen gegangen.</p>
+            <p>Auch Emilia?! Auch Emilia.</p>
+            <p>Der Baron sitzt da mit gekreuzten Beinen.</p>
+            <p>Noch eine Cigarrette zündet er sich an.</p>
+            <p>Welch ein Naturfreund ist er! Während Alles sich fort-<lb break="no"/>
+begibt, sitzt er wie versunken. Komisch kommt er sich vor,<lb/>
+ein Idealist zu sein — — —.</p>
+            <p>Die Kellnerinnen warten ehrerbietig — — —.</p>
+            <milestone unit="untyped-end"/>
+            <p>Wien. <rs type="person" key="">Peter Altenberg</rs>.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

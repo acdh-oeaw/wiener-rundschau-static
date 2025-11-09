@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-04_n0153.xml" prev="WR-02-01-04_n0152.xml" next="WR-02-01-04_n0154.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 4, S. 153</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="04"/>
+                        <biblScope unit="page" n="n0153"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-01-01">1 1 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0332">
+                  <title level="a">Reflexionen über deutschen Stil</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 4</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="04">4</biblScope>
+                  <biblScope unit="page" from="148" to="153"/>
+                  <idno type="fn">WR-02-01-04_n0148.xml</idno>
+                  <author ref="#wr-person-0101">Grossmann, Stefan</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">REFLEXIONEN ÜBER DEUTSCHEN STYL.</fw>
+               <fw type="pn">153</fw>
+            </fw>
+            <p>Vor einigen Jahren veranstaltete ein Wiener Stylkünstler Interviews<lb/>
+über den Antisemitismus. Diese Aufsätze schillerten in hundert Stylen.<lb/>
+Jeder Artikel war ein anderes Experiment. Plötzlich leugnete ein In-<lb break="no"/>
+terviewter die Richtigkeit einer Unterredung. Der Interviewer, in seiner<lb/>
+schriftstellerischen Rechtschaffenheit verletzt, widersprach in erregtem<lb/>
+Ton. Da zeigte sich plötzlich etwas sehr Amüsantes: In dem Moment,<lb/>
+wo der Interviewer in Erregung gerathen war, liess er alle Stylkünste<lb/>
+bei Seite und schrieb in einem ausgezeichneten, einfachen, natürlichen<lb/>
+Deutsch. Auf eine andere Weise ist keinem Stylkünstler beizukommen.<lb/>
+Man muss sie zur Probe in natürliche Erregung versetzen. Manche<lb/>
+Stylisten gehen ja in ihren Fälschungen so weit, dass sie es sich auch<lb/>
+erlauben, in ihrer ausgeklügelt überladenen Manier zu sprechen. — — —<lb/>
+Ehe sie nicht verwundet werden, geben sie keinen natürlichen Laut<lb/>
+von sich!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
+      </body>
+   </text>
+</TEI>

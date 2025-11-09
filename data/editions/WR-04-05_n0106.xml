@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-05_n0106.xml" prev="WR-04-05_n0105.xml" next="WR-04-05_n0107.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 5, S. 106</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="05"/>
+                        <biblScope unit="page" n="n0106"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0821">
+                  <title level="a">Landschaft</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 5</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="101" to="124"/>
+                  <idno type="fn">WR-04-05_n0101.xml</idno>
+                  <author ref="#wr-person-0273">Wenban, Sion L.</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0823">
+                  <title level="a">Die Philosophie des Giordano Bruno II.</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 5</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="05">5</biblScope>
+                  <biblScope unit="page" from="105" to="109"/>
+                  <idno type="fn">WR-04-05_n0105.xml</idno>
+                  <author ref="#wr-person-0275">Kuhlenbeck, Ludwig, Dr.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KUHLENBECK: DIE PHILOSOPHIE DES GIORDANO BRUNO.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <lg>
+                        <l>Und fast berühren sich die Küsten Afrikas</l>
+                        <l>Und die Toscanas, und die Häfen Adrias</l>
+                        <l>Sind kaum durch einen Silberstrich getrennt!</l>
+                        <l>Wo ist Sicilien, sprich! Es war doch sonst</l>
+                        <l>Ein großes Dreieck! Freilich gar zu weit</l>
+                        <l>Sind wir von jener Meereseng’ entfernt,</l>
+                        <l>Wo die Charybdis aus dem Jonischen</l>
+                        <l>Und Scylla aus dem Meer Hesperiens</l>
+                        <l>Die Wogen wechselseitig spei’n und schlürfen!</l>
+                        <l>Nun geh’ und lehre jene Mondbewohner,</l>
+                        <l>Es habe auf der Erde sich weit mehr</l>
+                        <l>Verändert, als sie auf der Cynthia Antlitz</l>
+                        <l>Von ihrem Standpunkt aus sich ändern seh’n!</l>
+                        <l>
+                           <hi rend="text-spaced">So gib denn auch die Sorge auf</hi>, <hi rend="text-spaced">wieso</hi>
+                        </l>
+                        <l>
+                           <hi rend="text-spaced">Es möglich sei gewesen</hi>, <hi rend="text-spaced">dass auch</hi>
+                        </l>
+                        <l>
+                           <hi rend="text-spaced">unsere Art</hi>
+                        </l>
+                        <l>
+                           <hi rend="text-spaced">Sich umgestaltet habe</hi>, <hi rend="text-spaced">wenn die Erde</hi>
+                        </l>
+                        <l>
+                           <hi rend="text-spaced">selbst</hi>
+                        </l>
+                        <l>
+                           <hi rend="text-spaced">Bald hier</hi>, <hi rend="text-spaced">bald dort den milden</hi>
+                        </l>
+                        <l>
+                           <hi rend="text-spaced">Himmelsstrich</hi>
+                        </l>
+                        <l>
+                           <hi rend="text-spaced">Mit vielgeschmückten</hi>, <hi rend="text-spaced">mannigfalt</hi>’<hi rend="text-spaced">gen</hi>
+                        </l>
+                        <l>
+                           <hi rend="text-spaced">Wesen</hi>,</l>
+                        <l>
+                           <hi rend="text-spaced">Bald hier</hi>, <hi rend="text-spaced">bald dort ein winterliches</hi>
+                        </l>
+                        <l>
+                           <hi rend="text-spaced">Kleid</hi>
+                        </l>
+                        <l>
+                           <hi rend="text-spaced">Und einen grauen Wolkenschleier</hi>
+                        </l>
+                        <l>
+                           <hi rend="text-spaced">führt</hi>.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>In den letzten Versen bezeugt Bruno<lb/>
+sich auch, wie an vielen anderen Stellen<lb/>
+seiner Werke, als einen Vorgänger der<lb/>
+modernen, von Lamark, Goethe, Darwin und<lb/>
+Häckel fachwissenschaftlich begründeten<lb/>
+biologischen <hi rend="text-spaced">Entwicklungslehre</hi>, die<lb/>
+er übrigens, ebenso wie seine universelle<lb/>
+Weltanschauung, im allgemeinen mit weit<lb/>
+älteren Dichtern und Denkern, vor allem<lb/>
+mit dem Jonier Heraklit und dem Sikuler<lb/>
+Empedokles theilt.</p>
+                     <p>Allein in der Auffassung des Trägers<lb/>
+dieses biologischen Entwicklungsprocesses<lb/>
+bildet ein wichtiges Moment einen erheb-<lb break="no"/>
+lichen Unterschied der Bruno’schen Ent-<lb break="no"/>
+wicklungslehre von der modernen, wenigstens<lb/>
+Häckels. Dieses Moment ist sein <hi rend="text-spaced">trans</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">cendentaler</hi>
+                        <hi rend="text-spaced">Individualismus</hi>. Nicht<lb/>
+die Gattung, die für Bruno nur ein Collectiv-<lb break="no"/>
+name ist, sondern das Individuum ist ihm<lb/>
+das Dauernde im Wechsel; um die<lb/>
+Terminologie des neuesten Buches von<lb/>
+Häckel* zu gebrauchen, Bruno ist kein<lb/>
+Thanatist, sondern entschiedener Athanist.<lb/>
+Anstatt zu sagen, das Individuum stirbt,<lb/>
+die Gattung dauert, muss man vielmehr<lb/>
+in Brunos metaphysischer Denkform sagen:<lb/>
+die Gattung, d. h. die zeitweilige biologische<lb/>
+Daseinsform des Individuums stirbt, das In-<lb break="no"/>
+dividuum selbst, als übersinnlicher Träger</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">der Gattung, ist ewig. Dieser allerdings im<lb/>
+letzten Grunde auch nur relative transcen-<lb break="no"/>
+dentale Individualismus, den er übrigens<lb/>
+ebenfalls mit Heraklit und Empedokles<lb/>
+theilt und der vielfach an die Reincarna-<lb break="no"/>
+tionslehre der <hi rend="text-spaced">indischen Theosophie</hi>
+                        <lb/>
+anklingt, führt uns auf seine Monadologie<lb/>
+zurück, die bekanntlich für Leibnitz, der<lb/>
+sie zweifellos benützt hat, ohne sie zu<lb/>
+nennen, die Grundlage seines individua-<lb break="no"/>
+listisch vertieften Theismus abgegeben hat.<lb/>
+Die All-Materie differenziert sich seit<lb/>
+Ewigkeit her in unzählige Einheiten, Ein-<lb break="no"/>
+heiten nicht nur von rein stofflicher<lb/>
+Function, die alsdann, wie der Materialis-<lb break="no"/>
+mus meint, die höheren seelischen Wir-<lb break="no"/>
+kungen vermöge einer unbegreiflichen<lb/>
+Wirkung ihrer jeweiligen räumlichen<lb/>
+Constellation vorübergehend zur Er-<lb break="no"/>
+scheinung bringen, d. h. nicht nur in<lb/>
+blinde <hi rend="text-spaced">Atome</hi>, sondern in seelische,<lb/>
+geistige Centren, <hi rend="text-spaced">Monaden</hi>; und es ist<lb/>
+nur ein Gradunterschied der inneren<lb/>
+Zustände, der die seelischen Monaden von<lb/>
+den blinden (schlummernden) Stoff-Atomen<lb/>
+unterscheidet. Der Unendlichkeit Mittel-<lb break="no"/>
+punkt ist ja überall, in jedem Punkte<lb/>
+des unendlichen Raumes ist ihr ganzes<lb/>
+Wesen gegenwärtig; darum ist das Größte<lb/>
+zugleich das Kleinste:</p>
+                     <milestone unit="verse-start"/>
+                     <lg>
+                        <l>Der Dinge Substanz ist das Kleinste,</l>
+                        <l>Und du findest dasselbe zugleich von unend-</l>
+                        <l>licher Größe,</l>
+                        <l>In ihm hast du Atom und Monad’ in dem</l>
+                        <l>wogenden Weltgeist,</l>
+                        <l>Den niemals die Masse beschränkt, der alles</l>
+                        <l>mit seinem</l>
+                        <l>Eigenen Zeichen bestimmt, und wenn du den</l>
+                        <l>Dingen ins Herz siehst,</l>
+                        <l>Du gewahrst als Wesen und Stoff von allem</l>
+                        <l>das Kleinste.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>In der Linie heißt es Punkt, im Körper<lb/>
+Atom, im Menschen die Seele. Das Kleinste<lb/>
+ist ebenso unvergänglich wie das Größte,<lb/>
+das Ganze; vergänglich sind nur die<lb/>
+äußeren Constellationen und die dadurch<lb/>
+bedingten inneren Zustände der einzelnen<lb/>
+Monaden, von denen jede das Weltall in<lb/>
+seiner besonderen Weise wiederspiegelt.<lb/>
+»Du findest nirgends zwei gleiche Dinge,<lb/>
+weder an Größe noch Gewicht, noch an</p>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* <hi rend="text-spaced">Welträthsel</hi>, Jena <date>1900</date>.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-15_n0578.xml" prev="WR-01-02-15_n0577.xml" next="WR-01-02-15_n0579.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 15, S. 578</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="15"/>
+                        <biblScope unit="page" n="n0578"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-06-15">15 6 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0195">
+                  <title level="a">Das Erwachen der Seele</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 15</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="15">15</biblScope>
+                  <biblScope unit="page" from="573" to="578"/>
+                  <idno type="fn">WR-01-02-15_n0573.xml</idno>
+                  <author ref="#wr-person-0001">Maeterlinck, Maurice</author>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0196">
+                  <title level="a">Spiel</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 15</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="15">15</biblScope>
+                  <biblScope unit="page" from="578" to="578"/>
+                  <idno type="fn">WR-01-02-15_n0578.xml</idno>
+                  <author ref="#wr-person-0067">Bodman, Emanuel von</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">578</fw>
+               <fw type="ctext">MAETERLINCK.</fw>
+            </fw>
+            <p rend="no-intend">Perioden, von denen ich sprach. Man fühlt von allen Seiten, dass die<lb/>
+Beziehungen des gewöhnlichen Lebens sich zu ändern beginnen, und<lb/>
+die Allerjüngsten unter uns sprechen und handeln schon ganz anders<lb/>
+als die Männer der vorhergegangenen Generation. Eine Menge von<lb/>
+unnützen Vorurtheilen, Gebräuchen, Schleiern und Zwischenwänden<lb/>
+fallen in den Abgrund, und wir Alle fast, ohne es zu wissen, beur-<lb break="no"/>
+theilen uns nur mehr nach dem Unsichtbaren. Wenn ich zum ersten-<lb break="no"/>
+male in dein Zimmer trete, wirst du nicht nach den tiefsten Gesetzen<lb/>
+der praktischen Psychologie die geheime Phrase aussprechen, die jeder<lb/>
+Mensch ausspricht in Gegenwart eines Menschen. Du wirst nicht dazu<lb/>
+gelangen, mir zu sagen, wohin du gegangen bist, um zu wissen, wer<lb/>
+ich bin, <hi rend="text-spaced">aber du wirst wiederkommen</hi>, beladen mit dem Ge-<lb break="no"/>
+wichte unsäglicher Sicherheiten. Dein Vater hätte mich vielleicht anders<lb/>
+beurtheilt und sich geirrt. »Haben wir,« wie Claude de Saint-Martin,<lb/>
+der grosse, »unbekannte Philosoph«, sagt, »haben wir einen Schritt<lb/>
+mehr gethan auf der belehrenden und lichterfüllten Strasse der Einfach-<lb break="no"/>
+heit der Wesen?« Lasst uns schweigend warten; vielleicht werden wir<lb/>
+binnen Kurzem »das Murmeln der Götter« hören.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">SPIEL</hi>.</title>
+            </ab>
+            <lg>
+               <l>Dass ich manchmal deine weiche Seele</l>
+               <l>Tief mit Blicken, tief mit Worten ritze,</l>
+               <l>Um sie später wieder heil zu küssen:</l>
+            </lg>
+            <lg>
+               <l>Sieh, du musst mein wildes Blut begreifen!</l>
+            </lg>
+            <lg>
+               <l>Denn ich liebe es, ins offne Meer</l>
+               <l>Hoch den Apfel meines Glücks zu werfen,</l>
+               <l>Um ihn, jubelnd, wieder zu erschwimmen.</l>
+            </lg>
+            <p>München. <rs type="person" key="">Emanuel v. Bodman</rs>.</p>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

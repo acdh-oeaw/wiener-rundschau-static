@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="WR-02-02-23_n0883.xml"
+     prev="WR-02-02-23_n0882.xml"
+     next="WR-02-02-23_n0884.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 23, S. 883</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="23"/>
+                        <biblScope unit="page" n="n0883"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-10-15">15 10 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text">
+                  <author/>
+                  <title n=""/>
+                  <biblScope unit="page">-</biblScope>
+                  <idno/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page"><fw type="hd"><fw type="ctext">EMILY BRONTÉ.</fw><fw type="pn">883</fw></fw><p rend="no-intend">Irrthum, der jede Berührung mit der Wirklichkeit meidet? Übrigens<lb/>
+soll mit alledem nicht gesagt werden, dass man unser intellectuelles<lb/>
+Bewusstsein einschränken müsste, und sich hüten müsste, es zu gut<lb/>
+zu nähren, während man sein moralisches Bewusstsein erwartet. Fürchten<lb/>
+wir niemals, unser Ideal sei <hi rend="text-spaced">zu</hi> wunderbar, als dass es sich dem Leben<lb/>
+anpassen könnte. Es bedarf eines Stromes von gutem Willen, um den<lb/>
+geringsten Act der Gerechtigkeit oder Liebe in Bewegung zu setzen.<lb/>
+Unsere Ideen müssen unserer Lebensführung zehnmal überlegen sein,<lb/>
+damit diese einfach rechtlich sei. Man muss ausnehmend viel Gutes<lb/>
+wollen, um ein wenig das Böse zu meiden. Keine Kraft der Welt<lb/>
+erleidet zahlreichere Verluste als eine Idee, welche ins tägliche Leben<lb/>
+herniedersteigen muss; darum muss man in seinen Gedanken heroisch<lb/>
+sein, um höchstens annehmbar und unanstössig zu sein in seinen<lb/>
+Thaten.</p><milestone unit="untyped-end"/><milestone unit="hr"/></div>
+      </body>
+   </text>
+</TEI>

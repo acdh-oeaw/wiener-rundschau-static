@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-20_n0345.xml" prev="WR-04-19_n0344.xml" next="WR-04-20_n0346.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 4, Nr. 20, S. 345</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="04"/>
+                        <biblScope unit="issue" n="20"/>
+                        <biblScope unit="page" n="n0345"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1900-01-01">1900</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0956">
+                  <title level="a">Aus der Ballade des Stockhauses zu Reading</title>
+                  <title level="j">Wiener Rundschau, Bd. 4, Nr. 20</title>
+                  <biblScope unit="volume" n="04">4</biblScope>
+                  <biblScope unit="issue" n="20">20</biblScope>
+                  <biblScope unit="page" from="345" to="349"/>
+                  <idno type="fn">WR-04-20_n0345.xml</idno>
+                  <author ref="#wr-person-0068">Wilde, Oscar</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>AUS DER BALLADE DES STOCKHAUSES ZU READING.<lb/>
+Von <rs type="person" key="">C. 3. 3.</rs>
+                  <lb/>
+(Zellennummer <rs type="person" key="">OSCAR WILDES</rs>).<lb/>
+                  <hi rend="text-spaced">In Memoriam</hi>
+                  <lb/>
+C. T. W.<lb/>
+weiland Reiter in der Königlichen Leibgarde<lb/>
+hingerichtet in Ihrer Majestät Gefängnis zu Reading, Berkshire, am <date>7. Juli 1896</date>.<lb/>
+                  <milestone unit="asterisk"/>
+Deutsche Nachdichtung von <rs type="person" key="">ARTHUR HOLITSCHEK</rs>.</title>
+            </ab>
+            <ab>
+               <title>I.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <lg>
+                        <l>Er trug nicht mehr seinen rothen Rock,</l>
+                        <l>Denn Blut und Wein sind roth,</l>
+                        <l>Und Blut und Wein klebten ihm auf der</l>
+                        <l>Hand,</l>
+                        <l>Als man ihn bei der Todten fand,</l>
+                        <l>Der armen todten Magd, die er liebt’</l>
+                        <l>Und gemordet hat in ihrem Bett.</l>
+                     </lg>
+                     <lg>
+                        <l>Er schritt zwischen den Gefangenen mit</l>
+                        <l>Im schäbigen, grauen Habit;</l>
+                        <l>Eine Cricketmütze saß auf dem Haar,</l>
+                        <l>Sein Gang gar leicht und fröhlich war;</l>
+                        <l>Doch nimmer sah einen Mann ich</l>
+                        <l>starren</l>
+                        <l>So glühend aufs Firmament.</l>
+                     </lg>
+                     <lg>
+                        <l>Nein, niemals sah solch starren Blick</l>
+                        <l>Auf zu dem Himmel ich brennen,</l>
+                        <l>Zum Himmel, wie die Sträflinge all</l>
+                        <l>Den winzigen blauen Fetzen nennen,</l>
+                        <l>Und jeglicher Wolke silbernem Flor,</l>
+                        <l>Der oben vorüberzog und sich verlor.</l>
+                     </lg>
+                     <lg>
+                        <l>Ich schritt mit den anderen verdammten</l>
+                        <l>Seelen</l>
+                        <l>In einem andern Ring,</l>
+                        <l>Und wunderte mich, ob jener dort</l>
+                        <l>Was Schweres wohl begieng?</l>
+                        <l>Da flüstert’s hinter mir scheu und gesenkt:</l>
+                        <l>»Der Junge dort wird gehenkt!«</l>
+                     </lg>
+                  </cell>
+                  <cell>
+                     <lg>
+                        <l>Mein Christ! Die starken Gefängnismauern</l>
+                        <l>Sah ich in ihren Festen erschauern,</l>
+                        <l>Der Himmel zu meinen Häupten erglomm</l>
+                        <l>Wie ein Helm aus glühendem Stahl;</l>
+                        <l>Und ob meine Seele in Verdammnis auch</l>
+                        <l>war,</l>
+                        <l>Vergaß sie der eigenen Qual.</l>
+                     </lg>
+                     <lg>
+                        <l>Nun wusste ich, welch ein gesetzter Sinn</l>
+                        <l>Ihm Schritt und Athem trieb,</l>
+                        <l>Und weshalb solch ein Blick voll Glut</l>
+                        <l>Am Lichte haften blieb;</l>
+                        <l>Der Mann hat gemordet sein Liebstes auf</l>
+                        <l>Erden,</l>
+                        <l>Und darum muss er verderben.</l>
+                     </lg>
+                     <milestone unit="asterisk"/>
+                     <lg>
+                        <l>Doch mordet ja jeder sein liebstes Ding,</l>
+                        <l>Damit ihr es nur hört!</l>
+                        <l>Der eine thut’s mit bösem Blick,</l>
+                        <l>Der and’re mit Schmeichelwort;</l>
+                        <l>Der Feigling thut’s in einem Kuss,</l>
+                        <l>Der Held mit seinem Schwert!</l>
+                     </lg>
+                     <lg>
+                        <l>Die morden ihre Liebe, solang sie jung,</l>
+                        <l>Jene erst, wenn sie alt sind;</l>
+                        <l>Die würgen sie mit Händen der Lust,</l>
+                        <l>Jene mit Händen, die von Gold sind;</l>
+                        <l>Die Besten gebrauchen ein Messer dazu,</l>
+                        <l>Weil die Todten dann so bald kalt sind.</l>
+                     </lg>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

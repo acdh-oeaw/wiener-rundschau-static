@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-19_n0718.xml" prev="WR-02-02-19_n0717.xml" next="WR-02-02-19_n0719.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 19, S. 718</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="19"/>
+                        <biblScope unit="page" n="n0718"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1898-08-15">15 8 1898</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0478">
+                  <title level="a">Aus den Aufzeichnungen über den amerikanischen Bürgerkrieg (1861—64)</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 2, Nr. 19</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="19">19</biblScope>
+                  <biblScope unit="page" from="718" to="723"/>
+                  <idno type="fn">WR-02-02-19_n0718.xml</idno>
+                  <author ref="#wr-person-0083">Whitman, Walt</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>AUS WALT WHITMANS AUFZEICHNUNGEN<lb/>
+ÜBER DEN AMERIKANISCHEN BÜRGERKRIEG (1861—64).<lb/>
+Übersetzt von <rs type="person" key="">Karl Federn</rs>.</title>
+            </ab>
+            <p>Im Jahre <date>1862</date> erhielt ich die erschreckende Nachricht, dass<lb/>
+mein Bruder Georg, Officier im 51. (New-Yorker) Freiwilligen-Regiment,<lb/>
+ernstlich verwundet worden war (in der ersten Schlacht bei Frederiks-<lb break="no"/>
+burg am <date>13. December</date>). Ich reiste sogleich nach dem Kriegsschauplatz<lb/>
+in Virginia. Ich muss aber ein wenig zurückgehen.</p>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">Eröffnung des Secessionskrieges</hi>.</title>
+            </ab>
+            <p>Die Nachricht vom Angriff auf Fort Sumter und auf die Flagge<lb/>
+im Hafen von Charleston (Süd-Carolina) traf in New-York spät nachts<lb/>
+(am <date>13. April 1861</date>) ein und wurde augenblicklich durch Extra-Aus-<lb break="no"/>
+gaben der Zeitungen verbreitet. Ich war in jener Nacht in der Oper in der<lb/>
+Vierzehnten-Strasse gewesen und gieng gegen Mitternacht auf meinem<lb/>
+Wege nach Brooklyn den Broadway hinunter, als ich in der Ferne<lb/>
+das laute Schreien der Zeitungsjungen hörte, die im nächsten Augen-<lb break="no"/>
+blick jagend und johlend die Strasse herauf kamen und noch wüthender<lb/>
+als sonst von einer Seite zur andern stürmten. Ich kaufte ein Extra-<lb break="no"/>
+blatt und gieng hinüber zum Metropolitan-Hotel (Niblo), wo die grossen<lb/>
+Lampen noch hell leuchteten und las nebst einer Menge von andern,<lb/>
+die sich sofort angesammelt hatten, die offenbar authentischen Nach-<lb break="no"/>
+richten. Zum Nutzen einiger, die keine Blätter hatten, las einer von<lb/>
+uns das Telegramm laut vor, während alle schweigend und aufmerksam<lb/>
+zuhörten. Keiner in der Menge, die auf dreissig oder vierzig angewachsen<lb/>
+war, machte eine Bemerkung, sondern alle standen, wie ich mich<lb/>
+erinnere, eine Minute oder zwei, bevor sie sich zerstreuten. Mir ist, als<lb/>
+sähe ich sie jetzt noch dort, unter den mitternächtigen Lampen stehen.</p>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">Nationale Erhebung und Freiwilligenthum</hi>.</title>
+            </ab>
+            <p>Ich habe irgendwo gesagt, dass die drei Präsidentiaden vor <date>1861</date>
+               <lb/>
+gezeigt haben, dass Schwäche und Niederträchtigkeit der Regierungen<lb/>
+gerade so möglich sind hier in Amerika unter republikanischen, wie<lb/>
+in Europa unter dynastischen Einflüssen. Aber was soll ich von jenem<lb/>
+schnellen und glänzenden Ringen mit der Secessionssclaverei, dem<lb/>
+personificierten Erzfeind, sagen, in dem Augenblick, wo er unver-<lb break="no"/>
+kennbar sein Gesicht zeigte? Das vulcanische Aufstürmen der Nation<lb/>
+nach jenem Feuern auf die Flagge bei Charleston bewies etwas als<lb/>
+sicher, was vorher schon zweifelhaft gewesen war und erledigte die<lb/>
+Trennungsfrage im wesentlichen sofort. Nach meinem Urtheil bleibt<lb/>
+es das grösste und ermuthigendste Schauspiel, das in irgend einem</p>
+         </div>
+      </body>
+   </text>
+</TEI>

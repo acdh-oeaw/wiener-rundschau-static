@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-03_n0084.xml" prev="WR-02-01-03_n0083.xml" next="WR-02-01-03_n0085.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 3, S. 84</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0084"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-12-15">15 12 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0321">
+                  <title level="a">Vision</title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="81" to="88"/>
+                  <idno type="fn">WR-02-01-03_n0081.xml</idno>
+                  <author ref="#wr-person-0123">Tetmajer, Kazimir</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">84</fw>
+               <fw type="ctext">TETMAJER.</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Andreas</hi>. Ja, und bevor Jacob Cormon auf offener See unter-<lb break="no"/>
+ging, da hörte seine Mutter in drei aufeinanderfolgenden Nächten seine<lb/>
+Stimme wie tief unter der Erde ächzen und stöhnen. Sie hat gleich<lb/>
+eine heilige Seelenmesse für ihn lesen lassen, denn sie wusste, dass er<lb/>
+nie mehr heimkehren würde. Er ist auch nie zurückgekommen, und bis<lb/>
+auf den heutigen Tag weiss Niemand, was mit ihm geschah, ob-<lb break="no"/>
+gleich es drei Jahre her ist. Ich bin damals noch in die Schule ge-<lb break="no"/>
+gangen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Priester</hi> (beunruhigt). Es ist wahr, als Missionär bin ich<lb/>
+ja meiner Heimat so viele, viele Jahre fern geblieben. Also ihr glaubt,<lb/>
+dass es von schlechter Vorbedeutung ist? <milestone unit="3dots"/> Aber nein, nein, Unsinn,<lb/>
+nur abergläubische Menschen denken sich Gott weiss was. Maria, wie<lb/>
+alt warst du, als ich das Land verliess, wie alt bist du?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Maria</hi>. Zwanzig Jahre, Oheim.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Priester</hi>. So warst du damals ein Jahr alt, denn neunzehn<lb/>
+Jahre ist es her. Gerhard war fünf Jahre alt. Ich habe das Kind so<lb/>
+lieb gehabt, es war so hübsch, so zuthunlich, das Ebenbild unserer<lb/>
+Mutter. Andreas ist während meiner Abwesenheit zur Welt gekommen.<lb/>
+Ein strammer Bursch, trotzdem er an Hallucinationen leidet. Er er-<lb break="no"/>
+innert etwas an den Vater. Wie kommt es mir jetzt so lang vor,<lb/>
+seitdem ich zuletzt hier gewesen. Da war ich freilich nicht so alt wie<lb/>
+jetzt. Ich hatte noch kein einziges graues Haar. Als ich mich nach<lb/>
+Afrika einschiffte, war ich zweiundvierzig Jahre alt. Wer ist denn der<lb/>
+Carl, von dem ihr eben gesprochen habt?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Andreas</hi>. Ein Freund unseres Gerhard, der Sohn des alten<lb/>
+Lorenz von oberhalb des Felsens.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Priester</hi>. Der Sohn des alten Lorenz? Ja, ja, ich erinnere<lb/>
+mich. Der hatte eine Schramme im Gesicht, sie stammte von einem<lb/>
+englischen Säbel. Lebt er noch? Er muss ja sehr alt sein? Er war be-<lb break="no"/>
+deutend älter als ich.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Andreas</hi>. Vor sieben Jahren ist er gestorben</p>
+            <milestone unit="untyped-end"/>
+            <ab type="catchall">.</ab>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Maria</hi>. Ob Gerhard wohl heimkehrt? Ueber zwei Wochen schon<lb/>
+warten wir vergebens. Und die Erscheinung, sie bedeutet nichts Gutes <milestone unit="3dots"/>
+               <lb/>
+nichts Gutes <milestone unit="3dots"/> (Sie bedeckt ihr Antlitz.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Priester</hi>. Gräme dich nicht, mein Kind, es kann sich noch<lb/>
+Alles zum Guten wenden. Morgen werde ich für die glückliche Heim-<lb break="no"/>
+kehr Gerhards eine Messe lesen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Maria</hi> (leise). Und für Carl auch, Oheim <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Priester</hi>. Ja, für Alle, die noch draussen auf dem Meere<lb/>
+sind, soll eine Messe gelesen werden, insbesondere für Gerhard <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Maria</hi> (ebenso). Und für Carl auch, lieber Oheim, ich bitte <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Der Priester</hi>. Gut. War er vielleicht dein Verlobter? Ich weiss<lb/>
+ja noch gar nicht, was bei euch vorgeht, ihr müsst mir erst Alles er-<lb break="no"/>
+zählen.</p>
+            <milestone unit="untyped-end"/>
+            <p>(Schweigen.)</p>
+         </div>
+      </body>
+   </text>
+</TEI>

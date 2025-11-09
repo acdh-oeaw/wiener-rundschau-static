@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-14_n0530.xml" prev="WR-01-02-14_n0529.xml" next="WR-01-02-14_n0531.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 14, S. 530</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="14"/>
+                        <biblScope unit="page" n="n0530"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-06-01">1 6 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0177">
+                  <title level="a">Drei Cartons von Sascha Schneider</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 14</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="14">14</biblScope>
+                  <biblScope unit="page" from="530" to="531"/>
+                  <idno type="fn">WR-01-02-14_n0530.xml</idno>
+                  <author ref="#wr-person-0073">Basedow, Hans von</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>DREI CARTONS VON SASCHA SCHNEIDER.<lb/>(Von der Dresdener Galerie angekauft.)<lb/>Stimmungenvon <rs type="person" key="">Hans von Basedow</rs>.<lb/>
+            <ab>
+               <title>I.</title>
+            </ab>
+            <p>Oede ringsum — furchtbare, todesgraue Oede! Und<lb/>
+schauerliches Schweigen —</p>
+            <p>Wie rothgeweinte Augen zwei glühende Punkte.</p>
+            <p>Die grinsenden Augen der Schuld, die weinenden Augen<lb/>
+der Schuld. Denn die Schuld ist’s, die sich freut über ihr<lb/>
+Wesen, denn die Schuld ist’s, die Thränen über sich selbst<lb/>
+vergiesst.</p>
+            <p>Und mitten in der Oede ein Mann gefesselt, wehrlos<lb/>
+das Haupt gesenkt.</p>
+            <p>Und vor ihm die Tatzen der Schuld, ihn umklammernd<lb/>
+von Weitem und doch sicher unentrinnbar.</p>
+            <p>Und Oede ringsum, furchtbare, todesgraue Oede. Und<lb/>
+Oede im Herzen des Schuldigen, der dasteht gebeugt und<lb/>
+doch stark — denn die Schuld ist’s, die beugt und nieder<lb/>
+schmettert, denn die Schuld is’ts, die stark macht.</p>
+            <p>Wer will sagen, was Schuld ist? Was die wahre Schuld?<lb/>
+— Niemand und Nichts! Ist Schuld vor den Gesetzen Schuld?<lb/>
+Schuld vor den Menschen Schuld? Schuld vor Gott Schuld?</p>
+            <p>
+               <hi rend="text-spaced">Es gibt nur <hi rend="text-spaced">eine</hi> Schuld</hi>, <hi rend="text-spaced">die Schuld vor sich selbst</hi>!</p>
+            <p>Oede ringsum, furchtbare, todesgraue Oede — und in<lb/>
+ihr der Schuldige — der Schuldige vor sich selbst. Und<lb/>
+diese Schuld grinst ihn an — höhnend, weinend, siegesfroh,<lb/>
+trauernd. — Oede ringsum, Oede im Herzen, Oede —</p>
+            <ab>
+               <title>II.</title>
+            </ab>
+            <p>Und wieder ein Schuldiger — schuldig vor den Men-<lb break="no"/>
+schen, schuldig vor den Gesetzen, schuldig vor Gott. Aber<lb/>
+schuldfrei vor sich selbst!</p>
+            <p>Da steht er kühn und frei, erhoben die glimmende Bombe,<lb/>
+um zu zerschmettern das Götzenbild.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

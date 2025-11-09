@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-13_n0304.xml" prev="WR-03-01-13_n0303.xml" next="WR-03-01-13_n0305.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 1, Nr. 13, S. 304</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="13"/>
+                        <biblScope unit="page" n="n0304"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0671">
+                  <title level="a">Ein Vöglein über das Mitleid</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 1, Nr. 13</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="13">13</biblScope>
+                  <biblScope unit="page" from="303" to="309"/>
+                  <idno type="fn">WR-03-01-13_n0303.xml</idno>
+                  <author ref="#wr-person-0206">Lindner, Anton</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">LINDNER: EIN VÖGLEIN ÜBER DAS MITLEID.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">denn er hatte gar viel erfahren von den<lb/>
+Frevelwerken unserer Brüder und kannte,<lb/>
+der Glückliche, das schale Mitleid der<lb/>
+Menschen nicht.</p>
+                     <p>Ein einzig Vöglein sass in seinen<lb/>
+Zweigen. Es sah mich mit den Steck-<lb break="no"/>
+nadelköpfchen seiner kleinen braunen<lb/>
+Augen so klug und durchdringend an,<lb/>
+dass ich <hi rend="text-spaced">mein</hi> Vöglein erkannte.</p>
+                     <p>Wenn man, vom lauten Tag umspült,<lb/>
+in seiner frostigen Einsamkeit den unver-<lb break="no"/>
+sieglichen Thränen nachhängt und sich<lb/>
+in stummen Schauern schüttelt, ist’s oft<lb/>
+der Ton eines Vögleins zu Häupten, der<lb/>
+unbewusst Trost und Frieden bringt.</p>
+                     <p>O Du mein lieb Vöglein zu Häupten <milestone unit="2dots"/>
+                        <lb/>
+spiel auf, spiel auf. Denn sieh’, ich sitze<lb/>
+unter Deinem Kirschbaum, stütze das<lb/>
+Haupt aufs Knie und lausche den leisen<lb/>
+Chorälen des Schweigens.</p>
+                     <milestone unit="verse-start"/>
+                     <lg>
+                        <l>Und in den Schoss das wunde Haupt gewühlt,</l>
+                        <l>Auf kühlem Stein,</l>
+                        <l>Vom grauen Tag so eisig kalt umspült,</l>
+                        <l>Wein’ ich, ein Narr, der wie ein Mensch gefühlt,</l>
+                        <l>Und lausche, lausche in mein Herz hinein.</l>
+                        <l>Und wie es klingt, ach so melodisch klingt,</l>
+                        <l>Zieh ich, ein Bettler, dem die Liebe winkt,</l>
+                        <l>Zum Himmel ein.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>So blieb ich einen Tag lang im<lb/>
+Schweigen und starrte dem bangen Schritt<lb/>
+der Stunden nach.</p>
+                     <p>Und zu der ungebundenen Musik des<lb/>
+Vogelspiels, das auf- und niederklang und<lb/>
+wie ein warmer Maienregen durch die<lb/>
+Blätter glitt, fanden sich, wenn ich richtig<lb/>
+gehört, in stillen Rhythmen diese Worte:</p>
+                     <milestone unit="asterisk"/>
+                     <p>Da kauerst Du, Armseliger, bei Deinem<lb/>
+lieben Baum und wärmst Dir die Stirn<lb/>
+an seiner Rinde. Noch sind die Rispen<lb/>
+nicht schlafen gegangen, noch saugen die<lb/>
+Wurzelchen rings an Thau und Tümpeln,<lb/>
+doch drückt schon die Schattenhand des<lb/>
+Abends in die Wipfel, und fernher ver-<lb break="no"/>
+rasselt das Leben, verdämmert die Welt<lb/>
+in den Weiten. Und langsam steigen die<lb/>
+Säfte, frostig tropft die Sonne von den<lb/>
+Ästen; nur träge verrieselt das Blut der<lb/>
+Scholle, unmerklich erschauern die Käfer<lb/>
+im Grase, und alles verklingt in Bewegung,<lb/>
+die nur dem Zittern Deiner Seele gleicht<milestone unit="2dots"/>
+                        <lb/>
+Sinds Hochzeitszüge, Leichenzüge, die auf<lb/>
+Wolken durch die Lüfte gleiten? Dort<lb/>
+drüben, wo der Himmel welkt, hebt sich</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">ein violetter Flor und schwebt auf gelber<lb/>
+Seide nieder. Doch hinter den Spielen<lb/>
+dieses Zwielichtes verwittern die Dächer<lb/>
+der Stadt, verflattert der Lärm und das<lb/>
+Leben.</p>
+                     <p>Wie werden sie doch von Leiden in<lb/>
+Taumel gehalten, sie Alle, dort drüben,<lb/>
+weit hinter den Spielen dieses Zwielichtes!<lb/>
+Doch wissen sie auch den Schmerz zu<lb/>
+würdigen, ihn lautlos zu würdigen, mit auf-<lb break="no"/>
+einandergebissenen Lippen und knirschen-<lb break="no"/>
+den Zähnen? Nein, nein, sie wissen es<lb/>
+nicht, selbst ihre Künstler wissen es nicht,<lb/>
+und stammeln mitleidige Worte, die ihnen<lb/>
+wie Seim von den Lippen rinnen. Be-<lb break="no"/>
+dauern sich selbst und treiben, wie man<lb/>
+Unfug treibt, ihr Mitleid mit den anderen.<lb/>
+Selbst ihre Künstler treiben es mit. Und<lb/>
+fühlen nicht, wie sehr sie Barbaren sind.</p>
+                     <p>Denn, sagt mir, was soll das Nach-<lb break="no"/>
+hinken mit »theilnehmender« Seele? Was<lb/>
+soll das läppische Dazuthun, von Mit-<lb break="no"/>
+menschen hingereicht, das jeder <hi rend="text-spaced">Schmerz-<lb break="no"/>
+geadelte</hi> nur von sich weisen könnte.<lb/>
+Was sollen Versicherungen, Zusagen, Be-<lb break="no"/>
+theuerungen — und was der Abstractionen<lb/>
+mehr sind! Dergleichen Töne und Ströme,<lb/>
+selbst unmittelbar und aus dem tief-<lb break="no"/>
+innerlichsten Kern ergebener Menschen<lb/>
+dem Leidenden zu Füssen schlagend, ent-<lb break="no"/>
+weihen die lautere Melodie, die königliche<lb/>
+Einsamkeit des Schmerzes. Leid ist das<lb/>
+himmlische Brot des Edelmenschen. Leid<lb/>
+ist der ambrosische Thau, der wunder-<lb break="no"/>
+thätig auf unsere Lider fällt, köstliche<lb/>
+Quellen weckt und alle Innenströme des<lb/>
+Auges, des Herzens, der Seele, alle<lb/>
+Fältchen und Fasern und Fibern zu<lb/>
+neuem Leben und stummer Bewegung<lb/>
+treibt. Leid ist wie Frühling dem Schaffen-<lb break="no"/>
+den. Und wenn der Thau der Qual ver-<lb break="no"/>
+siegt, dorren die Wurzelchen und Triebe,<lb/>
+die Zweiglein und abertausend Zellen, die<lb/>
+Pollenstäubchen, Äderchen und Gewebe,<lb/>
+die uns in unsichtbarer Liebe unsäglich,<lb/>
+ganz unsäglich mit all den heimlichen<lb/>
+Kräften der Gottnatur und unserer eigenen<lb/>
+Wesenheit verbinden. <hi rend="text-spaced">Der</hi> Künstler dauert<lb/>
+mich, der nicht alltäglich stirbt, alltäglich<lb/>
+an Alltag und einsamen Wunden stirbt,<lb/>
+um täglich neu und dreifach glücklich zu<lb/>
+erwachen. Dieses Sterben von Stunde zu<lb/>
+Stunde, dieses Lideröffnen und Lider-<lb break="no"/>
+schliessen von Augenblick zu Augenblick —</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

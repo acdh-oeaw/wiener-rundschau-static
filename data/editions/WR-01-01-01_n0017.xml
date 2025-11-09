@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-01_n0017.xml" prev="WR-01-01-01_n0016.xml" next="WR-01-01-01_n0018.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 1, S. 17</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="01"/>
+                        <biblScope unit="page" n="n0017"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-11-15">15 11 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0007">
+                  <title level="a">Politisches Temperament</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 1</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="01">1</biblScope>
+                  <biblScope unit="page" from="16" to="18"/>
+                  <idno type="fn">WR-01-01-01_n0016.xml</idno>
+                  <author ref="#wr-person-0007">Schik, F.</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">POLITISCHES TEMPERAMENT.</fw>
+               <fw type="pn">17</fw>
+            </fw>
+            <p>Am Ende einer Zeitepoche, wie sie die unserige ist,<lb/>
+kommen alle politischen Ideen und alle Menschentypen der<lb/>
+ganzen Epoche, auch solche, die längst überholt zu sein<lb/>
+schienen, wieder zum Vorschein, wie lange auf dem Grunde<lb/>
+liegende Ertrunkene durch eine Strömung an die Oberfläche<lb/>
+gelangen. Dem alten Gedanken erstehen alte Anhänger.<lb/>
+Wird er nun gar mit einem Ingredienz aus dem Zeitinhalt<lb/>
+vermischt, welches die Individualitätsmixtur in den Gegen-<lb break="no"/>
+wartsmenschen derart zersetzt, dass bei ihnen ein Gedanken-<lb break="no"/>
+rückschlag eintritt, so wird er vollends das politische Ober-<lb break="no"/>
+wasser bekommen. Da ein alter politischer Gedanke an sich<lb/>
+ein kleines Lebhaftigkeitsmaximum hat, so muss derjenige,<lb/>
+der ihn aufgreift, ein die abgelebte Idee weit überschäumendes<lb/>
+Temperament besitzen.</p>
+            <p>Jeder Gedanke fordert von demjenigen, welcher ihn<lb/>
+aufnehmen soll, ein entsprechendes Gebrauchstemperament.<lb/>
+Wird beim Hörenden mehr Lebhaftigkeit in Action gesetzt,<lb/>
+als der objective Werth der Gedankenäusserung erfordert,<lb/>
+so kommt der Mensch in leere Aufregung. Ein Zustand, auf<lb/>
+den es Demagogen bei der Menge abgesehen haben. Sieht<lb/>
+sich ein derartiger Politiker nun Gegnern gegenüber, die,<lb/>
+wenn auch mit besserem Gedankenmaterial versehen, ohne<lb/>
+adäquates Temperament auftreten, so hat er leichtes Spiel.<lb/>
+Denn wird beim Hörenden weniger Temperament in Action<lb/>
+gesetzt, als ein Gedanke jeweilig erfordert, so mangelt<lb/>
+die Kraft, ihn aufzunehmen; er beschwert, die er klären<lb/>
+sollte.</p>
+            <p>Der durchschnittliche Temperamentsgrad von Massen ist<lb/>
+schwer festzustellen. Das Unbildungstemperament ist trü-<lb break="no"/>
+gerisch und verschwindet sofort in einer höheren Geistes-<lb break="no"/>
+region. Es hat wenig Tragkraft und bedarf einer leichten<lb/>
+politischen Kost. Anderseits muss es doch ein wenig über-<lb break="no"/>
+lastet werden, sonst geht es auf Gedankenraubzüge aus und<lb/>
+wirft sich wahllos auf das Zufällige. Nur bei Hochstehenden<lb/>
+ist das Temperament latent und wartet auf den Gedanken.<lb/>
+In der Regel bedarf das Temperament der Menschen einer<lb/>
+Belastung. Revolution und Verbrechen sind Erscheinungen,<lb/>
+die ein Unterschätzen oder Verkennen eines solchen Bedürf-<lb break="no"/>
+nisses stets noch im Gefolge hatte.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

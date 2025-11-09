@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-16_n0640.xml" prev="WR-01-02-16_n0639.xml" next="WR-01-02-17_n0641.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 2, Nr. 16, S. 640</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="16"/>
+                        <biblScope unit="page" n="n0640"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-07-01">1 7 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0218">
+                  <title level="a">Hallström, »Verirrte Vögel«</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 16</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="16">16</biblScope>
+                  <biblScope unit="page" from="639" to="640"/>
+                  <idno type="fn">WR-01-02-16_n0639.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+               <bibl n="current text" corresp="#wr-text-0219">
+                  <title level="a">Svoboda, »Gestalten des Glaubens«</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 2, Nr. 16</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="16">16</biblScope>
+                  <biblScope unit="page" from="640" to="640"/>
+                  <idno type="fn">WR-01-02-16_n0640.xml</idno>
+                  <author ref="#nan"/>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">640</fw>
+               <fw type="ctext">NOTIZEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">raubt, und der gezwungen ist, mit<lb/>
+Betteln sein verpfuschtes Leben hin<lb/>
+zu fristen (»Am Kreuzweg«), ob er<lb/>
+uns ein verträumt-weltfremdes<lb/>
+Mädchen zeichnet, eine zartbe-<lb break="no"/>
+saitete Seele mit poetischem, tiefem<lb/>
+Empfinden, eine Seele, die nicht<lb/>
+in diese nüchterne Wirklichkeit<lb/>
+gehört (»Aus dem Dunkel«), ob<lb/>
+der Dichter überhaupt ernste oder<lb/>
+satyrische Töne anschlägt — immer<lb/>
+fühlt sich der Leser von der<lb/>
+packenden Wahrheit, den psycho-<lb break="no"/>
+logischen Feinheiten, dem an-<lb break="no"/>
+ziehenden Zauber dieses schönen<lb/>
+Buches ergriffen. Francis Maro hat<lb/>
+sich mit der Uebersetzung der<lb/>
+»Verirrten Vögel« ein literarisches<lb/>
+Verdienst erworben; <hi rend="text-spaced">solche</hi> Bü-<lb break="no"/>
+cher <hi rend="text-spaced">sollen</hi> übertragen werden <milestone unit="3dots"/>
+                     </p>
+                     <p>
+                        <hi rend="italics">
+                           <rs type="person" key="">Carl Marius</rs>.</hi>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-start"/>
+                     <p>Gestalten des Glaubens.<lb/>
+Culturgeschichtliches und Philo-<lb break="no"/>
+sophisches. Von Adalbert <hi rend="text-spaced">Svo</hi>-<lb break="no"/>
+                        <hi rend="text-spaced">boda</hi>. Leipzig. C. G. <hi rend="text-spaced">Naumann</hi>.<lb/>
+                        <date>1897</date>.</p>
+                     <p>Hätte auch jeder wahrhaft Ge-<lb break="no"/>
+bildete das ernste Verlangen, sich<lb/>
+über wichtige Fragen des Lebens<lb/>
+ein eigenes Urtheil zu bilden, so<lb/>
+wäre dies bei der Mühe und der<lb/>
+Schwierigkeit des Quellenstudiums<lb/>
+doch nur der kleinen Zahl der<lb/>
+eigentlichen Fachgelehrten wirklich<lb/>
+möglich, gäbe es nicht Werke,<lb/>
+welche den Laien dessen Ergeb-<lb break="no"/>
+nisse so klar, allgemein verständ-<lb break="no"/>
+lich und anziehend vortragen, dass<lb/>
+ihre Lectüre für den Leser nicht</p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">nur einen bleibenden Nutzen,<lb/>
+sondern auch ein gesteigertes Inter-<lb break="no"/>
+esse gewinnt. Zu den besten der-<lb break="no"/>
+artigen Vermittlungswerken zwi-<lb break="no"/>
+schen den reichen Schätzen der<lb/>
+Wissenschaft und den Bedürf-<lb break="no"/>
+nissen des nicht wissenschaftlich<lb/>
+Geschulten gehört auch das vor-<lb break="no"/>
+liegende Buch, welches dem Leser<lb/>
+alles zur Beantwortung <hi rend="text-spaced">der</hi> Frage<lb/>
+einschlägige Material darbieten<lb/>
+will: War und ist es für den Ein-<lb break="no"/>
+zelnen und für ganze Völker nütz-<lb break="no"/>
+licher und glückbringender, halt-<lb break="no"/>
+losen Phantasieschöpfungen nachzu-<lb break="no"/>
+jagen und an herzlose Wahngebilde<lb/>
+unermessliche Opfer an Gut und<lb/>
+Blut zu verschwenden oder den<lb/>
+idealen Lebenszielen der Sittlich-<lb break="no"/>
+keit und Bildung, der Kunst und<lb/>
+culturstaatlichen Politik eifrig nach-<lb break="no"/>
+zustreben? Wer das glänzend, leicht-<lb break="no"/>
+fasslich und mit souveräner Be-<lb break="no"/>
+herrschung des weitschichtigen<lb/>
+Stoffes geschriebene Buch Svoboda’s<lb/>
+gelesen hat, für den kann die Ant-<lb break="no"/>
+wort nicht zweifelhaft sein. Ver-<lb break="no"/>
+breitertes und vertieftes Wissen,<lb/>
+auf Verbesserung der Existenz-<lb break="no"/>
+bedingungen gerichtete Arbeit und<lb/>
+selbstlose, werkthätige Nächsten-<lb break="no"/>
+liebe waren stets die mächtigsten<lb/>
+Förderungsmittel eines vernünftigen,<lb/>
+gesunden Culturfortschrittes! Möch-<lb break="no"/>
+ten darum die Gestalten des<lb/>
+Glaubens nicht nur viele Leser,<lb/>
+sondern mehr noch begeisterte An-<lb break="no"/>
+hänger finden. <hi rend="italics">Dr. <rs type="person" key="">A.</rs>
+                        </hi>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="hr"/>
+            <milestone unit="imprint-start"/>
+            <p>Herausgeber und verantwortlicher Redacteur: <hi rend="text-spaced">Rudolf Strauss</hi>.</p>
+            <p>Ch. Reisser &amp; M. Werthner, Wien.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-03_n0098.xml" prev="WR-02-01-03_n0097.xml" next="WR-02-01-03_n0099.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 2, Bd. 3/4, Nr. 3, S. 98</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="02"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0098"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1897-12-15">15 12 1897</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0323">
+                  <title level="a">Die Suggestion bei Shakespeare </title>
+                  <title level="j">Wiener Rundschau, Bd. 2, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="02">2</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="95" to="102"/>
+                  <idno type="fn">WR-02-01-03_n0095.xml</idno>
+                  <author ref="#wr-person-0124">Unger, Franz</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">98</fw>
+               <fw type="ctext">UNGER.</fw>
+            </fw>
+            <milestone unit="performance-start"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Edgar</hi>.</p>
+            <lg>
+               <l>Ihr täuscht Euch sehr; in nichts bin ich verändert</l>
+               <l>Als in den Kleidern.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <p>Dies bezieht sich auf die Kleider, die ein ehemaliger Pächter<lb/>
+               <hi rend="text-spaced">Gloster</hi>’s dem »Narren« gespendet hatte. Jener ist noch nicht ganz<lb/>
+befriedigt, er sagt:</p>
+            <milestone unit="performance-start"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Gloster</hi>.</p>
+            <lg>
+               <l>Mich dünkt, als sprächst du besser.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <p>
+               <hi rend="text-spaced">Edgar</hi> nimmt diesen Einwand nicht mehr auf. Schon entsteht<lb/>
+in seiner Phantasie die Vorstellung von der Scenerie, die sich unter<lb/>
+ihm entfalten müsste, wenn er wirklich dort stünde, wo er seiner Be-<lb break="no"/>
+hauptung nach jetzt sein müsste — am äussersten Rande des Kreide-<lb break="no"/>
+felsens. Es entsteht eine Reihenfolge von Hallucinationen in ihm, ähnlich<lb/>
+der Bilderreihe eines Traumes, Vorstellungen, die er durch lautes,<lb/>
+eindringliches Reden auf <hi rend="text-spaced">Gloster</hi> überträgt. Er macht es wie ein<lb/>
+Hypnotiseur, der die von ihm in Schlaf versetzte Person in imaginäre<lb/>
+Zustände und Umgebungen taucht, indem er durch die Schilderung<lb/>
+derselben, die Vorstellung von ihrem realen Vorhandensein im Perci-<lb break="no"/>
+pienten erweckt. Hier wie dort ist das eigentliche Sehen ausgeschlossen,<lb/>
+und es findet ein inneres Schauen statt, dem gar kein sinnenfälliges<lb/>
+Object entspricht. Das ist die Suggestion. Wie anschaulich, wie farben-<lb break="no"/>
+prächtig und lebenswahr in allen Einzelheiten ist das Bild, das Edgar<lb/>
+in seiner Phantasie entwirft, hoffend, dass es sich auf seinen blinden<lb/>
+Vater übertrage! Und es geschieht. Der arme Greis hört schweigend<lb/>
+zu, er zweifelt keinen Augenblick daran, dass das Bild, das noch dazu<lb/>
+ein Narr entwirft (als solcher muss ihm ja Edgar noch immer gelten),<lb/>
+mit der Wirklichkeit identisch sei. Sehen wir selbst:</p>
+            <milestone unit="performance-start"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Edgar</hi>.</p>
+            <lg>
+               <l>Kommt Herr — hier ist der Ort — steht still —</l>
+               <l>Wie grauenvoll</l>
+               <l>Und schwind’lig ist’s, so tief hinabzublicken.</l>
+               <l>Die Kräh’n und Dohlen, die die Mitt’ umflattern,</l>
+               <l>Sind kaum wie Bienen gross; auf halbem Weg’</l>
+               <l>Hängt Einer, Fenchel sammelnd — schrecklich’ Handwerk!</l>
+               <l>Mich dünkt, nicht grösser scheint er als sein Kopf.</l>
+               <l>Die Fischer, die am Seegestade wandeln</l>
+               <l>Sind Mäusen gleich, ein ankernd’ stattlich Schiff</l>
+               <l>Zu seinem Boot verkleinert, dies ein Tönnchen.</l>
+               <l>Beinah’ zu klein dem Blick. Die laute Brandung,</l>
+               <l>Die auf der Unzahl müss’ger Kiesel tost.</l>
+               <l>Ist nicht herauf vernehmbar. Ich schau’ nicht mehr,</l>
+               <l>Sonst schwindelt mich, und, meine Sehkraft schwindend,</l>
+               <l>Reisst’s mich hinab.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <p>Wie schön ist dieses Bild! Wie ist es dazu angethan, als Fremd-<lb break="no"/>
+suggestion zu wirken!</p>
+            <p>Hoch oben stehen sie, es ist einsam und unheimlich still. In<lb/>
+ungemessenen Fernen verliert sich der Blick, in Tiefen, die das Gefühl<lb/>
+des Schwindels erzeugen. In der Mitte des Abgrundes, der sich zu<lb/>
+den Fassen des Beschauers aufthut, schlagen Krähen und Dohlen mit</p>
+         </div>
+      </body>
+   </text>
+</TEI>

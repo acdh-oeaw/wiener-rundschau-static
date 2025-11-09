@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-03_n0102.xml" prev="WR-01-01-03_n0101.xml" next="WR-01-01-03_n0103.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 1, Bd. 1, Nr. 3, S. 102</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="01"/>
+                        <biblScope unit="halbband" n="01"/>
+                        <biblScope unit="issue" n="03"/>
+                        <biblScope unit="page" n="n0102"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1896-12-15">15 12 1896</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0030">
+                  <title level="a">Wiener Walzer</title>
+                  <title level="j">Wiener Rundschau, Bd. 1, Halbbd. 1, Nr. 3</title>
+                  <biblScope unit="volume" n="01">1</biblScope>
+                  <biblScope unit="halbband" n="01">1</biblScope>
+                  <biblScope unit="issue" n="03">3</biblScope>
+                  <biblScope unit="page" from="102" to="103"/>
+                  <idno type="fn">WR-01-01-03_n0102.xml</idno>
+                  <author ref="#wr-person-0018">Dehmel, Richard</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">GEDICHTE</hi>.</title>
+            </ab>
+            <milestone unit="hr"/>
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>WIENER WALZER.*)</title>
+            </ab>
+            <lg>
+               <l>
+                  <hi rend="initial">Zwischen</hi> geputzten Herren und Damen,</l>
+               <l>die durch Zufall zusammenkamen,</l>
+               <l>wiegen zwei Menschen sich im Tanz,</l>
+               <l>um sie klingt des Saales Glanz.</l>
+               <l>Zitternd legt sich im Spiel der Kerzen</l>
+               <l>sein dunkles in ihr schwarzes Haar,</l>
+               <l>legt sich über zwei zitternden Herzen</l>
+               <l>an ihr Ohr sein Lippenpaar:</l>
+            </lg>
+            <lg>
+               <l>Oh ja, wiege dich, lass dich führen,</l>
+               <l>und fühl’ es: Niemand darf uns trennen!</l>
+               <l>Lass uns nichts als Uns noch spüren,</l>
+               <l>selig Seel’ in Seele brennen!</l>
+               <l>Zehn Jahr’ lang glaubt’ ich, dass ich liebte,</l>
+               <l>zu Hause sitzt mein blass Gemahl,</l>
+               <l>sitzt und liebt mich, mir zur Qual,</l>
+               <l>ahnt nicht, was in mir zerstiebte.</l>
+               <l>Oh ja, wiege mich! Hingegeben</l>
+               <l>bringt sie jetzt ihr Kind zur Ruh,</l>
+               <l>ist auch mein Kind — o mein Leben,</l>
+               <l>oh ja, wiege mich, führ’ mich du!</l>
+            </lg>
+            <lg>
+               <l>Taumelnd drängt sich im Glanz der Kerzen</l>
+               <l>sein wirres in ihr wirres Haar,</l>
+               <l>drängt sich über zwei taumelnden Herzen</l>
+               <l>an sein Ohr ihr Lippenpaar:</l>
+            </lg>
+            <lg>
+               <l>Oh du, lass du! nit erzählen!</l>
+               <l>Führe mich sanfter! nit uns quälen!</l>
+               <l>Du bist mir gut, ich bin dir gut.</l>
+               <l>Hab doch auch die Seel’ voll Schmerzen,</l>
+            </lg>
+            <milestone unit="hr"/>
+            <note type="footnote">
+               <p>*) Aus »<hi rend="text-spaced">Zwei Menschen</hi>«, einem demnächst erscheinenden »<hi rend="text-spaced">Roman<lb/>
+in Balladen</hi>«.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>

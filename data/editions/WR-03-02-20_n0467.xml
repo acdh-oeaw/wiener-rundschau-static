@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-02-20_n0467.xml" prev="WR-03-02-20_n0466.xml" next="WR-03-02-20_n0468.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Wiener Rundschau: Jg. 3, Bd. 2, Nr. 20, S. 467</title>
+            <title level="j">Wiener Rundschau</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="https://d-nb.info/gnd/1226158307">Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl n="source pulications">
+               <biblStruct type="journal">
+                  <analytic>
+                     <title>Wiener Rundschau, </title>
+                  </analytic>
+                  <monogr>
+                     <title level="j" ref="https://d-nb.info/gnd/4149123-3">Wiener Rundschau</title>
+                     <imprint>
+                        <biblScope unit="volume" n="03"/>
+                        <biblScope unit="halbband" n="02"/>
+                        <biblScope unit="issue" n="20"/>
+                        <biblScope unit="page" n="n0467"/>
+                        <pubPlace ref="https://sws.geonames.org/2761369/">Wien</pubPlace>
+                        <publisher ref="https://d-nb.info/gnd/119098067">Christomanos, Constantin</publisher>
+                        <publisher ref="https://d-nb.info/gnd/1046354299">Rappaport, Felix</publisher>
+                        <publisher ref="https://d-nb.info/gnd/140620923">Schönaich, Gustav</publisher>
+                        <publisher ref="https://d-nb.info/gnd/129223050">Strauss, Rudolf</publisher>
+                        <date when-iso="1899-01-01">1899</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl n="current text" corresp="#wr-text-0716">
+                  <title level="a">Laus Veneris I.</title>
+                  <title level="j">Wiener Rundschau, Bd. 3, Halbbd. 2, Nr. 20</title>
+                  <biblScope unit="volume" n="03">3</biblScope>
+                  <biblScope unit="halbband" n="02">2</biblScope>
+                  <biblScope unit="issue" n="20">20</biblScope>
+                  <biblScope unit="page" from="465" to="468"/>
+                  <idno type="fn">WR-03-02-20_n0465.xml</idno>
+                  <author ref="#wr-person-0228">Swinburne, Algernon Charles</author>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">SWINBURNE: LAUS VENERIS.</fw>
+            </fw>
+            <lg>
+               <l>Wär’ ausgestreut mein Staub am Wiesenpfad,</l>
+               <l>Dass draus erwüchse windverwehte Saat,</l>
+               <l>Und mein Gedächtnis schon hinweggewischt,</l>
+               <l>Eh noch mein Mund den letzten Seufzer that!</l>
+            </lg>
+            <lg>
+               <l>Denn irgendwann und irgendwo ist Tod,</l>
+               <l>Der Zeit ein Mass gesetzt und ein Gebot,</l>
+               <l>Und manches langen Daseins Spur erlischt</l>
+               <l>Oft zwischen Morgengraun und Abendroth.</l>
+            </lg>
+            <lg>
+               <l>O, wäre ich an jener Seelen Statt,</l>
+               <l>Mein Leben wie ein Grashalm, wie ein Blatt,</l>
+               <l>Und wäre mein das mühevollste Los,</l>
+               <l>Das für sein Tagwerk eine Spanne hat.</l>
+            </lg>
+            <lg>
+               <l>Draussen, wo Menschen sind, muss Winter sein.</l>
+               <l>Durchs goldne Gitterthor sah ich den Schein.</l>
+               <l>Die Wucht des Regens und des Windes Stoss</l>
+               <l>Klang viele Nächte schon zu mir herein.</l>
+            </lg>
+            <lg>
+               <l>Die Wälder sind jetzt ohne Pfad — ich weiss,</l>
+               <l>Am hängenden Gezweige glitzert Eis,</l>
+               <l>Und in den Stuben, wenn es draussen schneit,</l>
+               <l>Sitzen die Spinnerinnen nun im Kreis.</l>
+            </lg>
+            <lg>
+               <l>Ach — irgendwo, wo in den jähen Schacht</l>
+               <l>Der Sturzbach tost, wo das Gerölle kracht,</l>
+               <l>In namenloser Irrnis wild und weit,</l>
+               <l>Muss Tod sein und ein Schlafen in der Nacht!</l>
+            </lg>
+            <lg>
+               <l>Dort liegen sie, wie Liebende vertraut,</l>
+               <l>Reglos umschlungen, wenn der Morgen graut,</l>
+               <l>Mit Lächeln auf den Lippen, Mann und Weib,</l>
+               <l>Für alle Zeiten Bräutigam und Braut.</l>
+            </lg>
+            <lg>
+               <l>Wir aber liegen nicht wie Weib und Mann,</l>
+               <l>Nach satten Lüsten selig noch im Bann</l>
+               <l>Unthätger Liebe, die von Leib zu Leib</l>
+               <l>Die leise Glut erneuert, die zerrann.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
