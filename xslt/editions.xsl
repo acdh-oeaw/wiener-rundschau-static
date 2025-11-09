@@ -66,22 +66,67 @@
                     </nav>
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-2 col-lg-2 col-sm-12 text-start">
+                            <div class="col-md-1 col-lg-1 col-sm-12 text-start">
+                                <xsl:for-each select=".//tei:bibl[@n='previous issue']">
+                                    <xsl:variable name="title">
+                                        <xsl:value-of select="./tei:title"/>
+                                    </xsl:variable>
+                                    <a data-bs-toggle="tooltip" data-bs-title="Voriges Heft: {$title}">
+                                        <xsl:attribute name="href">
+                                            <xsl:value-of select="replace(./tei:idno, '.xml', '.html')"/>
+                                        </xsl:attribute>
+                                        <i class="fs-2 bi-chevron-double-left" visually-hidden="true">
+                                            <span class="visually-hidden">
+                                                <xsl:value-of select="$title"/>
+                                            </span>
+                                        </i>
+                                    </a>
+                                </xsl:for-each>
+                            </div>
+                            <div class="col-md-1 col-lg-1 col-sm-12 text-start">
                                 <xsl:if test="ends-with($prev,'.html')">
-                                    <a>
+                                    <a data-bs-toggle="tooltip" data-bs-title="Vorige Seite">
                                         <xsl:attribute name="href">
                                             <xsl:value-of select="$prev"/>
                                         </xsl:attribute>
-                                        <i class="fs-2 bi bi-chevron-left" title="Zurück zum vorigen Dokument" visually-hidden="true">
-                                            <span class="visually-hidden">Zurück zum vorigen Dokument</span>
+                                        <i class="fs-2 bi bi-chevron-left" title="Vorige Seite" visually-hidden="true">
+                                            <span class="visually-hidden">Vorige Seite</span>
                                         </i>
                                     </a>
                                 </xsl:if>
                             </div>
                             <div class="col-md-8 col-lg-8 col-sm-12 text-center">
-                                <h1>
+                                <h1 class="text-center">
                                     <xsl:value-of select="$doc_title"/>
                                 </h1>
+                                
+                                <xsl:if test=".//tei:bibl[@n='current text']">
+                                    <div class="row">
+                                        <div class="col-md-2 col-lg-2 col-sm-12 text-start">
+                                            <xsl:if test=".//tei:bibl[@n='previous text'][1]">
+                                                <a href="{replace(.//tei:bibl[@n='previous text'][1]/tei:idno, '.xml', '.html')}" data-bs-toggle="tooltip" data-bs-title="Voriger Text">
+                                                    <xsl:value-of select=".//tei:bibl[@n='previous text'][1]/tei:title[@level='a']"/>
+                                                </a>
+                                            </xsl:if>
+                                        </div>
+                                        <div class="col-md-8 col-lg-8 col-sm-12 text-center">
+                                            <h2 class="text-center fs-3 text-muted">
+                                                <xsl:value-of select=".//tei:bibl[@n='current text']/tei:title[@level='a']"/>
+                                                <xsl:if test="//tei:bibl[@n='current text']/tei:author/text()">
+                                                    <xsl:text> (</xsl:text><xsl:value-of select="//tei:bibl[@n='current text']/tei:author/text()"/>)
+                                                </xsl:if>
+                                            </h2>
+                                        </div>
+                                        
+                                        <div class="col-md-2 col-lg-2 col-sm-12 text-end">
+                                            <xsl:if test=".//tei:bibl[@n='next text'][1]">
+                                                <a href="{replace(.//tei:bibl[@n='next text'][1]/tei:idno, '.xml', '.html')}" data-bs-toggle="tooltip" data-bs-title="Nächster Text">
+                                                    <xsl:value-of select=".//tei:bibl[@n='next text'][1]/tei:title[@level='a']"/>
+                                                </a>
+                                            </xsl:if>
+                                        </div>
+                                    </div>
+                                </xsl:if>
                                 <div>
                                     <a href="{$teiSource}">
                                         <i class="bi bi-download fs-2" title="Zum TEI/XML Dokument" visually-hidden="true">
@@ -90,17 +135,34 @@
                                     </a>
                                 </div>
                             </div>
-                            <div class="col-md-2 col-lg-2 col-sm-12 text-start">
+                            <div class="col-md-1 col-lg-1 col-sm-12 text-end">
                                 <xsl:if test="ends-with($next, '.html')">
-                                    <a>
+                                    <a data-bs-toggle="tooltip" data-bs-title="Nächste Seite">
                                         <xsl:attribute name="href">
                                             <xsl:value-of select="$next"/>
                                         </xsl:attribute>
-                                        <i class="fs-2 bi bi-chevron-right" title="Weiter zum nächsten Dokument" visually-hidden="true">
-                                            <span class="visually-hidden">Weiter zum nächsten Dokument</span>
+                                        <i class="fs-2 bi bi-chevron-right" visually-hidden="true">
+                                            <span class="visually-hidden">Nächste Seite</span>
                                         </i>
                                     </a>
                                 </xsl:if>
+                            </div>
+                            <div class="col-md-1 col-lg-1 col-sm-12 text-end">
+                                <xsl:for-each select=".//tei:bibl[@n='next issue']">
+                                    <xsl:variable name="title">
+                                        <xsl:value-of select="./tei:title"/>
+                                    </xsl:variable>
+                                    <a data-bs-toggle="tooltip" data-bs-title="Nächstes Heft: {$title}">
+                                        <xsl:attribute name="href">
+                                            <xsl:value-of select="replace(./tei:idno, '.xml', '.html')"/>
+                                        </xsl:attribute>
+                                        <i class="fs-2 bi-chevron-double-right" visually-hidden="true">
+                                            <span class="visually-hidden">
+                                                <xsl:value-of select="$title"/>
+                                            </span>
+                                        </i>
+                                    </a>
+                                </xsl:for-each>
                             </div>
                         </div>
                         <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
