@@ -37,9 +37,9 @@
                                     <li>
                                         <a class="dropdown-item" href="listbibl.html">Textverzeichnis</a>
                                     </li>
-                                    <!-- <li>
-                                        <a class="dropdown-item" href="listbibl.html">Autor*Innen</a>
-                                    </li> -->
+                                    <li>
+                                        <a class="dropdown-item" href="authors.html">Autor*Innen</a>
+                                    </li> 
                                 </ul>
                             </li>
                             <li class="nav-item">

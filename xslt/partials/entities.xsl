@@ -28,33 +28,12 @@
                     <xsl:value-of select="./tei:date"/>
                 </dd>
             </xsl:if>
-            <xsl:if test="./tei:idno">
-                <dt>Identifiers</dt>
-                <xsl:for-each select="./tei:idno">
-                    <dd>
-                        <xsl:choose>
-                            <xsl:when test="starts-with(./text(), 'http')">
-                                <a href="{./text()}">
-                                    <xsl:value-of select="."/>
-                                </a>
-                            </xsl:when>
-                            <xsl:otherwise>
-                                <xsl:value-of select="."/>
-                            </xsl:otherwise>
-                        </xsl:choose>
-                    </dd>
-                </xsl:for-each>
-            </xsl:if>
-            <xsl:if test="./tei:noteGrp/tei:note[@type = 'mentions']">
-                <dt>Erwähnt in</dt>
-                <xsl:for-each select="./tei:noteGrp/tei:note[@type = 'mentions']">
-                    <dd>
-                        <a href="{replace(@target, '.xml', '.html')}">
-                            <xsl:value-of select="./text()"/>
-                        </a>
-                    </dd>
-                </xsl:for-each>
-            </xsl:if>
+            <dt>Erschienen in:</dt>
+            <dd>
+                <a href="{replace(./tei:idno[@type='fn'], '.xml', '.html')}">
+                    <xsl:value-of select="tokenize(@n, ' in:')[last()]"/>
+                </a>
+            </dd>
         </dl>
     </xsl:template>
 
@@ -139,6 +118,16 @@
                                 <xsl:value-of select="."/>
                             </xsl:otherwise>
                         </xsl:choose>
+                    </dd>
+                </xsl:for-each>
+            </xsl:if>
+            <xsl:if test="./tei:listBibl/tei:bibl">
+                <dt>Beiträge</dt>
+                <xsl:for-each select="./tei:listBibl/tei:bibl">
+                    <dd>
+                        <a href="{replace(./tei:idno[@type='fn'], '.xml', '.html')}">
+                            <xsl:value-of select="@n"/>
+                        </a>
                     </dd>
                 </xsl:for-each>
             </xsl:if>

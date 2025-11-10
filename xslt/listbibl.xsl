@@ -48,16 +48,16 @@
                         </ol>
                     </nav>                 
                     <div class="container">                        
-                        <h1>
-                            <xsl:value-of select="$doc_title"/>
-                        </h1>
+                        <h1 class="display-5 text-center"><xsl:value-of select="$doc_title"/></h1>
+                        <div class="text-center p-1"><span id="counter1"></span> von <span id="counter2"></span> Beiträge</div>
                         
                         <table id="myTable">
                             <thead>
                                 <tr>
-                                    <th scope="col" width="20" tabulator-formatter="html" tabulator-headerSort="false" tabulator-download="false">#</th>
-                                    <th scope="col" tabulator-headerFilter="input">Titel</th>
+                                    <th scope="col" tabulator-headerFilter="input" tabulator-formatter="html" tabulator-download="false" tabulator-minWidth="350">Titel</th>
+                                    <th scope="col" tabulator-visible="false" tabulator-download="true">titel_</th>
                                     <th scope="col" tabulator-headerFilter="input">Autor</th>
+                                    <th scope="col" tabulator-headerFilter="input">Heft</th>
                                     <th scope="col" tabulator-headerFilter="input">Datum</th>
                                     <th scope="col" tabulator-headerFilter="input">ID</th>
                                 </tr>
@@ -67,23 +67,29 @@
                                     <xsl:variable name="id">
                                         <xsl:value-of select="data(@xml:id)"/>
                                     </xsl:variable>
+                                    <xsl:variable name="label">
+                                        <xsl:value-of select="./tei:title[@level='a']"/>
+                                    </xsl:variable>
                                     <tr>
                                         <td>
                                             <a>
                                               <xsl:attribute name="href">
                                               <xsl:value-of select="concat($id, '.html')"/>
                                               </xsl:attribute>
-                                              <i class="bi bi-link-45deg"/>
+                                              <xsl:value-of select="$label"/>
                                             </a>
                                         </td>
                                         <td>
-                                            <xsl:value-of select=".//tei:title[1]/text()"/>
+                                            <xsl:value-of select="$label"/>
                                         </td>
                                         <td>
-                                            <xsl:value-of select=".//tei:author[1]//text()"/>
+                                            <xsl:value-of select="./tei:author/text()"/>
                                         </td>
                                         <td>
-                                            <xsl:value-of select=".//tei:date[1]/text()"/>
+                                            <xsl:value-of select="./tei:biblScope[@unit='issue']/@n"/>
+                                        </td>
+                                        <td>
+                                            <xsl:value-of select="./tei:date[@when-iso]/@when-iso"/>
                                         </td>
                                         <td>
                                             <xsl:value-of select="$id"/>
@@ -107,7 +113,7 @@
         </html>
         <xsl:for-each select=".//tei:bibl[@xml:id]">
             <xsl:variable name="filename" select="concat(./@xml:id, '.html')"/>
-            <xsl:variable name="name" select="normalize-space(string-join(./tei:title[1]//text()))"></xsl:variable>
+            <xsl:variable name="name" select="./tei:title[@level='a']"></xsl:variable>
             <xsl:result-document href="{$filename}">
                 <html class="h-100" lang="{$default_lang}">
                     <head>
@@ -134,9 +140,12 @@
                                 </ol>
                             </nav>
                             <div class="container">
-                                <h1>
+                                <h1 class="text-center">
                                     <xsl:value-of select="$name"/>
                                 </h1>
+                                <h2 class="text-center">
+                                    <xsl:value-of select="@n"/>
+                                </h2>
                                 <xsl:call-template name="bibl_detail"/>
                                 <div class="text-center p-4">
                                 <xsl:call-template name="blockquote">

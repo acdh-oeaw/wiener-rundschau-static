@@ -10,26 +10,6 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>data/editions/WR-01-01-01_n0008.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>editions</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
                                     <String>data/imprint.xml</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -70,11 +50,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>data/indices/listplace.xml</String>
+                                    <String>data/indices/listperson.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>listplace</String>
+                                        <String>listperson</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -90,11 +70,31 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>data/indices/listperson.xml</String>
+                                    <String>data/editions/WR-01-01-01_n0008.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>listperson</String>
+                                        <String>editions</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>data/indices/listplace.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>listplace</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -425,7 +425,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${pdu}/xslt/listperson.xsl</String>
+                                    <String>${pdu}/xslt/listauthors.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
@@ -446,7 +446,7 @@
                                     <Boolean>true</Boolean>
                                 </field>
                                 <field name="outputResource">
-                                    <String>${pd}/html/${cfn}.html</String>
+                                    <String>${pd}/html/authors.html</String>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
