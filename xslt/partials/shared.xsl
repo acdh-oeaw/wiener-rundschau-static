@@ -7,6 +7,10 @@
     version="2.0">
     
     <xsl:import href="entities.xsl"/>
+    
+    <xsl:template match="tei:milestone[@unit='hr']">
+        <xsl:element name="hr"></xsl:element>
+    </xsl:template>
 
     <xsl:template match="tei:div">
         <div><xsl:apply-templates/></div>
@@ -34,24 +38,6 @@
         <br/>
     </xsl:template>
 
-    <xsl:template match="tei:note">
-        <xsl:element name="a">
-            <xsl:attribute name="name">
-                <xsl:text>fna_</xsl:text>
-                <xsl:number level="any" format="1" count="tei:note"/>
-            </xsl:attribute>
-            <xsl:attribute name="href">
-                <xsl:text>#fn</xsl:text>
-                <xsl:number level="any" format="1" count="tei:note"/>
-            </xsl:attribute>
-            <xsl:attribute name="title">
-                <xsl:value-of select="normalize-space(.)"/>
-            </xsl:attribute>
-            <sup>
-                <xsl:number level="any" format="1" count="tei:note"/>
-            </sup>
-        </xsl:element>
-    </xsl:template>
 
     <xsl:template match="tei:list[@type='unordered']">
         <xsl:choose>
@@ -113,9 +99,6 @@
     
     <xsl:template match="tei:table">
         <xsl:element name="table">
-            <xsl:attribute name="class">
-                <xsl:text>table table-bordered table-striped table-condensed table-hover</xsl:text>
-            </xsl:attribute>
             <xsl:element name="tbody">
                 <xsl:apply-templates/>
             </xsl:element>
