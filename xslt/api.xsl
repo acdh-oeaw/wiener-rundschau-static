@@ -32,7 +32,21 @@
                                 <xsl:value-of select="current()/@xml:id"/>
                             </xsl:sort>
                             <xsl:variable name="xmlid" select="current()/@xml:id"/>
-                            <xsl:variable name="title" select="normalize-space(string-join(.//tei:titleStmt/tei:title[1]//text()))"/>
+                            <xsl:variable name="title" select=".//tei:titleStmt/tei:title[@level='a']/text()"/>
+                            <item>
+                                <title><xsl:value-of select="$title"/></title>
+                                <ptr target="{$xmlid}"/>
+                            </item>
+                        </xsl:for-each>
+                    </list>
+                    <list>
+                        <head>Indices</head>
+                        <xsl:for-each select="collection('../data/indices?select=*.xml')//tei:TEI">
+                            <xsl:sort>
+                                <xsl:value-of select="current()/@xml:id"/>
+                            </xsl:sort>
+                            <xsl:variable name="xmlid" select="current()/@xml:id"/>
+                            <xsl:variable name="title" select=".//tei:titleStmt/tei:title[@level='a']/text()"/>
                             <item>
                                 <title><xsl:value-of select="$title"/></title>
                                 <ptr target="{$xmlid}"/>
@@ -46,7 +60,7 @@
                                 <xsl:value-of select="current()/@xml:id"/>
                             </xsl:sort>
                             <xsl:variable name="xmlid" select="current()/@xml:id"/>
-                            <xsl:variable name="title" select="normalize-space(string-join(.//tei:titleStmt/tei:title[1]//text()))"/>
+                            <xsl:variable name="title" select=".//tei:titleStmt/tei:title[@level='a']/text()"/>
                             <item>
                                 <title><xsl:value-of select="$title"/></title>
                                 <ptr target="{$xmlid}"/>
@@ -56,16 +70,6 @@
                 </body>
             </text>
         </TEI>
-        
-        
-            <xsl:for-each
-                select="collection('../data/*/?select=*.xml')//tei:TEI">
-                <xsl:sort>
-                    <xsl:value-of select="current()/@xml:id"/>
-                </xsl:sort>
-                
-                
-            </xsl:for-each>
     </xsl:template>
     
 </xsl:stylesheet>
