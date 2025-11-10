@@ -49,7 +49,7 @@
                                         class="btn btn-outline-primary btn-lg px-4 me-md-2"
                                         >Über das Projekt</a>
                                     <a href="toc.html" type="button"
-                                        class="btn btn-outline-primary btn-lg px-4">Alle Hefte</a>
+                                        class="btn btn-outline-primary btn-lg px-4">Alle Seiten</a>
                                 </div>
                             </div>
                             <div class="col-10 col-sm-8 col-lg-6">

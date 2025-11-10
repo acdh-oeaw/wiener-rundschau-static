@@ -168,6 +168,7 @@
 
                         <div class="text-center p-4">
                             <xsl:call-template name="blockquote">
+                                <xsl:with-param name="currentTitle" select="$doc_title"></xsl:with-param>
                                 <xsl:with-param name="pageId" select="$link"/>
                             </xsl:call-template>
                         </div>
