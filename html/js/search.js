@@ -1,6 +1,6 @@
 const indexName = "wiener-rundschau-static";
 
-const apiKey = "0drlT8CHD6T9z8QxQjYXvSWT2dZ75nPv"; /* change this */
+const apiKey = "DxSbTlHTxbkgyzxVs3cuCGz24o90Soji"; /* change this */
 
 const typesenseInstantsearchAdapter = new TypesenseInstantSearchAdapter({
   server: {
@@ -27,7 +27,7 @@ const DEFAULT_CSS_CLASSES = {
   showMore: "btn btn-secondary btn-sm align-content-center",
   list: "list-unstyled",
   count: "badge m-2 badge-secondary",
-  label: "d-flex align-items-center text-capitalize",
+  label: "d-flex align-items-center",
   checkbox: "m-2",
 };
 
@@ -35,6 +35,10 @@ const searchClient = typesenseInstantsearchAdapter.searchClient;
 const search = instantsearch({
   indexName: indexName,
   searchClient,
+  routing: {
+    router: instantsearch.routers.history(),
+    stateMapping: instantsearch.stateMappings.simple(),
+  },
 });
 
 search.addWidgets([
@@ -66,14 +70,8 @@ search.addWidgets([
               ? components.Snippet({ hit, attribute: "full_text" })
               : ""}
           </p>
-          ${hit.place_entities.map(
-            (item) =>
-              html`<a href="${item.id}.html" class="pe-2 custom-link"
-                ><i class="bi bi-geo-alt pe-1"></i>${item.label}</a
-              >`
-          )}
-          <br />
-          ${hit.person_entities.map(
+
+          ${hit.author_entities.map(
             (item) =>
               html`<a href="${item.id}.html" class="pe-2 custom-link"
                 ><i class="bi bi-person pe-1"></i>${item.label}</a
@@ -98,6 +96,8 @@ search.addWidgets([
       { label: "Standard", value: `${indexName}` },
       { label: "ID (aufsteigend)", value: `${indexName}/sort/rec_id:asc` },
       { label: "ID (absteigend)", value: `${indexName}/sort/rec_id:desc` },
+      { label: "Jahr (aufsteigend)", value: `${indexName}/sort/year:asc` },
+      { label: "Jahr (absteigend)", value: `${indexName}/sort/year:desc` },
     ],
   }),
 
@@ -126,16 +126,16 @@ search.addWidgets([
       return state.query.length === 0;
     },
     templates: {
-      header: "Personen",
+      header: "Autor*innen",
     },
   })(instantsearch.widgets.refinementList)({
-    container: "#rf-persons",
-    attribute: "person_entities.label",
+    container: "#rf-authors",
+    attribute: "author_entities.label",
     searchable: true,
     showMore: true,
     showMoreLimit: 50,
     limit: 10,
-    searchablePlaceholder: "Suche nach Personen",
+    searchablePlaceholder: "Suche nach Autor*innen",
     cssClasses: DEFAULT_CSS_CLASSES,
   }),
 
@@ -144,25 +144,7 @@ search.addWidgets([
       return state.query.length === 0;
     },
     templates: {
-      header: "Orte",
-    },
-  })(instantsearch.widgets.refinementList)({
-    container: "#rf-places",
-    attribute: "place_entities.label",
-    searchable: true,
-    showMore: true,
-    showMoreLimit: 50,
-    limit: 10,
-    searchablePlaceholder: "Suche nach Orten",
-    cssClasses: DEFAULT_CSS_CLASSES,
-  }),
-
-  instantsearch.widgets.panel({
-    collapsed: ({ state }) => {
-      return state.query.length === 0;
-    },
-    templates: {
-      header: "Literatur",
+      header: "Texte",
     },
   })(instantsearch.widgets.refinementList)({
     container: "#rf-works",
@@ -171,7 +153,7 @@ search.addWidgets([
     showMore: true,
     showMoreLimit: 50,
     limit: 10,
-    searchablePlaceholder: "Suche nach Literatur",
+    searchablePlaceholder: "Suche nach Texten",
     cssClasses: DEFAULT_CSS_CLASSES,
   }),
 
@@ -202,9 +184,8 @@ search.addWidgets([
     },
     transformItems(items) {
       const labelMap = {
-        "person_entities.label": "Personen",
-        "place_entities.label": "Orte",
-        "bibl_entities.label": "Literatur",
+        "author_entities.label": "Autor*innen",
+        "bibl_entities.label": "Texte",
       };
 
       return items.map((item) => ({
@@ -231,4 +212,3 @@ search.addWidgets([
 ]);
 
 search.start();
-

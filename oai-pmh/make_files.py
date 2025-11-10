@@ -2,9 +2,9 @@ import datetime
 import glob
 import os
 import shutil
-import jinja2
 from xml.sax.saxutils import escape
 
+import jinja2
 from acdh_tei_pyutils.tei import TeiReader
 from acdh_tei_pyutils.utils import extract_fulltext
 
@@ -43,7 +43,9 @@ output_path = os.path.join(oai_folder, "ListRecords.xml")
 object_list = []
 for x in files:
     doc = TeiReader(x)
-    title = extract_fulltext(doc.any_xpath(".//tei:titleStmt[1]/tei:title[1]")[0])
+    title = extract_fulltext(
+        doc.any_xpath(".//tei:titleStmt[1]/tei:title[@level='a']")[0]
+    )
     title = escape(title, {'"': "&quot;", "'": "&apos;"})
     item = {
         "id": os.path.split(x)[-1],

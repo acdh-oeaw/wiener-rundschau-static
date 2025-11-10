@@ -36,10 +36,14 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v5
-      # - name: install python things
-      #   run: pip install -r requirements.txt 
+      - name: Install the latest version of uv
+        uses: astral-sh/setup-uv@v7 
       - name: Build the app
         run: ant
+      - name: Build search index
+        run: uv run pyscripts/make_ts_index.py
+      - name: Build OAI-PMH files
+        run: uv run oai-pmh/make_files.py
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact

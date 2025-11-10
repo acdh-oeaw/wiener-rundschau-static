@@ -69,10 +69,8 @@
                                         <div class="card-body bg-light-blue">
                                             <h3 class="card-title h5 fw-bold mb-3">
                                                 <i class="bi bi-tags"/> Entitäten </h3>
-                                            <div id="rf-persons" class="pb-3"/>
-                                            <div id="rf-places" class="pb-3"/>
+                                            <div id="rf-authors" class="pb-3"/>
                                             <div id="rf-works" class="pb-3"/>
-                                            <div id="rf-bibl" class="pb-3"/>
                                         </div>
                                     </div>
                                     <!-- Sortierung Section -->
