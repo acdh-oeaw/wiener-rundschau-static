@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-02_n0028.xml"
-     prev="WR-05-02_n0027.xml"
-     next="WR-05-02_n0029.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-02_n0028.xml" prev="WR-05-02_n0027.xml" next="WR-05-02_n0029.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,20 +41,38 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 1</title>
+                  <idno>WR-05-01_n0001.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 3</title>
+                  <idno>WR-05-03_n0049.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">SWINBURNE: DIE DICHTUNGEN DES DANTE GABRIEL ROSSETTI.</fw></fw><table><row><cell>
-<p rend="no-intend">spielen sie, Harfe und Laute oder Nim-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">SWINBURNE: DIE DICHTUNGEN DES DANTE GABRIEL ROSSETTI.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">spielen sie, Harfe und Laute oder Nim-<lb break="no"/>
 fali, die kleine, tragbare Orgel. Musik ist<lb/>
 ihr Wesen, Musik der Balsam, den sie<lb/>
 schenken. All unsere Unruhe, all unser<lb/>
 Sehnen, wie sind sie nicht im Zusammen-<lb break="no"/>
 klang ihres Sanges gelöst!</p>
-<p>Aber wunderbarer als die Engel ist,<lb/>
+                     <p>Aber wunderbarer als die Engel ist,<lb/>
 wie es sich geziemt, Memlings Madonna.<lb/>
 Es ist immer derselbe Typus. Der Künstler<lb/>
 hat hier an das Wort der Bibel von<lb/>
@@ -73,8 +88,9 @@ klar, der Blick unter eingesunkenen Lidern<lb/>
 nach innen gewendet, der Mund ge-<lb break="no"/>
 schlossen, blumenhaft unbewusst, in sich<lb/>
 selbst versenkt. Immer deutet der Meister</p>
-</cell><cell>
-<p rend="no-intend">an, dass sie ferne und abwesend ist. Die<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">an, dass sie ferne und abwesend ist. Die<lb/>
 Engel kommen mit Gesang und die drei<lb/>
 Könige mit Gaben. Aber sie sieht nichts,<lb/>
 sie hört nichts. Sie wendet die Blätter<lb/>
@@ -96,10 +112,20 @@ Zerstreutheit, mit der sie die Welt be-<lb break="no"/>
 trachtet, bezaubert meine Seele. O, Mem-<lb break="no"/>
 lings Madonna, schenke auch mir etwas<lb/>
 von deiner himmlischen Versunkenheit!</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="untyped-start"/><ab><title>DIE DICHTUNGEN DES DANTE GABRIEL ROSSETTI.<lb/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIE DICHTUNGEN DES DANTE GABRIEL ROSSETTI.<lb/>
 Von <rs type="person" key="">ALGERNON CHARLES SWINBURNE</rs> (London).<lb/>
-II.</title></ab><table><row><cell>
-<p>Ein Gedicht Rossettis verdient hier<lb/>
+II.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Ein Gedicht Rossettis verdient hier<lb/>
 — im Anschluss an das bereits Gesagte —<lb/>
 besonders hervorgehoben zu werden. Ich<lb/>
 meine die Hymne »<hi rend="italics">Ave</hi>«, deren wunder-<lb break="no"/>
@@ -120,12 +146,14 @@ des Herrn streift und mit blassen Schatten<lb/>
 das Zimmer füllt, in dem die Muttergottes<lb/>
 still da sitzt, für die Armen arbeitend, die<lb/>
 der Sohn ihr als Vermächtnis hinterließ.</p>
-</cell><cell>
-<p rend="no-intend">Das Zarte, Traumhafte der Stimmung des<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Das Zarte, Traumhafte der Stimmung des<lb/>
 Bildes kann nicht übertroffen werden; doch<lb/>
 ist auch das Gedicht, das denselben dunkeln<lb/>
-Ton zeigt, von wundersamem Reiz <milestone unit="3dots"/></p>
-<p>Die <hi rend="text-spaced">Ballade</hi> hohen Stils setzt von<lb/>
+Ton zeigt, von wundersamem Reiz <milestone unit="3dots"/>
+                     </p>
+                     <p>Die <hi rend="text-spaced">Ballade</hi> hohen Stils setzt von<lb/>
 dem Dichter die souveräne Beherrschung<lb/>
 der epischen, lyrischen und dramatischen<lb/>
 Technik zugleich voraus. Diese drei<lb/>
@@ -141,8 +169,14 @@ Meisterballade musste in der Diction noch<lb/>
 eleganter, in dem Herausgreifen des<lb/>
 Markantesten aus seinem gegebenen, zu-<lb break="no"/>
 meist überreichen Thema noch sorgfältiger<lb/>
-zu Werke gehen, als dies selbst <hi rend="text-spaced">Chancer</hi></p>
-</cell></row></table><ab type="catchall">— 28 —</ab><lb/></div>
+zu Werke gehen, als dies selbst <hi rend="text-spaced">Chancer</hi>
+                     </p>
+                  </cell>
+               </row>
+            </table>
+            <ab type="catchall">— 28 —</ab>
+            <lb/>
+         </div>
       </body>
    </text>
 </TEI>

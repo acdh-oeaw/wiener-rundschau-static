@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-03-01-01_n0002.xml"
-     prev="WR-03-01-01_n0001.xml"
-     next="WR-03-01-01_n0003.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-01_n0002.xml" prev="WR-03-01-01_n0001.xml" next="WR-03-01-01_n0003.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,19 +42,58 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 2</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 2</title>
+                  <idno>WR-03-02-14_n0321.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 3, Halbbd. 1, Nr. 0</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 3, Halbbd. 1, Nr. 2</title>
+                  <idno>WR-03-01-02_n0025.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">STRINDBERG: DIE SCHLÜSSEL DES HIMMELREICHS.</fw></fw><milestone unit="performance-start"/><ab><title>DIE SCHLÜSSEL DES HIMMELREICHS oder: SANCT PETERS<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">STRINDBERG: DIE SCHLÜSSEL DES HIMMELREICHS.</fw>
+            </fw>
+            <milestone unit="performance-start"/>
+            <ab>
+               <title>DIE SCHLÜSSEL DES HIMMELREICHS oder: SANCT PETERS<lb/>
 WANDERUNG AUF ERDEN.<lb/>
-Märchenspiel in fünf Acten von <rs type="person" key=""><hi rend="text-spaced">AUGUST STRINDBERG</hi></rs>.<lb/>
-Autorisierte Übersetzung aus dem Schwedischen von <rs type="person" key="">ERICH HOLM</rs>.*</title></ab><p>(Den Bühnen gegenüber als Manuscript gedruckt.)</p><table><row><cell>
-<milestone unit="act-start"/>
-<ab><title>Erster Act.</title></ab>
-<p>(Kammer hinter der Schmiede, von der letzteren<lb/>
+Märchenspiel in fünf Acten von <rs type="person" key="">
+                     <hi rend="text-spaced">AUGUST STRINDBERG</hi>
+                  </rs>.<lb/>
+Autorisierte Übersetzung aus dem Schwedischen von <rs type="person" key="">ERICH HOLM</rs>.*</title>
+            </ab>
+            <p>(Den Bühnen gegenüber als Manuscript gedruckt.)</p>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="act-start"/>
+                     <ab>
+                        <title>Erster Act.</title>
+                     </ab>
+                     <p>(Kammer hinter der Schmiede, von der letzteren<lb/>
 durch eine Bretterwand, in deren Mitte sich<lb/>
 eine grosse Öffnung befindet, getrennt. Durch<lb/>
 dieselbe sieht man die Schmiede, die zugleich<lb/>
@@ -82,78 +118,98 @@ Blasebalgs hängt rechts an der Zwischenwand<lb/>
 hervor. — Durch das im Hintergrund befind-<lb break="no"/>
 liche, offene Fenster der Schmiede wird eine<lb/>
 Strasse im mittelalterlichen Stile sichtbar.)</p>
-<milestone unit="scene-start"/>
-<ab><title>Erste Scene.</title></ab>
-<p><hi rend="strong">Der Arzt. Der Schmied. Sanct Peter.</hi></p>
-<p>(Der Arzt, schwarz gekleidet, in Doctorstracht,<lb/>
+                     <milestone unit="scene-start"/>
+                     <ab>
+                        <title>Erste Scene.</title>
+                     </ab>
+                     <p>
+                        <hi rend="strong">Der Arzt. Der Schmied. Sanct Peter.</hi>
+                     </p>
+                     <p>(Der Arzt, schwarz gekleidet, in Doctorstracht,<lb/>
 sitzt unbeweglich auf der Bank am Kachel-<lb break="no"/>
 ofen, so dass er dem Zuschauer den Rücken<lb/>
 zuwendet. Der Schmied in Trauerkleidern tritt<lb/>
 in Aufregung und verweint beim Aufgehen des<lb/>
 Vorhangs ein.)</p>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Der Schmied</hi>.</p>
-<lg><l>Was half mir Deine Kunst, Du Wunderdoctor?</l>
-<l>Was nützten wohl Mixtur und Balsam,</l>
-<l>Da nun die Pest mein Haus verödet?</l>
-<l>Was liest Du unaufhörlich, schwarzer</l>
-<l>Meister,</l>
-<l>Von Säuren und von Salzen,</l>
-<l>Von Teriak und des Weisen Stein,</l>
-<l>Der sitzen soll in eines Krebses Magen?</l>
-<l>Kannst Du in meine Kinder Leben lesen,</l>
-<l>Die jüngst sie senkten in die schwarze Erde?</l>
-<l>Ich kam zu spät zum letzten Scheidekuss,</l>
-<l>Zu spät, sie zu der Grube zu geleiten,</l>
-<l>Darein, was lieb uns war und theuer,</l></lg>
-</cell><cell>
-<lg><l>Vergraben wird und fault zum Schmutz. —</l>
-<l>O, Du mein Gott! Nun ist die Stube leer,</l>
-<l>Und leer sind auch die kleinen Betten!</l>
-<l>Sieh, hier lag Katharina! Ach sie war</l>
-<l>mein Ält’stes!</l>
-<l>Sieh hier den Abdruck ihres schönen Köpf-</l>
-<l>chens</l>
-<l>Im Kissenüberzug <milestone unit="4dots"/></l>
-<l>Sie war mein Freund, seit Mutter starb —</l>
-<l>Und ich war ihrer!</l>
-<l>Und Mutter ward sie den Geschwistern.</l>
-<l>So klug, so zärtlich und so ernst <milestone unit="4dots"/></l>
-<l>Sie kam zur Welt in unsern allertrübsten</l>
-<l>Zeiten</l>
-<l>Und brachte mit das Glück,</l>
-<l>Und Wohlstand, reichen Segen unserm</l>
-<l>Haus. —</l>
-<l>Gesegnet sei Dein Angedenken, Engel! —</l>
-<l>Und hier mein Margaretel!</l>
-<l>Du frische Rose voller Duft,</l>
-<l>Du kleiner Vogel, der mit frohem Zwitschern</l>
-<l>Das Haus erheitert, der Geschwister Kreis!</l>
-<l>Mit off’ner Hand und off’nem Herzen,</l>
-<l>Wie war Dir’s Geben Lust!</l>
-<l>Da steht Dein kleiner Schuh!</l>
-<l>Den Heller leg’ ich Dir hinein —</l>
-<l>Dass, wenn Du aufwachst <milestone unit="3dots"/> Wenn Du</l>
-<l>aufwachst? — Wenn?</l>
-<l>Ja, dies der Schuh, doch wo das Füsschen,</l>
-<l>Das kleine, runde Füsschen,</l>
-<l>Das kaum berührt den Blumenanger,</l>
-<l>Das eine Emse nicht zertrat —</l>
-<l>Ohn’ dass ein leises »Gott verzeih’«</l>
-<l>Aus leicht gerührtem Herzen Zeugnis gab.</l>
-<l>Du kleiner Schuh <milestone unit="4dots"/></l>
-<l>Schlaf süss mein liebes, liebes Margaretel!</l></lg>
-<lg><l>Und Du, mein Sohn, mein Schmerzenskind,</l>
-<l>Doch meiner Sorgen nicht!</l>
-<l>Mein Benjamin,</l>
-<l>Der Mutter Bild war mir zurückgegeben,</l>
-<l>Wenn aus der Wiege Deine grossen, hellen</l>
-<l>Augen</l></lg>
-</cell></row></table><note type="footnote">
-<p>* Die vorliegende <hi rend="text-spaced">ausschliesslich befugte</hi> deutsche Bearbeitung des Dramas, bisher nur<lb/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Was half mir Deine Kunst, Du Wunderdoctor?</l>
+                        <l>Was nützten wohl Mixtur und Balsam,</l>
+                        <l>Da nun die Pest mein Haus verödet?</l>
+                        <l>Was liest Du unaufhörlich, schwarzer</l>
+                        <l>Meister,</l>
+                        <l>Von Säuren und von Salzen,</l>
+                        <l>Von Teriak und des Weisen Stein,</l>
+                        <l>Der sitzen soll in eines Krebses Magen?</l>
+                        <l>Kannst Du in meine Kinder Leben lesen,</l>
+                        <l>Die jüngst sie senkten in die schwarze Erde?</l>
+                        <l>Ich kam zu spät zum letzten Scheidekuss,</l>
+                        <l>Zu spät, sie zu der Grube zu geleiten,</l>
+                        <l>Darein, was lieb uns war und theuer,</l>
+                     </lg>
+                  </cell>
+                  <cell>
+                     <lg>
+                        <l>Vergraben wird und fault zum Schmutz. —</l>
+                        <l>O, Du mein Gott! Nun ist die Stube leer,</l>
+                        <l>Und leer sind auch die kleinen Betten!</l>
+                        <l>Sieh, hier lag Katharina! Ach sie war</l>
+                        <l>mein Ält’stes!</l>
+                        <l>Sieh hier den Abdruck ihres schönen Köpf-</l>
+                        <l>chens</l>
+                        <l>Im Kissenüberzug <milestone unit="4dots"/>
+                        </l>
+                        <l>Sie war mein Freund, seit Mutter starb —</l>
+                        <l>Und ich war ihrer!</l>
+                        <l>Und Mutter ward sie den Geschwistern.</l>
+                        <l>So klug, so zärtlich und so ernst <milestone unit="4dots"/>
+                        </l>
+                        <l>Sie kam zur Welt in unsern allertrübsten</l>
+                        <l>Zeiten</l>
+                        <l>Und brachte mit das Glück,</l>
+                        <l>Und Wohlstand, reichen Segen unserm</l>
+                        <l>Haus. —</l>
+                        <l>Gesegnet sei Dein Angedenken, Engel! —</l>
+                        <l>Und hier mein Margaretel!</l>
+                        <l>Du frische Rose voller Duft,</l>
+                        <l>Du kleiner Vogel, der mit frohem Zwitschern</l>
+                        <l>Das Haus erheitert, der Geschwister Kreis!</l>
+                        <l>Mit off’ner Hand und off’nem Herzen,</l>
+                        <l>Wie war Dir’s Geben Lust!</l>
+                        <l>Da steht Dein kleiner Schuh!</l>
+                        <l>Den Heller leg’ ich Dir hinein —</l>
+                        <l>Dass, wenn Du aufwachst <milestone unit="3dots"/> Wenn Du</l>
+                        <l>aufwachst? — Wenn?</l>
+                        <l>Ja, dies der Schuh, doch wo das Füsschen,</l>
+                        <l>Das kleine, runde Füsschen,</l>
+                        <l>Das kaum berührt den Blumenanger,</l>
+                        <l>Das eine Emse nicht zertrat —</l>
+                        <l>Ohn’ dass ein leises »Gott verzeih’«</l>
+                        <l>Aus leicht gerührtem Herzen Zeugnis gab.</l>
+                        <l>Du kleiner Schuh <milestone unit="4dots"/>
+                        </l>
+                        <l>Schlaf süss mein liebes, liebes Margaretel!</l>
+                     </lg>
+                     <lg>
+                        <l>Und Du, mein Sohn, mein Schmerzenskind,</l>
+                        <l>Doch meiner Sorgen nicht!</l>
+                        <l>Mein Benjamin,</l>
+                        <l>Der Mutter Bild war mir zurückgegeben,</l>
+                        <l>Wenn aus der Wiege Deine grossen, hellen</l>
+                        <l>Augen</l>
+                     </lg>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Die vorliegende <hi rend="text-spaced">ausschliesslich befugte</hi> deutsche Bearbeitung des Dramas, bisher nur<lb/>
 zum Zwecke von Aufführungen, die jedoch Censurschwierigkeiten halber unterbleiben mussten,<lb/>
-erschienen, wird hier zum erstenmale dem Lesepublicum theilweise zugänglich gemacht. <hi rend="italics">D. Ü.</hi></p>
-</note></div>
+erschienen, wird hier zum erstenmale dem Lesepublicum theilweise zugänglich gemacht. <hi rend="italics">D. Ü.</hi>
+               </p>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-03_n0073.xml"
-     prev="WR-05-03_n0072.xml"
-     next="WR-05-03_n0074.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-03_n0073.xml" prev="WR-05-03_n0072.xml" next="WR-05-03_n0074.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 2</title>
+                  <idno>WR-05-02_n0023.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 4</title>
+                  <idno>WR-05-04_n0077.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">LINDNER: LAVATER.</fw></fw><table><row><cell>
-<p rend="no-intend">Censeo: »Ich verehre diese neu sich zei-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">LINDNER: LAVATER.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Censeo: »Ich verehre diese neu sich zei-<lb break="no"/>
 gende Kraft als einen Strahl der Gottheit,<lb/>
 als einen königlichen Stern der mensch-<lb break="no"/>
 lichen Natur, als ein Analogon der<lb/>
@@ -61,7 +76,7 @@ Natur selbst mir dargebotene Bestätigung<lb/>
 der biblischen Divinations-Geschichten<lb/>
 und das Mittel, diese Exaltation zu be-<lb break="no"/>
 wirken.«</p>
-<p>Sei dem nun, wie ihm sei — es<lb/>
+                     <p>Sei dem nun, wie ihm sei — es<lb/>
 kann uns an sich gleichgiltig lassen.<lb/>
 Der Hauptwert der Lavater’schen Per-<lb break="no"/>
 sönlichkeit — als Typ genommen — und<lb/>
@@ -74,7 +89,7 @@ Gefühlen und Argumenten eines grund-<lb break="no"/>
 gütigen menschlichen Herzens — das<lb/>
 Recht der <hi rend="text-spaced">Intuition</hi> und des Unbewusst-<lb break="no"/>
 seins verfocht.</p>
-<p>Zu gleicher Zeit vertheidigte ein<lb/>
+                     <p>Zu gleicher Zeit vertheidigte ein<lb/>
 anderer Theologus, gleichfalls cagliostro-<lb break="no"/>
 haft angehaucht, in einer Unzahl absonder-<lb break="no"/>
 licher Tractate und in einem sibyllinischen<lb/>
@@ -90,9 +105,9 @@ spiration</hi> sei«. Es war Hamann, der<lb/>
 Magus, der im übrigen mehr aus Krakehl-<lb break="no"/>
 sucht schimpfierte und die Lavater’sche<lb/>
 Herzenseinfalt vollends vermissen ließ.</p>
-<p>Aber Beide hatten Recht, und Johann<lb/>
+                     <p>Aber Beide hatten Recht, und Johann<lb/>
 Kaspar besonders. Denn Kaspar war ein<lb/>
-<hi rend="text-spaced">Seelenwecker</hi>, der wider die Anmaß-<lb break="no"/>
+                        <hi rend="text-spaced">Seelenwecker</hi>, der wider die Anmaß-<lb break="no"/>
 lichkeit, wider die überwuchernde Auf-<lb break="no"/>
 dringlichkeit und dummdreiste Überlegen-<lb break="no"/>
 heit der Alltagsvernunft zu Felde rief<lb/>
@@ -101,8 +116,9 @@ Haltlosen und Halben zu <hi rend="text-spaced">seelischer Ver-<lb break="no"/>
 innerlichung</hi> antrieb. Dies vor allem<lb/>
 darf ihm nicht vergessen bleiben! In-<lb break="no"/>
 sonderheit heute nicht, ein Säculum nach</p>
-</cell><cell>
-<p rend="no-intend">seinem Tode. Denn größer als je zuvor<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">seinem Tode. Denn größer als je zuvor<lb/>
 ist heute die Notwendigkeit, dass<lb/>
 irgendwo aus einem Punkte der Welt-<lb break="no"/>
 kugel ein guter Geist hervorkomme, den<lb/>
@@ -121,7 +137,7 @@ tigen und Demüthigen nach jahrelanger<lb/>
 Selbstzucht in seltenen Augenblicken wie<lb/>
 Deutungen ewiger Räthsel mit Wehe-<lb break="no"/>
 gewalt verkünden.</p>
-<p>Was ist es denn, muss man fragen,<lb/>
+                     <p>Was ist es denn, muss man fragen,<lb/>
 das unserer armseligen Zeit jedes Gefühl<lb/>
 für Instinct-Werte (die sich auf Akademien<lb/>
 nicht lernen lassen), jedes Verständnis für<lb/>
@@ -152,11 +168,15 @@ kehrtem Wege) hinleiten muss. Ferner<lb/>
 all’ die maschinellen, technologischen,<lb/>
 methodologischen Wunder der praktischen<lb/>
 und theoretischen Wissenschaft, die (unter</p>
-</cell></row></table><note type="footnote">
-<p>* Eine exoterische Kunst ist undenkbar. Alle rechten und großen Künstler, zu allen<lb/>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Eine exoterische Kunst ist undenkbar. Alle rechten und großen Künstler, zu allen<lb/>
 Zeiten, bei allen Völkern, sind und waren Esoteriker, zum mindesten in den Augenblicken<lb/>
 ihres Schaffens. Schon darum kann große Kunst nicht »populär« sein.</p>
-</note></div>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

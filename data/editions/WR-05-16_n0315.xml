@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-16_n0315.xml"
-     prev="WR-05-16_n0314.xml"
-     next="WR-05-16_n0316.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-16_n0315.xml" prev="WR-05-16_n0314.xml" next="WR-05-16_n0316.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 15</title>
+                  <idno>WR-05-15_n0295.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 17</title>
+                  <idno>WR-05-17_n0327.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">LUCKA: ZUR SYMBOLIK IN WAGNERS »PARSIFAL«.</fw></fw><table><row><cell>
-<p rend="no-intend">storbenen Mutter, und mit furchtbarer<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">LUCKA: ZUR SYMBOLIK IN WAGNERS »PARSIFAL«.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">storbenen Mutter, und mit furchtbarer<lb/>
 Gewissheit offenbart sich ihm die Pflicht;<lb/>
 der Schleier der Maya fällt von seinen<lb/>
 Augen, die physische Causalität versinkt<lb/>
@@ -90,15 +105,16 @@ mit ihm sind die Blumenmädchen, das<lb/>
 reizende, untiefe Moment der Sinnlichkeit,<lb/>
 verwelkt. Doch das Wesen des Weibes<lb/>
 muss noch in Kundry umgewertet werden.</p>
-<p>Parsifal hat die hohe Bedeutung des<lb/>
+                     <p>Parsifal hat die hohe Bedeutung des<lb/>
 Speeres erkannt. Er nützt ihn nicht als<lb/>
 Waffe im Streite mit der Welt, denn in<lb/>
 der Hand des Erleuchteten wird die Er-<lb break="no"/>
 scheinung selbst Mittel zur Erlösung. Der<lb/>
 Speer schließt die Wunde, die er einst<lb/>
 schlug, vertilgt die Erbsünde. Er sehnt</p>
-</cell><cell>
-<p rend="no-intend">sich nach dem »verwandten Quelle, der<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">sich nach dem »verwandten Quelle, der<lb/>
 dort fließt in des Grales Welle«, die Welt<lb/>
 sehnt sich, dass sie der Mensch zu Gott<lb/>
 zurückbringe, wie die deutschen Mystiker<lb/>
@@ -117,10 +133,10 @@ im »Faust«) beziehen sich nicht auf einen<lb/>
 persönlichen Erlöser. Es ist der Gral, das<lb/>
 Metaphysische im Menschen, das durch<lb/>
 die erlösende That befreit worden ist.<lb/>
-<hi rend="text-spaced">Die physische Causalität ist<lb/>
+                        <hi rend="text-spaced">Die physische Causalität ist<lb/>
 durch die ethische abgelöst</hi>.<lb/>
 (Tiefster Sinn der Dichtung.)**</p>
-<p>Die meisterhafteste Gestalt, die Wagner<lb/>
+                     <p>Die meisterhafteste Gestalt, die Wagner<lb/>
 geschaffen, und eine der gewaltigsten der<lb/>
 Weltliteratur ist Kundry. In dieser einen<lb/>
 Persönlichkeit liegen alle Seiten des Weibes<lb/>
@@ -141,22 +157,28 @@ weiß. Um es besonders deutlich zu zeigen,<lb/>
 dass es wohl disparate Männer-<hi rend="text-spaced">Charak-<lb break="no"/>
 tere</hi> (psychische Strebungen) in Zeit und<lb/>
 Raum, aber nur ein einziges weibliches<lb/>
-<hi rend="text-spaced">Princip</hi> (materielle Kraft) gibt, wird die<lb/>
+                        <hi rend="text-spaced">Princip</hi> (materielle Kraft) gibt, wird die<lb/>
 Identität Kundrys mit Herodias und<lb/>
 Gundryggia (»Ur-Teufelin, Höllen-Rose«)</p>
-</cell></row></table><note type="footnote">
-<p>* »Wer erkennt, dass die von einander verschiedenen Eigenschaften der Dinge nur von<lb/>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* »Wer erkennt, dass die von einander verschiedenen Eigenschaften der Dinge nur von<lb/>
 einem Wesen allein ihren Ursprung haben, der geht in Brahma ein.«<lb/>
 Bhagavad Gîta, XIII, 27—30 (nach der Übersetzung von Franz Hartmann).</p>
-<p>** Der merkwürdigen Übereinstimmung halber möchte ich hier auf das bekannte Gedicht<lb/>
+               <p>** Der merkwürdigen Übereinstimmung halber möchte ich hier auf das bekannte Gedicht<lb/>
 Goethes: »Der getreue Eckhart« hinweisen, das den Dichter von einer wenig beachteten Seite<lb/>
 zeigen möchte:</p>
-<milestone unit="verse-start"/>
-<lg><l>»<hi rend="text-spaced">O wären wir weiter</hi>, <hi rend="text-spaced">o wär ich zu Haus</hi>,</l>
-<l>Sie kommen, da kommt schon der nächtliche Graus;</l>
-<l>Sie sind’s, die unholdigen Schwestern.«</l></lg>
-<milestone unit="untyped-end"/>
-</note></div>
+               <milestone unit="verse-start"/>
+               <lg>
+                  <l>»<hi rend="text-spaced">O wären wir weiter</hi>, <hi rend="text-spaced">o wär ich zu Haus</hi>,</l>
+                  <l>Sie kommen, da kommt schon der nächtliche Graus;</l>
+                  <l>Sie sind’s, die unholdigen Schwestern.«</l>
+               </lg>
+               <milestone unit="untyped-end"/>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

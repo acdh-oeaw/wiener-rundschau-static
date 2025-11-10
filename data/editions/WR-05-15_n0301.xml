@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-15_n0301.xml"
-     prev="WR-05-15_n0300.xml"
-     next="WR-05-15_n0302.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-15_n0301.xml" prev="WR-05-15_n0300.xml" next="WR-05-15_n0302.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 14</title>
+                  <idno>WR-05-14_n0279.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 16</title>
+                  <idno>WR-05-16_n0313.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">VICK: PSYCHOGRAPHOLOGIE.</fw></fw><table><row><cell>
-<p rend="no-intend">Aussage mit der Enthüllung dessen, was<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">VICK: PSYCHOGRAPHOLOGIE.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Aussage mit der Enthüllung dessen, was<lb/>
 der Mensch geneigt ist, vor sich und<lb/>
 anderen in seinem Inneren zu verbergen;<lb/>
 das letztere noch schärfer ausgedrückt:<lb/>
@@ -59,7 +74,7 @@ er legt frei, was der Mensch von sich<lb/>
 selbst erhofft, ersinnt, träumt, wünscht<lb/>
 oder möchte — heute wie gestern und so<lb/>
 morgen.</p>
-<p>Indem in der Psychographologie die<lb/>
+                     <p>Indem in der Psychographologie die<lb/>
 Wirkungsweise psychischer Kräfte demon-<lb break="no"/>
 striert wird, erhebt sie dieselbe in die<lb/>
 Fassbarkeit des Bewusstseins und löst sie<lb/>
@@ -71,14 +86,16 @@ welches wert ist, gewusst zu werden,<lb/>
 entstammt allein dem der menschlichen<lb/>
 Einsicht so sehr verschlossenen Gebiete<lb/>
 des Unbewussten.</p>
-<milestone unit="verse-start"/>
-<lg><l>Und lass’ dir rathen:</l>
-<l>Habe die Sonne nicht zu lieb</l>
-<l>Und nicht die Sterne.</l>
-<l>Komm’, folge mir ins dunkle</l>
-<l>Reich hinab!«</l></lg>
-<milestone unit="untyped-end"/>
-<p>Weil die Psychographologie in die<lb/>
+                     <milestone unit="verse-start"/>
+                     <lg>
+                        <l>Und lass’ dir rathen:</l>
+                        <l>Habe die Sonne nicht zu lieb</l>
+                        <l>Und nicht die Sterne.</l>
+                        <l>Komm’, folge mir ins dunkle</l>
+                        <l>Reich hinab!«</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>Weil die Psychographologie in die<lb/>
 Tiefen des Nichtgewussten ihre Wurzel<lb/>
 senkt, verbindet sich mit ihr über ihren<lb/>
 Zweck hinaus allgemein eine Veredlung<lb/>
@@ -93,7 +110,7 @@ Augen zu dringen vermögen; von wo ab<lb/>
 sinnfällige Kräfte über die Dinge stumm<lb/>
 bleiben; sie rettet jedem Menschen seinen<lb/>
 tieferen Inhalt.</p>
-<p>Das Urtheil des Psychographologen<lb/>
+                     <p>Das Urtheil des Psychographologen<lb/>
 bewegt sich zunächst in drei Richtungen,<lb/>
 ehe es aus diesen drei Richtungen als<lb/>
 ein einheitliches Ganzes hervorgeht. Sein<lb/>
@@ -107,8 +124,9 @@ dritter die Erwägung einer möglichen<lb/>
 Änderung des »Wohin«. Die Erscheinungs-<lb break="no"/>
 form, das Augenblicksbild ist der sich<lb/>
 ihrer selbst bewussten Beobachtung zu-</p>
-</cell><cell>
-<p>gänglich. Die Fragen jedoch, welche Ur-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p>gänglich. Die Fragen jedoch, welche Ur-<lb break="no"/>
 sachen die Erscheinungsform bestimmt<lb/>
 haben und in welcher Richtung die<lb/>
 letztere sich vorwärts bewegen wird,<lb/>
@@ -162,7 +180,10 @@ wohl, auf das Ganze seiner Psyche zu<lb/>
 schließen, jedoch nicht mehr mittelst be-<lb break="no"/>
 wussten Denkens, sondern vermittelst<lb/>
 psychischer Kraft. Den Charakter erfassen</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

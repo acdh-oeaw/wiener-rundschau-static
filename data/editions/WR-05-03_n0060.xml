@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-03_n0060.xml"
-     prev="WR-05-03_n0059.xml"
-     next="WR-05-03_n0061.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-03_n0060.xml" prev="WR-05-03_n0059.xml" next="WR-05-03_n0061.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 2</title>
+                  <idno>WR-05-02_n0023.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 4</title>
+                  <idno>WR-05-04_n0077.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">KASSNER: ANDRÉ GIDE.</fw></fw><table><row><cell>
-<p rend="no-intend">Der Stolz, der mich hält, er wankt und<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KASSNER: ANDRÉ GIDE.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Der Stolz, der mich hält, er wankt und<lb/>
 gibt nach; alles in mir ergreift schon<lb/>
 die Flucht. »Keine Sprünge, keine<lb/>
 Sprünge!« sagte ich. Was man über<lb/>
@@ -62,22 +77,28 @@ höre mich doch, Neoptolemos! Neopto-<lb break="no"/>
 lemos, es gibt keine Tugend! Neopto-<lb break="no"/>
 lemos! Er hört nicht mehr <milestone unit="3dots"/> (Er fällt<lb/>
 zurück und schläft ein.)</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Ulysses</hi> (tritt ein und sieht Philoktet):<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Ulysses</hi> (tritt ein und sieht Philoktet):<lb/>
 Und jetzt lass’ mich allein mit ihm!<lb/>
 (Neoptolemos, im Sturme heftigster Gefühle,<lb/>
 zögert noch, wegzugehen.) Gehe, wohin du<lb/>
 willst! Eile und mache das Boot bereit,<lb/>
 wenn du willst! (<hi rend="text-spaced">Neoptolemos</hi> geht<lb/>
 davon.)</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Ulysses</hi> (allein; er naht sich <hi rend="text-spaced">Philoktet</hi><lb/>
-und beugt sich über ihn): Philoktet! <milestone unit="3dots"/><lb/>
-Du hörst mich nicht mehr, Philoktet? <milestone unit="3dots"/><lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Ulysses</hi> (allein; er naht sich <hi rend="text-spaced">Philoktet</hi>
+                        <lb/>
+und beugt sich über ihn): Philoktet! <milestone unit="3dots"/>
+                        <lb/>
+Du hörst mich nicht mehr, Philoktet? <milestone unit="3dots"/>
+                        <lb/>
 Du hörst mich nicht? <milestone unit="3dots"/> Was soll<lb/>
-ich thun? Ich habe dir sagen wollen <milestone unit="3dots"/><lb/>
+ich thun? Ich habe dir sagen wollen <milestone unit="3dots"/>
+                        <lb/>
 dass du mich besiegt hast, Philoktet!<lb/>
 Und jetzt sehe ich die Tugend, jetzt;<lb/>
 ich fühle sie so schön, dass neben dir<lb/>
@@ -91,57 +112,78 @@ Kind; er soll gehorchen. Hier ist er!<lb/>
 (Befehlend:) Und jetzt, Neoptolemos,<lb/>
 nimm den Bogen und die Pfeile und<lb/>
 trage sie zum Boot! (<hi rend="text-spaced">Neoptolemos</hi> nähert</p>
-</cell><cell>
-<p rend="no-intend">sich voll Schmerz <hi rend="text-spaced">Philoktet</hi>, neigt sich über<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">sich voll Schmerz <hi rend="text-spaced">Philoktet</hi>, neigt sich über<lb/>
 ihn, wirft sich dann auf die Knie und küsst<lb/>
 ihn auf die Stirne.)</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Ulysses</hi>: Ich befehle es dir! Genügt<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Ulysses</hi>: Ich befehle es dir! Genügt<lb/>
 es dir nicht, mich verrathen zu haben?<lb/>
 Willst du auch dein Vaterland ver-<lb break="no"/>
 rathen? Sieh’, wie er sich hingab!<lb/>
 (<hi rend="text-spaced">Neoptolemos</hi> nimmt demüthig Bogen und<lb/>
 Pfeile und entfernt sich.)</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Ulysses</hi> (allein): Und jetzt, lebe<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Ulysses</hi> (allein): Und jetzt, lebe<lb/>
 wohl, harter Philoktet! Hast du mich<lb/>
-sehr verachtet? Ich möchte wissen <milestone unit="3dots"/><lb/>
+sehr verachtet? Ich möchte wissen <milestone unit="3dots"/>
+                        <lb/>
 Ich möchte, dass er wisse, wie ich ihn<lb/>
 bewundere und dass <milestone unit="3dots"/> um seinet-<lb break="no"/>
 willen wir siegen werden.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Neoptolemos</hi> (ruft aus der Ferne):<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Neoptolemos</hi> (ruft aus der Ferne):<lb/>
 Ulysses!</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Ulysses</hi> (entfernt sich): Hier!</p>
-<milestone unit="untyped-end"/>
-<milestone unit="untyped-end"/>
-<milestone unit="untyped-end"/>
-<milestone unit="act-start"/>
-<ab><title>V. Act.</title></ab>
-<p>(<hi rend="text-spaced">Philoktet</hi> ist allein auf einem Felsen. Die<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Ulysses</hi> (entfernt sich): Hier!</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="act-start"/>
+                     <ab>
+                        <title>V. Act.</title>
+                     </ab>
+                     <p>(<hi rend="text-spaced">Philoktet</hi> ist allein auf einem Felsen. Die<lb/>
 Sonne geht an einem vollkommen blauen<lb/>
 Himmel auf. Fern im Meere flieht ein Boot.<lb/>
 Philoktet sieht ihm lange nach.)</p>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Philoktet</hi> (spricht ganz leise und lang-<lb break="no"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Philoktet</hi> (spricht ganz leise und lang-<lb break="no"/>
 sam): Sie werden nicht wiederkommen,<lb/>
 sie haben mir keinen Bogen mehr zu<lb/>
 nehmen <milestone unit="3dots"/> Wie bin ich glücklich!</p>
-<milestone unit="untyped-end"/>
-<p>(Seine Stimme ist außerordentlich schön<lb/>
+                     <milestone unit="untyped-end"/>
+                     <p>(Seine Stimme ist außerordentlich schön<lb/>
 und sanft geworden; Blumen dringen um ihn<lb/>
 herum aus dem Schnee, und vom Himmel<lb/>
 herab kommen die Vögel, ihn zu nähren.)</p>
-<milestone unit="untyped-end"/>
-<p><hi rend="text-spaced">Schluss</hi>.</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/><milestone unit="untyped-start"/><ab><title>ANDRÉ GIDE.<lb/>
-Von <rs type="person" key="">RUDOLF KASSNER</rs> (Wien).</title></ab><table><row><cell>
-<p>Wer ist André Gide? Da er einem<lb/>
+                     <milestone unit="untyped-end"/>
+                     <p>
+                        <hi rend="text-spaced">Schluss</hi>.</p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>ANDRÉ GIDE.<lb/>
+Von <rs type="person" key="">RUDOLF KASSNER</rs> (Wien).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Wer ist André Gide? Da er einem<lb/>
 weiteren deutschen Leserkreise ebenso-<lb break="no"/>
 wenig bekannt sein dürfte, wie einem<lb/>
 weiteren französischen, so müsste ich ihn<lb/>
@@ -149,8 +191,9 @@ eigentlich erst literarisch vorstellen. Ich<lb/>
 müsste sagen, wie alt er heute ist, was<lb/>
 er geistig erlebt, was er uns zu sagen<lb/>
 hat und ob wir noch viel von ihm zu</p>
-</cell><cell>
-<p>erwarten haben, welche Stellung er in<lb/>
+                  </cell>
+                  <cell>
+                     <p>erwarten haben, welche Stellung er in<lb/>
 der Literatur des jungen Frankreich ein-<lb break="no"/>
 nimmt. Doch das ist heute alles noch<lb/>
 nicht wesentlich und würde der Lecture<lb/>
@@ -158,7 +201,10 @@ seiner Bücher wenig helfen. Eines genügt:<lb/>
 André Gide hat sich entwickelt. Das ist<lb/>
 wichtig und selten unter den jungen<lb/>
 Dichtern Frankreichs. Gide hat sich ent-</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

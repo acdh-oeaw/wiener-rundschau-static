@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-23_n0876.xml"
-     prev="WR-02-02-23_n0875.xml"
-     next="WR-02-02-23_n0877.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-23_n0876.xml" prev="WR-02-02-23_n0875.xml" next="WR-02-02-23_n0877.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,13 +42,42 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 22</title>
+                  <idno>WR-02-02-22_n0825.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 24</title>
+                  <idno>WR-02-02-24_n0905.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">876</fw><fw type="ctext">MAETERLINCK.</fw></fw><p rend="no-intend">die Sicherheit seiner Verdauung. Was die arme Mutter Emilys angeht,<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">876</fw>
+               <fw type="ctext">MAETERLINCK.</fw>
+            </fw>
+            <p rend="no-intend">die Sicherheit seiner Verdauung. Was die arme Mutter Emilys angeht,<lb/>
 so schien sie ganz und gar in der Bewunderung dieses Profils und im<lb/>
 Respect vor diesen ehelichen Verdauungen zu leben. Wozu übrigens<lb/>
 ihr Dasein hier erwähnen, da sie zwei Jahre nach Emilys Geburt<lb/>
@@ -69,7 +95,8 @@ Eltern. Um sie herum sahen vier Schwestern und ein Bruder dieselben<lb/>
 einförmigen Stunden schwerfällig verfliessen. Die ganze Familie lebte<lb/>
 und das ganze Dasein Emilys vergieng in dem düsteren, trostlosen,<lb/>
 einsamen, elenden und unfruchtbaren kleinen Flecken Howorth mitten<lb/>
-in der Haide von Yorkshire.</p><p>Es gab nie eine verlassenere, trübseligere, eintönigere Kindheit<lb/>
+in der Haide von Yorkshire.</p>
+            <p>Es gab nie eine verlassenere, trübseligere, eintönigere Kindheit<lb/>
 und Jugend als die Emilys und ihrer vier Schwestern. Nicht einer<lb/>
 jener kleinen, glücklichen oder ein wenig unerwarteten Zufälle, die von<lb/>
 den Jahren dann vergrössert und verschönt werden und auf dem<lb/>
@@ -85,7 +112,8 @@ gemeinsamen Saale des Pfarrhauses die überwältigenden Debatten des<lb/>
 englischen Parlaments mit lauter Stimme vorzulesen. Draussen — das<lb/>
 Schweigen des Kirchhofs, der das Haus umgab, die grosse Öde ohne<lb/>
 Bäume und die Hügel, die der furchtbare Nordwind vom Frühjahr bis<lb/>
-zum Winter durchtobte.</p><p>Die Zufälle des Lebens — denn es gibt kein Leben, in dem<lb/>
+zum Winter durchtobte.</p>
+            <p>Die Zufälle des Lebens — denn es gibt kein Leben, in dem<lb/>
 die Zufälle nicht etliche Anstrengungen machen — entrissen Emily<lb/>
 drei oder viermal dieser Einöde, die sie zu lieben und — wie es<lb/>
 allen geht, die zu lange an einem Orte weilen — als den einzigen<lb/>
@@ -93,8 +121,10 @@ Fleck anzusehen gelernt hatte, wo der Himmel, die Erde, die Pflanzen<lb/>
 wirklich und bewundernswert waren. Aber nach Verlauf einiger Wochen<lb/>
 ward sie matt, ihre schönen glühenden Augen erloschen und die eine<lb/>
 oder andre ihrer Schwestern musste sie schleunigst nach dem ein-<lb break="no"/>
-samen Pfarrhause zurückführen.</p><p>Im Jahre <date>1843</date> — sie war damals 25 Jahre alt — kehrte sie<lb/>
-dorthin wieder zurück, um es nur noch im Tode zu verlassen. Kein</p></div>
+samen Pfarrhause zurückführen.</p>
+            <p>Im Jahre <date>1843</date> — sie war damals 25 Jahre alt — kehrte sie<lb/>
+dorthin wieder zurück, um es nur noch im Tode zu verlassen. Kein</p>
+         </div>
       </body>
    </text>
 </TEI>

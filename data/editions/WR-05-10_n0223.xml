@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-10_n0223.xml"
-     prev="WR-05-10_n0222.xml"
-     next="WR-05-10_n0224.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-10_n0223.xml" prev="WR-05-10_n0222.xml" next="WR-05-10_n0224.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 9</title>
+                  <idno>WR-05-09_n0189.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 11</title>
+                  <idno>WR-05-11_n0225.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BRYK: DIE MUSIK ALS TÖNENDE WELT-IDEE.</fw></fw><table><row><cell>
-<p>Der Versuch, die <hi rend="text-spaced">vier möglichen<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BRYK: DIE MUSIK ALS TÖNENDE WELT-IDEE.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Der Versuch, die <hi rend="text-spaced">vier möglichen<lb/>
 Combinationen</hi> von Melodie-Elementen<lb/>
 zu bezeichnen und näher zu untersuchen,<lb/>
 wird dem Autor als bleibendes Verdienst<lb/>
@@ -71,7 +86,7 @@ und klare Menschenkenntnis verfügt, die ihn<lb/>
 befähigen, die Richtigkeit seiner Auffassung<lb/>
 Manchem plausibel zu machen. Schließlich<lb/>
 führt das Aufstellen eines <hi rend="text-spaced">typischen</hi>, also<lb/>
-<hi rend="text-spaced">canonischen</hi> »tragischen Motivs« noth-<lb break="no"/>
+                        <hi rend="text-spaced">canonischen</hi> »tragischen Motivs« noth-<lb break="no"/>
 gedrungen zu jener formalistischen Behand-<lb break="no"/>
 lung der Musikkritik (wenn auch aus<lb/>
 anderen Gründen), die der Autor mit Recht<lb/>
@@ -81,14 +96,16 @@ Werke selbst, wo es (pag. 283) heißt,<lb/>
 dass in den <hi rend="text-spaced">Schubert</hi>’schen Liedern<lb/>
 »kein einziges tragisches Motiv vor-<lb break="no"/>
 kommt«!!!</p>
-</cell><cell>
-<p>Die als Belegstellen dienenden Motive<lb/>
+                  </cell>
+                  <cell>
+                     <p>Die als Belegstellen dienenden Motive<lb/>
 der übrigen Componisten sind wohl nicht<lb/>
 sonderlich glücklich gewählt, was sich bei<lb/>
 der großen, zu bewältigenden Arbeit und<lb/>
 der Neuartigkeit der Behandlung leicht<lb/>
 erklären lässt: So ist <hi rend="text-spaced">Mozart</hi> nur an<lb/>
-einer Stelle, <hi rend="text-spaced">Schubert</hi> und <hi rend="text-spaced">Schumann</hi><lb/>
+einer Stelle, <hi rend="text-spaced">Schubert</hi> und <hi rend="text-spaced">Schumann</hi>
+                        <lb/>
 höchst dürftig, <hi rend="text-spaced">Mendelssohn</hi> wenig<lb/>
 charakteristisch, der edle <hi rend="text-spaced">Jensen</hi>, schließ-<lb break="no"/>
 lich <hi rend="text-spaced">Brahms</hi> (sowie <hi rend="text-spaced">Bruckner</hi>) gar<lb/>
@@ -97,9 +114,9 @@ bringt ein nächster Band die Ausdehnung<lb/>
 der Melodiegesetze auf die — hier zu-<lb break="no"/>
 nächst in Betracht zu ziehenden — Haupt-<lb break="no"/>
 repräsentanten des Liedstiles.</p>
-<p>Es ist zweifellos, dass ein gewiss ehr-<lb break="no"/>
+                     <p>Es ist zweifellos, dass ein gewiss ehr-<lb break="no"/>
 liches und gründliches Forschen Herrn<lb/>
-<hi rend="italics">Mey</hi> dahin bringen wird, seinen Urgesetzen<lb/>
+                        <hi rend="italics">Mey</hi> dahin bringen wird, seinen Urgesetzen<lb/>
 zwingendere Beweiskraft zu verleihen —<lb/>
 ein bei unserer heutigen Causerie- und<lb/>
 Jargon-Ästhetik herzlichst zu wünschendes,<lb/>
@@ -112,7 +129,15 @@ physische Urgesetze — als solche bezeichnet<lb/>
 ja Herr <hi rend="italics">Mey</hi> seine Entdeckungen — eben-<lb break="no"/>
 sowohl einer <hi rend="text-spaced">streng exacten</hi> Deduc-<lb break="no"/>
 tion bedürfen, wie Naturgesetze.</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/><milestone unit="imprint-start"/><p>Verantwortl. Redacteur: R. Dworschak — K. k. Hoftheater-Druckerei, Wien, I., Wollzeile 17. (Verantwortl. A. Rimrich.)</p><milestone unit="untyped-end"/></div>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="imprint-start"/>
+            <p>Verantwortl. Redacteur: R. Dworschak — K. k. Hoftheater-Druckerei, Wien, I., Wollzeile 17. (Verantwortl. A. Rimrich.)</p>
+            <milestone unit="untyped-end"/>
+         </div>
       </body>
    </text>
 </TEI>

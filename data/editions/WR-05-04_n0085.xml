@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-04_n0085.xml"
-     prev="WR-05-04_n0084.xml"
-     next="WR-05-04_n0086.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-04_n0085.xml" prev="WR-05-04_n0084.xml" next="WR-05-04_n0086.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,15 +41,35 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 3</title>
+                  <idno>WR-05-03_n0049.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 5</title>
+                  <idno>WR-05-05_n0097.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title><hi rend="text-spaced">EUGEN CARRIÈRE</hi>.<lb/>
-Von <rs type="person" key="">ROGER MARX</rs> (Paris).</title></ab><table><row><cell>
-<p>Seit länger als zwei Jahrzehnten<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">EUGEN CARRIÈRE</hi>.<lb/>
+Von <rs type="person" key="">ROGER MARX</rs> (Paris).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Seit länger als zwei Jahrzehnten<lb/>
 haben die Bilder Carrières den Stumpf-<lb break="no"/>
 sinn der »Salons« überstrahlt; man<lb/>
 konnte auch, bei Goupil und bei Bing,<lb/>
@@ -96,8 +113,9 @@ ihm zum Sich-selbst-verstehen und er<lb/>
 hat sich trotz der École des beaux<lb/>
 arts mehr mit ihnen beschäftigt, als<lb/>
 mit Cabanel. Die Betrachtung La</p>
-</cell><cell>
-<p rend="no-intend">Tour’scher Masken in Saint-Quentin<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Tour’scher Masken in Saint-Quentin<lb/>
 gab ihm Verständnis sculpturaler Con-<lb break="no"/>
 structionen und schärfte seine Fähig-<lb break="no"/>
 keit zu psychologischer Divination, dem<lb/>
@@ -108,7 +126,7 @@ kannt; es verbindet sie die Höhe des<lb/>
 Stils und die Erkenntnis des Gleich-<lb break="no"/>
 gewichtes zwischen moralischen und<lb/>
 Lichtwerten.</p>
-<p>Man bemerkte bei Carrière nie viel<lb/>
+                     <p>Man bemerkte bei Carrière nie viel<lb/>
 von den üblichen Zweifeln der Anfänger;<lb/>
 seine Aspirationen entfesselten sich ohne<lb/>
 Hemmung und formten sich ohne<lb/>
@@ -127,7 +145,7 @@ Goncourt, Chavannes u. a., bleiben mit<lb/>
 Rodins Büsten die tiefsten und erstaun-<lb break="no"/>
 lichsten Darstellungen denkender Wesen,<lb/>
 welche das Jahrhundert gekannt hat.</p>
-<p>Carrière ist zum Symbolischen<lb/>
+                     <p>Carrière ist zum Symbolischen<lb/>
 durch die Intuition der Liebe gelangt,<lb/>
 durch die Macht seiner Conception zu<lb/>
 einer Technik, welch letztere das Ergeb-<lb break="no"/>
@@ -141,7 +159,10 @@ cholie« hielten; es ist aber nur logisch<lb/>
 und nöthig, als Mittel, das von den<lb/>
 Bestimmtheiten des Einzelnen zur<lb/>
 grenzenlosen Wesenheit der Dinge,</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

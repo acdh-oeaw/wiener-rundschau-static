@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-05_n0172.xml"
-     prev="WR-02-01-05_n0171.xml"
-     next="WR-02-01-05_n0173.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-05_n0172.xml" prev="WR-02-01-05_n0171.xml" next="WR-02-01-05_n0173.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,37 +42,92 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 4</title>
+                  <idno>WR-02-01-04_n0121.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 6</title>
+                  <idno>WR-02-01-06_n0201.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">172</fw><fw type="ctext">MULTATULI.</fw></fw><p rend="no-intend">dass ich ihn nicht aufgeschlitzt hatte. Denn — das bekannten sie mit<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">172</fw>
+               <fw type="ctext">MULTATULI.</fw>
+            </fw>
+            <p rend="no-intend">dass ich ihn nicht aufgeschlitzt hatte. Denn — das bekannten sie mit<lb/>
 japanischer Offenherzigkeit — wo nichts ist, verliert selbst die Lüge<lb/>
-ihr Recht auf Mord an der Wahrheit.</p><p>— Und wie viel Einnahme bringt Euch das? fragte der Kami<lb/>
-mit freundlicher Theilnahme.</p><p>— Es bringt mir nichts ein, o liebenswürdiger Kami!</p><p>Wieder schrieb der Secretär in sein Büchelchen: »<hi rend="text-spaced">Die Wahr-<lb break="no"/>
+ihr Recht auf Mord an der Wahrheit.</p>
+            <p>— Und wie viel Einnahme bringt Euch das? fragte der Kami<lb/>
+mit freundlicher Theilnahme.</p>
+            <p>— Es bringt mir nichts ein, o liebenswürdiger Kami!</p>
+            <p>Wieder schrieb der Secretär in sein Büchelchen: »<hi rend="text-spaced">Die Wahr-<lb break="no"/>
 heit ist in Holland so wohlfeil</hi>, <hi rend="text-spaced">dass sie nicht bezahlt<lb/>
-wird</hi>, <hi rend="text-spaced">denn die sie liefern, haben keinen Bauch</hi>.«</p><p>— Habt Ihr Lust, hier mit uns zu frühstücken?</p><p>— Mit Vergnügen.</p><p>Und ich nahm zwischen Kami und Kami Platz. Aber die anderen<lb/>
+wird</hi>, <hi rend="text-spaced">denn die sie liefern, haben keinen Bauch</hi>.«</p>
+            <p>— Habt Ihr Lust, hier mit uns zu frühstücken?</p>
+            <p>— Mit Vergnügen.</p>
+            <p>Und ich nahm zwischen Kami und Kami Platz. Aber die anderen<lb/>
 Kamis sassen nebeneinander, wie es in Japan gebräuchlich ist. Auch<lb/>
 am unteren Ende der Tafel sass ein Kami. Darauf folgte ein Gespräch,<lb/>
-das ich so gut wie möglich wiedergebe.</p><p>— Eins sage mir doch, Genie von verkehrter Geburt, wie viel<lb/>
-Götter gibt es?</p><p>— Genau kann ich es nicht sagen, Kami. Lass’ seh’n <milestone unit="3dots"/> Nor-<lb break="no"/>
+das ich so gut wie möglich wiedergebe.</p>
+            <p>— Eins sage mir doch, Genie von verkehrter Geburt, wie viel<lb/>
+Götter gibt es?</p>
+            <p>— Genau kann ich es nicht sagen, Kami. Lass’ seh’n <milestone unit="3dots"/> Nor-<lb break="no"/>
 wegen, Schweden, Dänemark, Russland, Polen, Anhalt-Dessau, Hildburg-<lb break="no"/>
-hausen, Monaco <milestone unit="3dots"/></p><p>— Aber das ist Geographie. Ich fragte Euch nach den Göttern <milestone unit="3dots"/><lb/>
-das nennt ihr hier, meine ich, Theologie.</p><p>— Freilich, Kami. Aber die Theologie beruht auf der Geographie,<lb/>
+hausen, Monaco <milestone unit="3dots"/>
+            </p>
+            <p>— Aber das ist Geographie. Ich fragte Euch nach den Göttern <milestone unit="3dots"/>
+               <lb/>
+das nennt ihr hier, meine ich, Theologie.</p>
+            <p>— Freilich, Kami. Aber die Theologie beruht auf der Geographie,<lb/>
 und zwar auf der politischen. Jeder Staat hat seinen eigenen Gott,<lb/>
 oder auch zwei <milestone unit="3dots"/> einen antiken und einen modernen. Wenn das<lb/>
 Fürstenthum Hechingen mit Russland in Krieg geräth, kommt ein<lb/>
 Conflict zwischen den Göttern dieser Länder. Der Gott von den Nieder-<lb break="no"/>
-landen ist der beste <milestone unit="3dots"/></p><p>— Woraus beweist Ihr dies?</p><p>— Kami, es steht in allen niederländischen Schulbüchern <milestone unit="3dots"/> Ist<lb/>
-das japanischer Thee, o Kami?</p><p>— Ja, wir haben ihn von <hi rend="text-spaced">Otto Roelofs</hi>, der auch in Jeddo<lb/>
-ein Depôt hat. Könnt Ihr’s schmecken, o verkehrt Geborener?</p><p>— Ja, er schmeckt wie ein Spaziergang über die Weide <milestone unit="3dots"/> drei<lb/>
-Tage nach dem Mähen.</p><p>— Die Kamis klatschten in die Hände voll Entzücken, beinahe<lb/>
+landen ist der beste <milestone unit="3dots"/>
+            </p>
+            <p>— Woraus beweist Ihr dies?</p>
+            <p>— Kami, es steht in allen niederländischen Schulbüchern <milestone unit="3dots"/> Ist<lb/>
+das japanischer Thee, o Kami?</p>
+            <p>— Ja, wir haben ihn von <hi rend="text-spaced">Otto Roelofs</hi>, der auch in Jeddo<lb/>
+ein Depôt hat. Könnt Ihr’s schmecken, o verkehrt Geborener?</p>
+            <p>— Ja, er schmeckt wie ein Spaziergang über die Weide <milestone unit="3dots"/> drei<lb/>
+Tage nach dem Mähen.</p>
+            <p>— Die Kamis klatschten in die Hände voll Entzücken, beinahe<lb/>
 wie ein Holländer, der seinen nationalen Ruhm auf ein- und wieder<lb/>
-ausgeführten Schiedammer Käse aus Köln basirt.</p><p>— Thee ist die Freude des Herzens, o Kami.</p><p>— Was nennt Ihr ein Herz, zu schlechter Stunde Geborener?</p><p>— Es ist ein Buch ohne Blätter, wohlwollender Fremdling.</p><p>— Verleiht man es in Leihbibliotheken?</p><p>— Nein, Kami, zu leihen ist es nicht, aber wohl wird es dann<lb/>
-und wann verkauft, zumal wenn es schlecht geschrieben ist.</p><p>— Und wer es verkauft?</p><p>— Der behilft sich so lange mit »Principien«, mit Dogmen, mit<lb/>
-Gewohnheiten, mit dem Umsehen nach »<hi rend="text-spaced">Man</hi>’s« Urtheil.</p></div>
+ausgeführten Schiedammer Käse aus Köln basirt.</p>
+            <p>— Thee ist die Freude des Herzens, o Kami.</p>
+            <p>— Was nennt Ihr ein Herz, zu schlechter Stunde Geborener?</p>
+            <p>— Es ist ein Buch ohne Blätter, wohlwollender Fremdling.</p>
+            <p>— Verleiht man es in Leihbibliotheken?</p>
+            <p>— Nein, Kami, zu leihen ist es nicht, aber wohl wird es dann<lb/>
+und wann verkauft, zumal wenn es schlecht geschrieben ist.</p>
+            <p>— Und wer es verkauft?</p>
+            <p>— Der behilft sich so lange mit »Principien«, mit Dogmen, mit<lb/>
+Gewohnheiten, mit dem Umsehen nach »<hi rend="text-spaced">Man</hi>’s« Urtheil.</p>
+         </div>
       </body>
    </text>
 </TEI>

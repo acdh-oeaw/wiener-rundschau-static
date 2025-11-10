@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-15_n0310.xml"
-     prev="WR-05-15_n0309.xml"
-     next="WR-05-15_n0311.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-15_n0310.xml" prev="WR-05-15_n0309.xml" next="WR-05-15_n0311.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,15 +41,35 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 14</title>
+                  <idno>WR-05-14_n0279.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 16</title>
+                  <idno>WR-05-16_n0313.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>RUNDSCHAU.</title></ab><table><row><cell>
-<milestone unit="untyped-start"/>
-<p><hi rend="text-spaced">Den Unterschied im Wesen des<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>RUNDSCHAU.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="untyped-start"/>
+                     <p>
+                        <hi rend="text-spaced">Den Unterschied im Wesen des<lb/>
 physiologischen und geometrischen<lb/>
 Raumes</hi> untersucht der Philosoph E. Mach<lb/>
 im letzterschienenen »The Monist«. Der<lb/>
@@ -67,7 +84,7 @@ gemeinsam: die Mannigfaltigkeit beider Räume<lb/>
 ist dreidimensional; continuierliche Bewegung<lb/>
 eines Punktes ist in beiden Fällen ebenso wie<lb/>
 die genaue Ortsdetermination möglich.</p>
-<p>Die Localisation von Reizen gehört dem<lb/>
+                     <p>Die Localisation von Reizen gehört dem<lb/>
 physiologischen Raum an — die wechselseitige<lb/>
 Anpassung verketteter Organe tritt in der<lb/>
 Raumperception zutage. Die Gesammtheit der<lb/>
@@ -84,7 +101,7 @@ logisch wertvoller. Auch dieser hat seine eigen-<lb break="no"/>
 thümlichen Abweichungen und Inhomoge-<lb break="no"/>
 nëitäten nach den drei Abmessungen wie der<lb/>
 Gesichtsraum.</p>
-<p>Änderungen in der Stetigkeit des Verlaufes<lb/>
+                     <p>Änderungen in der Stetigkeit des Verlaufes<lb/>
 der Reizeindrücke werden unmittelbar per-<lb break="no"/>
 cipiert (mithin auch die Abgeleiteten der Reiz-<lb break="no"/>
 function). Die Raumempfindung ist von der<lb/>
@@ -96,16 +113,19 @@ trische Raumbetrachtung abstrahiert von dem<lb/>
 Einflusse der relativen Bewegung und unter-<lb break="no"/>
 sucht bloß die Lagenbeziehung der Objecte zu<lb/>
 einander.</p>
-<p>Die empirische Raumanschauung bildet<lb/>
+                     <p>Die empirische Raumanschauung bildet<lb/>
 ein entwicklungsgeschichtliches Problem — sie<lb/>
 ist das Resultat der specifischen Raumeindrücke<lb/>
 concurrierender Sinnesgebiete. Das Verdienst<lb/>
-<hi rend="text-spaced">Kants</hi> ist die Problemstellung. <rs type="person" key="">β</rs></p>
-<milestone unit="untyped-end"/>
-<milestone unit="asterisk"/>
-<milestone unit="untyped-start"/>
-<p><hi rend="text-spaced">Eine Consequenz aus der Lehre<lb/>
-vom psychophysischen Parallelismus</hi><lb/>
+                        <hi rend="text-spaced">Kants</hi> ist die Problemstellung. <rs type="person" key="">β</rs>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="asterisk"/>
+                     <milestone unit="untyped-start"/>
+                     <p>
+                        <hi rend="text-spaced">Eine Consequenz aus der Lehre<lb/>
+vom psychophysischen Parallelismus</hi>
+                        <lb/>
 gibt Dr. J. Pikler im letzten Heft der <hi rend="text-spaced">Zeit-<lb break="no"/>
 schrift für Psychologie und Physio-<lb break="no"/>
 logie der Sinnesorgane</hi>. Von der Materie<lb/>
@@ -116,8 +136,9 @@ wärtigen potentiell fest existiert, so besteht<lb/>
 auch im Bewusstsein die Summe aller vorher-<lb break="no"/>
 gegangenen Bewusstseinsveränderungen <hi rend="text-spaced">poten-<lb break="no"/>
 tiell</hi> fort. Die materiellen Theilchen bewegen</p>
-</cell><cell>
-<p rend="no-intend">sich, insoferne sie Object sind, sie <hi rend="text-spaced">haben ein<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">sich, insoferne sie Object sind, sie <hi rend="text-spaced">haben ein<lb/>
 Gedächtnis</hi>, insoferne sie Subject sind. Hier-<lb break="no"/>
 aus würde sich ergeben, dass die Träger der<lb/>
 einzelnen specifischen Sinnesenergien das Ge-<lb break="no"/>
@@ -142,11 +163,15 @@ verlauf desselben Individuums entsprechen<lb/>
 nicht einander folgende Veränderungen ver-<lb break="no"/>
 schiedener Stellen der nervösen Centralmasse,<lb/>
 sondern <hi rend="text-spaced">Veränderungen von Veränder-<lb break="no"/>
-ungen in denselben Stellen</hi>.« <rs type="person" key=""><hi rend="italics">w.</hi></rs></p>
-<milestone unit="untyped-end"/>
-<milestone unit="asterisk"/>
-<milestone unit="untyped-start"/>
-<p><hi rend="text-spaced">Kants Bedeutung für die Musik-<lb break="no"/>
+ungen in denselben Stellen</hi>.« <rs type="person" key="">
+                           <hi rend="italics">w.</hi>
+                        </rs>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="asterisk"/>
+                     <milestone unit="untyped-start"/>
+                     <p>
+                        <hi rend="text-spaced">Kants Bedeutung für die Musik-<lb break="no"/>
 Ästhetik</hi> behandelt mit viel Sachkenntnis<lb/>
 Franz Marschner in den letzten »<hi rend="text-spaced">Kant-Stu-<lb break="no"/>
 dien</hi>«. In der »Kritik der Urtheilskraft« finden<lb/>
@@ -159,7 +184,7 @@ Spiel eilt in der Musik von der körperlichen<lb/>
 Empfindung zu den ästhetischen Ideen, von<lb/>
 hier (mit vereinter Kraft) auf den Körper<lb/>
 (»Kritik der Urtheilskraft«, § 54).</p>
-<p>Diese formal-ästhetische Gedankenreihe<lb/>
+                     <p>Diese formal-ästhetische Gedankenreihe<lb/>
 wird von <hi rend="text-spaced">Hanslick</hi> aufgenommen und weiter-<lb break="no"/>
 geführt (»Vom Musikalisch-Schönen«). Das<lb/>
 Schöne hat an sich selbst überhaupt keinen<lb/>
@@ -180,7 +205,10 @@ jedoch richtig sei, nur das Dynamische als<lb/>
 unmittelbaren Inhalt der Musik zu bezeichnen.<lb/>
 Die Musik überträgt auf ihre Figuren den<lb/>
 Gefühlswert, der für uns den Inhalt hat, an</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

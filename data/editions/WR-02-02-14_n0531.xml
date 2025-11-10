@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-14_n0531.xml"
-     prev="WR-02-02-14_n0530.xml"
-     next="WR-02-02-14_n0532.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-14_n0531.xml" prev="WR-02-02-14_n0530.xml" next="WR-02-02-14_n0532.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,13 +42,42 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 13</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 15</title>
+                  <idno>WR-02-02-15_n0561.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">ORCHARDSON UND DIE ENGLISCHE KUNST.</fw><fw type="pn">531</fw></fw><p rend="no-intend">faltet. Sie beugt sich zurück, der Wind spielt in ihren Haaren und<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">ORCHARDSON UND DIE ENGLISCHE KUNST.</fw>
+               <fw type="pn">531</fw>
+            </fw>
+            <p rend="no-intend">faltet. Sie beugt sich zurück, der Wind spielt in ihren Haaren und<lb/>
 sie singt. Was singt sie wohl? »My heart ’s in the highland whereever<lb/>
 I go <milestone unit="5dots"/>« Es ist an Bord eines Kriegsschiffes, im Vordergrunde<lb/>
 steht eine kleine untersetzte Gestalt, Napoleon. Er sieht hinaus aufs<lb/>
@@ -83,7 +109,8 @@ anderes. Ein eleganter junger Mann verlässt das Spielzimmer, er hat<lb/>
 verloren. Die rechte Hand ruht auf der Thürklinke, die Augen sind<lb/>
 halb geschlossen, der Kopf etwas nach vorne geneigt. Seine ganze<lb/>
 Erscheinung ist durchaus distinguiert und ruhig, und doch ist jeder,<lb/>
-der das Bild sieht, von dem tiefen Ernst der Situation ergriffen.</p><p>Das ist alles feinste Seelenmalerei, Seelenmalerei, die nur deshalb<lb/>
+der das Bild sieht, von dem tiefen Ernst der Situation ergriffen.</p>
+            <p>Das ist alles feinste Seelenmalerei, Seelenmalerei, die nur deshalb<lb/>
 nicht blass und schwächlich wird, weil die Empfindungen, die sie malt,<lb/>
 in den feinsten Nuancen vibrieren. Die Leute sind darnach, dass sie<lb/>
 weinen können ohne zu heulen, selig sein ohne zu jubeln und darum<lb/>
@@ -96,7 +123,8 @@ In England gibt es keine Schule der Symbolisten, der Naturalisten<lb/>
 oder Farbenzauberer, in England gibt es nur eine englische Schule,<lb/>
 die der Grundton alles anderen ist. Für uns bilden Böcklin, Moreau,<lb/>
 Burne-Jones eine Kategorie, Simm etwa und Orchardson eine andere,<lb/>
-weil diese höheres Genre und jene Mythen und Allegorien malen. In</p></div>
+weil diese höheres Genre und jene Mythen und Allegorien malen. In</p>
+         </div>
       </body>
    </text>
 </TEI>

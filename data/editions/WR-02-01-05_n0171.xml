@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-05_n0171.xml"
-     prev="WR-02-01-05_n0170.xml"
-     next="WR-02-01-05_n0172.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-05_n0171.xml" prev="WR-02-01-05_n0170.xml" next="WR-02-01-05_n0172.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,34 +42,86 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 4</title>
+                  <idno>WR-02-01-04_n0121.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 6</title>
+                  <idno>WR-02-01-06_n0201.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>GESPRÄCH MIT JAPANERN.<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>GESPRÄCH MIT JAPANERN.<lb/>
 Von <rs type="person" key="">Multatuli</rs>.<lb/>
-Aus dem Holländischen von <rs type="person" key="">Wilhelm Spohr</rs>.1)</title></ab><p><milestone unit="3dots"/>Ich bin bei den Japanern gewesen und habe mit ihnen ge-<lb break="no"/>
-frühstückt. Zunächst fragten sie mich, wer und was ich sei?</p><p>Ich präsentirte eine Visitenkarte: <hi rend="text-spaced">MULTATULI</hi>, <hi rend="text-spaced">Genie</hi>.</p><p>Der Secretär schrieb etwas auf. Ich schielte in sein Büchelchen<lb/>
+Aus dem Holländischen von <rs type="person" key="">Wilhelm Spohr</rs>.1)</title>
+            </ab>
+            <p>
+               <milestone unit="3dots"/>Ich bin bei den Japanern gewesen und habe mit ihnen ge-<lb break="no"/>
+frühstückt. Zunächst fragten sie mich, wer und was ich sei?</p>
+            <p>Ich präsentirte eine Visitenkarte: <hi rend="text-spaced">MULTATULI</hi>, <hi rend="text-spaced">Genie</hi>.</p>
+            <p>Der Secretär schrieb etwas auf. Ich schielte in sein Büchelchen<lb/>
 und bemerkte, dass er mir einen Platz anwies in der Rubrik: <hi rend="text-spaced">Indu-<lb break="no"/>
 strielle Merkwürdigkeiten</hi>, just unter dem Stück Geschütz, das<lb/>
-sie in Delft schmelzen und sich mit Bronce vermischen sahen.</p><p>— Genie? <milestone unit="3dots"/> Was ist das für ein Beruf?</p><p>Ich räusperte mich, hustete, schnob und schnob und sagte ganz<lb/>
-einfältig:</p><p>— Das weiss ich nicht, o Kami!</p><p>— Könnt Ihr Uhrwerke machen?</p><p>— Nein, Kami.</p><p>— Oder Regenschirme?</p><p>— Nein, Kami.</p><p>— Oder Uhren mit Unzüchtigkeiten?2)</p><p>— Ach nein, Kami!</p><p>— Versteht Ihr Euch auf den Kaiserschnitt?</p><p>— Auch nicht, Kami!</p><p>— Nun ging mir aber doch ein Licht auf über diese Frage, und<lb/>
+sie in Delft schmelzen und sich mit Bronce vermischen sahen.</p>
+            <p>— Genie? <milestone unit="3dots"/> Was ist das für ein Beruf?</p>
+            <p>Ich räusperte mich, hustete, schnob und schnob und sagte ganz<lb/>
+einfältig:</p>
+            <p>— Das weiss ich nicht, o Kami!</p>
+            <p>— Könnt Ihr Uhrwerke machen?</p>
+            <p>— Nein, Kami.</p>
+            <p>— Oder Regenschirme?</p>
+            <p>— Nein, Kami.</p>
+            <p>— Oder Uhren mit Unzüchtigkeiten?2)</p>
+            <p>— Ach nein, Kami!</p>
+            <p>— Versteht Ihr Euch auf den Kaiserschnitt?</p>
+            <p>— Auch nicht, Kami!</p>
+            <p>— Nun ging mir aber doch ein Licht auf über diese Frage, und<lb/>
 bevor noch das Dienstmädchen eintrat, das er hatte rufen lassen,<lb/>
 um die Fertigkeit zu prüfen, die er bei mir vorhanden wähnte, rief ich<lb/>
 mit all der Dünkelhaftigkeit Jemandes aus, der etwas entdeckt zu<lb/>
-haben glaubt:</p><p>— So was Aehnliches, Kami, ich bin verkehrt geboren!</p><p>Wieder schrieb der Secretär. Rubrik: »<hi rend="text-spaced">Merkwürdigkeiten<lb/>
-der Natur</hi>«. Ich kam unter Malcolm aus dem »Macbeth« zu stehen.</p><p>— Verkehrt geboren, gut. Aber was könnt Ihr machen?</p><p>— Ich kann dann und wann die Wahrheit sagen, o Kami.</p><p>Die ganze Gesandtschaft erschrak und sah auf meinen Bauch.<lb/>
-Der war abwesend. Darin fanden sie denn auch den einzigen Grund,</p><milestone unit="hr"/><note type="footnote">
-<p>1) Bruchstückweise, mit Ausschluss specifischer Hollandismen mitgetheilt.<lb/>
+haben glaubt:</p>
+            <p>— So was Aehnliches, Kami, ich bin verkehrt geboren!</p>
+            <p>Wieder schrieb der Secretär. Rubrik: »<hi rend="text-spaced">Merkwürdigkeiten<lb/>
+der Natur</hi>«. Ich kam unter Malcolm aus dem »Macbeth« zu stehen.</p>
+            <p>— Verkehrt geboren, gut. Aber was könnt Ihr machen?</p>
+            <p>— Ich kann dann und wann die Wahrheit sagen, o Kami.</p>
+            <p>Die ganze Gesandtschaft erschrak und sah auf meinen Bauch.<lb/>
+Der war abwesend. Darin fanden sie denn auch den einzigen Grund,</p>
+            <milestone unit="hr"/>
+            <note type="footnote">
+               <p>1) Bruchstückweise, mit Ausschluss specifischer Hollandismen mitgetheilt.<lb/>
 Als Gespräch zwischen Multatuli und Vertretern der japanischen Gesandtschaft in<lb/>
 Haag aufzufassen.</p>
-<p>2) »Uhren mit Unzüchtigkeiten«. Die gab’s auf Japans alljährliche Be-<lb break="no"/>
+               <p>2) »Uhren mit Unzüchtigkeiten«. Die gab’s auf Japans alljährliche Be-<lb break="no"/>
 stellung. Das waren Uhren mit doppelter Kapsel, wovon die unterste ein obscönes<lb/>
 Miniaturbildchen bedeckte. Die frommen Holländer lieferten sie noch zu meiner<lb/>
 Zeit ganz bereitwillig. So sind sie.</p>
-</note></div>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

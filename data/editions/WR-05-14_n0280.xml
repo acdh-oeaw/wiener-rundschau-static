@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-14_n0280.xml"
-     prev="WR-05-14_n0279.xml"
-     next="WR-05-14_n0281.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-14_n0280.xml" prev="WR-05-14_n0279.xml" next="WR-05-14_n0281.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 13</title>
+                  <idno>WR-05-13_n0265.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 15</title>
+                  <idno>WR-05-15_n0295.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BRYK: DIE SONNE.</fw></fw><table><row><cell>
-<p rend="no-intend">Curie, das Palatinum und Prätorium<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BRYK: DIE SONNE.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Curie, das Palatinum und Prätorium<lb/>
 für alle Vasallen und Palatine dieser<lb/>
 Welten, ob sie nun Gott bereits zum<lb/>
 Wirken geschaffen oder ihnen einst-<lb break="no"/>
@@ -62,7 +77,7 @@ Liebe für spätere Geschlechter aus-<lb break="no"/>
 geschmückt worden ist, lange Zeit-<lb break="no"/>
 räume leer, ohne Schauspieler und<lb/>
 ohne Hörer.</p>
-<p>Hier wird mir mit einemmale klar,<lb/>
+                     <p>Hier wird mir mit einemmale klar,<lb/>
 weshalb die alten Pythagoräer (bei<lb/>
 Aristoteles) das Centrum der Welt (das<lb/>
 sie als Feuer anführen, unter dem sie<lb/>
@@ -81,8 +96,10 @@ das Tabernakel auf der Sonne errichtet<lb/>
 hat. Denn dieser Proclos lebte zu<lb/>
 einer Zeit, wo es bei Todesstrafe ver-<lb break="no"/>
 boten war, unsern Erlöser als Gott zu<lb/>
-bekennen <milestone unit="5dots"/></p>
-<p><milestone unit="4dots"/> Wenn es mir nun erlaubt sein<lb/>
+bekennen <milestone unit="5dots"/>
+                     </p>
+                     <p>
+                        <milestone unit="4dots"/> Wenn es mir nun erlaubt sein<lb/>
 mag, dem Faden der Anologie weiter<lb/>
 zu folgen, um tiefer in die Mysterien<lb/>
 der Natur vorzudringen, so möchte ich<lb/>
@@ -103,8 +120,9 @@ zum : nämlich das Verhältnis<lb/>
 des verschiedengestaltig Vielfachen zur<lb/>
 obersten, einheitlichen Synthesis des<lb/>
 Verstandes. Denn gleichwie die Sonne</p>
-</cell><cell>
-<p rend="no-intend">durch die von ihr ausströmende Sub-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">durch die von ihr ausströmende Sub-<lb break="no"/>
 stanz und ihre Eigenbewegung alle<lb/>
 Planeten in Bewegung versetzt und<lb/>
 erhält, so bringt auch der sich selbst<lb/>
@@ -114,7 +132,7 @@ Einfachheit seiner Function auf das<lb/>
 zu Erkennende übertragend; und so<lb/>
 macht er alles verständlich, das er<lb/>
 beleuchtet.</p>
-<p>Daher kommt es also, dass die Be-<lb break="no"/>
+                     <p>Daher kommt es also, dass die Be-<lb break="no"/>
 wegungen der Planeten um die Sonne,<lb/>
 so verschlungen sie auch in einander<lb/>
 sein mögen, durchaus von dem ruhen-<lb break="no"/>
@@ -144,7 +162,7 @@ die Erscheinungen der sublunarischen<lb/>
 Sphäre, ist aus den früher angeführten<lb/>
 Gedanken des Plato und Proclos wohl<lb/>
 deutlich hervorgegangen.</p>
-<p>So wird es nicht mehr wunderbar<lb/>
+                     <p>So wird es nicht mehr wunderbar<lb/>
 erscheinen, zu hören, dass in den tief-<lb break="no"/>
 sten Schlummer sinkt, wer aus dem<lb/>
 von Proclos gleich im ersten Verse<lb/>
@@ -156,9 +174,13 @@ will aber kühn weiter fabulieren nach<lb/>
 dem schönen Muster der Platonischen<lb/>
 Atlantis und Ciceros Scipionischem<lb/>
 Traum: An meinem Auge ziehen, nach</p>
-</cell></row></table><note type="footnote">
-<p>* Harmonischen.</p>
-</note></div>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Harmonischen.</p>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-13_n0266.xml"
-     prev="WR-05-13_n0265.xml"
-     next="WR-05-13_n0267.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-13_n0266.xml" prev="WR-05-13_n0265.xml" next="WR-05-13_n0267.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,21 +41,39 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 12</title>
+                  <idno>WR-05-12_n0249.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 14</title>
+                  <idno>WR-05-14_n0279.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">DORIAN: DIE KANZEL DER HEILIGEN GUDULA.</fw></fw><table><row><cell>
-<p rend="no-intend">mehr mit einem warmen Schimmer<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DORIAN: DIE KANZEL DER HEILIGEN GUDULA.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">mehr mit einem warmen Schimmer<lb/>
 vergoldet, sammetartig gedunkelt, ähn-<lb break="no"/>
 lich dem Colorit tropischen Fleisches,<lb/>
 des fahlen Fleisches junger Indierinnen,<lb/>
 die aus Thon, aus dem Fleisch von<lb/>
 Pfirsichen und aus Sonne gemacht<lb/>
 scheinen.</p>
-<p>Ganz am Gipfel des Baldachins<lb/>
+                     <p>Ganz am Gipfel des Baldachins<lb/>
 lehnt sich eine schmächtige, kindliche<lb/>
 Jungfrau, ihre gekräuselten Haare zum<lb/>
 griechischen Knoten gebunden, ganz<lb/>
@@ -88,7 +103,7 @@ durch sein brutales Relief. Sein krummer<lb/>
 Leib verendet unter der schrecklichen<lb/>
 Süßigkeit der beiden göttlichen Füße:<lb/>
 dem der Mutter und dem des Kindes.</p>
-<p>Rings um die siegreiche Tochter<lb/>
+                     <p>Rings um die siegreiche Tochter<lb/>
 Davids steigt eine Gruppe kleiner, ge-<lb break="no"/>
 flügelter, rundlicher Körperchen, ge-<lb break="no"/>
 tragen von ein wenig massiven Wolken<lb/>
@@ -102,21 +117,22 @@ hellt sind, bedächtige Seligkeit von<lb/>
 Kindern, die ein kostbares Gefäß tragen<lb/>
 sollen, das ihnen Leckerbissen ver-<lb break="no"/>
 spricht.</p>
-<p>So liebreizend sind diese kleinen<lb/>
+                     <p>So liebreizend sind diese kleinen<lb/>
 Geschöpfe, so wahrhaftig sind ihre<lb/>
 Bewegungen, dass sie getragen er-</p>
-</cell><cell>
-<p rend="no-intend">scheinen durch den Schwung eines<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">scheinen durch den Schwung eines<lb/>
 triumphierenden Auffluges, einer visio-<lb break="no"/>
 nären Himmelfahrt manch stolzer, zu-<lb break="no"/>
 künftiger Genesis.</p>
-<p>Vom Gipfel der Kanzel sich lösend,<lb/>
+                     <p>Vom Gipfel der Kanzel sich lösend,<lb/>
 stürzt ein schlanker Elohim vom hohen<lb/>
 Himmel, die langen, feinen Flügel ge-<lb break="no"/>
 sträubt durch den Wind seines Fluges,<lb/>
 den rechten Arm erhoben, das Flammen-<lb break="no"/>
 schwert schwingend.</p>
-<p>Er deckt mit seinem Schatten den<lb/>
+                     <p>Er deckt mit seinem Schatten den<lb/>
 gebeugten, kläglichen, auf den Knien<lb/>
 zitternden Leib und das schamvolle<lb/>
 Haupt Adams, dessen erschreckte<lb/>
@@ -124,14 +140,14 @@ Stellung genau die feige Antwort dieses<lb/>
 urväterlichen Bauern symbolisiert: »O<lb/>
 Herr <milestone unit="3dots"/> nicht ich <milestone unit="3dots"/> aber da, das<lb/>
 Weib, das du mir gabst <milestone unit="3dots"/>«</p>
-<p>Offenbaren diese Worte nicht gänz-<lb break="no"/>
+                     <p>Offenbaren diese Worte nicht gänz-<lb break="no"/>
 lich das innere Wesen Desjenigen,<lb/>
 dessen Erstgeborener, Kain, dieser bib-<lb break="no"/>
 lische Straßenjunge, später mit der Un-<lb break="no"/>
 geniertheit eines vorweltlichen Groß-<lb break="no"/>
 thuers schreien sollte: »Bin ich denn<lb/>
 der Hüter meines Bruders?«</p>
-<p>Und der Gesandte des himmlischen<lb/>
+                     <p>Und der Gesandte des himmlischen<lb/>
 Zornes wendet sein strahlendes Gesicht<lb/>
 unter den Haaren, die der Hauch der<lb/>
 Unendlichkeit füllt, weg von dem Ver-<lb break="no"/>
@@ -140,7 +156,7 @@ mit einer schützenden und nicht hart<lb/>
 anfahrenden Geberde, einer Geberde<lb/>
 zögernder Zärtlichkeit, über Eva und<lb/>
 senkt seinen Blick in den ihren.</p>
-<p>Ah, Eva! <milestone unit="5dots"/> Welche Feder<lb/>
+                     <p>Ah, Eva! <milestone unit="5dots"/> Welche Feder<lb/>
 wüsste den triumphierenden Glanz, die<lb/>
 unaussprechlichen Linien dieses Leibes<lb/>
 einer jungen Göttin zu beschreiben, das<lb/>
@@ -160,7 +176,10 @@ eroberten Seligkeit, dieses Gesicht, in<lb/>
 dem eine wahnsinnige Freude brennt,<lb/>
 zitternd, schauernd in der erprobten<lb/>
 Macht, in geahnten Möglichkeiten, er-</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

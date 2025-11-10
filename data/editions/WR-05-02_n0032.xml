@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-02_n0032.xml"
-     prev="WR-05-02_n0031.xml"
-     next="WR-05-02_n0033.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-02_n0032.xml" prev="WR-05-02_n0031.xml" next="WR-05-02_n0033.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,15 +41,34 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 1</title>
+                  <idno>WR-05-01_n0001.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 3</title>
+                  <idno>WR-05-03_n0049.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>DAS TAGEBUCH DER KOWALEWSKA.<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DAS TAGEBUCH DER KOWALEWSKA.<lb/>
 Von <rs type="person" key="">WACLAW NATKOWSKI</rs> (Warschau).<lb/>
-Autorisierte Übersetzung aus dem Polnischen von <rs type="person" key="">Stefanija Goldenring</rs></title></ab><milestone unit="untyped-start"/><p>»Einem Adler, der in den Wolken kreist, droht<lb/>
+Autorisierte Übersetzung aus dem Polnischen von <rs type="person" key="">Stefanija Goldenring</rs>
+               </title>
+            </ab>
+            <milestone unit="untyped-start"/>
+            <p>»Einem Adler, der in den Wolken kreist, droht<lb/>
 immerwährend die Gefahr des Falles; infolge der großen<lb/>
 Kraft der Flügel und des innerlichen Triebes ist er in<lb/>
 die Wolken emporgeschnellt, dort aber kann ihm der<lb/>
@@ -61,9 +77,14 @@ rath ausgehen, und die Atmosphäre kann für einen<lb/>
 solchen Flug zu dünn werden; indessen erlauben der<lb/>
 Stolz oder der allzu starke Aufschwung ihm nicht, zur<lb/>
 Erde zurückzukehren, sei es auch nur für einen Augen-<lb break="no"/>
-blick, um neue Kräfte zu schöpfen.«</p><p>(»Vorposten der psychischen Evolution und der<lb/>
-Troglodyten.«)*</p><milestone unit="untyped-end"/><table><row><cell>
-<p>Wir möchten hier versuchen, auf Grund<lb/>
+blick, um neue Kräfte zu schöpfen.«</p>
+            <p>(»Vorposten der psychischen Evolution und der<lb/>
+Troglodyten.«)*</p>
+            <milestone unit="untyped-end"/>
+            <table>
+               <row>
+                  <cell>
+                     <p>Wir möchten hier versuchen, auf Grund<lb/>
 der in diesem Buche gefundenen Thatsachen,<lb/>
 wie auch mancher anderweitig entnommenen,<lb/>
 eine Schilderung der allgemeinen <hi rend="text-spaced">psycholo-<lb break="no"/>
@@ -71,7 +92,7 @@ gischen Genesis der Sophia Kowa-<lb break="no"/>
 lewska und eine Erklärung der wich-<lb break="no"/>
 tigsten Erscheinungen ihres Lebens<lb/>
 und der Lebenskatastrophe zu geben</hi>.</p>
-<p>Es drängt uns umsomehr, eine solche<lb/>
+                     <p>Es drängt uns umsomehr, eine solche<lb/>
 Aufgabe zu unternehmen, als das Leben der<lb/>
 Kowalewska ein auffallend treues Bild ist für<lb/>
 jene allgemeinen Ansichten über ein nervöses<lb/>
@@ -82,7 +103,7 @@ wir in unseren beiden Artikeln (»Natur und<lb/>
 Kraft« und »Vorposten der psychischen Evo-<lb break="no"/>
 lution«) ausgedrückt haben, bevor wir die<lb/>
 Biographie der Kowalewska kannten.</p>
-<p>In dem Leben der Kowalewska finden wir<lb/>
+                     <p>In dem Leben der Kowalewska finden wir<lb/>
 also gleichsam den experimentalen Beweis der<lb/>
 oben genannten Ideen und umgekehrt: diese<lb/>
 Ideen können uns dazu dienen, Licht über<lb/>
@@ -105,8 +126,9 @@ durch allzu scharfe Saitenspannung oder durch<lb/>
 ein ihr oder Anderen zugefügtes Unrecht her-<lb break="no"/>
 vorgerufen. Fr. Jankowska sagt von Kowa-<lb break="no"/>
 lewska (»Revue des Revues«), dass sie unter</p>
-</cell><cell>
-<p rend="no-intend">der Angst litt, diejenigen, die sie liebte, unbe-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">der Angst litt, diejenigen, die sie liebte, unbe-<lb break="no"/>
 absichtigt, und sei es nur durch Schweigen, zu<lb/>
 kränken« und doch, wie A. Leffler sagt: »ver-<lb break="no"/>
 rieth sie trotz der weichen Empfindsamkeit,<lb/>
@@ -119,7 +141,7 @@ sie mit einem freundschaftlichen Blick für sich<lb/>
 einnahm, war imstande, alle Beziehungen mit<lb/>
 Füßen zu treten, wenn der Kampfesgeist in<lb/>
 ihr erwachte« u. s. w.</p>
-<p>Zur Heranbildung eines solchen Typus<lb/>
+                     <p>Zur Heranbildung eines solchen Typus<lb/>
 trägt außer der allgemeinen, angeborenen Ver-<lb break="no"/>
 anlagung der Druck irgendwelcher Fesseln<lb/>
 bei, am häufigsten materieller. Bei Sophia<lb/>
@@ -133,7 +155,7 @@ gungssüchtigen Frau) gegen die Beweise kind-<lb break="no"/>
 licher Zärtlichkeit; dadurch wurde das Kind,<lb/>
 dessen zarte Gefühle gehemmt und beleidigt<lb/>
 wurden, »verschlossen und unzugänglich«.</p>
-<p>Nachdem wir den allgemeinen Charakter<lb/>
+                     <p>Nachdem wir den allgemeinen Charakter<lb/>
 des Typus, den Sophia Kowalewska darstellt,<lb/>
 gezeichnet haben, wollen wir jetzt die haupt-<lb break="no"/>
 sächlichen, auffallenden Erscheinungen ihres<lb/>
@@ -142,16 +164,20 @@ ihrer Kräfte in geistige</hi>, besonders in<lb/>
 mathematische, und ferner das Resultat dieser<lb/>
 Transmission: <hi rend="text-spaced">die biologische Reaction<lb/>
 und die Lebenskatastrophe</hi>.</p>
-<p>Hierbei müssen wir von vornherein auf die<lb/>
+                     <p>Hierbei müssen wir von vornherein auf die<lb/>
 Gefahr der Transmission aufmerksam machen,<lb/>
 der solche Naturen, wie Sophia Kowalewska,<lb/>
 ausgesetzt sind, also trotzige, entzündbare,<lb/>
 aufbrausende Naturen. Wohin und gegen welches<lb/>
 Ziel sie ihre Kräfte auch wenden, niemals be-</p>
-</cell></row></table><note type="footnote">
-<p>* Unter diesem Titel sind die gesammelten Arbeiten von Waclaw Natkowski, Marya Komornicka i Cezary Jellenta,<lb/>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Unter diesem Titel sind die gesammelten Arbeiten von Waclaw Natkowski, Marya Komornicka i Cezary Jellenta,<lb/>
 erschienen. Anm. d. Übers.</p>
-</note></div>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

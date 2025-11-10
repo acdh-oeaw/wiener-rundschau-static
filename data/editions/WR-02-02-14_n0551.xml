@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-14_n0551.xml"
-     prev="WR-02-02-14_n0550.xml"
-     next="WR-02-02-14_n0552.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-14_n0551.xml" prev="WR-02-02-14_n0550.xml" next="WR-02-02-14_n0552.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,49 +42,89 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 13</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 15</title>
+                  <idno>WR-02-02-15_n0561.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">GESPRÄCH MIT JAPANERN.</fw><fw type="pn">551</fw></fw><p rend="no-intend">punkt ist annoch das Geld. Wenn Herr Jansen vor Fräulein Pieterse<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">GESPRÄCH MIT JAPANERN.</fw>
+               <fw type="pn">551</fw>
+            </fw>
+            <p rend="no-intend">punkt ist annoch das Geld. Wenn Herr Jansen vor Fräulein Pieterse<lb/>
 auf die Knie fiele und ihr in passender Weise klar machte, dass er<lb/>
 die Absicht habe, sie zur Würde der Mutterschaft seiner zukünftigen<lb/>
 Kinder zu erheben, so würde ihre Wohlanständigkeit für sie davon<lb/>
 abhängen: wird er im Stande sein, sie vor der Margot’schen Vaga-<lb break="no"/>
-bondage zu bewahren?«</p><p>— »Herr Jansen scheint ein gut gehendes Geschäft gehabt zu haben.<lb/>
+bondage zu bewahren?«</p>
+            <p>— »Herr Jansen scheint ein gut gehendes Geschäft gehabt zu haben.<lb/>
 Wenn Fräulein Pieterse, dieses Geschäftes nur in zweiter Linie achtend,<lb/>
 geantwortet hätte: »Na, wie denn!« oder: »Sie sind sehr<lb/>
 liebenswürdig!« oder gar: »Ich will ’mal sehen <milestone unit="3dots"/>«, dann<lb/>
 wäre Fräulein Pieterse sehr schamlos gewesen. Jetzt ist sie tugendhaft<lb/>
 und gar stolz auf ihre Tugend, denn, wie Sie sehen, erzählt sie es<lb/>
 jedermann, dass sie das ganze Jahr hindurch mit Herrn Jansen<lb/>
-zusammenlebt.«</p><p>— »Wer ist der Erfinder dieser Tugend <milestone unit="3dots"/> oder ist man sich<lb/>
-vielleicht darüber streitig, wie bezüglich der Buchdruckerkunst?«</p><p>— »Weder diese Tugend noch diese Kunst ist erfunden worden.<lb/>
+zusammenlebt.«</p>
+            <p>— »Wer ist der Erfinder dieser Tugend <milestone unit="3dots"/> oder ist man sich<lb/>
+vielleicht darüber streitig, wie bezüglich der Buchdruckerkunst?«</p>
+            <p>— »Weder diese Tugend noch diese Kunst ist erfunden worden.<lb/>
 Die Umstände haben die praktische Anwendung einer Sache, die schon<lb/>
 da war, zur Nothwendigkeit gemacht, o Kami. Die wachsende Wiss-<lb break="no"/>
 begierde verbunden mit dem rapideren Umsichgreifen der Ideen sind<lb/>
 der Kunst zu drucken, die man als längst bekannt doch nicht anwandte,<lb/>
 zu Hilfe gekommen die minder dringenden Bedürfnisse waren den<lb/>
-Kosten einer primitiven Belehrung unangemessen gewachsen.«</p><p>— »Und die geschlechtliche Ehrbarkeit, o Kami, der Ihr mich<lb/>
+Kosten einer primitiven Belehrung unangemessen gewachsen.«</p>
+            <p>— »Und die geschlechtliche Ehrbarkeit, o Kami, der Ihr mich<lb/>
 unrechtmässigerweise von meinem Thema abbrachtet, eine geschlecht-<lb break="no"/>
 liche Ehrbarkeit existiert nicht. Sie ist nur der Name für eine der<lb/>
 zahlreichen Anstrengungen, das wirtschaftliche Bedürfnis zur Höhe<lb/>
 eines Princips zu erheben und aus der Schwierigkeit des Lebensunterhalts<lb/>
-gewaltsam Tugenden herzuleiten.«</p><p>— »Im Anfang, Kami, waren alle Kinder illegitim und niemand<lb/>
+gewaltsam Tugenden herzuleiten.«</p>
+            <p>— »Im Anfang, Kami, waren alle Kinder illegitim und niemand<lb/>
 dachte daran, ein Mädchen zu verachten, weil es Mutter war. Das<lb/>
 wäre gleich erachtet worden, als hätte man einer Blütenknospe vor-<lb break="no"/>
-geworfen, dass sie die Kühnheit hatte, sieb zu entfalten.«</p><p>— »Das dauerte solange, als die Nahrung nicht mangelte.«</p><p>— »Man machte dann den jungen Frauen verständlich, dass sie<lb/>
-für den Unterhalt ihrer Kinder sorgen müssten.«</p><p>— »Das war ihnen hinfort ein Grund, sich a priori zu unterrichten,<lb/>
+geworfen, dass sie die Kühnheit hatte, sieb zu entfalten.«</p>
+            <p>— »Das dauerte solange, als die Nahrung nicht mangelte.«</p>
+            <p>— »Man machte dann den jungen Frauen verständlich, dass sie<lb/>
+für den Unterhalt ihrer Kinder sorgen müssten.«</p>
+            <p>— »Das war ihnen hinfort ein Grund, sich a priori zu unterrichten,<lb/>
 ob der Vaterschaftscandidat auch einen gutgehenden Laden sein Eigen<lb/>
-nennen könne.«</p><p>— »Viele sagten ja und manchmal war es wahr. Aber es gab auch<lb/>
+nennen könne.«</p>
+            <p>— »Viele sagten ja und manchmal war es wahr. Aber es gab auch<lb/>
 welche, die trotzdem sich nicht um ihre Kinder kümmerten. Sie stellten<lb/>
 sich, als wenn sie es nicht verstünden, wenn so eine junge Mutter sie<lb/>
-einlud, mit ihr die Sorge des Haushalts zu theilen.«</p><p>— »Um so ein Ausweichen zu verhindern, bestimmte man, dass<lb/>
+einlud, mit ihr die Sorge des Haushalts zu theilen.«</p>
+            <p>— »Um so ein Ausweichen zu verhindern, bestimmte man, dass<lb/>
 eine Eheschliessung stattfinden müsse: Wer Vater zu werden wünschte,<lb/>
 der musste das im vorhinein ausdrücklich erklären. Es war wohl etwas<lb/>
-Gutes dabei, o Kami. Aber was nicht gut war, das war, dass man</p></div>
+Gutes dabei, o Kami. Aber was nicht gut war, das war, dass man</p>
+         </div>
       </body>
    </text>
 </TEI>

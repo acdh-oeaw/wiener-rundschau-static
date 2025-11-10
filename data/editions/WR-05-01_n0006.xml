@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-01_n0006.xml"
-     prev="WR-05-01_n0005.xml"
-     next="WR-05-01_n0007.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-01_n0006.xml" prev="WR-05-01_n0005.xml" next="WR-05-01_n0007.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 4, Nr. 24</title>
+                  <idno>WR-04-24_n0421.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 2</title>
+                  <idno>WR-05-02_n0023.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">SCHUR: VOM ZUKÜNFTIGEN GEISTE.</fw></fw><table><row><cell>
-<p>oder »<hi rend="text-spaced">Dipsychus</hi>« ausspricht, gemeinsam.<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">SCHUR: VOM ZUKÜNFTIGEN GEISTE.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>oder »<hi rend="text-spaced">Dipsychus</hi>« ausspricht, gemeinsam.<lb/>
 Rossetti ist keineswegs durch irgend-<lb break="no"/>
 welchen Dogmen-Fanatismus, sondern<lb/>
 durch die geheimnisvolle Lockung des<lb/>
@@ -61,8 +76,9 @@ worden. Von den seligen Inseln des Mär-<lb break="no"/>
 chens und der Sage her haben die Heiligen-<lb break="no"/>
 Sirenen diesen Schiffer durch alle Oceane<lb/>
 des Traumes zu sich herangelockt. Dieser</p>
-</cell><cell>
-<p rend="no-intend">rein artistische Katholicismus scheidet<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">rein artistische Katholicismus scheidet<lb/>
 Rossetti von allen anderen Künstlern, die<lb/>
 solche Fragen erörtert haben. Er hat an<lb/>
 keine andere Heiligkeit gedacht, als an die<lb/>
@@ -72,16 +88,29 @@ der wundervollen »<hi rend="text-spaced">Blessed Damozel</hi>«.<lb/>
 Dieses Gedicht, »süßer denn Honigseim«,<lb/>
 hat unter allen Werken Rossettis die<lb/>
 weiteste Verbreitung gefunden.</p>
-</cell></row></table><milestone unit="undefined"/><p>(<hi rend="text-spaced">Schluss folgt</hi>.)</p><milestone unit="untyped-end"/><milestone unit="undefined"/><milestone unit="untyped-start"/><ab><title>VOM ZUKÜNFTIGEN GEISTE.<lb/>
-Von <rs type="person" key="">ERNST SCHUR</rs> (München).</title></ab><table><row><cell>
-<p>Als ich die ersten Schritte in ein<lb/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="undefined"/>
+            <p>(<hi rend="text-spaced">Schluss folgt</hi>.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>VOM ZUKÜNFTIGEN GEISTE.<lb/>
+Von <rs type="person" key="">ERNST SCHUR</rs> (München).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Als ich die ersten Schritte in ein<lb/>
 reiches Leben that, war das stärkste Ge-<lb break="no"/>
 fühl, das über alle anfängliche Sucht, den<lb/>
 Anderen gleich zu werden, herrschte, dem<lb/>
 ich mich nach Wandlungen und Über-<lb break="no"/>
 windungen immer hingeben musste: ich<lb/>
 war anders wie die Anderen.</p>
-<p>Wenn ich es noch schärfer ergründe:<lb/>
+                     <p>Wenn ich es noch schärfer ergründe:<lb/>
 in mir war der Wunsch latent, allen<lb/>
 gleich zu sein. Dieser Wunsch blieb aber<lb/>
 Wunsch und ich blieb ich. Entsprang<lb/>
@@ -97,19 +126,20 @@ willkürlich, so selbstverständlich, dass ich<lb/>
 eigentlich von »Drang« dabei gar nicht<lb/>
 reden kann. Vielen erschien ich sogar zu<lb/>
 weich, zu zart, zu empfindend.</p>
-<p>Ich nahm das Weltbild in mich auf,<lb/>
+                     <p>Ich nahm das Weltbild in mich auf,<lb/>
 so umfassend es nur möglich war, und<lb/>
 wollte es nicht trüben.</p>
-<p>Es liegt kein Stolz darin; auch kein<lb/>
+                     <p>Es liegt kein Stolz darin; auch kein<lb/>
 Urtheil.</p>
-<p>Mag ich ja vielleicht schwächer, hin-<lb break="no"/>
+                     <p>Mag ich ja vielleicht schwächer, hin-<lb break="no"/>
 gebender, willenloser gewesen sein, ohne<lb/>
 Zusammenhangsgeist, ohne Entwicklungs=<lb break="no"/>
 drang; ein Mensch, den man als Gast,</p>
-</cell><cell>
-<p rend="no-intend">nicht als Haupt, als Führer anzusehen<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">nicht als Haupt, als Führer anzusehen<lb/>
 gewohnt ist.</p>
-<p>Aber das war ohne Zweifel: ich war<lb/>
+                     <p>Aber das war ohne Zweifel: ich war<lb/>
 anders. Das fühle ich jetzt deutlich;<lb/>
 damals sah ich keine Trennung. Hätte<lb/>
 mir damals einer davon gesprochen, hätte<lb/>
@@ -117,10 +147,10 @@ ich vielleicht leise, ganz leise nur geahnt,<lb/>
 wie es gemeint war — dann hätte ich<lb/>
 es schroff zurückgewiesen, ich hätte es<lb/>
 nicht begründen können.</p>
-<p>Ich sah um mich ein Streben, ein<lb/>
+                     <p>Ich sah um mich ein Streben, ein<lb/>
 Wollen, eine Sucht, zu ändern, zu bessern,<lb/>
 die ich begriff, aber nicht bejahte.</p>
-<p>Wenn ich hier sage, wie es erschien,<lb/>
+                     <p>Wenn ich hier sage, wie es erschien,<lb/>
 so thue ich es auf die Gefahr hin, als<lb/>
 aufdringlich und eingebildet zu gelten.<lb/>
 Mich leitet nur die Wahrheit, und ich<lb/>
@@ -130,16 +160,19 @@ Rücksichten irgendwie beirren lassen sollte.<lb/>
 Ich nehme auch alle Folgen, die daraus<lb/>
 entstehen sollten, auf mich, da sie mich<lb/>
 nicht kümmern.</p>
-<p>Es wird Einigen, später Vielen wert-<lb break="no"/>
+                     <p>Es wird Einigen, später Vielen wert-<lb break="no"/>
 voll sein; zudem liegt eine tiefe, allgemeine<lb/>
 Wahrheit darin, die durch die Freiheit<lb/>
 eines Bekenntnisses klarer wird, als durch<lb/>
 objective Worte.</p>
-<p>Und ich weiß aus innerster Über-<lb break="no"/>
+                     <p>Und ich weiß aus innerster Über-<lb break="no"/>
 zeugung, dass mich mit allem Lebenden<lb/>
 und Nichtlebenden ein tiefer Zug verbinden<lb/>
 wird.</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

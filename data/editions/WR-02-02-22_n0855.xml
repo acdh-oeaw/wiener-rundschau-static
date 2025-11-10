@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-22_n0855.xml"
-     prev="WR-02-02-22_n0854.xml"
-     next="WR-02-02-22_n0856.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-22_n0855.xml" prev="WR-02-02-22_n0854.xml" next="WR-02-02-22_n0856.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,33 +42,67 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 21</title>
+                  <idno>WR-02-02-21_n0785.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 23</title>
+                  <idno>WR-02-02-23_n0865.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">DEAR LITTLE GIRL!</fw><fw type="pn">855</fw></fw><p>Heim gieng sie nicht; heim nicht. Er hatte sie ja geschlagen.<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DEAR LITTLE GIRL!</fw>
+               <fw type="pn">855</fw>
+            </fw>
+            <p>Heim gieng sie nicht; heim nicht. Er hatte sie ja geschlagen.<lb/>
 Das Dienstmädchen würde ihr öffnen müssen; die hatte es mit ange-<lb break="no"/>
 sehen. Nein, nimmermehr trat sie unter die Augen dieses Dinges.<lb/>
 Auch das Kindchen hatte es mit angesehen, und geschrien, und die<lb/>
 Händchen nach ihr ausgestreckt. Nimmermehr konnte sie ihrem<lb/>
-Kindchen vors Angesicht.</p><p>Gibt’s keine Asyle in dieser Welt? Wo soll sie Geld hernehmen<lb/>
+Kindchen vors Angesicht.</p>
+            <p>Gibt’s keine Asyle in dieser Welt? Wo soll sie Geld hernehmen<lb/>
 um zu nächtigen, zu essen, zu trinken, zu leben, Tage, Nächte, Tage<lb/>
 — eine kleine, verlorene Beamtenfrau, wie sie ist? Nichts hatte sie<lb/>
 zu sich gesteckt, keinen Kreuzer, nichts. In ihren kleinen, rothen<lb/>
 Hauspantoffeln war sie auf und davon gegangen. Nun stand sie an<lb/>
-der Ecke.</p><p>Erleuchtet hob und wölbte sich das Opernhaus, die ganze Ring-<lb break="no"/>
+der Ecke.</p>
+            <p>Erleuchtet hob und wölbte sich das Opernhaus, die ganze Ring-<lb break="no"/>
 strasse glühte und prahlte. In ihren geblendeten Augen, in denen<lb/>
 die Thränen starr und funkelnd standen, verdoppelten sich die Lichter,<lb/>
 sie sah nichts mehr als eine einzige, wundervolle, reiche und üppige<lb/>
 Glut. Was war sie selbst zu diesem vielen Licht, sie armes, herver-<lb break="no"/>
 irrtes Geschöpf, ohne Mann, ohne Kind, ohne Asyl, mit den rothen<lb/>
-Flecken erhaltener Schläge auf den Wangen!? — —</p><p>Jemand berührte ihre Schulter. Sie zuckte empor und trat etwas<lb/>
-zurück, dann murmelte sie mechanisch ein Wort.</p><p>Ein Fremder hatte sie an der Schulter berührt. Er kannte nicht<lb/>
+Flecken erhaltener Schläge auf den Wangen!? — —</p>
+            <p>Jemand berührte ihre Schulter. Sie zuckte empor und trat etwas<lb/>
+zurück, dann murmelte sie mechanisch ein Wort.</p>
+            <p>Ein Fremder hatte sie an der Schulter berührt. Er kannte nicht<lb/>
 die Stadt, er fragte sie nach dem nächsten Wege zum Prater hinaus,<lb/>
 und als sie bescheiden und schüchtern antwortete, bat er sie, ein paar<lb/>
-Schritte mitzugehen und ihm die Richtung zu zeigen.</p><p>Sie gieng mit, in furchtbarer Angst, dass er ihre rothen Morgen-<lb break="no"/>
+Schritte mitzugehen und ihm die Richtung zu zeigen.</p>
+            <p>Sie gieng mit, in furchtbarer Angst, dass er ihre rothen Morgen-<lb break="no"/>
 schuhe sehen könnte. Er hatte so anständig und höflich zu ihr<lb/>
 gesprochen, ihr kleines, zertretenes Bürgerinherz hob sich und wurde<lb/>
 einen Moment wieder froh. Sie antwortete bescheiden und anständig,<lb/>
@@ -82,7 +113,9 @@ höflichen Ton festzuhalten, sagte sie »Sir« zu dem Fremden, nach<lb/>
 jedem zweiten Wort »Sir«, — »yes, Sir«, — »no, Sir«, so dass ihm<lb/>
 ordentlich zu Muthe sein musste, als spräche er zu einer Landsmännin.<lb/>
 Yes, Sir. No, Sir. Die ganze Ringstrasse entlang. — — — — —<lb/>
-<milestone unit="hr"/></p><p>Er liebte wirklich dies kleine, entlaufene Weibchen, der Englishman.<lb/>
+               <milestone unit="hr"/>
+            </p>
+            <p>Er liebte wirklich dies kleine, entlaufene Weibchen, der Englishman.<lb/>
 Ein flotter, schöner, grosser Junge wie er war, von altem Herkommen,<lb/>
 mit vielem Geld in der Tasche, war er doch frisch und unverbraucht<lb/>
 geblieben, drüben im Arbeitslande. Nichts Besseres hätte er finden<lb/>
@@ -91,7 +124,8 @@ dessen Sprache er nicht verstand — ausser yes Sir und no Sir und<lb/>
 noch einigen anderen Landläufigkeiten — von dem er aber heraus-<lb break="no"/>
 fühlte, dass es irgendwo gutem, bürgerlichem Boden entsprossen;<lb/>
 was er zu würdigen verstand. Nie, nie wäre er mit einem Mädchen<lb/>
-von der Strasse gegangen, er liebte die blendende Sauberkeit, — und</p></div>
+von der Strasse gegangen, er liebte die blendende Sauberkeit, — und</p>
+         </div>
       </body>
    </text>
 </TEI>

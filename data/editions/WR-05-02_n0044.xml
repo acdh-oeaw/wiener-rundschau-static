@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-02_n0044.xml"
-     prev="WR-05-02_n0043.xml"
-     next="WR-05-02_n0045.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-02_n0044.xml" prev="WR-05-02_n0043.xml" next="WR-05-02_n0045.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 1</title>
+                  <idno>WR-05-01_n0001.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 3</title>
+                  <idno>WR-05-03_n0049.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">LINDNER: LAVATER.</fw></fw><table><row><cell>
-<p rend="no-intend">der Unabhängigkeits-Krisis des modernen<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">LINDNER: LAVATER.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">der Unabhängigkeits-Krisis des modernen<lb/>
 Individualismus. Sie gedenken der unge-<lb break="no"/>
 heuren Reihe falscher Urtheile, die ihre<lb/>
 Vorgänger über bewundernswerte Künstler<lb/>
@@ -86,12 +101,14 @@ vielmehr an die Meinung und den Bericht<lb/>
 von zehn Leuten, die für die großen<lb/>
 Revuen und die großen Tageszeitungen<lb/>
 schreiben.</p>
-<p><hi rend="text-spaced">Wie könnte sich nun unter<lb/>
+                     <p>
+                        <hi rend="text-spaced">Wie könnte sich nun unter<lb/>
 solchen Verhältnissen die Rolle<lb/>
 einer Kritik wirklich gestalten</hi>?<lb/>
 Bis jetzt wird sie von dem Mechanismus</p>
-</cell><cell>
-<p rend="no-intend">der Publicität ebensosehr beeinträchtigt,<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">der Publicität ebensosehr beeinträchtigt,<lb/>
 wie von der Geistesströmung der Neuzeit.<lb/>
 Sie übt keine wahre Wirkung mehr aus<lb/>
 und kann auch keine mehr ausüben, denn<lb/>
@@ -109,7 +126,7 @@ gierte Reclame. Sie muss sich eine neue<lb/>
 Bahn eröffnen, und diese neue Bahn<lb/>
 wollen wir jetzt einmal etwas näher be-<lb break="no"/>
 trachten.</p>
-<p>Trotz des gerechten Zornes, den die<lb/>
+                     <p>Trotz des gerechten Zornes, den die<lb/>
 Pedanterie, der Taktmangel und die von<lb/>
 vielen modernen Kritikern geübten Miss-<lb break="no"/>
 bräuche hervorgerufen haben, darf man<lb/>
@@ -129,22 +146,40 @@ Es ist unlogisch, sie von heute zu morgen<lb/>
 Urtheile zusammenschmieren zu lassen,<lb/>
 aber ebenso unrecht wäre es, wollte man<lb/>
 sie brachliegen lassen.</p>
-</cell></row></table><p>(<hi rend="text-spaced">Schluss folgt</hi>.)</p><milestone unit="untyped-end"/><milestone unit="undefined"/><milestone unit="untyped-start"/><ab><title><hi rend="text-spaced">LAVATER</hi>.<lb/>
-(<milestone unit="died"/> <date>1801</date>.)</title></ab><table><row><cell>
-<p>Mit Johann Kaspar <hi rend="text-spaced">Lavater</hi>, dessen<lb/>
+                  </cell>
+               </row>
+            </table>
+            <p>(<hi rend="text-spaced">Schluss folgt</hi>.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">LAVATER</hi>.<lb/>
+(<milestone unit="died"/>
+                  <date>1801</date>.)</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Mit Johann Kaspar <hi rend="text-spaced">Lavater</hi>, dessen<lb/>
 Todestag nunmehr hundert Jahre zurück-<lb break="no"/>
 liegt, weiß die zünftige Literärhistorie<lb/>
 — dort zumal, wo sie sich ehrlich geberdet —<lb/>
 durchaus nichts anzufangen. Und dennoch<lb/>
 ist diesem verdienstlichen Manne gar vieles</p>
-</cell><cell>
-<p>zu danken. Zwar, dass er sich jahrelang<lb/>
+                  </cell>
+                  <cell>
+                     <p>zu danken. Zwar, dass er sich jahrelang<lb/>
 vaterländischen Schweizerliedern, in<lb/>
 Gleim’scher Philisterlyrik, in Klopstock’schen<lb/>
 Patriarchaden, in Flugschriften, Pam-<lb break="no"/>
 phleten, Enquêten, Diatriben, in Predigten,<lb/>
 Briefen und sonstigen Bandwürmern traurig</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

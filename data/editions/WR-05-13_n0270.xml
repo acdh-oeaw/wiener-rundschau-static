@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-13_n0270.xml"
-     prev="WR-05-13_n0269.xml"
-     next="WR-05-13_n0271.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-13_n0270.xml" prev="WR-05-13_n0269.xml" next="WR-05-13_n0271.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 12</title>
+                  <idno>WR-05-12_n0249.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 14</title>
+                  <idno>WR-05-14_n0279.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">HARTMANN: DIE OCCULTE WISSENSCHAFT.</fw></fw><table><row><cell>
-<p rend="no-intend">Geistes den Körper des Kranken durch-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">HARTMANN: DIE OCCULTE WISSENSCHAFT.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Geistes den Körper des Kranken durch-<lb break="no"/>
 dringen und nicht nur die äußerlichen<lb/>
 Wirkungen, sondern den innerlichen Grund<lb/>
 des Übels sehen würden und z. B. be-<lb break="no"/>
@@ -66,7 +81,7 @@ entspringen, zu erkennen und sich die<lb/>
 Kräfte zunutze zu machen, welche dem<lb/>
 noch fast unbekannten Weltäther inne-<lb break="no"/>
 wohnen!</p>
-<p>Es wäre auch in politischer und<lb/>
+                     <p>Es wäre auch in politischer und<lb/>
 socialer Hinsicht wertvoll, wenn man der<lb/>
 Menge die Lehre vom <hi rend="text-spaced">Karma</hi> erklären<lb/>
 und logisch nachweisen würde, dass der<lb/>
@@ -84,12 +99,14 @@ auf die religiöse Schwärmerei und den<lb/>
 Aberglauben zu verweisen, ihnen wissen-<lb break="no"/>
 schaftlich erklären würde, welche Folgen<lb/>
 aus denselben entstehen? Wer würde wohl</p>
-</cell><cell>
-<p rend="no-intend">so unvernünftig sein, einen <hi rend="text-spaced">Selbst-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">so unvernünftig sein, einen <hi rend="text-spaced">Selbst-<lb break="no"/>
 mord</hi> zu begehen, wenn er die Übel<lb/>
 kennen würde, welche daraus entspringen,<lb/>
 und wie thöricht würde in dem Lichte der<lb/>
-höheren Wissenschaft die <hi rend="text-spaced">Todesstrafe</hi><lb/>
+höheren Wissenschaft die <hi rend="text-spaced">Todesstrafe</hi>
+                        <lb/>
 erscheinen, sowie auch manche anderen<lb/>
 altehrwürdigen Einrichtungen, die moder-<lb break="no"/>
 nen Überbleibsel menschlicher Dummheit!<lb/>
@@ -97,7 +114,7 @@ Wie würde auch Jeder darnach trachten,<lb/>
 Herr über seine Leidenschaften zu werden,<lb/>
 wenn er die Wesenheiten kennen würde,<lb/>
 die aus diesen entspringen.</p>
-<p>Noch immer ist unser Planet nicht auf<lb/>
+                     <p>Noch immer ist unser Planet nicht auf<lb/>
 jener Stufe der Evolution, die ihm gebührt.<lb/>
 Die höchsten Kräfte der Menschheit schlum-<lb break="no"/>
 mern noch in ihrem Innern und sind nur<lb/>
@@ -118,7 +135,12 @@ tisten« sind diejenigen großen Seelen und<lb/>
 erleuchteten Geister, welche diesem Ziele<lb/>
 näher gekommen sind und den Weg kennen,<lb/>
 den sie selber durchwandert haben.</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/></div>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
       </body>
    </text>
 </TEI>

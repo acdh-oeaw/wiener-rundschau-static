@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-20_n0778.xml"
-     prev="WR-02-02-20_n0777.xml"
-     next="WR-02-02-20_n0779.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-20_n0778.xml" prev="WR-02-02-20_n0777.xml" next="WR-02-02-20_n0779.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,16 +42,46 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 19</title>
+                  <idno>WR-02-02-19_n0713.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 21</title>
+                  <idno>WR-02-02-21_n0785.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">778</fw><fw type="ctext">RECLUS</fw></fw><p rend="no-intend">für die Nüstern Löcher. Aber diese Bretter, diese Rinden waren rauh<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">778</fw>
+               <fw type="ctext">RECLUS</fw>
+            </fw>
+            <p rend="no-intend">für die Nüstern Löcher. Aber diese Bretter, diese Rinden waren rauh<lb/>
 und schwer, nur aus einem Stück und unbeweglich, passten sie sich<lb/>
 nicht dem Mienenspiele an; in ihrer Starrheit unheimliche Huschköpfe,<lb/>
-konnten sie nur blödes Entsetzen erwecken.</p><p>Man machte weniger steife und schwere Materien ausfindig,<lb/>
+konnten sie nur blödes Entsetzen erwecken.</p>
+            <p>Man machte weniger steife und schwere Materien ausfindig,<lb/>
 zum Beispiele die gegerbte, geschmeidige Haut. Als Ausnahmen wollen<lb/>
 wir Masken aus Cedernholz, aus Glaswaren, sogar solche aus Bronze<lb/>
 erwähnen. Man nahm auch dünne Stoffe, Leinwand, die man mit<lb/>
@@ -70,27 +97,35 @@ Frische ihres Teints zu erhalten, verbargen die vornehmen Damen,<lb/>
 die angesehenen Bürgerinnen ihre Gesichtchen sogar im täglichen Leben<lb/>
 hinter Larven. Sie verfügten damals nicht über den Sonnenschirm,<lb/>
 den man im XVII. Jahrhundert aus China brachte, und der nur lang-<lb break="no"/>
-same Verbreitung fand.</p><p>»Ein gemeinsames Merkmal in Griechenland und Japan,« erzählt<lb/>
+same Verbreitung fand.</p>
+            <p>»Ein gemeinsames Merkmal in Griechenland und Japan,« erzählt<lb/>
 Gonse, der Autor von L’art Japonais, »ist die Verwendung der Maske<lb/>
 im Theater. Die ungeheuren Nasen, die schielenden Augen, die miss-<lb break="no"/>
 gestalteten Mäuler, die Furchen und trotzigen Fratzen drücken Wild-<lb break="no"/>
 heit und Bestialität aus. Lachen und Zorn sind zuweilen mit ausser-<lb break="no"/>
 ordentlicher Intensität wiedergegeben. Die Reihe der Laster ist ebenso<lb/>
 amüsant als vollzählig <milestone unit="3dots"/> Diese Masken reichen zurück bis zum höchsten<lb/>
-Alterthum.</p><p>Die Japanesen trugen solche auf den Festen am Hof, bei theatra-<lb break="no"/>
+Alterthum.</p>
+            <p>Die Japanesen trugen solche auf den Festen am Hof, bei theatra-<lb break="no"/>
 lischen Vorstellungen, bei religiösen Ceremonien. Man zeigt Masken im<lb/>
 Alter von einem halben Dutzend Jahrhunderten und mehr. Die Copien<lb/>
 der urältesten Fratzen haben einen umso energischeren und umso fremd-<lb break="no"/>
 artigeren Charakter, je weiter zurück die Epoche liegt, aus der sie<lb/>
-stammen!«</p><p>Das wundert uns keineswegs, da alle Masken unserer Meinung<lb/>
-nach dämonischen Ursprunges sind.</p><p>In gewissen Klöstern in Tibet gebraucht man bei den religiösen<lb/>
+stammen!«</p>
+            <p>Das wundert uns keineswegs, da alle Masken unserer Meinung<lb/>
+nach dämonischen Ursprunges sind.</p>
+            <p>In gewissen Klöstern in Tibet gebraucht man bei den religiösen<lb/>
 Ceremonien Masken von verblüffender Sonderbarkeit und intensivster<lb/>
 Lebendigkeit: Tiger, Elephanten, Krokodile und Schlangen, schwimmende,<lb/>
 fliegende, laufende, kriechende Thiere, sie alle kommen Buddha zu<lb/>
-huldigen.</p><p>Man hat von den Masken im griechischen Theater häufig ge-<lb break="no"/>
-sprochen: die tragischen oder komischen Masken, Masken von Satyren</p><milestone unit="hr"/><note type="footnote">
-<p>*) Im französischen heisst Maske auch loup.</p>
-</note></div>
+huldigen.</p>
+            <p>Man hat von den Masken im griechischen Theater häufig ge-<lb break="no"/>
+sprochen: die tragischen oder komischen Masken, Masken von Satyren</p>
+            <milestone unit="hr"/>
+            <note type="footnote">
+               <p>*) Im französischen heisst Maske auch loup.</p>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

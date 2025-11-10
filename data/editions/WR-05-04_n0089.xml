@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-04_n0089.xml"
-     prev="WR-05-04_n0088.xml"
-     next="WR-05-04_n0090.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-04_n0089.xml" prev="WR-05-04_n0088.xml" next="WR-05-04_n0090.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 3</title>
+                  <idno>WR-05-03_n0049.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 5</title>
+                  <idno>WR-05-05_n0097.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">HARTMANN: ÜBER DIE OCCULTE BEDEUTUNG ALLGEM. GEBRÄUCHL. WORTE.</fw></fw><table><row><cell>
-<p>genannt, aber eine einheitliche, knappe<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">HARTMANN: ÜBER DIE OCCULTE BEDEUTUNG ALLGEM. GEBRÄUCHL. WORTE.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>genannt, aber eine einheitliche, knappe<lb/>
 Erläuterung vermöchte die Verständlich-<lb break="no"/>
 keit und damit auch den Genuss wesent-<lb break="no"/>
 lich zu erhöhen. Ich erkenne gern an,<lb/>
@@ -64,26 +79,39 @@ doch, dass die Herausgabe unter dem<lb/>
 Verlangen einer möglichst frühzeitigen<lb/>
 Veröffentlichung gelitten hat. Dass ein<lb/>
 Band der nachgelassenen Schriften wieder</p>
-</cell><cell>
-<p rend="no-intend">zurückgezogen werden musste — und es<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">zurückgezogen werden musste — und es<lb/>
 war gut so, dass es geschah — sollte<lb/>
 doch vor jeder Übereilung warnen.<lb/>
 Nietzsche läuft nicht Gefahr, zu spät zu<lb/>
 kommen.</p>
-<p>Jn der Verleger-Ankündigung der Briefe<lb/>
+                     <p>Jn der Verleger-Ankündigung der Briefe<lb/>
 heißt es: »Eben erst hat sich die Erde<lb/>
 über der sterblichen Hülle des großen<lb/>
 Classikers geschlossen. Wie ein Ver-<lb break="no"/>
 mächtnis, das Nietzsche seiner großen<lb/>
 Gemeinde hinterlassen hat, werden dann<lb/>
 seine Briefe wirken!« <hi rend="text-spaced">Zeitgemäß</hi>,<lb/>
-<hi rend="text-spaced">höchst zeitgemäß</hi>!*</p>
-</cell></row></table><note type="footnote">
-<p>* Weiteres folgt.</p>
-</note><milestone unit="untyped-end"/><milestone unit="undefined"/><milestone unit="untyped-start"/><ab><title>ÜBER DIE OCCULTE BEDEUTUNG ALLGEMEIN GEBRÄUCH-<lb break="no"/>
+                        <hi rend="text-spaced">höchst zeitgemäß</hi>!*</p>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Weiteres folgt.</p>
+            </note>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>ÜBER DIE OCCULTE BEDEUTUNG ALLGEMEIN GEBRÄUCH-<lb break="no"/>
 LICHER WORTE.<lb/>
-Von <rs type="person" key="">FRANZ HARTMANN</rs> (Florenz).</title></ab><table><row><cell>
-<p>Jedem, der gewohnt ist, mitunter<lb/>
+Von <rs type="person" key="">FRANZ HARTMANN</rs> (Florenz).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Jedem, der gewohnt ist, mitunter<lb/>
 etwas tiefer als nur oberflächlich zu denken,<lb/>
 wird es klar geworden sein, dass viele<lb/>
 von unseren allgemein gebräuchlichen<lb/>
@@ -111,8 +139,9 @@ erkennen; man hält die Schale für den Kern,<lb/>
 kümmert sich nicht weiter um das, was nicht<lb/>
 bereits klar vor den Augen liegt, und kommt<lb/>
 dabei nicht über das Alltägliche hinaus.</p>
-</cell><cell>
-<p>So gibt es z. B. in unserer Sprache<lb/>
+                  </cell>
+                  <cell>
+                     <p>So gibt es z. B. in unserer Sprache<lb/>
 eine Menge von Worten, deren Sinn sich<lb/>
 auf Dinge bezieht, welche jenseits von<lb/>
 unserem intellectuellen Begriffsvermögen<lb/>
@@ -140,7 +169,10 @@ Seelenleben erst in uns selber erwacht<lb/>
 sein, und ohne die Erfüllung dieser Be-<lb break="no"/>
 dingung führen alle theoretischen Specula-<lb break="no"/>
 tionen über dergleichen Dinge zu nichts</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

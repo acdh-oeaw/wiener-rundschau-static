@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-20_n0776.xml"
-     prev="WR-02-02-20_n0775.xml"
-     next="WR-02-02-20_n0777.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-20_n0776.xml" prev="WR-02-02-20_n0775.xml" next="WR-02-02-20_n0777.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,16 +42,46 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 19</title>
+                  <idno>WR-02-02-19_n0713.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 21</title>
+                  <idno>WR-02-02-21_n0785.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">776</fw><fw type="ctext">RECLUS.</fw></fw><p rend="no-intend">Rachen mit sägeartigem Gebiss, scharfen Fangzähnen und heraus-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">776</fw>
+               <fw type="ctext">RECLUS.</fw>
+            </fw>
+            <p rend="no-intend">Rachen mit sägeartigem Gebiss, scharfen Fangzähnen und heraus-<lb break="no"/>
 hängender Zunge. Die Kannibalen, welche diesen ersten Typus der<lb/>
 Meduse angedeutet hatten, verzierten sie mit Fellen und Rossschweifen,<lb/>
-um Bart und Haare nachzuahmen.</p><p>Diese Larven wurden in Todtenhöhlen niedergelegt oder an den<lb/>
+um Bart und Haare nachzuahmen.</p>
+            <p>Diese Larven wurden in Todtenhöhlen niedergelegt oder an den<lb/>
 geheiligten Bäumen des Stammes aufgehängt. Der Schatten heftete<lb/>
 sich daran, verschlief dort seine Nächte, dämmerte dort lange Wochen<lb/>
 hindurch. Aber am Jahrestag des Todes nahm man sie zum<lb/>
@@ -74,23 +101,31 @@ Maske seines Vaters, einer die Larve des Grossvaters, andere stellten<lb/>
 Brüder und Vettern, Freunde und Genossen dar. Alle fuchtelten mit<lb/>
 den Waffen herum und schonten sich nicht; jeder war entschlossen,<lb/>
 den Manen eine Schale seines Blutes, nicht weniger, aber vielleicht<lb/>
-noch mehr, darzubringen.</p><ab><title>V.</title></ab><p>Bei den Papuas in Neuguinea wahrt man das Andenken der<lb/>
+noch mehr, darzubringen.</p>
+            <ab>
+               <title>V.</title>
+            </ab>
+            <p>Bei den Papuas in Neuguinea wahrt man das Andenken der<lb/>
 Todten durch 12 bis 15 Zoll lange, »Karuar« genannte, glatte Stäbe,<lb/>
 die dem Vater oder Grossvater heilig sind. Was die Urgrossväter<lb/>
 betrifft, die zählen nicht mehr; man scheut sich nicht, die Stäbe dann<lb/>
-ohne Feierlichkeit wegzuwerfen.</p><p>Mitten in einem Hain, der mit Zierpflanzen geschmückt ist,<lb/>
+ohne Feierlichkeit wegzuwerfen.</p>
+            <p>Mitten in einem Hain, der mit Zierpflanzen geschmückt ist,<lb/>
 haben die Insulaner auf Neu-Irland eine Art Tempel errichtet, »Toberran«<lb/>
 oder das Haus des Geistes. Dort hat oder wird jeder Erwachsene des<lb/>
 Stammes, ob Mann oder Weib, sein Standbild aus den Steinbrüchen<lb/>
 des Mont Rossel gemeisselt erhalten. Die Abgeschiedenen zeigen sich<lb/>
 nicht kritisch in Betreff der Ähnlichkeit; aber wehe der Familie, die<lb/>
 das Bildnis nicht zur bestimmten Zeit besorgt, den Gebeinen nicht<lb/>
-eine ewige Behausung in Marmor gemeisselt gegeben hätte.</p><p>Bei den Völkern des Altai haust die Seele mindestens drei<lb/>
+eine ewige Behausung in Marmor gemeisselt gegeben hätte.</p>
+            <p>Bei den Völkern des Altai haust die Seele mindestens drei<lb/>
 Jahre lang in einer Puppe, die man dem Herde zunächst anbringt.<lb/>
 An Galatagen lässt man diese sogenannten »Schetans« Toilette machen,<lb/>
-man reibt ihnen nämlich das Maul mit einer Speckschwarte ein.</p><p>Bis zur spanischen Invasion verbrannten die Mayas so wie alle<lb/>
+man reibt ihnen nämlich das Maul mit einer Speckschwarte ein.</p>
+            <p>Bis zur spanischen Invasion verbrannten die Mayas so wie alle<lb/>
 Eingeborenen in Yukatan, in Nicaragua und den Nachbarländern ihre<lb/>
-Todten in eigenen Öfen. Jeder Todte bekam sein Standbild, das zuweilen</p></div>
+Todten in eigenen Öfen. Jeder Todte bekam sein Standbild, das zuweilen</p>
+         </div>
       </body>
    </text>
 </TEI>

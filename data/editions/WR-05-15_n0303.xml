@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-15_n0303.xml"
-     prev="WR-05-15_n0302.xml"
-     next="WR-05-15_n0304.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-15_n0303.xml" prev="WR-05-15_n0302.xml" next="WR-05-15_n0304.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 14</title>
+                  <idno>WR-05-14_n0279.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 16</title>
+                  <idno>WR-05-16_n0313.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">VICK: PSYCHOGRAPHOLOGIE.</fw></fw><table><row><cell>
-<p rend="no-intend">sowohl positiv, als negativ; positiv als<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">VICK: PSYCHOGRAPHOLOGIE.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">sowohl positiv, als negativ; positiv als<lb/>
 Energie, negativ als Widerstand. Eine<lb/>
 Handlung ist demnach der Ausdruck der<lb/>
 negativen oder positiven Neigung einer<lb/>
@@ -66,7 +81,7 @@ rakters. Die Charakterbeurtheilung bewegte<lb/>
 sich in den Adjectivis: »klug, logisch, ge-<lb break="no"/>
 sund« und ähnlichen, sowie in deren Gegen-<lb break="no"/>
 überstellungen.</p>
-<p>Das neuzeitliche Denken setzt folgender-<lb break="no"/>
+                     <p>Das neuzeitliche Denken setzt folgender-<lb break="no"/>
 maßen ein: Der Charakter der Erschei-<lb break="no"/>
 nungsform ist nicht der Charakter an<lb/>
 sich; er ist die von verschiedenen Bedin-<lb break="no"/>
@@ -103,10 +118,11 @@ weiteren: dass jede künstlerische Thätig-<lb break="no"/>
 keit darauf beruht, aus Zielkräften der<lb/>
 Charaktere an sich deren gemeinsame<lb/>
 Wurzel aufzufinden.</p>
-<p>Die Psychographologie ist im eigent-<lb break="no"/>
+                     <p>Die Psychographologie ist im eigent-<lb break="no"/>
 lichen Sinne Experimental-Wissenschaft;</p>
-</cell><cell>
-<p rend="no-intend">indem sie als Theil der Psychometric<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">indem sie als Theil der Psychometric<lb/>
 die experimentelle Grundlage gibt, gibt<lb/>
 sie der gesammten Psychometric den<lb/>
 Wegweiser, nach welchem derselben der<lb/>
@@ -120,7 +136,7 @@ Herausstreben des Charakters an sich aus<lb/>
 jeglicher Differenz (zugleich Quelle der<lb/>
 dynamischen Eigenschaften der Erschei-<lb break="no"/>
 nungsform).</p>
-<p>Doch auch ein rein äußerlicher Schluss<lb/>
+                     <p>Doch auch ein rein äußerlicher Schluss<lb/>
 rechtfertigt die Psychographologie für das<lb/>
 sinnliche Auge und verdeutlicht die Existenz<lb/>
 einer psychischen Kraft. Ist ein Product<lb/>
@@ -142,7 +158,7 @@ der psychischen Kraft. Das Vorhandensein<lb/>
 und die innere Wahrheit der psychischen<lb/>
 Kraft wird gerechtfertigt durch das psycho-<lb break="no"/>
 graphologische Resultat, welches wahr ist.</p>
-<p>Die Gewissheit, dass im psychographo-<lb break="no"/>
+                     <p>Die Gewissheit, dass im psychographo-<lb break="no"/>
 logischen Verfahren eine psychische Kraft<lb/>
 von der Erscheinungsform rückwärts auf<lb/>
 den Charakter an sich, die Zielkraft des<lb/>
@@ -160,7 +176,10 @@ Charakters an sich. Die psychische Kraft<lb/>
 bleibt aber hierbei nicht stehen. Einmal<lb/>
 Agens des fremden Charakters an sich,<lb/>
 dient sie diesem nicht nur zur Übertragung</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

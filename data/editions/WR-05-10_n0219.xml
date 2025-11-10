@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-10_n0219.xml"
-     prev="WR-05-10_n0218.xml"
-     next="WR-05-10_n0220.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-10_n0219.xml" prev="WR-05-10_n0218.xml" next="WR-05-10_n0220.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 9</title>
+                  <idno>WR-05-09_n0189.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 11</title>
+                  <idno>WR-05-11_n0225.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">JANET: DAS GEFÜHL DER PERSÖNLICHKEIT.</fw></fw><table><row><cell>
-<p rend="no-intend">stellt er das Problem auf, dessen Bedeutung<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">JANET: DAS GEFÜHL DER PERSÖNLICHKEIT.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">stellt er das Problem auf, dessen Bedeutung<lb/>
 wir erkennen werden, das Problem der<lb/>
 persönlichen und der nicht-persönlichen<lb/>
 Thätigkeit. Erwähnen müssen wir schließ-<lb break="no"/>
@@ -65,7 +80,7 @@ nement, betrachten die freiwillige An-<lb break="no"/>
 strengung als ein geistiges Factum und<lb/>
 verknüpfen die Persönlichkeit mit einer<lb/>
 Anschauung.</p>
-<p>Ich glaube, diese zweite Periode des<lb/>
+                     <p>Ich glaube, diese zweite Periode des<lb/>
 Studiums der Persönlichkeit ist durchaus<lb/>
 nicht unfruchtbar; sie hat das Problem<lb/>
 der Unterscheidung des Ich und des Nicht-<lb break="no"/>
@@ -75,7 +90,7 @@ sie hat in leider etwas hypothetischer<lb/>
 Weise die Operation der Synthese be-<lb break="no"/>
 schrieben, die sie zu einer Einheit ver-<lb break="no"/>
 einigen soll.</p>
-<p>Die Psychologen, von denen ich eben<lb/>
+                     <p>Die Psychologen, von denen ich eben<lb/>
 gesprochen, erscheinen mir ungeheuer ehr-<lb break="no"/>
 geizig, und wenn man es so sagen darf, naiv<lb/>
 anspruchsvoll. Man gestatte mir, um mich<lb/>
@@ -90,8 +105,9 @@ Linie versteht, und sich weigert, ohne<lb/>
 Erklärung und Definition alle diese Vor-<lb break="no"/>
 begriffe zuzugeben, ohne die eine Geo-<lb break="no"/>
 metrie nicht möglich ist. Ein großer Mathe-</p>
-</cell><cell>
-<p rend="no-intend">matiker — Laplace, glaube ich — ärgerte<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">matiker — Laplace, glaube ich — ärgerte<lb/>
 sich über diese Discussionen zu Beginn des<lb/>
 Cursus und sagte zu den Schülern: »Lernen<lb/>
 Sie zunächst die ersten vierzig Lectionen<lb/>
@@ -130,7 +146,12 @@ und andere Geheimnisse derselben Art.<lb/>
 Nicht-wissen-können ist eine Wissenschaft,<lb/>
 welche die Psychologen, die uns voran-<lb break="no"/>
 gegangen sind, nicht besaßen.</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/></div>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
       </body>
    </text>
 </TEI>

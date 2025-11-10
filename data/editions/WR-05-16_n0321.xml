@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-16_n0321.xml"
-     prev="WR-05-16_n0320.xml"
-     next="WR-05-16_n0322.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-16_n0321.xml" prev="WR-05-16_n0320.xml" next="WR-05-16_n0322.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 15</title>
+                  <idno>WR-05-15_n0295.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 17</title>
+                  <idno>WR-05-17_n0327.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">GUMPPENBRRG: DAS WESEN DES OPFERS.</fw></fw><table><row><cell>
-<p>das: »Verkaufe alles, was du hast und<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">GUMPPENBRRG: DAS WESEN DES OPFERS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>das: »Verkaufe alles, was du hast und<lb/>
 gib’s den Armen und folge mir nach«<lb/>
 mit dem Nachwort: »Wie schwerlich wird<lb/>
 ein Reicher ins Himmelreich kommen!«<lb/>
@@ -105,8 +120,9 @@ theosophischer Lehre. Was liegt an der<lb/>
 Verschiedenheit der Benennungen? Die<lb/>
 Sache ist doch dieselbe. Das Himmelreich<lb/>
 ist ja kein Raum, sondern ein Zustand,</p>
-</cell><cell>
-<p rend="no-intend">ein Zustand, den wir eben nur erreichen,<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">ein Zustand, den wir eben nur erreichen,<lb/>
 indem wir die Gesetze Gottes verstehen<lb/>
 und erfüllen, und der Grundstein der Ge-<lb break="no"/>
 setzeswelt ist das Gesetz des Opfers, das<lb/>
@@ -116,7 +132,7 @@ in die positive Freude der Opferseligkeit<lb/>
 einführt, da das Gesetz des Opfers wie<lb/>
 das Gesetz der Liebe <hi rend="text-spaced">eine</hi> Quelle hat:<lb/>
 im ewigen Urgrund des Seins: Gott.</p>
-<p>Die Definition der Liebe, wie sie im<lb/>
+                     <p>Die Definition der Liebe, wie sie im<lb/>
 neuen und an vielen Stellen des alten<lb/>
 Testaments gegeben wird und wie ich<lb/>
 sie auch aus theosophischen Schriften<lb/>
@@ -146,7 +162,8 @@ selbst) angenehme Empfindungen erweckt<lb/>
 werden können. So sagen wir von jemandem,<lb/>
 er liebe eine wohlbesetzte Tafel, Spiel,<lb/>
 Tanz, Jagd etc. etc., vor allem aber<lb/>
-brauchen wir das Wort <hi rend="italics">sensu stricto</hi><lb/>
+brauchen wir das Wort <hi rend="italics">sensu stricto</hi>
+                        <lb/>
 zur Bezeichnung der Anziehungskraft,<lb/>
 welche die beiden Geschlechter aufeinander<lb/>
 ausüben. Weiter sprechen wir von Mutter-<lb break="no"/>
@@ -155,12 +172,15 @@ fehlt die Rücksichtnahme auf die innere<lb/>
 Selbstbefriedigung, welche dem Liebenden<lb/>
 durch den geliebten Gegenstand zutheil<lb/>
 wird, durchaus nicht.«</p>
-<p>Wir schauen verschiedene Erscheinungs-<lb break="no"/>
+                     <p>Wir schauen verschiedene Erscheinungs-<lb break="no"/>
 formen der Liebe, und je nach unserer<lb/>
 Entwicklungsstufe ändert sich nothwendiger-<lb break="no"/>
 weise das Bild. In niederen Organismen<lb/>
 können die Lebewesen vielleicht nur das</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

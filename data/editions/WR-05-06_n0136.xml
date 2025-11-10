@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-06_n0136.xml"
-     prev="WR-05-06_n0135.xml"
-     next="WR-05-06_n0137.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-06_n0136.xml" prev="WR-05-06_n0135.xml" next="WR-05-06_n0137.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,15 +41,35 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 5</title>
+                  <idno>WR-05-05_n0097.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 7</title>
+                  <idno>WR-05-07_n0141.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>RUNDSCHAU.</title></ab><table><row><cell>
-<milestone unit="untyped-start"/>
-<p><hi rend="text-spaced">Gustav Mahler</hi>: »<hi rend="text-spaced">Das klagende<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>RUNDSCHAU.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="untyped-start"/>
+                     <p>
+                        <hi rend="text-spaced">Gustav Mahler</hi>: »<hi rend="text-spaced">Das klagende<lb/>
 Lied</hi>.« — Mahler gehört nicht zu jener<lb/>
 Heerschar neudeutscher Componisten, die<lb/>
 nur auf das dienstbereite Blech des<lb/>
@@ -63,16 +80,16 @@ scheuen, nackt vor uns hinzutreten; viel-<lb break="no"/>
 leicht könnten sie das Kleid der Musik<lb/>
 entbehren, ohne deshalb aufzuhören, Kunst-<lb break="no"/>
 werke zu sein.</p>
-<p>»Das klagende Lied« stammt aus<lb/>
+                     <p>»Das klagende Lied« stammt aus<lb/>
 den Achtzigerjahren und lässt die Hand<lb/>
 des Bruckner-Schülers erkennen. Die In-<lb break="no"/>
 strumentation ist ohne die bizarre Üppig-<lb break="no"/>
 keit der hypermodernen Instrumentations-<lb break="no"/>
 Technik.</p>
-<p>Über die <hi rend="text-spaced">quantitativen</hi> Grenzen<lb/>
+                     <p>Über die <hi rend="text-spaced">quantitativen</hi> Grenzen<lb/>
 des Instrumentalen ist bereits viel ge-<lb break="no"/>
 redet worden — seit <hi rend="text-spaced">Berlioz</hi> bis auf<lb/>
-<hi rend="text-spaced">Richard Strauß</hi>, aus dem sich<lb/>
+                        <hi rend="text-spaced">Richard Strauß</hi>, aus dem sich<lb/>
 vielleicht die Regel deducieren lassen<lb/>
 dürfte, dass die Darstellung des <hi rend="text-spaced">Primi-<lb break="no"/>
 tiven</hi>, <hi rend="text-spaced">ebenso wenig wie die des<lb/>
@@ -89,7 +106,7 @@ des echten Volksliedes darzustellen vermocht<lb/>
 haben, ist andererseits aber ein wertvoller<lb/>
 Fingerzeig in der Behandlung des Pro-<lb break="no"/>
 blems.</p>
-<p>Doch, um auf das »klagende Lied«<lb/>
+                     <p>Doch, um auf das »klagende Lied«<lb/>
 zurückzukommen: Die Dichtung ist nicht<lb/>
 eigentlich im classischen Sinne durch-<lb break="no"/>
 componiert, eher könnte man die originelle<lb/>
@@ -99,8 +116,9 @@ Solostimmen (merkwürdigerweise mit ge-<lb break="no"/>
 doppeltem Sopran ohne Bass) tragen<lb/>
 das Gedicht abwechselnd declamatorisch<lb/>
 vor, und werden nur stellenweise durch</p>
-</cell><cell>
-<p rend="no-intend">den Chor abgelöst, der zusammen mit<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">den Chor abgelöst, der zusammen mit<lb/>
 dem Orchester den Stimmungs-Untergrund<lb/>
 bildet und die Zeichnung färbt. Die Chor-<lb break="no"/>
 partie ist recht spärlich bedacht, so dass<lb/>
@@ -116,15 +134,18 @@ kürlich. So können die Singstimmen nicht<lb/>
 im strengen Oratorien-Stil als Individuen<lb/>
 aufgefasst werden, sondern nur als Contour-<lb break="no"/>
 Linien des farbenreichen Gemäldes.</p>
-<p><rs type="person" key="">E. L.</rs></p>
-<milestone unit="untyped-end"/>
-<milestone unit="untyped-start"/>
-<milestone unit="asterisk"/>
-<p><hi rend="text-spaced">Pierre Maurice</hi>. Sein erstes Theater-<lb break="no"/>
+                     <p>
+                        <rs type="person" key="">E. L.</rs>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-start"/>
+                     <milestone unit="asterisk"/>
+                     <p>
+                        <hi rend="text-spaced">Pierre Maurice</hi>. Sein erstes Theater-<lb break="no"/>
 werk (Jephté) erzielte vergangenen Herbst<lb/>
 unter Mitwirkug der ausgezeichneten<lb/>
 Emilie Herzog in Zürich großen Erfolg.<lb/>
-<date>Vergangenen Freitag</date> wurde im kgl. Odeon<lb/>
+                        <date>Vergangenen Freitag</date> wurde im kgl. Odeon<lb/>
 sein letztes Orchesterwerk: <hi rend="text-spaced">Francesca<lb/>
 da Rimini</hi>, <hi rend="text-spaced">symphonische Dichtung<lb/>
 nach Dantes</hi> »<hi rend="text-spaced">Hölle</hi>« gegeben, eine sehr<lb/>
@@ -138,21 +159,30 @@ des Componisten bezeichnend sind, der<lb/>
 in ihnen dasjenige musikalische Element,<lb/>
 das in einer Dichtung beruhen kann,<lb/>
 lebenbringend erfasste.</p>
-<milestone unit="verse-start"/>
-<lg><l>O Dichter, gern spräche ich mit jenen Beiden,</l>
-<l>Die zusammen gehen und also leicht</l>
-<l>Im Windhauch sich bewegen <milestone unit="3dots"/></l>
-<l>O leidbeschwerte Seelen!</l>
-<l>Sprecht doch mit uns, wenn es euch niemand</l>
-<l>wehrt.</l>
-<l><milestone unit="hr"/></l>
-<l>Wie Tauben, vom Verlangen ausgetrieben</l>
-<l>Zum süßen Nest mit weiten, sich’ren Flügeln,</l>
-<l>Vom Wunsch getragen, durch die Luft hineilen,</l>
-<l>So trennen sie vom Schwarm sich durch die</l>
-<l>Schnöde Luft <milestone unit="3dots"/></l></lg>
-<milestone unit="untyped-end"/>
-</cell></row></table></div>
+                     <milestone unit="verse-start"/>
+                     <lg>
+                        <l>O Dichter, gern spräche ich mit jenen Beiden,</l>
+                        <l>Die zusammen gehen und also leicht</l>
+                        <l>Im Windhauch sich bewegen <milestone unit="3dots"/>
+                        </l>
+                        <l>O leidbeschwerte Seelen!</l>
+                        <l>Sprecht doch mit uns, wenn es euch niemand</l>
+                        <l>wehrt.</l>
+                        <l>
+                           <milestone unit="hr"/>
+                        </l>
+                        <l>Wie Tauben, vom Verlangen ausgetrieben</l>
+                        <l>Zum süßen Nest mit weiten, sich’ren Flügeln,</l>
+                        <l>Vom Wunsch getragen, durch die Luft hineilen,</l>
+                        <l>So trennen sie vom Schwarm sich durch die</l>
+                        <l>Schnöde Luft <milestone unit="3dots"/>
+                        </l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

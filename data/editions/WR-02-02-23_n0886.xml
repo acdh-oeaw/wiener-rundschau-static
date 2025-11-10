@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-23_n0886.xml"
-     prev="WR-02-02-23_n0885.xml"
-     next="WR-02-02-23_n0887.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-23_n0886.xml" prev="WR-02-02-23_n0885.xml" next="WR-02-02-23_n0887.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,13 +42,42 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 22</title>
+                  <idno>WR-02-02-22_n0825.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 24</title>
+                  <idno>WR-02-02-24_n0905.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">886</fw><fw type="ctext">LANZKY.</fw></fw><p>Wie konnte solch ein Mann für die Einsamkeit geschaffen sein,<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">886</fw>
+               <fw type="ctext">LANZKY.</fw>
+            </fw>
+            <p>Wie konnte solch ein Mann für die Einsamkeit geschaffen sein,<lb/>
 die ihn aufrieb! Er bedurfte des gesellschaftlichen Milieu, in dem er<lb/>
 gelebt hatte, ohne in ihm aufzugehen; und zugleich erhielt er dort den<lb/>
 Beweis, dass sein eigener Gedanke die Verneinung dessen war, was<lb/>
@@ -60,13 +86,15 @@ nichts mit dem seines Gemüthes gemein hatte. Er musste aber dem<lb/>
 Geiste folgen und konnte doch dem Gemüthe nicht entrinnen. Das<lb/>
 musste nothwendig nicht nur zur Tragik führen, sondern sie voraus-<lb break="no"/>
 sehen lassen. Hierdurch entstand ein Grausen vor dem Alleinsein, von<lb/>
-dem alle Fernstehenden keine Ahnung haben können.</p><p>Diesen Nachtgedanken zu entrinnen, suchte die Natur nach Sonne,<lb/>
+dem alle Fernstehenden keine Ahnung haben können.</p>
+            <p>Diesen Nachtgedanken zu entrinnen, suchte die Natur nach Sonne,<lb/>
 Bewegung, Arbeit, Befreiung auf jegliche Weise. Daher die immer<lb/>
 wiederholte Rückkehr in den Süden von 1876 bis 1888, die peri-<lb break="no"/>
 patetische Art der Composition der Werke, der Hass gegen Nacht,<lb/>
 Wolken und eingezwängte Luft. Daher endlich der Gebrauch des<lb/>
 Chlorals, weil der natürliche Schlaf nicht rechtzeitig mehr eintreffen,<lb/>
-noch genügend anhalten wollte.</p><p>Des Missbrauchs dieses Mittels war sich Nietzsche sehr wohl<lb/>
+noch genügend anhalten wollte.</p>
+            <p>Des Missbrauchs dieses Mittels war sich Nietzsche sehr wohl<lb/>
 bewusst. Mit schwerem Bedenken gestand er mir schon Anfang 1885<lb/>
 den zweijährigen allnächtlichen Gebrauch des Chlorals und schrieb<lb/>
 mir einige Monate später aus Venedig, dass er auf mein inständiges<lb/>
@@ -74,7 +102,8 @@ Bitten auf dieses gefährliche Schlafmittel verzichtet habe. Die Unter-<lb break
 brechung wird indessen nicht lange gedauert haben, denn im Herbst<lb/>
 desselben Jahres gebrauchte er es abermals und <date>1886</date> wieder regel-<lb break="no"/>
 mässig. Und schliesslich sah der Ärmste im Chloral nur ein noth-<lb break="no"/>
-wendiges Antidot gegen die abnorme Arbeitsfähigkeit seines Gehirnes.</p><p>Dieselbe war allerdings von einer aussergewöhnlichen Beanlagung.<lb/>
+wendiges Antidot gegen die abnorme Arbeitsfähigkeit seines Gehirnes.</p>
+            <p>Dieselbe war allerdings von einer aussergewöhnlichen Beanlagung.<lb/>
 Im Gespräch wie im Vortrag machte Nietzsche sofort den Eindruck<lb/>
 eines deutschen Professors, der sein Thema beherrscht und es bedächtig<lb/>
 vorträgt und reichhaltig erörtert. Nicht viel langsamer schrieb er seine<lb/>
@@ -86,14 +115,16 @@ wenig Zeit einmal die äusserste Kurzsichtigkeit, sodann das allgemeine<lb/>
 Missbefinden dem Denker gewährten, seine Aphorismen niederzuschreiben,<lb/>
 so wird man nicht umhin können, sein Erstaunen über die Reich-<lb break="no"/>
 haltigkeit derselben — von der Energie, sie niedergeschrieben zu<lb/>
-haben, abgesehen — auszudrücken.</p><p>Die Energie zur Arbeit war bedeutend, während es mir stets<lb/>
+haben, abgesehen — auszudrücken.</p>
+            <p>Die Energie zur Arbeit war bedeutend, während es mir stets<lb/>
 aufgefallen ist, wie schwach Nietzsche erschien, wo es sich um Über-<lb break="no"/>
 windung eines jener regulären Unwohlseinsfälle handelte. Die Magen-<lb break="no"/>
 beschwerden, die oft zum Erbrechen führten, wie die qualvollen Kopf-<lb break="no"/>
 schmerzen machten ihn jammern wie einen Knaben und an jeglicher<lb/>
 Besserung für immer verzweifeln, während in der Regel nach 12 bis<lb/>
 24 Stunden die Krisis nicht nur überwunden, sondern vergessen oder<lb/>
-verspottet war. Die unmittelbaren Ursachen der Krisen hätten bei einiger</p></div>
+verspottet war. Die unmittelbaren Ursachen der Krisen hätten bei einiger</p>
+         </div>
       </body>
    </text>
 </TEI>

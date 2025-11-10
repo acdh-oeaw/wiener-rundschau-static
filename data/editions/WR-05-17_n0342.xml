@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-17_n0342.xml"
-     prev="WR-05-17_n0341.xml"
-     next="WR-05-18_n0343.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-17_n0342.xml" prev="WR-05-17_n0341.xml" next="WR-05-18_n0343.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 16</title>
+                  <idno>WR-05-16_n0313.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 18</title>
+                  <idno>WR-05-18_n0343.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">RUNDSCHAU.</fw></fw><table><row><cell>
-<p>tung. Unter der Voraussetzung, dass der<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">RUNDSCHAU.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>tung. Unter der Voraussetzung, dass der<lb/>
 kritisch gebildete Theil des Publicums<lb/>
 die philosophischen Schwächen des Welt-<lb break="no"/>
 räthselbuches mit nicht gar zu viel Mühe<lb/>
@@ -64,10 +79,11 @@ wird der Charakter einer durchaus exacten<lb/>
 Naturwissenschaft nachgewiesen, wobei<lb/>
 sich Veranlassung ergibt, die wissen-<lb break="no"/>
 schaftliche Ehre und Makellosigkeit der</p>
-</cell><cell>
-<p rend="no-intend">von Häckel <hi rend="italics">par distance</hi>, »von oben herab«<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">von Häckel <hi rend="italics">par distance</hi>, »von oben herab«<lb/>
 behandelten Transcendental-Physiker:<lb/>
-<hi rend="text-spaced">Zöllner</hi>, <hi rend="text-spaced">Fechner</hi> und <hi rend="text-spaced">Crookes</hi> zu re-<lb break="no"/>
+                        <hi rend="text-spaced">Zöllner</hi>, <hi rend="text-spaced">Fechner</hi> und <hi rend="text-spaced">Crookes</hi> zu re-<lb break="no"/>
 stituieren. Eingehend wird auch Du Prel<lb/>
 gewürdigt, sowohl als Erkenntniskritiker<lb/>
 und Begründer der Lehre von trans-<lb break="no"/>
@@ -77,11 +93,26 @@ Naturforscher. Sehr wertvoll für die<lb/>
 Polemik ist die vollständige Liste aller um<lb/>
 die Erkenntnis »occulter« Phänomene ver-<lb break="no"/>
 dienter Männer der exacten Naturwissen-<lb break="no"/>
-schaft. <rs type="person" key="">λ</rs></p>
-<milestone unit="untyped-end"/>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/><milestone unit="editorialStatement-start"/><p><hi rend="strong">Berichtigung</hi>: In dem Artikel: »Das Wesen des Opfers« von Baron. E. Gumppenberg<lb/>
+schaft. <rs type="person" key="">λ</rs>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="editorialStatement-start"/>
+            <p>
+               <hi rend="strong">Berichtigung</hi>: In dem Artikel: »Das Wesen des Opfers« von Baron. E. Gumppenberg<lb/>
 (Nr. 15 und 16) sind die vier letzten Spalten aus <hi rend="text-spaced">Annie Besants</hi> Werk: »Uralte Weisheit«<lb/>
-(Deutsch von Ludwig Deinhard) citiert — was aus dem Texte nicht deutlich hervorgieng.</p><milestone unit="untyped-end"/><milestone unit="undefined"/><milestone unit="imprint-start"/><p>Verantwortl. Redacteur: R. Dworschak. — K. k. Hoftheater-Druckerei, Wien, I., Wollzeile 17. (Verantwortl. A. Rimrich.)</p><milestone unit="untyped-end"/><milestone unit="untyped-end"/></div>
+(Deutsch von Ludwig Deinhard) citiert — was aus dem Texte nicht deutlich hervorgieng.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="imprint-start"/>
+            <p>Verantwortl. Redacteur: R. Dworschak. — K. k. Hoftheater-Druckerei, Wien, I., Wollzeile 17. (Verantwortl. A. Rimrich.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
       </body>
    </text>
 </TEI>

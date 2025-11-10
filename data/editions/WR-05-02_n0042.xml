@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-02_n0042.xml"
-     prev="WR-05-02_n0041.xml"
-     next="WR-05-02_n0043.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-02_n0042.xml" prev="WR-05-02_n0041.xml" next="WR-05-02_n0043.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 1</title>
+                  <idno>WR-05-01_n0001.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 3</title>
+                  <idno>WR-05-03_n0049.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">MAUCLAIR: ÜBER DEN GEGENWÄRTIGEN STAND DER LITERARISCHEN KRITIK.</fw></fw><table><row><cell>
-<p>handelt wird; hier hat er Raum, seine<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MAUCLAIR: ÜBER DEN GEGENWÄRTIGEN STAND DER LITERARISCHEN KRITIK.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>handelt wird; hier hat er Raum, seine<lb/>
 Ideen auseinanderzusetzen; hier findet er<lb/>
 ein ernsthaftes Publicum, das ihn zu lesen<lb/>
 vermag; aber wenn man auch in den<lb/>
@@ -105,8 +120,9 @@ Geschmacksrichtung besitzt. Das ist natür-<lb break="no"/>
 lich übertrieben, aber es steckt doch ein<lb/>
 Körnchen Wahrheit darin. Darauf beruht<lb/>
 die Daseinsberechtigung der Kritiker. Der</p>
-</cell><cell>
-<p rend="no-intend">Zauber der Druckerschwärze muss heute<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Zauber der Druckerschwärze muss heute<lb/>
 wohl noch eine ebenso starke Wirkung<lb/>
 ausüben, wie in der guten alten Zeit.<lb/>
 Auch die bezahlte Reclame vernichtet<lb/>
@@ -137,7 +153,7 @@ rücksichtigt, denen ein leichter Erfolg<lb/>
 beschieden ist, welche die bezahlte Reclame<lb/>
 lanciert, ohne dass sie einer ernsteren<lb/>
 Kritik bedürfen.</p>
-<p>Die moralischen Ursachen sind nicht<lb/>
+                     <p>Die moralischen Ursachen sind nicht<lb/>
 weniger bedeutend. Wenn man die zahl-<lb break="no"/>
 reichen Verfasser dieser obenerwähnten<lb/>
 wertlosen Urtheile, welche die von ihnen<lb/>
@@ -160,7 +176,10 @@ theile sind von einem System vorgefasster<lb/>
 Ideen beeinflusst. Wir leben nun in einer<lb/>
 Zeit, wo nur noch sehr wenige Wesen<lb/>
 auf dieser Anschauungsweise verharren.</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

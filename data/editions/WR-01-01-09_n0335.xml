@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-01-01-09_n0335.xml"
-     prev="WR-01-01-09_n0334.xml"
-     next="WR-01-01-09_n0336.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-09_n0335.xml" prev="WR-01-01-09_n0334.xml" next="WR-01-01-09_n0336.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,30 +42,78 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 2</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 1, Halbbd. 1, Nr. 8</title>
+                  <idno>WR-01-01-08_n0281.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 1, Halbbd. 1, Nr. 10</title>
+                  <idno>WR-01-01-10_n0361.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>KUNST.<lb/>
-Von <rs type="person" key="">Oskar Wilde</rs> (London).</title></ab><milestone unit="untyped-start"/><p>Der schönen Dinge Schöpfer ist der Künstler.</p><p>Sich selbst zu offenbaren und den Künstler zu verbergen,<lb/>
-ist Zweck der Kunst.</p><milestone unit="untyped-end"/><milestone unit="asterismDown"/><milestone unit="untyped-start"/><p>Kritiker ist der, der seinen Eindruck vom Schönen in<lb/>
-neuer Form oder neuer Technik wiedergeben kann.</p><milestone unit="untyped-end"/><milestone unit="asterismDown"/><milestone unit="untyped-start"/><p>Die höchste wie die niedrigste Kritik ist eine Art<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>KUNST.<lb/>
+Von <rs type="person" key="">Oskar Wilde</rs> (London).</title>
+            </ab>
+            <milestone unit="untyped-start"/>
+            <p>Der schönen Dinge Schöpfer ist der Künstler.</p>
+            <p>Sich selbst zu offenbaren und den Künstler zu verbergen,<lb/>
+ist Zweck der Kunst.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="asterismDown"/>
+            <milestone unit="untyped-start"/>
+            <p>Kritiker ist der, der seinen Eindruck vom Schönen in<lb/>
+neuer Form oder neuer Technik wiedergeben kann.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="asterismDown"/>
+            <milestone unit="untyped-start"/>
+            <p>Die höchste wie die niedrigste Kritik ist eine Art<lb/>
 Selbstbekenntnis. Die Leute, die in der Kunst niedrige<lb/>
 Gedanken finden, sind verderbt und wirken unerfreulich. Die<lb/>
 Leute, die in der Kunst hohe, schöne Gedanken finden, sind<lb/>
 gebildet. Für sie gibt es Hoffnung. — Die Auserlesenen sind<lb/>
-die, welchen die Kunst eitel Schönheit ist.</p><milestone unit="untyped-end"/><milestone unit="asterismDown"/><milestone unit="untyped-start"/><p>Bücher sind weder moralisch noch unmoralisch; sie sind<lb/>
+die, welchen die Kunst eitel Schönheit ist.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="asterismDown"/>
+            <milestone unit="untyped-start"/>
+            <p>Bücher sind weder moralisch noch unmoralisch; sie sind<lb/>
 gut geschrieben oder schlecht geschrieben. Ein Drittes gibt<lb/>
-es nicht.</p><milestone unit="untyped-end"/><milestone unit="asterismDown"/><milestone unit="untyped-start"/><p>Das Missfallen des XIX. Jahrhunderts am <hi rend="text-spaced">Realismus</hi><lb/>
+es nicht.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="asterismDown"/>
+            <milestone unit="untyped-start"/>
+            <p>Das Missfallen des XIX. Jahrhunderts am <hi rend="text-spaced">Realismus</hi>
+               <lb/>
 gleicht der Wuth Caliban’s, der sein eigenes Gesicht im<lb/>
-Spiegel erblickt.</p><p>Das Missfallen des XIX. Jahrhunderts an der <hi rend="text-spaced">Romantik</hi><lb/>
+Spiegel erblickt.</p>
+            <p>Das Missfallen des XIX. Jahrhunderts an der <hi rend="text-spaced">Romantik</hi>
+               <lb/>
 gleicht dem Caliban, der wüthet, weil er sich <hi rend="text-spaced">nicht</hi> im<lb/>
-Spiegel sieht.</p><milestone unit="untyped-end"/><milestone unit="asterismDown"/><milestone unit="untyped-start"/><p>Das moralische Leben eines Menschen ist ein Theil des<lb/>
+Spiegel sieht.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="asterismDown"/>
+            <milestone unit="untyped-start"/>
+            <p>Das moralische Leben eines Menschen ist ein Theil des<lb/>
 künstlerisch Darzustellenden; aber die Moral der Kunst<lb/>
 besteht in der vollkommenen Beherrschung eines unvoll-<lb break="no"/>
-kommenen Mittels.</p><milestone unit="untyped-end"/></div>
+kommenen Mittels.</p>
+            <milestone unit="untyped-end"/>
+         </div>
       </body>
    </text>
 </TEI>

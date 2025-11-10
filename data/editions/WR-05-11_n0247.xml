@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-11_n0247.xml"
-     prev="WR-05-11_n0246.xml"
-     next="WR-05-11_n0248.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-11_n0247.xml" prev="WR-05-11_n0246.xml" next="WR-05-11_n0248.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,33 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 10</title>
+                  <idno>WR-05-10_n0205.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 12</title>
+                  <idno>WR-05-12_n0249.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">AURIER: VINCENT VAN GOGH.</fw></fw><table><row><cell>
-<p rend="no-intend"><hi rend="text-spaced">vencalin</hi>«, zeigen mit der größten<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">AURIER: VINCENT VAN GOGH.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">
+                        <hi rend="text-spaced">vencalin</hi>«, zeigen mit der größten<lb/>
 Klarheit diesen Willen zur Verein-<lb break="no"/>
 fachung der Kunst, den man übrigens<lb/>
 mehr oder weniger in seinen ganzen<lb/>
@@ -60,8 +76,8 @@ so absurd oder so verächtlich erscheint<lb/>
 in diesen Zeiten der aufs äußerste<lb/>
 gesteigerten Verwicklung, der Kurz-<lb break="no"/>
 sichtigkeit und ungeschickter Analyse.</p>
-<milestone unit="asterisk"/>
-<p>Sind diese Theorien, alle diese Hoff-<lb break="no"/>
+                     <milestone unit="asterisk"/>
+                     <p>Sind diese Theorien, alle diese Hoff-<lb break="no"/>
 nungen Vincent van Goghs praktisch?<lb/>
 Sind es nicht etwa leere und schöne<lb/>
 Chimären? Wer weiß! Auf alle Fälle<lb/>
@@ -71,7 +87,7 @@ terisierung dieses merkwürdigen Geistes<lb/>
 zu enden, der so außer allen banalen<lb/>
 Wegen geht, indem ich einige Worte<lb/>
 über seine Technik sage.</p>
-<p>Die äußere, materielle Seite seiner<lb/>
+                     <p>Die äußere, materielle Seite seiner<lb/>
 Malerei ist in absoluter Beziehung zu<lb/>
 seinem Temperament als Künstler. In<lb/>
 allen seinen Werken ist die Ausführung<lb/>
@@ -82,7 +98,7 @@ treibt den Charakter, vereinfacht, wird<lb/>
 Meister, Sieger über das Detail, erreicht<lb/>
 die meisterliche Synthese, manchmal<lb/>
 den großen Stil, aber nicht immer.</p>
-<p>Seine Farbe kennen wir schon. Sie<lb/>
+                     <p>Seine Farbe kennen wir schon. Sie<lb/>
 ist unwahrscheinlich blendend. Er ist,<lb/>
 wie ich weiß, der einzige Maler, der<lb/>
 den Anschein der Dinge mit dieser<lb/>
@@ -93,10 +109,12 @@ Schatten, den Einflüssen von Ton auf<lb/>
 Ton, voller Sonnenbeleuchtung, sind die<lb/>
 allermerkwürdigsten. Er weiß jedoch<lb/>
 nicht immer gewisse unangenehme</p>
-</cell><cell>
-<p rend="no-intend">Roheiten zu vermeiden, gewisse Nicht-<lb break="no"/>
-harmonien, gewisse Dissonanzen <milestone unit="4dots"/></p>
-<p>Was seine Factur, kurz gesagt, be-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Roheiten zu vermeiden, gewisse Nicht-<lb break="no"/>
+harmonien, gewisse Dissonanzen <milestone unit="4dots"/>
+                     </p>
+                     <p>Was seine Factur, kurz gesagt, be-<lb break="no"/>
 trifft, sein unmittelbares Verfahren, die<lb/>
 Leinwand zu illuminieren, so ist es, wie<lb/>
 alles an ihm, feurig, sehr mächtig und<lb/>
@@ -109,8 +127,8 @@ Hinmauern, und all das gibt gewissen<lb/>
 von seinen Leinwänden das solide An-<lb break="no"/>
 sehen von aus Krystallen und Sonne<lb/>
 gemachten Mauern.</p>
-<milestone unit="asterisk"/>
-<p>Wird dieser kraftvolle und wahr-<lb break="no"/>
+                     <milestone unit="asterisk"/>
+                     <p>Wird dieser kraftvolle und wahr-<lb break="no"/>
 hafte Künstler, mit den brutalen Händen<lb/>
 eines Riesen, mit der Nervosität einer<lb/>
 hysterischen Frau, mit der erhellten<lb/>
@@ -135,8 +153,18 @@ lerischen Künstlern <milestone unit="4dots"/> und den Glück-<lb break="no"/>
 lichen des kleinen Volkes, des ganz<lb/>
 kleinen Volkes, die zufällig den wohl-<lb break="no"/>
 thätigen Unterweisungen der Laien ent-<lb break="no"/>
-ronnen sind! <milestone unit="4dots"/></p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/><milestone unit="hr"/><milestone unit="imprint-start"/><p>Verantwortl. Redacteur: R. Dworschak — K. k. Hoftheater-Druckerei, Wien. I., Wollzeile 17. (Verantwortl. A. Rimrich.)</p><milestone unit="untyped-end"/></div>
+ronnen sind! <milestone unit="4dots"/>
+                     </p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="hr"/>
+            <milestone unit="imprint-start"/>
+            <p>Verantwortl. Redacteur: R. Dworschak — K. k. Hoftheater-Druckerei, Wien. I., Wollzeile 17. (Verantwortl. A. Rimrich.)</p>
+            <milestone unit="untyped-end"/>
+         </div>
       </body>
    </text>
 </TEI>

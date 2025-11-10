@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-14_n0291.xml"
-     prev="WR-05-14_n0290.xml"
-     next="WR-05-14_n0292.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-14_n0291.xml" prev="WR-05-14_n0290.xml" next="WR-05-14_n0292.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 13</title>
+                  <idno>WR-05-13_n0265.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 15</title>
+                  <idno>WR-05-15_n0295.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BRYK: GENIE UND ANTICIPATION.</fw></fw><table><row><cell>
-<p rend="no-intend">Sonnenspectrum weit über den sonst un-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BRYK: GENIE UND ANTICIPATION.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Sonnenspectrum weit über den sonst un-<lb break="no"/>
 sichtbaren Theil hinaus von (unbestimm-<lb break="no"/>
 barer) Farbe erfüllt sehen. Freilich be-<lb break="no"/>
 zieht sich dies alles nur auf das subjective<lb/>
@@ -70,7 +85,7 @@ zur Folge hat. Es ist dies die Annahme<lb/>
 einer Zeitachse, welche auf der horizontal<lb/>
 gedachten Zeitachse der Sinnlichkeit senk-<lb break="no"/>
 recht steht.</p>
-<p>Durch diese Hypothese ist zuförderst<lb/>
+                     <p>Durch diese Hypothese ist zuförderst<lb/>
 empfindungsanalytisch nichts Neues postu-<lb break="no"/>
 liert worden, denn in der Empfindung<lb/>
 besitzen wir keine Zeitlinie, sondern nur<lb/>
@@ -97,7 +112,7 @@ füllte Zeitstrecke zu Gebote steht, die den<lb/>
 normalen Zeitverlauf nicht stört, <hi rend="text-spaced">also in<lb/>
 voller Continuität mit der nor-<lb break="no"/>
 malen Zeitstrecke coexistiert</hi>.</p>
-<p>Aus der nicht gar reichhaltigen<lb/>
+                     <p>Aus der nicht gar reichhaltigen<lb/>
 Sammlung der zu Gebote stehenden auto-<lb break="no"/>
 biographischen Aufzeichnungen sei bei dieser<lb/>
 Gelegenheit eine Stelle aus einem Briefe<lb/>
@@ -105,8 +120,9 @@ Mozarts an seine Schwester angeführt, in<lb/>
 welchem er erwähnt, dass er die Fuge zu<lb/>
 einem Präludium zur selben Zeit im Kopfe<lb/>
 ausgearbeitet habe, in der er das Präludium</p>
-</cell><cell>
-<p rend="no-intend">niederschrieb; man kann zwar hier ein-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">niederschrieb; man kann zwar hier ein-<lb break="no"/>
 wenden, dass das Präludium lange vorher<lb/>
 ausgearbeitet war und das mechanische<lb/>
 Aufschreiben des Präludiums nichts anderes<lb/>
@@ -126,7 +142,7 @@ ganz klar vor Augen getreten, also offenbar<lb/>
 als zeitliches Continuum, das scheinbar in<lb/>
 den Gegenwartspunkt zusammengezogen<lb/>
 war.</p>
-<p>Auch das Wesen der polyphonen Musik<lb/>
+                     <p>Auch das Wesen der polyphonen Musik<lb/>
 wird leichter verständlich, wenn man sich<lb/>
 für einen Augenblick an die Hypothese<lb/>
 einer, unabhängig von der wirklichen Zeit-<lb break="no"/>
@@ -138,7 +154,7 @@ struieren, dass es nach Ablauf längerer<lb/>
 Zeitperioden regelmäßig in organischen<lb/>
 Folgebezug zu sich selbst oder anderen<lb/>
 Thematen treten kann.</p>
-<p>Die eben angeführten zwei Beispiele<lb/>
+                     <p>Die eben angeführten zwei Beispiele<lb/>
 sind absichtlich dem musikalischen Schaffen<lb/>
 entlehnt worden, weil das Wesen der Anti-<lb break="no"/>
 cipation hier auf die zeitlichen Verhältnisse<lb/>
@@ -149,7 +165,7 @@ können daher die Intuition nicht in diesem<lb/>
 Maße entbehren, wie die Musik, bei welcher<lb/>
 die Intuition durch die Anticipation geradezu<lb/>
 ersetzt wird.</p>
-<p>Was die Anticipation für den Ablauf<lb/>
+                     <p>Was die Anticipation für den Ablauf<lb/>
 in der Zeit leistet, das bedeutet die In-<lb break="no"/>
 tuition für die Anschauung im Raume.<lb/>
 Im intuitiven Acte erblickt das Genie das<lb/>
@@ -160,7 +176,10 @@ in den untheilbaren Gegenwartspunkt<lb/>
 zusammengezogen. Würde dieser Vorgang<lb/>
 sich nur über die Vergangenheit erstrecken,<lb/>
 so wäre die Intuition nur eine Recapitu-</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-18_n0344.xml"
-     prev="WR-05-18_n0343.xml"
-     next="WR-05-18_n0345.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-18_n0344.xml" prev="WR-05-18_n0343.xml" next="WR-05-18_n0345.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,26 +41,41 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 17</title>
+                  <idno>WR-05-17_n0327.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>AN AUGUST STRINDBERG.<lb/>
-Gedanken von <rs type="person" key="">GUYMIOT</rs> (Paris).</title></ab><table><row><cell>
-<p>Das Universum ist gebildet wie der<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>AN AUGUST STRINDBERG.<lb/>
+Gedanken von <rs type="person" key="">GUYMIOT</rs> (Paris).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Das Universum ist gebildet wie der<lb/>
 Mensch; jedes Sonnensystem bildet<lb/>
 eines der Augen eines Adam Kadmon,<lb/>
 das auf seine Rechnung in den Unermess-<lb break="no"/>
 lichkeiten Akasas lebt.</p>
-<p>Alles, was in unserem Sonnensystem<lb/>
+                     <p>Alles, was in unserem Sonnensystem<lb/>
 vorgeht, ist die Analogie dessen, was<lb/>
 in einem von unseren Augen vorgeht,<lb/>
 nicht mehr. Unter diesem Gesichtspunkte<lb/>
 werden die Bücher von Indien weniger<lb/>
 räthselhaft.</p>
-<p>Unsere Augen athmen das Licht der<lb/>
+                     <p>Unsere Augen athmen das Licht der<lb/>
 Umgebung ein; unser Sonnensystem<lb/>
 thut dasselbe für seine Umgebung; es<lb/>
 hat auch eine Pupille und einen gelben<lb/>
@@ -71,23 +83,23 @@ Fleck, eine krystallinische Feuchtig-<lb break="no"/>
 keit und Pigmentzellen, welche das<lb/>
 durch die Netzhautwände reflectierte<lb/>
 Licht verschlucken.</p>
-<p>Unser Sonnensystem schickt Licht-<lb break="no"/>
+                     <p>Unser Sonnensystem schickt Licht-<lb break="no"/>
 eindrücke nach einem unbekannten<lb/>
 Gehirn, welchem es als Instrument des<lb/>
 Rapports mit seiner Umgebung dient.</p>
-<p>Wir bewohnen ein Auge von Adam<lb/>
+                     <p>Wir bewohnen ein Auge von Adam<lb/>
 Kadmon, nicht mehr, und in diesem<lb/>
 Auge das kleine Organ, das die Erde<lb/>
 ist. Was ist dieses Organ?</p>
-<p>Vielleicht eine Zelle des Trauben-<lb break="no"/>
+                     <p>Vielleicht eine Zelle des Trauben-<lb break="no"/>
 häutchens, das in der Nähe der<lb/>
 Pupille liegt.</p>
-<p>Was wunderbar am Menschen ist,<lb/>
+                     <p>Was wunderbar am Menschen ist,<lb/>
 das ist sein natürliches Geschick, zu<lb/>
 denken, er sei das Centrum des Uni-<lb break="no"/>
 versums, das für ihn ganz allein ge-<lb break="no"/>
 schaffen worden sei.</p>
-<p>Es ist ebenso sehr Wahres in dieser<lb/>
+                     <p>Es ist ebenso sehr Wahres in dieser<lb/>
 Meinung, weil Alles solidarisch ist;<lb/>
 allein es wäre nöthig, sie durch eine<lb/>
 andere Ansicht zu completieren: wenn<lb/>
@@ -95,13 +107,14 @@ alles für den Menschen geschaffen ist,<lb/>
 so ist der Mensch auch für das Ganze<lb/>
 geschaffen, von dem jeder andere Theil<lb/>
 auch central ist wie er.</p>
-<milestone unit="asterisk"/>
-<p>In der Sonne gibt es soviel Licht,<lb/>
+                     <milestone unit="asterisk"/>
+                     <p>In der Sonne gibt es soviel Licht,<lb/>
 dass man das Mysterium des Lichtes,</p>
-</cell><cell>
-<p rend="no-intend">das so intim mit dem Mysterium des Auges<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">das so intim mit dem Mysterium des Auges<lb/>
 verbunden ist, nicht begreifen kann.</p>
-<p>Um das Licht kennen zu lernen,<lb/>
+                     <p>Um das Licht kennen zu lernen,<lb/>
 muss man seine reflectierten Strahlen-<lb break="no"/>
 bündel betrachten. Mit Aufmerksamkeit<lb/>
 wird man nicht die Producte seiner<lb/>
@@ -109,11 +122,11 @@ Einbildung sehen, wie die sensitiven<lb/>
 Visionäre, sondern die Constitution des<lb/>
 Lichtes oder wenigstens seiner Art, sich<lb/>
 zu manifestieren.</p>
-<p>Man muss betrachten ohne vorge-<lb break="no"/>
+                     <p>Man muss betrachten ohne vorge-<lb break="no"/>
 fasste Idee, einzig um zu sehen, sonst<lb/>
 sieht man seine Idee, was der Fall<lb/>
 ist bei allen Visionären.</p>
-<p>Die gewöhnliche Vision geschieht<lb/>
+                     <p>Die gewöhnliche Vision geschieht<lb/>
 durch die Superposition der Phänomene,<lb/>
 welche in den beiden Netzhäuten pas-<lb break="no"/>
 sieren; diese Phänomene sind nicht<lb/>
@@ -121,12 +134,12 @@ identisch und sind trennbar. Man kann<lb/>
 deutlich die leuchtende Scheibe des<lb/>
 rechten Auges und die leuchtende<lb/>
 Scheibe des linken Auges sehen.</p>
-<p>Jede Scheibe ist die Projection einer<lb/>
+                     <p>Jede Scheibe ist die Projection einer<lb/>
 Sphäre und mit Aufmerksamkeit unter-<lb break="no"/>
 scheidet man die beiden Substanzlager,<lb/>
 von denen jedes das Theater der eigenen<lb/>
 Phänomene ist.</p>
-<p>Was im menschlichen Auge ge-<lb break="no"/>
+                     <p>Was im menschlichen Auge ge-<lb break="no"/>
 schieht, geschieht auch im Auge des<lb/>
 Adam Kadmon. Durch das Spiel des<lb/>
 Lichtes in unserem Auge — immer<lb/>
@@ -141,10 +154,13 @@ die Wunder sind der Begriff einer<lb/>
 Zahl, unabhängig von der Serie, welcher<lb/>
 sie angehört; es gibt keine Zahlen,<lb/>
 welche nicht einer Serie angehören.</p>
-<milestone unit="asterisk"/>
-<p>Die Farben sind die Rinden des<lb/>
+                     <milestone unit="asterisk"/>
+                     <p>Die Farben sind die Rinden des<lb/>
 Lichtes, der purpurschwarze Fleck ist</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-01_n0008.xml"
-     prev="WR-05-01_n0007.xml"
-     next="WR-05-01_n0009.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-01_n0008.xml" prev="WR-05-01_n0007.xml" next="WR-05-01_n0009.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,16 +41,34 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 4, Nr. 24</title>
+                  <idno>WR-04-24_n0421.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 2</title>
+                  <idno>WR-05-02_n0023.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">SCHUR: VOM ZUKÜNFTIGEN GEISTE.</fw></fw><table><row><cell>
-<p rend="no-intend">schon in mir beschlossen ist und irgendwie<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">SCHUR: VOM ZUKÜNFTIGEN GEISTE.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">schon in mir beschlossen ist und irgendwie<lb/>
 von mir seinen Ausgang nimmt.</p>
-<p>So kannte ich auch keine Trennung.<lb/>
+                     <p>So kannte ich auch keine Trennung.<lb/>
 Ich konnte vieles — alles verlassen, wo-<lb break="no"/>
 durch ich manchem hart, ja grausam<lb/>
 erschien. In Wahrheit gibt es kein Trennen.<lb/>
@@ -61,7 +76,7 @@ Was ist, ist unauflöslich verbunden. Und<lb/>
 das Gefühl einer Trennung, die Vielen<lb/>
 tiefste Trauer bringt, ist nur Mangel an<lb/>
 Erkenntnis und Bewusstsein.</p>
-<p>Es gibt keine Trennung, wie es keine<lb/>
+                     <p>Es gibt keine Trennung, wie es keine<lb/>
 ewigen Wunden gibt. So fest war dieser<lb/>
 Gemeinsamkeitszwang, dass ich über alle<lb/>
 Irrungen und Stürme immer wieder dahin-<lb break="no"/>
@@ -69,56 +84,57 @@ trieb, als Mittel, mich selbst zu befreien;<lb/>
 die einsamen Wege, die ich gieng, führten<lb/>
 schließlich alle zu dem einen Ziele, dem<lb/>
 höchsten Glück: zu der Gemeinsamkeit.</p>
-<p>Denn alles Glück, alle Zukunft ist in<lb/>
+                     <p>Denn alles Glück, alle Zukunft ist in<lb/>
 den Worten beschlossen: Einheit —<lb/>
 Gemeinsamkeit. Oder noch klarer und<lb/>
 tiefer: ich und die Einheit — ich und die<lb/>
 Gemeinsamkeit.</p>
-<p>Beides ist gleichbedeutend und geht<lb/>
+                     <p>Beides ist gleichbedeutend und geht<lb/>
 in einander auf.</p>
-<p>Und in dem Worte Gemeinsamkeit<lb/>
+                     <p>Und in dem Worte Gemeinsamkeit<lb/>
 liegt nicht nur die Menschheit, sondern<lb/>
 die ganze Entwicklung des Lebens in jeder<lb/>
 Äußerungsform.</p>
-<p>Ein Baum steht mit tausend Wurzeln<lb/>
+                     <p>Ein Baum steht mit tausend Wurzeln<lb/>
 im Boden, saugt seine Nahrung aus allem,<lb/>
 trägt oben die Krone.</p>
-<p>Hinter diesem Gemeinsamkeitszwang<lb/>
+                     <p>Hinter diesem Gemeinsamkeitszwang<lb/>
 liegt die ganze Welt der geheimen Zu-<lb break="no"/>
 sammenhänge, die allem Leben erst Grund<lb/>
 und wahre Bedeutung gibt.</p>
-<p>Der Verstand, die Kraft des Denkens<lb/>
+                     <p>Der Verstand, die Kraft des Denkens<lb/>
 war mir nie der Gott, der er Vielen, den<lb/>
 Meisten, war. Ich sah Viele ihre Kraft<lb/>
 dafür hingeben; nur Wenigen war es<lb/>
 Spiel, Lust und Glück.</p>
-<p>Alles, was ich dachte, konnte mir<lb/>
+                     <p>Alles, was ich dachte, konnte mir<lb/>
 höchstens die Bestätigung dessen geben,<lb/>
 was ich fühlte.</p>
-<p>Nie hatte ich den Drang, mein Leben<lb/>
+                     <p>Nie hatte ich den Drang, mein Leben<lb/>
 geräuschvoll, groß zu gestalten. Zuweilen<lb/>
 gab es mir wohl Freude; aber ich pflegte<lb/>
 diese Neigung, die mir eine fremde war,<lb/>
 nicht.</p>
-<p>Ich vermochte Glück und Unglück<lb/>
+                     <p>Ich vermochte Glück und Unglück<lb/>
 nicht zu unterscheiden. Gab mir Schmerz<lb/>
 Glück, so gab mir Freude Unglück oder<lb/>
 Gleichgiltigkeit.</p>
-</cell><cell>
-<p>Grenzen beider Empfindungen konnte<lb/>
+                  </cell>
+                  <cell>
+                     <p>Grenzen beider Empfindungen konnte<lb/>
 ich nicht bestimmen.</p>
-<p>Wenn ich auch Schmerzen und Unglück<lb/>
+                     <p>Wenn ich auch Schmerzen und Unglück<lb/>
 kannte und Entbehrung — es lag ein<lb/>
 Lächeln darüber.</p>
-<p>Das äußere Leben zog mich nicht an;<lb/>
+                     <p>Das äußere Leben zog mich nicht an;<lb/>
 nur als Bethätigung des inneren Werdens.<lb/>
 Was ich als sicherste Aufgabe fühlte: die<lb/>
 Erforschung alles Innern, alles Zusammen-<lb break="no"/>
 hanges und die Umformung des Gefun-<lb break="no"/>
 denen in sichtbare Zeichen.</p>
-<p>War mir vieles wohl noch verschlossen;<lb/>
+                     <p>War mir vieles wohl noch verschlossen;<lb/>
 kein Blick konnte alles erreichen.</p>
-<p>Nur in vorüberhuschenden Momenten<lb/>
+                     <p>Nur in vorüberhuschenden Momenten<lb/>
 öffnete sich der Schacht der tiefsten<lb/>
 Empfindungen. Zu warten, bis dieser<lb/>
 Augenblick der Offenbarung kam, das<lb/>
@@ -130,36 +146,39 @@ einen, ewig und unauflöslich. Ewige<lb/>
 Wahrheit zu finden. Was ich fand, zeich-<lb break="no"/>
 nete ich auf. Alles sollte mir Baustein sein<lb/>
 für die Zukunft.</p>
-<p>So schön, so allen Lohnes wert erschien<lb/>
+                     <p>So schön, so allen Lohnes wert erschien<lb/>
 mir jedes Sein.</p>
-<p>Was ist, ist schön.</p>
-<p>Man könnte ebenso sagen: was ist,<lb/>
+                     <p>Was ist, ist schön.</p>
+                     <p>Man könnte ebenso sagen: was ist,<lb/>
 ist wahr.</p>
-<p>Der tiefste Kern der Schönheit ist<lb/>
+                     <p>Der tiefste Kern der Schönheit ist<lb/>
 Wahrheit.</p>
-<p>Mein ganzes Leben sah nur das Ziel,<lb/>
+                     <p>Mein ganzes Leben sah nur das Ziel,<lb/>
 diese Schönheit überall zu finden. Und<lb/>
 ich fand sie überall.</p>
-<p>Mit einem unendlich starken Glücks-<lb break="no"/>
+                     <p>Mit einem unendlich starken Glücks-<lb break="no"/>
 gefühl sage ich: Ich wurde nie getäuscht.</p>
-<p>Ich empfand und empfand nur.</p>
-<p>Es gab für mich nichts, was ich erst<lb/>
+                     <p>Ich empfand und empfand nur.</p>
+                     <p>Es gab für mich nichts, was ich erst<lb/>
 abschütteln musste, um frei zu werden.<lb/>
 Alles, was war, war gerechtfertigt durch<lb/>
 seine Existenz. Denken war mir eine<lb/>
 Spielerei.</p>
-<p>Wie es keinen Zwiespalt in mir gab,<lb/>
+                     <p>Wie es keinen Zwiespalt in mir gab,<lb/>
 so gab es kein Urtheil. Was ich sah,<lb/>
 war gut, weil es war.</p>
-<p>Und alles, was war, schien mir eine<lb/>
+                     <p>Und alles, was war, schien mir eine<lb/>
 Form meines Ich, die mir als solche ver-<lb break="no"/>
 traut sein musste.</p>
-<p>Ich freue mich, wie ich jetzt all das<lb/>
+                     <p>Ich freue mich, wie ich jetzt all das<lb/>
 so klar übersehe. Ich wusste dunkel, dass<lb/>
 mir einst alles klar werden würde und<lb/>
 dass ich dann alles segnen könnte, da ich<lb/>
 sah, wie alles gut war. Dunkel war es</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

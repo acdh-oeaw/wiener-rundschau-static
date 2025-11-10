@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-15_n0308.xml"
-     prev="WR-05-15_n0307.xml"
-     next="WR-05-15_n0309.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-15_n0308.xml" prev="WR-05-15_n0307.xml" next="WR-05-15_n0309.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 14</title>
+                  <idno>WR-05-14_n0279.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 16</title>
+                  <idno>WR-05-16_n0313.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">SPRENGEL: SIGBJÖRN OBSTFELDERS »TAGEBUCH EINES GEISTLICHEN«.</fw></fw><table><row><cell>
-<p>rechte Priester? Ja, es ist Religion in der<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">SPRENGEL: SIGBJÖRN OBSTFELDERS »TAGEBUCH EINES GEISTLICHEN«.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>rechte Priester? Ja, es ist Religion in der<lb/>
 Wissenschaft. Sie macht den Raum weiter<lb/>
 und weiter, nach oben und nach innen.<lb/>
 Sie bleibt niemals stehen, sie sucht und<lb/>
@@ -105,8 +120,9 @@ Sieh’! In dieser Secunde ist das! Diese<lb/>
 Secunde ist Jahrtausende! Diese Secunde<lb/>
 ist Jahrmillionen! Sieh’ bloß die langen,<lb/>
 geraden Bande, von Glied zu Glied, die</p>
-</cell><cell>
-<p rend="no-intend">am leichtesten für das Menschenauge sind,<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">am leichtesten für das Menschenauge sind,<lb/>
 sieh’ sie, wenn sie in den Längen der<lb/>
 Myriaden beginnen, so klein beginnen,<lb/>
 so klein zu zittern, so schwach zu wollen,<lb/>
@@ -121,7 +137,7 @@ Wogen gegen Bilder. Wie die Mücken-<lb break="no"/>
 schwärme, in denen jede Mücke tanzt,<lb/>
 während der ganze Schwarm lautlos dahin-<lb break="no"/>
 schwebt«.</p>
-<p>Sind das nicht die Resultate, zu denen<lb/>
+                     <p>Sind das nicht die Resultate, zu denen<lb/>
 die moderne Wissenschaft gekommen ist,<lb/>
 mit eines großen Dichters Intuition ge-<lb break="no"/>
 sehen und im Brennspiegel einer herr-<lb break="no"/>
@@ -160,7 +176,10 @@ Jahrtausenden hört er in dessen Windungen,<lb/>
 und er sieht glühende Welten in seinem<lb/>
 Blute rollen; Welten sieht er verbrennen,<lb/>
 um eine einzige Schwingung in seiner</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

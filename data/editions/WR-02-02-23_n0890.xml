@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-23_n0890.xml"
-     prev="WR-02-02-23_n0889.xml"
-     next="WR-02-02-23_n0891.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-23_n0890.xml" prev="WR-02-02-23_n0889.xml" next="WR-02-02-23_n0891.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,13 +42,42 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 22</title>
+                  <idno>WR-02-02-22_n0825.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 24</title>
+                  <idno>WR-02-02-24_n0905.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">890</fw><fw type="ctext">RILKE.</fw></fw><p rend="no-intend">Naumburg und Riemerschmied reden in ihnen über die Dinge. Die<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">890</fw>
+               <fw type="ctext">RILKE.</fw>
+            </fw>
+            <p rend="no-intend">Naumburg und Riemerschmied reden in ihnen über die Dinge. Die<lb/>
 Dinge selbst kommen noch kaum zu Wort. Daneben hat Fräulein<lb/>
 M. Kirschner ein gelbes Zimmer gedichtet. Dann ist noch ein Saal da.<lb/>
 Rothe Buche, grüngebeizte Eiche und graues Vogelahorn in den<lb/>
@@ -60,7 +86,9 @@ beweist die Firma W. O. Dressler und F. Hanel durch die fein-<lb break="no"/>
 gewählten Farben guten Geschmack. Das Allzusonntägliche dieser Dinge<lb/>
 fällt nicht ihr zur Last. Man merkt hier: die Zeit ist noch nicht er-<lb break="no"/>
 füllt. Man baut noch Triumphbögen für das Neue. Später wird man<lb/>
-ihm Hütten bauen.</p><milestone unit="asterismUp"/><p>Von einzelnen Dingen möchte ich noch A. Endells feinen Schrank<lb/>
+ihm Hütten bauen.</p>
+            <milestone unit="asterismUp"/>
+            <p>Von einzelnen Dingen möchte ich noch A. Endells feinen Schrank<lb/>
 mit den schönen Beschlägen erwähnen, der mir jetzt aber nach Van<lb/>
 der Velde zu »geschmückt« erscheint. Das ist das Merkwürdige: bei<lb/>
 dem Belgier wirkt sogar jede seltene Verzierung organisch, wie von<lb/>
@@ -72,7 +100,8 @@ redselige Möbel. Eines scheint auf das andere eifersüchtig und es kommt<lb/>
 zu keiner Gesammtwirkung. Und das müsste in den kleineren Räumen<lb/>
 besonders angestrebt werden: Zimmer zu schaffen, die so sind, dass<lb/>
 man in ihnen nichts vermisst und nichts übersieht. Man müsste em-<lb break="no"/>
-pfinden: es ist alles da.</p><p>In solchen Zimmern dann die Bilder vertheilen. Jedem das Seine.<lb/>
+pfinden: es ist alles da.</p>
+            <p>In solchen Zimmern dann die Bilder vertheilen. Jedem das Seine.<lb/>
 Curt Stöving z. B. hat Stephan George gezeichnet. Es ist das feinste<lb/>
 Porträt, das ich von Stöving kenne. Lorenzo il magnifico in einem<lb/>
 Traume Burne-Jones’: so etwa. Um solche Bilder muss man Zimmer<lb/>
@@ -86,12 +115,14 @@ ein paar Farbenfragezeichen des Herrn von Habermann neben Hugo<lb/>
 Vogel, Dora Hitz u. a. hängen. In diesem Raum kann man zu keinem<lb/>
 ruhigen Schauen kommen; es ist viel Gutes da, aber vor allem ein<lb/>
 Treffliches, Grosses, das einem die Augen füllt wie ein Sonnenunter-<lb break="no"/>
-gang. Man sieht lange nichts hernach.</p><p>Max Klinger, Plastik, ein weiblicher Act. Das eine Bein hoch<lb/>
+gang. Man sieht lange nichts hernach.</p>
+            <p>Max Klinger, Plastik, ein weiblicher Act. Das eine Bein hoch<lb/>
 aufgestützt, den Körper leicht geneigt. Die Linien klar und sicher. Das<lb/>
 Material warm im Ton, von feinen Adern belebter Stein. Man muss<lb/>
 diesen Arm sehen, der sich eng an den Rücken legt, und sehen wie<lb/>
 die Ferse des hochgehobenen Fusses sich leise eindrückt in das andere<lb/>
-Bein. Keine Farbe drängt sich ein, die dem Stein nicht eignet. Nur</p></div>
+Bein. Keine Farbe drängt sich ein, die dem Stein nicht eignet. Nur</p>
+         </div>
       </body>
    </text>
 </TEI>

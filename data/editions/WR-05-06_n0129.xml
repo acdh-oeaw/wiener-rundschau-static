@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-06_n0129.xml"
-     prev="WR-05-06_n0128.xml"
-     next="WR-05-06_n0130.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-06_n0129.xml" prev="WR-05-06_n0128.xml" next="WR-05-06_n0130.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,19 +41,38 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 5</title>
+                  <idno>WR-05-05_n0097.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 7</title>
+                  <idno>WR-05-07_n0141.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">KUHLENBECK: SCHOPENHAUER UND DER INDIVIDUALISMUS.</fw></fw><table><row><cell>
-<p rend="no-intend"><hi rend="text-spaced">im Willen des Einzelnen wurzelt</hi>;<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KUHLENBECK: SCHOPENHAUER UND DER INDIVIDUALISMUS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">
+                        <hi rend="text-spaced">im Willen des Einzelnen wurzelt</hi>;<lb/>
 denn sein <hi rend="text-spaced">Charakter</hi> selbst ist indi-<lb break="no"/>
 viduell. Wie tief nun aber hier ihre<lb/>
 Wurzeln gehen, gehört zu den Fragen,<lb/>
 deren Beantwortung ich nicht unternehme.«</p>
-<p>Zum Verständnis dieser Bemerkung<lb/>
+                     <p>Zum Verständnis dieser Bemerkung<lb/>
 diene, dass für Schopenhauer Raum und<lb/>
 Zeit, als Bedingungen der Vielheit, das<lb/>
 Principium individuationis bilden, dass er<lb/>
@@ -66,9 +82,9 @@ hält, also für bloße Attribute der Erschei-<lb break="no"/>
 nung, nicht des »Ding an sich«, dass<lb/>
 mithin das Ding an sich im Grunde un-<lb break="no"/>
 räumlich und unzeitlich — also Eins ist.</p>
-<p>Aber wenn man aus der sogenannten<lb/>
+                     <p>Aber wenn man aus der sogenannten<lb/>
 Idealität von Raum und Zeit auf die<lb/>
-<hi rend="text-spaced">Einheit</hi>, richtiger <hi rend="text-spaced">Einzigkeit</hi>, der<lb/>
+                        <hi rend="text-spaced">Einheit</hi>, richtiger <hi rend="text-spaced">Einzigkeit</hi>, der<lb/>
 »Dinge an sich« oder wie immer man<lb/>
 das <hi rend="text-spaced">Wesen</hi> der Welt bezeichnen will,<lb/>
 schließt, so verwechselt man die Folge<lb/>
@@ -78,7 +94,8 @@ wenn man sich genau besinnt, sieht man<lb/>
 bald ein, dass schon die Frage, was sie<lb/>
 außerdem noch sein sollten, unsinnig ist.<lb/>
 Aber diese Anschauungsformen sind doch<lb/>
-nicht etwa früher gegeben, als es <hi rend="text-spaced">etwas</hi><lb/>
+nicht etwa früher gegeben, als es <hi rend="text-spaced">etwas</hi>
+                        <lb/>
 »anzuschauen« gibt, so dass nun die Einzel-<lb break="no"/>
 Erscheinungen in ihnen Platz nähmen,<lb/>
 wie in einem vorher für sie geschaffenen<lb/>
@@ -87,7 +104,7 @@ jenem <hi rend="text-spaced">naiven</hi> Realismus anheimfallen,<lb/>
 den Kant in der Kritik der reinen Ver-<lb break="no"/>
 nunft widerlegen wollte. Erst die <hi rend="text-spaced">Ver-<lb break="no"/>
 schiedenheit</hi> der Anschauung, das<lb/>
-<hi rend="text-spaced">Auseinandertreten</hi> der Eins in die<lb/>
+                        <hi rend="text-spaced">Auseinandertreten</hi> der Eins in die<lb/>
 Vielheit bedingt Raum und Zeit. Prin-<lb break="no"/>
 cipium heißt Ausgangspunkt, Ursprung,<lb/>
 Anfang. Also kann unmöglich Raum und<lb/>
@@ -97,7 +114,8 @@ gestaltungen des Seins sein — umge-<lb break="no"/>
 kehrt wird ein Schuh daraus: Weil die<lb/>
 Eins keine bloße einfache Eins, weil sie<lb/>
 nicht »einzig« bleibt, weil sie sich als<lb/>
-»Wille zum Leben« in <hi rend="text-spaced">unendlicher</hi><lb/>
+»Wille zum Leben« in <hi rend="text-spaced">unendlicher</hi>
+                        <lb/>
 Fülle, der des <hi rend="text-spaced">Sonderseins</hi>, <hi rend="text-spaced">differen-<lb break="no"/>
 ciert</hi> und lediglich als <hi rend="text-spaced">Einheit</hi>, das<lb/>
 heißt als beherrschende Gesammtkraft<lb/>
@@ -105,8 +123,9 @@ trotz dieser Sonderung einen gewissen<lb/>
 Wirkungs-Zusammenhang zwischen den<lb/>
 unendlich vielen Einheiten aufrechthält,<lb/>
 als Monas monadum, <hi rend="text-spaced">erscheint</hi> nunmehr</p>
-</cell><cell>
-<p rend="no-intend">Raum und Zeit als nothwendige und all-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Raum und Zeit als nothwendige und all-<lb break="no"/>
 gemeine Bedingung der Individuation<lb/>
 oder Sondergestalt. Gäbe es nicht <hi rend="text-spaced">ver-<lb break="no"/>
 schiedene</hi> Erscheinungen für den<lb/>
@@ -116,7 +135,7 @@ gelangen; gäbe es keinen Wechsel der<lb/>
 Empfindungen, wir würden niemals das<lb/>
 Wort und also auch keine Anschauung<lb/>
 der <hi rend="text-spaced">Zeit</hi> bilden.</p>
-<p>Alles ist Eins (): der Indivi-<lb break="no"/>
+                     <p>Alles ist Eins (): der Indivi-<lb break="no"/>
 dualismus leugnet diesen Satz nicht, er<lb/>
 führt uns vielmehr erst in sein tieferes<lb/>
 Verständnis ein, indem er die Entstehung<lb/>
@@ -129,7 +148,8 @@ dieses <hi rend="text-spaced">Eins und Alles</hi>, dieses <lb/>
 endlich Verschiedenes, ist also von Anfang<lb/>
 an ein <hi rend="text-spaced">sich unendlich in sich selbst<lb/>
 Unterscheidendes</hi>, <lb/>
-. Diese <hi rend="text-spaced">Weltformel Heraklits</hi><lb/>
+. Diese <hi rend="text-spaced">Weltformel Heraklits</hi>
+                        <lb/>
 löst alle Antinomien, in die Schopenhauer,<lb/>
 weil er im abstracten Monismus der Formel:<lb/>
  stecken blieb, sich überall<lb/>
@@ -141,7 +161,8 @@ der Möglichkeiten aller Lebensformen, also<lb/>
 Wille zur Differenzierung und Sonderung.<lb/>
 Da die Möglichkeiten unendlich sind, so<lb/>
 ist der Wille zum Leben gleichbedeutend<lb/>
-mit Wille zur Freiheit im <hi rend="text-spaced">positiven</hi><lb/>
+mit Wille zur Freiheit im <hi rend="text-spaced">positiven</hi>
+                        <lb/>
 Sinne. <hi rend="text-spaced">Freiheit ist das Wesen der<lb/>
 Gesammt-Welt</hi>. Diese Erkenntnis gibt<lb/>
 uns auch die Erklärung des Bösen und der<lb/>
@@ -157,10 +178,13 @@ Werk sein. Um der Freiheit willen nehmen<lb/>
 wir die Möglichkeit in den Kauf, dass<lb/>
 in dieser Selbstschöpfung Wesen entstehen,<lb/>
 die ihrem Schöpfer und »Herrgott«, d. h.<lb/>
-<hi rend="text-spaced">sich selbst</hi> keine Ehre machen. Als<lb/>
+                        <hi rend="text-spaced">sich selbst</hi> keine Ehre machen. Als<lb/>
 Individualisten aber lehnen wir es ab,<lb/>
 uns mit ihnen zu identificieren und uns</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

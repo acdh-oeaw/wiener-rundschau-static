@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-11_n0235.xml"
-     prev="WR-05-11_n0234.xml"
-     next="WR-05-11_n0236.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-11_n0235.xml" prev="WR-05-11_n0234.xml" next="WR-05-11_n0236.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 10</title>
+                  <idno>WR-05-10_n0205.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 12</title>
+                  <idno>WR-05-12_n0249.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BLEIBTREU: DIALOG ÜBER ESOTERISCHEN BUDDHISMUS.</fw></fw><table><row><cell>
-<p rend="no-intend">keit eines »Himmels« für unausgereifte<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BLEIBTREU: DIALOG ÜBER ESOTERISCHEN BUDDHISMUS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">keit eines »Himmels« für unausgereifte<lb/>
 Erdenwürmer, die aus dem Mutterschoß<lb/>
 einen Passepartout für »Unsterblichkeit«<lb/>
 nach Ablauf einer kürzeren oder längeren<lb/>
@@ -68,7 +83,7 @@ Anschauung nothwendig in die Brüche<lb/>
 geht. Für höhere »Moral« der Weltord-<lb break="no"/>
 nung kann nur Karma als logische<lb/>
 Grundlage gelten.</p>
-<p>— Das klingt allerdings viel logischer,<lb/>
+                     <p>— Das klingt allerdings viel logischer,<lb/>
 als mein Katechismus. Denn der faselt<lb/>
 plötzlich davon, dass »Verdienst und Schuld,<lb/>
 Gerechtigkeit und Ungerechtigkeit eigent-<lb break="no"/>
@@ -80,7 +95,7 @@ ten«? Phrase und Schwindel! Denn vorher<lb/>
 war ja alles »relativ«, und wenn »Gerech-<lb break="no"/>
 tigkeit« nur bildlicher Ausdruck, beruht<lb/>
 trotzdem die Welt auf Gerechtigkeit?</p>
-<p>—Wenn man mit solcher Haarspalterei<lb/>
+                     <p>—Wenn man mit solcher Haarspalterei<lb/>
 verfährt und jede einzelne Wendung seiht<lb/>
 und siebt, kann niemandens Philosophie<lb/>
 die Probe bestehen, am wenigsten die des<lb/>
@@ -105,8 +120,9 @@ den Begriff der »Gerechtigkeit« festhalten,<lb/>
 falls wir nicht eine aus dem Ich-Wahn<lb/>
 geborene kleinliche Auslegung damit ver-<lb break="no"/>
 binden. Der Katechismus hätte daher aus-</p>
-</cell><cell>
-<p rend="no-intend">drücklich feststellen sollen, dass »Gerechtig-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">drücklich feststellen sollen, dass »Gerechtig-<lb break="no"/>
 keit« nur insofern ein verfehlter Ausdruck<lb/>
 sei, als eben <hi rend="text-spaced">Gerechtigkeit und Noth-<lb break="no"/>
 wendigkeit</hi> (»nothwendige Folge«) in<lb/>
@@ -130,15 +146,15 @@ Ich und All. Dies »Rechte« ist also kein<lb/>
 ethisches Verdienst, sondern eine noth-<lb break="no"/>
 wendige Folge einer günstigen Karma-<lb break="no"/>
 Evolution.</p>
-<p>— Und dies »Rechte« soll durch<lb/>
+                     <p>— Und dies »Rechte« soll durch<lb/>
 »Vernichtung des Lebenswillens« erzielt<lb/>
 werden — auch des guten Willens, der<lb/>
 sich aufs Nirwana richtet?</p>
-<p>— Wie oft soll ich sagen, dass hier<lb/>
+                     <p>— Wie oft soll ich sagen, dass hier<lb/>
 wieder die greuliche Verwechslung von<lb/>
 »Leben« und »Ich« herrscht! Setzen Sie<lb/>
 »Ich-Willens«, so ist jeder Zwiespalt gelöst.</p>
-<p>— Nun hören Sie folgenden Blödsinn:<lb/>
+                     <p>— Nun hören Sie folgenden Blödsinn:<lb/>
 »Gute Thaten aber rechnen nicht zum<lb/>
 Karma, werden uns <hi rend="text-spaced">nicht</hi> angerechnet,<lb/>
 von ihnen sind wir innerlich losgelöst,<lb/>
@@ -151,7 +167,7 @@ seines Tugendverdienstes genießt« — nun<lb/>
 auf einmal wieder »Verdienst« »guter<lb/>
 Thaten«, die uns jedoch »nicht anhaften«!<lb/>
 Löse mir, o Örindur!</p>
-<p>— Nun ja, das ist allerdings intellectuelle<lb/>
+                     <p>— Nun ja, das ist allerdings intellectuelle<lb/>
 Unsauberkeit und Unrechtschaffenheit, mit<lb/>
 beliebiger Umdeutung derselben Begriffe.<lb/>
 Beschränkung des Karma nur auf die<lb/>
@@ -160,7 +176,10 @@ Im Gegentheil, wohl haften uns die guten<lb/>
 Thaten an, ja erst recht, bilden den<lb/>
 wesentlichsten Bestandtheil des künftigen<lb/>
 Karma der nächsten Wiedergeburt. »Die</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

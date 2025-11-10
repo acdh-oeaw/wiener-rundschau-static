@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-09_n0192.xml"
-     prev="WR-05-09_n0191.xml"
-     next="WR-05-09_n0193.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-09_n0192.xml" prev="WR-05-09_n0191.xml" next="WR-05-09_n0193.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 8</title>
+                  <idno>WR-05-08_n0159.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 10</title>
+                  <idno>WR-05-10_n0205.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">MALLARMÉ: AUF DEM JAHRMARKT.</fw></fw><table><row><cell>
-<p rend="no-intend">rasch etwas geschwatzt und auseinander-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MALLARMÉ: AUF DEM JAHRMARKT.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">rasch etwas geschwatzt und auseinander-<lb break="no"/>
 gesetzt und den Zuschauern mit den<lb/>
 zweifelnden Mienen ihre Sicherheit<lb/>
 wiedergegeben (die, wenn sie den Sinn<lb/>
@@ -63,37 +78,45 @@ und überlegene Erläuterungen einzu-<lb break="no"/>
 tauschen), kurz, Jedem die Überzeugung<lb/>
 beigebracht, dass er nicht geprellt<lb/>
 werde!</p>
-<p>Ein letzter Blick auf das leuchtende<lb/>
+                     <p>Ein letzter Blick auf das leuchtende<lb/>
 Haar, auf dem ein Crêpe-Hut lodert<lb/>
 und dann in üppigem Blumenschmuck<lb/>
 verblasst, hortensienfarbig wie das<lb/>
 stattliche Kleid, das sich über einem<lb/>
 vorgeschobenen Schuh von gleicher<lb/>
 Farbe emporrafft.</p>
-<p>Dann:</p>
-<milestone unit="verse-start"/>
-<lg><l>La chevelure vol d’une flamme à</l>
-<l>l’extrême</l>
-<l>Occident de désirs pour la tout déployer</l>
-<l>Se pose (je dirais mourir un diadème),</l>
-<l>Vers le front couronné son ancien foyer.</l></lg>
-<lg><l>Mais sans or soupirer que cette vive nue</l>
-<l>L’ignition du feu toujours intérieur</l>
-<l>Originellement la seule continue</l>
-<l>Dans le joyau de l’oeil véridique ou</l>
-<l>rieur.</l></lg>
-<lg><l>Une nudité de héros tendre diffame</l>
-<l>Celle qui ne mouvant astre ni feux au</l>
-<l>doigt</l>
-<l>Rien qu’ à simplifier avec gloire la</l>
-<l>femme</l>
-<l>Accomplit par son chef fulgurante</l>
-<l>l’exploit</l></lg>
-<lg><l>De semer de rubis le doute qu’ elle</l>
-<l>écorche</l>
-<l>Ainsi qu’ une joyeuse et tutélaire torche.</l></lg>
-<milestone unit="untyped-end"/>
-<p>Da meine Helferin in der Gestalt<lb/>
+                     <p>Dann:</p>
+                     <milestone unit="verse-start"/>
+                     <lg>
+                        <l>La chevelure vol d’une flamme à</l>
+                        <l>l’extrême</l>
+                        <l>Occident de désirs pour la tout déployer</l>
+                        <l>Se pose (je dirais mourir un diadème),</l>
+                        <l>Vers le front couronné son ancien foyer.</l>
+                     </lg>
+                     <lg>
+                        <l>Mais sans or soupirer que cette vive nue</l>
+                        <l>L’ignition du feu toujours intérieur</l>
+                        <l>Originellement la seule continue</l>
+                        <l>Dans le joyau de l’oeil véridique ou</l>
+                        <l>rieur.</l>
+                     </lg>
+                     <lg>
+                        <l>Une nudité de héros tendre diffame</l>
+                        <l>Celle qui ne mouvant astre ni feux au</l>
+                        <l>doigt</l>
+                        <l>Rien qu’ à simplifier avec gloire la</l>
+                        <l>femme</l>
+                        <l>Accomplit par son chef fulgurante</l>
+                        <l>l’exploit</l>
+                     </lg>
+                     <lg>
+                        <l>De semer de rubis le doute qu’ elle</l>
+                        <l>écorche</l>
+                        <l>Ainsi qu’ une joyeuse et tutélaire torche.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>Da meine Helferin in der Gestalt<lb/>
 der lebendigen Allegorie ihren Posten<lb/>
 bereits verließ, vielleicht weil es mir<lb/>
 an fernerer Beredsamkeit gebrach, und<lb/>
@@ -102,8 +125,9 @@ muthig herabstieg, so fuhr ich, nun auf<lb/>
 gleicher Stufe mit meinen Zuhörern<lb/>
 stehend, und um ihre Verblüffung über<lb/>
 den plötzlichen Abbruch der Vorstellung</p>
-</cell><cell>
-<p rend="no-intend">durch ein Zurückfallen in den geschäfts-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">durch ein Zurückfallen in den geschäfts-<lb break="no"/>
 mäßigen Ton abzuschneiden, folgender-<lb break="no"/>
 maßen fort: »Ich mache Sie darauf<lb/>
 aufmerksam, meine Herren und Damen,<lb/>
@@ -118,7 +142,7 @@ einem der ursprünglichen Züge der<lb/>
 Frau steht, und das ist auch hin-<lb break="no"/>
 reichend, wie Ihre freundliche Zustim-<lb break="no"/>
 mung mir bestätigt«.</p>
-<p>Ein Verstummen aller Beifallsbezei-<lb break="no"/>
+                     <p>Ein Verstummen aller Beifallsbezei-<lb break="no"/>
 gungen, mit Ausnahme einiger ver-<lb break="no"/>
 worrener »Ja wohl« oder »Gewiss«<lb/>
 aus mehreren Kehlen, sowie von Klatsch-<lb break="no"/>
@@ -131,7 +155,7 @@ noch erwartungsvoll zurückgeblieben<lb/>
 und träumte davon, mit seinen weißen<lb/>
 Handschuhen die stolzen Glieder an-<lb break="no"/>
 zutasten.</p>
-<p>»Vielen Dank«, sagte gütigst die<lb/>
+                     <p>»Vielen Dank«, sagte gütigst die<lb/>
 Theuere, nachdem sie einen frischen<lb/>
 Lufthauch, den ihr die Sterne oder die<lb/>
 Blätter der Bäume zugesandt, einge-<lb break="no"/>
@@ -142,9 +166,10 @@ hellen Klang ihrer Stimme zurückzu-<lb break="no"/>
 gewinnen: »Ich nehme von hier die<lb/>
 Erinnerung an Worte mit fort, die man<lb/>
 nie wieder vergisst«.</p>
-<p>»O! bloße Gemeinplätze einer<lb/>
-Ästhetik <milestone unit="3dots"/></p>
-<p>»Die Sie, lieber Freund, vielleicht<lb/>
+                     <p>»O! bloße Gemeinplätze einer<lb/>
+Ästhetik <milestone unit="3dots"/>
+                     </p>
+                     <p>»Die Sie, lieber Freund, vielleicht<lb/>
 nicht vorgebracht hätten, zu denen<lb/>
 Ihnen der Vorwand gefehlt hätte in<lb/>
 der Einsamkeit unseres Wagens —<lb/>
@@ -155,9 +180,12 @@ Faustschlag der ungeduldigen Menge,<lb/>
 der man um jeden Preis und rasch<lb/>
 etwas verkünden muss, wär’ es auch<lb/>
 nur ein Traum —«</p>
-<p>»Der sich seiner selbst nicht bewusst<lb/>
+                     <p>»Der sich seiner selbst nicht bewusst<lb/>
 ist und sich vor lauter Angst nackt</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

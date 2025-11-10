@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-06_n0118.xml"
-     prev="WR-05-06_n0117.xml"
-     next="WR-05-06_n0119.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-06_n0118.xml" prev="WR-05-06_n0117.xml" next="WR-05-06_n0119.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,18 +41,37 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 5</title>
+                  <idno>WR-05-05_n0097.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 7</title>
+                  <idno>WR-05-07_n0141.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>DIE GEHEIMNISSE DER BLUMEN.<lb/>
-Von <rs type="person" key="">AUGUST STRINDBERG</rs> (Lund).</title></ab><table><row><cell>
-<p>Warum haben die Blüten der Pflanzen<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIE GEHEIMNISSE DER BLUMEN.<lb/>
+Von <rs type="person" key="">AUGUST STRINDBERG</rs> (Lund).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Warum haben die Blüten der Pflanzen<lb/>
 im allgemeinen eine andere Farbe als die<lb/>
 Blätter? fragst du, fragselige Jugend.</p>
-<p>Ich könnte dir auf mannigfache Weise<lb/>
+                     <p>Ich könnte dir auf mannigfache Weise<lb/>
 antworten und könnte die Frage auch<lb/>
 unbeantwortet lassen, indem ich dir so<lb/>
 antworte: die Butterblume ist gelb, weil<lb/>
@@ -63,7 +79,7 @@ sie gelb geworden ist. Das will sagen:<lb/>
 weil die Butterblume gelb ist, braucht es<lb/>
 keinen besonderen praktischen Zweck mit<lb/>
 dieser Gelbheit zu haben.</p>
-<p>Als die Phanerogamen ihre Blätter<lb/>
+                     <p>Als die Phanerogamen ihre Blätter<lb/>
 oder Schösslinge zu Blütentheilen zu ent-<lb break="no"/>
 wickeln begannen, konnte es ja geschehen,<lb/>
 dass diese Anstrengung, die Fortpflanzungs-<lb break="no"/>
@@ -77,7 +93,7 @@ der Herbstluft ist, mehr Säure anzusetzen,<lb/>
 welche die Ursache ist, oder ob es andere<lb/>
 Ursachen gibt, aber irgendeinen Zweck<lb/>
 in der Farbenänderung spüren wir nicht.</p>
-<p>Neue Naturforscher, welche nicht an<lb/>
+                     <p>Neue Naturforscher, welche nicht an<lb/>
 einen bewussten Schöpfer und eine ab-<lb break="no"/>
 sichtliche Schöpfung glauben, haben ihre<lb/>
 besonderen Meinungen von den pracht-<lb break="no"/>
@@ -98,8 +114,9 @@ Schläfchen nehmen mitten in der müh-<lb break="no"/>
 samen Arbeit der Eingebung, und ich<lb/>
 möchte versuchen, das Verhältnis ein<lb/>
 wenig näher zu bekräftigen, indem ich auch</p>
-</cell><cell>
-<p rend="no-intend">die Beweisführung der großen modernen<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">die Beweisführung der großen modernen<lb/>
 Autorität in Zweifel ziehe. Das über das<lb/>
 Kleestück gespannte Metallnetz hindert<lb/>
 nicht aller Insecten Dazwischenkunft; es<lb/>
@@ -143,9 +160,12 @@ in das Beet ließ. Ohne sich Zeit zu lassen,<lb/>
 die Honigbüchsen der Blumen zu besuchen,<lb/>
 begannen meine Waldläufer sofort aus-<lb break="no"/>
 zuwandern und waren bald verschwunden.</p>
-<p>Darwins Metallnetz scheint mir ein<lb/>
+                     <p>Darwins Metallnetz scheint mir ein<lb/>
 schwaches Gewebe zu sein, das mich</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

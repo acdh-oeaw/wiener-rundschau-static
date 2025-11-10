@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-19_n0726.xml"
-     prev="WR-02-02-19_n0725.xml"
-     next="WR-02-02-19_n0727.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-19_n0726.xml" prev="WR-02-02-19_n0725.xml" next="WR-02-02-19_n0727.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,39 +42,77 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 18</title>
+                  <idno>WR-02-02-18_n0677.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 20</title>
+                  <idno>WR-02-02-20_n0749.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">726</fw><fw type="ctext">MARHOLM.</fw></fw><p rend="no-intend"><hi rend="text-spaced">Zeiten</hi>« erörterten. Und er schilderte im »<hi rend="text-spaced">Weiberregiment</hi>« dies alte<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">726</fw>
+               <fw type="ctext">MARHOLM.</fw>
+            </fw>
+            <p rend="no-intend">
+               <hi rend="text-spaced">Zeiten</hi>« erörterten. Und er schilderte im »<hi rend="text-spaced">Weiberregiment</hi>« dies alte<lb/>
 finnische Bauernvolk, wie es in den letzten Jahren reich und selbst-<lb break="no"/>
 bewusst geworden, die schwedischen Herrschaften und an der<lb/>
-Universität creierten »geistigen Leuchten«, die sich nun <hi rend="text-spaced">finnoman</hi><lb/>
-machten, belachte und bei der Nase zog.</p><p>Melancholisch und ernst fieng er an, aber ein immer grösserer<lb/>
+Universität creierten »geistigen Leuchten«, die sich nun <hi rend="text-spaced">finnoman</hi>
+               <lb/>
+machten, belachte und bei der Nase zog.</p>
+            <p>Melancholisch und ernst fieng er an, aber ein immer grösserer<lb/>
 und echterer Humorist wurde er mit den Jahren, und das stille Lächeln<lb/>
 wurde in seinem Gesicht in dem Masse constanter, wie die Gesichter<lb/>
-seiner schwedisch-finnländischen Landsleute immer länger wurden.</p><p>Und er that’s keinem zu lieb, wie andere schwedisch geborene<lb/>
+seiner schwedisch-finnländischen Landsleute immer länger wurden.</p>
+            <p>Und er that’s keinem zu lieb, wie andere schwedisch geborene<lb/>
 Dichter und Volkserzieher, die ihre schwedischen Namen abzulegen und<lb/>
 mit finnischen zu vertauschen pflegen, um beim Volk ein grösseres<lb/>
 Vertrauen und auf die Leitung seiner »Entwicklung« — oder seiner<lb/>
 Geschicke — einen grösseren Einfluss zu gewinnen. Er glaubte nicht,<lb/>
 dass es dazu noch Zeit war; und wäre es auch Zeit gewesen, er hätte<lb/>
-es doch nicht gethan.</p><p>Dazu kannte er dies eingeborene finnische Volk, das die Kraft<lb/>
+es doch nicht gethan.</p>
+            <p>Dazu kannte er dies eingeborene finnische Volk, das die Kraft<lb/>
 des Landes war und dem die Zukunft gehörte, zu gut. Ihm war es<lb/>
 leicht einzusehen, welchen Gang die »Entwicklung« nehmen musste,<lb/>
 und dass alle Anstrengungen eines Standes- und Oberclassenpatriotismus,<lb/>
 mit denen eine eingewanderte Colonistenschicht sich am Steuer zu<lb/>
-erhalten strebte, vergebens waren.</p><p>Und damit setzte er sich bewusst und guten Muthes zwischen<lb/>
-zwei Stühle.</p><p>Aha! sagt der denkende Leser, es dämmert mir, weswegen mir<lb/>
-sein Name gar nicht zu Ohren gekommen zu sein scheint.</p><p>Verehrter Leser, ich glaube mich zu Deiner Meinung bekennen<lb/>
+erhalten strebte, vergebens waren.</p>
+            <p>Und damit setzte er sich bewusst und guten Muthes zwischen<lb/>
+zwei Stühle.</p>
+            <p>Aha! sagt der denkende Leser, es dämmert mir, weswegen mir<lb/>
+sein Name gar nicht zu Ohren gekommen zu sein scheint.</p>
+            <p>Verehrter Leser, ich glaube mich zu Deiner Meinung bekennen<lb/>
 zu müssen. Unter den vielen alten Erfahrungssätzen, die sich zu Sprich-<lb break="no"/>
 wörtern verdichteten, bedürfen die meisten einer gründlichen Moderni-<lb break="no"/>
 sierung, darunter auch das veraltete Wort: »Kein Prophet ist angesehen<lb/>
 in seinem Vaterlande«, das dahin zu verändern wäre: »Wer es<lb/>
 nicht dahin gebracht, in seinem Vaterlande ein angesehener Prophet<lb/>
-zu werden, für den gibt es gar keine Aussichten in andern Ländern«.</p><p>Man denke nur, um der Kürze wegen bei dem vorliegenden<lb/>
+zu werden, für den gibt es gar keine Aussichten in andern Ländern«.</p>
+            <p>Man denke nur, um der Kürze wegen bei dem vorliegenden<lb/>
 Beispiele zu bleiben, was für skandinavische Namen es einfach in<lb/>
 Deutschland allein zu begeisterten Besprechungen und in allen Buch-<lb break="no"/>
 handlungen sichtbaren Ausgaben gebracht haben: da ist Adolf Paul<lb/>
@@ -86,10 +121,16 @@ Mörner, Peter Nansen, nicht zu verwechseln mit Frithiof Nansen, Sven<lb/>
 Lange und Ellen Key und viele andere, die alle in ihrer Heimat wohl-<lb break="no"/>
 bestallte Propheten sind, von den älteren Jahrgängen ganz zu schweigen,<lb/>
 da wir damit nicht an die harten Worte von David Friedrich Strauss<lb/>
-erinnern möchten, der in einer schwarzen Stunde behauptete:</p><milestone unit="verse-start"/><lg><l>Nicht jeder Wein wird mit den Jahren</l>
-<l>Gedieg’ner als er anfangs war,</l>
-<l>Nicht viele sind in grauen Haaren</l>
-<l>Mehr wert als einst im braunen Haar.</l></lg><milestone unit="untyped-end"/></div>
+erinnern möchten, der in einer schwarzen Stunde behauptete:</p>
+            <milestone unit="verse-start"/>
+            <lg>
+               <l>Nicht jeder Wein wird mit den Jahren</l>
+               <l>Gedieg’ner als er anfangs war,</l>
+               <l>Nicht viele sind in grauen Haaren</l>
+               <l>Mehr wert als einst im braunen Haar.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-18_n0347.xml"
-     prev="WR-05-18_n0346.xml"
-     next="WR-05-18_n0348.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-18_n0347.xml" prev="WR-05-18_n0346.xml" next="WR-05-18_n0348.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,18 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 17</title>
+                  <idno>WR-05-17_n0327.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BAILLY: DIE MELOMANIE DES DICHTERS VILLIERS DE L’ISLE-ADAM.</fw></fw><table><row><cell>
-<p rend="no-intend">getragen. Von dieser Esméralda-Musik ist<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BAILLY: DIE MELOMANIE DES DICHTERS VILLIERS DE L’ISLE-ADAM.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">getragen. Von dieser Esméralda-Musik ist<lb/>
 fast nichts bekannt geworden. Auch von<lb/>
 den Vertonungen <hi rend="text-spaced">Baudelaire</hi>’scher<lb/>
 Sonette wissen nur die Wenigsten;<lb/>
-<hi rend="text-spaced">Mallarmé</hi> und Catulle <hi rend="text-spaced">Mendès</hi>, denen<lb/>
+                        <hi rend="text-spaced">Mallarmé</hi> und Catulle <hi rend="text-spaced">Mendès</hi>, denen<lb/>
 Villiers diese Compositionen oft vorgespielt,<lb/>
 haben sich zu wiederholtenmalen sehr<lb/>
 günstig darüber ausgesprochen. Fast jede<lb/>
@@ -74,11 +85,11 @@ gesprochen hatte, ließ uns Richepin Ein-<lb break="no"/>
 zelnes — soweit ihm dies in Erinnerung<lb/>
 war — aus der Villiers’schen Musik zu<lb/>
 »<hi rend="italics">La Mort des Amants</hi>« hören:</p>
-<milestone unit="untyped-start"/>
-<p>»Nous aurons les lits pleins d’odeurs<lb/>
+                     <milestone unit="untyped-start"/>
+                     <p>»Nous aurons les lits pleins d’odeurs<lb/>
 légères <milestone unit="3dots"/>«</p>
-<milestone unit="untyped-end"/>
-<p>Davon ist mir die Erinnerung an eine<lb/>
+                     <milestone unit="untyped-end"/>
+                     <p>Davon ist mir die Erinnerung an eine<lb/>
 musikalische Prosodik geblieben, die sich<lb/>
 den Baudelaire’schen Rhythmen wirksam<lb/>
 anzuschmiegen suchte. Villiers, der zwar<lb/>
@@ -107,8 +118,9 @@ de Villard, deren Soireen einen bedeuten-<lb break="no"/>
 den Ruf genossen und berühmte Gäste<lb/>
 vereinigten, seine Oper und einige seiner<lb/>
 Einzel-Arien des öfteren zu Gehör gebracht.</p>
-</cell><cell>
-<p rend="no-intend">Es ist anzunehmen, dass Villiers die Com-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Es ist anzunehmen, dass Villiers die Com-<lb break="no"/>
 positionen, die er aufzeichnen wollte, be-<lb break="no"/>
 freundeten Musikern dictierte oder selber<lb/>
 in dürftigen Noten fixierte, um sie nach-<lb break="no"/>
@@ -134,11 +146,11 @@ aber sein hohes, ja höchstes Verständnis<lb/>
 für lyrische Tonkunst, das er unzählige-<lb break="no"/>
 male bewiesen hat, nicht im geringsten<lb/>
 schmälerte.</p>
-<milestone unit="asterisk"/>
-<p>Der Musiker Villiers tritt auch in dem<lb/>
+                     <milestone unit="asterisk"/>
+                     <p>Der Musiker Villiers tritt auch in dem<lb/>
 Lebenswerke des <hi rend="text-spaced">Dichters</hi> Villiers viel-<lb break="no"/>
 fach in Erscheinung.</p>
-<p>Catulle Mendès, der seinen Freund<lb/>
+                     <p>Catulle Mendès, der seinen Freund<lb/>
 auf der Reise nach Triebschen begleitete,<lb/>
 erzählt in einem Buche über Richard<lb/>
 Wagner u. a., dass Villiers eine Prosa-<lb break="no"/>
@@ -154,14 +166,17 @@ Aufsatz möchte ich hier eingehen, da er<lb/>
 die Kunstprincipien Wagners streift und<lb/>
 zugleich die Schönheits- und Wahrheits-<lb break="no"/>
 liebe Villiers’ in helles Licht rückt.</p>
-<p>Im Herbst des Jahres 1868 hielt sich<lb/>
+                     <p>Im Herbst des Jahres 1868 hielt sich<lb/>
 Villiers in Luzern auf und brachte fast<lb/>
 die ganze Zeit bei Richard <hi rend="text-spaced">Wagner</hi> zu.</p>
-<p>Eines Abends — erzählt Villiers —<lb/>
+                     <p>Eines Abends — erzählt Villiers —<lb/>
 um die Dämmerstunde, saßen wir still<lb/>
 im Dunkel des Salons, dem Garten zu-<lb break="no"/>
 gewendet; lange, schweigsame Pausen</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

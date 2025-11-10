@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-11_n0236.xml"
-     prev="WR-05-11_n0235.xml"
-     next="WR-05-11_n0237.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-11_n0236.xml" prev="WR-05-11_n0235.xml" next="WR-05-11_n0237.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 10</title>
+                  <idno>WR-05-10_n0205.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 12</title>
+                  <idno>WR-05-12_n0249.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BLEIBTREU: DIALOG ÜBER ESOTERISCHEN BUDDHISMUS.</fw></fw><table><row><cell>
-<p rend="no-intend">lichten Welten der Freude« und »die<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BLEIBTREU: DIALOG ÜBER ESOTERISCHEN BUDDHISMUS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">lichten Welten der Freude« und »die<lb/>
 dunkeln Welten der Pein« — ein Wider-<lb break="no"/>
 spruch zu der Behauptung: »Es gibt<lb/>
 weder Himmel, noch Hölle« ist das zwar<lb/>
@@ -74,7 +89,7 @@ Mythologie ähnelt, dürfte wohl eine spätere<lb/>
 Pfaffen-Interpolation sein und hat mit dem<lb/>
 wahren Kern des Buddhismus und der<lb/>
 Karma-Lehre nichts zu schaffen.</p>
-<p>— Also mein vorhergegangener Mensch<lb/>
+                     <p>— Also mein vorhergegangener Mensch<lb/>
 ist doch eigentlich nur ein illusionärer,<lb/>
 puppenhafter Zustand, und dennoch soll<lb/>
 ich für <hi rend="text-spaced">seinen</hi> Zustand büßen, obschon<lb/>
@@ -90,9 +105,9 @@ Quintessenz menschlicher Wesenheit; nur<lb/>
 dieser rothe Faden könnte die beiden<lb/>
 Mensch-Identitäten von Tod zu Wieder-<lb break="no"/>
 geburt verknüpfen.</p>
-<p>— »Hätte«, »könnte«! Schon wieder<lb/>
+                     <p>— »Hätte«, »könnte«! Schon wieder<lb/>
 Irrthümer, die ich erledigte. Denn natürlich<lb/>
-<hi rend="text-spaced">hat</hi> und <hi rend="text-spaced">kann</hi> Karma nur diesen Sinn<lb/>
+                        <hi rend="text-spaced">hat</hi> und <hi rend="text-spaced">kann</hi> Karma nur diesen Sinn<lb/>
 haben, und wer es anders auslegt, hat<lb/>
 von der Lehre keine Ahnung. Doch ich<lb/>
 sagte schon, dass das Ego auf tieferem<lb/>
@@ -105,8 +120,9 @@ Gewand für die andere Rolle anzieht.<lb/>
 Übrigens setzt Ihnen schon der alte<lb/>
 brahminische Occultismus auseinander, dass<lb/>
 von den sieben Stoffen, aus denen der</p>
-</cell><cell>
-<p rend="no-intend">Mensch besteht, im Tode nur die eine<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Mensch besteht, im Tode nur die eine<lb/>
 Hälfte zerfällt, die andere noch eine Weile<lb/>
 fortdauert, bis zuletzt nur das Princip der<lb/>
 Lebensseele (Manas) übrig bleibt, die<lb/>
@@ -129,14 +145,14 @@ Allerdings unter verändertem Milieu, was<lb/>
 unendlich weise und liebevoll eingerichtet<lb/>
 ist, weil ein Fortleben in immer gleichen<lb/>
 Zuständen unerträglich wäre.</p>
-<p>— Deshalb wird wohl auch das mensch-<lb break="no"/>
+                     <p>— Deshalb wird wohl auch das mensch-<lb break="no"/>
 liche Bewusstsein zwischen Tod und Wieder-<lb break="no"/>
 geburt sistiert? Alle moralische Zurech-<lb break="no"/>
 nungsfähigkeit kettet sich aber an das<lb/>
 Bewusstsein und trotzdem soll ich unbe-<lb break="no"/>
 wussterweise im folgenden Karma-Leben die<lb/>
 Schulden der früheren tilgen?</p>
-<p>— Das Erlöschen des Person-Bewusst-<lb break="no"/>
+                     <p>— Das Erlöschen des Person-Bewusst-<lb break="no"/>
 seins im Tode ist geradeso nöthig, wie<lb/>
 der Schlaf dem Körper, der gleichfalls<lb/>
 temporäres Vergessen und Aufheben des<lb/>
@@ -160,7 +176,10 @@ ragenden Geistern ihre Identität mit einer<lb/>
 früheren Erscheinungsform zum inneren<lb/>
 Bewusstsein kommen kann, darüber ließe<lb/>
 sich manches berichten. Im übrigen bitte</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

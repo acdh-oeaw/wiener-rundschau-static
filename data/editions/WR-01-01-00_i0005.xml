@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-01-01-00_i0005.xml"
-     prev="WR-01-01-00_i0004.xml"
-     next="WR-01-01-00_i0006.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-00_i0005.xml" prev="WR-01-01-00_i0004.xml" next="WR-01-01-00_i0006.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,88 +42,202 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 2</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 1, Halbbd. 1, Nr. 1</title>
+                  <idno>WR-01-01-01_n0001.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">INHALTS-VERZEICHNISS.</fw></fw><table>
-<row><cell>
-</cell><cell>Seite
-</cell></row>
-<row><cell><hi rend="text-spaced">Stiglitz</hi>, Dr. Maximilian, Die Theatercensur <milestone unit="dots"/>
-</cell><cell>235
-</cell></row>
-<row><cell><hi rend="text-spaced">Strauss</hi>, Rudolf, Die treue Frau <milestone unit="dots"/>
-</cell><cell>64
-</cell></row>
-<row><cell>  Pyrrhussieg <milestone unit="dots"/>
-</cell><cell>291
-</cell></row>
-<row><cell>  Raimund-Theater <milestone unit="dots"/>
-</cell><cell>395
-</cell></row>
-<row><cell><hi rend="text-spaced">Szczepanski</hi>, Ludwig, Jungpolnische Lyrik <milestone unit="dots"/>
-</cell><cell>383
-</cell></row>
-<row><cell><hi rend="text-spaced">Tchechow</hi>, Anton, Wanjka <milestone unit="dots"/> 
-</cell><cell>6
-</cell></row>
-<row><cell><hi rend="text-spaced">Véber</hi>, Pierre, Kritik <milestone unit="dots"/>
-</cell><cell>288
-</cell></row>
-<row><cell><hi rend="text-spaced">Verhaeren</hi>, Emile, Paul Verlaine <milestone unit="dots"/>
-</cell><cell>456
-</cell></row>
-<row><cell><hi rend="text-spaced">Verlaine</hi>, Paul, Çavitri <milestone unit="dots"/>
-</cell><cell>15
-</cell></row>
-<row><cell>  Mit gedämpfter Stimme <milestone unit="dots"/>
-</cell><cell>172
-</cell></row>
-<row><cell>  Herbst <milestone unit="dots"/>
-</cell><cell>365
-</cell></row>
-<row><cell><hi rend="text-spaced">Weisengrün</hi>, Dr. Paul, Zur Psychologie Nietzsche’s <milestone unit="dots"/>
-</cell><cell>186
-</cell></row>
-<row><cell>   Gegen die Emancipation des Weibes <milestone unit="dots"/> 
-</cell><cell>387, 431
-</cell></row>
-<row><cell><hi rend="text-spaced">Wilhelm</hi>, Paul, Golgatha <milestone unit="dots"/>
-</cell><cell>173
-</cell></row>
-<row><cell>  Wiener Kunst und Kunstkritik <milestone unit="dots"/>
-</cell><cell>220
-</cell></row>
-<row><cell>  Künstlerhaus <milestone unit="dots"/>
-</cell><cell>392
-</cell></row>
-</table><ab><title>KRITIK.</title></ab><table>
-<row><cell><ab><title><hi rend="strong">Theater-Besprechungen.</hi></title></ab>
-</cell></row>
-<row><cell>Burgtheater <milestone unit="dots"/>
-</cell><cell>37, 78, 119, 196, 238, 358
-</cell></row>
-<row><cell>Carl-Theater <milestone unit="dots"/>
-</cell><cell>398, 478
-</cell></row>
-<row><cell>Deutsches Volkstheater <milestone unit="dots"/>
-</cell><cell>158, 196, 177, 439, 479
-</cell></row>
-<row><cell>Hof-Operntheater <milestone unit="dots"/>
-</cell><cell>79, 177
-</cell></row>
-<row><cell>Raimund-Theater <milestone unit="dots"/>
-</cell><cell>38, 317
-</cell></row>
-<row><cell>Rudolfsheimer Volkstheater <milestone unit="dots"/>
-</cell><cell>480
-</cell></row>
-<row><cell><ab><title><hi rend="strong">Bücher.</hi></title></ab>
-</cell></row>
-<row><cell><hi rend="text-spaced">Brauner</hi>, »Russische Novellen« 39; <hi rend="text-spaced">David</hi>, »Frühschein« 79; <hi rend="text-spaced">Evers</hi>, »Hohe
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">INHALTS-VERZEICHNISS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+</cell>
+                  <cell>Seite
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Stiglitz</hi>, Dr. Maximilian, Die Theatercensur <milestone unit="dots"/>
+                  </cell>
+                  <cell>235
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Strauss</hi>, Rudolf, Die treue Frau <milestone unit="dots"/>
+                  </cell>
+                  <cell>64
+</cell>
+               </row>
+               <row>
+                  <cell>  Pyrrhussieg <milestone unit="dots"/>
+                  </cell>
+                  <cell>291
+</cell>
+               </row>
+               <row>
+                  <cell>  Raimund-Theater <milestone unit="dots"/>
+                  </cell>
+                  <cell>395
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Szczepanski</hi>, Ludwig, Jungpolnische Lyrik <milestone unit="dots"/>
+                  </cell>
+                  <cell>383
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Tchechow</hi>, Anton, Wanjka <milestone unit="dots"/>
+                  </cell>
+                  <cell>6
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Véber</hi>, Pierre, Kritik <milestone unit="dots"/>
+                  </cell>
+                  <cell>288
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Verhaeren</hi>, Emile, Paul Verlaine <milestone unit="dots"/>
+                  </cell>
+                  <cell>456
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Verlaine</hi>, Paul, Çavitri <milestone unit="dots"/>
+                  </cell>
+                  <cell>15
+</cell>
+               </row>
+               <row>
+                  <cell>  Mit gedämpfter Stimme <milestone unit="dots"/>
+                  </cell>
+                  <cell>172
+</cell>
+               </row>
+               <row>
+                  <cell>  Herbst <milestone unit="dots"/>
+                  </cell>
+                  <cell>365
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Weisengrün</hi>, Dr. Paul, Zur Psychologie Nietzsche’s <milestone unit="dots"/>
+                  </cell>
+                  <cell>186
+</cell>
+               </row>
+               <row>
+                  <cell>   Gegen die Emancipation des Weibes <milestone unit="dots"/>
+                  </cell>
+                  <cell>387, 431
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Wilhelm</hi>, Paul, Golgatha <milestone unit="dots"/>
+                  </cell>
+                  <cell>173
+</cell>
+               </row>
+               <row>
+                  <cell>  Wiener Kunst und Kunstkritik <milestone unit="dots"/>
+                  </cell>
+                  <cell>220
+</cell>
+               </row>
+               <row>
+                  <cell>  Künstlerhaus <milestone unit="dots"/>
+                  </cell>
+                  <cell>392
+</cell>
+               </row>
+            </table>
+            <ab>
+               <title>KRITIK.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <ab>
+                        <title>
+                           <hi rend="strong">Theater-Besprechungen.</hi>
+                        </title>
+                     </ab>
+                  </cell>
+               </row>
+               <row>
+                  <cell>Burgtheater <milestone unit="dots"/>
+                  </cell>
+                  <cell>37, 78, 119, 196, 238, 358
+</cell>
+               </row>
+               <row>
+                  <cell>Carl-Theater <milestone unit="dots"/>
+                  </cell>
+                  <cell>398, 478
+</cell>
+               </row>
+               <row>
+                  <cell>Deutsches Volkstheater <milestone unit="dots"/>
+                  </cell>
+                  <cell>158, 196, 177, 439, 479
+</cell>
+               </row>
+               <row>
+                  <cell>Hof-Operntheater <milestone unit="dots"/>
+                  </cell>
+                  <cell>79, 177
+</cell>
+               </row>
+               <row>
+                  <cell>Raimund-Theater <milestone unit="dots"/>
+                  </cell>
+                  <cell>38, 317
+</cell>
+               </row>
+               <row>
+                  <cell>Rudolfsheimer Volkstheater <milestone unit="dots"/>
+                  </cell>
+                  <cell>480
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <ab>
+                        <title>
+                           <hi rend="strong">Bücher.</hi>
+                        </title>
+                     </ab>
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Brauner</hi>, »Russische Novellen« 39; <hi rend="text-spaced">David</hi>, »Frühschein« 79; <hi rend="text-spaced">Evers</hi>, »Hohe
 Lieder« 318; <hi rend="text-spaced">Hafner</hi> und Weilhart, »Keine Sühne« 439; <hi rend="text-spaced">Harden</hi>, »Literatur
 und Theater« 120; <hi rend="text-spaced">Hauptmann</hi> Carl, »Sonnenwanderer« 480; <hi rend="text-spaced">Lange</hi>, »Thor-
 waldsen’s Darstellung des Menschen« 279; <hi rend="text-spaced">Lie</hi>, »Grossvater« 239; <hi rend="text-spaced">Lilien-
@@ -137,13 +248,24 @@ Schloss« 319; <hi rend="text-spaced">Pastor</hi>, »Der Andere« 240; <hi rend=
 hunderts« 359; <hi rend="text-spaced">Verlaine</hi>, »Choix de Poésies« 280; <hi rend="text-spaced">Weigand</hi>, »Der zwie-
 fache Eros« 439; <hi rend="text-spaced">Weilhart</hi> und Hafner, »Keine Sühne« 439; <hi rend="text-spaced">Weingartner</hi>,
 »Bayreuth« 199; <hi rend="text-spaced">Wrede</hi>, »Vom Baum des Lebens« 319.
-</cell></row>
-<row><cell><ab><title><hi rend="strong">Kunst.</hi></title></ab>
-</cell></row>
-<row><cell>Künstlerhaus 197, Placatkunst 278, Rumpler-Ausstellung 438, Schubert-Aus-<lb/>
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <ab>
+                        <title>
+                           <hi rend="strong">Kunst.</hi>
+                        </title>
+                     </ab>
+                  </cell>
+               </row>
+               <row>
+                  <cell>Künstlerhaus 197, Placatkunst 278, Rumpler-Ausstellung 438, Schubert-Aus-<lb/>
 stellung 239.
-</cell></row>
-</table></div>
+</cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

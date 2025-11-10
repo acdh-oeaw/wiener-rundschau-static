@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-17_n0341.xml"
-     prev="WR-05-17_n0340.xml"
-     next="WR-05-17_n0342.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-17_n0341.xml" prev="WR-05-17_n0340.xml" next="WR-05-17_n0342.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 16</title>
+                  <idno>WR-05-16_n0313.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 18</title>
+                  <idno>WR-05-18_n0343.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">RUNDSCHAU.</fw></fw><table><row><cell>
-<p>Und nun zu dem bedeutendsten Theile<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">RUNDSCHAU.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Und nun zu dem bedeutendsten Theile<lb/>
 in Bölsches Liebesbuch. Dieser handelt<lb/>
 vom Paradiesvogel, vom Ästhetischen der<lb/>
 Liebe, vom Ästhetisch-Planvollen der Natur.<lb/>
@@ -87,7 +102,7 @@ damit nicht im mindesten im Widerspruch.<lb/>
 Sie verbürgt im Gegentheile die Richtig-<lb break="no"/>
 keit dieses uralten speculativen Grund-<lb break="no"/>
 gedankens.</p>
-<p>Aber das Wichtigste, was Bölsche zu<lb/>
+                     <p>Aber das Wichtigste, was Bölsche zu<lb/>
 sagen gehabt, steht in der Vorrede: »Ich<lb/>
 meine, dass die Brücke vom strengen<lb/>
 Fachgebiet, wo man gewisse Thatsachen<lb/>
@@ -95,16 +110,18 @@ halb oder ganz wahr aufhäuft, bis zur<lb/>
 Verständigung in Kreise hinein, wo man<lb/>
 mehr große Linien des Denkens und Welt-<lb break="no"/>
 durchgrübelns braucht, wesentlich über die<lb/>
-Kunst geht.« <rs type="person" key="">O. B.</rs></p>
-<milestone unit="untyped-end"/>
-<milestone unit="asterisk"/>
-<milestone unit="untyped-start"/>
-<p>Über Karppes eben erschienenes Werk:<lb/>
+Kunst geht.« <rs type="person" key="">O. B.</rs>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="asterisk"/>
+                     <milestone unit="untyped-start"/>
+                     <p>Über Karppes eben erschienenes Werk:<lb/>
 »<hi rend="italics">Etude sur les origines et la nature du Zohar</hi>«<lb/>
 findet sich eine längere Kritik im Sep-<lb break="no"/>
 tember-Heft des »<hi rend="italics">Mercure de France</hi>«. Das</p>
-</cell><cell>
-<p rend="no-intend">Buch Zohar ist die Bibel der mystischen<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Buch Zohar ist die Bibel der mystischen<lb/>
 Kabbalisten, das System aller mystisch-<lb break="no"/>
 semitischen Ideen. Die Kabbala setzt —<lb/>
 völlig esoterisch — der rationalistischen<lb/>
@@ -135,7 +152,7 @@ und Alchymie. Christliche, gnostische,<lb/>
 pythagoräische, platonische und neu-<lb break="no"/>
 platonische Gedankengänge durchsetzen<lb/>
 das Werk.</p>
-<p>Das Buch Zohar entstand im XIII. Jahr-<lb break="no"/>
+                     <p>Das Buch Zohar entstand im XIII. Jahr-<lb break="no"/>
 hundert in Beaucaire im südlichen Frank-<lb break="no"/>
 reich, also auf einem Boden und zu einer<lb/>
 Zeit, da die Alchymie triumphierte, Roger<lb/>
@@ -145,21 +162,25 @@ Man ist somit gezwungen, anzunehmen,<lb/>
 dass sich um jene Zeit eine wechsel-<lb break="no"/>
 seitige Durchdringung abendländischer und<lb/>
 semitischer Mystik vorbereitete.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="asterisk"/>
-<milestone unit="untyped-start"/>
-<p>»<hi rend="text-spaced">Ernst Häckel und der Spiri-<lb break="no"/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="asterisk"/>
+                     <milestone unit="untyped-start"/>
+                     <p>»<hi rend="text-spaced">Ernst Häckel und der Spiri-<lb break="no"/>
 tismus</hi>.« Ein Protest von <hi rend="text-spaced">Max Seiling</hi>.<lb/>
 Leipzig. Druck und Verlag <hi rend="text-spaced">Oswald Mutze</hi>.<lb/>
-<date>1901</date>. — Unter den zahlreichen Entgegnun-<lb break="no"/>
+                        <date>1901</date>. — Unter den zahlreichen Entgegnun-<lb break="no"/>
 gen, welche Häckels »Welträthsel« hervor-<lb break="no"/>
 gerufen hatten, verdient diese kleine Schrift,<lb/>
 welche den Standpunkt der occulten<lb/>
 Forschungsweise vertritt, einige Beach-</p>
-</cell></row></table><note type="footnote">
-<p>* Der Physiker sei bei diesem Anlasse an die neuere Theorie der »selectiven Absorption«<lb/>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Der Physiker sei bei diesem Anlasse an die neuere Theorie der »selectiven Absorption«<lb/>
 erinnert.</p>
-</note></div>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

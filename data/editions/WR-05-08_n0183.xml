@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-08_n0183.xml"
-     prev="WR-05-08_n0182.xml"
-     next="WR-05-08_n0184.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-08_n0183.xml" prev="WR-05-08_n0182.xml" next="WR-05-08_n0184.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 7</title>
+                  <idno>WR-05-07_n0141.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 9</title>
+                  <idno>WR-05-09_n0189.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">MAUCLAIR: MALLARMÉ.</fw></fw><table><row><cell>
-<p rend="no-intend">an den Emotionen des Individuums.<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MAUCLAIR: MALLARMÉ.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">an den Emotionen des Individuums.<lb/>
 So sprach der Mensch eine Idee durch<lb/>
 die Diction der Verse aus, der Mime<lb/>
 machte die von den Worten vorge-<lb break="no"/>
@@ -67,7 +82,7 @@ Ballets den Takt angab. Die Tonalität<lb/>
 und der Rhythmus des Verses als<lb/>
 Central-Element regelten die Recitative<lb/>
 und das Orchester.</p>
-<p>Das ist die Theorie des Wagner-<lb break="no"/>
+                     <p>Das ist die Theorie des Wagner-<lb break="no"/>
 Dramas, allerdings mit dem bedeuten-<lb break="no"/>
 den Unterschied, dass die Hauptrolle<lb/>
 der Persönlichkeit bleibt und die Musik<lb/>
@@ -102,11 +117,12 @@ relativement à une figure seule«, sagte<lb/>
 der Dichter. Das ist das Gesetz eines<lb/>
 jeden Systems, das sich auf den In-<lb break="no"/>
 dividualismus gründet.</p>
-<p>Diese Auffassung des Theaters ist<lb/>
+                     <p>Diese Auffassung des Theaters ist<lb/>
 fast die der Symphonie und der Fuge;<lb/>
 eine beständige Symmetrie, Ordnung</p>
-</cell><cell>
-<p>und Reciprocität aller Formen des ästhe-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p>und Reciprocität aller Formen des ästhe-<lb break="no"/>
 tischen Ausdrucks sollten sie beherr-<lb break="no"/>
 schen. Mallarmé wusste wohl, welche<lb/>
 Aufmerksamkeit, welches Feingefühl<lb/>
@@ -160,7 +176,10 @@ und Raum hinausgieng, gestimmt sein<lb/>
 »comme le symbolise l’élévation du<lb/>
 plancher scènique.« Dann begann die<lb/>
 Zurschaustellung des Menschen, den</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-06_n0116.xml"
-     prev="WR-05-06_n0115.xml"
-     next="WR-05-06_n0117.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-06_n0116.xml" prev="WR-05-06_n0115.xml" next="WR-05-06_n0117.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 5</title>
+                  <idno>WR-05-05_n0097.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 7</title>
+                  <idno>WR-05-07_n0141.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BLOY: DIE ARME FRAU.</fw></fw><table><row><cell>
-<p>undzwanzig Stunden gereist, in den<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BLOY: DIE ARME FRAU.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>undzwanzig Stunden gereist, in den<lb/>
 fröhlichen Tourainegegenden, die damals<lb/>
 das Zittern der Sturmglocke erfüllte.<lb/>
 Soweit meine Blicke schweifen konnten,<lb/>
@@ -97,10 +112,11 @@ vorausgegangen, begann ich zu weinen<lb/>
 und vereinigten Herzens mit der armen<lb/>
 Menge zu beten und da erkannte ich<lb/>
 mit den Augen des Geistes und mit</p>
-</cell><cell>
-<p rend="no-intend">den Ohren der Seele, was das Mittel-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">den Ohren der Seele, was das Mittel-<lb break="no"/>
 alter gewesen sein musste.</p>
-<p>Ein plötzliches Zurückströmen<lb/>
+                     <p>Ein plötzliches Zurückströmen<lb/>
 meiner Vorstellungskraft versetzte mich<lb/>
 mitten hinein in diese fernen Zeiten, da<lb/>
 man sein Leiden nur unterbrach, um<lb/>
@@ -111,7 +127,7 @@ vertheilt unter dreißig unglückliche<lb/>
 Generationen, deren erstaunliches Elend<lb/>
 in den Weltgeschichten kaum erwähnt<lb/>
 wird.</p>
-<p>Von Attila bis zu den muselmanni-<lb break="no"/>
+                     <p>Von Attila bis zu den muselmanni-<lb break="no"/>
 schen Einfällen, und von der berühmten<lb/>
 »Raserei der Normannen« bis zu der<lb/>
 englischen Wuth, die hundert Jahre<lb/>
@@ -121,7 +137,7 @@ gossen vor den geheiligten Reliquien<lb/>
 der Märtyrer oder der Bekenner, die<lb/>
 man die einzigen Freunde der Armen<lb/>
 und Jammervollen nannte.</p>
-<p>Wir anderen, die Canaille, wir sind<lb/>
+                     <p>Wir anderen, die Canaille, wir sind<lb/>
 die Söhne dieser wunderbaren Geduld.<lb/>
 Und seitdem wir, seit Luther sammt<lb/>
 seinem Schwanz von Schwätzern die<lb/>
@@ -142,8 +158,13 @@ malten Scheiben der Kapellen, auf den<lb/>
 Velin der Gebetbücher, und all unser<lb/>
 Bemühen ist — wenn wir ein wenig<lb/>
 Fähigkeit haben — zurückzusteigen zu<lb/>
-dieser leuchtenden Quelle <milestone unit="4dots"/></p>
-</cell></row></table><milestone unit="undefined"/></div>
+dieser leuchtenden Quelle <milestone unit="4dots"/>
+                     </p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="undefined"/>
+         </div>
       </body>
    </text>
 </TEI>

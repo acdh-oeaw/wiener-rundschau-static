@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-15_n0309.xml"
-     prev="WR-05-15_n0308.xml"
-     next="WR-05-15_n0310.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-15_n0309.xml" prev="WR-05-15_n0308.xml" next="WR-05-15_n0310.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 14</title>
+                  <idno>WR-05-14_n0279.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 16</title>
+                  <idno>WR-05-16_n0313.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">SPRENGEL: SIGBJÖKN OBSTFELDERS »TAGEBUCH EINES GEISTLICHEN«.</fw></fw><table><row><cell>
-<p rend="no-intend">Seele zu erzeugen. Das schwach Mensch-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">SPRENGEL: SIGBJÖKN OBSTFELDERS »TAGEBUCH EINES GEISTLICHEN«.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Seele zu erzeugen. Das schwach Mensch-<lb break="no"/>
 liche ist nun vorbei, das gebrechlich Zeit-<lb break="no"/>
 liche ist vergangen. Der Mensch ist kein<lb/>
 Wurm mehr, er ist unendlich, er ist der<lb/>
@@ -66,20 +81,21 @@ bebt und im Blut in unseren Herzen<lb/>
 brennt, eine Hymne so stark und mächtig,<lb/>
 dass man dem Klang des Weltenraumes<lb/>
 selbst zu lauschen glaubt.</p>
-<p>Mit seltsamen Gedanken im Kopf legt<lb/>
+                     <p>Mit seltsamen Gedanken im Kopf legt<lb/>
 man Obstfelders Buch fort. Wenn man<lb/>
 im Leben den kleinen, bleichen Poeten<lb/>
 sah, wer hätte da gedacht, dass er uns<lb/>
 ein solches Werk geben würde!</p>
-</cell><cell>
-<p>Man versteht, dass er selbst dies Buch<lb/>
+                  </cell>
+                  <cell>
+                     <p>Man versteht, dass er selbst dies Buch<lb/>
 nicht herausgeben wollte, das geeignet<lb/>
 war, sein Lebenswerk zu werden, aus<lb/>
 Angst, dass nicht jedes Wort das richtige<lb/>
 sein könnte, das vom Gedanken und Traum<lb/>
 gegebene. Aber so hat er auch das Un-<lb break="no"/>
 vergängliche erreicht.</p>
-<p>Sein Wesen aber war die Feuerflamme,<lb/>
+                     <p>Sein Wesen aber war die Feuerflamme,<lb/>
 die nach den Sternen hinaufschlägt, sein<lb/>
 Leben war Spähen nach Schönheit und<lb/>
 Ewigkeit, und als er starb, war er wie<lb/>
@@ -92,7 +108,12 @@ denken seine Freunde nicht ohne Neid<lb/>
 an den heimlosen norwegischen Poeten,<lb/>
 dessen Leib nun auf Frederiksborgs<lb/>
 Kirchhof ruht.</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/></div>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-07_n0152.xml"
-     prev="WR-05-07_n0151.xml"
-     next="WR-05-07_n0153.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-07_n0152.xml" prev="WR-05-07_n0151.xml" next="WR-05-07_n0153.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,23 +41,48 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 6</title>
+                  <idno>WR-05-06_n0115.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 8</title>
+                  <idno>WR-05-08_n0159.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>WIE VERSETZT MAN SICH IN DIE PERSÖNLICHKEIT<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>WIE VERSETZT MAN SICH IN DIE PERSÖNLICHKEIT<lb/>
 EINES ANDEREN?*<lb/>
-Von <rs type="person" key=""><hi rend="text-spaced">GUSTAV BRIDIER</hi></rs> (Esthland).<lb/>
-Übersetzt von <rs type="person" key="">Isabella <hi rend="text-spaced">Ungern-Sternberg</hi></rs>.</title></ab><ab><title>I.</title></ab><table><row><cell>
-<p>Das Princip der Analogie ist, wo<lb/>
+Von <rs type="person" key="">
+                     <hi rend="text-spaced">GUSTAV BRIDIER</hi>
+                  </rs> (Esthland).<lb/>
+Übersetzt von <rs type="person" key="">Isabella <hi rend="text-spaced">Ungern-Sternberg</hi>
+                  </rs>.</title>
+            </ab>
+            <ab>
+               <title>I.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Das Princip der Analogie ist, wo<lb/>
 nicht die einzige Grundlage der Schrift-<lb break="no"/>
 deutung, so doch der Haupt- und Eck-<lb break="no"/>
 stein, auf dem sie sicher fußt. Auch ab-<lb break="no"/>
 gesehen von der Graphologie, beruht<lb/>
 unser Erkennen auf Analogieschlüssen.</p>
-<p>Zwischen zwei Wesen, die nichts mit<lb/>
+                     <p>Zwischen zwei Wesen, die nichts mit<lb/>
 einander gemein hätten, ist weder Ver-<lb break="no"/>
 ständigung, noch sonst irgendeine Be-<lb break="no"/>
 ziehung möglich. Leibnitz zufolge ergibt<lb/>
@@ -75,14 +97,15 @@ großen Gesetzes der Analogie thun können,<lb/>
 welches das ursprüngliche Gesetz aller<lb/>
 Wissenschaften, also auch der Grapho-<lb break="no"/>
 logie, ist.</p>
-<p>Mich dünkt es von Übel, hier noch<lb/>
+                     <p>Mich dünkt es von Übel, hier noch<lb/>
 weiter zu untersuchen, ob wir deshalb<lb/>
 in dem Studium des Geistes den Schlüssel<lb/>
 alles Bestehenden finden können, weil der<lb/>
 Geist die einzige Realität ist, deren Natur<lb/>
 uns durch das Bewusstsein zugänglich wird.</p>
-</cell><cell>
-<p>Und obschon das »Erkenne dich<lb/>
+                  </cell>
+                  <cell>
+                     <p>Und obschon das »Erkenne dich<lb/>
 selbst«, jene alte Formel des Sokratus,<lb/>
 sich scheinbar vom Grundsatze der Wesens-<lb break="no"/>
 ähnlichkeit herschreibt, daher sie der<lb/>
@@ -91,28 +114,33 @@ spruche erwählt hatte, möchte ich doch<lb/>
 einigermaßen Verwahrung gegen denselben<lb/>
 einlegen, hinsichtlich seiner Tragweite und<lb/>
 Ausdeutung.</p>
-<p>Wie dem auch sei, das Gesetz der<lb/>
+                     <p>Wie dem auch sei, das Gesetz der<lb/>
 Wesensähnlichkeit bleibt bestehen als<lb/>
 Grundstock aller Sympathie; aus ihr aber<lb/>
 ergibt sich neben anderen Folgerungen<lb/>
 auch die Möglichkeit der Schriftdeutung.</p>
-<p>Wie sagt Vanvenarque:</p>
-<milestone unit="untyped-start"/>
-<p>»In uns selbst entdecken wir, was<lb/>
+                     <p>Wie sagt Vanvenarque:</p>
+                     <milestone unit="untyped-start"/>
+                     <p>»In uns selbst entdecken wir, was<lb/>
 uns die Andern verbergen; in den Andern<lb/>
 hingegen erkennen wir, was wir uns selbst<lb/>
 verhehlen.«</p>
-<milestone unit="untyped-end"/>
-<ab><title>II.</title></ab>
-<p>Das Mitleid, welches uns eigenen<lb/>
+                     <milestone unit="untyped-end"/>
+                     <ab>
+                        <title>II.</title>
+                     </ab>
+                     <p>Das Mitleid, welches uns eigenen<lb/>
 Schmerz im Leiden Anderer empfinden<lb/>
 lässt, im Unglücke des Nächsten die<lb/>
 Ahnung eines auch uns bedräuenden Un-<lb break="no"/>
 heils bewirkt, ist mit nichten die einzige<lb/>
 Art von Sympathie, wofern wir dies<lb/>
 Wort in seiner weitesten Bedeutung fassen.</p>
-</cell></row></table><note type="footnote">
-<p>* Das einzige Mittel, um Graphologie zu treiben, d. h. um aus einer Handschrift Ein-<lb break="no"/>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Das einzige Mittel, um Graphologie zu treiben, d. h. um aus einer Handschrift Ein-<lb break="no"/>
 sicht zu gewinnen in den Charakter des Urhebers, besteht darin, seinen Intellect mit demjenigen<lb/>
 des Schreibers zu indentificieren, ein Punkt, in dem bis jetzt alle Schriftdeuter, zumindest<lb/>
 implicite, übereinstimmen. Wofern ich von wenigen Ausnahmen absehe, ist ihr Verfahren<lb/>
@@ -126,7 +154,8 @@ diese Verschmelzung vor sich geht. Alle bisherigen Schriftsteller sind viel zu f
 hinweggeglitten, haben sozusagen diese Einleitung zur proteusgleichen Graphologie nur ge-<lb break="no"/>
 streift, obschon die Werke von Crepieux-Jannu, sowie die »Méthode« von Michon förmlich<lb/>
 strotzen von Belehrungen und Unterweisungen in Bezug auf die praktische Ausübung.</p>
-</note></div>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

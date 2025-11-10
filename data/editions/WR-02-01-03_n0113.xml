@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-03_n0113.xml"
-     prev="WR-02-01-03_n0112.xml"
-     next="WR-02-01-03_n0114.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-03_n0113.xml" prev="WR-02-01-03_n0112.xml" next="WR-02-01-03_n0114.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,13 +42,42 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 2</title>
+                  <idno>WR-02-01-02_n0041.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 4</title>
+                  <idno>WR-02-01-04_n0121.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">DIE INNERE SCHÖNHEIT.</fw><fw type="pn">113</fw></fw><p rend="no-intend">die menschliche Seele hat einen merkwürdigen Muth! Sie ergibt sich<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DIE INNERE SCHÖNHEIT.</fw>
+               <fw type="pn">113</fw>
+            </fw>
+            <p rend="no-intend">die menschliche Seele hat einen merkwürdigen Muth! Sie ergibt sich<lb/>
 darein, ein ganzes Leben in der Dunkelheit zu arbeiten, wohin sie die<lb/>
 meisten verweisen und wo Niemand mit ihr spricht. Sie thut dort, was<lb/>
 sie kann, ohne sich zu beklagen, und bemüht sich, den Kieselsteinen,<lb/>
@@ -83,7 +109,8 @@ kehrt sie in ihr Gefängniss zurück, und ihre Trauer wird eine höhere<lb/>
 Wahrheit sein, als man sie je sehen wird, denn wir sind auf dem Ge-<lb break="no"/>
 biete der unbeschreiblichen Umwandlungen; was nicht auf dieser Seite<lb/>
 der Thüre entsteht, ist nicht verloren, aber es mengt sich nie zu diesem<lb/>
-Leben. — — — —</p><p>Ich sagte oben, dass die Seele die kleinen Dinge, die man ihr<lb/>
+Leben. — — — —</p>
+            <p>Ich sagte oben, dass die Seele die kleinen Dinge, die man ihr<lb/>
 reicht, in Schönheit verwandelt. Es scheint sogar, je mehr man daran<lb/>
 denkt, dass sie keinen anderen Wesensweck hat und dass sie ihre ganze<lb/>
 Thätigkeit darauf verwendet, in uns einen unbeschreiblichen Schönheits-<lb break="no"/>
@@ -96,7 +123,8 @@ gemacht, nicht auch schliesslich in eurer Seele Licht und Liebe? Habt<lb/>
 ihr je in euch selbst dieses Reich läuternder Flammen geschaut? Man<lb/>
 hat euch heute ein grosses Unrecht gethan; die Geberden waren klein,<lb/>
 die Handlung niedrig und kläglich, und ihr habt hässlich geweint.<lb/>
-Werft aber einige Jahre später einen Blick in eure Seele und sagt mir,</p></div>
+Werft aber einige Jahre später einen Blick in eure Seele und sagt mir,</p>
+         </div>
       </body>
    </text>
 </TEI>

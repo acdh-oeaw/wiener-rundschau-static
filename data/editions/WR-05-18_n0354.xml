@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-18_n0354.xml"
-     prev="WR-05-18_n0353.xml"
-     next="WR-05-18_n0355.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-18_n0354.xml" prev="WR-05-18_n0353.xml" next="WR-05-18_n0355.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,28 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 17</title>
+                  <idno>WR-05-17_n0327.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">WEISS: HANS VON MARÉES.</fw></fw><table><row><cell>
-<p rend="no-intend">hinterlassen: »Aus der Werkstatt<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">WEISS: HANS VON MARÉES.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">hinterlassen: »Aus der Werkstatt<lb/>
 eines Künstlers. Erinnerungen an den<lb/>
 Maler Hans von Marées aus den<lb/>
 Jahren 1880/81 und 1884/85. Als<lb/>
@@ -69,8 +80,8 @@ bekannt, da sie leider bis heute nur<lb/>
 Sie verdient wohl, neugedruckt und<lb/>
 allgemein zugänglich gemacht zu werden.<lb/>
 Möge dies eine Anregung hiezu sein!</p>
-<milestone unit="asterisk"/>
-<p>Dieser Schrift folgt meine Dar-<lb break="no"/>
+                     <milestone unit="asterisk"/>
+                     <p>Dieser Schrift folgt meine Dar-<lb break="no"/>
 legung. Was ihr wörtlich entnommen<lb/>
 ist, setze ich in Anführungszeichen<lb/>
 und versehe es mit dem Zeichen P.<lb/>
@@ -79,15 +90,15 @@ beim Betrachten eines Kunstwerkes<lb/>
 mit der Frage nach dem »Was?« beginnt,<lb/>
 ferner als Marées. Es wird dies aus dem<lb/>
 Folgenden erhellen.</p>
-<p>Seine Werke sind das Resultat<lb/>
+                     <p>Seine Werke sind das Resultat<lb/>
 einer großartigen, breiten und harmo-<lb break="no"/>
 nischen Welt-Anschauung, die den<lb/>
 Ausdruck ihrer Erkenntnisse <hi rend="text-spaced">bildne-<lb break="no"/>
 risch</hi> in Formen und Farben erreicht.</p>
-<p>»Sehen lernen ist alles«, sagte er,<lb/>
+                     <p>»Sehen lernen ist alles«, sagte er,<lb/>
 und erachtete das Auge für den<lb/>
 höchsten Sinn.</p>
-<p>Marées ist ein Phänomen. Das an-<lb break="no"/>
+                     <p>Marées ist ein Phänomen. Das an-<lb break="no"/>
 scheinend Anachronistische seiner Er-<lb break="no"/>
 scheinung verschwindet bei genauerer<lb/>
 Kenntnis seines Werkes, als vornehm-<lb break="no"/>
@@ -103,8 +114,9 @@ jener Bemerkung annimmt, die Aus-<lb break="no"/>
 drucksmöglichkeiten der Schwarz-Weiß-<lb break="no"/>
 Kunst für heute oder jemals alles um-<lb break="no"/>
 fassen könnten, was an Gehalt nach</p>
-</cell><cell>
-<p rend="no-intend">Form verlangt. Marées war der ge-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Form verlangt. Marées war der ge-<lb break="no"/>
 borene Freskenmaler und ist von dem<lb/>
 Unglück verfolgt worden, das er mit<lb/>
 allen Denen in Deutschland theilt, die<lb/>
@@ -117,7 +129,7 @@ Aquariums in Neapel (gemalt <date>1873</date>).<lb/>
 Und sehnlichst wünschte er, mit ge-<lb break="no"/>
 reifter Erfahrung wieder vor solche<lb/>
 Aufgaben gestellt zu werden.</p>
-<p>Er sagt: »Die grundfeste Mauer<lb/>
+                     <p>Er sagt: »Die grundfeste Mauer<lb/>
 ist eigentlich die einzige, der Würde<lb/>
 des Gegenstandes angemessene Maler-<lb break="no"/>
 tafel.« Die Arbeit an der Bildtafel auf<lb/>
@@ -137,8 +149,8 @@ Kosten ihrer Schönheit (so versichert<lb/>
 Pidoll) später mit Harzfirnis-(Öl-)farben<lb/>
 übermalt und mehr oder weniger zer-<lb break="no"/>
 stört worden.</p>
-<p>Pidoll erzählt:</p>
-<p>»Im Winter 1880/81 hatte Marées<lb/>
+                     <p>Pidoll erzählt:</p>
+                     <p>»Im Winter 1880/81 hatte Marées<lb/>
 mehrere größere Arbeiten in Ei-Tempera<lb/>
 ausgeführt, worunter ein dreitheiliges<lb/>
 Wandbild, welches die Helena-Legende<lb/>
@@ -158,7 +170,10 @@ feinen Säulchen geziert war. Am Fuße<lb/>
 derselben, nahe an den Ecken der Ge-<lb break="no"/>
 mälde, standen und saßen sechs Putten.<lb/>
 Der Architrav, der nach obenhin einen</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

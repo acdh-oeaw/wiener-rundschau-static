@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-03_n0089.xml"
-     prev="WR-02-01-03_n0088.xml"
-     next="WR-02-01-03_n0090.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-03_n0089.xml" prev="WR-02-01-03_n0088.xml" next="WR-02-01-03_n0090.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,40 +42,81 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 2</title>
+                  <idno>WR-02-01-02_n0041.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 4</title>
+                  <idno>WR-02-01-04_n0121.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>GEWITTER.<lb/>
-Von <rs type="person" key="">Elsa Kotanyi</rs> (Wien).</title></ab><p>In dem kleinen Redactionszimmer ist es fahl und still. Draussen<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>GEWITTER.<lb/>
+Von <rs type="person" key="">Elsa Kotanyi</rs> (Wien).</title>
+            </ab>
+            <p>In dem kleinen Redactionszimmer ist es fahl und still. Draussen<lb/>
 bereitet sich ein Gewitter vor; noch zuckt kein Blitz, nur Wolken<lb/>
 ballen sich dunkel und klumpig, die Luft ist schwefelgelb, nächt-<lb break="no"/>
-lich kühl.</p><p>Die Luft zieht in Stössen durch das angelehnte Fenster, wirbelt<lb/>
+lich kühl.</p>
+            <p>Die Luft zieht in Stössen durch das angelehnte Fenster, wirbelt<lb/>
 vom Schreibtisch Blätter in die Mitte des Zimmers, er wendet den<lb/>
 Blick von ihrem blassen, zu strengen Gesichte, sagt spöttisch: »Der<lb/>
-meint es besser mit mir, gnädigstes Fräulein.«</p><p>Sie springt auf, wirft ihm ein hastiges, kleines Wort hin, geht<lb/>
+meint es besser mit mir, gnädigstes Fräulein.«</p>
+            <p>Sie springt auf, wirft ihm ein hastiges, kleines Wort hin, geht<lb/>
 zum Fenster, spricht etwas hinaus, was vor seinen Ohren erstirbt und<lb/>
 geht dann langsam, müde, erschöpft zu ihrem Sessel zurück. Ein feind-<lb break="no"/>
 seliger Blick aus halbgeschlossenen Augen, dann kreuzt sie die Füsse,<lb/>
 schlingt sich drei-, viermal die weisse Federboa um den Hals, sagt:<lb/>
-»Weiter!«</p><p>Er sitzt da, den Kopf halb geneigt, mit einem streng forcirten,<lb/>
+»Weiter!«</p>
+            <p>Er sitzt da, den Kopf halb geneigt, mit einem streng forcirten,<lb/>
 ironischen Lächeln, das die Oberlippe hebt und die gesunden, blanken<lb/>
 Zähne weist. Das gibt dem feinen, geistreichen Gesichte einen bar-<lb break="no"/>
 barischen, grausamen Ausdruck. »Fräulein,« sagt er gemüthlich, »g’hört<lb/>
-das dazu, das Schupfen, das Hin und Her?«</p><p>»Pfui!« sagt sie langsam und verächtlich und sieht ihm steif ins<lb/>
+das dazu, das Schupfen, das Hin und Her?«</p>
+            <p>»Pfui!« sagt sie langsam und verächtlich und sieht ihm steif ins<lb/>
 Gesicht. »Glauben Sie, ich spiele Ihnen Scenen vor? Sie, was sind Sie<lb/>
-mir? Wenn ich zur Thüre hinausgeh’, sind Sie vergessen!«</p><p>»O!« Misst sie ernst und kalt, will etwas hervorstossen, dann<lb/>
+mir? Wenn ich zur Thüre hinausgeh’, sind Sie vergessen!«</p>
+            <p>»O!« Misst sie ernst und kalt, will etwas hervorstossen, dann<lb/>
 verbeugt er sich und zieht an dem spitzen, röthlichen Bart. »Grazie!«<lb/>
-sagt er schneidend.</p><p>Da zuckt ein Blitz — er schliesst die Augen, taumelt, sie sieht<lb/>
+sagt er schneidend.</p>
+            <p>Da zuckt ein Blitz — er schliesst die Augen, taumelt, sie sieht<lb/>
 jäh in den offenen Himmel. Athmet erlöst. »Ich möchte Sie kennen<lb/>
 lernen,« sagt er plötzlich leise und als läge tiefe Sehnsucht nach einer<lb/>
-fremden, ungeahnten, ewig fremden Welt in seinen Worten.</p><p>Seine zuckenden, grauen, unstäten Augen heben sich vom öden<lb/>
+fremden, ungeahnten, ewig fremden Welt in seinen Worten.</p>
+            <p>Seine zuckenden, grauen, unstäten Augen heben sich vom öden<lb/>
 Tasten und werden ängstlich gross und herrisch. Das Beste was in<lb/>
-ihnen liegt, ist entblösst.</p><p>»Ah, das war gar kein Gewitter,« sagt sie hellauflachend, »das<lb/>
-war nur so eine Comödie.«</p><p>Fast schleichend fasst er ihre Hand.</p><p>»Wozu — lassen Sie mich!« Sie packt den Kragen, wirft ihn um.</p><p>»Was wollen Sie von mir? Bleiben Sie mir lieber Geheimniss,<lb/>
-werther Herr! — Wenn ich Sie ausgelesen habe — werf ich Sie weg!«</p></div>
+ihnen liegt, ist entblösst.</p>
+            <p>»Ah, das war gar kein Gewitter,« sagt sie hellauflachend, »das<lb/>
+war nur so eine Comödie.«</p>
+            <p>Fast schleichend fasst er ihre Hand.</p>
+            <p>»Wozu — lassen Sie mich!« Sie packt den Kragen, wirft ihn um.</p>
+            <p>»Was wollen Sie von mir? Bleiben Sie mir lieber Geheimniss,<lb/>
+werther Herr! — Wenn ich Sie ausgelesen habe — werf ich Sie weg!«</p>
+         </div>
       </body>
    </text>
 </TEI>

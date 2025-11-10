@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-08_n0167.xml"
-     prev="WR-05-08_n0166.xml"
-     next="WR-05-08_n0168.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-08_n0167.xml" prev="WR-05-08_n0166.xml" next="WR-05-08_n0168.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,20 +41,39 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 7</title>
+                  <idno>WR-05-07_n0141.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 9</title>
+                  <idno>WR-05-09_n0189.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><p><rs type="person" key="">GERHARD MUNTHE</rs> <milestone unit="hr"/></p><p>KÖNIG SIGURDS REISE NACH JERUSALEM</p><figure type="image">
-<p>· KONG · SIGURDS · REISE · TIL · IORSAL ·</p>
-<p>HENRIC REX</p>
-<p/>
-<p>ALKASSA</p>
-<p>FORMENTERA</p>
-<p>SICILIA</p>
-</figure></div>
+         <div type="page">
+            <p>
+               <rs type="person" key="">GERHARD MUNTHE</rs>
+               <milestone unit="hr"/>
+            </p>
+            <p>KÖNIG SIGURDS REISE NACH JERUSALEM</p>
+            <figure type="image">
+               <p>· KONG · SIGURDS · REISE · TIL · IORSAL ·</p>
+               <p>HENRIC REX</p>
+               <p/>
+               <p>ALKASSA</p>
+               <p>FORMENTERA</p>
+               <p>SICILIA</p>
+            </figure>
+         </div>
       </body>
    </text>
 </TEI>

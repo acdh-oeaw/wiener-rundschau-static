@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-03_n0059.xml"
-     prev="WR-05-03_n0058.xml"
-     next="WR-05-03_n0060.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-03_n0059.xml" prev="WR-05-03_n0058.xml" next="WR-05-03_n0060.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,22 +41,46 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 2</title>
+                  <idno>WR-05-02_n0023.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 4</title>
+                  <idno>WR-05-04_n0077.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">GIDE: PHILOKTET ODER DER TRACTAT VON DEN DREI LEBENSANSCHAUUNGEN.</fw></fw><table><row><cell>
-<milestone unit="act-start"/>
-<ab><title>IV. Act.</title></ab>
-<milestone unit="scene-start"/>
-<ab><title>1. Scene.</title></ab>
-<p><hi rend="text-spaced">Philoktet</hi> und <hi rend="text-spaced">Neoptolemos</hi>.</p>
-<p>(Philoktet ist allein, ersitzt; erscheint vom<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">GIDE: PHILOKTET ODER DER TRACTAT VON DEN DREI LEBENSANSCHAUUNGEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="act-start"/>
+                     <ab>
+                        <title>IV. Act.</title>
+                     </ab>
+                     <milestone unit="scene-start"/>
+                     <ab>
+                        <title>1. Scene.</title>
+                     </ab>
+                     <p>
+                        <hi rend="text-spaced">Philoktet</hi> und <hi rend="text-spaced">Neoptolemos</hi>.</p>
+                     <p>(Philoktet ist allein, ersitzt; erscheint vom<lb/>
 Schmerz übermannt — oder denkt.)</p>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Neoptolemos</hi> (tritt laufend ein):<lb/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Neoptolemos</hi> (tritt laufend ein):<lb/>
 Dass ich ihn nur noch zur rechten<lb/>
 Zeit treffe! — Ah, du, Philoktet! Nur<lb/>
 schnell, höre mich! Das, was wir eben<lb/>
@@ -68,80 +89,101 @@ größer als wir: verzeihe mir. Wir<lb/>
 kamen <milestone unit="3dots"/> o, ich schäme mich, es dir<lb/>
 zu sagen — wir kamen, dir den Bogen<lb/>
 zu stehlen, Philoktet!</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Philoktet</hi>: Ich wusste es.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Neoptolemos</hi>: Du verstehst mich<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Philoktet</hi>: Ich wusste es.</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Neoptolemos</hi>: Du verstehst mich<lb/>
 nicht <milestone unit="3dots"/> Um dir den Bogen zu stehlen,<lb/>
 kamen wir, sage ich! — Vertheidige<lb/>
 dich doch!</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Philoktet</hi>: Gegen wen? Gegen<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Philoktet</hi>: Gegen wen? Gegen<lb/>
 dich, Neoptolemos?</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Neoptolemos</hi>: Nein, wahrlich nicht<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Neoptolemos</hi>: Nein, wahrlich nicht<lb/>
 gegen mich, ich liebe dich und darum<lb/>
 sagte ich es.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Philoktet</hi>: Und du verräthst<lb/>
-Ulysses <milestone unit="3dots"/></p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Neoptolemos</hi>: O, ich bin in Ver-<lb break="no"/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Philoktet</hi>: Und du verräthst<lb/>
+Ulysses <milestone unit="3dots"/>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Neoptolemos</hi>: O, ich bin in Ver-<lb break="no"/>
 zweiflung <milestone unit="3dots"/> Dir gab ich mich hin!<lb/>
 Liebst du mich? Sprich, Philoktet? Ist<lb/>
 das die Tugend?</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p>Philoktet: Kind! <milestone unit="3dots"/></p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Neoptolemos</hi>: Sieh’ her, das<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>Philoktet: Kind! <milestone unit="3dots"/>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Neoptolemos</hi>: Sieh’ her, das<lb/>
 bringe ich dir mit! Diese Phiole soll<lb/>
 dich einschläfern! Aber ich, sieh’, ich<lb/>
 gebe sie dir! Hier! Ist das die Tugend?<lb/>
 Sprich!</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Philoktet</hi>: Schritt für Schritt nur,<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Philoktet</hi>: Schritt für Schritt nur,<lb/>
 Kind, gelangt man zur Tugend; das,<lb/>
 was du jetzt thust, ist nur ein Sprung!</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Neoptolemos</hi>: So unterweise mich<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Neoptolemos</hi>: So unterweise mich<lb/>
 doch, Philoktet!</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Philoktet</hi>: Diese Phiole soll mich<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Philoktet</hi>: Diese Phiole soll mich<lb/>
 einschläfern, sagst du? (Er nimmt sie und<lb/>
 betrachtet sie.) Kleine Phiole <milestone unit="3dots"/> du wenig-<lb break="no"/>
 stens wirst dein Ziel nicht verfehlen.<lb/>
 Siehst du, was ich thue, Neoptolemos?<lb/>
 (Er trinkt.)</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Neoptolemos</hi>: Unglücklicher, das<lb/>
-ist <milestone unit="3dots"/></p>
-<milestone unit="untyped-end"/>
-</cell><cell>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Philoktet</hi>: Ich gebe mich hin!<lb/>
-Sag’ es Ulysses! Du magst ihm sagen <milestone unit="3dots"/><lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Neoptolemos</hi>: Unglücklicher, das<lb/>
+ist <milestone unit="3dots"/>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+                  <cell>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Philoktet</hi>: Ich gebe mich hin!<lb/>
+Sag’ es Ulysses! Du magst ihm sagen <milestone unit="3dots"/>
+                        <lb/>
 dass er komme. (Erschrocken eilt <hi rend="text-spaced">Neopto-<lb break="no"/>
 lemos</hi> davon und schreit auf.)</p>
-<milestone unit="untyped-end"/>
-<milestone unit="untyped-end"/>
-<milestone unit="scene-start"/>
-<ab><title>2. Scene.</title></ab>
-<p><hi rend="text-spaced">Philoktet</hi>, dann <hi rend="text-spaced">Ulysses</hi> und <hi rend="text-spaced">Neopto-<lb break="no"/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="scene-start"/>
+                     <ab>
+                        <title>2. Scene.</title>
+                     </ab>
+                     <p>
+                        <hi rend="text-spaced">Philoktet</hi>, dann <hi rend="text-spaced">Ulysses</hi> und <hi rend="text-spaced">Neopto-<lb break="no"/>
 lemos</hi>.</p>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Philoktet</hi> (allein): Und du wirst<lb/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Philoktet</hi> (allein): Und du wirst<lb/>
 mich bewundern, Ulysses; ich will dich<lb/>
 zwingen, mich zu bewundern. Meine<lb/>
 Tugend wird die deine übertreffen, und<lb/>
@@ -152,12 +194,14 @@ warum nimmst du nicht gleich deinen<lb/>
 Bogen? Je mehr du mich liebtest, umso<lb/>
 schwerer war es dir; du hast dich nicht<lb/>
 genug hingegeben. Nimm hin! (Er blickt<lb/>
-um sich.) Er ist nicht mehr da <milestone unit="3dots"/></p>
-<p>Dieser Trank hatte einen schreck-<lb break="no"/>
+um sich.) Er ist nicht mehr da <milestone unit="3dots"/>
+                     </p>
+                     <p>Dieser Trank hatte einen schreck-<lb break="no"/>
 lichen Geschmack. Wenn ich nur daran<lb/>
 denke, steigt mir das Herz. Ich möchte<lb/>
-früher einschlafen <milestone unit="3dots"/></p>
-<p>Von den vielen Arten von Hingabe<lb/>
+früher einschlafen <milestone unit="3dots"/>
+                     </p>
+                     <p>Von den vielen Arten von Hingabe<lb/>
 die thörichtste ist die Hingabe an andere,<lb/>
 denn dann ist man ihnen überlegen.<lb/>
 Ich gebe mich hin, ja, aber nicht meiner<lb/>
@@ -181,11 +225,15 @@ ich sie nur werfen? — Ins Meer, ins<lb/>
 Meer! (Er will laufen, aber fällt zurück, von<lb/>
 der Wirkung des Trankes überwältigt.) Ich<lb/>
 bin ohne Kraft! Ach! Mein Kopf wird<lb/>
-verwirrt <milestone unit="3dots"/> Er wird kommen <milestone unit="3dots"/></p>
-<p>Tugend! Tugend! in deinem bitteren<lb/>
+verwirrt <milestone unit="3dots"/> Er wird kommen <milestone unit="3dots"/>
+                     </p>
+                     <p>Tugend! Tugend! in deinem bitteren<lb/>
 Namen suche ich ein wenig vom großen<lb/>
 Rausch; hätte ich ihn schon erschöpft?</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

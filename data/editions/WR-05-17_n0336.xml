@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-17_n0336.xml"
-     prev="WR-05-17_n0335.xml"
-     next="WR-05-17_n0337.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-17_n0336.xml" prev="WR-05-17_n0335.xml" next="WR-05-17_n0337.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 16</title>
+                  <idno>WR-05-16_n0313.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 18</title>
+                  <idno>WR-05-18_n0343.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">KUHLENBECK: DIE GESCHLECHTSLIEBE IM LICHTE DER DESCENDENZ-THEORIE.</fw></fw><table><row><cell>
-<p rend="no-intend">lich sich die einzelnen Individuen auf die<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KUHLENBECK: DIE GESCHLECHTSLIEBE IM LICHTE DER DESCENDENZ-THEORIE.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">lich sich die einzelnen Individuen auf die<lb/>
 Erzeugung nur eines der beiden Zeugungs-<lb break="no"/>
 stoffe, entweder des männlichen oder des<lb/>
 weiblichen, beschränken (Nicht-Zwitter,<lb/>
@@ -68,27 +83,28 @@ gattungen, z. B. bei Krebsen, bei Bienen<lb/>
 jene auffällige »ungeschlechtliche« Fort-<lb break="no"/>
 pflanzung der <hi rend="text-spaced">Parthogenese</hi> oder<lb/>
 Jungfernzeugung.</p>
-<p>Es handelt sich hier um eine Ent-<lb break="no"/>
+                     <p>Es handelt sich hier um eine Ent-<lb break="no"/>
 wicklungsfähigkeit <hi rend="text-spaced">weiblicher</hi> Keim-<lb break="no"/>
 zellen ohne Befruchtung; die Parthogenese<lb/>
 hat sich aus der zweigeschlechtlichen Fort-<lb break="no"/>
 pflanzung entwickelt durch Ausfall der<lb/>
 Männchen und männlichen Keimzellen.<lb/>
 (Weissmann, <hi rend="italics">Amphimixis,</hi> S. 96.)</p>
-<p>Was lehrt nun dieser kurze entwick-<lb break="no"/>
+                     <p>Was lehrt nun dieser kurze entwick-<lb break="no"/>
 lungsgeschichtliche Rückblick dem denken-<lb break="no"/>
 den Beobachter über das Wesen der<lb/>
 Kypris oder, um hier bei dem naturwissen-<lb break="no"/>
 schaftlichen Ausdruck des von ihr be-<lb break="no"/>
 herrschten Vorganges zu bleiben, über die<lb/>
 Bedeutung der »Amphimixis«?</p>
-<p>Offenbar steht sie nicht sowohl im<lb/>
+                     <p>Offenbar steht sie nicht sowohl im<lb/>
 Dienste der Fortpflanzung und Erhaltung<lb/>
 des Lebens <hi rend="text-spaced">an sich</hi>, als vielmehr im<lb/>
 Dienste seiner <hi rend="text-spaced">Steigerung</hi> und fort-<lb break="no"/>
 schreitenden Differenzierung, das heißt<lb/>
 Individualisierung. Die bloße Er-<lb break="no"/>
-haltung und das rein <hi rend="text-spaced">conservative</hi><lb/>
+haltung und das rein <hi rend="text-spaced">conservative</hi>
+                        <lb/>
 Erbrecht der Natur würde durch die un-<lb break="no"/>
 geschlechtliche Fortpflanzung weit besser<lb/>
 gewährleistet; bei der bloßen Selbst-<lb break="no"/>
@@ -103,8 +119,9 @@ gemein große Ähnlichkeit der Nach-<lb break="no"/>
 kommen einer Mutter sowohl unter sich,<lb/>
 als mit der Mutter. Daher müssen wir<lb/>
 mit diesem Biologen die Bedeutung der ge-</p>
-</cell><cell>
-<p rend="no-intend">schlechtlichen Fortpflanzung darin finden,<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">schlechtlichen Fortpflanzung darin finden,<lb/>
 »den Betrag an <hi rend="text-spaced">individueller Varia-<lb break="no"/>
 bilität</hi> zu sichern, welcher für die phy-<lb break="no"/>
 letische Entwicklung der Organismenwelt<lb/>
@@ -121,15 +138,16 @@ individuellen Vererbungs-Tendenzen, wie<lb/>
 sie durch geschlechtliche Fortpflanzung ge-<lb break="no"/>
 setzt wird, ist die Quelle dieser Variabilität«.<lb/>
 (Weissmann, a. a. O., S. 128.)</p>
-<p><hi rend="text-spaced">Kypris also ist die Führerin<lb/>
+                     <p>
+                        <hi rend="text-spaced">Kypris also ist die Führerin<lb/>
 im Emporgang des Lebens und<lb/>
 des Geistes</hi> (<hi rend="text-spaced">des Bewusstseins</hi>).<lb/>
 Sie muss aber eine <hi rend="text-spaced">sehende</hi>, eine <hi rend="text-spaced">ziel-<lb break="no"/>
 bewusste</hi> Führerin sein, nicht eine<lb/>
 Magd des blinden Zufalls.</p>
-<p>Dies beweist ein einfacher Hinweis auf<lb/>
+                     <p>Dies beweist ein einfacher Hinweis auf<lb/>
 die Nothwendigkeit einer <hi rend="text-spaced">Auswahl</hi>, einer<lb/>
-<hi rend="text-spaced">geschlechtlichen Zuchtwahl</hi>. Die<lb/>
+                        <hi rend="text-spaced">geschlechtlichen Zuchtwahl</hi>. Die<lb/>
 Selections-Tendenz würde verloren gehen<lb/>
 durch <hi rend="text-spaced">Panmixia</hi>, d. h. Paarung be-<lb break="no"/>
 liebiger Individuen ohne vorhergehende<lb/>
@@ -156,10 +174,14 @@ einzigen Träger des Fortschrittes und der<lb/>
 Civilisation, aller Culturverfall ist <hi rend="text-spaced">De-<lb break="no"/>
 generation</hi>, d. h. Verlust an Rassenwert<lb/>
 durch Mischung mit minderwertigem Blute.*</p>
-</cell></row></table><note type="footnote">
-<p>* Das von uns vertretene System erklärt die Rassenwerte zwar für wichtig als Symptome,<lb/>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Das von uns vertretene System erklärt die Rassenwerte zwar für wichtig als Symptome,<lb/>
 aber nicht als Ursachen und, wie alles Physiologische, als secundär. Anm. d. Red.</p>
-</note></div>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

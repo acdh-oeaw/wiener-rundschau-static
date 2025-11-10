@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-13_n0275.xml"
-     prev="WR-05-13_n0274.xml"
-     next="WR-05-13_n0276.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-13_n0275.xml" prev="WR-05-13_n0274.xml" next="WR-05-13_n0276.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,18 +41,36 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 12</title>
+                  <idno>WR-05-12_n0249.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 14</title>
+                  <idno>WR-05-14_n0279.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">KUHAUPT: SUGGESTION ALS PSYCHOLOGISCHES HAUPTMOMENT IN DER KUNST.</fw></fw><table><row><cell>
-<p rend="no-intend">allgemein gefällt.« »Schönheit ist Form<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KUHAUPT: SUGGESTION ALS PSYCHOLOGISCHES HAUPTMOMENT IN DER KUNST.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">allgemein gefällt.« »Schönheit ist Form<lb/>
 der Zweckmäßigkeit eines Gegenstandes,<lb/>
 sofern sie ohne Vorstellung eines Zweckes<lb/>
 an ihm wahrgenommen wird«.</p>
-<p>Das Schöne in der Kunst wirkt unmittel-<lb break="no"/>
+                     <p>Das Schöne in der Kunst wirkt unmittel-<lb break="no"/>
 bar und zwingt uns in seinen Bann,<lb/>
 ohne dass wir nach einem Grund fragen<lb/>
 oder von einem bestimmten Willensinter-<lb break="no"/>
@@ -74,17 +89,18 @@ voller Kraft und ohne Concurrenz wirken<lb/>
 kann, je höher ist der Kunstgenuss, je<lb/>
 lebenswahrer aber auch die Darstellung<lb/>
 des mimischen Künstlers.</p>
-<p>Das Schöne in der Kunst, das allein<lb/>
+                     <p>Das Schöne in der Kunst, das allein<lb/>
 ja nur wirklich fesselt und uns in seinen<lb/>
 Bann zwingt, muss hiernach ein bedeut-<lb break="no"/>
 samer Veredlungsfactor der Menschheit<lb/>
 sein, und zwar aus folgendem Grunde:</p>
-<p>Es ist bekannt, dass durch die hyp-<lb break="no"/>
+                     <p>Es ist bekannt, dass durch die hyp-<lb break="no"/>
 notische Suggestion die organisierende<lb/>
 Kraft der Seele ausgelöst wird — oder<lb/>
 mit anderen Worten, dass die in der Hyp-</p>
-</cell><cell>
-<p rend="no-intend">nose eingepflanzten Vorstellungen ent-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">nose eingepflanzten Vorstellungen ent-<lb break="no"/>
 sprechende Veränderungen im Gebiete<lb/>
 des Organischen hervorrufen. Hierin be-<lb break="no"/>
 steht der therapeutische Wert der hyp-<lb break="no"/>
@@ -112,10 +128,15 @@ gestion; aber sie ist vorhanden und übt,<lb/>
 wenn auch in schwächerem Maße, einen<lb/>
 dem Charakter der seelischen Wirkung<lb/>
 adäquaten Einfluss auf den Körper aus.</p>
-<p>Wenn es mir gestattet wird, will ich<lb/>
+                     <p>Wenn es mir gestattet wird, will ich<lb/>
 mich in einem zweiten Aufsatz über diesen<lb/>
 Gegenstand eingehender verbreiten.</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/></div>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
       </body>
    </text>
 </TEI>

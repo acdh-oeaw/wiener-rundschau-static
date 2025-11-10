@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-09_n0204.xml"
-     prev="WR-05-09_n0203.xml"
-     next="WR-05-10_n0205.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-09_n0204.xml" prev="WR-05-09_n0203.xml" next="WR-05-10_n0205.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,15 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 8</title>
+                  <idno>WR-05-08_n0159.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 10</title>
+                  <idno>WR-05-10_n0205.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><table><row><cell>
-<milestone unit="untyped-start"/>
-<p><hi rend="text-spaced">John Ruskins Leben und Lebens-<lb break="no"/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="untyped-start"/>
+                     <p>
+                        <hi rend="text-spaced">John Ruskins Leben und Lebens-<lb break="no"/>
 werk</hi>. Von <hi rend="text-spaced">Samuel Sänger</hi>. Seit<lb/>
 den letzten Jahren gewinnen die Ideen<lb/>
 Ruskins, die in England schon seit drei<lb/>
@@ -74,7 +88,8 @@ bunden durch die Centralkraft der Rus-<lb break="no"/>
 kin’schen Mystik. Der Autor erleichtert<lb/>
 das Eindringen in diese Ideenwelt, indem<lb/>
 er die beiden Hauptpunkte dieser Polemik<lb/>
-gegen die heutige Civilisation: <hi rend="text-spaced">Kunst-</hi><lb/>
+gegen die heutige Civilisation: <hi rend="text-spaced">Kunst-</hi>
+                        <lb/>
 und <hi rend="text-spaced">Gesellschafts-Reform</hi>, ausein-<lb break="no"/>
 anderhält; er hebt hier »<hi rend="text-spaced">Sesame and<lb/>
 Lilies</hi>«, »<hi rend="text-spaced">Fors Clavigera</hi>« und »<hi rend="text-spaced">Unto<lb/>
@@ -95,11 +110,14 @@ officiellen politischen Ökonomen gezählt zu<lb/>
 werden. Vielmehr versuchte er, als social-<lb break="no"/>
 politisches Ideal die Objectivierung des<lb/>
 ästhetischen Geistes im Gesellschaftsleben<lb/>
-der Menschheit zu verkünden. <rs type="person" key="">b.</rs></p>
-<milestone unit="untyped-end"/>
-</cell><cell>
-<milestone unit="untyped-start"/>
-<p><hi rend="text-spaced">Vandevelde</hi>. Wir veröffentlichen<lb/>
+der Menschheit zu verkünden. <rs type="person" key="">b.</rs>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+                  <cell>
+                     <milestone unit="untyped-start"/>
+                     <p>
+                        <hi rend="text-spaced">Vandevelde</hi>. Wir veröffentlichen<lb/>
 in diesem Hefte drei Kleidertypen* des<lb/>
 Künstlers, dessen Vortrag vor kurzem hier<lb/>
 erörtert wurde. »Als die volkstümlichen<lb/>
@@ -143,10 +161,22 @@ führung das Körperliche zurücktreten lassen<lb/>
 will: das ist offenbar der ursprüngliche<lb/>
 aber in Vergessenheit gerathene Sinn jeder<lb/>
 Bekleidung überhaupt.</p>
-</cell></row></table><note type="footnote">
-<p>* Aus der »Allgemeinen Ausstellung für das Bekleidungswesen« (Crefeld, <date>1900</date>); heraus-<lb break="no"/>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Aus der »Allgemeinen Ausstellung für das Bekleidungswesen« (Crefeld, <date>1900</date>); heraus-<lb break="no"/>
 gegeben bei Friedrich Wolfrum, Düsseldorf.</p>
-</note><milestone unit="untyped-end"/><milestone unit="untyped-end"/><milestone unit="undefined"/><milestone unit="hr"/><milestone unit="imprint-start"/><p>Verantwortl. Redacteur: R. Dworschak. — K. k. Hoftheater-Druckerei, Wien, I., Wollzeile 17. (Verantwortl. A. Rimrich.)</p><milestone unit="untyped-end"/><milestone unit="untyped-end"/></div>
+            </note>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="hr"/>
+            <milestone unit="imprint-start"/>
+            <p>Verantwortl. Redacteur: R. Dworschak. — K. k. Hoftheater-Druckerei, Wien, I., Wollzeile 17. (Verantwortl. A. Rimrich.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
       </body>
    </text>
 </TEI>

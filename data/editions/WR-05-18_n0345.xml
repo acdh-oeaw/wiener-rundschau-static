@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-18_n0345.xml"
-     prev="WR-05-18_n0344.xml"
-     next="WR-05-18_n0346.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-18_n0345.xml" prev="WR-05-18_n0344.xml" next="WR-05-18_n0346.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,28 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 17</title>
+                  <idno>WR-05-17_n0327.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BAILLY: DIE MELOMANIE DES DICHTERS VILLIERS DE L’ISLE-ADAM.</fw></fw><table><row><cell>
-<p rend="no-intend">eine Materie, die auf der Lichtsphäre<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BAILLY: DIE MELOMANIE DES DICHTERS VILLIERS DE L’ISLE-ADAM.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">eine Materie, die auf der Lichtsphäre<lb/>
 schwimmt, in einen Rahmen strahlen-<lb break="no"/>
 den Lichtes eingefasst; das ist eine<lb/>
 Incrustation. Eine vedantische Schule<lb/>
@@ -68,27 +79,28 @@ sieren und nicht ihnen in einer Laterna<lb/>
 magica die Bilder zu zeigen, die in<lb/>
 ihrem Gehirn entstehen, die niederen<lb/>
 Phänomene der inneren Mikrobe.</p>
-<p>Wenn der Astronom den Kosmos<lb/>
+                     <p>Wenn der Astronom den Kosmos<lb/>
 zeichnet, zeichnet er das Interieur seines<lb/>
 Auges; die beiden correspondieren mit-<lb break="no"/>
 einander; das Firmament ist ein ge-<lb break="no"/>
 schlossenes Gewölbe, das ist die kos-<lb break="no"/>
 mische Hornhaut.</p>
-<p>Der gelbe Fleck und die Sonne sind<lb/>
+                     <p>Der gelbe Fleck und die Sonne sind<lb/>
 zwei analoge Dinge; die Sonne fabri-<lb break="no"/>
 ciert ebensowenig das Licht wie der<lb/>
 gelbe Fleck; sie condensiert es zum<lb/>
 Theil, und das ist alles; die Sterne<lb/>
 sind Licht, das durch ein gewisses Ge-<lb break="no"/>
 webe des kosmischen Auges reflectiert</p>
-</cell><cell>
-<p rend="no-intend">wird; und, wenn man das weiß, lächelt<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">wird; und, wenn man das weiß, lächelt<lb/>
 man wie ein Gott, wenn man die Elu-<lb break="no"/>
 cubrationen eines <hi rend="text-spaced">Flammarion</hi> liest,<lb/>
 und man erstaunt über den Grad von<lb/>
 Absurdheit, den die menschliche Ein-<lb break="no"/>
 bildung erreichen kann.</p>
-<p>Dann reflectiert man, dass die Ab-<lb break="no"/>
+                     <p>Dann reflectiert man, dass die Ab-<lb break="no"/>
 surdheit ein Factum ist wie jedes<lb/>
 andere, und wenn man begriffen hat,<lb/>
 dass die Erde eine Zelle des kosmischen<lb/>
@@ -106,16 +118,27 @@ Phantasien der astronomischen Ein-<lb break="no"/>
 bildung finden, die sich nur täuscht,<lb/>
 wenn sie denkt, die Sterne seien Sonnen<lb/>
 mit Gefolgen von Planeten.</p>
-<p>Man muss die Ausdrücke Makro-<lb break="no"/>
+                     <p>Man muss die Ausdrücke Makro-<lb break="no"/>
 kosmos und Mikrokosmos ernst nehmen,<lb/>
 um zum Verständnis der Natur zu<lb/>
 gelangen. Nichts außer dem Menschen,<lb/>
 das nicht im Menschen wäre — und<lb/>
 in allen Wesen.</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/><milestone unit="untyped-start"/><ab><title>DIE MELOMANIE DES DICHTERS VILLIERS DE<lb/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIE MELOMANIE DES DICHTERS VILLIERS DE<lb/>
 L’ISLE-ADAM.<lb/>
-Von <rs type="person" key="">EDMOND BAILLY</rs> (Paris).</title></ab><table><row><cell>
-<p>Nun sind Jahre dahin, seitdem wir<lb/>
+Von <rs type="person" key="">EDMOND BAILLY</rs> (Paris).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Nun sind Jahre dahin, seitdem wir<lb/>
 den Dichter der »<hi rend="italics">Contes cruels</hi>«, »<hi rend="italics">Axel</hi>«,<lb/>
 »<hi rend="italics">Akidysséril</hi>« und anderer Meisterwerke<lb/>
 zu Grabe geleitet. In langem Zuge giengen<lb/>
@@ -128,8 +151,9 @@ lichen Poeten, der einer der vornehmsten<lb/>
 Künstler und der trefflichste unserer Freunde<lb/>
 war. Die Presse schlug großen Lärm, sehr<lb/>
 verschiedene und sehr verständnislose Mei-</p>
-</cell><cell>
-<p rend="no-intend">nungen wurden laut; im übrigen gieng man<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">nungen wurden laut; im übrigen gieng man<lb/>
 rasch zur Tagesordnung über. Doch, ich<lb/>
 will hier nicht einen verspäteten Nekrolog<lb/>
 über den merkwürdigen Mann schreiben,<lb/>
@@ -142,7 +166,10 @@ zu schätzen haben. Wenige haben diese<lb/>
 seltsame Seite seiner Persönlichkeit in<lb/>
 Betracht gezogen; wenige wussten auch,<lb/>
 dass ihm der Papst ein ungewöhnlich</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-06_n0132.xml"
-     prev="WR-05-06_n0131.xml"
-     next="WR-05-06_n0133.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-06_n0132.xml" prev="WR-05-06_n0131.xml" next="WR-05-06_n0133.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 5</title>
+                  <idno>WR-05-05_n0097.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 7</title>
+                  <idno>WR-05-07_n0141.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">HARTMANN: DIE GEHEIME BEDEUTUNG DES KREUZES.</fw></fw><table><row><cell>
-<p rend="no-intend">heit ist, die sich schon in den ältesten<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">HARTMANN: DIE GEHEIME BEDEUTUNG DES KREUZES.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">heit ist, die sich schon in den ältesten<lb/>
 Religionssystemen, lange vor der christ-<lb break="no"/>
 lichen Zeitrechnung, durch das Symbol<lb/>
 des Kreuzes und der Kreuzigung darge-<lb break="no"/>
@@ -68,7 +83,7 @@ uns, der »ist das Geheimnis der Erlösung«<lb/>
 (Coloss. I, 27), und es ist in der Bibel<lb/>
 häufig von dem Kreuze, das jeder auf<lb/>
 sich nehmen muss, (Matth. X, 38) die Rede.</p>
-<p>Auch widerspricht die Erzählung einer<lb/>
+                     <p>Auch widerspricht die Erzählung einer<lb/>
 solchen von Gott angeordneten Hin-<lb break="no"/>
 schlachtung dem Gefühle der Gerechtig-<lb break="no"/>
 keit. Eine alte Frau unter den »Heiden«,<lb/>
@@ -86,7 +101,7 @@ Vortheil für sich selbst zu erhaschen<lb/>
 sucht, scheut sich, Gott, der Verkörperung<lb/>
 der höchsten Weisheit, Liebe und Güte,<lb/>
 eine solche Grausamkeit zuzuschreiben.</p>
-<p>Ein Gelehrter, namens Bierbauer, der<lb/>
+                     <p>Ein Gelehrter, namens Bierbauer, der<lb/>
 sich viel mit dieser Frage beschäftigt<lb/>
 hat, weist in seinem Buche »<hi rend="text-spaced">Wurde<lb/>
 Christus gekreuzigt</hi>« nach, dass die<lb/>
@@ -105,8 +120,9 @@ jüdische Sanhedrin war eine Versamm-<lb break="no"/>
 lung ernster und angesehener Männer und<lb/>
 bestand aus mindestens dreiundzwanzig<lb/>
 Richtern. Diese hielten ihre Sitzungen</p>
-</cell><cell>
-<p rend="no-intend">weder des Nachts, noch in dem Hause<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">weder des Nachts, noch in dem Hause<lb/>
 des Hohenpriesters ab; auch durften sie<lb/>
 nach Sonnenuntergang kein Urtheil ab-<lb break="no"/>
 geben. Es war ihnen vorgeschrieben, dem<lb/>
@@ -130,7 +146,7 @@ widersprechen sich gegenseitig. Dass die<lb/>
 Orte, welche man den Fremden in Jeru-<lb break="no"/>
 salem zeigt, nicht die richtigen sind, da-<lb break="no"/>
 rüber herrscht heutzutage kein Zweifel.</p>
-<p>Es ist natürlich nicht unsere Absicht,<lb/>
+                     <p>Es ist natürlich nicht unsere Absicht,<lb/>
 den christlichen Mythus zu untergraben<lb/>
 oder zu beseitigen und dadurch dem Un-<lb break="no"/>
 glauben eine Stütze zu geben, wohl aber<lb/>
@@ -160,7 +176,10 @@ zu suchen, als selber den Weg zu gehen,<lb/>
 der allein zum Ziele führt und der in<lb/>
 der Bibel als die Leidensgeschichte Jesu<lb/>
 sinnbildlich dargestellt ist.</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

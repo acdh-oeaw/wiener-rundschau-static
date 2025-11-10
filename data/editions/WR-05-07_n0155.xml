@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-07_n0155.xml"
-     prev="WR-05-07_n0154.xml"
-     next="WR-05-07_n0156.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-07_n0155.xml" prev="WR-05-07_n0154.xml" next="WR-05-07_n0156.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 6</title>
+                  <idno>WR-05-06_n0115.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 8</title>
+                  <idno>WR-05-08_n0159.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BRIDIER: WIE VERSETZT MAN SICH IN DIE PERSÖNLICHKEIT EINES ANDEREN?</fw></fw><table><row><cell>
-<p>Dass wir unsere Hand den Umrissen<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BRIDIER: WIE VERSETZT MAN SICH IN DIE PERSÖNLICHKEIT EINES ANDEREN?</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Dass wir unsere Hand den Umrissen<lb/>
 eines Gegenstandes anpassen, ruft in unse-<lb break="no"/>
 rem Vorstellungsvermögen ein schärferes<lb/>
 Bild der Gestaltung dieses Gegenstandes<lb/>
@@ -61,7 +76,7 @@ Tastgefühl zum Erkennen der Dinge führt,<lb/>
 und, was Veranschaulichung der Form<lb/>
 betrifft, das fehlende Auge vollständig<lb/>
 ersetzt.</p>
-<p>Andererseits geht in unserem Be-<lb break="no"/>
+                     <p>Andererseits geht in unserem Be-<lb break="no"/>
 wusstsein zugleich mit der Anschauung<lb/>
 eines Dinges ein beginnender Anpassungs-<lb break="no"/>
 Process unserer Greiforgane vor sich, der<lb/>
@@ -76,7 +91,7 @@ zeichnet haben; im Grunde genommen,<lb/>
 ist diese Identification eine einfache Er-<lb break="no"/>
 scheinungsform der Nachahmung und der<lb/>
 nervösen Sympathie.</p>
-<p>Dies die Erläuterung einer Thatsache,<lb/>
+                     <p>Dies die Erläuterung einer Thatsache,<lb/>
 die die Ahnung im Menschengeiste lange<lb/>
 vorher erfasste, ehe noch die physiologischen<lb/>
 Wissenschaften Licht gebracht hatten in die<lb/>
@@ -86,13 +101,13 @@ Hypnotismus ist derart beträchtlich, dass<lb/>
 seine Wirkung sich mit der einer<lb/>
 mächtigen seelischen Lupe vergleichen<lb/>
 lässt.</p>
-<p>So erklärt man sich, wie ein Schrift-<lb break="no"/>
+                     <p>So erklärt man sich, wie ein Schrift-<lb break="no"/>
 steller aus dem Beginn dieses Jahrhunderts,<lb/>
 der in Selbstbespiegelung und Selbstbe-<lb break="no"/>
 obachtung machte, folgende Zeilen hat<lb/>
 schreiben können, die eine ganze Methode<lb/>
 in sich schließen:</p>
-<p>»Wenn ich wissen will, bis zu welchem<lb/>
+                     <p>»Wenn ich wissen will, bis zu welchem<lb/>
 Grade jemand umsichtig oder dumm ist,<lb/>
 wenn ich das mögliche Maß seiner Güte<lb/>
 oder Bosheit ermessen, seinen augenblick-<lb break="no"/>
@@ -104,15 +119,16 @@ Gedanken und Empfindungen in meinem<lb/>
 Geiste und Herzen emporkeimen, als eine<lb/>
 meiner Physiognomie entsprechende An-<lb break="no"/>
 passung. Probatum est.«</p>
-</cell><cell>
-<p>Obiges enthält eine sehr genaue Be-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p>Obiges enthält eine sehr genaue Be-<lb break="no"/>
 schreibung des Verlaufes gewisser Sym-<lb break="no"/>
 pathie- oder Inductions-Erscheinungen von<lb/>
 psychomotorischer Art, die alle Beziehungen<lb/>
 zwischen den Erregungen und Gefühlen,<lb/>
 sammt dem hier thätigen Mechanismus,<lb/>
 bedingen.</p>
-<p>Gemüthsbewegungen und Empfin-<lb break="no"/>
+                     <p>Gemüthsbewegungen und Empfin-<lb break="no"/>
 dungen wirken ansteckend, und wenn der<lb/>
 Blick ein geeignetes Werkzeug der<lb/>
 Identification ergibt, liegt die Ursache<lb/>
@@ -120,11 +136,11 @@ darin, dass bloßes Anschauen einer Be-<lb break="no"/>
 wegung einen Anreiz zur Wiederholung<lb/>
 derselben schafft, wie aus dem oben An-<lb break="no"/>
 geführten zur Genüge erhellt.</p>
-<p>Jede Kundgebung der allgemeinen<lb/>
+                     <p>Jede Kundgebung der allgemeinen<lb/>
 Mimik, insbesondere aber das Mienenspiel,<lb/>
 wird bewusst oder unbewusst mittelst des-<lb break="no"/>
 selben Vorganges wiederholt.</p>
-<p>Dies sind nicht etwa bloße theoretische<lb/>
+                     <p>Dies sind nicht etwa bloße theoretische<lb/>
 Speculationen; die Arbeiten von Richet,<lb/>
 Charcot, Braid, Fèré u. s. w. haben auf<lb/>
 experimentellem Wege den praktischen<lb/>
@@ -134,10 +150,10 @@ Betreff der Suggestion einer Idee, einer<lb/>
 Gefühlserregung, ja selbst einer That ver-<lb break="no"/>
 mittelst der entsprechenden Geberde oder<lb/>
 lebhaften Mienenspiels.</p>
-<p>Im Alltagsleben treten diese Erschei-<lb break="no"/>
+                     <p>Im Alltagsleben treten diese Erschei-<lb break="no"/>
 nungen zwar wahrnehmbar, doch ohne<lb/>
 sonderliche Intensität auf.</p>
-<p>Mehr oder minder liest man einem<lb/>
+                     <p>Mehr oder minder liest man einem<lb/>
 Menschen doch die Gedanken von der<lb/>
 Stirn, — eine Thatsache, die nicht beein-<lb break="no"/>
 trächtigt wird durch die sich bisweilen<lb/>
@@ -149,17 +165,20 @@ die Gesinnung der Menschen, ehe er sie<lb/>
 um ein Almosen angeht, und er hütet sich<lb/>
 wohl, jedermann wahllos auf dieselbe Art<lb/>
 anzusprechen.</p>
-<p>Mehr noch, die ausdrucksvolle Sprache<lb/>
+                     <p>Mehr noch, die ausdrucksvolle Sprache<lb/>
 des Geberdenspiels stellt eine Verbindung<lb/>
 zwischen Mensch und Thier her.</p>
-<p>Wenn jemand die Physiognomie eines<lb/>
+                     <p>Wenn jemand die Physiognomie eines<lb/>
 anderen einer gespannten, aufmerksamen<lb/>
 Beobachtung unterzieht, trachtet er, ihm<lb/>
 selbst unbewusst, danach, seinen Gesichts-<lb break="no"/>
 ausdruck dem Vorbilde anzubequemen, sich<lb/>
 selbst gleichsam in eine andere Tonart umzu-<lb break="no"/>
 setzen: das Ergebnis hievon ist eine Identifi-</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-14_n0289.xml"
-     prev="WR-05-14_n0288.xml"
-     next="WR-05-14_n0290.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-14_n0289.xml" prev="WR-05-14_n0288.xml" next="WR-05-14_n0290.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 13</title>
+                  <idno>WR-05-13_n0265.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 15</title>
+                  <idno>WR-05-15_n0295.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BRYK: GENIE UND ANTICIPATION.</fw></fw><table><row><cell>
-<p rend="no-intend">nommen. Eine solche, auch aufs Ausland<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BRYK: GENIE UND ANTICIPATION.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">nommen. Eine solche, auch aufs Ausland<lb/>
 übertragene Organisation dürfte einen<lb/>
 internationalen Austausch klarer, gedanken-<lb break="no"/>
 reicher Bücher hervorbringen, die zur Be-<lb break="no"/>
@@ -59,7 +74,7 @@ reicherung der Bibliotheken dienen und<lb/>
 neben der thatsächlichen Bibliographie ein<lb/>
 geistiges Memento ersten Ranges bilden<lb/>
 würde.</p>
-<p>Das wäre eine Aufgabe für die lite-<lb break="no"/>
+                     <p>Das wäre eine Aufgabe für die lite-<lb break="no"/>
 rarischen Akademien; doch müssten sie<lb/>
 zu diesem Zwecke zuerst von dem mani-<lb break="no"/>
 rierten und rückständigen Geiste befreit<lb/>
@@ -75,8 +90,9 @@ die mit klarer Deutlichkeit für die Qualität,<lb/>
 die Mission und die Entwicklung unseres<lb/>
 Geisteslebens vor dem Ausland einstehen<lb/>
 müsste. Zu diesem Zwecke aber wären</p>
-</cell><cell>
-<p rend="no-intend">erst die letzten Bande zu zerreißen,<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">erst die letzten Bande zu zerreißen,<lb/>
 die den Kritiker an den Journalismus<lb/>
 fesseln, das heißt seine Mission herab-<lb break="no"/>
 würdigen, ihm einen unmittelbaren Arbeits-<lb break="no"/>
@@ -100,9 +116,20 @@ als die Umwandlung von Idee und Kraft,<lb/>
 als die erhabene Alchymie, die das rohe<lb/>
 Mineral des Gedankens in lauteres Gold<lb/>
 verwandelt.</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/><milestone unit="untyped-start"/><ab><title>GENIE UND ANTICIPATION.<lb/>
-Von <rs type="person" key="">OTTO BRYK</rs> (Wien).</title></ab><table><row><cell>
-<p>Das wundervolle Schauspiel der An-<lb break="no"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>GENIE UND ANTICIPATION.<lb/>
+Von <rs type="person" key="">OTTO BRYK</rs> (Wien).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Das wundervolle Schauspiel der An-<lb break="no"/>
 passung, das die Natur alltäglich und<lb/>
 allstündlich vor unseren Augen aufführt,<lb/>
 hat lange allen Erklärungsversuchen ge-<lb break="no"/>
@@ -120,8 +147,9 @@ mystisch-klaren Denkart sich zufrieden-<lb break="no"/>
 gestellt hatte, das Intellectuelle in der<lb/>
 Function der Zweckerkenntnis zu ent-<lb break="no"/>
 wickeln, so war für Schopenhauer der</p>
-</cell><cell>
-<p rend="no-intend">Schritt zum Metaphysischen von selbst<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Schritt zum Metaphysischen von selbst<lb/>
 gegeben. Ein zeitloses Wesen bringt die<lb/>
 Natur hervor; die unendliche Mannig-<lb break="no"/>
 faltigkeit von Absichten und Zwecken<lb/>
@@ -135,11 +163,14 @@ mechanistische Contactwirkung zu erklären<lb/>
 versucht, gelangt auf diesem Wege nur<lb/>
 zum Verständnis der gröbsten Vorgänge<lb/>
 und Zusammenhänge.</p>
-<p>Diese Erwähnungen müssten voraus-<lb break="no"/>
+                     <p>Diese Erwähnungen müssten voraus-<lb break="no"/>
 geschickt werden, weil sich die Theorie<lb/>
 der genialen Production naturnothwendig<lb/>
 auf sie stützt. Man hat bisher den Begriff</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

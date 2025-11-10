@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-08_n0182.xml"
-     prev="WR-05-08_n0181.xml"
-     next="WR-05-08_n0183.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-08_n0182.xml" prev="WR-05-08_n0181.xml" next="WR-05-08_n0183.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 7</title>
+                  <idno>WR-05-07_n0141.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 9</title>
+                  <idno>WR-05-09_n0189.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">MAUCLAIR: MALLARMÉ.</fw></fw><table><row><cell>
-<p>Diese besondere Sprache, die dem<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MAUCLAIR: MALLARMÉ.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Diese besondere Sprache, die dem<lb/>
 gewöhnlichen Gebrauch durch die<lb/>
 Eigenart der Ausdrücke, die Viel-<lb break="no"/>
 fältigkeit der Cäsuren, die Tonalität<lb/>
@@ -60,7 +75,8 @@ brauch der Syntax entzogen war,<lb/>
 wollte Mallarmé nicht allein auf die<lb/>
 Symbole an sich angewendet wissen,<lb/>
 nein, er hielt sie auch für geeignet,<lb/>
-eine <hi rend="text-spaced">Anspielung auf die Symbole</hi><lb/>
+eine <hi rend="text-spaced">Anspielung auf die Symbole</hi>
+                        <lb/>
 wiederzugeben und auszudrücken. Diese<lb/>
 Technik der Anspielung, der Fiction,<lb/>
 der Allegorie, erschien Mallarmé als<lb/>
@@ -105,8 +121,9 @@ den Berührungsgrad zwischen dem<lb/>
 musikalischen Poeten und dem lite-<lb break="no"/>
 rarischen Symphoniker und weist gleich-<lb break="no"/>
 zeitig ihre Unähnlichkeit nach. Denn</p>
-</cell><cell>
-<p rend="no-intend">Mallarmé gieng, während er die musika-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Mallarmé gieng, während er die musika-<lb break="no"/>
 lische Entwicklung des Stils vorher-<lb break="no"/>
 sagte, der Verwechslung der Poesie<lb/>
 mit der Musik, die Taine prophezeit<lb/>
@@ -117,7 +134,7 @@ leben angehört, vollständig getrennt<lb/>
 erhalten wissen. Das aber veranlasst<lb/>
 uns, von seinen Ideen über den Vers<lb/>
 zu sprechen.</p>
-<p>Mallarmé fasste den Vers als ver-<lb break="no"/>
+                     <p>Mallarmé fasste den Vers als ver-<lb break="no"/>
 mittelndes Gedankenglied zwischen der<lb/>
 gesprochenen Sprache und der Musik<lb/>
 auf und betrachtete diesen Ausdruck<lb/>
@@ -131,11 +148,11 @@ der Masse resümierte und sie auf das<lb/>
 Individuum zurückführte. Der Vers war<lb/>
 in seinen Augen der diesen beiden Auf-<lb break="no"/>
 fassungsarten gemeinsame Ausdruck.</p>
-<p>Der Vers war ein verkürztes Or-<lb break="no"/>
+                     <p>Der Vers war ein verkürztes Or-<lb break="no"/>
 chester, »une musique de chambre«,<lb/>
 wie er sagte. Er war also das Haupt-<lb break="no"/>
 element eines Werkes.</p>
-<p>In dem Werke, wie Mallarmé es er-<lb break="no"/>
+                     <p>In dem Werke, wie Mallarmé es er-<lb break="no"/>
 träumte, war die Verschmelzung des<lb/>
 Wortes, der Geste, der Decoration, des<lb/>
 Ballets, sowie des musikalischen Aus-<lb break="no"/>
@@ -160,7 +177,10 @@ der mimischen Combinationen das<lb/>
 thätige Element; das Ballet war das<lb/>
 belebte Element der Decoration und<lb/>
 verkörperte die Theilnahme der Natur</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

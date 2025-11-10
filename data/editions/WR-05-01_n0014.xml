@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-01_n0014.xml"
-     prev="WR-05-01_n0013.xml"
-     next="WR-05-01_n0014_a.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-01_n0014.xml" prev="WR-05-01_n0013.xml" next="WR-05-01_n0014_a.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,15 +41,34 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 4, Nr. 24</title>
+                  <idno>WR-04-24_n0421.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 2</title>
+                  <idno>WR-05-02_n0023.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>DER FALL BÜCHNER.<lb/>
-Von DR. <rs type="person" key="">HANS LANDSBERG</rs> (Berlin).</title></ab><table><row><cell>
-<p>Eine langjährige Beschäftigung mit<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DER FALL BÜCHNER.<lb/>
+Von DR. <rs type="person" key="">HANS LANDSBERG</rs> (Berlin).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Eine langjährige Beschäftigung mit<lb/>
 Georg Büchner, über den ich demnächst eine<lb/>
 Monographie zu veröffentlichen gedenke,<lb/>
 gibt mir wohl das Recht, der irrthümlichen<lb/>
@@ -83,8 +99,9 @@ Büchners Bedeutung erkannt — außer<lb/>
 Julian Schmidt hat ihn bisher noch jeder<lb/>
 mit ein paar nichtssagenden Worten ab-<lb break="no"/>
 gefunden oder gänzlich todtgeschwiegen —,</p>
-</cell><cell>
-<p rend="no-intend">es waren vielmehr die Vorkämpfer des<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">es waren vielmehr die Vorkämpfer des<lb/>
 jüngsten Deutschland, wie M. G. Conrad,<lb/>
 Conradi, Bierbaum etc., die sich begeistert<lb/>
 einem jungen Genie zuwandten, das in<lb/>
@@ -115,24 +132,42 @@ Tod«: »Büchners »Danton« ist herrlich.<lb/>
 Warum schreib’ ich solch einen Ge-<lb break="no"/>
 meinplatz hin? Um meinem Gefühl genug<lb/>
 zu thun.«</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/><milestone unit="untyped-start"/><ab><title><hi rend="text-spaced">BÜCHER</hi>.</title></ab><table><row><cell>
-<milestone unit="untyped-start"/>
-<p><hi rend="text-spaced">Phantasien eines Realisten</hi>. Von<lb/>
-<hi rend="text-spaced">Lynkeus</hi>. Dresden und Leipzig. Verlag<lb/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">BÜCHER</hi>.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="untyped-start"/>
+                     <p>
+                        <hi rend="text-spaced">Phantasien eines Realisten</hi>. Von<lb/>
+                        <hi rend="text-spaced">Lynkeus</hi>. Dresden und Leipzig. Verlag<lb/>
 von Carl <hi rend="text-spaced">Reissner</hi>. 2. Auflage, <date>1901</date>.</p>
-<p>Auf dem Schiffe der Argonauten war<lb/>
+                     <p>Auf dem Schiffe der Argonauten war<lb/>
 Lynkeus, der Scharfblickende, zum Steuer-<lb break="no"/>
 mann bestellt. Denn er hatte die besten<lb/>
 Augen, einen unbestechlichen, in die</p>
-</cell><cell>
-<p rend="no-intend">Ferne dringenden, jeden Nebel und jede<lb/>
-Dunkelheit spaltenden Blick <milestone unit="3dots"/></p>
-<p>Dieser Blick des Lynkeus ist in dem<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Ferne dringenden, jeden Nebel und jede<lb/>
+Dunkelheit spaltenden Blick <milestone unit="3dots"/>
+                     </p>
+                     <p>Dieser Blick des Lynkeus ist in dem<lb/>
 Buche: »Phantasien eines Realisten«. Es<lb/>
 ist eine Argonautenfahrt durch die ge-<lb break="no"/>
 fährliche Welt der menschlichen Leiden-<lb break="no"/>
 schaften und die Meeres-Tücken des</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-08_n0168.xml"
-     prev="WR-05-08_n0167.xml"
-     next="WR-05-08_n0169.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-08_n0168.xml" prev="WR-05-08_n0167.xml" next="WR-05-08_n0169.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,15 +41,34 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 7</title>
+                  <idno>WR-05-07_n0141.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 9</title>
+                  <idno>WR-05-09_n0189.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>ÜBER DEN MODERNEN HOLZSCHNITT.<lb/>
-Von <rs type="person" key="">EMIL RUDOLF WEISS</rs> (Baden Baden).</title></ab><table><row><cell>
-<p>Der Holzschnitt ist eines der syn-<lb break="no"/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>ÜBER DEN MODERNEN HOLZSCHNITT.<lb/>
+Von <rs type="person" key="">EMIL RUDOLF WEISS</rs> (Baden Baden).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Der Holzschnitt ist eines der syn-<lb break="no"/>
 thetischesten Ausdrucksmittel des bilden-<lb break="no"/>
 den Künstlers. Er ist sicherlich die syn-<lb break="no"/>
 thetischeste der graphischen Techniken.<lb/>
@@ -80,8 +96,8 @@ vom Künstler nicht trennen. Und ich<lb/>
 mache für die traurigen Leistungen der<lb/>
 Leute, die alle sich Künstler nennen,<lb/>
 ihr Menschsein verantwortlich.</p>
-<milestone unit="asterisk"/>
-<p>Ich erinnere mich sehr gut, aus<lb/>
+                     <milestone unit="asterisk"/>
+                     <p>Ich erinnere mich sehr gut, aus<lb/>
 welchen Anfängen ich und einige An-<lb break="no"/>
 dere zum Holzschnitt kamen. Wir kamen<lb/>
 von der Radierung. Wir wollten auf<lb/>
@@ -97,9 +113,10 @@ dierungen, wie ich sie fühle, nachdem<lb/>
 ich das Wesen der Radierung erkannt<lb/>
 habe, waren es nicht. Es waren Schritte<lb/>
 zum Holzschnitt.</p>
-<milestone unit="asterisk"/>
-</cell><cell>
-<p>Damals kamen uns die ersten Holz-<lb break="no"/>
+                     <milestone unit="asterisk"/>
+                  </cell>
+                  <cell>
+                     <p>Damals kamen uns die ersten Holz-<lb break="no"/>
 schnitte aus dem Ausland zu Gesicht.<lb/>
 Es war dies um die stürmische Zeit<lb/>
 anfangs der Neunzigerjahre, als überall<lb/>
@@ -146,7 +163,10 @@ Verlaine, der eine Viertelstunde von<lb/>
 ihm wohnte! Es ist auch darnach. Es<lb/>
 scheint, dass Vallotton zu seinem Scha-<lb break="no"/>
 den, wie manch Anderer, der Versuchung</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

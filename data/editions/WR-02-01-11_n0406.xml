@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-11_n0406.xml"
-     prev="WR-02-01-11_n0405.xml"
-     next="WR-02-01-11_n0407.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-11_n0406.xml" prev="WR-02-01-11_n0405.xml" next="WR-02-01-11_n0407.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,41 +42,86 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 10</title>
+                  <idno>WR-02-01-10_n0361.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 12</title>
+                  <idno>WR-02-01-12_n0441.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>»STUDIA LA MATEMATICA.«<lb/>
-<hi rend="text-spaced">Von <rs type="person" key="">Ernest La Jeunesse</rs></hi> (<hi rend="text-spaced">Paris</hi>).<lb/>
-Autorisirte Uebersetzung.</title></ab><p>Im Garten des Palais Royal. Da denken wir an das kleine<lb/>
-Mädchen aus der Sammlung des Herrn Frédéric Masson.1)</p><p>Es besitzt immer noch »seine grosse Jugend, seine bleiche Gesichts-<lb break="no"/>
-farbe und seine schwache Gestalt«.</p><p>Und es ist ihm kalt.</p><p>Es steht in einer Ecke des Palais Royal, von dunklem Grün<lb/>
-umgeben, in einer Ecke, wo der Stein weich erscheint.</p><p>Und das kleine Geschöpf »weiblichen Geschlechts« scheint auf<lb/>
-Jemanden zu warten.</p><p>Es kommt Jemand. Es ist kein kleiner Officier, dem sie, auf<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>»STUDIA LA MATEMATICA.«<lb/>
+                  <hi rend="text-spaced">Von <rs type="person" key="">Ernest La Jeunesse</rs>
+                  </hi> (<hi rend="text-spaced">Paris</hi>).<lb/>
+Autorisirte Uebersetzung.</title>
+            </ab>
+            <p>Im Garten des Palais Royal. Da denken wir an das kleine<lb/>
+Mädchen aus der Sammlung des Herrn Frédéric Masson.1)</p>
+            <p>Es besitzt immer noch »seine grosse Jugend, seine bleiche Gesichts-<lb break="no"/>
+farbe und seine schwache Gestalt«.</p>
+            <p>Und es ist ihm kalt.</p>
+            <p>Es steht in einer Ecke des Palais Royal, von dunklem Grün<lb/>
+umgeben, in einer Ecke, wo der Stein weich erscheint.</p>
+            <p>Und das kleine Geschöpf »weiblichen Geschlechts« scheint auf<lb/>
+Jemanden zu warten.</p>
+            <p>Es kommt Jemand. Es ist kein kleiner Officier, dem sie, auf<lb/>
 seine Bitte hin, erzählen wird, auf welche Weise sie ihre Jungfrauschaft<lb/>
 verloren hat, es ist eine Frau, »ein junges Mädchen von blendender<lb/>
-Schönheit, sehr kokett und sehr flink«.</p><p>Das kleine Mädchen vom Palais Royal ist sehr traurig; es<lb/>
+Schönheit, sehr kokett und sehr flink«.</p>
+            <p>Das kleine Mädchen vom Palais Royal ist sehr traurig; es<lb/>
 friert. Und sie begrüsst höflich, fast respectvoll die schöne Dame, die<lb/>
-nicht friert.</p><p>Die schöne Dame gibt ihm seinen Gruss zurück — auf italienisch.<lb/>
+nicht friert.</p>
+            <p>Die schöne Dame gibt ihm seinen Gruss zurück — auf italienisch.<lb/>
 »Ihre Manchetten und ihre Halsumfassung sind mit Goldfäden besetzt,<lb/>
-welche rosafarbener Flitter ziert.«</p><p>Sie spricht.</p><p>Ich heisse Julietta, sagt sie. Ich bin die Julietta von Jean Jacques<lb/>
-Rousseau.2)</p><p>— Ich weiss nicht, wie man mich nennt, sagt das kleine Mädchen<lb/>
+welche rosafarbener Flitter ziert.«</p>
+            <p>Sie spricht.</p>
+            <p>Ich heisse Julietta, sagt sie. Ich bin die Julietta von Jean Jacques<lb/>
+Rousseau.2)</p>
+            <p>— Ich weiss nicht, wie man mich nennt, sagt das kleine Mädchen<lb/>
 aus der Sammlung des Herrn Frédéric Masson. Ich weiss, dass<lb/>
 ich sehr viel genannt werde. Und das kommt daher, weil ich an dieser<lb/>
 Stelle mit einem schwarz-gelben kleinen Officier geplaudert habe, dessen<lb/>
-Namen ich ein Jahrhundert später erfuhr. Es war Napoleon Bonaparte.</p><milestone unit="hr"/><note type="footnote">
-<p>1) In dem ersten Capitel seines »<hi rend="text-spaced">Napoleon et les Femmes</hi>« citirt<lb/>
+Namen ich ein Jahrhundert später erfuhr. Es war Napoleon Bonaparte.</p>
+            <milestone unit="hr"/>
+            <note type="footnote">
+               <p>1) In dem ersten Capitel seines »<hi rend="text-spaced">Napoleon et les Femmes</hi>« citirt<lb/>
 Frédéric Masson die Schilderung, welche der achtzehnjährige Corse von seiner<lb/>
 Begegnung mit dem »Mädchen des Palais Royal« gab. Die Anekdote ist zu be-<lb break="no"/>
-kannt, als dass näher darauf hingewiesen werden müsste. <hi rend="italics">H. A.</hi></p>
-<p>2) Rousseau spricht in dem siebenten Buch seiner »<hi rend="text-spaced">Bekenntnisse</hi>« von<lb/>
+kannt, als dass näher darauf hingewiesen werden müsste. <hi rend="italics">H. A.</hi>
+               </p>
+               <p>2) Rousseau spricht in dem siebenten Buch seiner »<hi rend="text-spaced">Bekenntnisse</hi>« von<lb/>
 dem Abenteuer, das er <date>1744</date> in Venedig mit dieser Julietta hatte. Sie warf ihm,<lb/>
 ihn enttäuscht zur Thüre hinauswerfend, das verächtliche: »<hi rend="text-spaced">Lascia le donne<lb/>
 e studia la maternatica</hi>«zu. Die beiden oberen in Anführungszeichen stehenden<lb/>
-Sätze sind wörtlich Rousseau’s »<hi rend="text-spaced">Bekenntnissen</hi>« entnommen. <hi rend="italics">H. A.</hi></p>
-</note></div>
+Sätze sind wörtlich Rousseau’s »<hi rend="text-spaced">Bekenntnissen</hi>« entnommen. <hi rend="italics">H. A.</hi>
+               </p>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

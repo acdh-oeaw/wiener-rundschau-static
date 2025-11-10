@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-15_n0306.xml"
-     prev="WR-05-15_n0305.xml"
-     next="WR-05-15_n0307.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-15_n0306.xml" prev="WR-05-15_n0305.xml" next="WR-05-15_n0307.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,15 +41,34 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 14</title>
+                  <idno>WR-05-14_n0279.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 16</title>
+                  <idno>WR-05-16_n0313.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>SIGBJÖRN OBSTFELDERS »TAGEBUCH EINES GEISTLICHEN«.<lb/>
-Von <rs type="person" key="">DAVID SPRENGEL</rs>.</title></ab><table><row><cell>
-<p>Im Sommer, als Alles grün und Sonne<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>SIGBJÖRN OBSTFELDERS »TAGEBUCH EINES GEISTLICHEN«.<lb/>
+Von <rs type="person" key="">DAVID SPRENGEL</rs>.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Im Sommer, als Alles grün und Sonne<lb/>
 und Fest war, als Luft und Licht die<lb/>
 Haut liebkosten, kam die Nachricht, dass<lb/>
 der fünfunddreißigjährige norwegische<lb/>
@@ -89,7 +105,7 @@ aussehen, man hat ja nicht darnach ge-<lb break="no"/>
 hört, wie die Vögel zwitschern, es gibt<lb/>
 Linien in <hi rend="text-spaced">ihrer</hi> Hand, von denen man<lb/>
 nichts weiß!«</p>
-<p>Aber als der Sensenmann kam und<lb/>
+                     <p>Aber als der Sensenmann kam und<lb/>
 ihn nahm, war er wohl kein Unwill-<lb break="no"/>
 kommener. Obstfelder war ein auch geistig<lb/>
 gebrochener Mensch. Er hatte sicher genug<lb/>
@@ -98,8 +114,9 @@ im Leben und wusste, wie viel diese wert<lb/>
 sind. Er war ein Tore Gam, er gehörte<lb/>
 zu Denen, die allzuviel von Anfang an<lb/>
 gehofft hatten, für die die Schönheit und</p>
-</cell><cell>
-<p rend="no-intend">das Ideale Alles ist und die zu intensiv in<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">das Ideale Alles ist und die zu intensiv in<lb/>
 ihren Träumen leben, als dass nicht der<lb/>
 Tod eintreten muss, wenn die Enttäuschung<lb/>
 kommt. Es ist nicht angenehm, im Schlamm<lb/>
@@ -126,7 +143,7 @@ die Augen der Sphinx, hat man nicht<lb/>
 weiter große Lust, Romane, Gedichte und<lb/>
 Märchen zur Freude für die Kinder zu<lb/>
 producieren — und auch nicht zu leben.</p>
-<p>Für das literarisch interessierte Publi-<lb break="no"/>
+                     <p>Für das literarisch interessierte Publi-<lb break="no"/>
 cum in Skandinavien war Obstfelder vor<lb/>
 allem bekannt als Verfasser des kleinen<lb/>
 Romanes »<hi rend="italics">Korset</hi>« (das Kreuz). Es war eine<lb/>
@@ -145,7 +162,10 @@ Leben auf der Erde, von der Sterne<lb/>
 Tanz, von des Todes Heimlichkeit« spricht.<lb/>
 Wenn man dieses Buch las, dachte man<lb/>
 bisweilen an Almgrist. Wie dieser, gehörte</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

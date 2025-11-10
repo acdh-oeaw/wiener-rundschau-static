@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-09_n0200.xml"
-     prev="WR-05-09_n0199.xml"
-     next="WR-05-09_n0201.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-09_n0200.xml" prev="WR-05-09_n0199.xml" next="WR-05-09_n0201.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,18 +41,36 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 8</title>
+                  <idno>WR-05-08_n0159.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 10</title>
+                  <idno>WR-05-10_n0205.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">SCHMITT: HERBERT SPENCERS SYNTHETISCHE PHILOSOPHIE.</fw></fw><table><row><cell>
-<p rend="no-intend">Organischen erscheint, auf das Princip des<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">SCHMITT: HERBERT SPENCERS SYNTHETISCHE PHILOSOPHIE.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Organischen erscheint, auf das Princip des<lb/>
 einfachen Mechanismus sinnlich-endlicher<lb/>
 Functionsmomente zurückzuführen oder<lb/>
 aus diesen aufzubauen.</p>
-<p>Indem aber die Naturforschung fest-<lb break="no"/>
+                     <p>Indem aber die Naturforschung fest-<lb break="no"/>
 gestellt hat, dass die Form-Elemente der<lb/>
 Keimstoffe der Organismen (schon die bei<lb/>
 der Bildung der befruchteten Keimzelle<lb/>
@@ -105,8 +120,9 @@ verschiedensten Functionen!) in sich bergen,<lb/>
 sondern außerdem auch noch die Formen<lb/>
 zahlloser Generationen, wie wir denn<lb/>
 wissen, dass individuelle leibliche und</p>
-</cell><cell>
-<p rend="no-intend">seelische Eigentümlichkeiten sich durch<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">seelische Eigentümlichkeiten sich durch<lb/>
 lange Reihen von Generationen vererben.<lb/>
 Man muss gestehen, dass ein starker<lb/>
 Glaube an das mechanistische Dogma<lb/>
@@ -148,11 +164,11 @@ Bedeutung für unsere Cultur« (Leipzig <date>1901</date>,<lb/>
 Eugen Diederichs) hin, wo ich auch den<lb/>
 Versuch mache, die Umrisse einer künftigen<lb/>
 Lösung dieser großen Frage zu entwerfen.</p>
-<p>Ganz ebenso wie auf dem Gebiete<lb/>
+                     <p>Ganz ebenso wie auf dem Gebiete<lb/>
 der Organologie muss aber diese mecha-<lb break="no"/>
 nistische Lehre bankerott machen auf dem<lb/>
 Gebiete der Geisteswissenschaft.</p>
-<p>Herbert Spencer geht z. B. bei der<lb/>
+                     <p>Herbert Spencer geht z. B. bei der<lb/>
 Frage nach der Entstehung der sittlichen<lb/>
 Gefühle von der Ansicht aus, dass sich<lb/>
 dieselben infolge ihrer Nützlichkeit für die<lb/>
@@ -160,7 +176,10 @@ im Staate associierten Individuen gebildet<lb/>
 haben. Handlungen jedoch, die ohne per-<lb break="no"/>
 sönliches materielles Interesse, mit Auf-<lb break="no"/>
 opferung der eigenen materiellen Vortheile,</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

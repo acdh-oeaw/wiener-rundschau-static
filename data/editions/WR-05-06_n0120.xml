@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-06_n0120.xml"
-     prev="WR-05-06_n0119.xml"
-     next="WR-05-06_n0121.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-06_n0120.xml" prev="WR-05-06_n0119.xml" next="WR-05-06_n0121.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,30 +41,48 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 5</title>
+                  <idno>WR-05-05_n0097.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 7</title>
+                  <idno>WR-05-07_n0141.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">STRINDBERG: DIE GEHEIMNISSE DER BLUMEN.</fw></fw><table><row><cell>
-<p rend="no-intend">weiteste Entfernung sichtbar. Denke nur<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">STRINDBERG: DIE GEHEIMNISSE DER BLUMEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">weiteste Entfernung sichtbar. Denke nur<lb/>
 an die Wiese, wo man die Ranunkeln<lb/>
 auf eine Viertelmeile sieht! Denke an das<lb/>
 Raps- und Senffeld! Die gelbe Farbe<lb/>
 würde nach der Insecten-Theorie die vor-<lb break="no"/>
 theilhafteste sein für das Bestehen der Art.</p>
-<p>Jetzt verwerfen wir die Insecten-<lb break="no"/>
+                     <p>Jetzt verwerfen wir die Insecten-<lb break="no"/>
 Theorie und prüfen eine andere. Das<lb/>
 Blattgrün geht sehr leicht (siehe das<lb/>
 Herbstlaub) zu Gelb und darnach am<lb/>
 leichtesten zu Roth über! Ist das nicht<lb/>
 einfacher, ohne darum wahrer sein zu<lb/>
 brauchen?</p>
-<p>Die Insecten-Theoretiker sollen doch<lb/>
+                     <p>Die Insecten-Theoretiker sollen doch<lb/>
 ein wenig Wasser auf ihre Mühle kriegen,<lb/>
 damit sie nicht verdrießlich werden.</p>
-<p>Es gibt im südlichen Europa eine<lb/>
+                     <p>Es gibt im südlichen Europa eine<lb/>
 gewisse Nieswurz oder Helleborus viridis,<lb/>
 die grüne Blüten hat. Die blüht im<lb/>
 Jänner und Februar, wo keine Insecten<lb/>
@@ -81,7 +96,7 @@ lichen Europa zu ungelegener Zeit draußen<lb/>
 sind, sind sehr fein ausgesteuert. Also<lb/>
 kriegen die Insecten-Theoretiker nichts.<lb/>
 Und ich spielte nur mit ihnen.</p>
-<p>Und um ihnen nichts zum Festhaken<lb/>
+                     <p>Und um ihnen nichts zum Festhaken<lb/>
 übrigzulassen, erinnere ich an die andere<lb/>
 Nieswurz, die in Gärten wächst und in<lb/>
 Dänemark Christrose genannt wird, und<lb/>
@@ -105,8 +120,9 @@ Befruchtung nothwendige Säfte absondern,<lb/>
 analog den Milchdrüsen, die nur während<lb/>
 der Generationsperiode in Wirksamkeit<lb/>
 sind. Oder sind sie doch etwas anderes?</p>
-</cell><cell>
-<p>Helleborus viridis hat grüne Blüten,<lb/>
+                  </cell>
+                  <cell>
+                     <p>Helleborus viridis hat grüne Blüten,<lb/>
 vielleicht weil die Sonne während der<lb/>
 Blütenperiode keine Kraft hat, das Blatt-<lb break="no"/>
 grün zu verwandeln, zumal die Pflanze<lb/>
@@ -123,7 +139,7 @@ Blumen scheint ein Albinismus zu sein,<lb/>
 ein starkes Erblassen aus Mangel an<lb/>
 Licht. Am besten ist dies im Buchen-<lb break="no"/>
 walde zu sehen.</p>
-<p>Wenn die Buchen nämlich noch bloß<lb/>
+                     <p>Wenn die Buchen nämlich noch bloß<lb/>
 stehen und ein wenig Sonne sich nieder-<lb break="no"/>
 lassen kann, da sticht die weiße Anemone<lb/>
 zuerst hervor, dann kommt der weiße<lb/>
@@ -141,7 +157,7 @@ nach der Einbeere liegt die dichte Wald-<lb break="no"/>
 matte braun vom Laube des Vorjahres<lb/>
 da, und kaum ein Grashalm wächst<lb/>
 dort mehr.</p>
-<p>Im Fichtenwalde treffen wir haupt-<lb break="no"/>
+                     <p>Im Fichtenwalde treffen wir haupt-<lb break="no"/>
 sächlich das weiße Kreuzkraut und die<lb/>
 weiße Linnäe; denn der blaugelbe Kuh-<lb break="no"/>
 weizen, der im Walde angetroffen werden<lb/>
@@ -149,7 +165,7 @@ kann, ist eigentlich Bewohner des sonnigen<lb/>
 Hages. Die Preiselbeere des Waldes hat<lb/>
 weiße Blüten wie die Wald-Erdbeere, und<lb/>
 die Blaubeere grüne.</p>
-<p>Es gibt wenigstens nicht eine gelbe<lb/>
+                     <p>Es gibt wenigstens nicht eine gelbe<lb/>
 Blüte mit der Sonnenfarbe in dem<lb/>
 dunklen Walde. Das hindert nicht, dass<lb/>
 die Doldengewächse der Wiese weiß sind,<lb/>
@@ -160,7 +176,10 @@ Samen vielleicht alle Kraft rauben, so dass<lb/>
 nichts übrig bleibt zur Hervorbringung<lb/>
 des Luxus: prachtvolle Farbe. Vergleiche<lb/>
 den des Samens halber angebauten Mohn,</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-01-01-07_n0241.xml"
-     prev="WR-01-01-06_n0240.xml"
-     next="WR-01-01-07_n0242.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-07_n0241.xml" prev="WR-01-01-06_n0240.xml" next="WR-01-01-07_n0242.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,32 +42,72 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 2</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 1, Halbbd. 1, Nr. 6</title>
+                  <idno>WR-01-01-06_n0201.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 1, Halbbd. 1, Nr. 8</title>
+                  <idno>WR-01-01-08_n0281.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="prose-start"/><milestone unit="masthead-start"/><p><hi rend="initial">Wiener</hi> <hi rend="initial">Rundschau</hi>.</p><milestone unit="hr"/><p><hi rend="strong"><date>15. <hi rend="text-spaced">FEBRUAR</hi>, 1897</date>.</hi></p><milestone unit="hr"/><milestone unit="untyped-end"/><milestone unit="untyped-start"/><ab><title>EIN OCTOBERTAG.<lb/>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>15. <hi rend="text-spaced">FEBRUAR</hi>, 1897</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>EIN OCTOBERTAG.<lb/>
 Novellette von <rs type="person" key="">Carl Larsen</rs> (Kopenhagen).<lb/>
-Autorisirte Uebersetzung von <rs type="person" key="">Ernst Brausewetter</rs>.</title></ab><p>Die Wirthin hatte am Nachmittag zu dem einzigen Herrn<lb/>
+Autorisirte Uebersetzung von <rs type="person" key="">Ernst Brausewetter</rs>.</title>
+            </ab>
+            <p>Die Wirthin hatte am Nachmittag zu dem einzigen Herrn<lb/>
 gesandt, der, wie sie wusste, hin und wieder zu ihm gekommen<lb/>
 war und ihn besucht hatte. Und ein ganz junger Arzt, der in<lb/>
 der Nähe wohnte und schon am Morgen dagewesen war, um<lb/>
 den Todten zu besichtigen, war noch einmal heraufgegangen<lb/>
 — er konnte ja gut wiederkommen und ein wenig mit dem<lb/>
 Freunde reden, worum die Frau ihn gebeten hatte, er ver-<lb break="no"/>
-säumte ja weiter nichts damit.</p><p>Die beiden Männer hatten dann gesessen und eine ganze<lb/>
-Menge geschwatzt, hin und her.</p><p>»Nein, ich kann das nicht begreifen,« sagte der Freund<lb/>
-wieder und schüttelte den Kopf.</p><p>Der Arzt knipste eine kleine Flocke von seinem Rock.<lb/>
+säumte ja weiter nichts damit.</p>
+            <p>Die beiden Männer hatten dann gesessen und eine ganze<lb/>
+Menge geschwatzt, hin und her.</p>
+            <p>»Nein, ich kann das nicht begreifen,« sagte der Freund<lb/>
+wieder und schüttelte den Kopf.</p>
+            <p>Der Arzt knipste eine kleine Flocke von seinem Rock.<lb/>
 »Es liegt ja nichts vor, was auf eine acute Manie deutet,«<lb/>
-bemerkte er.</p><p>»Nein — und in den Verhältnissen liegt nicht das ent-<lb break="no"/>
+bemerkte er.</p>
+            <p>»Nein — und in den Verhältnissen liegt nicht das ent-<lb break="no"/>
 fernteste Motiv. Wir sassen gerade hier, hier oben,« wieder-<lb break="no"/>
 holte er — »vor drei Tagen — er sass dort im Sopha mit<lb/>
 seinem Grog. Er hatte sich daran gewöhnt — jeden Abend<lb/>
 kochte er auf einem kleinen Spiritusapparat selbst das Wasser.<lb/>
-Wir sassen gerade und plauderten von allem Möglichen —«</p><p>»Nein, ich begreife es nicht.«</p><p>Der Andere meinte, dass Aerzten ja oft in all den<lb/>
-Familien Dinge begegneten, von welchen gewöhnliche</p></div>
+Wir sassen gerade und plauderten von allem Möglichen —«</p>
+            <p>»Nein, ich begreife es nicht.«</p>
+            <p>Der Andere meinte, dass Aerzten ja oft in all den<lb/>
+Familien Dinge begegneten, von welchen gewöhnliche</p>
+         </div>
       </body>
    </text>
 </TEI>

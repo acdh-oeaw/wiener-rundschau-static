@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-08_n0172.xml"
-     prev="WR-05-08_n0171.xml"
-     next="WR-05-08_n0173.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-08_n0172.xml" prev="WR-05-08_n0171.xml" next="WR-05-08_n0173.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,22 +41,40 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 7</title>
+                  <idno>WR-05-07_n0141.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 9</title>
+                  <idno>WR-05-09_n0189.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">WEISS: ÜBER DEN MODERNEN HOLZSCHNITT.</fw></fw><table><row><cell>
-<p rend="no-intend">auch verfehlt wären — befruchtend auf<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">WEISS: ÜBER DEN MODERNEN HOLZSCHNITT.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">auch verfehlt wären — befruchtend auf<lb/>
 andere wirken. Sie sind qualvolle,<lb/>
 mühsame Reflexionsproducte; auf dem<lb/>
 Wege durch die Überlegung ist dem<lb/>
 darzustellenden Erlebnis das letzte<lb/>
 bisschen Blut ausgepresst worden.<lb/>
 Diese Holzschnitte sind wertlos.</p>
-<milestone unit="asterisk"/>
-<p>Ein anderer ist <hi rend="text-spaced">Lucien Pissarro</hi>! Er<lb/>
+                     <milestone unit="asterisk"/>
+                     <p>Ein anderer ist <hi rend="text-spaced">Lucien Pissarro</hi>! Er<lb/>
 ist ein Holzschneider! Seine entzücken-<lb break="no"/>
 den kleinen Blätter athmen den Geruch<lb/>
 von Holz aus! Die kleinen Platten, die<lb/>
@@ -73,7 +88,7 @@ Erde. Sie haben einen undefinierbaren<lb/>
 Glauben und eine große Liebe zum<lb/>
 Holz, seiner Kraft, Treue und Ein-<lb break="no"/>
 fachheit.</p>
-<p>Er ist durchaus modern. Er kennt<lb/>
+                     <p>Er ist durchaus modern. Er kennt<lb/>
 das Licht. Er verwendet Flächen. Auch<lb/>
 seine Contour ist Fläche, ist gefühlt<lb/>
 und bewegt, im Gegensatze zu der<lb/>
@@ -104,8 +119,9 @@ Grün. Sie besitzen, ebenso wie seine<lb/>
 Form, eine wundervolle Einfachheit<lb/>
 und wirken organisch mit Zeichnung<lb/>
 und dem Schwarz-Weiß zusammen.</p>
-</cell><cell>
-<p rend="no-intend">Sie sind nur eine Bereicherung des<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Sie sind nur eine Bereicherung des<lb/>
 Schwarz-Weiß. Seine milchfarbigen<lb/>
 Blätter sind von vollkommener Schön-<lb break="no"/>
 heit. <hi rend="text-spaced">Ihre Farbigkeit liegt in<lb/>
@@ -117,25 +133,25 @@ wirken nicht farbig, sondern coloriert.<lb/>
 Sie bilden auch in dieser Hinsicht<lb/>
 das gerade Gegentheil der Behrens-<lb break="no"/>
 schen.</p>
-<p>Da ich gerade von Buch-Holz-<lb break="no"/>
+                     <p>Da ich gerade von Buch-Holz-<lb break="no"/>
 schnitten sprach, will ich noch die ent-<lb break="no"/>
 zückenden kleinen Vignetten, culs-de-<lb break="no"/>
 lampe, Titel und Verzierungen nennen,<lb/>
 die der innige, süße Dichter Max<lb/>
-<hi rend="text-spaced">Elskamp</hi> zu seinen Büchern »Six<lb/>
+                        <hi rend="text-spaced">Elskamp</hi> zu seinen Büchern »Six<lb/>
 chansons de pauvre homme« und »En-<lb break="no"/>
 luminures« gemacht hat. Wahrhaftige<lb/>
 Holzschnitte!</p>
-<milestone unit="asterisk"/>
-<p>Ich kenne noch Einen. Wenige<lb/>
+                     <milestone unit="asterisk"/>
+                     <p>Ich kenne noch Einen. Wenige<lb/>
 kennen und lieben ihn, gleich mir. Ein<lb/>
 Norddeutscher, in Hamburg zu Hause:<lb/>
-<hi rend="text-spaced">Wilhelm Laage</hi>. Die »<hi rend="text-spaced">Zeitschrift<lb/>
+                        <hi rend="text-spaced">Wilhelm Laage</hi>. Die »<hi rend="text-spaced">Zeitschrift<lb/>
 für graphische Künste</hi>« hat einmal<lb/>
 den Versuch gemacht, ihn und seine<lb/>
 Arbeit einem größeren Publicum vor-<lb break="no"/>
 zustellen.</p>
-<p>Er ist der Würdigste, nach Pissarro<lb/>
+                     <p>Er ist der Würdigste, nach Pissarro<lb/>
 genannt zu werden. Er zeigt Verwandt-<lb break="no"/>
 schaft mit ihm, innerlich und in seinen<lb/>
 Formen. Alles, was ich eben von<lb/>
@@ -148,7 +164,7 @@ an der Nordsee, am Watt und in der<lb/>
 Haide, die er über alles liebt und die<lb/>
 seine Erlebnisse und deren Darstellung<lb/>
 zum größten Theile ausmachen.</p>
-<p>Wir waren ganz allein mit unseren<lb/>
+                     <p>Wir waren ganz allein mit unseren<lb/>
 ersten Holzschnitt-Versuchen in Karls-<lb break="no"/>
 ruhe, die wir mühsam und ohne jede<lb/>
 Hilfe machten. Gemeinsam haben wir<lb/>
@@ -157,7 +173,10 @@ jungen Holzschneiders« erlebt, um in<lb/>
 der Anwendung des Gelernten alsbald,<lb/>
 jeder seiner Natur gemäß, ganz ver-<lb break="no"/>
 schieden zu arbeiten.</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

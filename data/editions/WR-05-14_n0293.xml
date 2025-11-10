@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-14_n0293.xml"
-     prev="WR-05-14_n0292.xml"
-     next="WR-05-14_n0294.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-14_n0293.xml" prev="WR-05-14_n0292.xml" next="WR-05-14_n0294.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,15 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 13</title>
+                  <idno>WR-05-13_n0265.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 15</title>
+                  <idno>WR-05-15_n0295.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><table><row><cell>
-<milestone unit="untyped-start"/>
-<p><hi rend="text-spaced">Energismus</hi> (die substantielle Wesen-<lb break="no"/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="untyped-start"/>
+                     <p>
+                        <hi rend="text-spaced">Energismus</hi> (die substantielle Wesen-<lb break="no"/>
 heit des absolut ruhenden Weltraumes)<lb/>
 von Prof. J. Schlesinger. <date>1901</date>. — Es hat<lb/>
 nie an tiefer blickenden Naturforschern<lb/>
@@ -91,14 +105,15 @@ Rüstzeug von substantiellen Raum- und<lb/>
 materiellen Kraft-Partikelchen ist es dann<lb/>
 freilich ein Leichtes, die arme Materie<lb/>
 selbst aus der Welt zu schaffen.</p>
-<p>Es nützt nichts, dass hie und da geist-<lb break="no"/>
+                     <p>Es nützt nichts, dass hie und da geist-<lb break="no"/>
 volle und wertvolle Aphorismen mit<lb/>
 unterlaufen, welche die Schwäche einer<lb/>
 ziellosen Lexikon-Wissenschaft treffen, das<lb/>
 Buch ist unwissenschaftlich trotz mancher<lb/>
 feiner Naturbeobachtungen (Elasticitäts-</p>
-</cell><cell>
-<p rend="no-intend">Verhältnisse, Problem der Durchsichtigkeit,<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Verhältnisse, Problem der Durchsichtigkeit,<lb/>
 Morphologie, Affinität), trotz der Galiläi-<lb break="no"/>
 schen Vortragsart, trotz der Universalität<lb/>
 der Grundhypothese, und zwar deshalb,<lb/>
@@ -121,7 +136,7 @@ es nöthig war, gegen den Materialismus<lb/>
 so erbittert zu Felde zu ziehen, wenn der<lb/>
 Raum und alles in ihm ohnehin nichts<lb/>
 anderes ist als wirkende Wesenheit.</p>
-<p>Was man am ehesten von der Arbeit<lb/>
+                     <p>Was man am ehesten von der Arbeit<lb/>
 zu erwarten gehabt hat: Beschreibung und<lb/>
 Erklärung der heute als occult bezeichneten<lb/>
 Phänomene, kann nicht befriedigen. Die<lb/>
@@ -143,8 +158,17 @@ gibt nur eine Naturwissenschaft, die des<lb/>
 Isaak Newton: »Non plures hypotheses<lb/>
 admittere deberi, quamquae et verae sint<lb/>
 et earum phaenomenis explicandis sufficiant.«</p>
-<milestone unit="untyped-end"/>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/><milestone unit="hr"/><milestone unit="imprint-start"/><p>Verantwortl. Redacteur: R. Dworschak — K. k. Hoftheater-Druckerei, Wien, I., Wollzeile 17. (Verantwortl. A. Rimrich.)</p><milestone unit="untyped-end"/></div>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="hr"/>
+            <milestone unit="imprint-start"/>
+            <p>Verantwortl. Redacteur: R. Dworschak — K. k. Hoftheater-Druckerei, Wien, I., Wollzeile 17. (Verantwortl. A. Rimrich.)</p>
+            <milestone unit="untyped-end"/>
+         </div>
       </body>
    </text>
 </TEI>

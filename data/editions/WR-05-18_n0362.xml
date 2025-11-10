@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-18_n0362.xml"
-     prev="WR-05-18_n0361.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-18_n0362.xml" prev="WR-05-18_n0361.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -43,14 +41,28 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 17</title>
+                  <idno>WR-05-17_n0327.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">RUNDSCHAU.</fw></fw><table><row><cell>
-<p rend="no-intend">Wirbel von unveränderlicher Größe, aber<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">RUNDSCHAU.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Wirbel von unveränderlicher Größe, aber<lb/>
 wechselnder Gestalt. Aus diesen, selbst<lb/>
 schon in den Äther eingebetteten Cor-<lb break="no"/>
 puskeln setzt sich erst das isoliert im<lb/>
@@ -70,7 +82,7 @@ Corpuskeln insoweit ein intelligibles Princip<lb/>
 vermuthen dürfen, als die Art dieser Be-<lb break="no"/>
 wegung bereits das specielle Atom, mit-<lb break="no"/>
 hin eine qualitative Wesenheit darstellt.)</p>
-<p>In dem letzten Hefte der-»Psychological<lb/>
+                     <p>In dem letzten Hefte der-»Psychological<lb/>
 Review i untersucht der bekannte Psycholog<lb/>
 Hugo Münsterberg die letzten, noch<lb/>
 gesondert wahrnehmbaren Empfindungs-<lb break="no"/>
@@ -78,8 +90,9 @@ Elemente. Er weist darauf hin, dass das<lb/>
 Unterscheiden verschieden hoher Ton-<lb break="no"/>
 stufen noch nicht zu den primitivsten<lb/>
 Formen der Wahrnehmungs-Urtheile ge-</p>
-</cell><cell>
-<p rend="no-intend">zählt werden dürfe und dass man das<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">zählt werden dürfe und dass man das<lb/>
 Vermögen, Empfindungs-Thatsachen aus<lb/>
 nahe aneinander liegenden Sinnesgebieten<lb/>
 distinct aufzufassen, als die elementarsten<lb/>
@@ -90,10 +103,10 @@ des Vorkommens von Potenzen der Zahl 2<lb/>
 in den Verhältnissen der Melodie-Leit-Töne<lb/>
 statistisch untersucht und psychologisch<lb/>
 verwertet wird.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="asterisk"/>
-<milestone unit="untyped-start"/>
-<p>Mars, eine Welt im Kampf ums Dasein.<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="asterisk"/>
+                     <milestone unit="untyped-start"/>
+                     <p>Mars, eine Welt im Kampf ums Dasein.<lb/>
 Wien, A. Hartlebens Verlag, 1901. — Vor-<lb break="no"/>
 liegende Studie sucht die Physiognomie<lb/>
 der Mars-Oberfläche einem weiteren Leser-<lb break="no"/>
@@ -107,12 +120,26 @@ zum erstenmale als Mittel zur Erhaltung<lb/>
 einer, dem Untergange bereits geweihten<lb/>
 Welt darstellte und deutete. Die Schrift<lb/>
 ist etwas zu populär. —</p>
-<milestone unit="untyped-end"/>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/><milestone unit="editorialStatement-start"/><p><hi rend="strong">Druckfehler-Berichtigung</hi>: In dem Artikel »<hi rend="text-spaced">Das Wesen des Opfers</hi>« von Baron.<lb/>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="editorialStatement-start"/>
+            <p>
+               <hi rend="strong">Druckfehler-Berichtigung</hi>: In dem Artikel »<hi rend="text-spaced">Das Wesen des Opfers</hi>« von Baron.<lb/>
 E. Gumppenberg umfasst das Citat nicht — wie irrthümlich angegeben — die letzten vier<lb/>
 Spalten des I. Theiles, sondern die Stelle von pag. 297, 2. Spalte, 20. Zeile v. u. im I., und<lb/>
 die Stelle bis pag. 319, 2. Spalte, 16. Zeile v. u. im II. Theile des Artikels. — Ferner ist auf<lb/>
-pag. 322, Spalte 2, Zeile 3, 12 und 18 v. o. <hi rend="text-spaced">Gebot</hi> statt Gebet zu lesen.</p><milestone unit="untyped-end"/><milestone unit="undefined"/><milestone unit="imprint-start"/><p>Verantwortl. Redacteur: R. Dworschak. — K. k. Hoftheater-Druckerei, Wien, I., Wollzeile 17. (Verantwortl. A. Rimrich.)</p><milestone unit="untyped-end"/><milestone unit="untyped-end"/></div>
+pag. 322, Spalte 2, Zeile 3, 12 und 18 v. o. <hi rend="text-spaced">Gebot</hi> statt Gebet zu lesen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="imprint-start"/>
+            <p>Verantwortl. Redacteur: R. Dworschak. — K. k. Hoftheater-Druckerei, Wien, I., Wollzeile 17. (Verantwortl. A. Rimrich.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
       </body>
    </text>
 </TEI>

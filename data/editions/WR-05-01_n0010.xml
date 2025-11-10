@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-01_n0010.xml"
-     prev="WR-05-01_n0009.xml"
-     next="WR-05-01_n0011.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-01_n0010.xml" prev="WR-05-01_n0009.xml" next="WR-05-01_n0011.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 4, Nr. 24</title>
+                  <idno>WR-04-24_n0421.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 2</title>
+                  <idno>WR-05-02_n0023.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">KASSNER: ZUM TODE OSKAR WILDES.</fw></fw><table><row><cell>
-<p rend="no-intend">brutal, überzeugend wie ein Musiker und<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KASSNER: ZUM TODE OSKAR WILDES.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">brutal, überzeugend wie ein Musiker und<lb/>
 künstlich wie eine Courtisane, ein Mensch<lb/>
 von echtem philosophischen Tempera-<lb break="no"/>
 ment, mit einer bei Engländern seltenen<lb/>
@@ -63,7 +78,7 @@ war. Wer seine Schriften gelesen hat,<lb/>
 kennt seine Vorliebe für Paradoxe, aber<lb/>
 Oskar Wilde war auch paradox, wenn er<lb/>
 nicht in Paradoxen sprach.</p>
-<p>Ich habe in Paris Freunde, die ihn<lb/>
+                     <p>Ich habe in Paris Freunde, die ihn<lb/>
 in seiner glücklichen Zeit vor der Affaire<lb/>
 oft sahen. Er muss einzig gewesen sein<lb/>
 als Erzähler, und die ihm zuhören konnten,<lb/>
@@ -92,7 +107,7 @@ nachgedacht, bevor er das Vergnügen<lb/>
 genoss. Denn Oskar Wilde war wirklich<lb/>
 parodox und nicht nur ein Theil seines<lb/>
 Lebens war es.</p>
-<p>An Orten rohester Vergnügen und<lb/>
+                     <p>An Orten rohester Vergnügen und<lb/>
 greller Gemeinheit finden wir oft Menschen,<lb/>
 die voll lichtloser Einsamkeit sind und<lb/>
 deren Seele schwer ist vom Blute unheil-<lb break="no"/>
@@ -105,8 +120,9 @@ dass er das Gemeinste und Fernste nur<lb/>
 ausschließt, und was sie thun, berührt<lb/>
 und stört nicht ihr Inneres, liegt jenseits.<lb/>
 In sich selbst, bei sich finden sie alles</p>
-</cell><cell>
-<p rend="no-intend">dunkel, unbegrenzt, bestimmungslos und<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">dunkel, unbegrenzt, bestimmungslos und<lb/>
 doch vom Leiden genannt, erfahren, in<lb/>
 recht eigentlichem Sinne verleidet, ohne<lb/>
 Halt für neue Gedanken und sinnlos neue<lb/>
@@ -137,7 +153,7 @@ Denen, die überall nur die Schönheit und<lb/>
 das Leben schauen, das Hässliche und<lb/>
 Gestorbene paradox erscheint, wenn sie es<lb/>
 sehen.</p>
-<p>Das Paradoxe! Ich kann nicht sagen,<lb/>
+                     <p>Das Paradoxe! Ich kann nicht sagen,<lb/>
 es sei niemals das Product der Moral.<lb/>
 Unter Moral verstehe ich alles, was das<lb/>
 Handeln am Nächsten ordnet. Für Kierke-<lb break="no"/>
@@ -160,7 +176,10 @@ und nicht antik. Sokrates war sein erster<lb/>
 Verkünder und sein erstes Opfer, nein,<lb/>
 nicht Opfer, sondern Beispiel. Wir sind<lb/>
 Opfer des Lebens, aber Beispiele des</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

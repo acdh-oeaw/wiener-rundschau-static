@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-23_n0880.xml"
-     prev="WR-02-02-23_n0879.xml"
-     next="WR-02-02-23_n0881.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-23_n0880.xml" prev="WR-02-02-23_n0879.xml" next="WR-02-02-23_n0881.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,13 +42,42 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 22</title>
+                  <idno>WR-02-02-22_n0825.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 24</title>
+                  <idno>WR-02-02-24_n0905.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">880</fw><fw type="ctext">MAETERLINCK.</fw></fw><p rend="no-intend">der Erkenntnis und Befriedigung, zu denen sich die Seele der Emily<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">880</fw>
+               <fw type="ctext">MAETERLINCK.</fw>
+            </fw>
+            <p rend="no-intend">der Erkenntnis und Befriedigung, zu denen sich die Seele der Emily<lb/>
 Bronté aufschwang? Man begreift danach, dass sie nicht geweint hat<lb/>
 wie die Mehrzahl der Weiber, die ihr Leben lang von kleinen zer-<lb break="no"/>
 brochenen Freuden zu kleinen zerbrochenen Freuden taumeln. Eine<lb/>
@@ -92,11 +118,13 @@ die ewige Ruhestätte ihrer Helden zu besuchen, ist das Gras auf dem<lb/>
 Grabe des Henkers ebenso grün wie auf dem des Märtyrers, und sie<lb/>
 wundert sich, wie jemand sich einbilden könne, ein böswilliges Hirn-<lb break="no"/>
 gespinnst möchte die Ruhe derer stören, die so im Schosse der gleich-<lb break="no"/>
-giltigen und friedlichen Erde schlafen.</p><p>Ich weiss wohl, dass es sich um ein Genie handelt, aber solche<lb/>
+giltigen und friedlichen Erde schlafen.</p>
+            <p>Ich weiss wohl, dass es sich um ein Genie handelt, aber solche<lb/>
 Wesen zeigen uns nur mit etwas mehr Glanz, was in allen Wesen<lb/>
 stattfinden kann und in allen Wesen stattfindet; wo nicht, ist es nicht<lb/>
 mehr Genie, sondern Übertreibung und Narrheit. Je weiter man kommt,<lb/>
-desto mehr sieht man, dass im Ausserordentlichen durchaus kein Genie</p></div>
+desto mehr sieht man, dass im Ausserordentlichen durchaus kein Genie</p>
+         </div>
       </body>
    </text>
 </TEI>

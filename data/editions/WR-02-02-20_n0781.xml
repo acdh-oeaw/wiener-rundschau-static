@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-20_n0781.xml"
-     prev="WR-02-02-20_n0780.xml"
-     next="WR-02-02-20_n0782.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-20_n0781.xml" prev="WR-02-02-20_n0780.xml" next="WR-02-02-20_n0782.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,14 +42,44 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 19</title>
+                  <idno>WR-02-02-19_n0713.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 21</title>
+                  <idno>WR-02-02-21_n0785.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">MASKEN UND GÖTZENBILDER.</fw><fw type="pn">781</fw></fw><p rend="no-intend">zu mir sprechen und mich vielleicht durch irgend eine Offenbarung<lb/>
-auszeichnen.</p><p>Um die Fascination, welche von den lächerlichen Masken und<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MASKEN UND GÖTZENBILDER.</fw>
+               <fw type="pn">781</fw>
+            </fw>
+            <p rend="no-intend">zu mir sprechen und mich vielleicht durch irgend eine Offenbarung<lb/>
+auszeichnen.</p>
+            <p>Um die Fascination, welche von den lächerlichen Masken und<lb/>
 possierlichen Götzen ausgeht, zu erklären, haben wir den Fall der<lb/>
 Détraqués und die eigenthümliche Geistigkeit der Karaiben und Kanaken<lb/>
 erwähnt, — wir hätten aber ganz einfach nur die kleinen Mädchen<lb/>
@@ -65,25 +92,31 @@ für die Taille. Wenn lieb Mütterlein oder die grosse Schwester drei<lb/>
 Punkte auf den Theil gezeichnet hat, der dann Gesicht heisst, einen<lb/>
 für den Mund, zwei für die Augen, so gilt Marie, Martha oder Marianne<lb/>
 schon für ganz hübsch, ja man muss sie für schön, für entzückend<lb/>
-erklären.</p><p>Und man hat oft beobachtet, dass diese merkwürdigen Puppen,<lb/>
+erklären.</p>
+            <p>Und man hat oft beobachtet, dass diese merkwürdigen Puppen,<lb/>
 die die »Docken« heissen, die bevorzugten und zärtlich geliebten bleiben,<lb/>
 den wunderschönen, glänzend herausgeputzten Fräuleins zum Trotz,<lb/>
 die Papa und Mama sagen können, wenn man auf die Feder drückt,<lb/>
 die ihnen im Rücken steckt. Man möchte glauben, die Einbildungs-<lb break="no"/>
 kraft der Kleinen sei um so thätiger und mächtiger, je weniger man<lb/>
-sie anregt, und dass sie durch zuviel Nachhilfe träge und linkisch wird.</p><p>Bei Göttergestalten, wie bei den Docken handelt es sich nicht<lb/>
+sie anregt, und dass sie durch zuviel Nachhilfe träge und linkisch wird.</p>
+            <p>Bei Göttergestalten, wie bei den Docken handelt es sich nicht<lb/>
 darum, dass das Bildnis technisch schön sei, die Genauigkeit ist nicht<lb/>
 von Belang, man braucht sich weder um die Verhältnisse noch um<lb/>
 die Ähnlichkeit zu kümmern. Ah, was liegt an solchen Lappalien:<lb/>
 man muss das Bild mit gläubigen Augen schauen, die sehen was sie<lb/>
-wollen, mit Augen der Liebe, die die Illusion der Schönheit erwecken!</p><p>Das Geheimnis dieser wunderbaren Magie, die nicht aufhört,<lb/>
+wollen, mit Augen der Liebe, die die Illusion der Schönheit erwecken!</p>
+            <p>Das Geheimnis dieser wunderbaren Magie, die nicht aufhört,<lb/>
 die Kritiker zu verblüffen und die stumpfsinnigen, kurzsichtigen, Brillen<lb/>
 tragenden Menschen, dieses Geheimnis wurde eines Tags von einem<lb/>
 hinreissenden, kleinen Mädchen enthüllt. Sein Onkel, ein langweiliger<lb/>
 Mensch, hatte sie davon abbringen wollen, ihre Marie-Jeanne so<lb/>
 inbrünstig zu küssen. »Dummes Ding,« sagte er, »Deine Puppe ist ja<lb/>
 nicht lebendig!« »Meine Marie-Jeanne ist nicht lebendig? Weisst Du<lb/>
-denn nicht, wie lieb ich sie habe?«</p><milestone unit="untyped-end"/><milestone unit="hr"/></div>
+denn nicht, wie lieb ich sie habe?«</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
       </body>
    </text>
 </TEI>

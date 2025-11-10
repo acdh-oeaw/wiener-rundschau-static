@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-08_n0160.xml"
-     prev="WR-05-08_n0159.xml"
-     next="WR-05-08_n0161.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-08_n0160.xml" prev="WR-05-08_n0159.xml" next="WR-05-08_n0161.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 7</title>
+                  <idno>WR-05-07_n0141.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 9</title>
+                  <idno>WR-05-09_n0189.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">MAETERLINCK: DER GEIST DER BIENEN.</fw></fw><table><row><cell>
-<p rend="no-intend">doch wenigstens das Trachten nach<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MAETERLINCK: DER GEIST DER BIENEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">doch wenigstens das Trachten nach<lb/>
 ihr. Ich werde im folgenden also nichts<lb/>
 vorbringen, was ich nicht selbst erprobt<lb/>
 habe oder was von den Classikern<lb/>
@@ -90,7 +105,7 @@ Tiefen ihres wirklichen Daseins, aber<lb/>
 diese Art des Nichtwissens ist immerhin<lb/>
 besser, als die bewusstlose und selbst-<lb break="no"/>
 zufriedene Unwissenheit.</p>
-<p>Gab es bisher eine solche Arbeit<lb/>
+                     <p>Gab es bisher eine solche Arbeit<lb/>
 über die Bienen? Ich glaube, nahezu<lb/>
 alles gelesen zu haben, was über die<lb/>
 Bienen geschrieben worden ist, aber<lb/>
@@ -105,8 +120,9 @@ kaum gestreift; Büchners Studie ist ziem-<lb break="no"/>
 lich erschöpfend; aber liest man all die<lb/>
 gewagten Behauptungen und längst<lb/>
 widerlegten Fabeln, die er vom Hören-</p>
-</cell><cell>
-<p rend="no-intend">sagen berichtet, so kann man nicht<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">sagen berichtet, so kann man nicht<lb/>
 umhin, zu glauben, dass er nie seine<lb/>
 Bibliothek verlassen hat, um seine<lb/>
 Heldinnen selbst zu befragen, und dass<lb/>
@@ -130,8 +146,10 @@ ich ihm in meiner Arbeit nicht oft<lb/>
 begegnen, unsere Ausgangspunkte, An-<lb break="no"/>
 sichten und Ziele liegen zu weit aus-<lb break="no"/>
 einander.</p>
-<ab><title>II.</title></ab>
-<p>Die Bibliographie der Bienenkunde<lb/>
+                     <ab>
+                        <title>II.</title>
+                     </ab>
+                     <p>Die Bibliographie der Bienenkunde<lb/>
 — denn ich möchte den Anfang mit<lb/>
 den Büchern machen, um sie möglichst<lb/>
 schnell zu erledigen und zu der Quelle<lb/>
@@ -153,12 +171,15 @@ Fabeln über die Bienen, und alles, was<lb/>
 der Rede wert ist, d. h. so gut wie gar<lb/>
 nichts, findet sich zusammengefasst im<lb/>
 vierten Buche von Virgils »Georgica«.</p>
-<p>Die Geschichte der Bienen beginnt<lb/>
+                     <p>Die Geschichte der Bienen beginnt<lb/>
 erst im XVII. Jahrhundert mit den<lb/>
 Entdeckungen des großen holländischen<lb/>
 Gelehrten Swammerdam. Jedoch, um<lb/>
 der Wahrheit die Ehre zu geben, muss</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

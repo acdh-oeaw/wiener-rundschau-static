@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-19_n0728.xml"
-     prev="WR-02-02-19_n0727.xml"
-     next="WR-02-02-19_n0729.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-19_n0728.xml" prev="WR-02-02-19_n0727.xml" next="WR-02-02-19_n0729.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,21 +42,52 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 18</title>
+                  <idno>WR-02-02-18_n0677.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 20</title>
+                  <idno>WR-02-02-20_n0749.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">728</fw><fw type="ctext">MARHOLM.</fw></fw><p rend="no-intend">sich nicht zum kleinsten Theil darin zeigt, beide Eigenschaften gleich<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">728</fw>
+               <fw type="ctext">MARHOLM.</fw>
+            </fw>
+            <p rend="no-intend">sich nicht zum kleinsten Theil darin zeigt, beide Eigenschaften gleich<lb/>
 mitzubringen oder doch mit möglichst wenig Zeitverlust zu erwerben.<lb/>
 Denn woran soll denn die gute Absicht der Welt uns anfassen, wenn<lb/>
-wir keine Henkel haben?</p><p>Als junger Mann von angenehmem Äussern, guter Familie und<lb/>
+wir keine Henkel haben?</p>
+            <p>Als junger Mann von angenehmem Äussern, guter Familie und<lb/>
 lebhaftem Temperament hatte er das Leben und die Liebe genossen<lb/>
 mit vollen Zügen, ohne Furcht und Tadel, ein reicher Jüngling an<lb/>
 Leib und Seele und Beutel. Er kannte den Neid nicht, diese origo<lb/>
 pudenda so mancher grossen Dichter- und Denkerbegabung. Auch diesen<lb/>
-Henkel bot er den guten Absichten modernen Mäcenatenthums nicht dar.</p><p>Ich weiss nicht, ob sein Ehrgeiz ins Grösse gegangen wäre, ins<lb/>
+Henkel bot er den guten Absichten modernen Mäcenatenthums nicht dar.</p>
+            <p>Ich weiss nicht, ob sein Ehrgeiz ins Grösse gegangen wäre, ins<lb/>
 Kleine gieng er nicht. Er war in das hineingeboren, wonach sich<lb/>
 manche andere verzehren und woran sie sich später nicht ersättigen<lb/>
 können — die üblichen, erreichbaren und erdenkbaren Genüsse des<lb/>
@@ -70,12 +98,14 @@ kleine Schauspielerin aus einer herumziehenden Provinztruppe heiratete<lb/>
 und in die Gesellschaft einzuführen Miene machte, zog er sich ganz<lb/>
 von vanity fair zurück, liess seine Gemahlin in Berlin Theaterstudien<lb/>
 machen und verlebte den endlosen finnischen Winter manches Jahr<lb/>
-in Björneborg.</p><p>»Ich bin ganz vergnügt hier unter Holzhändlern und Zollbeamten<lb/>
+in Björneborg.</p>
+            <p>»Ich bin ganz vergnügt hier unter Holzhändlern und Zollbeamten<lb/>
 bei Karten und Toddy«, schrieb er uns. »Ich fand hier auch endlich<lb/>
 die Gelegenheit, eine ganz neue Bekanntschaft zu machen — nämlich<lb/>
 die mit mir selbst. Von diesem Umgang bin ich jetzt in Anspruch<lb/>
 genommen und komme dabei hinter allerlei überraschende und un-<lb break="no"/>
-erwartete Dinge.«</p><p>Er war kein sorgfältiger Dichter, Tavaststjerna, er konnte recht<lb/>
+erwartete Dinge.«</p>
+            <p>Er war kein sorgfältiger Dichter, Tavaststjerna, er konnte recht<lb/>
 nachlässig sein. Was geschrieben war, das war geschrieben, was stand,<lb/>
 das stand, er machte nichts um. Konnte ihn der Leser nicht verstehen,<lb/>
 — um so schlimmer für ihn; stand neben einer herrlichen organischen<lb/>
@@ -91,8 +121,10 @@ Zustände, die ihn umgaben und ihn sich unterwerfen wollten. Sie<lb/>
 unterwarfen ihn sich nicht. Aber eine unsägliche Mattheit der Des-<lb break="no"/>
 illusionierung schlich sich über ihn — und eine Sehnsucht, so zehrend<lb/>
 und verlangend, wie sie nur die erste Jugend kennt. Aber wacher,<lb/>
-viel wacher.</p><p>Dieser Schmerz des Lebens und diese Sehnsucht nach dem<lb/>
-anderen geben sich Ausdruck in dem kleinen, seltsamen und tiefen</p></div>
+viel wacher.</p>
+            <p>Dieser Schmerz des Lebens und diese Sehnsucht nach dem<lb/>
+anderen geben sich Ausdruck in dem kleinen, seltsamen und tiefen</p>
+         </div>
       </body>
    </text>
 </TEI>

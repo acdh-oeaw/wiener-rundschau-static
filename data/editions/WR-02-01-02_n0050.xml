@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-02_n0050.xml"
-     prev="WR-02-01-02_n0049.xml"
-     next="WR-02-01-02_n0051.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-02_n0050.xml" prev="WR-02-01-02_n0049.xml" next="WR-02-01-02_n0051.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,32 +42,86 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 1</title>
+                  <idno>WR-02-01-01_n0001.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 3</title>
+                  <idno>WR-02-01-03_n0081.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="verse-start"/><ab><title>ADONAI.<lb/>
-<hi rend="text-spaced">Liebeshymnus</hi>.</title></ab><ab><title>1.</title></ab><lg><l><hi rend="initial">Gekommen</hi> ist deine Liebe,</l>
-<l>Da ward Gesang meine Seele.</l>
-<l>Meine Liebe will ich dir sagen,</l>
-<l>Höre meiner Seele Gesang.</l></lg><ab><title>2.</title></ab><lg><l>Auf deinen Purpurwangen</l>
-<l>Verweilte lachende Morgenröthe,</l>
-<l>Aber unter der Weisheit deiner Brauen</l>
-<l>Träumen dunkle Fragen der Nacht.</l></lg><lg><l>Wie Goldwölkchen im Abendwinde</l>
-<l>Wehen die Locken deiner Stirne;</l>
-<l>Die Hochfluth deiner Haare,</l>
-<l>Ein wallendes Weizenfeld im Sommer.</l></lg><lg><l>Gleich dem würzigen Athem der Wiesen</l>
-<l>Ist der Wohlgeruch deines Mundes;</l>
-<l>Der Hauch deiner Brüste</l>
-<l>Wie Vergissmeinnicht und Veilchen.</l></lg><lg><l>Der Blick deiner Augen</l>
-<l>Ist glänzende Verheissung,</l>
-<l>Ersehntes Wetterleuchten</l>
-<l>Nach langen, regenlosen Wochen.</l></lg><lg><l>Deine kosende Stimme</l>
-<l>Das Tönen tanzender Sterne;</l>
-<l>Aber ein grollendes Wort von dir</l>
-<l>Das Donnern untergehender Welten.</l></lg></div>
+         <div type="page">
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>ADONAI.<lb/>
+                  <hi rend="text-spaced">Liebeshymnus</hi>.</title>
+            </ab>
+            <ab>
+               <title>1.</title>
+            </ab>
+            <lg>
+               <l>
+                  <hi rend="initial">Gekommen</hi> ist deine Liebe,</l>
+               <l>Da ward Gesang meine Seele.</l>
+               <l>Meine Liebe will ich dir sagen,</l>
+               <l>Höre meiner Seele Gesang.</l>
+            </lg>
+            <ab>
+               <title>2.</title>
+            </ab>
+            <lg>
+               <l>Auf deinen Purpurwangen</l>
+               <l>Verweilte lachende Morgenröthe,</l>
+               <l>Aber unter der Weisheit deiner Brauen</l>
+               <l>Träumen dunkle Fragen der Nacht.</l>
+            </lg>
+            <lg>
+               <l>Wie Goldwölkchen im Abendwinde</l>
+               <l>Wehen die Locken deiner Stirne;</l>
+               <l>Die Hochfluth deiner Haare,</l>
+               <l>Ein wallendes Weizenfeld im Sommer.</l>
+            </lg>
+            <lg>
+               <l>Gleich dem würzigen Athem der Wiesen</l>
+               <l>Ist der Wohlgeruch deines Mundes;</l>
+               <l>Der Hauch deiner Brüste</l>
+               <l>Wie Vergissmeinnicht und Veilchen.</l>
+            </lg>
+            <lg>
+               <l>Der Blick deiner Augen</l>
+               <l>Ist glänzende Verheissung,</l>
+               <l>Ersehntes Wetterleuchten</l>
+               <l>Nach langen, regenlosen Wochen.</l>
+            </lg>
+            <lg>
+               <l>Deine kosende Stimme</l>
+               <l>Das Tönen tanzender Sterne;</l>
+               <l>Aber ein grollendes Wort von dir</l>
+               <l>Das Donnern untergehender Welten.</l>
+            </lg>
+         </div>
       </body>
    </text>
 </TEI>

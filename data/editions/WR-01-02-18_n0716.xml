@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-01-02-18_n0716.xml"
-     prev="WR-01-02-18_n0715.xml"
-     next="WR-01-02-19_n0717.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-18_n0716.xml" prev="WR-01-02-18_n0715.xml" next="WR-01-02-19_n0717.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,16 +42,43 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 2</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 1, Halbbd. 2, Nr. 17</title>
+                  <idno>WR-01-02-17_n0641.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 1, Halbbd. 2, Nr. 19</title>
+                  <idno>WR-01-02-19_n0717.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">716</fw><fw type="ctext">NOTIZEN.</fw></fw><table><row><cell>
-<p rend="no-intend">den rothen Adlerorden vierter<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">716</fw>
+               <fw type="ctext">NOTIZEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">den rothen Adlerorden vierter<lb/>
 Classe erhalten!</p>
-<p>Ueber die Kritik, ihr Wesen und<lb/>
+                     <p>Ueber die Kritik, ihr Wesen und<lb/>
 ihre Bedeutung, ist viel und allzu-<lb break="no"/>
 viel schon geredet worden; und seit<lb/>
 dem Jahrhundertanfang, da die<lb/>
@@ -96,8 +120,9 @@ sehen geschärfter innerer Blick;<lb/>
 endlich der auf Instinctverfeinerung<lb/>
 beruhende grosse Styl und die mo-<lb break="no"/>
 ralische Unbefangenheit des Esthe-</p>
-</cell><cell>
-<p rend="no-intend">ten: dies und noch einiges Andere<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">ten: dies und noch einiges Andere<lb/>
 kann einen wahrhaft modernen<lb/>
 Kunstbeurtheiler ergeben. Auf dem<lb/>
 Gebiete der Malerei gibt es heute<lb/>
@@ -140,9 +165,23 @@ Brunnenvergiftung, »die auf die<lb/>
 Dauer nicht einmal das geistreichste<lb/>
 aller Völker, das griechische Volk,<lb/>
 hätte überstehen können«.</p>
-<p><hi rend="italics"><rs type="person" key="">El-Gabal</rs>.</hi></p>
-<milestone unit="untyped-end"/>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="hr"/><milestone unit="hr"/><milestone unit="imprint-start"/><p>Herausgeber und verantwortlicher Redacteur: <hi rend="text-spaced">Rudolf Strauss</hi>.</p><p>Ch. Reisser &amp; M. Werthner, Wien.</p><milestone unit="untyped-end"/><milestone unit="untyped-end"/></div>
+                     <p>
+                        <hi rend="italics">
+                           <rs type="person" key="">El-Gabal</rs>.</hi>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="hr"/>
+            <milestone unit="imprint-start"/>
+            <p>Herausgeber und verantwortlicher Redacteur: <hi rend="text-spaced">Rudolf Strauss</hi>.</p>
+            <p>Ch. Reisser &amp; M. Werthner, Wien.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
       </body>
    </text>
 </TEI>

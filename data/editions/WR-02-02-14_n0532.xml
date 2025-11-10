@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-14_n0532.xml"
-     prev="WR-02-02-14_n0531.xml"
-     next="WR-02-02-14_n0533.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-14_n0532.xml" prev="WR-02-02-14_n0531.xml" next="WR-02-02-14_n0533.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,13 +42,42 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 13</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 15</title>
+                  <idno>WR-02-02-15_n0561.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">532</fw><fw type="ctext">KITTINGER.</fw></fw><p rend="no-intend">England aber gehören zunächst Burne-Jones und Orchardson zu den<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">532</fw>
+               <fw type="ctext">KITTINGER.</fw>
+            </fw>
+            <p rend="no-intend">England aber gehören zunächst Burne-Jones und Orchardson zu den<lb/>
 grossen englischen Künstlern, alles andere ist Nebensache, und Böcklin,<lb/>
 wäre er selbst ein Engländer, würde als Sondererscheinung von der<lb/>
 Gemeinschaft dieser Künstler ausgeschlossen sein. Es fehlt ihm eben<lb/>
@@ -67,10 +93,14 @@ und es durchzittert als grosse Harmonie in ewiger Wunderschönheit<lb/>
 die Seele — Burne-Jones. Alle sind sie Brüder, diese grossen Künstler,<lb/>
 wie verschieden sie in Stil und Motiven auch sein mögen, denn der<lb/>
 tiefe Grundaccord ihrer Bilder ist allemal dieses nationale Etwas. Sie<lb/>
-sind eben Engländer, sind die Kinder einer grossen, nationalen Kunst.</p><p>Dass sie ein nationales Bedürfnis ist, keine blosse »Richtung«,<lb/>
+sind eben Engländer, sind die Kinder einer grossen, nationalen Kunst.</p>
+            <p>Dass sie ein nationales Bedürfnis ist, keine blosse »Richtung«,<lb/>
 sondern die tausendfältige Äusserung einer grossen, starken Geistes-<lb break="no"/>
 cultur, das ist es, was die englische Kunst so unendlich hoch über die<lb/>
-deutsche und selbst die französische hebt.</p><milestone unit="untyped-end"/><milestone unit="hr"/></div>
+deutsche und selbst die französische hebt.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
       </body>
    </text>
 </TEI>

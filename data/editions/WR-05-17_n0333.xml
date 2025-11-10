@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-17_n0333.xml"
-     prev="WR-05-17_n0332.xml"
-     next="WR-05-17_n0334.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-17_n0333.xml" prev="WR-05-17_n0332.xml" next="WR-05-17_n0334.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 16</title>
+                  <idno>WR-05-16_n0313.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 18</title>
+                  <idno>WR-05-18_n0343.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">ACHELIS: WILHELM WUNDT.</fw></fw><table><row><cell>
-<p>aus dem ebenso breiten Untergrund der<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">ACHELIS: WILHELM WUNDT.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>aus dem ebenso breiten Untergrund der<lb/>
 Volkssitte das bestimmte Normen fest-<lb break="no"/>
 setzende Recht. Wundt charakterisiert<lb/>
 diese drei großen Gebiete folgendermaßen:<lb/>
@@ -97,8 +112,9 @@ denen von der Gemeinschaft Allgemein-<lb break="no"/>
 giltigkeit beigelegt wird. In diesem Sinne<lb/>
 entspricht daher unter jenen drei Haupt-<lb break="no"/>
 gebieten der Völker-Psychologie die</p>
-</cell><cell>
-<p rend="no-intend">Sprache der Sphäre des Vorstellens, der<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Sprache der Sphäre des Vorstellens, der<lb/>
 Mythos der des Gefühls, die Sitte der<lb/>
 des Wollens im individuellen Seelenleben.<lb/>
 Es versteht sich aber von selbst, dass<lb/>
@@ -144,7 +160,12 @@ Um diese Überzeugung zu begründen und<lb/>
 zu verbreiten, ist die Völker-Psychologie<lb/>
 und im weiteren Sinne die Völkerkunde<lb/>
 eines der vorzüglichsten Mittel gewesen.</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/></div>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
       </body>
    </text>
 </TEI>

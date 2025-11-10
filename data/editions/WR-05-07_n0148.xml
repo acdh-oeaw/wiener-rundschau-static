@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-07_n0148.xml"
-     prev="WR-05-07_n0147.xml"
-     next="WR-05-07_n0149.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-07_n0148.xml" prev="WR-05-07_n0147.xml" next="WR-05-07_n0149.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,15 +41,37 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 6</title>
+                  <idno>WR-05-06_n0115.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 8</title>
+                  <idno>WR-05-08_n0159.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>ZUM VERSTÄNDNIS DER PROJECTIONS-ERSCHEINUNGEN.<lb/>
-Von <rs type="person" key="">OTTO BRYK</rs> (Wien).</title></ab><ab><title>I.</title></ab><table><row><cell>
-<p>Ehe man darangehen will, das Zu-<lb break="no"/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>ZUM VERSTÄNDNIS DER PROJECTIONS-ERSCHEINUNGEN.<lb/>
+Von <rs type="person" key="">OTTO BRYK</rs> (Wien).</title>
+            </ab>
+            <ab>
+               <title>I.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Ehe man darangehen will, das Zu-<lb break="no"/>
 standekommen eines Kunstwerkes und damit<lb/>
 auch das innere Wesen der Kunst selbst<lb/>
 näher zu untersuchen, muss man das<lb/>
@@ -73,7 +92,7 @@ Raum-Element befindlichen Bildes von einem<lb/>
 »Projections«-Centrum aus auf ein zweites<lb/>
 gegebenes seiner Lage nach vom ersten<lb/>
 verschiedenes Raum-Element bezeichnet.</p>
-<p>So kommt das die Anschauung ver-<lb break="no"/>
+                     <p>So kommt das die Anschauung ver-<lb break="no"/>
 mittelnde Bild auf der Netzhaut durch<lb/>
 einen Projections-Vorgang zustande, indem<lb/>
 — geometrisch gesprochen — vom opti-<lb break="no"/>
@@ -95,17 +114,19 @@ es — exact physikalisch — nicht möglich,<lb/>
 sich vorzustellen, wie die vom Gehirn<lb/>
 aus eingeleitete, durch Anschauungs-, Vor-<lb break="no"/>
 stellungs- oder Phantasie-Thätigkeit bedingte</p>
-</cell><cell>
-<p rend="no-intend">Reizung ein objectives Bild im Außen-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Reizung ein objectives Bild im Außen-<lb break="no"/>
 raume sollte hervorbringen können. Nun<lb/>
 ist allerdings ein objectives Bild im Sinne<lb/>
 der centrifugalen Reizung nicht zu erstellen;<lb/>
 wohl aber ein subjectives. Von patholo-<lb break="no"/>
 gischen Erscheinungen abgesehen, lehrt<lb/>
 die Naturgeschichte des Traumlebens das<lb/>
-Vorhandensein derartiger <hi rend="text-spaced">subjectiver</hi><lb/>
+Vorhandensein derartiger <hi rend="text-spaced">subjectiver</hi>
+                        <lb/>
 Netzhautbilder.</p>
-<p>Im Sinne der geometrischen Definition<lb/>
+                     <p>Im Sinne der geometrischen Definition<lb/>
 können die Traum-Erscheinungen und alles<lb/>
 Übrige in dieses Gebiet Gehörige aller-<lb break="no"/>
 dings nicht als Projections-Erscheinungen<lb/>
@@ -128,7 +149,7 @@ feststeht. Das Projectionscentrum für diesen<lb/>
 Vorgang lässt sich auf keinem Wege nach-<lb break="no"/>
 weisen, und seine Existenz muss als Hypo-<lb break="no"/>
 these eingeführt werden.</p>
-<p>In Momenten gesteigerter Sensibilität<lb/>
+                     <p>In Momenten gesteigerter Sensibilität<lb/>
 wird der plastische Charakter derartiger<lb/>
 »imaginär-reeller« Bilder so intensiv, dass<lb/>
 ihr Eindruck auf lange Zeit hinaus im<lb/>
@@ -141,7 +162,10 @@ Fähigkeit zum Einleiten dieser Coordina-<lb break="no"/>
 tion und den Trieb, dieselbe zu bewerk-<lb break="no"/>
 stelligen, auseinanderhalten. Ein Wesen,<lb/>
 welches von dem Triebe erfüllt ist, Innen-</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

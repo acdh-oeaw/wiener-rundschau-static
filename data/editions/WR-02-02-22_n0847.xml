@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-22_n0847.xml"
-     prev="WR-02-02-22_n0846.xml"
-     next="WR-02-02-22_n0848.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-22_n0847.xml" prev="WR-02-02-22_n0846.xml" next="WR-02-02-22_n0848.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,14 +42,52 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 21</title>
+                  <idno>WR-02-02-21_n0785.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 23</title>
+                  <idno>WR-02-02-23_n0865.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">WENN ICH GOTT WÄRE.</fw><fw type="pn">847</fw></fw><p>»Und Du hast gelitten?«</p><p>»Ja, ich habe gelitten.«</p><p>»Und Gott hat Dich getröstet?«</p><p>»Ja.«</p><p>»Hast Du dabei nie gedacht, dass Gott es war, der Dich zuerst<lb/>
-leiden liess?«</p><p>»Ja; das war zum Theil mein Trost.«</p><p>»Vergib. Aber ich muss es wiederholen: Wie eigenthümlich!«</p><milestone unit="hr"/><lb/><p>Ein langes Schweigen umfieng sie beide. In weiter Ferne<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">WENN ICH GOTT WÄRE.</fw>
+               <fw type="pn">847</fw>
+            </fw>
+            <p>»Und Du hast gelitten?«</p>
+            <p>»Ja, ich habe gelitten.«</p>
+            <p>»Und Gott hat Dich getröstet?«</p>
+            <p>»Ja.«</p>
+            <p>»Hast Du dabei nie gedacht, dass Gott es war, der Dich zuerst<lb/>
+leiden liess?«</p>
+            <p>»Ja; das war zum Theil mein Trost.«</p>
+            <p>»Vergib. Aber ich muss es wiederholen: Wie eigenthümlich!«</p>
+            <milestone unit="hr"/>
+            <lb/>
+            <p>Ein langes Schweigen umfieng sie beide. In weiter Ferne<lb/>
 winkte die Sonne ihren Abschiedsgruss mit buntem, feierlichem Schau-<lb break="no"/>
 gepränge und die Erde schien still zu stehen, um ihr nachzublicken.<lb/>
 Unermesslicher wuchsen die Abgründe des Raumes. Die Sinne der<lb/>
@@ -61,14 +96,18 @@ Ausdehnung und des Erfassens zu gewinnen, als sei Platz in ihrer<lb/>
 Seele für noch erhabenere Einsamkeiten, ungemessenere Höhen und<lb/>
 Tiefen und überwältigendere Pracht. Wie gross die Welt — und doch<lb/>
 kann ein kleines Menschenauge sie fassen. Staunenswert — und doch<lb/>
-nicht so staunenswert wie die Menschenseele <milestone unit="3dots"/></p><p>Das Weib unterbrach zuerst das Schweigen.</p><p>»Ich habe darüber nachgedacht, wie ich Dir auf verständliche<lb/>
+nicht so staunenswert wie die Menschenseele <milestone unit="3dots"/>
+            </p>
+            <p>Das Weib unterbrach zuerst das Schweigen.</p>
+            <p>»Ich habe darüber nachgedacht, wie ich Dir auf verständliche<lb/>
 Art erklären könnte, was das Wesen meiner Liebe zu Gott ist. Es<lb/>
 scheint unmöglich, es in Worte zu fassen, aber ich habe an ein<lb/>
 Gleichnis gedacht, das wohl unbedeutend erscheint im Vergleich und<lb/>
 das ich eigentlich nicht gebrauchen sollte, das Du aber, glaube ich,<lb/>
 nicht missverstehen wirst. Du, der Du die Schönheit liebst, weisst ja,<lb/>
 wie arm häufig das körperliche Symbol ist, durch das wir einen<lb/>
-schönen Gedanken zum Ausdruck bringen können.«</p><p>Der Mann nickte zustimmend. Sie fuhr fort, den verschleierten<lb/>
+schönen Gedanken zum Ausdruck bringen können.«</p>
+            <p>Der Mann nickte zustimmend. Sie fuhr fort, den verschleierten<lb/>
 Blick auf die untergehende Sonne gerichtet: »Du wirst es kennen<lb/>
 gelernt haben, was es heisst, einen geliebten Freund zu besitzen —<lb/>
 der Dir vielleicht ganz unähnlich ist, mit anderen Gaben, anderen<lb/>
@@ -85,7 +124,8 @@ Charakters und der Umstände Dein echter Freund im Grunde ein<lb/>
 guter, edler und wunderbarer Mensch ist. Daran konnte keine That<lb/>
 etwas ändern. In seinen schlimmsten Handlungen war etwas, das sie<lb/>
 besser machte als die guten Thaten anderer. Hast Du einen solchen<lb/>
-Freund gehabt?«</p></div>
+Freund gehabt?«</p>
+         </div>
       </body>
    </text>
 </TEI>

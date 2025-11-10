@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-05_n0113.xml"
-     prev="WR-05-05_n0112.xml"
-     next="WR-05-05_n0114.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-05_n0113.xml" prev="WR-05-05_n0112.xml" next="WR-05-05_n0114.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,18 +41,37 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 4</title>
+                  <idno>WR-05-04_n0077.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 6</title>
+                  <idno>WR-05-06_n0115.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>RUNDSCHAU.</title></ab><table><row><cell>
-<milestone unit="untyped-start"/>
-<p>BURGTHEATER: DER FUCHS.<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>RUNDSCHAU.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="untyped-start"/>
+                     <p>BURGTHEATER: DER FUCHS.<lb/>
 Ein Schauspiel in 1 Act von Jules RENARD,<lb/>
 übersetzt von Hugo v. HOFMANNSTHAL.</p>
-<p>Ich habe das Stück in Paris bei Antoine<lb/>
+                     <p>Ich habe das Stück in Paris bei Antoine<lb/>
 und jetzt hier gesehen. Im Burgtheater<lb/>
 spielt man es trotz bester Besetzung zu<lb/>
 deutsch und — wie so oft in diesem<lb/>
@@ -102,8 +118,9 @@ kann das umkehren und sagen: Viele<lb/>
 Menschen handeln nicht, weil sie sich bis-<lb break="no"/>
 her verkannt haben, z. B.: Poil de Carotte<lb/>
 und Mr. Lepic. Man spielte es, sagte ich,</p>
-</cell><cell>
-<p rend="no-intend">im Burgtheater zu deutsch, d. h. in diesem<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">im Burgtheater zu deutsch, d. h. in diesem<lb/>
 Falle voreingenommen, aus einem Charakter<lb/>
 heraus statt einem Charakter zu, mit zu<lb/>
 viel Farbe und zu wenig Linie. Das ganze<lb/>
@@ -121,13 +138,14 @@ und Antoine gab seinem Lepic sehr<lb/>
 viel Humor, schon gleich am Anfang.<lb/>
 Mme. Lepic war in der Darstellung des<lb/>
 Burgtheaters unmöglich.</p>
-<p><rs type="person" key="">RUDOLF KASSNER</rs>.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="asterisk"/>
-<milestone unit="untyped-start"/>
-<p>STEFAN GROSSMANN: »DIE<lb/>
+                     <p>
+                        <rs type="person" key="">RUDOLF KASSNER</rs>.</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="asterisk"/>
+                     <milestone unit="untyped-start"/>
+                     <p>STEFAN GROSSMANN: »DIE<lb/>
 TREUE«. (Novellen, Wiener Verlag.)</p>
-<p>Der Verfasser beobachtet sehr scharf,<lb/>
+                     <p>Der Verfasser beobachtet sehr scharf,<lb/>
 scheinbar nicht über die Novelle hinaus,<lb/>
 die er gerade schreiben will, er schreibt<lb/>
 sehr gut, ohne über seine Worte hinaus<lb/>
@@ -141,21 +159,25 @@ des Lebens</hi>« sehr gut, eine andere<lb/>
 »<hi rend="text-spaced">Die Treue</hi>« dies weniger ist, und dass<lb/>
 die außerordentlich feine Anlage einer<lb/>
 dritten: »<hi rend="text-spaced">Die Reise</hi>« nicht vollständig<lb/>
-durchgeführt wurde. <rs type="person" key="">r. k.</rs></p>
-<milestone unit="untyped-end"/>
-<milestone unit="asterisk"/>
-<milestone unit="untyped-start"/>
-<p>MAX GRAF: »WAGNER-PRO-<lb break="no"/>
+durchgeführt wurde. <rs type="person" key="">r. k.</rs>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="asterisk"/>
+                     <milestone unit="untyped-start"/>
+                     <p>MAX GRAF: »WAGNER-PRO-<lb break="no"/>
 BLEME UND ANDERE STUDIEN«.<lb/>
 (Wiener Verlag. Wien, <date>1900</date>.)</p>
-<p>Es wird immer eine schwierige Auf-<lb break="no"/>
+                     <p>Es wird immer eine schwierige Auf-<lb break="no"/>
 gabe bleiben, die <hi rend="text-spaced">exacte</hi> Analyse eines<lb/>
 musikalischen Kunstwerkes ohne thema-<lb break="no"/>
 tische Illustrationen zu entwickeln; ein<lb/>
 geradezu unmögliches Problem aber ist<lb/>
 es, dem Lebenswerke Wagners gerecht<lb/>
 zu werden und sich hiebei auf das Text-</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

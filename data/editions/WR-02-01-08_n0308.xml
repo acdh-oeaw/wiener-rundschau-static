@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-08_n0308.xml"
-     prev="WR-02-01-08_n0307.xml"
-     next="WR-02-01-08_n0309.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-08_n0308.xml" prev="WR-02-01-08_n0307.xml" next="WR-02-01-08_n0309.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,35 +42,76 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 7</title>
+                  <idno>WR-02-01-07_n0241.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 9</title>
+                  <idno>WR-02-01-09_n0321.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">308</fw><fw type="ctext">MESSER.</fw></fw><p rend="no-intend">die Reihe, ein fremdes Wort, ein weitabliegendes Ereigniss schlich sich<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">308</fw>
+               <fw type="ctext">MESSER.</fw>
+            </fw>
+            <p rend="no-intend">die Reihe, ein fremdes Wort, ein weitabliegendes Ereigniss schlich sich<lb/>
 hinein und sprengte mit seiner frechen Deutlichkeit die Kette. Sie<lb/>
-wollte sich die hier auf dem Lande verlebte Zeit vorstellen.</p><p>Am ersten Mai waren sie hergezogen. Sie war voller Freude in<lb/>
+wollte sich die hier auf dem Lande verlebte Zeit vorstellen.</p>
+            <p>Am ersten Mai waren sie hergezogen. Sie war voller Freude in<lb/>
 den wunderschönen Garten gegangen und hatte in der Wohnung nur<lb/>
 das Nöthigste besorgt. Ja, sie hatte wie ein junges Mädchen in den<lb/>
 Alleen gehüpft, und als sie die grüne Schaukel in der Ecke beim<lb/>
-hohen Gitter entdeckte, war sie jauchzend hingelaufen.</p><p>Aber war sie nicht noch jung mit ihren 26 Jahren? Die Leute<lb/>
+hohen Gitter entdeckte, war sie jauchzend hingelaufen.</p>
+            <p>Aber war sie nicht noch jung mit ihren 26 Jahren? Die Leute<lb/>
 hielten sie für dreissig, trotzdem sie in ihrer vierjährigen Ehe kein<lb/>
-Kind hatte.</p><p>Ah, der Kerl! Und sie erinnerte sich an die ersten Nächte. —<lb/>
-Nein, nein <milestone unit="3dots"/></p><p><milestone unit="3dots"/> Dann hatte sie die grüne Schaukel geküsst vor lauter Freude.<lb/>
+Kind hatte.</p>
+            <p>Ah, der Kerl! Und sie erinnerte sich an die ersten Nächte. —<lb/>
+Nein, nein <milestone unit="3dots"/>
+            </p>
+            <p>
+               <milestone unit="3dots"/> Dann hatte sie die grüne Schaukel geküsst vor lauter Freude.<lb/>
 Wirklich, diese Thorheit war ihr damals eingefallen. Schon im nächsten<lb/>
 Moment bereute sie es doch, ekelte sich und wischte sich gut den<lb/>
-Mund ab. Am Abend kam <hi rend="text-spaced">er</hi>.</p><p>Ella hat ihr einmal gesagt: »Vielleicht passt ihr nicht so zu-<lb break="no"/>
+Mund ab. Am Abend kam <hi rend="text-spaced">er</hi>.</p>
+            <p>Ella hat ihr einmal gesagt: »Vielleicht passt ihr nicht so zu-<lb break="no"/>
 sammen. Schau, er kann mit seinen fünzig just dein Vater sein. Ich<lb/>
 will dein Glück, verstehst du, dein Glück!« Sie probirte gerade ihr<lb/>
 neues Kleid am Spiegel, Abends sollte sie der Verlobte ins Theater<lb/>
-holen <milestone unit="3dots"/></p><p>Um Gotteswillen, wohin gerieth sie nur? Im Garten? Im Garten?<lb/>
-Ja, die grüne Schaukel <milestone unit="3dots"/></p><p>Der Mann kam Abends nach Hause und schimpfte über die Un-<lb break="no"/>
+holen <milestone unit="3dots"/>
+            </p>
+            <p>Um Gotteswillen, wohin gerieth sie nur? Im Garten? Im Garten?<lb/>
+Ja, die grüne Schaukel <milestone unit="3dots"/>
+            </p>
+            <p>Der Mann kam Abends nach Hause und schimpfte über die Un-<lb break="no"/>
 ordnung: Er begreife das nicht — sie sei keine Wirthin. Für wen<lb/>
 nehme er denn die Landwohnung? Sein Geld hätte er nicht gestohlen,<lb/>
 nein, er wolle den Garten jetzt nicht ansehen, ihre Schaukel solle der<lb/>
 Teufel holen, alle Lust habe er verloren, alle Lust — sie solle aus<lb/>
-dem Zimmer — kein Wort weiter! Hinaus!</p><p>Dann ging sie allein in den Garten. Oder ging sie nicht?<lb/>
+dem Zimmer — kein Wort weiter! Hinaus!</p>
+            <p>Dann ging sie allein in den Garten. Oder ging sie nicht?<lb/>
 Ja, sie ging verletzt, von Neuem unglücklich in den Garten und<lb/>
 traf zufällig gleich auf die grüne Schaukel. Drin hatte sie sich<lb/>
 leicht gewiegt, und das Weinen war ihr nicht bitter vorgekommen,<lb/>
@@ -84,12 +122,13 @@ staurant. Dann wartete sie ein, zwei Stunden. Sie wartete voll Angst<lb/>
 und Demuth. Diesmal war sie ja im Unrecht. Aber er hätte nicht so<lb/>
 fürchterlich hart und roh sein müssen. O, o, das Aergste geschah dann.<lb/>
 Um zwölf Uhr kam er laut und polternd ins Zimmer. »<hi rend="text-spaced">Steh</hi>’ <hi rend="text-spaced">auf</hi>,<lb/>
-<hi rend="text-spaced">sofort</hi>!« So brutal war er noch nie gewesen. Wenn sie gleichzeitig zu<lb/>
+               <hi rend="text-spaced">sofort</hi>!« So brutal war er noch nie gewesen. Wenn sie gleichzeitig zu<lb/>
 Bette gingen, musste sie ihm beim Auskleiden helfen, ebenso Morgens<lb/>
 beim Ankleiden. Ist es keine Gemeinheit, sich von der eigenen Frau<lb/>
 die Stiefel herunterziehen zu lassen, als wäre sie sein Stiefelknecht?<lb/>
 Freilich war er alt und bequem. Sie erinnerte sich, den gleichen Dienst<lb/>
-auch manchmal ihrem Vater gethan zu haben ohne Aerger und ohne</p></div>
+auch manchmal ihrem Vater gethan zu haben ohne Aerger und ohne</p>
+         </div>
       </body>
    </text>
 </TEI>

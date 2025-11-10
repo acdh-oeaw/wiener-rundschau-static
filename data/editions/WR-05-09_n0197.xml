@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-09_n0197.xml"
-     prev="WR-05-09_n0196.xml"
-     next="WR-05-09_n0198.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-09_n0197.xml" prev="WR-05-09_n0196.xml" next="WR-05-09_n0198.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,17 +41,35 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 8</title>
+                  <idno>WR-05-08_n0159.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 10</title>
+                  <idno>WR-05-10_n0205.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">SCHMITT: HERBERT SPENCERS SYNTHETISCHE PHILOSOPHIE.</fw></fw><table><row><cell>
-<p rend="no-intend">am Leitfaden des Satzes vom Grunde<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">SCHMITT: HERBERT SPENCERS SYNTHETISCHE PHILOSOPHIE.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">am Leitfaden des Satzes vom Grunde<lb/>
 von selbst abschnurrt — bildet das unter-<lb break="no"/>
 scheidende, äußere Kriterium.</p>
-<p>Auch darin zeigt sich die große Ana-<lb break="no"/>
+                     <p>Auch darin zeigt sich die große Ana-<lb break="no"/>
 logie zwischen den beiden Elementar-<lb break="no"/>
 Bethätigungen, dass sie auf ihrer höchsten<lb/>
 Stufe sich vom ethischen Problem nicht<lb/>
@@ -67,7 +82,7 @@ der vollkommensten Liebe vereinigt hat,<lb/>
 in Giordano Bruno; unheimlich flackert<lb/>
 das verhaltene Feuer unter dem keuschen,<lb/>
 mathematischen Faltenwurf des Spinoza.</p>
-<p>Wenn zuletzt das ethische Grund-<lb break="no"/>
+                     <p>Wenn zuletzt das ethische Grund-<lb break="no"/>
 phänomen unter dem Gesichtspunkte der<lb/>
 öfters angeführten Betrachtungsart seine<lb/>
 Erläuterung finden soll, so muss aus-<lb break="no"/>
@@ -79,8 +94,9 @@ besonderer Art. Schon im vierdimensionalen<lb/>
 Raum verliert die Bezeichnung eines ge-<lb break="no"/>
 schlossenen oder offenen dreidimensionalen<lb/>
 Körpers ihre Berechtigung. Andererseits</p>
-</cell><cell>
-<p rend="no-intend">erscheint die dreidimensionale Mannig-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">erscheint die dreidimensionale Mannig-<lb break="no"/>
 faltigkeit selbst als das <hi rend="text-spaced">eigentliche<lb/>
 Platonische Projections-Phänomen</hi>,<lb/>
 so dass in voller Analogie geschlossen<lb/>
@@ -94,7 +110,7 @@ dimensionierten Mannigfaltigkeit, durch<lb/>
 deren Projection unsere phänomenale Welt<lb/>
 mit ihrem Nebeneinander der Körper zu-<lb break="no"/>
 stande kommt.</p>
-<p>Das Weiterverfolgen dieser Relationen<lb/>
+                     <p>Das Weiterverfolgen dieser Relationen<lb/>
 hat — wenn unser Erkenntnis-Apparat<lb/>
 auch bald versagt — keine Grenze. Hier<lb/>
 verliert sich der Blick aus dem Reich des<lb/>
@@ -108,9 +124,20 @@ größter Klarheit ins Bewusstsein zu<lb/>
 bringen, entspringt die Wissenschaft. Sie<lb/>
 ist die rätselhafteste Erscheinung des<lb/>
 organischen Lebens.</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/><milestone unit="untyped-start"/><ab><title>HERBERT SPENCERS SYNTHETISCHE PHILOSOPHIE.<lb/>
-Von DR. <rs type="person" key="">EUGEN HEINRICH SCHMITT</rs> (Budapest).</title></ab><table><row><cell>
-<p>J. Howard <hi rend="text-spaced">Collins</hi>, der eine »<hi rend="text-spaced">Epi-<lb break="no"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>HERBERT SPENCERS SYNTHETISCHE PHILOSOPHIE.<lb/>
+Von DR. <rs type="person" key="">EUGEN HEINRICH SCHMITT</rs> (Budapest).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>J. Howard <hi rend="text-spaced">Collins</hi>, der eine »<hi rend="text-spaced">Epi-<lb break="no"/>
 tome der synthetischen Philo-<lb break="no"/>
 sophie Herbert Spencers</hi> mit einer<lb/>
 Vorrede von Herbert Spencer« herausgab,<lb/>
@@ -127,8 +154,9 @@ wird man es hoch zu schätzen wissen,<lb/>
 dass uns nun die Hauptgedanken dieses<lb/>
 Repräsentanten des modernen, agnostisch<lb/>
 angehauchten Naturalismus nicht mehr in</p>
-</cell><cell>
-<p>der breiten Form geboten werden, wie<lb/>
+                  </cell>
+                  <cell>
+                     <p>der breiten Form geboten werden, wie<lb/>
 sie in den ursprünglichen Schriften Spencers<lb/>
 vorliegen, sondern gleichsam in der Gestalt<lb/>
 eines geistigen Extrades, einer concen-<lb break="no"/>
@@ -145,7 +173,10 @@ schon früher Jules <hi rend="text-spaced">Rig</hi> mit seiner Aus-<lb break="no
 gabe des Extractes der Auguste Comte-<lb break="no"/>
 schen Philosophie sich ein Verdienst er-<lb break="no"/>
 worben hat um die Verbreitung der Grund-</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-07_n0150.xml"
-     prev="WR-05-07_n0149.xml"
-     next="WR-05-07_n0151.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-07_n0150.xml" prev="WR-05-07_n0149.xml" next="WR-05-07_n0151.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,16 +41,35 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 6</title>
+                  <idno>WR-05-06_n0115.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 8</title>
+                  <idno>WR-05-08_n0159.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BRYK: ZUM VERSTÄNDNIS DER PROJECTIONS-ERSCHEINUNGEN.</fw></fw><table><row><cell>
-<p rend="no-intend">des Subjectes freies Feld gegeben, so dass<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BRYK: ZUM VERSTÄNDNIS DER PROJECTIONS-ERSCHEINUNGEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">des Subjectes freies Feld gegeben, so dass<lb/>
 es, gleichsam vicarierend, subjective Be-<lb break="no"/>
-stimmungs-Elemente für die <hi rend="text-spaced">ausgefallenen</hi><lb/>
+stimmungs-Elemente für die <hi rend="text-spaced">ausgefallenen</hi>
+                        <lb/>
 Empfindungswerte selbst erschaffen<lb/>
 muss. Hierin liegt der Schlüssel für das<lb/>
 Verständnis der künslerischen Arbeitsweise,<lb/>
@@ -76,7 +92,7 @@ fischen künstlerischen Fähigkeiten erst im<lb/>
 Laufe von Jahrtausenden accumulierten,<lb/>
 macht es erklärlich, dass der Künstler von<lb/>
 so Vielen verstanden wird.</p>
-<p>Es stellt sich nach dem bisher Gesagten<lb/>
+                     <p>Es stellt sich nach dem bisher Gesagten<lb/>
 — wenn von allen ethischen und meta-<lb break="no"/>
 physischen Voraussetzungen abgesehen<lb/>
 wird — ein jedes Kunstwerk also dar als<lb/>
@@ -85,7 +101,7 @@ der Außenwelt in das Bewusstsein und<lb/>
 vom Bewusstsein in die Außenwelt zurück),<lb/>
 bei welchem Vorgange die Erscheinung ein<lb/>
 wesentliches Empfindungsdatum verliert.</p>
-<p>Man kann also füglich von einer<lb/>
+                     <p>Man kann also füglich von einer<lb/>
 Wiederholung der Erscheinungen sprechen,<lb/>
 und zwar auf höherer Stufe, wenn man<lb/>
 berücksichtigt, dass die zweite Projection<lb/>
@@ -96,7 +112,7 @@ zunächst mit der Außenwelt in Beziehung<lb/>
 stehen, zur Lösung dieser Aufgaben heran-<lb break="no"/>
 zieht, entsteht so eine leuchtende und<lb/>
 tönende Welt höherer Ordnung.</p>
-<p>Um das Wesen der ästhetischen Pro-<lb break="no"/>
+                     <p>Um das Wesen der ästhetischen Pro-<lb break="no"/>
 duction vom Standpunkte unserer Pro-<lb break="no"/>
 jections-Anschauung näher zu untersuchen,<lb/>
 muss nun ein weiterer Process Erwähnung<lb/>
@@ -105,8 +121,9 @@ finden, dessen Bedeutung von den meisten<lb/>
 dies der Antheil, welcher der Betonung<lb/>
 der Lustwerte zukommt. Während wir<lb/>
 nämlich, insoferne wir uns zur Aufnahme</p>
-</cell><cell>
-<p rend="no-intend">der Außenwelt bloß receptiv verhalten, un-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">der Außenwelt bloß receptiv verhalten, un-<lb break="no"/>
 fähig sind, die begleitenden Lustwerte nach<lb/>
 Belieben zu verändern, ist es bei der pro-<lb break="no"/>
 jectiven Thätigkeit möglich, die Lustwerte<lb/>
@@ -144,7 +161,7 @@ ist aber immer das Unterdrücken von<lb/>
 charakterisierenden Empfindungsthatsachen,<lb/>
 so dass sich die transcendentale Bedeutung<lb/>
 der Projectivität hieraus abnehmen lässt.</p>
-<p>Im Zusammenhange mit der Auslese<lb/>
+                     <p>Im Zusammenhange mit der Auslese<lb/>
 der charakterisierenden Bestimmungen aus<lb/>
 dem Gesichtspunkte des Lustwertes steht<lb/>
 der erhöhte Wert, den der ästhetisch<lb/>
@@ -159,8 +176,12 @@ jection von Lustwerten auf die indifferente<lb/>
 Außenwelt erfolgt, wodurch das Kunstwerk<lb/>
 und das Projections-Phänomen seine tele-<lb break="no"/>
 ologische Deutung erfährt.</p>
-<p>(Schluss folgt.)</p>
-</cell></row></table><milestone unit="untyped-end"/></div>
+                     <p>(Schluss folgt.)</p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+         </div>
       </body>
    </text>
 </TEI>

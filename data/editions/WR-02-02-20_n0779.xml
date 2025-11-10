@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-20_n0779.xml"
-     prev="WR-02-02-20_n0778.xml"
-     next="WR-02-02-20_n0780.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-20_n0779.xml" prev="WR-02-02-20_n0778.xml" next="WR-02-02-20_n0780.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,16 +42,46 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 19</title>
+                  <idno>WR-02-02-19_n0713.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 21</title>
+                  <idno>WR-02-02-21_n0785.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">MASKEN UND GÖTZENBILDER.</fw><fw type="pn">779</fw></fw><p rend="no-intend">oder von Tänzern. Die Gelehrten haben zu allgemeiner Zufriedenheit<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MASKEN UND GÖTZENBILDER.</fw>
+               <fw type="pn">779</fw>
+            </fw>
+            <p rend="no-intend">oder von Tänzern. Die Gelehrten haben zu allgemeiner Zufriedenheit<lb/>
 nachgewiesen, dass die tragische Kunst die Bacchischen Schauspiele als<lb/>
 Ausgangspunkt hatte, welche von Winzern mit kothbeschmierten Ge-<lb break="no"/>
-sichtern dargestellt wurden.</p><p>Wir nehmen diese These als reichlich erwiesen an und schlagen<lb/>
+sichtern dargestellt wurden.</p>
+            <p>Wir nehmen diese These als reichlich erwiesen an und schlagen<lb/>
 vor, sie noch weiter auszudehnen. Wir vermuthen, dass diese böotischen<lb/>
 Possen und Narrentänze die Nachkommen des Todtenritus waren.<lb/>
 Wenn die Tragödie der Komödie entstammte, so war diese Komödie<lb/>
@@ -77,7 +104,8 @@ unsterbliche Schar der sieben Todsünden, deren Haltung, Geberden<lb/>
 und Verzerrungen niemals die Zuschauer mit Freude zu erfüllen ver-<lb break="no"/>
 fehlen. So entwickelten sich Typen, bildeten sich Charaktere von un-<lb break="no"/>
 gemeiner Lebenskraft, vielleicht die ersten Schöpfungen des menschlichen<lb/>
-Geistes.</p><p>Man ziehe den Schluss! Diese ostjäkischen Tafeln, dünn, flach,<lb/>
+Geistes.</p>
+            <p>Man ziehe den Schluss! Diese ostjäkischen Tafeln, dünn, flach,<lb/>
 buntscheckig und bekleckst, mit Hörnern und Fangzähnen, Kränzen<lb/>
 und Bändern, Fahnen und Pelzwerk verziert — dieser unten gespaltene<lb/>
 Pfahl, der Füsse und Beine darstellen soll, diese kleinen Scheusäler<lb/>
@@ -86,7 +114,8 @@ Stäbchen, neben denen unsere Pfefferkuchen als Wunder der Modellierung<lb/>
 erscheinen würden, diese Pfennige aus Zink oder Messing, diese sonder-<lb break="no"/>
 baren Pfähle, diese Strünke mit bizarren Knorren, diese Holzklötze, da<lb/>
 und dort durchlöchert und geschnitzt, sind die ersten Anfänge der<lb/>
-Bildhauerkunst.</p><p>Gleichzeitig mit der Form entwickelt sich die Idee. Aus den<lb/>
+Bildhauerkunst.</p>
+            <p>Gleichzeitig mit der Form entwickelt sich die Idee. Aus den<lb/>
 Götzenbildern, den conventionellen Darstellungen der Abgeschiedenen,<lb/>
 den als Knirpse geschnitzelten Rosskastanien wurden National-Puppen,<lb/>
 denen das Volk seine Schmerzen und Hoffnungen anvertraute, von<lb/>
@@ -94,7 +123,8 @@ denen es Hilfe und Beistand erbat, wie nach Art der Kinder, die von<lb/>
 ihrer Puppe Zuneigung verlangen. Gleichzeitig während man von diesen<lb/>
 Knirpsen zu wächsernen Masken, zu Formen aus Wachs, zum Ton,<lb/>
 dann zu Büsten aus Bronze und Marmor übergieng, hörte die Religion<lb/>
-auf, Götzendienst, nichts als Götzendienst zu sein.</p></div>
+auf, Götzendienst, nichts als Götzendienst zu sein.</p>
+         </div>
       </body>
    </text>
 </TEI>

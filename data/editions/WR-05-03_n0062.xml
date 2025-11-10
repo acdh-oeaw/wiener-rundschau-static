@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-03_n0062.xml"
-     prev="WR-05-03_n0061.xml"
-     next="WR-05-03_n0063.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-03_n0062.xml" prev="WR-05-03_n0061.xml" next="WR-05-03_n0063.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 2</title>
+                  <idno>WR-05-02_n0023.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 4</title>
+                  <idno>WR-05-04_n0077.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">KASSNER: ANDRÉ GIDE.</fw></fw><table><row><cell>
-<p rend="no-intend">Wollust, und dass er darüber nicht un-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KASSNER: ANDRÉ GIDE.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Wollust, und dass er darüber nicht un-<lb break="no"/>
 fruchtbar geblieben ist, das scheint beinahe<lb/>
 ein Wunder. Im Anhange gleichsam des<lb/>
 Ganzen sage ich noch schnell, Gide ge-<lb break="no"/>
@@ -60,7 +75,7 @@ sie an Wagner leiden, und für niemanden<lb/>
 dürfte das Werk Nietzsches in gleichem<lb/>
 Maße eine Erfüllung bedeuten. Gide ist<lb/>
 einer der besten Leser Nietzsches.</p>
-<p>Bei Gide ist alles Stil. Seinem Körper<lb/>
+                     <p>Bei Gide ist alles Stil. Seinem Körper<lb/>
 Stil geben, hieße für ihn, die Seele finden,<lb/>
 und künstlich sein hieße dann, seine Natur<lb/>
 bewahren. Gide ist ein Stauner und darum<lb/>
@@ -105,8 +120,9 @@ diese Wesenheit des Verses und der Prosa,<lb/>
 in anderen Bildern sprach. Gide hat oft<lb/>
 versucht, in Verse zu bringen, was er in<lb/>
 Prosa gesagt hat, und ich glaube, er mag</p>
-</cell><cell>
-<p rend="no-intend">recht oft den Schwimmer beneiden, der<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">recht oft den Schwimmer beneiden, der<lb/>
 sich nackt in den Fluss wirft, während<lb/>
 er an seinen Brücken baut. Um in das<lb/>
 Ganze mehr Klarheit zu bringen: Gide<lb/>
@@ -125,7 +141,7 @@ das Beste an der Prosa ihre Cultur. Ich<lb/>
 sage das Beste und meine das Wesent-<lb break="no"/>
 liche. Doch auch das wird Dem paradox<lb/>
 erscheinen, der nur Metriker ist.</p>
-<p>Und noch ein Wesensunterschied<lb/>
+                     <p>Und noch ein Wesensunterschied<lb/>
 besteht zwischen Prosa und Vers, und<lb/>
 auch diesen bestätigt mir Gide. Auch er<lb/>
 ist esoterisch und kann sich, wie alles<lb/>
@@ -160,7 +176,10 @@ warum man ein so guter Psychologe<lb/>
 ist, wenn man viel zu verschweigen hat<lb/>
 und <milestone unit="3dots"/> O, wunderbar ist, was Gide alles<lb/>
 verschweigt und es lohnt eine ganz neue</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-06_n0121.xml"
-     prev="WR-05-06_n0120.xml"
-     next="WR-05-06_n0122.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-06_n0121.xml" prev="WR-05-06_n0120.xml" next="WR-05-06_n0122.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 5</title>
+                  <idno>WR-05-05_n0097.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 7</title>
+                  <idno>WR-05-07_n0141.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">STRINDBERG: DIE GEHEIMNISSE DER BLUMEN.</fw></fw><table><row><cell>
-<p rend="no-intend">der blassroth wird, beinahe weiß! Eben-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">STRINDBERG: DIE GEHEIMNISSE DER BLUMEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">der blassroth wird, beinahe weiß! Eben-<lb break="no"/>
 sowenig wird das Sumpfblatt und der<lb/>
 Wasserklee, das Pfeilgras und Kalla hier-<lb break="no"/>
 durch gehindert, vielleicht durch Auslau-<lb break="no"/>
@@ -59,12 +74,12 @@ gung im wasserkranken Boden und mitten<lb/>
 im Wasser, weiße Blüten zu bekommen.<lb/>
 Weiß ist Schwäche, Mangel an starken,<lb/>
 gesättigten Säften wie im Wasser.</p>
-<p>Warum Unserer Frauen Bettstroh<lb/>
+                     <p>Warum Unserer Frauen Bettstroh<lb/>
 weiß wird am Grabenrand und das Leim-<lb break="no"/>
 kraut im Acker, das weiß ich nicht, wie<lb/>
 ich nicht weiß, warum die Blüten der<lb/>
 Obstbäume weiß werden.</p>
-<p>Die Farbe aller Blüten wird übrigens<lb/>
+                     <p>Die Farbe aller Blüten wird übrigens<lb/>
 weiß bei Gegenwart von Schwefelsäuer-<lb break="no"/>
 lichkeit, was man damit beweisen kann,<lb/>
 dass man Schwefel unter einer rothen<lb/>
@@ -101,27 +116,28 @@ mengung mit Ammoniak bei Regen,<lb/>
 der Salpetersäuerlichkeit bei Gewitter<lb/>
 u. s. w. wechselte. Bisweilen zurück zu<lb/>
 Rosa (Roth) oder reinem Weiß.</p>
-<p>Wenn nun solche Umwechslungen<lb/>
+                     <p>Wenn nun solche Umwechslungen<lb/>
 mit den gelben Blüten vor sich gehen<lb/>
 und die rothen auch nicht in Blau über-<lb break="no"/>
 gehen, so hat man ja gleichsam ein wenig</p>
-</cell><cell>
-<p rend="no-intend">Recht, anzunehmen, dass die Entwicklungs-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Recht, anzunehmen, dass die Entwicklungs-<lb break="no"/>
 scala diese sei: Grün; Gelb; Orange; Roth;<lb/>
 Violett und Blau; oder in eine Ketten-<lb break="no"/>
 rechnung gestellt, wo der folgende Ter-<lb break="no"/>
 minus immer einen der vorhergehenden<lb/>
 Factoren enthalten soll:</p>
-<p>Grün — Gelb.</p>
-<p>Gelb — Orange (Gelb und Roth).</p>
-<p>Roth — Violett (Roth und Blau).</p>
-<p>Blau — Blau.</p>
-<p>Bemerkenswert ist, dass hierbei die<lb/>
+                     <p>Grün — Gelb.</p>
+                     <p>Gelb — Orange (Gelb und Roth).</p>
+                     <p>Roth — Violett (Roth und Blau).</p>
+                     <p>Blau — Blau.</p>
+                     <p>Bemerkenswert ist, dass hierbei die<lb/>
 Farben in derselben Ordnung gehen, wie<lb/>
 die des Prisma, wenn man nämlich die<lb/>
 Kette mit Roth beginnt und rückwärts-<lb break="no"/>
 geht.</p>
-<p>Warum es so ist? Das ist das Geheim-<lb break="no"/>
+                     <p>Warum es so ist? Das ist das Geheim-<lb break="no"/>
 nis der Blüten, das sie gemeinsam mit<lb/>
 der Sonne und dem Regenbogen haben.<lb/>
 Sir John Lubbock, mein unbekannter<lb/>
@@ -155,12 +171,15 @@ Spectrum wahrzunehmen, warten wahr-<lb break="no"/>
 scheinlich vergebens, soweit sie nicht<lb/>
 warten auf Rothblau oder Blauroth oder<lb/>
 Schwarz. Lavendelgrau, sagt Helmholtz.</p>
-<p>Wenn man nun sieht, wie die Farben<lb/>
+                     <p>Wenn man nun sieht, wie die Farben<lb/>
 der Blüten, ohne Rücksicht auf die In-<lb break="no"/>
 secten-Theorie, sich von dem lichtstärksten<lb/>
 Gelb, der Farbe, die der Sonne eigen ist,<lb/>
 durch das lichtschwächste Roth bis hinunter</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

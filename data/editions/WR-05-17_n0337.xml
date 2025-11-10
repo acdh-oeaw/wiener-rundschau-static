@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-17_n0337.xml"
-     prev="WR-05-17_n0336.xml"
-     next="WR-05-17_n0338.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-17_n0337.xml" prev="WR-05-17_n0336.xml" next="WR-05-17_n0338.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 16</title>
+                  <idno>WR-05-16_n0313.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 18</title>
+                  <idno>WR-05-18_n0343.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">KUHLENBECK: DIE GESCHLECHTSLIEBE IM LICHTE DER DESCENDENZ-THEORIE.</fw></fw><table><row><cell>
-<p>Obwohl alle die verschiedenen Arten,<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KUHLENBECK: DIE GESCHLECHTSLIEBE IM LICHTE DER DESCENDENZ-THEORIE.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Obwohl alle die verschiedenen Arten,<lb/>
 die zur Zeit unseren Planeten bevölkern,<lb/>
 nach rückwärts hin zusammenlaufen in<lb/>
 eine gemeinsame Wurzel, so ist doch die<lb/>
@@ -79,7 +94,7 @@ wert lässt sie eben den Kampf ent-<lb break="no"/>
 scheiden — schließlich selber zwischen<lb/>
 den befestigten Arten die Scheidewand der<lb/>
 Unfruchtbarkeit auf.</p>
-<p>Die Selection wirkt schaffend durch<lb/>
+                     <p>Die Selection wirkt schaffend durch<lb/>
 Fortschaffen, d. h. durch Verwerfen. »Ge-<lb break="no"/>
 wiss geht von jeder Lebensform nur eine<lb/>
 bestimmte, wenn wohl auch überaus<lb/>
@@ -105,12 +120,13 @@ ungen scheiden, die Stelle, wo die Meta-<lb break="no"/>
 physik zum Worte kommen muss. Dass<lb/>
 der blinde Zufall es nicht ist, wie der<lb/>
 crasse Materialismus vermeint, der das</p>
-</cell><cell>
-<p rend="no-intend">Fundament der Dinge in gedankenlose<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Fundament der Dinge in gedankenlose<lb/>
 Atome auflöst, beweist die Verwerfung<lb/>
 der Panmixia im Kampf ums Dasein.<lb/>
 Weissmann nennt den Locomotivführer<lb/>
-<hi rend="text-spaced">Nützlichkeit</hi>. Aber er muss selber zu-<lb break="no"/>
+                        <hi rend="text-spaced">Nützlichkeit</hi>. Aber er muss selber zu-<lb break="no"/>
 gestehen, dass über die Nützlichkeit erst<lb/>
 der Erfolg entscheidet. Sie ist also kein<lb/>
 Erklärungsprincip, da sie voraussetzt, was<lb/>
@@ -122,7 +138,7 @@ beherrschte, so wird sie doch angesichts<lb/>
 der gerade von ihr überall aufgewiesenen<lb/>
 Thatsachen der Auslese ein über Sieg und<lb/>
 Niederlage <hi rend="text-spaced">entscheidendes</hi> höchstes<lb/>
-<hi rend="text-spaced">Zweckprincip</hi> meines Erachtens nicht<lb/>
+                        <hi rend="text-spaced">Zweckprincip</hi> meines Erachtens nicht<lb/>
 entbehren können, wenn sie sich selbst<lb/>
 versteht. Der Kampf ums Dasein ist eben<lb/>
 deshalb kein gesetzloser Kampf. Über ihm<lb/>
@@ -134,7 +150,7 @@ allerdings freien Spielraum haben. Die<lb/>
 Kampfrichterin in der wichtigsten An-<lb break="no"/>
 gelegenheit aber des nicht bloß wechseln-<lb break="no"/>
 den, sondern nach immer höherer<lb/>
-<hi rend="text-spaced">Steigerung seines Inhaltes</hi> ringenden<lb/>
+                        <hi rend="text-spaced">Steigerung seines Inhaltes</hi> ringenden<lb/>
 Lebensspieles in der Fortpflanzung ist<lb/>
 Kypris oder Aphrodite, von den Griechen<lb/>
 zugleich als Göttin der <hi rend="text-spaced">Schönheit</hi> er-<lb break="no"/>
@@ -147,7 +163,7 @@ keit. Denn es gehört nicht allzuviel<lb/>
 Ästhetik zu der Einsicht, dass Nützlichkeit<lb/>
 und Schönheit grundverschiedene Normen<lb/>
 sind.</p>
-<p>Ihre Kampfpreise für die sich paaren-<lb break="no"/>
+                     <p>Ihre Kampfpreise für die sich paaren-<lb break="no"/>
 den Individuen, welche »Helden zum<lb/>
 Dasein erwecken, um damit die leeren<lb/>
 Räume des Empyreums zu bevölkern«<lb/>
@@ -160,7 +176,10 @@ fühl, als demjenigen der Nahrungsauf-<lb break="no"/>
 nahme, dem Wollustgefühl, dessen<lb/>
 dämonische Gefahren uns der Phallus-Cult<lb/>
 und Kybele-Dienst niedriger Rassen veran-</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

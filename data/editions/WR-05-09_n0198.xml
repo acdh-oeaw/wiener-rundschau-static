@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-09_n0198.xml"
-     prev="WR-05-09_n0197.xml"
-     next="WR-05-09_n0199.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-09_n0198.xml" prev="WR-05-09_n0197.xml" next="WR-05-09_n0199.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,18 +41,37 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 8</title>
+                  <idno>WR-05-08_n0159.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 10</title>
+                  <idno>WR-05-10_n0205.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">SCHMITT: HERBERT SPENCERS SYNTHETISCHE PHILOSOPHIE.</fw></fw><table><row><cell>
-<p rend="no-intend">gedanken des ersten hervorragenden Ver-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">SCHMITT: HERBERT SPENCERS SYNTHETISCHE PHILOSOPHIE.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">gedanken des ersten hervorragenden Ver-<lb break="no"/>
 treters der positiven Schule, als deren<lb/>
-Vollender dann gewissermaßen Stuart <hi rend="text-spaced">Mill</hi><lb/>
+Vollender dann gewissermaßen Stuart <hi rend="text-spaced">Mill</hi>
+                        <lb/>
 und Herbert <hi rend="text-spaced">Spencer</hi> erscheinen.</p>
-<p>Freilich hat sich auch einstweilen<lb/>
+                     <p>Freilich hat sich auch einstweilen<lb/>
 schon die große historische Wendung voll-<lb break="no"/>
 zogen, die diesen ganzen Positivismus,<lb/>
 wenigstens in seiner mechanistisch-sensua-<lb break="no"/>
@@ -70,7 +86,7 @@ Gesetze gemäß, die naturalistisch-realistische<lb/>
 Welt im Sinken und die idealistische im<lb/>
 Steigen begriffen. Es datiert sich das un-<lb break="no"/>
 gefähr seit jener Zeit, als Eduard von<lb/>
-<hi rend="text-spaced">Hartmann</hi> mit seiner anonymen Schrift<lb/>
+                        <hi rend="text-spaced">Hartmann</hi> mit seiner anonymen Schrift<lb/>
 »Das Unbewusste vom Standpunkte der<lb/>
 Physiologie und Descendenztheorie« —<lb/>
 ein moderner Odysseus — sein trojani-<lb break="no"/>
@@ -78,7 +94,7 @@ sches Pferd in das naturalistische Ilium<lb/>
 hineingeschmuggelt, welche Schrift von<lb/>
 den hervorragendsten Vertretern des<lb/>
 Naturalismus, unter anderen auch von Ernst<lb/>
-<hi rend="text-spaced">Häckel</hi>, als die beste über diesen Gegen-<lb break="no"/>
+                        <hi rend="text-spaced">Häckel</hi>, als die beste über diesen Gegen-<lb break="no"/>
 stand gefeiert und vom naturalistischen<lb/>
 Lager mit Jubel begrüßt wurde, bis in<lb/>
 einer späteren Ausgabe sich Eduard von<lb/>
@@ -101,18 +117,19 @@ beruhenden mechanistischen Lehren über<lb/>
 das Werden des Organismus für ein<lb/>
 kühnes Phantasiegebäude erklären, welches<lb/>
 nun vollständig zusammengestürzt sei.</p>
-<p>Und Herbert Spencer ist ein Fortführer<lb/>
+                     <p>Und Herbert Spencer ist ein Fortführer<lb/>
 Comte’scher positivistischer Lehren, vor-<lb break="no"/>
 nehmlich auf dem Gebiete der organologi-<lb break="no"/>
 schen Hypothese. Die Lehre Spencers beruht</p>
-</cell><cell>
-<p rend="no-intend">auf der einen Seite auf Comte, auf der<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">auf der einen Seite auf Comte, auf der<lb/>
 anderen Seite auf Darwin. Seine Lehren<lb/>
 wurzeln in den metaphysischen Annahmen<lb/>
 dieser Philosophen und stellen gewisser-<lb break="no"/>
 maßen durch den Darwinismus ergänzte<lb/>
 Comte’sche Grundansichten dar.</p>
-<p>Während jedoch diese Sache in den<lb/>
+                     <p>Während jedoch diese Sache in den<lb/>
 Kreisen der Gelehrtenwelt und auf der<lb/>
 Höhe der heutigen Wissenschaft in<lb/>
 solcher Weise entschieden ist, hinkt die<lb/>
@@ -129,7 +146,7 @@ unhaltbar gewordenes Phantasiegebäude<lb/>
 ist, welche Darlegung zugleich die<lb/>
 passendste Kritik der Grundansichten der<lb/>
 Spencer’schen Philosophie bildet.</p>
-<p>Schon seit <hi rend="text-spaced">Kant</hi> ist klar geworden,<lb/>
+                     <p>Schon seit <hi rend="text-spaced">Kant</hi> ist klar geworden,<lb/>
 dass der positive Inhalt unseres Bewusst-<lb break="no"/>
 seins nur eine Welt der <hi rend="text-spaced">Erschei-<lb break="no"/>
 nungen</hi> ist, und dass vom Sein zu<lb/>
@@ -160,7 +177,10 @@ beilegen. Indem jedoch einfach positiv-<lb break="no"/>
 gegeben nur dieses Nebeneinander der<lb/>
 zwei Functionsweisen und deren sachliche<lb/>
 Beziehung ist, so ist es vorläufig ganz</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

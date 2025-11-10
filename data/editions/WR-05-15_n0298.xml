@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-15_n0298.xml"
-     prev="WR-05-15_n0297.xml"
-     next="WR-05-15_n0299.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-15_n0298.xml" prev="WR-05-15_n0297.xml" next="WR-05-15_n0299.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 14</title>
+                  <idno>WR-05-14_n0279.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 16</title>
+                  <idno>WR-05-16_n0313.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">GUMPPENBERG: DAS WESEN DES OPFERS.</fw></fw><table><row><cell>
-<p rend="no-intend">Irrthum bewahren, diese Aufopferung sei<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">GUMPPENBERG: DAS WESEN DES OPFERS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Irrthum bewahren, diese Aufopferung sei<lb/>
 ihrem Wesen nach etwas Leidensvolles,<lb/>
 während diese im Gegentheile ihrem<lb/>
 eigentlichen Wesen nach ein freiwilliges<lb/>
@@ -64,7 +79,7 @@ dessen Freude das Geben ist, und dem<lb/>
 Niederen, dessen Genugthuung im Nehmen<lb/>
 und Behalten besteht, eine Disharmonie<lb/>
 vorhanden ist.</p>
-<p>Das Opfer des Logos besteht darin,<lb/>
+                     <p>Das Opfer des Logos besteht darin,<lb/>
 dass er sein unendliches Leben freiwillig<lb/>
 einschränkt, um sich zu offenbaren. Sym-<lb break="no"/>
 bolisch gesprochen: im unendlichen Licht-<lb break="no"/>
@@ -105,8 +120,9 @@ mit ihm geworden ist, jedoch mit eigenem<lb/>
 Erinnerungsfaden. So ist dieses Ausgießen<lb/>
 seines Lebens in Formen ein Theil des<lb/>
 ursprünglichen Opfers und besitzt in sich</p>
-</cell><cell>
-<p rend="no-intend">die Seligkeit des ewigen Vaters, der seine<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">die Seligkeit des ewigen Vaters, der seine<lb/>
 Kinder als abgesonderte Leben aussendet,<lb/>
 auf dass jedes einzelne eine Intensität<lb/>
 entwickle, die nie mehr vergehen wird.<lb/>
@@ -126,7 +142,7 @@ bartes Leben ist thätige Bewegung — dann<lb/>
 muss es sich selbst ergießen. Deshalb ist<lb/>
 Geben das Merkmal des Geistes, denn Geist<lb/>
 ist das active göttliche Leben in jeder Form.</p>
-<p>Andererseits besteht aber die wesent-<lb break="no"/>
+                     <p>Andererseits besteht aber die wesent-<lb break="no"/>
 lichste Thätigkeit der Materie im Empfan-<lb break="no"/>
 gen; durch Empfangen von Lebens-<lb break="no"/>
 impulsen wird sie zu Formen organisiert;<lb/>
@@ -148,7 +164,7 @@ widerstreben, durch das sie in Stücke<lb/>
 gienge. Ihre Freude wird im Erfassen und<lb/>
 Festhalten bestehen; Geben ist für sie<lb/>
 dasselbe wie um den Tod freien.</p>
-<p>Von diesem Standpunkt aus ist sehr<lb/>
+                     <p>Von diesem Standpunkt aus ist sehr<lb/>
 leicht einzusehen, wie die Vorstellung<lb/>
 entstehen konnte, Opfer bedeute Leiden.<lb/>
 Das Opfer verminderte die Lebens-Energie,<lb/>
@@ -160,7 +176,10 @@ erkennbare Seite des Opfers. Vom Augen-<lb break="no"/>
 blick an, in dem der Mensch sich mit dem<lb/>
 Leben zu identifizieren beginnt, anstatt<lb/>
 mit der Form, kann er von dem Element</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

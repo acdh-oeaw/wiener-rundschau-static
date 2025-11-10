@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-19_n0724.xml"
-     prev="WR-02-02-19_n0723.xml"
-     next="WR-02-02-19_n0725.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-19_n0724.xml" prev="WR-02-02-19_n0723.xml" next="WR-02-02-19_n0725.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,42 +42,86 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 18</title>
+                  <idno>WR-02-02-18_n0677.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 20</title>
+                  <idno>WR-02-02-20_n0749.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>EINIGE ERINNERUNGEN AN KARL A. TAVASTSTJERNA.<lb/>
-Von <rs type="person" key="">LAURA MARHOLM</rs> (Schliersee).</title></ab><ab><title>I.</title></ab><p>Ich glaube, dieser Name wird vielen Lesern unbekannt sein.<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>EINIGE ERINNERUNGEN AN KARL A. TAVASTSTJERNA.<lb/>
+Von <rs type="person" key="">LAURA MARHOLM</rs> (Schliersee).</title>
+            </ab>
+            <ab>
+               <title>I.</title>
+            </ab>
+            <p>Ich glaube, dieser Name wird vielen Lesern unbekannt sein.<lb/>
 Sie werden kaum einen anderen Eindruck damit verbinden, als den<lb/>
 Klang von ein paar fremdartigen und herausfordernden Lauten, wie so<lb/>
 manche Namen des Nordens klingen — so manche nordische Dichter-<lb break="no"/>
 namen. Und der und jener wird sagen: viel zu viele dergleichen Namen<lb/>
 haben wir schon hören müssen. Und immer unter demselben Reclame-<lb break="no"/>
-trommel-Accompagnement. Verschont uns mit neuen!</p><p>Nun, dieser berechtigte Wunsch wird diesmal erfüllt werden,<lb/>
+trommel-Accompagnement. Verschont uns mit neuen!</p>
+            <p>Nun, dieser berechtigte Wunsch wird diesmal erfüllt werden,<lb/>
 verehrter Leser. Der Mann mit dem Namen Karl Tavaststjerna kommt<lb/>
-nicht — er ist bereits gegangen. Er ist todt.</p><p>Er ist auch kein Todter, dem rasch ein Nachruhm gemacht<lb/>
+nicht — er ist bereits gegangen. Er ist todt.</p>
+            <p>Er ist auch kein Todter, dem rasch ein Nachruhm gemacht<lb/>
 werden soll. Es gieng recht still um ihn zu, als er gestorben war.<lb/>
 Man begrub ihn mit den Ehren, die man seiner Familie schuldig war<lb/>
-und widmete ihm die nöthigen Nachrufe. Aber nichts drüber.</p><p>Er ist auch noch gar nicht lange gestorben, so dass er jetzt<lb/>
+und widmete ihm die nöthigen Nachrufe. Aber nichts drüber.</p>
+            <p>Er ist auch noch gar nicht lange gestorben, so dass er jetzt<lb/>
 etwa wieder damit drohen könnte, aufzuerstehen. Es ist keine Gefahr,<lb/>
 dass er ausgegraben wird. Er starb erst vor einigen Monaten. Und<lb/>
 damit wir gleich mit seinen Personalien fertig werden: er war 38 Jahre<lb/>
 alt, als er starb, und zwar an einer hastigen Lungenentzündung; und<lb/>
 er starb dem alten achtzigjährigen Dichter Topelius, seinem von allen<lb/>
 hochgeliebten und gefeierten Landsmann, so auf dem Fusse nach, als<lb/>
-ob er sagen wollte: aus! Schluss!</p><p>Denn er war Finnlands bedeutendster Dichter der jüngeren<lb/>
+ob er sagen wollte: aus! Schluss!</p>
+            <p>Denn er war Finnlands bedeutendster Dichter der jüngeren<lb/>
 Generation, der einzige, der Topelius’ Mantel aufheben und seinen<lb/>
 Lorbeer tragen konnte. Und das könnte ein harter Schlag für ein<lb/>
-Land scheinen, dem es noth thäte, sich geistig aufrecht zu erhalten.</p><p>Und damit wir in seinen Personalien fortfahren, so starb er in<lb/>
+Land scheinen, dem es noth thäte, sich geistig aufrecht zu erhalten.</p>
+            <p>Und damit wir in seinen Personalien fortfahren, so starb er in<lb/>
 einem kleinen abgelegenen Winkel Finnlands, der Björneborg heisst.<lb/>
 Der Name des Städtchens ist bekannt geworden durch den »Björne-<lb break="no"/>
 borger Marsch«, zu dem der erwähnte berühmte Topelius die Worte<lb/>
 dichtete; und auf allen schwedisch-finnländischen Studenten- und anderen<lb/>
-Festen wird seitdem bei allen Gelegenheiten gesungen:</p><milestone unit="verse-start"/><lg><l>»Söhne eines Volkes, dess’ Blut</l>
-<l>Bei Narva floss, auf Lützens Feld.«</l></lg><milestone unit="untyped-end"/><p>Derselbe Topelius, wenn ich nicht irre, dichtete auch zur zweiten<lb/>
-berühmten finnländischen Kriegsmelodie, dem »Marsch der finnländischen</p></div>
+Festen wird seitdem bei allen Gelegenheiten gesungen:</p>
+            <milestone unit="verse-start"/>
+            <lg>
+               <l>»Söhne eines Volkes, dess’ Blut</l>
+               <l>Bei Narva floss, auf Lützens Feld.«</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <p>Derselbe Topelius, wenn ich nicht irre, dichtete auch zur zweiten<lb/>
+berühmten finnländischen Kriegsmelodie, dem »Marsch der finnländischen</p>
+         </div>
       </body>
    </text>
 </TEI>

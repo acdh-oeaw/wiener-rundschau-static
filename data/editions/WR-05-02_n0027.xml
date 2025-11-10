@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-02_n0027.xml"
-     prev="WR-05-02_n0026.xml"
-     next="WR-05-02_n0028.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-02_n0027.xml" prev="WR-05-02_n0026.xml" next="WR-05-02_n0028.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 1</title>
+                  <idno>WR-05-01_n0001.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 3</title>
+                  <idno>WR-05-03_n0049.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">LEVERTIN: MEMLING.</fw></fw><table><row><cell>
-<p rend="no-intend">Blumenfeldern eine Zwischenform der<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">LEVERTIN: MEMLING.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Blumenfeldern eine Zwischenform der<lb/>
 Schönheit beider emporsprossen kann,<lb/>
 sind bei Memling germanische Innigkeit<lb/>
 und Treuherzigkeit ein Bündnis mit<lb/>
@@ -67,14 +82,14 @@ in der pathetischen Schärfe und dem<lb/>
 leidenschaftlichen Zug der mageren, ver-<lb break="no"/>
 weinten Gestalten, sind bei Memling zu<lb/>
 einer neuen Harmonie verschmolzen.</p>
-<p>Lyrisch, beinahe unmännlich, wie<lb/>
+                     <p>Lyrisch, beinahe unmännlich, wie<lb/>
 Memling seinem Temperament nach ist,<lb/>
 von der Miniaturtechnik zur Zierlichkeit und<lb/>
 Eleganz hingezogen, bringt er das Feinste<lb/>
 seines Wesens in seinen Frauendarstel-<lb break="no"/>
 lungen zum Ausdruck, in seinen Heiligen,<lb/>
 Engeln und Madonnen.</p>
-<p>Die Frauengestalten der flamländischen<lb/>
+                     <p>Die Frauengestalten der flamländischen<lb/>
 Kunst, welcher Stoff, um ihn zu studieren!<lb/>
 Welcher Reichthum an Typen aller Art,<lb/>
 seit van Eyck ihre Stammutter Eva auf<lb/>
@@ -105,10 +120,11 @@ lich moderne Salomé in Antwerpen an)<lb/>
 wie Quinten Massys; aber kein flamlän-<lb break="no"/>
 discher Künstler vor Van Dyck ist so von<lb/>
 der Natur bestimmt gewesen, der Verherr-</p>
-</cell><cell>
-<p rend="no-intend">licher der auserlesenen und conventionellen<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">licher der auserlesenen und conventionellen<lb/>
 Weiblichkeit zu sein, wie Memling.</p>
-<p>Am tiefsten auf der Stufenleiter von<lb/>
+                     <p>Am tiefsten auf der Stufenleiter von<lb/>
 Memlings Frauen (von den durch Modelle<lb/>
 gebundenen Porträts ist hier nicht die<lb/>
 Rede) stehen die Heiligen, so wie man sie<lb/>
@@ -141,7 +157,7 @@ leuchtet nicht Ursula in unserer Erinne-<lb break="no"/>
 rung in ihrer selbstbeherrschten Ver-<lb break="no"/>
 zückung, Königstochter und Märtyrerin,<lb/>
 Traum der Andacht und Eleganz!</p>
-<p>Aber noch bestrickender, als die<lb/>
+                     <p>Aber noch bestrickender, als die<lb/>
 Heiligen sind Memlings Engel, die hol-<lb break="no"/>
 desten Wesen, die die flamländische Kunst<lb/>
 geschaffen. Gegen sie sind van Eycks<lb/>
@@ -160,7 +176,10 @@ sehen sie schwesterlich und vertraut aus,<lb/>
 wie sie da herankommen, mit gelösten<lb/>
 Locken, die schmalen Hände an ihren<lb/>
 Instrumenten. Denn immer singen und</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

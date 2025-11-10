@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-19_n0731.xml"
-     prev="WR-02-02-19_n0730.xml"
-     next="WR-02-02-19_n0732.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-19_n0731.xml" prev="WR-02-02-19_n0730.xml" next="WR-02-02-19_n0732.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,13 +42,42 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 18</title>
+                  <idno>WR-02-02-18_n0677.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 20</title>
+                  <idno>WR-02-02-20_n0749.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">EINIGE ERINNERUNGEN AN KARL A. TAVASTSTJERNA.</fw><fw type="pn">731</fw></fw><p rend="no-intend">ungebeten hineingefallen und die Temperatur zeigte sich alsbald recht<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">EINIGE ERINNERUNGEN AN KARL A. TAVASTSTJERNA.</fw>
+               <fw type="pn">731</fw>
+            </fw>
+            <p rend="no-intend">ungebeten hineingefallen und die Temperatur zeigte sich alsbald recht<lb/>
 geladen. In dem einen Zimmer sassen die Damen, nach Rang und<lb/>
 Alter und dem Ansehen ihrer Männer, sowie nach der eigenen Abkunft<lb/>
 kunstvoll aufgereiht; und da sich doch nur gleich und gleich miteinander<lb/>
@@ -85,16 +111,23 @@ Kirchengesang. Dazu erzählte er, soviel unter den starken Klängen<lb/>
 zu verstehen war, dass irgendwo und irgendwann und von irgend einer<lb/>
 Gesanggruppe bei dem Begräbnis irgend eines grossen russischen<lb/>
 Würdenträgers folgende schwedische und russische Strophen durch-<lb break="no"/>
-einander gesungen worden seien:</p><milestone unit="verse-start"/><lg><l>Fahr’ zur Hölle, du Russ’,</l>
-<l>Fahr’ zur Hölle du Russ’,</l>
-<l>Gospody, Gospody pomilui.</l>
-<l>(Herr, Herr, erbarme Dich unser.)</l></lg><milestone unit="untyped-end"/><p>Dieser Vortrag schien zu interessieren; aber die höhere, dadurch<lb/>
+einander gesungen worden seien:</p>
+            <milestone unit="verse-start"/>
+            <lg>
+               <l>Fahr’ zur Hölle, du Russ’,</l>
+               <l>Fahr’ zur Hölle du Russ’,</l>
+               <l>Gospody, Gospody pomilui.</l>
+               <l>(Herr, Herr, erbarme Dich unser.)</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <p>Dieser Vortrag schien zu interessieren; aber die höhere, dadurch<lb/>
 erzeugte Stimmung schien nach und nach in Händelsucht ausarten zu<lb/>
 wollen. Als dann die Gesellschaft gegen Mitternacht sich auflöste,<lb/>
 schritt Tavaststjerna auf die einzige im Kreise anwesende Bauersfrau,<lb/>
 die Mutter eines Collegen von ihm zu, und küsste ihr allein im Kreise<lb/>
 der versammelten Honoratiorinnen die Hand. Der weitere Abschied<lb/>
-wurde fast tumultuarisch.</p></div>
+wurde fast tumultuarisch.</p>
+         </div>
       </body>
    </text>
 </TEI>

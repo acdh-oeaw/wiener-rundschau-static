@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-23_n0892.xml"
-     prev="WR-02-02-23_n0891.xml"
-     next="WR-02-02-23_n0893.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-23_n0892.xml" prev="WR-02-02-23_n0891.xml" next="WR-02-02-23_n0893.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,42 +42,81 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 22</title>
+                  <idno>WR-02-02-22_n0825.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 24</title>
+                  <idno>WR-02-02-24_n0905.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title><hi rend="text-spaced">BOOTSMANN RUSTEN</hi>.<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">BOOTSMANN RUSTEN</hi>.<lb/>
 Von <rs type="person" key="">JONAS LIE</rs>.<lb/>
-Einzig autorisierte Übersetzung von <rs type="person" key="">Ernst Brausewetter</rs>.</title></ab><p>Wenn Bootsmann Rüsten am Sonntag in seinem blauen Jacqet<lb/>
+Einzig autorisierte Übersetzung von <rs type="person" key="">Ernst Brausewetter</rs>.</title>
+            </ab>
+            <p>Wenn Bootsmann Rüsten am Sonntag in seinem blauen Jacqet<lb/>
 mit dem Regenschirm unterm Arm zur Kirche gieng und seine Frau<lb/>
 leewärts ein Stück hinter ihm auf der andern Seite der Strasse an-<lb break="no"/>
 getrieben kam, dann wusste man, dass nun gerade zum drittenmale<lb/>
-geläutet werden sollte.</p><p>Sie sahen stattlich und nach gutem Einverständnis aus, gerade,<lb/>
+geläutet werden sollte.</p>
+            <p>Sie sahen stattlich und nach gutem Einverständnis aus, gerade,<lb/>
 als versuchten sie, mit einander Schritt zu halten, müssten aber jedes<lb/>
-für sich etwas reichlich Platz haben.</p><p>Und hätten es die Leute nicht besser gewusst, hätten sie wohl<lb/>
+für sich etwas reichlich Platz haben.</p>
+            <p>Und hätten es die Leute nicht besser gewusst, hätten sie wohl<lb/>
 denken können, da gienge ein recht friedliches und gottgefälliges Ehe-<lb break="no"/>
-paar in das Haus des Herrn.</p><p>Fromm und andächtig sassen sie auch zusammen in der Kirche<lb/>
+paar in das Haus des Herrn.</p>
+            <p>Fromm und andächtig sassen sie auch zusammen in der Kirche<lb/>
 — nur wegen des Gesangbuches konnten sie sich nicht einigen, denn<lb/>
 der Schiffer war weitsichtig und, wenn er sang und das Buch gerade<lb/>
 vor sich hinhielt, dann musste sie sich erheben und sich strecken, um<lb/>
-lesen zu können.</p><p>Aber viel weiter als den heiligen Sonntag Vormittag, dauerte<lb/>
+lesen zu können.</p>
+            <p>Aber viel weiter als den heiligen Sonntag Vormittag, dauerte<lb/>
 es selten, bis ein anderer Laut in die Bootmannspfeife kam, und er<lb/>
 wieder mit ihr zu zanken und sie zu verhöhnen, zu verspotten und<lb/>
 zu raisonnieren begann, so dass sie am ganzen Ort im Munde der<lb/>
-Leute waren.</p><p>Er hatte gerade sein langes, schönes Sonntagnachmittagsschläfchen<lb/>
+Leute waren.</p>
+            <p>Er hatte gerade sein langes, schönes Sonntagnachmittagsschläfchen<lb/>
 beendet und seine Pfeife so ziemlich zum Brennen gebracht — und<lb/>
 stand nun in Hemdärmeln wegen der Hitze draussen auf der Treppe<lb/>
 und blickte seiner Frau nach, die sich mit Paalsens drüben an der<lb/>
-Ecke im Wortwechsel befand.</p><p>»Meckert sie da nicht wie eine Ziege <milestone unit="3dots"/> und stört den Sonntags-<lb break="no"/>
-frieden für die ganze Nachbarschaft <milestone unit="4dots"/>«</p><p>»Hem, hem, hem, ja—hie—e— Asch... Hern, H—e—e—m—ja,«<lb/>
-ahmte er ihr ärgerlich nach.</p><p>Sie stand da und zeigte den Leuten vom Hause ein zusammen-<lb break="no"/>
+Ecke im Wortwechsel befand.</p>
+            <p>»Meckert sie da nicht wie eine Ziege <milestone unit="3dots"/> und stört den Sonntags-<lb break="no"/>
+frieden für die ganze Nachbarschaft <milestone unit="4dots"/>«</p>
+            <p>»Hem, hem, hem, ja—hie—e— Asch... Hern, H—e—e—m—ja,«<lb/>
+ahmte er ihr ärgerlich nach.</p>
+            <p>Sie stand da und zeigte den Leuten vom Hause ein zusammen-<lb break="no"/>
 gerolltes Laken, auf dem einige Erdflecken waren und behauptete,<lb/>
 deren Jungen wären über den Zaun geklettert und über die Bleiche<lb/>
 gelaufen — gerade heute Mittag, während sie in der Kirche waren,<lb/>
 nur wegen der paar unreifen Äpfel, die nicht in Frieden hängen bleiben<lb/>
-könnten.</p></div>
+könnten.</p>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-04-07_n0169.xml"
-     prev="WR-04-07_n0168.xml"
-     next="WR-04-07_n0170.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-07_n0169.xml" prev="WR-04-07_n0168.xml" next="WR-04-07_n0170.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,36 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 5</title>
+                  <idno>WR-05-01_n0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 4, Nr. 6</title>
+                  <idno>WR-04-06_n0125.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 4, Nr. 8</title>
+                  <idno>WR-04-08_n0175.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">GRAEVELL: DIE RENAISSANCE DES KELTENTHUMS.</fw></fw><table><row><cell>
-<p rend="no-intend">Abhängigkeit. — Wer heute nach England<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">GRAEVELL: DIE RENAISSANCE DES KELTENTHUMS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Abhängigkeit. — Wer heute nach England<lb/>
 reist, bemerkt überall mit Staunen, dass<lb/>
 die Engländer meist so ganz anders sind,<lb/>
 als er sie sich vorgestellt hat. Er bemerkt<lb/>
@@ -70,7 +89,7 @@ berichten — dass der brünette Typus all-<lb break="no"/>
 mählich den Sieg erringen wird. Ich er-<lb break="no"/>
 innere für die Erscheinung hier nur an<lb/>
 den merkwürdigen Roman »<hi rend="italics">Coningsby</hi>« von<lb/>
-<hi rend="text-spaced">Beaconsfield</hi>. — In Deutschland ist es<lb/>
+                        <hi rend="text-spaced">Beaconsfield</hi>. — In Deutschland ist es<lb/>
 ähnlich. Ein Skandinavier, der nach Süd-<lb break="no"/>
 deutschland kommt, wird erstaunt sein,<lb/>
 einen ganz ungermanischen Typus vor-<lb break="no"/>
@@ -82,7 +101,7 @@ Haar antreffen. Die neueren Unter-<lb break="no"/>
 suchungen der Schulkinder und Recruten<lb/>
 haben das Zurückgehen des germanischen<lb/>
 Typus klar gezeigt.</p>
-<p>Der Einfluss des Keltenthums im Mittel-<lb break="no"/>
+                     <p>Der Einfluss des Keltenthums im Mittel-<lb break="no"/>
 alter ist leider noch immer nicht genügend<lb/>
 erforscht. Aber das kann man doch fest-<lb break="no"/>
 stellen, dass erhabene Gedanken, tiefe<lb/>
@@ -102,8 +121,9 @@ lores</hi>, Gaukler), die fahrenden Leute,<lb/>
 waren zuerst meist Kelten, und da sie<lb/>
 auch auf deutsches Sprachgebiet herüber-<lb break="no"/>
 kamen, so haben sie ihre neuen Melo-</p>
-</cell><cell>
-<p rend="no-intend">dien auch den Germanen überliefert. Der<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">dien auch den Germanen überliefert. Der<lb/>
 große Germanist <hi rend="text-spaced">Grundtvig</hi> in Däne-<lb break="no"/>
 mark hat z. B. gezeigt, dass die schöne<lb/>
 Volksballade von Olaf, die <hi rend="text-spaced">Herder</hi> zum<lb/>
@@ -119,7 +139,8 @@ den deutschen Frauen. Das war so von<lb/>
 den ältesten Zeiten bis zu <hi rend="text-spaced">Heines</hi> be-<lb break="no"/>
 kanntem Tambourmajor und bis zu der<lb/>
 Anbetung der französischen Kriegsgefan-<lb break="no"/>
-genen im Jahre <date>1870</date> <milestone unit="3dots"/> Der keltische<lb/>
+genen im Jahre <date>1870</date>
+                        <milestone unit="3dots"/> Der keltische<lb/>
 Geist hat den germanischen beständig<lb/>
 befruchtet und ergänzt. Beide Rassen<lb/>
 sind darauf angewiesen, sich gegen-<lb break="no"/>
@@ -133,7 +154,7 @@ Der ältere Bruder nun schien zu Gunsten<lb/>
 seines jüngeren, kräftigeren, abgedankt zu<lb/>
 haben. Jetzt reclamiert er wieder sein<lb/>
 Recht der Erstgeburt.</p>
-<p>Vor kurzem ist eine interessante Studie<lb/>
+                     <p>Vor kurzem ist eine interessante Studie<lb/>
 von Heinrich <hi rend="text-spaced">Driesmans</hi> erschienen:<lb/>
 »Das Keltenthum in der europäischen Blut-<lb break="no"/>
 mischung«*, welche ich empfehlen kann.<lb/>
@@ -154,10 +175,14 @@ keit und Übertreibung. Sie unterscheiden<lb/>
 nicht scharf genug. Driesmans bürdet den<lb/>
 Kelten alles Mögliche auf, was man ihnen<lb/>
 nicht zum Vorwurf machen kann. Er geht</p>
-</cell></row></table><note type="footnote">
-<p>* Bei Eugen <hi rend="text-spaced">Diederichs</hi> in Leipzig und Florenz.</p>
-<p>** Bei Cäsar <hi rend="text-spaced">Schmidt</hi> in Zürich, <date>1898</date>.</p>
-</note></div>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Bei Eugen <hi rend="text-spaced">Diederichs</hi> in Leipzig und Florenz.</p>
+               <p>** Bei Cäsar <hi rend="text-spaced">Schmidt</hi> in Zürich, <date>1898</date>.</p>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-01_n0016.xml"
-     prev="WR-05-01_n0015.xml"
-     next="WR-05-01_n0017.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-01_n0016.xml" prev="WR-05-01_n0015.xml" next="WR-05-01_n0017.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 4, Nr. 24</title>
+                  <idno>WR-04-24_n0421.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 2</title>
+                  <idno>WR-05-02_n0023.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">THEATER.</fw></fw><table><row><cell>
-<p rend="no-intend">abgebrauchtes Milieu, das sich bis zu<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">THEATER.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">abgebrauchtes Milieu, das sich bis zu<lb/>
 den »<hi rend="text-spaced">Soldaten</hi>« und dann noch weit<lb/>
 über die »<hi rend="text-spaced">Minna</hi>« hinaus zurück-<lb break="no"/>
 verfolgen ließe, wird in geschicktester<lb/>
@@ -79,10 +94,10 @@ tische Nothwendigkeit« posieren, huscht<lb/>
 verfeinerter, gleichsam abstracter und<lb/>
 imaginärer <hi rend="italics">deus ex machina</hi> hervor, der<lb/>
 dem »Helden« das Haupt abschlägt —<lb/>
-<hi rend="italics">car tel est son plaisir</hi> — und dem Spiel ein<lb/>
+                        <hi rend="italics">car tel est son plaisir</hi> — und dem Spiel ein<lb/>
 Ende macht, uns aber um das Gefühl betrügt,<lb/>
 dass er <hi rend="text-spaced">unrettbar</hi> verloren gewesen.</p>
-<p>Hat ihn die »Standesmoral« in den<lb/>
+                     <p>Hat ihn die »Standesmoral« in den<lb/>
 Tod getrieben? Nein. Denn eine Standes-<lb break="no"/>
 moral, wie sie hier construiert und<lb/>
 an einem besonderen Fall findig ent-<lb break="no"/>
@@ -96,17 +111,19 @@ zu nehmen brauchen, an Specialitäten zu<lb/>
 glauben, denen die Gewalt des allgemeinen<lb/>
 Falles oder die Zwingkraft des Dichters<lb/>
 fehlt, Geschehenes oder Erlogenes in<lb/>
-<hi rend="text-spaced">kunstgemäße</hi> Wahrheit zu wandeln. Es<lb/>
+                        <hi rend="text-spaced">kunstgemäße</hi> Wahrheit zu wandeln. Es<lb/>
 lässt sich dies bei Aristoteles nachlesen<lb/>
-— und über dieses Ewige, Eherne <hi rend="text-spaced">kann</hi><lb/>
+— und über dieses Ewige, Eherne <hi rend="text-spaced">kann</hi>
+                        <lb/>
 kein Dramatiker hinwegspringen, <hi rend="text-spaced">ist</hi> kein<lb/>
 Dramatiker hinweggesprungen!</p>
-<p>Hat den »Helden« also nur eine <hi rend="text-spaced">sub-<lb break="no"/>
+                     <p>Hat den »Helden« also nur eine <hi rend="text-spaced">sub-<lb break="no"/>
 jectiv eingebildete</hi> Standesmoral, wie<lb/>
 sie manchmal in unreifen Köpfen einer<lb/>
 Gilde spukt, in den Tod getrieben? Hat er</p>
-</cell><cell>
-<p rend="no-intend">— er allein — die vernichtende Wirkung<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">— er allein — die vernichtende Wirkung<lb/>
 dieses eingebildeten Gespenstes gefürchtet?<lb/>
 Möglich. Das wäre eine Tragödie der Miss-<lb break="no"/>
 verständnisse, die sich rechtfertigen ließe,<lb/>
@@ -115,7 +132,8 @@ gehen müssen. Aber die Gespensterfurcht<lb/>
 ist hier nicht bloße Einbildung. Denn die An-<lb break="no"/>
 deren, die um den Helden herum sind, ihn<lb/>
 attaquieren und sein Schicksal ausmachen,<lb/>
-glauben <hi rend="text-spaced">gleichfalls</hi> daran, <hi rend="text-spaced">müssen</hi><lb/>
+glauben <hi rend="text-spaced">gleichfalls</hi> daran, <hi rend="text-spaced">müssen</hi>
+                        <lb/>
 daran glauben, weil — ihr Autor und<lb/>
 Nährvater diesen Glauben braucht. Und<lb/>
 keinem von ihnen fällt es ein, dem<lb/>
@@ -151,7 +169,7 @@ diese »Unrettbarkeit«? Sie besteht über-<lb break="no"/>
 haupt nicht. Und damit ist den tragischen<lb/>
 Fügungen, die nur mehr den Winken<lb/>
 einer zurechtgelegten Willkür folgen, jene<lb/>
-<hi rend="text-spaced">Unerbittlichkeit</hi> entzogen, ohne die<lb/>
+                        <hi rend="text-spaced">Unerbittlichkeit</hi> entzogen, ohne die<lb/>
 eine innerlich dramatische (»befreiende«)<lb/>
 Spannung nicht eintreten kann. Es ist<lb/>
 charakteristisch für das gesammte zeit-<lb break="no"/>
@@ -160,7 +178,10 @@ einmal ein Dichter (leider kein naiver) der<lb/>
 modernen Meinung gewesen, man könne<lb/>
 die <hi rend="italics">autoris voluntas</hi> ohneweiters als <hi rend="italics">suprema<lb/>
 lex</hi> stabilieren.</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-04_n0081.xml"
-     prev="WR-05-04_n0080.xml"
-     next="WR-05-04_n0082.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-04_n0081.xml" prev="WR-05-04_n0080.xml" next="WR-05-04_n0082.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,17 +41,36 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 3</title>
+                  <idno>WR-05-03_n0049.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 5</title>
+                  <idno>WR-05-05_n0097.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>ÜBER HENRY BEYLE-STENDHAL.*<lb/>
-Von <rs type="person" key="">ERNST SCHUR</rs> (München)</title></ab><table><row><cell>
-<p>Henry Beyle, ein Künstler des Milieus<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>ÜBER HENRY BEYLE-STENDHAL.*<lb/>
+Von <rs type="person" key="">ERNST SCHUR</rs> (München)</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Henry Beyle, ein Künstler des Milieus<lb/>
 und der Seele.</p>
-<p>Man muss dabei seine Zeit in An-<lb break="no"/>
+                     <p>Man muss dabei seine Zeit in An-<lb break="no"/>
 rechnung bringen. Heute gilt das als eine<lb/>
 Forderung, die man erfüllt und nach deren<lb/>
 Erfüllung man sich gerecht ausruhen<lb/>
@@ -86,14 +102,15 @@ präge gab — was bleibt dann noch?<lb/>
 Freilich ist da die Grenze schwer zu<lb/>
 ziehen, und wo hier die Gewissheit liegt,<lb/>
 ist selbst Dem nicht klar, der sie fand.</p>
-<p>Wenn man Henry Beyle seine roman-<lb break="no"/>
+                     <p>Wenn man Henry Beyle seine roman-<lb break="no"/>
 tische Note vorwirft, die ihm die Dinge<lb/>
 oft übertrieben und verzerrt gibt, so mag<lb/>
 man mit einem Gegeneinwand antworten.<lb/>
 Wieviel von diesem romantischen Blut<lb/>
 kreist nicht noch in unseren heutigen</p>
-</cell><cell>
-<p>Künstlern? Beyle ist dagegen noch ein<lb/>
+                  </cell>
+                  <cell>
+                     <p>Künstlern? Beyle ist dagegen noch ein<lb/>
 Kind und hat positive Werte dafür vor-<lb break="no"/>
 zuweisen. Man muss, um das verstehen zu<lb/>
 können, gleichsam das Kleid seiner Zeit<lb/>
@@ -133,11 +150,15 @@ innerem Erlebnis und deren Verdeut-<lb break="no"/>
 lichung einerseits und dem Hineinführen<lb/>
 der äußeren Geschehnisse in das Leben<lb/>
 seines Helden andererseits. Da aber dieser</p>
-</cell></row></table><note type="footnote">
-<p>* Henry Beyle lebte von 1783—1842. Erst jetzt erscheint eine Auswahl seiner Werke<lb/>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Henry Beyle lebte von 1783—1842. Erst jetzt erscheint eine Auswahl seiner Werke<lb/>
 in der Übertragung von Fr. von Oppeln-Bronikowski bei Diederichs in Leipzig, beginnend mit<lb/>
 »Rouge et noir«.</p>
-</note></div>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

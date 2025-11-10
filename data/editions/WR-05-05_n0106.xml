@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-05_n0106.xml"
-     prev="WR-05-05_n0105.xml"
-     next="WR-05-05_n0107.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-05_n0106.xml" prev="WR-05-05_n0105.xml" next="WR-05-05_n0107.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 4</title>
+                  <idno>WR-05-04_n0077.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 6</title>
+                  <idno>WR-05-06_n0115.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">KOMAREK: VOM WESEN DER MUSIK.</fw></fw><table><row><cell>
-<p>jene höheren und höchsten Standpunkte,<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KOMAREK: VOM WESEN DER MUSIK.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>jene höheren und höchsten Standpunkte,<lb/>
 das sind intensive, im Vordergrunde<lb/>
 stehende Kernvorstellungen, die dem<lb/>
 Kunstwerke jene einheitliche Theilung<lb/>
@@ -105,8 +120,9 @@ Künstlers ist, noch zu erweitern und das<lb/>
 psychische Leben umso mannigfacher und<lb/>
 lebhafter zu gestalten. Die psychische<lb/>
 Wirkung musste in der italienischen Oper</p>
-</cell><cell>
-<p rend="no-intend">überaus verwirrt werden. Da der Gehalt der<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">überaus verwirrt werden. Da der Gehalt der<lb/>
 Musik ein durchaus dunkler ist, so ist sie in<lb/>
 ihrer Art allumfassend. Hierin begreift sich<lb/>
 Welt und Seele von selbst. Denn das-<lb break="no"/>
@@ -116,7 +132,7 @@ was ist es jedoch im Grunde anderes,<lb/>
 als die Gesammtheit der psychischen Be-<lb break="no"/>
 ziehungen zwischen dem Menschen und<lb/>
 der Natur?</p>
-<p>Die Musik besitzt nur drei Mittel, näm-<lb break="no"/>
+                     <p>Die Musik besitzt nur drei Mittel, näm-<lb break="no"/>
 lich die des Tons, die des Rhythmus<lb/>
 und das Mittel der parallelistischen Nach-<lb break="no"/>
 ahmung. Unmittelbar kann die Musik sonach<lb/>
@@ -160,7 +176,10 @@ schöpfend analysiert werden kann, so dass<lb/>
 selbst hohe Geister der absoluten Musik<lb/>
 keine Klarheit werden abgewinnen können.<lb/>
 In geringen Theilen, im einzelnen Takte</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

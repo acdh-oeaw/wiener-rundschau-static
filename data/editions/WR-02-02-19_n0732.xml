@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-19_n0732.xml"
-     prev="WR-02-02-19_n0731.xml"
-     next="WR-02-02-19_n0733.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-19_n0732.xml" prev="WR-02-02-19_n0731.xml" next="WR-02-02-19_n0733.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,20 +42,50 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 18</title>
+                  <idno>WR-02-02-18_n0677.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 20</title>
+                  <idno>WR-02-02-20_n0749.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">732</fw><fw type="ctext">MARHOLM.</fw></fw><p>In seinen letzten Lebensjahren war Tavaststjerna sehr taub und<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">732</fw>
+               <fw type="ctext">MARHOLM.</fw>
+            </fw>
+            <p>In seinen letzten Lebensjahren war Tavaststjerna sehr taub und<lb/>
 als ich ihn zum letztenmal sah, erschien er mit einem Metallplättchen<lb/>
 zwischen den Zähnen, um durch diese Leitung auf eine mir unerklärt<lb/>
 gebliebene Weise hören zu können. Gleichzeitig aber wurde erzählt,<lb/>
 dass er in einem Kreise von Trinkgenossen, als einer derselben im Ver-<lb break="no"/>
 trauen auf Tavaststjernas Taubheit eine unanständige Bemerkung über<lb/>
 eine Tavaststjerna nahestehende Dame machte, diesem prompt eine nach-<lb break="no"/>
-drückliche Ohrfeige versetzte, die schweigend acceptiert worden sein soll.</p><p>Ich möchte diese paar Anekdoten mit einer dritten schliessen,<lb/>
+drückliche Ohrfeige versetzte, die schweigend acceptiert worden sein soll.</p>
+            <p>Ich möchte diese paar Anekdoten mit einer dritten schliessen,<lb/>
 in der mir der Grundzug in Tavaststjernas zusammengesetztem Wesen<lb/>
 enthalten zu sein scheint, so klein und unbedeutend der Vorgang war.<lb/>
 Während eines Aufenthalts von uns in Schonen erschien Tavaststjerna<lb/>
@@ -80,7 +107,9 @@ vorhandenen Lehnsessel an. Tavaststjerna wies eigensinnig jede Ver-<lb break="no
 Zeit zu Zeit den Dienst verweigerte und immer wieder mit unerschütter-<lb break="no"/>
 licher Geduld dazu angehalten wurde. Tavaststjerna führte den Kampf<lb/>
 mit dem Stuhl weiter, bis die anderen Besuche abgereist waren. Dann<lb/>
-— sehr zögernd, mit vielen Kunstpausen — begab auch er sich zur Bahn.</p><milestone unit="asterismUp"/><p>Und so sagte er in einem seiner schönsten Bücher — »Laureatus« —<lb/>
+— sehr zögernd, mit vielen Kunstpausen — begab auch er sich zur Bahn.</p>
+            <milestone unit="asterismUp"/>
+            <p>Und so sagte er in einem seiner schönsten Bücher — »Laureatus« —<lb/>
 in köstlichen, tiefen, geheimnisvollen Gedichten der Welt Lebewohl<lb/>
 und schied von hinnen — ein Patriot ohne Vaterland. Und wenn ich<lb/>
 an ihn zurückdenkend sein Leben überschaue, der mein Landsmann<lb/>
@@ -92,7 +121,10 @@ kann ein Colonistenland kein Vaterland sein. Das Vaterland ist nur<lb/>
 da, wo der <hi rend="text-spaced">Bauer</hi> vom selben Stamm, von derselben Sprache und<lb/>
 derselben Art ist wie der Höchstgeborene, wo alle aus Bauern hervor-<lb break="no"/>
 gegangen sind und ihre Wurzeln bis zurück in den Bauernstand<lb/>
-führen wie der Baum in die Erde.</p><milestone unit="untyped-end"/><milestone unit="hr"/></div>
+führen wie der Baum in die Erde.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-02_n0043.xml"
-     prev="WR-05-02_n0042.xml"
-     next="WR-05-02_n0044.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-02_n0043.xml" prev="WR-05-02_n0042.xml" next="WR-05-02_n0044.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 1</title>
+                  <idno>WR-05-01_n0001.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 3</title>
+                  <idno>WR-05-03_n0049.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">MAUCLAIR: ÜBER DEN GEGENWÄRTIGEN STAND DER LITERARISCHEN KRITIK.</fw></fw><table><row><cell>
-<p>Der pedantische, akademische Geist wird<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MAUCLAIR: ÜBER DEN GEGENWÄRTIGEN STAND DER LITERARISCHEN KRITIK.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Der pedantische, akademische Geist wird<lb/>
 von dem großen Gefühl allgemeiner Unab-<lb break="no"/>
 hängigkeit vernichtet, das diese ganze<lb/>
 Jahrhundertwende durchströmt. Ein dog-<lb break="no"/>
@@ -105,8 +120,9 @@ Fall ist heute selten, aber er existiert noch.<lb/>
 Allerdings wird der Einfluss solcher Männer<lb/>
 bald vollständig verschwinden. Wie die<lb/>
 Schar der jungen Maler einem Claude,</p>
-</cell><cell>
-<p rend="no-intend">Monet, Besnard, Carrière oder Whistler<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Monet, Besnard, Carrière oder Whistler<lb/>
 folgt, ohne sich weiter um die Schule<lb/>
 und die Herren Bouguereau oder Gérôme<lb/>
 zu kümmern, ebenso schafft eine ganze<lb/>
@@ -120,7 +136,7 @@ umgeformt hätte. Die Sectierer schwinden,<lb/>
 und der übertriebene Dogmatismus erregt<lb/>
 Lächeln; der Glaube an die patentierte<lb/>
 Kritik existiert nicht mehr.</p>
-<p>Die verständnisvollen und freien Geister,<lb/>
+                     <p>Die verständnisvollen und freien Geister,<lb/>
 auf die wir jetzt zu sprechen kommen,<lb/>
 sind von einem neuen Gefühl angekränkelt,<lb/>
 das einem allzugroßen Zartgefühl ent-<lb break="no"/>
@@ -160,7 +176,10 @@ mit Bonhommie, die anderen mit einem<lb/>
 unentschlossenen Opportunismus, andere<lb/>
 wieder mit einem Boulevard-Ton — aber<lb/>
 alle entschuldigen sich. Sie erliegen eben</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

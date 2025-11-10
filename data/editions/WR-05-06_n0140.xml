@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-06_n0140.xml"
-     prev="WR-05-06_n0139.xml"
-     next="WR-05-07_n0141.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-06_n0140.xml" prev="WR-05-06_n0139.xml" next="WR-05-07_n0141.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 5</title>
+                  <idno>WR-05-05_n0097.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 7</title>
+                  <idno>WR-05-07_n0141.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">RUNDSCHAU.</fw></fw><table><row><cell>
-<p rend="no-intend">verborgenen Orchester gespielt) zu Ende<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">RUNDSCHAU.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">verborgenen Orchester gespielt) zu Ende<lb/>
 gieng. Er war zu klagen gekommen; aber<lb/>
 die Trauer ganz vergessend, redet er das<lb/>
 Steinbild des Verblichenen an wie einen<lb/>
@@ -63,21 +78,23 @@ aufschloss und zu reden begann, war<lb/>
 Hofmannsthals »Tod des Tizian«.* Ein<lb/>
 Kinderchor von Beethoven beschloss die<lb/>
 Feier. Sie hatte kaum eine Stunde gedauert.</p>
-<p><rs type="person" key="">PAUL BRANN</rs>.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="asterisk"/>
-<milestone unit="untyped-start"/>
-<p>Oscar <hi rend="text-spaced">Wildes</hi> »<hi rend="text-spaced">Salome</hi>«, von<lb/>
+                     <p>
+                        <rs type="person" key="">PAUL BRANN</rs>.</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="asterisk"/>
+                     <milestone unit="untyped-start"/>
+                     <p>Oscar <hi rend="text-spaced">Wildes</hi> »<hi rend="text-spaced">Salome</hi>«, von<lb/>
 unserer Mitarbeiterin Hedwig Lachmann<lb/>
 ins Deutsche übertragen (vergleiche Juni-<lb break="no"/>
 heft <date>1900</date>), ist vom akademisch-drama-<lb break="no"/>
 tischen Verein (München) mit Frl. Rauch<lb/>
 (Wiesbaden) in der Titelrolle zur Auf-<lb break="no"/>
 führung gebracht worden.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="asterisk"/>
-<milestone unit="untyped-start"/>
-<p><hi rend="text-spaced">Mankiewicz-Ausstellung</hi>. Hierüber<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="asterisk"/>
+                     <milestone unit="untyped-start"/>
+                     <p>
+                        <hi rend="text-spaced">Mankiewicz-Ausstellung</hi>. Hierüber<lb/>
 wird uns geschrieben: Es handelt sich<lb/>
 hier um eine Vermischung zweier Ten-<lb break="no"/>
 denzen, da die Nadel offenbar ornamentale<lb/>
@@ -104,14 +121,19 @@ Cranes, würde diese Wirkungen deutlicher<lb/>
 machen; das können unter anderem auch<lb/>
 die Tapisserien des Mittelalters beweisen,<lb/>
 die oft nach Miniaturen hergestellt wurden,</p>
-</cell><cell>
-<p rend="no-intend">wie die merkwürdige <hi rend="text-spaced">Apokalypse</hi> des<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">wie die merkwürdige <hi rend="text-spaced">Apokalypse</hi> des<lb/>
 Jehan de Bruges, welche jetzt in der<lb/>
 Kathedrale von Angers hängt.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="asterisk"/>
-<milestone unit="untyped-start"/>
-<p><rs type="person" key=""><hi rend="italics">r.</hi></rs> <hi rend="text-spaced">Die Formenkrise</hi>. Herr <hi rend="text-spaced">Van de<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="asterisk"/>
+                     <milestone unit="untyped-start"/>
+                     <p>
+                        <rs type="person" key="">
+                           <hi rend="italics">r.</hi>
+                        </rs>
+                        <hi rend="text-spaced">Die Formenkrise</hi>. Herr <hi rend="text-spaced">Van de<lb/>
 Velde</hi> hat mit unserem Programm im<lb/>
 wesentlichen übereinstimmende Anschau-<lb break="no"/>
 ungen entwickelt. Dass in Kunstdingen,<lb/>
@@ -155,11 +177,19 @@ natürlich unverstanden gebliebene, Gleich-<lb break="no"/>
 heit der Kleidung, welche erst die Wir-<lb break="no"/>
 kungen des Gesichtsausdruckes hervortreten<lb/>
 lassen soll.</p>
-<note type="footnote">
-<p>* War in den »Blättern für die Kunst« abgedruckt.</p>
-</note>
-<milestone unit="untyped-end"/>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="imprint-start"/><p>Verantwortl. Redacteur: R. Dworschak. — K. k. Hoftheater-Druckerei, Wien, I., Wollzeile 17. (Verantwortl. A. Rimrich.)</p><milestone unit="untyped-end"/><milestone unit="untyped-end"/></div>
+                     <note type="footnote">
+                        <p>* War in den »Blättern für die Kunst« abgedruckt.</p>
+                     </note>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="imprint-start"/>
+            <p>Verantwortl. Redacteur: R. Dworschak. — K. k. Hoftheater-Druckerei, Wien, I., Wollzeile 17. (Verantwortl. A. Rimrich.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
       </body>
    </text>
 </TEI>

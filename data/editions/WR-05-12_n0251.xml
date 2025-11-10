@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-12_n0251.xml"
-     prev="WR-05-12_n0250.xml"
-     next="WR-05-12_n0252.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-12_n0251.xml" prev="WR-05-12_n0250.xml" next="WR-05-12_n0252.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,18 +41,37 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 11</title>
+                  <idno>WR-05-11_n0225.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 13</title>
+                  <idno>WR-05-13_n0265.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>ÜBER JAKOB BOEHME.<lb/>
-Von DR. <rs type="person" key="">MARTIN BUBER</rs> (Wien).</title></ab><table><row><cell>
-<p>Boehmes Grundproblem, um das sich<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>ÜBER JAKOB BOEHME.<lb/>
+Von DR. <rs type="person" key="">MARTIN BUBER</rs> (Wien).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Boehmes Grundproblem, um das sich<lb/>
 alle seine Gedanken scharen, ist das Ver-<lb break="no"/>
 hältnis des Einzelnen zur Welt.</p>
-<p>Die Welt bleibt das Räthsel, das auf<lb/>
+                     <p>Die Welt bleibt das Räthsel, das auf<lb/>
 Einen einwirkt, auf das Einer einwirkt,<lb/>
 und das doch ewig fern und fremd ist.<lb/>
 Der Einzelne verzehrt sich in stummer,<lb/>
@@ -63,7 +79,7 @@ hoffnungsloser Einsamkeit. »Wir finden,<lb/>
 dass das Leben ein brennend Feuer sei,<lb/>
 das da zehrt; und so es nicht mehr zu<lb/>
 zehren hat, erlischt es.«</p>
-<p>Gott und Natur sind ihm eins, wie<lb/>
+                     <p>Gott und Natur sind ihm eins, wie<lb/>
 Seele und Körper oder vielmehr wie<lb/>
 Energie und Organismus. »Auch siehst<lb/>
 du« — meint er — »wie die Natur nicht von<lb/>
@@ -73,10 +89,11 @@ erkennen, dass Gott in seinem eigenen<lb/>
 Wesen kein Wesen ist, sondern bloß nur<lb/>
 die Kraft oder der Verstand zum Wesen,<lb/>
 als ein ungründlicher, ewiger Wille.«</p>
-<p>Nun ist es fraglich, wie aus dieser<lb/>
+                     <p>Nun ist es fraglich, wie aus dieser<lb/>
 Krafteinheit die Welt der einzelnen und<lb/>
 verschiedenen Dinge, oder, was dasselbe<lb/>
-bedeutet, <hi rend="text-spaced">wie aus Gott der Mensch</hi><lb/>
+bedeutet, <hi rend="text-spaced">wie aus Gott der Mensch</hi>
+                        <lb/>
 entsteht. Er erklärt sich dieses Werden<lb/>
 durch das Element des Spieles, das der<lb/>
 Kraft innewohnt. Alle schöpferische Selbst-<lb break="no"/>
@@ -96,14 +113,15 @@ Urkraft die in ihr schlummernden Formen<lb/>
 heraus. Und so ist alles Wesen um des<lb/>
 Spieles und des schöpferischen Kampfes<lb/>
 willen da; die Welt hat keinen anderen</p>
-</cell><cell>
-<p rend="no-intend">Sinn und Zweck als diesen. Sie ist der<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Sinn und Zweck als diesen. Sie ist der<lb/>
 Ort der Kräfte, »darinnen sie ihr Liebes-<lb break="no"/>
 spiel als in einem Gehäuse verbringen<lb/>
 können, dass sie etwas haben, damit und<lb/>
 darinnen sie mit ihrem ringenden Liebes-<lb break="no"/>
 spiel mit sich spielen«.</p>
-<p>Weil aber die Einheit aller Kraft nur<lb/>
+                     <p>Weil aber die Einheit aller Kraft nur<lb/>
 durch das Wirken der Kräfte in der Natur<lb/>
 offenbar wird, weil, wie Boehmes Meister,<lb/>
 der seltsame Valentin Weigel, ausführte,<lb/>
@@ -141,10 +159,14 @@ geworden sind. So sind wir nicht die<lb/>
 Sclaven, sondern die Geliebten unserer<lb/>
 Welt, und »also stehet jetzo noch auf<lb/>
 heute alles Ding in dem Schaffen«.*</p>
-</cell></row></table><note type="footnote">
-<p>Vergl. <hi rend="text-spaced">Schopenhauer</hi>: Vorausgesetztsein des Objects im Satze vom zureichenden<lb/>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>Vergl. <hi rend="text-spaced">Schopenhauer</hi>: Vorausgesetztsein des Objects im Satze vom zureichenden<lb/>
 Grunde.</p>
-</note></div>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

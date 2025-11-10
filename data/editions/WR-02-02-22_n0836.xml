@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-22_n0836.xml"
-     prev="WR-02-02-22_n0835.xml"
-     next="WR-02-02-22_n0837.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-22_n0836.xml" prev="WR-02-02-22_n0835.xml" next="WR-02-02-22_n0837.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,27 +42,59 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 21</title>
+                  <idno>WR-02-02-21_n0785.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 23</title>
+                  <idno>WR-02-02-23_n0865.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title><hi rend="text-spaced">STÉPHANE MALLARMÉ</hi>.*)<lb/>
-Von <rs type="person" key="">VITTORIO PICA</rs> (Neapel).</title></ab><p>In einem eleganten kleinen Salon der Rue de Rome in Paris,<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">STÉPHANE MALLARMÉ</hi>.*)<lb/>
+Von <rs type="person" key="">VITTORIO PICA</rs> (Neapel).</title>
+            </ab>
+            <p>In einem eleganten kleinen Salon der Rue de Rome in Paris,<lb/>
 dessen Wände zwei Bilder von Edouard Manet und Claude Monet, eine<lb/>
 Radierung von Whistler, verschiedene Blätter des Amerikaners Caldecott,<lb/>
 eine kleine, aber erlesene Bibliothek und ein paar bizarre japanische<lb/>
 Nippes zieren, versammelt sich von Zeit zu Zeit eine Reihe französischer<lb/>
 Literaten, und vor allem eine Anzahl jener jungen Dichter und Schrift-<lb break="no"/>
 steller, die man gemeinhin mit dem vagen Namen »Symbolisten« be-<lb break="no"/>
-zeichnet.</p><p>Jenen vertraulichen Versammlungen, aus denen alle politischen<lb/>
+zeichnet.</p>
+            <p>Jenen vertraulichen Versammlungen, aus denen alle politischen<lb/>
 Fragen streng verbannt sind, und in denen nur von der Kunst die<lb/>
 Rede ist, steht der Herr des Hauses vor, ein Mann von mittelgrosser<lb/>
 Gestalt, mit röthlichem, spitz zugestutztem Bart und einer mächtigen<lb/>
 Stirn, unter der ein Paar prächtige, schwermüthige Augen flammen.<lb/>
 Spricht er, so schweigen alle ringsum und lauschen andächtig, denn<lb/>
-er ist ein seltener, gewandter, origineller und fascinierender Redner.</p><p>Auf diesen Dichter — Stéphane Mallarmé — den viele verkannten,<lb/>
+er ist ein seltener, gewandter, origineller und fascinierender Redner.</p>
+            <p>Auf diesen Dichter — Stéphane Mallarmé — den viele verkannten,<lb/>
 weil sie seine Werke zu oberflächlich lasen oder die Mühe scheuten, in<lb/>
 seine ganz eigenartige Ästhetik einzudringen, lässt sich sehr wohl das<lb/>
 Wort des Péladan über den Belgier Félicien Rops anwenden: »II est<lb/>
@@ -79,16 +108,20 @@ will er nur von seinesgleichen beurtheilt werden, nicht etwa aus Hoch-<lb break=
 muth — seine Unberühmtheit, die eine willkürliche ist, zeugt genugsam<lb/>
 für seine Bescheidenheit — sondern weil er weiss, dass die Kunst ein<lb/>
 Cult ist, der allen, die sich zu ihm erheben, Aufnahme gewähren, sich<lb/>
-aber nie zu jenen herablassen soll, die des Aufschwunges unfähig sind.</p><p>Diese Ultra-aristokratische Tendenz, bloss für einen engen Kreis<lb/>
+aber nie zu jenen herablassen soll, die des Aufschwunges unfähig sind.</p>
+            <p>Diese Ultra-aristokratische Tendenz, bloss für einen engen Kreis<lb/>
 erwählter Geister eine Kunst zu schaffen, die der grossen Menge unzu-<lb break="no"/>
 gänglich bleibt — eine Tendenz, die täglich neue Anhänger gewinnt —<lb/>
 mag verwerflich und falsch sein, aber sie verkörpert, wie Edouard<lb/>
 Rod sagt, die natürliche und nicht ungerechtfertigte Reaction gegen<lb/>
 eine gewisse missverstandene Demokratisierung der Kunst. Je mehr die<lb/>
 Geschäftsleute unter den Malern und den Literaten ihre Ware herab-<lb break="no"/>
-setzen, um sie dem Beutel und dem Verständnis der Menge erreichbar</p><milestone unit="hr"/><note type="footnote">
-<p>*) Siehe »Notizen« dieser Nummer.</p>
-</note></div>
+setzen, um sie dem Beutel und dem Verständnis der Menge erreichbar</p>
+            <milestone unit="hr"/>
+            <note type="footnote">
+               <p>*) Siehe »Notizen« dieser Nummer.</p>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

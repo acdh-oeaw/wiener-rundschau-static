@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-10_n0208.xml"
-     prev="WR-05-10_n0207.xml"
-     next="WR-05-10_n0209.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-10_n0208.xml" prev="WR-05-10_n0207.xml" next="WR-05-10_n0209.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 9</title>
+                  <idno>WR-05-09_n0189.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 11</title>
+                  <idno>WR-05-11_n0225.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BLEIBTREU: DIALOG ÜBER ESOTERISCHEN BUDDHISMUS.</fw></fw><table><row><cell>
-<p>der Naturwissenschaften bittern Schmerz,<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BLEIBTREU: DIALOG ÜBER ESOTERISCHEN BUDDHISMUS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>der Naturwissenschaften bittern Schmerz,<lb/>
 über den sie sich nur mit Lombrosos<lb/>
 These trösten, Genie sei dem Irrsinn ver-<lb break="no"/>
 wandt; denn der Gedanke, diese Riesen<lb/>
@@ -97,7 +112,7 @@ hierüber ein tiefes Wort, ungefähr des In-<lb break="no"/>
 halts: nach Berechnung aller Möglichkeiten<lb/>
 bleibe noch ein unlösbarer Rest, den man<lb/>
 dem Schicksal überlassen müsse, und diesen<lb/>
-<hi rend="text-spaced">mit</hi> in Berechnung zu ziehen, sei —<lb/>
+                        <hi rend="text-spaced">mit</hi> in Berechnung zu ziehen, sei —<lb/>
 Genie. Was folgert nun daraus? 1. Das<lb/>
 Ich, je höher es sich aufbäumt, ahnt<lb/>
 umso tiefer insgeheim seine wehrlose<lb/>
@@ -105,8 +120,9 @@ Nichtigkeit. Hiermit aber widerlegt die<lb/>
 Ichsucht sich selber, und es dämmert ihr<lb/>
 die Erkenntnis, dass die ewige Vor-<lb break="no"/>
 bestimmung unmöglich den unfreien Willen</p>
-</cell><cell>
-<p>des Ich als Lösung des Menschenräthsels<lb/>
+                  </cell>
+                  <cell>
+                     <p>des Ich als Lösung des Menschenräthsels<lb/>
 gemeint habe, dass also das Person-Ich<lb/>
 nur etwas wesenlos Vergängliches sei und<lb/>
 der denkende Mensch eine andere Basis<lb/>
@@ -160,7 +176,10 @@ pries Jesus als den einzig wahren Eroberer.<lb/>
 Diese Bezeugung moralischer Weltordnung<lb/>
 und Nichtigkeit des Ich durch die größten<lb/>
 Menschen hätte schon allein bedeutendes</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-06_n0139.xml"
-     prev="WR-05-06_n0138.xml"
-     next="WR-05-06_n0140.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-06_n0139.xml" prev="WR-05-06_n0138.xml" next="WR-05-06_n0140.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 5</title>
+                  <idno>WR-05-05_n0097.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 7</title>
+                  <idno>WR-05-07_n0141.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">RUNDSCHAU.</fw></fw><table><row><cell>
-<p rend="no-intend">konnte auch eine Verstimmung hereinbringen,<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">RUNDSCHAU.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">konnte auch eine Verstimmung hereinbringen,<lb/>
 so dass es allen unheimlich wurde <milestone unit="5dots"/> Ich<lb/>
 glaube mich unsichtbar von höherem Wesen<lb/>
 umgeben.« — In den »Unterhaltungen deutscher<lb/>
@@ -117,11 +132,13 @@ Ja, er hatte sogar den besonderen Glauben,<lb/>
 einmal unter Kaiser <hi rend="text-spaced">Hadrian</hi> dagewesen zu<lb/>
 sein; deshalb zöge ihn alles Römische so an<lb/>
 und käme ihm so heimisch vor.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="asterisk"/>
-</cell><cell>
-<milestone unit="untyped-start"/>
-<p><hi rend="text-spaced">Ein deutscher Buddhist</hi> (Ober-<lb break="no"/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="asterisk"/>
+                  </cell>
+                  <cell>
+                     <milestone unit="untyped-start"/>
+                     <p>
+                        <hi rend="text-spaced">Ein deutscher Buddhist</hi> (Ober-<lb break="no"/>
 Präsidialrath <hi rend="text-spaced">Theodor Schultze</hi>). Bio-<lb break="no"/>
 graphische Skizze von Dr. <hi rend="text-spaced">Arthur<lb/>
 Pfungst</hi>, Verlag <hi rend="text-spaced">Frommann</hi>, Stutt-<lb break="no"/>
@@ -132,7 +149,8 @@ kleine Schrift der Erinnerung. Bemüht, das<lb/>
 wenig gewürdigte Wirken dieses Mannes<lb/>
 einem großen Kreise »menschlich« näherzu-<lb break="no"/>
 rücken, bringt der Biograph weniger eine<lb/>
-<hi rend="text-spaced">kritische</hi> Würdigung des von <hi rend="text-spaced">Schultze</hi><lb/>
+                        <hi rend="text-spaced">kritische</hi> Würdigung des von <hi rend="text-spaced">Schultze</hi>
+                        <lb/>
 vertretenen religions-philosophischen Stand-<lb break="no"/>
 punktes, als eine liebevoll behandelte Dar-<lb break="no"/>
 stellung seines Wesens und seiner schrift-<lb break="no"/>
@@ -158,25 +176,29 @@ die große Bedeutsamkeit der buddhistischen<lb/>
 Hauptlehren (Atma, Reincarnation, Karma)<lb/>
 hinsichtlich ihrer sittlich-regenerierenden<lb/>
 Kraft.</p>
-<p>Das Lebensbild dieses einsamen<lb/>
+                     <p>Das Lebensbild dieses einsamen<lb/>
 Denkers kennen zu lernen, ist auch vom<lb/>
 culturgeschichtlichen Standpunkte wert-<lb break="no"/>
 voll: es lehrt uns, wie das deutsche<lb/>
 Volk seine geistigen Führer würdigt,<lb/>
 seitdem es das Denken mit der Industrie<lb/>
-zu vertauschen gelernt hat. <rs type="person" key="">o. b.</rs></p>
-<milestone unit="untyped-end"/>
-<milestone unit="asterisk"/>
-<milestone unit="untyped-start"/>
-<p>Aus München wird uns geschrieben:<lb/>
+zu vertauschen gelernt hat. <rs type="person" key="">o. b.</rs>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="asterisk"/>
+                     <milestone unit="untyped-start"/>
+                     <p>Aus München wird uns geschrieben:<lb/>
 Das Künstlerhaus veranstaltete eine<lb/>
-<hi rend="text-spaced">Böcklin-Feier</hi>, welche ein von <hi rend="text-spaced">Hof-<lb break="no"/>
+                        <hi rend="text-spaced">Böcklin-Feier</hi>, welche ein von <hi rend="text-spaced">Hof-<lb break="no"/>
 mannsthal</hi> gedichteter Prolog eröffnete:<lb/>
 Ein Jüngling, der mit vier Fackeln tragen-<lb break="no"/>
 den, in der Art der Priester im »Heiligen<lb/>
 Hain« weiß Gewandeten auftrat, als die<lb/>
 Hymne von Richard Strauß (von einem</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-05_n0179.xml"
-     prev="WR-02-01-05_n0178.xml"
-     next="WR-02-01-05_n0180.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-05_n0179.xml" prev="WR-02-01-05_n0178.xml" next="WR-02-01-05_n0180.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,35 +42,75 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 4</title>
+                  <idno>WR-02-01-04_n0121.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 6</title>
+                  <idno>WR-02-01-06_n0201.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">DAS FEST DER WITWE.</fw><fw type="pn">179</fw></fw><lg><l>Was thatet ihr nun mit der Halbration?</l>
-<l>Johnnie, Johnnie!</l>
-<l>»Was soll man denn thun? Das kennt man ja schon.</l>
-<l>Johnnie, lieb’ Johnnie, aha!</l>
-<l>Sie assen sich voll, und sie soffen sich an,</l>
-<l>Und ich fürchte, sie assen sich krank daran,</l>
-<l>Denn so still und so starr liegt dort mancher Mann,«</l>
-<l>Wo die Witwe gab ein Gastmahl.</l></lg><lg><l>Wie kamst du denn weg, wie kamst du denn weg?</l>
-<l>Johnnie, Johnnie!</l>
-<l>»Ein Brett unterm Rücken, so kam ich vom Fleck,</l>
-<l>Johnnie, lieb’ Johnnie, aha!</l>
-<l>Wie ’n blutigen Fetzen, so trug man mich fort,</l>
-<l>Mich schleppten vier Neger ganz herrlich vom Ort</l>
-<l>In segelleinener Sänfte an Bord —«</l>
-<l>Als die Witwe gab ein Gastmahl.</l></lg><lg><l>Und was war Aller der Mühe Preis?</l>
-<l>Johnnie, Johnnie!</l>
-<l>»Da frag’ unsern Oberst, weil ich’s nicht weiss.</l>
-<l>Johnnie, lieb Johnnie, aha!</l>
-<l>Man vertrieb einen König, baut’ Bahnen schnell,</l>
-<l>Nun stand ein’ Palast der Regierung zur Stell’</l>
-<l>— Und der blutrothe Fluss fliesst gar bald wieder hell«</l>
-<l>— Wo die Witwe gab ein Gastmahl.</l>
-<l>(<hi rend="text-spaced">Horn</hi>: Ta-rara-ra-ra-rara!)</l></lg><milestone unit="untyped-end"/><milestone unit="hr"/></div>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DAS FEST DER WITWE.</fw>
+               <fw type="pn">179</fw>
+            </fw>
+            <lg>
+               <l>Was thatet ihr nun mit der Halbration?</l>
+               <l>Johnnie, Johnnie!</l>
+               <l>»Was soll man denn thun? Das kennt man ja schon.</l>
+               <l>Johnnie, lieb’ Johnnie, aha!</l>
+               <l>Sie assen sich voll, und sie soffen sich an,</l>
+               <l>Und ich fürchte, sie assen sich krank daran,</l>
+               <l>Denn so still und so starr liegt dort mancher Mann,«</l>
+               <l>Wo die Witwe gab ein Gastmahl.</l>
+            </lg>
+            <lg>
+               <l>Wie kamst du denn weg, wie kamst du denn weg?</l>
+               <l>Johnnie, Johnnie!</l>
+               <l>»Ein Brett unterm Rücken, so kam ich vom Fleck,</l>
+               <l>Johnnie, lieb’ Johnnie, aha!</l>
+               <l>Wie ’n blutigen Fetzen, so trug man mich fort,</l>
+               <l>Mich schleppten vier Neger ganz herrlich vom Ort</l>
+               <l>In segelleinener Sänfte an Bord —«</l>
+               <l>Als die Witwe gab ein Gastmahl.</l>
+            </lg>
+            <lg>
+               <l>Und was war Aller der Mühe Preis?</l>
+               <l>Johnnie, Johnnie!</l>
+               <l>»Da frag’ unsern Oberst, weil ich’s nicht weiss.</l>
+               <l>Johnnie, lieb Johnnie, aha!</l>
+               <l>Man vertrieb einen König, baut’ Bahnen schnell,</l>
+               <l>Nun stand ein’ Palast der Regierung zur Stell’</l>
+               <l>— Und der blutrothe Fluss fliesst gar bald wieder hell«</l>
+               <l>— Wo die Witwe gab ein Gastmahl.</l>
+               <l>(<hi rend="text-spaced">Horn</hi>: Ta-rara-ra-ra-rara!)</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
       </body>
    </text>
 </TEI>

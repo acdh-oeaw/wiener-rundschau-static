@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-01-01-09_n0336.xml"
-     prev="WR-01-01-09_n0335.xml"
-     next="WR-01-01-09_n0337.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-09_n0336.xml" prev="WR-01-01-09_n0335.xml" next="WR-01-01-09_n0337.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,27 +42,86 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 2</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 1, Halbbd. 1, Nr. 8</title>
+                  <idno>WR-01-01-08_n0281.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 1, Halbbd. 1, Nr. 10</title>
+                  <idno>WR-01-01-10_n0361.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">336</fw><fw type="ctext">WILDE.</fw></fw><milestone unit="untyped-start"/><p>Kein Künstler will etwas beweisen; nur Thatsachen<lb/>
-können bewiesen werden.</p><p>Kein Künstler hat einen Hang zur Sittlichkeit. Die Sucht<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">336</fw>
+               <fw type="ctext">WILDE.</fw>
+            </fw>
+            <milestone unit="untyped-start"/>
+            <p>Kein Künstler will etwas beweisen; nur Thatsachen<lb/>
+können bewiesen werden.</p>
+            <p>Kein Künstler hat einen Hang zur Sittlichkeit. Die Sucht<lb/>
 zu moralisiren ist eine unverzeihliche Manierirtheit des<lb/>
-Styls.</p><p>Kein Künstler ist krankhaft; es gibt nichts, was ein<lb/>
-Künstler nicht sagen dürfte.</p><milestone unit="untyped-end"/><milestone unit="asterismDown"/><milestone unit="untyped-start"/><p>Gedanke und Sprache sind die Instrumente des Künstlers.<lb/>
-Tugenden und Laster sind seine Materialien.</p><milestone unit="untyped-end"/><milestone unit="asterismDown"/><milestone unit="untyped-start"/><p>Vom formellen Standpunkt ist die Musik das Urbild aller<lb/>
-Künste; vom Standpunkt des Gefühls ist es die Schauspielkunst.</p><milestone unit="untyped-end"/><milestone unit="asterismDown"/><milestone unit="untyped-start"/><p>Jede Kunst ist zugleich Oberfläche und Symbol.</p><p>Diejenigen, die unter die Oberfläche gehen, thu’n es auf<lb/>
-eigene Gefahr.</p><p>Diejenigen, die das Symbol lösen, thun es auf eigene<lb/>
-Gefahr.</p><milestone unit="untyped-end"/><milestone unit="asterismDown"/><milestone unit="untyped-start"/><p>Der Beschauer, nicht das Leben, wird von der Kunst<lb/>
-wiedergespiegelt.</p><milestone unit="untyped-end"/><milestone unit="asterismDown"/><milestone unit="untyped-start"/><p>Meinungsverschiedenheiten über ein Kunstwerk zeigen,<lb/>
-dass es neu, vollständig und lebensfähig ist.</p><milestone unit="untyped-end"/><milestone unit="asterismDown"/><milestone unit="untyped-start"/><p>Wenn die Kritiker uneinig sind, so ist der Künstler<lb/>
-einig mit sich selbst.</p><milestone unit="untyped-end"/><milestone unit="asterismDown"/><milestone unit="untyped-start"/><p>Wir können Jemand, der etwas <hi rend="text-spaced">Nützliches</hi> geschaffen<lb/>
+Styls.</p>
+            <p>Kein Künstler ist krankhaft; es gibt nichts, was ein<lb/>
+Künstler nicht sagen dürfte.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="asterismDown"/>
+            <milestone unit="untyped-start"/>
+            <p>Gedanke und Sprache sind die Instrumente des Künstlers.<lb/>
+Tugenden und Laster sind seine Materialien.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="asterismDown"/>
+            <milestone unit="untyped-start"/>
+            <p>Vom formellen Standpunkt ist die Musik das Urbild aller<lb/>
+Künste; vom Standpunkt des Gefühls ist es die Schauspielkunst.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="asterismDown"/>
+            <milestone unit="untyped-start"/>
+            <p>Jede Kunst ist zugleich Oberfläche und Symbol.</p>
+            <p>Diejenigen, die unter die Oberfläche gehen, thu’n es auf<lb/>
+eigene Gefahr.</p>
+            <p>Diejenigen, die das Symbol lösen, thun es auf eigene<lb/>
+Gefahr.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="asterismDown"/>
+            <milestone unit="untyped-start"/>
+            <p>Der Beschauer, nicht das Leben, wird von der Kunst<lb/>
+wiedergespiegelt.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="asterismDown"/>
+            <milestone unit="untyped-start"/>
+            <p>Meinungsverschiedenheiten über ein Kunstwerk zeigen,<lb/>
+dass es neu, vollständig und lebensfähig ist.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="asterismDown"/>
+            <milestone unit="untyped-start"/>
+            <p>Wenn die Kritiker uneinig sind, so ist der Künstler<lb/>
+einig mit sich selbst.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="asterismDown"/>
+            <milestone unit="untyped-start"/>
+            <p>Wir können Jemand, der etwas <hi rend="text-spaced">Nützliches</hi> geschaffen<lb/>
 hat, vergeben, so lang er’s nicht bewundert. Die einzige<lb/>
 Rechtfertigung für etwas <hi rend="text-spaced">Nutzloses</hi> ist, dass man es be-<lb break="no"/>
-wundert aus tiefster Seele.</p><p>Alle Kunst ist ganz nutzlos.</p><milestone unit="untyped-end"/><milestone unit="untyped-end"/><milestone unit="hr"/></div>
+wundert aus tiefster Seele.</p>
+            <p>Alle Kunst ist ganz nutzlos.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
       </body>
    </text>
 </TEI>

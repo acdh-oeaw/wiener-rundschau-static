@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-13_n0513.xml"
-     prev="WR-02-02-13_n0512.xml"
-     next="WR-02-02-13_n0514.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-13_n0513.xml" prev="WR-02-02-13_n0512.xml" next="WR-02-02-13_n0514.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,14 +42,45 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 12</title>
+                  <idno>WR-02-01-12_n0441.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 14</title>
+                  <idno>WR-02-02-14_n0521.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>DER STREIK DER WÄHLER.<lb/>
-Von <rs type="person" key="">Octave Mirbeau</rs> (Paris).</title></ab><milestone unit="editorialStatement-start"/><p><hi rend="text-spaced">Vorbemerkung der Redaction</hi>. Dieser Aufsatz von Octave Mirbeau<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DER STREIK DER WÄHLER.<lb/>
+Von <rs type="person" key="">Octave Mirbeau</rs> (Paris).</title>
+            </ab>
+            <milestone unit="editorialStatement-start"/>
+            <p>
+               <hi rend="text-spaced">Vorbemerkung der Redaction</hi>. Dieser Aufsatz von Octave Mirbeau<lb/>
 wurde während der letzten Wochen in Zehntausenden von Exemplaren durch<lb/>
 ganz Frankreich colportirt. Vor den Neuwahlen rüsten sich in Frankreich nicht<lb/>
 nur die Politiker, sondern auch die Antipolitiker. — Man wird diese unbedingte<lb/>
@@ -61,7 +89,9 @@ reich deuten so viele Anzeichen, unter Anderem dieses Manifest, auf die Er-<lb b
 mattung des politischen Sinnes hin. Diese Erkaltung des politischen Interesses<lb/>
 bedeutet vielleicht gleichzeitig eine Renaissance des religiösen Empfindens.<lb/>
 Unter anderen Symptomen weist auf diese Entwicklung auch der Schluss der<lb/>
-Mirbeau’schen Proclamation hin. D. R.</p><milestone unit="untyped-end"/><p>Etwas kommt mir sehr seltsam vor — ich wage nicht zu sagen,<lb/>
+Mirbeau’schen Proclamation hin. D. R.</p>
+            <milestone unit="untyped-end"/>
+            <p>Etwas kommt mir sehr seltsam vor — ich wage nicht zu sagen,<lb/>
 dass ich darüber bestürzt bin — dass nämlich heutztage, in der Stunde,<lb/>
 wo ich dies schreibe, nach den unzähligen Erfahrungen, nach den<lb/>
 täglichen Scandalaffairen, in unserem »theuren Vaterland« (wie man<lb/>
@@ -75,7 +105,8 @@ nicht darnach angethan, um die scharfsinnigsten Philosphien zu zer-<lb break="no
 stören und alle Raison zu beschämen? Wo ist der Balzac, welcher uns<lb/>
 die Physiologie des modernen Wählers gibt? Und der Charcot,<lb/>
 welcher uns die Anatomie und den Geisteszustand dieses Unheilbaren<lb/>
-aufdeckt?</p><p>Ich begreife, dass ein Hochstapler noch immer Actionäre findet,<lb/>
+aufdeckt?</p>
+            <p>Ich begreife, dass ein Hochstapler noch immer Actionäre findet,<lb/>
 ich begreife, dass die Censur noch ihre Vertheidiger findet, ich begreife,<lb/>
 dass historische Dramen geschrieben werden. — Aber dass ein Ab-<lb break="no"/>
 geordneter oder ein Senator oder ein Minister oder wer immer unter<lb/>
@@ -87,7 +118,8 @@ mit seinem Geld bereichert, mit der einzigen Perspective, zum Dank<lb/>
 für diese Verschwendung späterhin ignorirt oder mit höflichen Fuss-<lb break="no"/>
 tritten bedacht zu werden — wahrhaftig, das überschreitet die pessi-<lb break="no"/>
 mistischesten Begriffe, die ich mir bisher über die menschliche Dumm-<lb break="no"/>
-heit gemacht habe!</p></div>
+heit gemacht habe!</p>
+         </div>
       </body>
    </text>
 </TEI>

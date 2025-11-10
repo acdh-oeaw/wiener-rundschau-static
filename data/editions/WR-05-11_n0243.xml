@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-11_n0243.xml"
-     prev="WR-05-11_n0242.xml"
-     next="WR-05-11_n0244.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-11_n0243.xml" prev="WR-05-11_n0242.xml" next="WR-05-11_n0244.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,17 +41,35 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 10</title>
+                  <idno>WR-05-10_n0205.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 12</title>
+                  <idno>WR-05-12_n0249.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">AURIER: VINCENT VAN GOGH.</fw></fw><table><row><cell>
-<p rend="no-intend">Schönheit erzeugt, so sehe ich nicht ein,<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">AURIER: VINCENT VAN GOGH.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Schönheit erzeugt, so sehe ich nicht ein,<lb/>
 wer die Frauen hindern sollte, dieselben<lb/>
 Opfer zu bringen.</p>
-<p>In der Ordnung von geistigen Dingen<lb/>
+                     <p>In der Ordnung von geistigen Dingen<lb/>
 machen wir uns in der Gesellschaft<lb/>
 Concessionen, und kein wohlerzogener<lb/>
 Mann, keine wohlerzogene Frau wird<lb/>
@@ -66,14 +81,15 @@ vidualität? Verhindert uns die Überein-<lb break="no"/>
 kunft im wahren Leben, gemäß unseren<lb/>
 Antrieben, unserer besonderen Moral und<lb/>
 unserem Ziel zu handeln?</p>
-<p>Keineswegs; diese Concessionen machen<lb/>
+                     <p>Keineswegs; diese Concessionen machen<lb/>
 unsere Gesellschaften harmonisch und<lb/>
 reich an Würde. Dies geschieht nur durch<lb/>
 Eintreten des gewaltsamen Stoßes; sie</p>
-</cell><cell>
-<p rend="no-intend">verlieren auf einer Seite mehr, als sie auf<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">verlieren auf einer Seite mehr, als sie auf<lb/>
 der anderen hätten gewinnen können.</p>
-<p>Ein Fest, das nicht nach den Gesetzen<lb/>
+                     <p>Ein Fest, das nicht nach den Gesetzen<lb/>
 gegenseitiger Übereinstimmung zwischen<lb/>
 all seinen Elementen geregelt ist, wird<lb/>
 niemals die Größe einer Feierlichkeit<lb/>
@@ -87,35 +103,53 @@ nebeneinander, ohne, wie Complementär-<lb break="no"/>
 farben, sich zu einem harmonischen Bilde<lb/>
 zusammenzuschließen, oder, wie die Theile<lb/>
 eines Ornaments, die sich gefügig der<lb/>
-<hi rend="text-spaced">Idee</hi> desselben unterordnen, zusammen-<lb break="no"/>
+                        <hi rend="text-spaced">Idee</hi> desselben unterordnen, zusammen-<lb break="no"/>
 gefasst zu werden.</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/><milestone unit="untyped-start"/><ab><title><hi rend="text-spaced">VINCENT VAN GOGH</hi>.<lb/>
-Von <rs type="person" key="">G. ALBERT AURIER</rs>.</title></ab><table><row><cell>
-<p>Und sieh’, da sangen plötzlich beim<lb/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">VINCENT VAN GOGH</hi>.<lb/>
+Von <rs type="person" key="">G. ALBERT AURIER</rs>.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Und sieh’, da sangen plötzlich beim<lb/>
 Eintritt in das gemeine, schmutzige<lb/>
 Tohuwabohu der Straße und des häss-<lb break="no"/>
 lichen, wirklichen Lebens, zerstreut und<lb/>
 gegen meinen Willen in meiner Erinne-<lb break="no"/>
 rung diese Versstücke:</p>
-<milestone unit="verse-start"/>
-<lg><l>Berauschende Monotonie</l>
-<l>Von Metall, Marmor und Wasser <milestone unit="3dots"/></l>
-<l>Und alles, sogar das Schwarz</l>
-<l>Schien gereinigt, hell und schimmernd.</l>
-<l>Das Flüssige fasst seinen Ruhm</l>
-<l>In dem krystallisierten Strahl <milestone unit="3dots"/></l>
-<l>Und Katarakte hiengen blendend</l>
-<l>Wie Vorhänge von Krystall</l>
-<l>An den Mauern von Metall <milestone unit="3dots"/></l></lg>
-<milestone unit="untyped-end"/>
-<p>Unter Himmeln, bald geschliffen im<lb/>
+                     <milestone unit="verse-start"/>
+                     <lg>
+                        <l>Berauschende Monotonie</l>
+                        <l>Von Metall, Marmor und Wasser <milestone unit="3dots"/>
+                        </l>
+                        <l>Und alles, sogar das Schwarz</l>
+                        <l>Schien gereinigt, hell und schimmernd.</l>
+                        <l>Das Flüssige fasst seinen Ruhm</l>
+                        <l>In dem krystallisierten Strahl <milestone unit="3dots"/>
+                        </l>
+                        <l>Und Katarakte hiengen blendend</l>
+                        <l>Wie Vorhänge von Krystall</l>
+                        <l>An den Mauern von Metall <milestone unit="3dots"/>
+                        </l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>Unter Himmeln, bald geschliffen im<lb/>
 Glanz von Saphiren oder Türkisen, bald<lb/>
 voll von — ich weiß nicht welchem —<lb/>
 infernalischen, heißen, tödtlichen, blind-<lb break="no"/>
 machenden Schwefel; unter Himmeln<lb/>
 gleich fließendem Metall und ge-</p>
-</cell><cell>
-<p>schmolzenen Krystallen, darin sich<lb/>
+                  </cell>
+                  <cell>
+                     <p>schmolzenen Krystallen, darin sich<lb/>
 manchmal strahlend heiße Sonnen-<lb break="no"/>
 scheiben ausstrecken; unter dem un-<lb break="no"/>
 aufhörlichen und furchtbaren Triefen<lb/>
@@ -137,7 +171,10 @@ essentiellen und eigenen Gesang zu<lb/>
 heulen im intensivsten, allerwildesten,<lb/>
 höchsten Ton: Bäume, gewunden wie<lb/>
 Riesen im Kampf, mit der Bewegung</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

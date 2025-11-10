@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-01_n0007.xml"
-     prev="WR-05-01_n0006.xml"
-     next="WR-05-01_n0008.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-01_n0007.xml" prev="WR-05-01_n0006.xml" next="WR-05-01_n0008.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,49 +41,68 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 4, Nr. 24</title>
+                  <idno>WR-04-24_n0421.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 2</title>
+                  <idno>WR-05-02_n0023.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">SCHUR: VOM ZUKÜNFTIGEN GEISTE.</fw></fw><table><row><cell>
-<p>Ich sah überall den »Willen«.</p>
-<p>Ich sah überall ein Ringen, Kämpfen.<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">SCHUR: VOM ZUKÜNFTIGEN GEISTE.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Ich sah überall den »Willen«.</p>
+                     <p>Ich sah überall ein Ringen, Kämpfen.<lb/>
 Es erschien mir bald selbstverständlich;<lb/>
 aber würde mir jemand gesagt haben, ich<lb/>
 sollte diesem Zuge folgen — ich hätte<lb/>
 gelächelt.</p>
-<p>Es erschien mir, als wäre ich <hi rend="text-spaced">nach</hi><lb/>
+                     <p>Es erschien mir, als wäre ich <hi rend="text-spaced">nach</hi>
+                        <lb/>
 diesem Kampfe geboren; als ein Anachro-<lb break="no"/>
 nismus würde ich hier mit eingreifen; als<lb/>
 wäre ich dieses Kampfes Herr, ohne mit-<lb break="no"/>
 gekämpft zu haben.</p>
-<p>Ich sah überall den »Willen«, der mir<lb/>
+                     <p>Ich sah überall den »Willen«, der mir<lb/>
 in der Form, wie er sich oft äußerte,<lb/>
 äußerlich erschien.</p>
-<p>Es war nur »Trieb«.</p>
-<p>Ich plagte mich nicht um Werte und<lb/>
+                     <p>Es war nur »Trieb«.</p>
+                     <p>Ich plagte mich nicht um Werte und<lb/>
 Umwerte, um Sehnsucht und Kritik.</p>
-<p>Dies war das Eine.</p>
-<p>Und weiter. Es gab keinen Riss in<lb/>
+                     <p>Dies war das Eine.</p>
+                     <p>Und weiter. Es gab keinen Riss in<lb/>
 meinem Leben.</p>
-<p>Jeder, den ich traf, hatte sich in<lb/>
+                     <p>Jeder, den ich traf, hatte sich in<lb/>
 blutendem Kampfe behaupten müssen, so<lb/>
 hörte ich. Ich sah Familienleben zerstört;<lb/>
 ein Leben abseits von Gesellschaft und<lb/>
 Leben. Das alles gab den Menschen einen<lb/>
 gemeinsamen Stempel. Sie waren von<lb/>
 einem Stamme.</p>
-<p>Ich weiß, dass auch an meinem Leben<lb/>
+                     <p>Ich weiß, dass auch an meinem Leben<lb/>
 manches Schicksal zerrte und im Drange,<lb/>
 gleich zu werden, hielt ich es wohl als<lb/>
 Pflicht, zu trennen, zu scheiden.</p>
-<p>Aber in Wahrheit: es gab keinen Riss<lb/>
+                     <p>Aber in Wahrheit: es gab keinen Riss<lb/>
 in meinem Leben, oder besser: ich fühlte,<lb/>
 ich empfand, ich sah keinen Riss in<lb/>
 meinem Leben.</p>
-<p>Als Der, dessen stillen Charakter ich<lb/>
+                     <p>Als Der, dessen stillen Charakter ich<lb/>
 als mir ähnlich am meisten liebte, an<lb/>
 dem Tage, der alle Gefühle der Gemein-<lb break="no"/>
 samkeit in den strahlendsten Lichtern auf-<lb break="no"/>
@@ -96,16 +112,17 @@ als meine tiefsten Schmerzen; als er am<lb/>
 Weihnachtsabend voll tiefster Trauer in<lb/>
 die dunkle Nacht mich verließ — da fühlte<lb/>
 ich keinen Riss.</p>
-<p>Ich fühlte die Trauer; doch mehr noch<lb/>
+                     <p>Ich fühlte die Trauer; doch mehr noch<lb/>
 fühlte ich, höher, als alle Worte, den<lb/>
 himmlischen Trost, dessen mein Vater in<lb/>
 seinem heiligen Schmerze sicher war.</p>
-<p>Ein weiter Garten lag vor mir, so reich,<lb/>
+                     <p>Ein weiter Garten lag vor mir, so reich,<lb/>
 so voll aller Tiefen und Offenbarungen, dass<lb/>
 ich mein Leben zu eng wähnte, um alles<lb/>
 erkennen zu können.</p>
-</cell><cell>
-<p>Vieles verließ ich, was Andere fesselt,<lb/>
+                  </cell>
+                  <cell>
+                     <p>Vieles verließ ich, was Andere fesselt,<lb/>
 diesem Zuge folgend. Ich wartete auf<lb/>
 alles, was kam; ich zwang die Liebe<lb/>
 nicht zu mir; in einer kurzen Spanne Zeit<lb/>
@@ -113,7 +130,7 @@ gab sie mir viel; ich wähnte damals<lb/>
 alles. Die Erkenntnis, dass auch sie für<lb/>
 mich nur ein Durchgang sei, traf mich<lb/>
 am tiefsten.</p>
-<p>Ich gab mich hin. Weniger Augen-<lb break="no"/>
+                     <p>Ich gab mich hin. Weniger Augen-<lb break="no"/>
 blicke erinnere ich mich; einer der<lb/>
 schönsten war der, wenn ich mich in klarer,<lb/>
 ruhiger Selbstvergessenheit aus dem Fenster<lb/>
@@ -124,19 +141,19 @@ zur bestimmten Stunde kamen; die Nacht<lb/>
 in tiefen Zügen athmen hörte. In seinen<lb/>
 kleinsten Momenten belauschte ich das<lb/>
 Leben; ich fühlte es leben.</p>
-<p>Nichts erschien mir so schön, als ein<lb/>
+                     <p>Nichts erschien mir so schön, als ein<lb/>
 unendlich weiter Horizont.</p>
-<p>Und dann war es mir zuweilen, als<lb/>
+                     <p>Und dann war es mir zuweilen, als<lb/>
 arbeitete alles für mich, alles lief in mir<lb/>
 zusammen; ich war der ruhende Mittel-<lb break="no"/>
 punkt alles Erschaffenen. Niemals nach<lb/>
 rückwärts sehend, hieß ich Andere aus-<lb break="no"/>
 schauen und streiten.</p>
-<p>Ich suchte nie das Besondere, das<lb/>
+                     <p>Ich suchte nie das Besondere, das<lb/>
 Auffallende; das Allgemeine, Gemeinsame<lb/>
 zu finden, war mir Herzensbedürfnis. Das<lb/>
 Gemeinsame war in mir.</p>
-<p>Nach den unwegsamsten, entlegensten<lb/>
+                     <p>Nach den unwegsamsten, entlegensten<lb/>
 Streifzügen kehrte ich, Erneuerung suchend,<lb/>
 gern zu dem zurück, was unser aller Aus-<lb break="no"/>
 gang ist. Ich entfernte mich nicht aus<lb/>
@@ -148,18 +165,21 @@ Empfindens; je mehr ich dem Gemein-<lb break="no"/>
 samen mich näherte, desto ruhiger wurde<lb/>
 ich. Ja, es war Genesung für mich nach<lb/>
 langer Krankheit.</p>
-<p>Und mich immer klarer zu entwickeln,<lb/>
+                     <p>Und mich immer klarer zu entwickeln,<lb/>
 erschien mir als Dank und Verpflichtung.</p>
-<p>Nie floh ich die Feste, die Launen<lb/>
+                     <p>Nie floh ich die Feste, die Launen<lb/>
 des gemeinsamen Haufens. Damit war ich<lb/>
 Vielen, die mich dunkel ahnten, dunkel<lb/>
 und unsicher an mich glaubten, fremd.<lb/>
 Ohne Rechenschaftsbedürfnis handelte ich<lb/>
 und that recht.</p>
-<p>Denn nichts trennt mich von dem<lb/>
+                     <p>Denn nichts trennt mich von dem<lb/>
 Geringsten; ich fühle keinen Abstand<lb/>
 zwischen mir und Anderen, da alles andere</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

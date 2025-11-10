@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-11_n0410.xml"
-     prev="WR-02-01-11_n0409.xml"
-     next="WR-02-01-11_n0411.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-11_n0410.xml" prev="WR-02-01-11_n0409.xml" next="WR-02-01-11_n0411.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,13 +42,42 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 10</title>
+                  <idno>WR-02-01-10_n0361.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 12</title>
+                  <idno>WR-02-01-12_n0441.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">410</fw><fw type="ctext">LA JEUNESSE.</fw></fw><p rend="no-intend">Sie hätten sich nicht geliebt. Es war gewiss gegen seinen Willen, und<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">410</fw>
+               <fw type="ctext">LA JEUNESSE.</fw>
+            </fw>
+            <p rend="no-intend">Sie hätten sich nicht geliebt. Es war gewiss gegen seinen Willen, und<lb/>
 die Schuld liegt an der Zeit, am Jahrhundert, wenn mein kleiner Corse<lb/>
 dem Einflüsse deines Schweizers unterworfen war, wenn er mit seiner<lb/>
 Stimme schrie, wenn er nach ihm schrieb. Aber diese beiden Kinder,<lb/>
@@ -59,7 +85,8 @@ beide auf die Welt losgelassen, um sie zu besitzen, hatten dasselbe<lb/>
 Leben und dasselbe Ende. Kellermeister oder Kaiser, Rebell oder<lb/>
 Tyrann, Dichter oder Haudegen, ihr seht euch gleich. Und doch ziehe<lb/>
 ich meinen kleinen Officier des Palais Royal vor, weil er jung und<lb/>
-kurz war, weil er mich besass.</p><p>— Kleine, du bist ein Kind. Maria Louise ersetzte deinen Corsen<lb/>
+kurz war, weil er mich besass.</p>
+            <p>— Kleine, du bist ein Kind. Maria Louise ersetzte deinen Corsen<lb/>
 durch Herrn von Neipperg, der einäugig war, und den sie leidenschaft-<lb break="no"/>
 lich liebte, und Therese Levasseur lag keuchend und unterworfen zu<lb/>
 den Füssen eines unbekannten Stallknechtes. Und das Alles sind<lb/>
@@ -71,13 +98,16 @@ zwischen, seit seinem Tode, ein wenig Mathematik studirt hatte? Ich<lb/>
 liebe die Seelenwandlung nicht. Es wäre doch so leicht anzunehmen,<lb/>
 dass Napoleon ein corrigirter Jean-Jacques war, ein Jean-Jacques mit<lb/>
 mehr Strenge, mehr Glück und auch mehr Unglück! Aber ich ziehe<lb/>
-Zanetto vor, weil er geweint hat.</p><p>— Napoleon hat nicht geweint.</p><p>— Er brauchte nicht zu weinen. Er hielt sich nicht bei den<lb/>
+Zanetto vor, weil er geweint hat.</p>
+            <p>— Napoleon hat nicht geweint.</p>
+            <p>— Er brauchte nicht zu weinen. Er hielt sich nicht bei den<lb/>
 Frauen auf. Eine Umarmung, ein Seufzer des Genusses — und wieder<lb/>
 nahm er seinen Lauf. Aber Jean-Jacques glaubte immer, sein Leben sei<lb/>
 an seinem Ende. Er vertrieb sich die Zeit mit unendlichem Sterben,<lb/>
 dem er unendlich zuhörte. Er war keusch. Er liebte das Leiden. Für<lb/>
 ihn war ein Weib — immer — eine Gelegenheit, über sich selbst zu<lb/>
-weinen. Weinen! weinen! Ach, Botaniker du!</p><p>— Napoleon hatte keine Zeit zum Leiden und zum Weinen.<lb/>
+weinen. Weinen! weinen! Ach, Botaniker du!</p>
+            <p>— Napoleon hatte keine Zeit zum Leiden und zum Weinen.<lb/>
 Aber auch er war keusch. Herr Pierre Louys stellt sich ihn nicht<lb/>
 enthaltsam vor. Er hat unrecht. Er verachtete die Courtisanen. Er<lb/>
 glaubte, ihnen nicht einmal eine Gunst zu erweisen, indem er sie um-<lb break="no"/>
@@ -93,7 +123,8 @@ fortzuschicken. Da ist das Vierzigfranken-Stück, das er Fräulein George<lb/>
 anbietet, weil sie das Porträt des Helden haben will: »Man sagt, dass<lb/>
 er mir ähnlich sieht,« und dann noch ein oder zwei Capitel des Herrn<lb/>
 Frédéric Masson. Er liebt nicht. Er »befriedigt« sich nicht. Er sucht<lb/>
-bloss Fleisch, um es zu hätscheln, um es zu verwunden. Er will sich</p></div>
+bloss Fleisch, um es zu hätscheln, um es zu verwunden. Er will sich</p>
+         </div>
       </body>
    </text>
 </TEI>

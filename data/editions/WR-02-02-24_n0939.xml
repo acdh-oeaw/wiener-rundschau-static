@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-24_n0939.xml"
-     prev="WR-02-02-24_n0938.xml"
-     next="WR-02-02-24_n0940.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-24_n0939.xml" prev="WR-02-02-24_n0938.xml" next="WR-02-02-24_n0940.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,21 +42,52 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 23</title>
+                  <idno>WR-02-02-23_n0865.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 3, Halbbd. 1, Nr. 0</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title><hi rend="text-spaced">DAS SECESSIONSGEBÄUDE</hi>.<lb/>
-Von <rs type="person" key="">MARIE LANG</rs> (Wien).</title></ab><p>Plötzlich ist es emporgewachsen, blendend weiss, goldschimmernd.<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">DAS SECESSIONSGEBÄUDE</hi>.<lb/>
+Von <rs type="person" key="">MARIE LANG</rs> (Wien).</title>
+            </ab>
+            <p>Plötzlich ist es emporgewachsen, blendend weiss, goldschimmernd.<lb/>
 Inmitten aufgewühlten Grundes, zwischen Schuttmassen, Schmutz und<lb/>
 Lehm, jenseits von Gräben, die bis in die Eingeweide der Erde zu<lb/>
 führen scheinen, hoch oben über der Wien, in deren Bett die Menschlein<lb/>
 wie Ameisen wimmeln, graben, schaufeln, mauern, aufthürmen und<lb/>
 — winzig wie sie sind — Kyklopenwerke verrichten, hoch oben über<lb/>
 all dem Gewühl, dem Geschrei und Spectakel des Neuebahnenschaffens<lb/>
-steigt es empor wie ein Symbol alles dessen, wie eine schmetternde Fanfare!</p><p>Aber die vielen verstehen nicht dieses frohlockende Geschmetter,<lb/>
+steigt es empor wie ein Symbol alles dessen, wie eine schmetternde Fanfare!</p>
+            <p>Aber die vielen verstehen nicht dieses frohlockende Geschmetter,<lb/>
 sie sind mühselig und beladen und ihre Seelen sind nicht auf diesen<lb/>
 Ton gestimmt. Die Bürger und Spiessbürger gehen daran vorüber und<lb/>
 ärgern sich. Eine Menge von Hindernissen belästigen sie an dieser<lb/>
@@ -67,15 +95,20 @@ Stelle, der fast unpassierbare Weg über den Alsbachgraben, den sie<lb/>
 fluchend zurücklegen müssen, die spitzen Steine, die Kothlachen, der<lb/>
 Staub und der blendende neuartige Anblick vor ihren Augen, alles zu-<lb break="no"/>
 sammen stört sie, scheucht sie auf, verschwimmt unter der Schwelle<lb/>
-ihres Bewusstseins zu einem einzigen dumpfen Unlustgefühl <milestone unit="3dots"/></p><p>Was ein roher Bube that, als er verständnislos die hellen Wände<lb/>
+ihres Bewusstseins zu einem einzigen dumpfen Unlustgefühl <milestone unit="3dots"/>
+            </p>
+            <p>Was ein roher Bube that, als er verständnislos die hellen Wände<lb/>
 des Secesssionsgebäudes mit Koth bewarf, das thun die ehrsamen<lb/>
 Bürger, die sich vor Ausschreitungen natürlich bekreuzigen, ganz ebenso<lb/>
-mit ihren Schmähungen.</p><p>Doch um dieses schmetternde Frohlocken zu verstehen, muss<lb/>
+mit ihren Schmähungen.</p>
+            <p>Doch um dieses schmetternde Frohlocken zu verstehen, muss<lb/>
 man eine tanzende Seele haben, muss jauchzen können und nach den<lb/>
 goldenen Kränzen des Lebens greifen wie die Frauen an den Wänden<lb/>
 der Secession, die, im Reigen ziehend, sie in die hellen Lüfte<lb/>
-emporrecken.</p><p>Aber Reigen — was wissen die Philister von Reigen? Reigen<lb/>
-sind Harmonien, spielende Kräfte und fliessendes Spiel —</p><p>Das verstehen sie nicht. Dafür halten sie aber das ganze Ge-<lb break="no"/>
+emporrecken.</p>
+            <p>Aber Reigen — was wissen die Philister von Reigen? Reigen<lb/>
+sind Harmonien, spielende Kräfte und fliessendes Spiel —</p>
+            <p>Das verstehen sie nicht. Dafür halten sie aber das ganze Ge-<lb break="no"/>
 bäude für eine Spielerei, für »Gschnas«. Philister sind eben Maul-<lb break="no"/>
 würfe und sehen gar nichts, weder die Freude, noch den Ernst. Sie<lb/>
 sind nicht betroffen von dem verwegenen Ernst, der ihnen da ent-<lb break="no"/>
@@ -83,8 +116,10 @@ gegentritt, der aus dem Reichthum tiefinnen quellender, überfliessender,<lb/>
 uneindämmbarer Jugendkraft den Muth schöpft, anders zu bauen, anders<lb/>
 zu schmücken, eine andere Sprache zu reden als sie alle. Sie sehen<lb/>
 auch nicht das medusenhafte Antlitz mitten über der Pforte! Welch<lb/>
-Bekenntnis!</p><p>Wie der griechische Tempel eine esoterische Lehre vom Menschen<lb/>
-ist, in heilig klarer Schönheit verkündet durch Hellenen, so ist das</p></div>
+Bekenntnis!</p>
+            <p>Wie der griechische Tempel eine esoterische Lehre vom Menschen<lb/>
+ist, in heilig klarer Schönheit verkündet durch Hellenen, so ist das</p>
+         </div>
       </body>
    </text>
 </TEI>

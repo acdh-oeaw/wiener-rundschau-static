@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-16_n0325.xml"
-     prev="WR-05-16_n0324.xml"
-     next="WR-05-16_n0326.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-16_n0325.xml" prev="WR-05-16_n0324.xml" next="WR-05-16_n0326.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,31 +41,63 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 15</title>
+                  <idno>WR-05-15_n0295.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 17</title>
+                  <idno>WR-05-17_n0327.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">RUNDSCHAU.</fw></fw><table><row><cell>
-<p>ist, wofern man sie in gründlicher Weise<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">RUNDSCHAU.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>ist, wofern man sie in gründlicher Weise<lb/>
 kennen lernen will, und in solcher Weise muss<lb/>
 sie jener »Shakespeare« beherrscht haben,<lb/>
 um sie so gleichsam spielend verwerten<lb/>
 zu können. Bacon, der englische Lord-<lb break="no"/>
 kanzler und große Gelehrte seiner Zeit,<lb/>
 auch Festspieldichter nebenbei, soll aber</p>
-</cell><cell>
-<p rend="no-intend">nach neueren Meinungen der <hi rend="text-spaced">wahre</hi><lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">nach neueren Meinungen der <hi rend="text-spaced">wahre</hi>
+                        <lb/>
 Skakespeare gewesen sein (die Unter-<lb break="no"/>
 suchungen Bormanns erheben es fast zur<lb/>
 Gewissheit) und Bacon war auch durchaus<lb/>
 Astrolog, was die Annahme seiner Autor-<lb break="no"/>
 schaft für die Shakespeare-Dramen nur<lb/>
 noch wesentlich verstärkt.</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/><milestone unit="untyped-start"/><ab><title><hi rend="text-spaced">RUNDSCHAU</hi>.</title></ab><table><row><cell>
-<milestone unit="untyped-start"/>
-<p>»<hi rend="text-spaced">Das Bewusstsein der Außen-<lb break="no"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">RUNDSCHAU</hi>.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="untyped-start"/>
+                     <p>»<hi rend="text-spaced">Das Bewusstsein der Außen-<lb break="no"/>
 welt</hi>.« Grundlegung zu einer Erkenntnis-<lb break="no"/>
 theorie von Dr. Rudolf <hi rend="text-spaced">Eisler</hi>. Leipzig. Ver-<lb break="no"/>
 lag der <hi rend="text-spaced">Dürr</hi>’schen Buchhandlung, <date>1901</date>. —<lb/>
@@ -97,7 +126,7 @@ Vorganges — Avenarius). Wir leihen den<lb/>
 Objecten unsere Ichheit. Dinge sind ob-<lb break="no"/>
 jective Bewusstseins-Inhalte zum Unter-<lb break="no"/>
 schied von den subjectiven Erlebnissen.</p>
-<p>Das Capitel: »Naiver und kritischer<lb/>
+                     <p>Das Capitel: »Naiver und kritischer<lb/>
 Realismus« untersucht die Wurzeln der<lb/>
 Kant’schen Kategorienlehre. Die Kluft<lb/>
 zwischen Denken und Sinnesfunction wird<lb/>
@@ -106,8 +135,9 @@ Empfindungen ein, wenn auch niederer,<lb/>
 Grad psychischer Reactivität, <hi rend="text-spaced">somit<lb/>
 Spontaneïtät</hi>, zugrunde liegt. Anderer-<lb break="no"/>
 seits sind die Kategorien auch ohne äußere</p>
-</cell><cell>
-<p rend="no-intend">Erfahrung sinnvoll, da ihr Inhalt aus einem<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Erfahrung sinnvoll, da ihr Inhalt aus einem<lb/>
 der inneren Erfahrung unmittelbar zu-<lb break="no"/>
 gänglichen Verhalten des Ich herstammt.<lb/>
 Daher heißt ein Object kategorial ver-<lb break="no"/>
@@ -122,7 +152,7 @@ zum Complex der Dinge. Es gibt nur<lb/>
 eine Welt der Dinge; »Außenwelt ist der<lb/>
 Inbegriff aller Objecte im Raume, nebst<lb/>
 den an ihnen constatierbaren Vorgängen.«</p>
-<p>Der Standpunkt des Autors ist ein<lb/>
+                     <p>Der Standpunkt des Autors ist ein<lb/>
 kritischer Realismus; der Schwerpunkt der<lb/>
 Schrift liegt in der scharfen Grenz-<lb break="no"/>
 bestimmung der in das Bereich der Natur-<lb break="no"/>
@@ -137,15 +167,20 @@ folgen. Es sind dies zur Orientierung sehr<lb/>
 geeignete Zusammenfassungen aller Resul-<lb break="no"/>
 tate, welche die nachkantische Erkenntnis-<lb break="no"/>
 theorie aufzuweisen vermag.</p>
-<p>Die trotz der Wohlfeilheit würdige<lb/>
+                     <p>Die trotz der Wohlfeilheit würdige<lb/>
 Ausstattung erfordert Erwähnung. <rs type="person" key="">λ</rs>.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="asterisk"/>
-<milestone unit="untyped-start"/>
-<p><hi rend="text-spaced">Über beschreibende</hi> (<hi rend="text-spaced">schildernde</hi>)<lb/>
-<hi rend="text-spaced">Musik</hi> schreibt <hi rend="text-spaced">Goblot</hi> in der von<lb/>
-<hi rend="text-spaced">Th</hi>. <hi rend="text-spaced">Ribot</hi> geleiteten „<hi rend="italics">Revue philoso-</hi></p>
-</cell></row></table></div>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="asterisk"/>
+                     <milestone unit="untyped-start"/>
+                     <p>
+                        <hi rend="text-spaced">Über beschreibende</hi> (<hi rend="text-spaced">schildernde</hi>)<lb/>
+                        <hi rend="text-spaced">Musik</hi> schreibt <hi rend="text-spaced">Goblot</hi> in der von<lb/>
+                        <hi rend="text-spaced">Th</hi>. <hi rend="text-spaced">Ribot</hi> geleiteten „<hi rend="italics">Revue philoso-</hi>
+                     </p>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

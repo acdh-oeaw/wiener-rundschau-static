@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-03_n0069.xml"
-     prev="WR-05-03_n0068.xml"
-     next="WR-05-03_n0070.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-03_n0069.xml" prev="WR-05-03_n0068.xml" next="WR-05-03_n0070.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,19 +41,37 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 2</title>
+                  <idno>WR-05-02_n0023.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 4</title>
+                  <idno>WR-05-04_n0077.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">LINDNER: LAVATER.</fw></fw><table><row><cell>
-<p rend="no-intend">dem objectiven Grunde erstrebt, um die<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">LINDNER: LAVATER.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">dem objectiven Grunde erstrebt, um die<lb/>
 Zwecke der Gattung zu fördern, sondern<lb/>
 auch aus dem subjectiven Grunde, um<lb/>
 sich selbst zu fördern.« (Du Prel: Philo-<lb break="no"/>
 sophie der Mystik, S. 464.)</p>
-<p>Je weiter man diese Annahme, diese<lb/>
+                     <p>Je weiter man diese Annahme, diese<lb/>
 Individualisierung des Volo, ergo sum in<lb/>
 ihren Consequenzen verfolgt, umsomehr<lb/>
 erstaunt man über die Fruchtbarkeit ihrer<lb/>
@@ -76,7 +91,7 @@ dass die Sünden der Väter an ihren Kindern<lb/>
 und Enkeln heimgesucht werden, schwindet,<lb/>
 wenn die Kinder sich ihre Eltern selbst<lb/>
 gewählt haben.</p>
-<p>Auch wenn wir dem Pessimismus eine<lb/>
+                     <p>Auch wenn wir dem Pessimismus eine<lb/>
 jenseitige Stätte einräumen müssten,<lb/>
 wenn wir dem transcendentalen Subject<lb/>
 nach Platos Vorgang (vgl. die von uns<lb/>
@@ -87,10 +102,11 @@ vorwerfen dürften, so bliebe doch die Aus-<lb break="no"/>
 rede der Lachesis in jenem Mythus wahr:<lb/>
 »Nicht euch hat ein Dämon sich erlesen,<lb/>
 sondern ihr habt euch einen Dämon ge-</p>
-</cell><cell>
-<p rend="no-intend">wählt. <hi rend="text-spaced">Die Schuld trifft den Wähler</hi>.<lb/>
-<hi rend="text-spaced">Gott ist schuldlos</hi>«.</p>
-<p>In dieser Formel liegt auch der<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">wählt. <hi rend="text-spaced">Die Schuld trifft den Wähler</hi>.<lb/>
+                        <hi rend="text-spaced">Gott ist schuldlos</hi>«.</p>
+                     <p>In dieser Formel liegt auch der<lb/>
 Schlüssel zur Lösung der Antinomie<lb/>
 zwischen dem praktischen Postulat der<lb/>
 Willensfreiheit und Verantwortlichkeit und<lb/>
@@ -98,13 +114,14 @@ dem empirisch nothwendigen Determinis-<lb break="no"/>
 mus. Die Freiheit liegt, wie Schopenhauer<lb/>
 sagt, im Esse, nicht im Operari, oder wie<lb/>
 Kant nach Platos Vorgang sagt, im<lb/>
-<hi rend="text-spaced">intelligiblen</hi> Charakter, d. h. im trans-<lb break="no"/>
+                        <hi rend="text-spaced">intelligiblen</hi> Charakter, d. h. im trans-<lb break="no"/>
 cendentalen Subject. Wenn auch jede<lb/>
 einzelne Handlung das nothwendige Er-<lb break="no"/>
 gebnis unseres empirischen Charakters und<lb/>
 der auf diesen wirkenden Reize ist, so<lb/>
 sind wir doch verantwortlich dafür, dass<lb/>
-wir sind und dass wir <hi rend="text-spaced">so beschaffen</hi><lb/>
+wir sind und dass wir <hi rend="text-spaced">so beschaffen</hi>
+                        <lb/>
 sind. Keine deterministische Philosophie<lb/>
 oder religiöse Prädestinationslehre wird<lb/>
 den Menschen, zumal den selbst besseren<lb/>
@@ -123,24 +140,41 @@ rechnet letztere dem Individuum zur Schuld<lb/>
 oder zum Verdienst. Der gesellschaftliche<lb/>
 Instinct ist also unbewusst transcendentaler<lb/>
 Individualist.</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/><milestone unit="untyped-start"/><ab><title><hi rend="text-spaced">LAVATER</hi>.*<lb/>
-Von <rs type="person" key="">ANTON LINDNER</rs> (Wien).</title></ab><table><row><cell>
-<p>Mit Johann Kaspar <hi rend="text-spaced">Lavater</hi>, dessen<lb/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">LAVATER</hi>.*<lb/>
+Von <rs type="person" key="">ANTON LINDNER</rs> (Wien).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Mit Johann Kaspar <hi rend="text-spaced">Lavater</hi>, dessen<lb/>
 Todestag nunmehr hundert Jahre zurück-<lb break="no"/>
 liegt, weiß die zünftige Literärhistorie —<lb/>
 dort zumal, wo sie sich ehrlich geberdet —<lb/>
 durchaus nichts anzufangen. Und dennoch</p>
-</cell><cell>
-<p>ist diesem verdienstlichen Manne gar vieles<lb/>
+                  </cell>
+                  <cell>
+                     <p>ist diesem verdienstlichen Manne gar vieles<lb/>
 zu danken. Zwar, dass er sich jahrelang<lb/>
 in vaterländischen Schweizerliedern, in<lb/>
 Gleim’scher Philisterlyrik, in Klopstock’schen<lb/>
 Patriarchaden, in Flugschriften, Pam-</p>
-</cell></row></table><note type="footnote">
-<p>* Infolge eines technischen Versehens sind aus dem ersten Artikel, unter dem näm-<lb break="no"/>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Infolge eines technischen Versehens sind aus dem ersten Artikel, unter dem näm-<lb break="no"/>
 lichen Titel im vorigen Hefte publiciert, mehrere Spalten weggeblieben, wodurch der Beitrag<lb/>
 lückenhaft und theilweise unverständlich wurde. Das Fehlende sei hier ergänzt.</p>
-</note></div>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-16_n0324.xml"
-     prev="WR-05-16_n0323.xml"
-     next="WR-05-16_n0325.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-16_n0324.xml" prev="WR-05-16_n0323.xml" next="WR-05-16_n0325.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 15</title>
+                  <idno>WR-05-15_n0295.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 17</title>
+                  <idno>WR-05-17_n0327.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">KNIEPF: FRANCIS BACONS UND SHAKESPEARES ASTROLOGIE.</fw></fw><table><row><cell>
-<p rend="no-intend">kalendern nicht vorkommt, weil sie tech-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KNIEPF: FRANCIS BACONS UND SHAKESPEARES ASTROLOGIE.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">kalendern nicht vorkommt, weil sie tech-<lb break="no"/>
 nisches Verständnis erfordert. Selbstver-<lb break="no"/>
 ständlich musste der Dichter sparsam mit<lb/>
 diesen Dingen umgehen, um nicht die<lb/>
@@ -83,21 +98,23 @@ kommt, und in recht bemerkenswerter<lb/>
 Übereinstimmung mit der soeben ange-<lb break="no"/>
 führten Lehrmeinung ist die Fortsetzung des<lb/>
 obigen Citats aus »Troilus und Cressida«:</p>
-<milestone unit="performance-start"/>
-<lg><l>»— — — But when the planets</l>
-<l>In evil mixture to disorder, wander,</l>
-<l>What plagues! and what portends! what</l>
-<l>mutinies!</l>
-<l>What raging of the sea! what shaking of</l>
-<l>the earth!</l>
-<l>Commotion of the winds!«</l></lg>
-<milestone unit="untyped-end"/>
-<p>Zu deutsch: »Aber wenn die Planeten in<lb/>
+                     <milestone unit="performance-start"/>
+                     <lg>
+                        <l>»— — — But when the planets</l>
+                        <l>In evil mixture to disorder, wander,</l>
+                        <l>What plagues! and what portends! what</l>
+                        <l>mutinies!</l>
+                        <l>What raging of the sea! what shaking of</l>
+                        <l>the earth!</l>
+                        <l>Commotion of the winds!«</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>Zu deutsch: »Aber wenn die Planeten in<lb/>
 böser Mischung wandern, was gibt es<lb/>
 dann für Pestilenz, für schlimme Zeichen,<lb/>
 für Schlächtereien! Wie tobt das Meer,<lb/>
 wie bebt die Erde, wie rast der Wind!«</p>
-<p>Von der Neckerei mit dem reto-<lb break="no"/>
+                     <p>Von der Neckerei mit dem reto-<lb break="no"/>
 gradierenden (rückläufigen) Mars, die sich<lb/>
 Parolles von der Helena in »Ende gut,<lb/>
 Alles gut« gefallen lassen muss und worin<lb/>
@@ -107,8 +124,9 @@ satze schon gesprochen. Eine ähnliche<lb/>
 astrologische Hänselei findet sich in<lb/>
 »Was Ihr wollt« (I. 3), wo Junker Tobias<lb/>
 den närrischen Junker Christoph fragt:</p>
-</cell><cell>
-<p rend="no-intend">»Sind wir nicht im Steinbock geboren?«<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">»Sind wir nicht im Steinbock geboren?«<lb/>
 — »Steinbock«, meint dieser naiv, »bedeutet<lb/>
 Stoßen und Schlagen«. — »Nein, mein<lb/>
 Freund«, sagt Tobias, »es bedeutet Springen<lb/>
@@ -121,52 +139,72 @@ stirne schimmern dunkel auf mich herab,<lb/>
 die Missgunst meines Schicksals könnte<lb/>
 vielleicht das deinige anstecken.« Im<lb/>
 »<hi rend="text-spaced">Wintermärchen</hi>« nennt Polyxenes den<lb/>
-Mond ganz astrologisch ein <hi rend="text-spaced">feuchtes</hi><lb/>
+Mond ganz astrologisch ein <hi rend="text-spaced">feuchtes</hi>
+                        <lb/>
 Gestirn, und im »Kaufmann von Venedig«<lb/>
 (II. 3) äußert sich Nerissa ganz im Sinne<lb/>
 der Vorherbestimmung:</p>
-<milestone unit="performance-start"/>
-<lg><l>»Die alte Sag’ ist keine Ketzerei.</l>
-<l>Dass Frei’n und Hängen eine Schickung sei.«</l></lg>
-<milestone unit="untyped-end"/>
-<p>Andererseits sucht in »Julius Cäsar«<lb/>
+                     <milestone unit="performance-start"/>
+                     <lg>
+                        <l>»Die alte Sag’ ist keine Ketzerei.</l>
+                        <l>Dass Frei’n und Hängen eine Schickung sei.«</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>Andererseits sucht in »Julius Cäsar«<lb/>
 Cassius den Brutus gegen Cäsar dadurch<lb/>
 aufzuwiegeln, dass er ihn mahnt:</p>
-<milestone unit="performance-start"/>
-<lg><l>»Der Mensch ist <hi rend="text-spaced">manchmal</hi> seines Schicksals</l>
-<l>Meister:</l>
-<l>Nicht durch die Schuld der Sterne, lieber Brutus,</l>
-<l>Durch eigene Schuld nur sind wir Schwächlinge.«</l></lg>
-<milestone unit="untyped-end"/>
-<p>Dies ist wiederum im Sinne jener alten<lb/>
+                     <milestone unit="performance-start"/>
+                     <lg>
+                        <l>»Der Mensch ist <hi rend="text-spaced">manchmal</hi> seines Schicksals</l>
+                        <l>Meister:</l>
+                        <l>Nicht durch die Schuld der Sterne, lieber Brutus,</l>
+                        <l>Durch eigene Schuld nur sind wir Schwächlinge.«</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>Dies ist wiederum im Sinne jener alten<lb/>
 Meinung gesprochen, wonach die Gestirne<lb/>
 wohl geneigt machen, ihnen zu folgen,<lb/>
 aber »sie <hi rend="text-spaced">zwingen</hi> nicht« — eine An-<lb break="no"/>
-schauung, zu der sich auch <hi rend="text-spaced">Bacon</hi><lb/>
+schauung, zu der sich auch <hi rend="text-spaced">Bacon</hi>
+                        <lb/>
 bekannte.</p>
-<p>Wenn man aber dies alles nur als<lb/>
+                     <p>Wenn man aber dies alles nur als<lb/>
 astrologische Spielerei eines Dichters ver-<lb break="no"/>
 stehen wollte, so überzeugt uns eines<lb/>
 seiner Sonette geradezu von seinem Glauben<lb/>
 an die Gestirne. Es findet sich Seite 125,<lb/>
 Nr. 108 der Bodenstedt’schen Ausgabe<lb/>
 und beginnt:</p>
-<milestone unit="verse-start"/>
-<lg><l>»Bedenk’ ich, dass nur Augenblicke währt.</l>
-<l><hi rend="text-spaced">Was</hi> zur Vollendung wächst, <hi rend="text-spaced">und nur der</hi></l>
-<l><hi rend="text-spaced">Sterne</hi></l>
-<l><hi rend="text-spaced">Geheimer Einfluss recht das Spiel</hi></l>
-<l><hi rend="text-spaced">erklärt</hi></l>
-<l><hi rend="text-spaced">Auf dieser Erdenbühne</hi>, nah und ferne —«</l></lg>
-<milestone unit="untyped-end"/>
-<p>Kein Zweifel, unser Dichter war über-<lb break="no"/>
+                     <milestone unit="verse-start"/>
+                     <lg>
+                        <l>»Bedenk’ ich, dass nur Augenblicke währt.</l>
+                        <l>
+                           <hi rend="text-spaced">Was</hi> zur Vollendung wächst, <hi rend="text-spaced">und nur der</hi>
+                        </l>
+                        <l>
+                           <hi rend="text-spaced">Sterne</hi>
+                        </l>
+                        <l>
+                           <hi rend="text-spaced">Geheimer Einfluss recht das Spiel</hi>
+                        </l>
+                        <l>
+                           <hi rend="text-spaced">erklärt</hi>
+                        </l>
+                        <l>
+                           <hi rend="text-spaced">Auf dieser Erdenbühne</hi>, nah und ferne —«</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>Kein Zweifel, unser Dichter war über-<lb break="no"/>
 zeugter Astrolog; man kann daher diese<lb/>
 Frage bei den Erörterungen über die<lb/>
 Herkunft der allgemeinen Bildung des<lb/>
 Verfassers der Dramen umsoweniger aus<lb/>
 dem Spiele lassen, als die Astrologie eine<lb/>
 sehr zeitraubende und mühsame Sache</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

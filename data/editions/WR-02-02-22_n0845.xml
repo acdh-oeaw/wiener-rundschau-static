@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-22_n0845.xml"
-     prev="WR-02-02-22_n0844.xml"
-     next="WR-02-02-22_n0846.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-22_n0845.xml" prev="WR-02-02-22_n0844.xml" next="WR-02-02-22_n0846.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,13 +42,42 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 21</title>
+                  <idno>WR-02-02-21_n0785.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 23</title>
+                  <idno>WR-02-02-23_n0865.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">WENN ICH GOTT WÄRE.</fw><fw type="pn">845</fw></fw><p rend="no-intend">schmerz war vielleicht das Schlimmste, was sie bis dahin zu ertragen<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">WENN ICH GOTT WÄRE.</fw>
+               <fw type="pn">845</fw>
+            </fw>
+            <p rend="no-intend">schmerz war vielleicht das Schlimmste, was sie bis dahin zu ertragen<lb/>
 gehabt. Auf einmal fieng, an einem sonnigen Morgen, ihr linker<lb/>
 Fuss an zu schmerzen. Es wurde schlimmer, so dass sie sich legen<lb/>
 musste. Wir hielten es für eine Verstauchung oder Erkältung, bis der<lb/>
@@ -69,14 +95,19 @@ Du Dich nach Monaten vom Schmerzenslager erheben: ein neues,<lb/>
 unheimliches Gefühl beschleicht Dich — Gott gebe Dir Kraft! — Deine<lb/>
 beiden Füsse sind fort <milestone unit="3dots"/> So gieng es dem armen, unglückseligen Kinde<lb/>
 von 18 Jahren. Das Ungeheuer hatte aus seinem Versteck unter dem<lb/>
-grünen Hügel hervorgelugt und — zugebissen« <milestone unit="4dots"/></p><p>Er schwieg. Sein Gesicht war bleich und erregt. Dann fuhr<lb/>
-er fort:</p><p>»Nun sage mir doch, meine Freundin, wo liegt hier die liebe-<lb break="no"/>
-volle Bedeutung?«</p><p>»Das ist furchtbar — furchtbar,« sagte sie langsam, mit tiefer<lb/>
+grünen Hügel hervorgelugt und — zugebissen« <milestone unit="4dots"/>
+            </p>
+            <p>Er schwieg. Sein Gesicht war bleich und erregt. Dann fuhr<lb/>
+er fort:</p>
+            <p>»Nun sage mir doch, meine Freundin, wo liegt hier die liebe-<lb break="no"/>
+volle Bedeutung?«</p>
+            <p>»Das ist furchtbar — furchtbar,« sagte sie langsam, mit tiefer<lb/>
 Seelenqual im Ton der Stimme; das Leuchten ihres Gesichtes schien<lb/>
-einen Augenblick zu flackern und dunkler zu werden, »entsetzlich <milestone unit="3dots"/><lb/>
+einen Augenblick zu flackern und dunkler zu werden, »entsetzlich <milestone unit="3dots"/>
+               <lb/>
 kein weiser Christ wird thöricht genug sein, diese Heimsuchung und<lb/>
 ihre Bedeutung erklären zu wollen. Nur so viel kann ich sagen: es<lb/>
-<hi rend="text-spaced">hat</hi> einen Sinn — ja, ich wage es trotzdem zu glauben, einen liebe-<lb break="no"/>
+               <hi rend="text-spaced">hat</hi> einen Sinn — ja, ich wage es trotzdem zu glauben, einen liebe-<lb break="no"/>
 vollen Sinn. Aber <milestone unit="3dots"/> o ja, gewiss, es ist furchtbar.« Ihre Stimme ver-<lb break="no"/>
 rieth, dass sie in diesem Augenblick nicht nur an die eine Erzählung<lb/>
 dachte, sondern an all das gehäufte Elend des menschlichen Daseins.<lb/>
@@ -94,7 +125,8 @@ Wenn das kleine, einsam flackernde Licht, das da für Gott angezündet<lb/>
 war in jenen düstern Strassen, ausgehen sollte, während sie auf den<lb/>
 Höhen lächelte? Ja. Der Verehrer der Schönheit hatte schon recht:<lb/>
 die Welt war dunkel und sehr hässlich anzusehen — hässlicher als<lb/>
-man sich’s träumen liess, wenn man über diese grünen Abhänge</p></div>
+man sich’s träumen liess, wenn man über diese grünen Abhänge</p>
+         </div>
       </body>
    </text>
 </TEI>

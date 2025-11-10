@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-18_n0705.xml"
-     prev="WR-02-02-18_n0704.xml"
-     next="WR-02-02-18_n0706.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-18_n0705.xml" prev="WR-02-02-18_n0704.xml" next="WR-02-02-18_n0706.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,24 +42,59 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 17</title>
+                  <idno>WR-02-02-17_n0641.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 19</title>
+                  <idno>WR-02-02-19_n0713.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title><hi rend="text-spaced">MASKEN UND GÖTZENBILDER</hi>.<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">MASKEN UND GÖTZENBILDER</hi>.<lb/>
 Von <rs type="person" key="">ELIE RECLUS</rs>*) (Brüssel).<lb/>
-Übersetzt von <rs type="person" key="">Marie Lang</rs>.</title></ab><ab><title>I.</title></ab><p>Ein Zauberer vom Orinoko sagte einst: »Alle Magie besteht aus<lb/>
+Übersetzt von <rs type="person" key="">Marie Lang</rs>.</title>
+            </ab>
+            <ab>
+               <title>I.</title>
+            </ab>
+            <p>Ein Zauberer vom Orinoko sagte einst: »Alle Magie besteht aus<lb/>
 Hass und Liebe, sie verwundet und tödtet nicht nur, sondern sie<lb/>
-heilt auch.«</p><p>Gewiss ahnte der wackere Zauberer die ungeheure Tragweite<lb/>
+heilt auch.«</p>
+            <p>Gewiss ahnte der wackere Zauberer die ungeheure Tragweite<lb/>
 seines Lehrsatzes nicht. Niemals ist ein tieferes Wort gesprochen<lb/>
 worden. Wie es uns das Wirken der Magie erklärt, offenbart es uns<lb/>
 auch das Geheimnis der Weltgeschichte. Grosses ist nie anders als in<lb/>
 Begeisterung vollbracht worden, und unter dem Antrieb einer tiefen<lb/>
 Leidenschaft. Und ein Aufleuchten des Genies war auch jener Ausruf<lb/>
 einer Freundin der Encyclopädisten: »Die Tugenden sind menschliche<lb/>
-Einrichtungen, die Leidenschaften aber göttliche.«</p><p>Doch unter dem Einfluss der Benthamisten, der Liberalismus<lb/>
+Einrichtungen, die Leidenschaften aber göttliche.«</p>
+            <p>Doch unter dem Einfluss der Benthamisten, der Liberalismus<lb/>
 genannten Reaction der National-Ökonomen und Utilitaristen entwertete<lb/>
 man das Gefühl und verurtheilte die Leidenschaften insgesammt. Diese<lb/>
 ehrenwerten Leute, die nicht wussten was sie sagten, verlangten, dass<lb/>
@@ -70,18 +102,23 @@ man sie unterdrücke, diese Leidenschaften, die doch nur Ursachen von<lb/>
 Ungemach, Verbrechen und Unheil seien. Ihre ideale Gesellschaft war<lb/>
 eine Wiederbelebung klösterlicher Zucht und erweckte die Vorstellung<lb/>
 einer Musterstrafanstalt; die von ihnen erträumte Welt wimmelt von<lb/>
-geschlechtslosen Arbeiterbienen.</p><p>Sie ahnten nicht, dass die Leidenschaften die Pulsschläge des<lb/>
+geschlechtslosen Arbeiterbienen.</p>
+            <p>Sie ahnten nicht, dass die Leidenschaften die Pulsschläge des<lb/>
 Lebens sind, das Brausen der Seele, die heraustritt aus kalter Regungs-<lb break="no"/>
 losigkeit, die aufhört zwischen zwei entgegengesetzten elektrischen<lb/>
 Polen ein Neutrum zu sein, und in heisser Glut sprühend emporsteigt<lb/>
-in Flammenpracht und Licht.</p><p>»Anstatt die Leidenschaften niederzuhalten — und mit welchem<lb/>
+in Flammenpracht und Licht.</p>
+            <p>»Anstatt die Leidenschaften niederzuhalten — und mit welchem<lb/>
 Ungeschick! — anstatt danach zu trachten sie zu ersticken, — was<lb/>
 ebensowenig erreichbar ist —« erklärte der grosse Fourier, »erhöht<lb/>
-lieber ihre Energie, auf dass sie ihr Gleichgewicht und Gegengewicht</p><milestone unit="hr"/><note type="footnote">
-<p>*) <hi rend="text-spaced">Anmerkung der Redaction</hi>: Herr Professor Elie Reclus von der<lb/>
+lieber ihre Energie, auf dass sie ihr Gleichgewicht und Gegengewicht</p>
+            <milestone unit="hr"/>
+            <note type="footnote">
+               <p>*) <hi rend="text-spaced">Anmerkung der Redaction</hi>: Herr Professor Elie Reclus von der<lb/>
 Brüsseler Université Nouvelle hatte die Güte uns dieses Manuscript einer seiner<lb/>
 Vorlesungen über »Dämonologie« zur Verfügung zu stellen.</p>
-</note></div>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

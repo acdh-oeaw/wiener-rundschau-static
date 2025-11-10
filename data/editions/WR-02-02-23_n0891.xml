@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-23_n0891.xml"
-     prev="WR-02-02-23_n0890.xml"
-     next="WR-02-02-23_n0892.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-23_n0891.xml" prev="WR-02-02-23_n0890.xml" next="WR-02-02-23_n0892.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,25 +42,61 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 22</title>
+                  <idno>WR-02-02-22_n0825.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 24</title>
+                  <idno>WR-02-02-24_n0905.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">DIE NEUE KUNST IN BERLIN.</fw><fw type="pn">891</fw></fw><p rend="no-intend">im Haar ist ein Glanz. Alles ist ruhig. Und doch wird man ganz an-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DIE NEUE KUNST IN BERLIN.</fw>
+               <fw type="pn">891</fw>
+            </fw>
+            <p rend="no-intend">im Haar ist ein Glanz. Alles ist ruhig. Und doch wird man ganz an-<lb break="no"/>
 dächtig vor Erwartung und horcht in den nächsten Augenblick hinein,<lb/>
-als sei das nicht alles <milestone unit="4dots"/></p><p>So ist meine Empfindung nach dem ersten Durchschreiten der<lb/>
+als sei das nicht alles <milestone unit="4dots"/>
+            </p>
+            <p>So ist meine Empfindung nach dem ersten Durchschreiten der<lb/>
 neuen Räume. Viel Schönes wird hin zugaste kommen. Jeder Monat<lb/>
 verspricht eine Überraschung. Man fühlt es: junge Generale. Und sie<lb/>
 haben ein grosses Verdienst, die beiden jungen muthigen Besitzer, die<lb/>
 dem Neuen eine Kirche bauen mitten unter den Ungläubigen oder<lb/>
 Glaubensschwachen. Sie thun mehr als das Libertyhaus für London<lb/>
 oder Bing für Paris gethan hat: sie wagen. Und mögen sie nun ge-<lb break="no"/>
-winnen oder nicht, man wird sie nicht vergessen dürfen.</p><p>Aber ich glaube, es ist bald Zeit, auch in Oesterreich und in<lb/>
+winnen oder nicht, man wird sie nicht vergessen dürfen.</p>
+            <p>Aber ich glaube, es ist bald Zeit, auch in Oesterreich und in<lb/>
 Deutschland. Allenthalben erwachen wahre und ernste Apostel der<lb/>
 Schönheit. Und sie predigen das Heil und nennen den Namen Gottes<lb/>
-in neuen Sprachen.</p><p>Und wenn die Menschen schweigen, werden die Dinge »Amen« sagen.</p><milestone unit="untyped-end"/><milestone unit="hr"/></div>
+in neuen Sprachen.</p>
+            <p>Und wenn die Menschen schweigen, werden die Dinge »Amen« sagen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
       </body>
    </text>
 </TEI>

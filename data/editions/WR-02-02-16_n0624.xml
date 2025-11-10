@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-16_n0624.xml"
-     prev="WR-02-02-16_n0623.xml"
-     next="WR-02-02-16_n0625.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-16_n0624.xml" prev="WR-02-02-16_n0623.xml" next="WR-02-02-16_n0625.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,15 +42,45 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 15</title>
+                  <idno>WR-02-02-15_n0561.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 17</title>
+                  <idno>WR-02-02-17_n0641.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title><hi rend="text-spaced">DER BOTANISCHE POET</hi>.<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">DER BOTANISCHE POET</hi>.<lb/>
 (ANTON KERNER v. MARILAUN <milestone unit="died"/>.)<lb/>
-Von <rs type="person" key="">M. KRONFELD</rs> (Wien).</title></ab><p>Ich meine nicht den krankhaften <hi rend="text-spaced">Rousseau</hi>, nicht seine be-<lb break="no"/>
+Von <rs type="person" key="">M. KRONFELD</rs> (Wien).</title>
+            </ab>
+            <p>Ich meine nicht den krankhaften <hi rend="text-spaced">Rousseau</hi>, nicht seine be-<lb break="no"/>
 rechnete Sentimentalität, sein Seufzen beim Anblick des blauen Sinn-<lb break="no"/>
 grün und seinen auf den Effect berechneten Schmerz um die Blume.<lb/>
 Ich denke eines Geraden und Biederen, eines ehrlich Empfindenden<lb/>
@@ -63,7 +90,8 @@ Wachau, der er entsprossen. Und wie die Eiche wurde er vom Sturme<lb/>
 ins Lebensmark getroffen und starb dahin. Kleinliche Gebreste, wie<lb/>
 sie andere quälen, konnten ihm nichts anhaben. Er war zu gesund<lb/>
 in seinem Innern, um kränkeln zu können. Ein Schlaganfall machte<lb/>
-seinem inhaltsreichen Dasein jäh ein Ende.</p><p>Warum ich das ihm von der Leitung dieser Blätter zuge-<lb break="no"/>
+seinem inhaltsreichen Dasein jäh ein Ende.</p>
+            <p>Warum ich das ihm von der Leitung dieser Blätter zuge-<lb break="no"/>
 sprochene Attribut als Titel gewählt? Weil ich ihm durch lange Jahre<lb/>
 als Schüler nahe war und merkte, wie ihm das Botanisieren, das Mikrosko-<lb break="no"/>
 pieren, das Staubgefässzählen und die Pflanzenpresse nicht Selbstzwecke<lb/>
@@ -86,7 +114,8 @@ ertönt das Thal, in dem er das Licht dieser von ihm selbst so freundlich<lb/>
 erhellten Welt erblickte. Und froh und heiter war er seinem Grund-<lb break="no"/>
 zuge nach. Da er am Schlusse des erst vor wenigen Wochen in zweiter<lb/>
 Auflage beendigten Monumentalwerkes »Pflanzenleben« von den Be-<lb break="no"/>
-ziehungen der Blumen zur Poesie spricht, da ist es ihm Herzens-</p></div>
+ziehungen der Blumen zur Poesie spricht, da ist es ihm Herzens-</p>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-11_n0423.xml"
-     prev="WR-02-01-11_n0422.xml"
-     next="WR-02-01-11_n0424.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-11_n0423.xml" prev="WR-02-01-11_n0422.xml" next="WR-02-01-11_n0424.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,26 +42,58 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 10</title>
+                  <idno>WR-02-01-10_n0361.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 12</title>
+                  <idno>WR-02-01-12_n0441.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>DER ENGLÄNDER.<lb/>
-Eine Studie von <rs type="person" key="">Richard Schaukal</rs>.</title></ab><p>Was Alles in den halben von achtlosen Lippen sinkenden Lauten<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DER ENGLÄNDER.<lb/>
+Eine Studie von <rs type="person" key="">Richard Schaukal</rs>.</title>
+            </ab>
+            <p>Was Alles in den halben von achtlosen Lippen sinkenden Lauten<lb/>
 an Schönheit athmet und Kraft, an Volkswitzen und grossen Tradi-<lb break="no"/>
 tionen, wollen wir mit eifersüchtiger Liebe ans Licht heben und leuchten<lb/>
 lassen. So entdecken wir uns die <hi rend="text-spaced">Sprache</hi>, ihre Macht und die Musik<lb/>
 ihrer Wahrheit. Und so entdecken wir uns die <hi rend="text-spaced">Menschen</hi>, wenn sie,<lb/>
 ohne sich mühsam auf den Krücken der Bedürfnisse zu strecken, still<lb/>
-und wie die Pflanzen ihre Stunde ausleben.</p><p>Dann werden uns auch die so gemissbrauchten Wunder der<lb/>
+und wie die Pflanzen ihre Stunde ausleben.</p>
+            <p>Dann werden uns auch die so gemissbrauchten Wunder der<lb/>
 »Nationalität«, der »Race« verständlich. Wie im Märchen ist es, wenn<lb/>
-dem Helden die Vögel zu reden beginnen.</p><p>Wir »Oesterreicher«, Fremden eine sonderbare, nicht recht zu<lb/>
+dem Helden die Vögel zu reden beginnen.</p>
+            <p>Wir »Oesterreicher«, Fremden eine sonderbare, nicht recht zu<lb/>
 classificirende Menschengattung, wissen nicht, was das heisst, etwa <hi rend="text-spaced">ein<lb/>
 Engländer</hi> sein. Wir sind geneigt, dem »Engländer« den Ungarn,<lb/>
 den Böhmen an die Seite zu stellen. Das ist diese Achtlosigkeit, dieses<lb/>
-logische Schlendern des Gewohnheitsthieres.</p><p>Es nehmen sich wenig Reisende die Mühe, ihre Nachbarn im<lb/>
+logische Schlendern des Gewohnheitsthieres.</p>
+            <p>Es nehmen sich wenig Reisende die Mühe, ihre Nachbarn im<lb/>
 Geiste zu »entdecken«. Und besonders wir müssen das, wir überbildeten<lb/>
 »Linguisten«, wie uns so gerne die Fremden halb mitleidig nennen.<lb/>
 Der Franzose, der Engländer, sie stehen den Völkern ganz anders gegenüber<lb/>
@@ -75,7 +104,8 @@ merat von einander befehdenden stammesverschiedenen Racen ist, ist<lb/>
 ihnen wie eine seltsame Sage, und sie schütteln das allzu langsam<lb/>
 functionirende Haupt. Man könnte ihnen den grössten Unsinn weis-<lb break="no"/>
 machen. Sie würden ein wenig staunen und — glauben. (Ich rede von<lb/>
-der grossen Menge, von dem Durchschnitt der »besseren« Classe.)</p><p>Nie ist mir die richtige Kosmopolitennatur des »Oesterreichers«<lb/>
+der grossen Menge, von dem Durchschnitt der »besseren« Classe.)</p>
+            <p>Nie ist mir die richtige Kosmopolitennatur des »Oesterreichers«<lb/>
 deutlicher geworden als in diesem naiven Verkehr mit neugierigen<lb/>
 Fragern. Denn sie sind geschwätzig, die »steifen« Briten. Ihre Schweig-<lb break="no"/>
 samkeit auf der Reise rührt davon her, dass sie Niemand verstehen.<lb/>
@@ -84,7 +114,8 @@ von Köln bis Brüssel, der zwei Jahre in Dresden und Leipzig Musik<lb/>
 studirt hatte, ohne mehr als zehn schlecht gestolperte deutsche Wen-<lb break="no"/>
 dungen sich zu erwerben. Dieser crassen Ignoranz, dieser bornirten<lb/>
 Hilflosigkeit gegenüber ist aber nichts weniger am Platze als das uns<lb/>
-allzu geläufige Lachen.</p></div>
+allzu geläufige Lachen.</p>
+         </div>
       </body>
    </text>
 </TEI>

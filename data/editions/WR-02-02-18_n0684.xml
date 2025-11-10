@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-18_n0684.xml"
-     prev="WR-02-02-18_n0683.xml"
-     next="WR-02-02-18_n0685.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-18_n0684.xml" prev="WR-02-02-18_n0683.xml" next="WR-02-02-18_n0685.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,30 +42,72 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 17</title>
+                  <idno>WR-02-02-17_n0641.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 19</title>
+                  <idno>WR-02-02-19_n0713.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">684</fw><fw type="ctext">MOOSMEE.</fw></fw><p rend="no-intend">nur Gegensätze. Seid Ihr verzauberte Menschenseele?! Sind wir<lb/>
-entzauberte Natur?!«</p><p>Da lag die Prinzessin nachmittags ohne Mieder, schwer-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">684</fw>
+               <fw type="ctext">MOOSMEE.</fw>
+            </fw>
+            <p rend="no-intend">nur Gegensätze. Seid Ihr verzauberte Menschenseele?! Sind wir<lb/>
+entzauberte Natur?!«</p>
+            <p>Da lag die Prinzessin nachmittags ohne Mieder, schwer-<lb break="no"/>
 fällig von Suppe, Fleisch und Mehlspeise in Sommers Hitze, auf<lb/>
 dem kühlen angenehmen Bette, klappte die Flügel hie und da<lb/>
-auf und zu, träumte, träumte, träumte ohne zu träumen.</p><p>»Mildred, es ist fünf Uhr. Was glaubst Du eigentlich?!«</p><p>Sie erhob sich, trat ans Fenster, sah die abgekühlte Natur,<lb/>
+auf und zu, träumte, träumte, träumte ohne zu träumen.</p>
+            <p>»Mildred, es ist fünf Uhr. Was glaubst Du eigentlich?!«</p>
+            <p>Sie erhob sich, trat ans Fenster, sah die abgekühlte Natur,<lb/>
 die Reihe von Hundsrosenbüschen und den Himmel, welcher<lb/>
-nichtssagend sich ausbreitete nach allen Richtungen.</p><p>»Mildred — — —. Glaubst Du, man werde diesen wunder-<lb break="no"/>
+nichtssagend sich ausbreitete nach allen Richtungen.</p>
+            <p>»Mildred — — —. Glaubst Du, man werde diesen wunder-<lb break="no"/>
 baren Sommer-Nachmittag vertändeln, vertrödeln?! Eine schöne<lb/>
 Naturfreundin bist Du! Wir fahren an einen Jausenplatz. Ziehe<lb/>
 das Mousseline-Kleid an mit den durchsichtigen Ärmeln.<lb/>
-Hörst Du?!«</p><p>»Ich gehe schon,« sagte sie und blickte auf ihr Kohlfeld<lb/>
+Hörst Du?!«</p>
+            <p>»Ich gehe schon,« sagte sie und blickte auf ihr Kohlfeld<lb/>
 hinaus und die Reihe von Dornenbüschen, welche sanft und<lb/>
 ergeben den Abend erwarteten und den Nachtthau und den Wind<lb/>
-von den Bergen, welcher sich um acht einzustellen pflegte.</p><p>»Mildred, hörst Du nicht, was ich sage?!«</p><p>»Ich gehe ja schon.«</p><p>Sie zog das Kleid an mit den durchsichtigen Ärmeln und<lb/>
-fuhr zu dem Jausenplatze mit Mama.</p><p>Dort sagte niemand zu ihr: »Wunderbare Arme haben Sie,<lb/>
-Fräulein.«</p><p>Da sass sie, sass, sass und dachte an ihre kleine Landschaft<lb/>
+von den Bergen, welcher sich um acht einzustellen pflegte.</p>
+            <p>»Mildred, hörst Du nicht, was ich sage?!«</p>
+            <p>»Ich gehe ja schon.«</p>
+            <p>Sie zog das Kleid an mit den durchsichtigen Ärmeln und<lb/>
+fuhr zu dem Jausenplatze mit Mama.</p>
+            <p>Dort sagte niemand zu ihr: »Wunderbare Arme haben Sie,<lb/>
+Fräulein.«</p>
+            <p>Da sass sie, sass, sass und dachte an ihre kleine Landschaft<lb/>
 vor ihrem Fenster, welche ganz gelassen den Abend erwartete<lb/>
-und den Bergeswind — — —.</p><milestone unit="untyped-end"/><milestone unit="hr"/></div>
+und den Bergeswind — — —.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
       </body>
    </text>
 </TEI>

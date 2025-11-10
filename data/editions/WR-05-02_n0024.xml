@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-02_n0024.xml"
-     prev="WR-05-02_n0023.xml"
-     next="WR-05-02_n0025.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-02_n0024.xml" prev="WR-05-02_n0023.xml" next="WR-05-02_n0025.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 1</title>
+                  <idno>WR-05-01_n0001.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 3</title>
+                  <idno>WR-05-03_n0049.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">HAUPTMANN: APHORISTISCHES.</fw></fw><table><row><cell>
-<p>Netze. Das Hin und Her in diesen ab-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">HAUPTMANN: APHORISTISCHES.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Netze. Das Hin und Her in diesen ab-<lb break="no"/>
 gezogenen Werten — das macht unser<lb/>
 Leben. Wir sind Staatsmenschen, Ge-<lb break="no"/>
 sellschaftsmenschen und haben auf-<lb break="no"/>
@@ -103,8 +118,9 @@ Wahrheit alle Dinge Naturdinge sind<lb/>
 und dass auch im Natursinne unseres<lb/>
 Lebens die wahre regenerative Macht<lb/>
 des Persönlichen allein beschlossen</p>
-</cell><cell>
-<p rend="no-intend">liegt. Denn niemand kann auch nur<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">liegt. Denn niemand kann auch nur<lb/>
 eine eigene Sprache reden, dem nicht<lb/>
 erst die Sinnendinge wieder reden, die<lb/>
 große Sinnenwelt mit ihren Zeichen<lb/>
@@ -135,31 +151,36 @@ die machtvollen, grenzenlosen, allgegen-<lb break="no"/>
 wärtigen, drohenden und allgütigen<lb/>
 wirklichen Dinge um uns und in uns<lb/>
 anbetet?</p>
-<milestone unit="untyped-end"/>
-<milestone unit="asterisk"/>
-<milestone unit="untyped-start"/>
-<p>Es gibt Menschen, die nur wollen,<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="asterisk"/>
+                     <milestone unit="untyped-start"/>
+                     <p>Es gibt Menschen, die nur wollen,<lb/>
 was klar ist und was sie können, und<lb/>
 die sich damit zufrieden geben. Und<lb/>
 wieder Menschen, die wollen, was noch<lb/>
 unklar ist, dass sie es für sich und<lb/>
-damit für andere zur Klarheit <hi rend="text-spaced">erheben</hi><lb/>
+damit für andere zur Klarheit <hi rend="text-spaced">erheben</hi>
+                        <lb/>
 — und die sich nicht eher zufrieden<lb/>
 geben. Sie wollen, was sie noch nicht<lb/>
 können. Es sind Leute, die oft genug<lb/>
 über dem, was sie ahnen, zerbrechen.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="asterisk"/>
-<milestone unit="untyped-start"/>
-<p>Es muss soviel Ungerechtigkeit in<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="asterisk"/>
+                     <milestone unit="untyped-start"/>
+                     <p>Es muss soviel Ungerechtigkeit in<lb/>
 der Welt geben, wie Ungeradheiten in<lb/>
 der geraden Linie stecken, die ich mit<lb/>
 Kreide ziehe. Wer diese Ungeradheiten<lb/>
 wie mit einer Lupe sieht, hat zu scharfe<lb/>
 Augen. Wer sie gar aus der Welt<lb/>
 schaffen wollte, wird zum Narren.</p>
-<milestone unit="untyped-end"/>
-</cell></row></table><milestone unit="untyped-end"/></div>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+         </div>
       </body>
    </text>
 </TEI>

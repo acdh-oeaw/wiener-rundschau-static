@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-14_n0292.xml"
-     prev="WR-05-14_n0291.xml"
-     next="WR-05-14_n0293.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-14_n0292.xml" prev="WR-05-14_n0291.xml" next="WR-05-14_n0293.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 13</title>
+                  <idno>WR-05-13_n0265.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 15</title>
+                  <idno>WR-05-15_n0295.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BRYK: GENIE UND ANTICIPATION.</fw></fw><table><row><cell>
-<p>lation des Geschehenen, also etwa von<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BRYK: GENIE UND ANTICIPATION.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>lation des Geschehenen, also etwa von<lb/>
 der Art einer sehr lebhaften Erinnerung.<lb/>
 Sie erstreckt sich aber auch auf das Zu-<lb break="no"/>
 künftige und diesbezüglich bedarf es noch<lb/>
@@ -94,8 +109,9 @@ nomenen-Reihe zur mathematisch-unend-<lb break="no"/>
 lichen aufsteigen. Es war ein intuitiver<lb/>
 Act, als Hauy, der sich nie mit Krystall-<lb break="no"/>
 bildung beschäftigt hatte, zufällig auf einem</p>
-</cell><cell>
-<p rend="no-intend">Spaziergang ohne alles Nachdenken das<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Spaziergang ohne alles Nachdenken das<lb/>
 Gebäude der sechs krystallographischen<lb/>
 Systeme erblickte; es war vollendete In-<lb break="no"/>
 tuition, als Goethe auf der italienischen<lb/>
@@ -104,7 +120,7 @@ schaute</hi>. Es war Anticipation, als ihm<lb/>
 im selben Augenblicke die dynamische Be-<lb break="no"/>
 stimmung der morphologischen Elemente<lb/>
 begrifflich klar wurde.</p>
-<p>Contraction der Anschauungen längs<lb/>
+                     <p>Contraction der Anschauungen längs<lb/>
 der normalen Zeitachse wäre also Intuition,<lb/>
 Contraction der dynamischen Motivierungen<lb/>
 längs der auf ihr normalen Zeitlinie der<lb/>
@@ -130,17 +146,24 @@ und enthüllen beide Vermögen: Das Drama,<lb/>
 das philosophische System schreiten über<lb/>
 intuitiv geschaute Typen (Charaktere) anti-<lb break="no"/>
 cipatorisch fort.</p>
-<milestone unit="verse-start"/>
-<lg><l>»Wer Schranken denkend setzt, die nicht vor-</l>
-<l>handen,</l>
-<l>Und dann hinweg sie denkt, der hat die Welt</l>
-<l>verstanden«. (<rs type="person" key="">Rückert</rs>.)</l></lg>
-<milestone unit="untyped-end"/>
-<p>So schließt das Genie durch seine Art,<lb/>
+                     <milestone unit="verse-start"/>
+                     <lg>
+                        <l>»Wer Schranken denkend setzt, die nicht vor-</l>
+                        <l>handen,</l>
+                        <l>Und dann hinweg sie denkt, der hat die Welt</l>
+                        <l>verstanden«. (<rs type="person" key="">Rückert</rs>.)</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>So schließt das Genie durch seine Art,<lb/>
 zu schauen und zu denken, den Ring<lb/>
 zwischen der Natur und dem ihr ent-<lb break="no"/>
 fremdeten Menschen.</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/></div>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
       </body>
    </text>
 </TEI>

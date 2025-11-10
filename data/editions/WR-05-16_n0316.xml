@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-16_n0316.xml"
-     prev="WR-05-16_n0315.xml"
-     next="WR-05-16_n0317.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-16_n0316.xml" prev="WR-05-16_n0315.xml" next="WR-05-16_n0317.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 15</title>
+                  <idno>WR-05-15_n0295.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 17</title>
+                  <idno>WR-05-17_n0327.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">LUCKA: ZUR SYMBOLIK IN WAGNERS »PARSIFAL«.</fw></fw><table><row><cell>
-<p rend="no-intend">betont und ihr unerschöpftes Karma er-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">LUCKA: ZUR SYMBOLIK IN WAGNERS »PARSIFAL«.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">betont und ihr unerschöpftes Karma er-<lb break="no"/>
 wähnt. (»Hier lebt sie heut’ — vielleicht<lb/>
 erneut, zu büßen Schuld aus früherm<lb/>
 Leben, die dorten ihr noch nicht vergeben«.)<lb/>
@@ -72,7 +87,7 @@ Mannes-Liebe, denn sie kann sich über<lb/>
 die Persönlichkeit nicht erheben. (»Für<lb/>
 sie lasse mich ewig verdammt, nie heile<lb/>
 mir die Wunde.«)</p>
-<p>Nach der Vernichtung Klingsors und<lb/>
+                     <p>Nach der Vernichtung Klingsors und<lb/>
 des Zaubergartens findet Kundry nach<lb/>
 langer Sühne den Erleuchteten wieder,<lb/>
 den sie einst verlachte. Ihr besseres Be-<lb break="no"/>
@@ -85,15 +100,16 @@ mehr ihre Reinheit erkannt hat. Zugleich<lb/>
 mit der Schuld des Weibes ist auch die<lb/>
 Schuld der Erde getilgt, eine unerhört<lb/>
 liebliche Melodie entblüht der Blumenaue</p>
-</cell><cell>
-<p rend="no-intend">als Charfreitags-Opfer (»Wie dünkt mich<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">als Charfreitags-Opfer (»Wie dünkt mich<lb/>
 doch die Aue heut’ so schön!«).</p>
-<p>Kundry findet die Erlösung im Tode. Sie<lb/>
+                     <p>Kundry findet die Erlösung im Tode. Sie<lb/>
 kann den Glanz des Grals nicht ertragen,<lb/>
 der Anblick des Transcendenten tödtet<lb/>
 sie. Die Erde nimmt sie in ihren Mutter-<lb break="no"/>
 schoß und gibt ihr die ersehnte Ruhe.*</p>
-<p>Es mag befremden, dass gerade im<lb/>
+                     <p>Es mag befremden, dass gerade im<lb/>
 »Parsifal«, dem offenkundigsten Erlösungs-<lb break="no"/>
 Drama Wagners, die Projection aller<lb/>
 transcendenten Sehnsucht in einer Frauen-<lb break="no"/>
@@ -120,11 +136,16 @@ Dürer. Dürer entsagte in seinen späteren<lb/>
 Jahren den lieblichen Madonnen-Bildern<lb/>
 mehr und mehr, und versenkte sich immer<lb/>
 tiefer in die Mysterien der Passion.</p>
-</cell></row></table><note type="footnote">
-<p>* Die Stellung des Weibes im Universum, wie sie im »Parsifal« angedeutet ist, scheint<lb/>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Die Stellung des Weibes im Universum, wie sie im »Parsifal« angedeutet ist, scheint<lb/>
 von tieferer Auffassung zu zeugen, als die landesüblichen »Lösungen der Frauentage« —<lb/>
 allen voran Ibsen.</p>
-</note><milestone unit="untyped-end"/></div>
+            </note>
+            <milestone unit="untyped-end"/>
+         </div>
       </body>
    </text>
 </TEI>

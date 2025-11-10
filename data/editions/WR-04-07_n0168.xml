@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-04-07_n0168.xml"
-     prev="WR-04-07_n0167.xml"
-     next="WR-04-07_n0169.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-07_n0168.xml" prev="WR-04-07_n0167.xml" next="WR-04-07_n0169.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,36 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 5</title>
+                  <idno>WR-05-01_n0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 4, Nr. 6</title>
+                  <idno>WR-04-06_n0125.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 4, Nr. 8</title>
+                  <idno>WR-04-08_n0175.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">GRAEVELL: DIE RENAISSANCE DES KELTENTHUMS.</fw></fw><table><row><cell>
-<p>Es scheint, als ob die Kelten sich<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">GRAEVELL: DIE RENAISSANCE DES KELTENTHUMS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Es scheint, als ob die Kelten sich<lb/>
 hauptsächlich von der Phantasie leiten<lb/>
 ließen. Diesen Eindruck machen schon<lb/>
 die Gallier zu Cäsars Zeit. Das haben sie<lb/>
@@ -72,7 +91,7 @@ Gedanken der Wiedererlangung des Rheines<lb/>
 an, der zu Zeiten Cäsars (!) einmal die<lb/>
 Grenze war, bis zur Einführung einer all-<lb break="no"/>
 gemeinen demokratischen Republik.</p>
-<p>Je toller und unmöglicher die Pläne<lb/>
+                     <p>Je toller und unmöglicher die Pläne<lb/>
 sind, desto mehr wirken sie. Die Be-<lb break="no"/>
 geisterung steht hier im umgekehrten Ver-<lb break="no"/>
 hältnis zur Ausführbarkeit. Solche phanta-<lb break="no"/>
@@ -91,7 +110,7 @@ Kelte empfindet ganz anders. Er hat nicht<lb/>
 den positiven, nüchternen, auf das That-<lb break="no"/>
 sächliche gerichteten Sinn des echten<lb/>
 Germanen. Er ist der Poet in der Politik.</p>
-<p>Man sehe die ganze Geschichte der<lb/>
+                     <p>Man sehe die ganze Geschichte der<lb/>
 Geistesbewegungen durch seit dem Auf-<lb break="no"/>
 kommen des Christenthums! Überall ent-<lb break="no"/>
 stehen sie auf keltischem Boden. Die<lb/>
@@ -105,11 +124,12 @@ Moden, die neuen Ideen in der Literatur<lb/>
 und Kunst — alles wird vom keltischen<lb/>
 Geist inspiriert. Der Kelte hat beinahe<lb/>
 immer die Anregung gegeben, die dann</p>
-</cell><cell>
-<p rend="no-intend">der Germane geistig vertieft hat. Dem<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">der Germane geistig vertieft hat. Dem<lb/>
 Deutschen gelang nie »der gallische<lb/>
 Sprung«.</p>
-<p>Es wird von <hi rend="text-spaced">Richelieu</hi> erzählt, dass<lb/>
+                     <p>Es wird von <hi rend="text-spaced">Richelieu</hi> erzählt, dass<lb/>
 er einst mit der Königin-Witwe Maria<lb/>
 von Medici über wichtige Staatsangelegen-<lb break="no"/>
 heiten gesprochen habe. Plötzlich aber<lb/>
@@ -135,32 +155,40 @@ seiner Unsolidität, die ihn am Gründen<lb/>
 eines Staates hindert, hat der keltische<lb/>
 Geist große Momente, wo er sich zu den<lb/>
 Sternen erhebt oder im Blute watet.</p>
-<p>Am deutlichsten sieht man den kel-<lb break="no"/>
+                     <p>Am deutlichsten sieht man den kel-<lb break="no"/>
 tischen Geist in der Kunst. Es dürfte<lb/>
 wenige große Künstler gegeben haben,<lb/>
 die nicht keltisches Blut in den Adern<lb/>
-hatten, mag man nun an <hi rend="text-spaced">Shakespeare</hi><lb/>
-denken oder an <hi rend="text-spaced">Schiller</hi>, an Victor <hi rend="text-spaced">Hugo</hi><lb/>
+hatten, mag man nun an <hi rend="text-spaced">Shakespeare</hi>
+                        <lb/>
+denken oder an <hi rend="text-spaced">Schiller</hi>, an Victor <hi rend="text-spaced">Hugo</hi>
+                        <lb/>
 oder an <hi rend="text-spaced">Burne-Jones</hi>. Namentlich in der<lb/>
 neuesten englischen Literatur ist der keltische<lb/>
 Einfluss sehr bemerkbar. <hi rend="text-spaced">Chaucer</hi> und<lb/>
-<hi rend="text-spaced">Spenser</hi> hatten keltisches Blut in den<lb/>
+                        <hi rend="text-spaced">Spenser</hi> hatten keltisches Blut in den<lb/>
 Adern. Shakespeares Mutter hatte den<lb/>
-Namen Arden und kam von Wales. <hi rend="text-spaced">Burns</hi><lb/>
+Namen Arden und kam von Wales. <hi rend="text-spaced">Burns</hi>
+                        <lb/>
 war durch seine Kincardine-Vorfahren<lb/>
 wahrscheinlich ein Kelte. Ebenso <hi rend="text-spaced">Bos</hi>-<lb break="no"/>
-<hi rend="text-spaced">well</hi>, <hi rend="text-spaced">Scott</hi>, <hi rend="text-spaced">Byron</hi> (durch seine Mutter),<lb/>
-Charlotte <hi rend="text-spaced">Brontë</hi> und George <hi rend="text-spaced">Elliot</hi><lb/>
+                        <hi rend="text-spaced">well</hi>, <hi rend="text-spaced">Scott</hi>, <hi rend="text-spaced">Byron</hi> (durch seine Mutter),<lb/>
+Charlotte <hi rend="text-spaced">Brontë</hi> und George <hi rend="text-spaced">Elliot</hi>
+                        <lb/>
 (durch ihren Vater Mr. Evans). Matthew<lb/>
-<hi rend="text-spaced">Arnold</hi> hat den Keltismus begünstigt und<lb/>
+                        <hi rend="text-spaced">Arnold</hi> hat den Keltismus begünstigt und<lb/>
 der Canadier Grant <hi rend="text-spaced">Allan</hi> ist sein glü-<lb break="no"/>
-hendster Advocat. Der <hi rend="italics">all pervading Celt</hi><lb/>
+hendster Advocat. Der <hi rend="italics">all pervading Celt</hi>
+                        <lb/>
 kommt überall zum Vorschein. Es scheint,<lb/>
 dass wir vor einer Art Renaissance des<lb/>
 Keltenthums stehen. Der solange vom<lb/>
 Germanen unterdrückte Kelte rächt sich.<lb/>
 Er bringt den Germanen in seine geistige</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

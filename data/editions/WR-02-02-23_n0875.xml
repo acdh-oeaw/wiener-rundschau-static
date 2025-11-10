@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-23_n0875.xml"
-     prev="WR-02-02-23_n0874.xml"
-     next="WR-02-02-23_n0876.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-23_n0875.xml" prev="WR-02-02-23_n0874.xml" next="WR-02-02-23_n0876.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,19 +42,53 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 22</title>
+                  <idno>WR-02-02-22_n0825.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 24</title>
+                  <idno>WR-02-02-24_n0905.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title><hi rend="text-spaced">EMILY BRONTÉ</hi>.<lb/>
-Von <rs type="person" key="">MAURICE MAETERLINCK</rs>.</title></ab><milestone unit="editorialStatement-start"/><p><hi rend="text-spaced">Vorbemerkung der Redaction</hi>: Dieser Essay erscheint hier in<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">EMILY BRONTÉ</hi>.<lb/>
+Von <rs type="person" key="">MAURICE MAETERLINCK</rs>.</title>
+            </ab>
+            <milestone unit="editorialStatement-start"/>
+            <p>
+               <hi rend="text-spaced">Vorbemerkung der Redaction</hi>: Dieser Essay erscheint hier in<lb/>
 deutscher Sprache, autorisiert, zum erstenmale. Auch in französischer und<lb/>
 englischer Sprache erscheint er erst heute, am <date>15. October</date>, an welchem Tage<lb/>
 das neue Buch Maeterlincks: »La sagesse et la destinée« in Paris, London<lb/>
 und New-York zur Ausgabe gelangt. Er wurde aus Maeterlincks Manuscript<lb/>
-übersetzt.</p><milestone unit="untyped-end"/><p>Sobald das Bewusstsein erwacht und in einem Wesen zu leben<lb/>
+übersetzt.</p>
+            <milestone unit="untyped-end"/>
+            <p>Sobald das Bewusstsein erwacht und in einem Wesen zu leben<lb/>
 beginnt, fängt sein Schicksal an. Es handelt sich hier nicht um das<lb/>
 verarmte und passive Bewusstsein der meisten Seelen, sondern um das<lb/>
 thätige Bewusstsein, das die Ereignisse annimmt, welcher Art sie auch<lb/>
@@ -78,20 +109,24 @@ bizarrer Titel, den man vielleicht mit »Die Sturmhöhe« wiedergeben<lb/>
 könnte. Emily war die Tochter eines englischen Clergyman, des Reverend<lb/>
 Patrick Bronté, des nichtigsten, leblosesten, anspruchvollsten und selbst-<lb break="no"/>
 süchtigsten Wesens, das man sich denken kann. Zwei Dinge schienen<lb/>
-ihm wichtig im Leben, die Reinheit seines griechischen Profils und</p><milestone unit="hr"/><note type="footnote">
-<p>*) <hi rend="text-spaced">Emily Bronté</hi> (pseud. Ellis Bell) wurde <date>1819</date> als zweite Tochter<lb/>
+ihm wichtig im Leben, die Reinheit seines griechischen Profils und</p>
+            <milestone unit="hr"/>
+            <note type="footnote">
+               <p>*) <hi rend="text-spaced">Emily Bronté</hi> (pseud. Ellis Bell) wurde <date>1819</date> als zweite Tochter<lb/>
 des Predigers Bronté geboren. Ihre ältere Schwester war die bekannte Roman-<lb break="no"/>
 schriftstellerin und Schülerin Thackerays Charlotte Bronté, die zuerst unter dem<lb/>
 Pseudonym Currer Bell schrieb und <date>1846</date> mit Emily und ihrer jüngsten Schwester<lb/>
-Anna (Acton Bell) gemeinschaftlich »Gedichte« herausgab. Der erste, <date>1847</date><lb/>
+Anna (Acton Bell) gemeinschaftlich »Gedichte« herausgab. Der erste, <date>1847</date>
+                  <lb/>
 gedruckte Roman Charlottes »Jane Eyre«, der ihre Jugendjahre wiederspiegelte,<lb/>
 ist in der deutschen Bühnenbearbeitung von Charlotte Birch-Pfeiffer als »Waise<lb/>
 von Lowood« auch heute noch auf dem Continent wohl bekannt. Nachdem Emily<lb/>
-<date>1848</date> und Anna <date>1849</date> gestorben waren, gab sie deren literarischen Nachlass,<lb/>
+                  <date>1848</date> und Anna <date>1849</date> gestorben waren, gab sie deren literarischen Nachlass,<lb/>
 dessen Hauptbestandtheil die Romane »Wuthering Heights« und »Agnes Gray«<lb/>
 bildeten, <date>1850</date> heraus. Ein englischer Neudruck von <date>1896</date> liegt vor.</p>
-<p>Der Übersetzer.</p>
-</note></div>
+               <p>Der Übersetzer.</p>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

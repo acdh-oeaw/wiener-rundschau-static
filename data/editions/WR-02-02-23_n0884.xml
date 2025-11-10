@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-23_n0884.xml"
-     prev="WR-02-02-23_n0883.xml"
-     next="WR-02-02-23_n0885.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-23_n0884.xml" prev="WR-02-02-23_n0883.xml" next="WR-02-02-23_n0885.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,21 +42,51 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 22</title>
+                  <idno>WR-02-02-22_n0825.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 24</title>
+                  <idno>WR-02-02-24_n0905.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>FRIEDRICH NIETZSCHE ALS MENSCH.<lb/>
-Von <rs type="person" key="">PAUL LANZKY</rs> (Vallombrosa).</title></ab><p>Ich lernte Nietzsche zur Zeit der Entstehung seiner »<hi rend="text-spaced">Morgen-<lb break="no"/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>FRIEDRICH NIETZSCHE ALS MENSCH.<lb/>
+Von <rs type="person" key="">PAUL LANZKY</rs> (Vallombrosa).</title>
+            </ab>
+            <p>Ich lernte Nietzsche zur Zeit der Entstehung seiner »<hi rend="text-spaced">Morgen-<lb break="no"/>
 röthe</hi>« kennen; ich trat ihm persönlich nahe, nach der Veröffent-<lb break="no"/>
 lichung des zweiten Theiles von »<hi rend="text-spaced">Also sprach Zarathustra</hi>«. Damals<lb/>
 hoffte ich in ihm mehr als den Lehrer einer neuen Weisheit, nämlich<lb/>
 den <hi rend="text-spaced">neuen Weisen</hi> selber zu finden. So gieng ich als Mann zu ihm,<lb/>
 dem Einsiedler, in die Schule; denn ein solcher Einsiedler war er<lb/>
 damals mitten im Getobe von Genua und Nizza, wie in der Stille<lb/>
-von Sils-Maria, Rapallo und Ruta Ligure.</p><p>Was trat mir doch da als erster Widerspruch bei diesem Zer-<lb break="no"/>
+von Sils-Maria, Rapallo und Ruta Ligure.</p>
+            <p>Was trat mir doch da als erster Widerspruch bei diesem Zer-<lb break="no"/>
 brecher aller alten Tafeln auf? Die Leutseligkeit, die Milde, eine<lb/>
 gewisse Scham, seine Lehre auch nur umschleiert vorzutragen. Nicht<lb/>
 als ob er sich mir verhehlen wollte, mit dem er schon Jahr und Tag<lb/>
@@ -69,7 +96,8 @@ man frei über alles Menschliche sprechen könne, wie der Mistral voll<lb/>
 Übermuthes darüber hinwegfegt.« Nein, er liebte es nicht, vor Laien<lb/>
 als Philosoph, vor Gläubigen als Freigeist, vor der Einfalt als der<lb/>
 Erkennende aufzutreten. Er, der die Härte predigte, war mitleidig bis<lb/>
-zur Schwäche.</p><p>In dieser rein persönlichen Schwäche hatten alle Widersprüche<lb/>
+zur Schwäche.</p>
+            <p>In dieser rein persönlichen Schwäche hatten alle Widersprüche<lb/>
 zwischen dem Menschen und dem Denker ihren Ursprung. Der <hi rend="text-spaced">Er-<lb break="no"/>
 kennende</hi> hat es nicht vermocht, in sich den <hi rend="text-spaced">Menschen</hi> zu über-<lb break="no"/>
 winden mit seiner Physis, seiner Familientradition, seiner socialen<lb/>
@@ -77,7 +105,8 @@ Stellung, mit allen ererbten und gepflegten Irrthümern von den Jahren<lb/>
 in Schulpforta bis Bayreuth. Und nicht nur dies. Wie klar Zarathustra<lb/>
 sein Ziel vorzuschweben scheint, so verschwommen, unsicher, uner-<lb break="no"/>
 reichbar erscheint es ihm selber oft. Daher die tiefe Schwermuth nach<lb/>
-dem göttlichen Übermuth.</p><p>Der <hi rend="text-spaced">Weise</hi> war eben eine Vorstellung, nicht ein Erlebnis, und<lb/>
+dem göttlichen Übermuth.</p>
+            <p>Der <hi rend="text-spaced">Weise</hi> war eben eine Vorstellung, nicht ein Erlebnis, und<lb/>
 der Lehrer der Weisheit nichts als <milestone unit="4dots"/> ein Dichter. Nicht als ob<lb/>
 die verkündeten Wahrheiten nicht als solche erkannt und auf neue<lb/>
 Tafeln geschrieben worden wären; aber die Episoden des Lebens<lb/>
@@ -86,7 +115,9 @@ wachsen war, sondern sie nicht einmal in einem einheitlich durch-<lb break="no"/
 leuchteten Plane schaute. So erscheint Zarathustra nicht der Lehrer<lb/>
 einer erworbenen und unumstösslich besessenen Wahrheit, sondern der<lb/>
 Ringende nach Wahrheit und Weisheit, der uns einzelne Tafeln vorhält,<lb/>
-aus denen wir errathen müssen, wohin er strebt.</p><milestone unit="asterismUp"/></div>
+aus denen wir errathen müssen, wohin er strebt.</p>
+            <milestone unit="asterismUp"/>
+         </div>
       </body>
    </text>
 </TEI>

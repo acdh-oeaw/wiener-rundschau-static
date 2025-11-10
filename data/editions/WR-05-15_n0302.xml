@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-15_n0302.xml"
-     prev="WR-05-15_n0301.xml"
-     next="WR-05-15_n0303.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-15_n0302.xml" prev="WR-05-15_n0301.xml" next="WR-05-15_n0303.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 14</title>
+                  <idno>WR-05-14_n0279.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 16</title>
+                  <idno>WR-05-16_n0313.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">VICK: PSYCHOGRAPHOLOGIE.</fw></fw><table><row><cell>
-<p rend="no-intend">heißt nicht den Charakter der Erscheinungs-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">VICK: PSYCHOGRAPHOLOGIE.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">heißt nicht den Charakter der Erscheinungs-<lb break="no"/>
 form erfassen, sondern jenes Centrum,<lb/>
 welches die Erscheinungsform nach außen<lb/>
 projiciert. Ist aber dieses erkannt, so liegt<lb/>
@@ -76,7 +91,7 @@ kann, nicht aus sensitiver Begabung allein<lb/>
 ihre Beantwortung hervorholen kann, mag<lb/>
 hier zunächst der Umstand darthun, dass<lb/>
 alle Erkenntnis umgewandelte That ist.</p>
-<p>Die Reihe der Stabilitäten, aus welchen<lb/>
+                     <p>Die Reihe der Stabilitäten, aus welchen<lb/>
 der Mensch wiederzuerkennen ist, ist un-<lb break="no"/>
 begrenzt. Sei es eine That, sei es ein<lb/>
 Gedachtes, ein Gedanke, sei es eine<lb/>
@@ -105,8 +120,9 @@ mehrere Handschriften oder mit verstellter<lb/>
 Schrift schreibt; die graphologische Summe<lb/>
 der einen Handschrift ist der grapho-<lb break="no"/>
 logischen Summe der anderen gleich.</p>
-</cell><cell>
-<p rend="no-intend">Da sie jedoch ihrer Natur nach<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Da sie jedoch ihrer Natur nach<lb/>
 analytisch ist, kann sie niemals zur<lb/>
 Synthese kommen, d. h. sie kann wohl<lb/>
 die Stabilität der Schrift zergliedern, doch<lb/>
@@ -137,7 +153,7 @@ solche indiscutabel. Die Charakter-Erkennt-<lb break="no"/>
 nis wird in einem Kreis herumgeführt,<lb/>
 solange man bei der Stabilität stehen<lb/>
 bleibt.</p>
-<p>Ein Geschehnis ist das Resultat mit-<lb break="no"/>
+                     <p>Ein Geschehnis ist das Resultat mit-<lb break="no"/>
 einander coordinierter moralischer Eigen-<lb break="no"/>
 schaften. Die Coordination moralischer<lb/>
 Qualitäten, die in der Erscheinungsform<lb/>
@@ -152,7 +168,7 @@ des Charakters. Die Charakter-Beurtheilung<lb/>
 bewegte sich in den Adjectivis: »stolz,<lb/>
 ehrlich, gütig« und ähnlichen, sowie in<lb/>
 deren Gegenüberstellungen.</p>
-<p>Als man jedoch später fand, dass der<lb/>
+                     <p>Als man jedoch später fand, dass der<lb/>
 Charakter nicht allein ein Product mora-<lb break="no"/>
 lischer Qualitäten sein könne, wandte man<lb/>
 sich jener Denkweise zu, welche den<lb/>
@@ -160,7 +176,10 @@ Charakter Ausdruck einer Summe quanti-<lb break="no"/>
 tativer Kraftgrößen sein ließ. Der Mensch<lb/>
 galt als das Product der Verhältnisse.<lb/>
 Man folgerte: die quantitative Größe gilt</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

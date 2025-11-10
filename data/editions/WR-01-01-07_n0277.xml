@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-01-01-07_n0277.xml"
-     prev="WR-01-01-07_n0276.xml"
-     next="WR-01-01-07_n0278.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-07_n0277.xml" prev="WR-01-01-07_n0276.xml" next="WR-01-01-07_n0278.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,15 +42,38 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 2</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 1, Halbbd. 1, Nr. 6</title>
+                  <idno>WR-01-01-06_n0201.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 1, Halbbd. 1, Nr. 8</title>
+                  <idno>WR-01-01-08_n0281.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>KRITIK.</title></ab><table><row><cell>
-<milestone unit="untyped-start"/>
-<p>C. Karlweis: Das grobe<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>KRITIK.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="untyped-start"/>
+                     <p>C. Karlweis: Das grobe<lb/>
 Hemd. Als vor zwei Jahren das<lb/>
 Raimund-Theater den »Kleinen<lb/>
 Mann« brachte, schien dem todtge-<lb break="no"/>
@@ -92,8 +112,9 @@ wöhnlich die bösartige Schwieger-<lb break="no"/>
 mutter liefern musste. Es ist immer<lb/>
 misslich, wenn der Humorist dem<lb/>
 Satyriker ins Handwerk pfuscht;</p>
-</cell><cell>
-<p rend="no-intend">letzterer muss das Wesen der<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">letzterer muss das Wesen der<lb/>
 Dinge verstehen, deren Aeusserlich-<lb break="no"/>
 keiten er verspottet. Aber die<lb/>
 Spässchen, mit denen Herr Karl-<lb break="no"/>
@@ -118,14 +139,18 @@ Niemand zugetraut», wie sich kürz-<lb break="no"/>
 lich der erste Wiener »Kenner«<lb/>
 pathetisch äusserte, er, der Mae-<lb break="no"/>
 terlinck in Wien eingeführt hat.<lb/>
-Sic transit <milestone unit="3dots"/> <rs type="person" key=""><hi rend="italics">F. R.</hi></rs></p>
-<milestone unit="untyped-end"/>
-<milestone unit="untyped-start"/>
-<p>K. k. Opernhaus. Schubert-<lb break="no"/>
+Sic transit <milestone unit="3dots"/>
+                        <rs type="person" key="">
+                           <hi rend="italics">F. R.</hi>
+                        </rs>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-start"/>
+                     <p>K. k. Opernhaus. Schubert-<lb break="no"/>
 Feier. »Der vierjährige Posten«,<lb/>
 »Der häusliche Krieg« von Franz<lb/>
 Schubert.</p>
-<p>Mit ihrer Schubert-Feier hat<lb/>
+                     <p>Mit ihrer Schubert-Feier hat<lb/>
 die Oper weder den todten Meister<lb/>
 sehr geehrt noch dem zahlreich<lb/>
 erschienenen Publicum besondere<lb/>
@@ -134,7 +159,10 @@ des »Häuslichen Krieges« war<lb/>
 keine Heldenthat; im Gegentheile:<lb/>
 sie deckte nur Blössen auf: ein<lb/>
 so reizendes Werk, wie dieses,</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

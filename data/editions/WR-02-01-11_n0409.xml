@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-11_n0409.xml"
-     prev="WR-02-01-11_n0408.xml"
-     next="WR-02-01-11_n0410.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-11_n0409.xml" prev="WR-02-01-11_n0408.xml" next="WR-02-01-11_n0410.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,18 +42,48 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 10</title>
+                  <idno>WR-02-01-10_n0361.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 12</title>
+                  <idno>WR-02-01-12_n0441.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">»STUDIA LA MATEMATICA.«</fw><fw type="pn">409</fw></fw><p rend="no-intend">ist, dass das Leben nicht lyrisch sei, und weil du mir’s übel genommen<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">»STUDIA LA MATEMATICA.«</fw>
+               <fw type="pn">409</fw>
+            </fw>
+            <p rend="no-intend">ist, dass das Leben nicht lyrisch sei, und weil du mir’s übel genommen<lb/>
 hättest, weil ich, deiner Thränen halber, eine ehrliche Frau geworden<lb/>
 wäre.« Aber ich habe dich nicht wiedergesehen und sollte dich nicht<lb/>
 wiedersehen. Du studirtest nicht Mathematik. Als Botaniker erinnertest<lb/>
 du dich schmerzhaft, dass du eine schmerzhafte Blume gefunden hattest,<lb/>
-und dass sie geflohen war — und das ist Alles.</p><p>— Der kleine Officier des Palais Royal hatte hingegen Mathe-<lb break="no"/>
+und dass sie geflohen war — und das ist Alles.</p>
+            <p>— Der kleine Officier des Palais Royal hatte hingegen Mathe-<lb break="no"/>
 matik studirt. Als er mich fand, ohne mich zu suchen, bei den eisernen<lb/>
 Thoren, hatte er seine Zärtlichkeit bemessen und berechnet sowie seine<lb/>
 Ansprüche und seine That. Er gab mir nicht zu viel Worte, nicht zu<lb/>
@@ -65,7 +92,8 @@ Seine Jugend war schneidig, seine Brutalität nüchtern. Und seine<lb/>
 Leidenschaft war bestimmt. Er ging fort, und ich sehnte mich nicht<lb/>
 nach ihm. Ich bin für ihn ein gewünschter, nicht zu sehr gewünschter<lb/>
 Zufall gewesen, eine Stunde Herzenserguss, zwei Monate Ruhe und<lb/>
-fruchtbarer Kälte. Ach, die grossen Männer!</p><p>Du kleiner Artillerieofficier, du warst nicht schlecht gegen mich.<lb/>
+fruchtbarer Kälte. Ach, die grossen Männer!</p>
+            <p>Du kleiner Artillerieofficier, du warst nicht schlecht gegen mich.<lb/>
 Du nanntest mich nicht »Prostituirte«, und du beklagtest nicht zu sehr<lb/>
 mein trauriges Los. Du nahmst mich, wie ich war, geschändet, ohne<lb/>
 Cynismus, traurig und lächelnd, mit dem Lächeln meines Standes. Und<lb/>
@@ -95,7 +123,8 @@ den Himmel in den Blumen sterben sieht, und die Blumen dem Himmel<lb/>
 entgegenzittern. Er war derjenige, der Alles verlangt und nichts will.<lb/>
 Der Officier des Palais Royal war derjenige, der nichts verlangt und<lb/>
 Alles will. Welcher von beiden hatte Recht? Beide verstanden es, zu<lb/>
-gemessen und zu leiden, und ich vermuthe, dass sie Brüder waren.</p></div>
+gemessen und zu leiden, und ich vermuthe, dass sie Brüder waren.</p>
+         </div>
       </body>
    </text>
 </TEI>

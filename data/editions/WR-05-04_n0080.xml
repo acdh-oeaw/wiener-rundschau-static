@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-04_n0080.xml"
-     prev="WR-05-04_n0079.xml"
-     next="WR-05-04_n0081.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-04_n0080.xml" prev="WR-05-04_n0079.xml" next="WR-05-04_n0081.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,20 +41,39 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 3</title>
+                  <idno>WR-05-03_n0049.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 5</title>
+                  <idno>WR-05-05_n0097.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BRYK: DIE ÄSTHETISCHE NATURBETRACHTUNG KEPLERS.</fw></fw><table><row><cell>
-<p rend="no-intend"><hi rend="italics">nomicum</hi>“ — eine durch die Mars-Beobach-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BRYK: DIE ÄSTHETISCHE NATURBETRACHTUNG KEPLERS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">
+                        <hi rend="italics">nomicum</hi>“ — eine durch die Mars-Beobach-<lb break="no"/>
 tungen Schiaparellis äußerst wahrschein-<lb break="no"/>
 lich gewordene Hypothese.</p>
-<p>Die ganze Geschichte der Natur-<lb break="no"/>
+                     <p>Die ganze Geschichte der Natur-<lb break="no"/>
 wissenschaft kennt keinen ähnlichen Fall,<lb/>
 bei welchem ein einziger Mann, nur der<lb/>
-<hi rend="text-spaced">Kraft und Schönheit</hi> seiner Welt-<lb break="no"/>
+                        <hi rend="text-spaced">Kraft und Schönheit</hi> seiner Welt-<lb break="no"/>
 auffassung vertrauend, eine solche Fülle<lb/>
 von früher ungeahnten, fruchtbaren Hypo-<lb break="no"/>
 thesen, ohne exacte Begründung, gleichsam<lb/>
@@ -69,7 +85,7 @@ Schriften auszusetzen findet, und was —<lb/>
 gegebenenfalls — allein dem mächtigen<lb/>
 Einflusse eines finsteren Zeitgeistes zu-<lb break="no"/>
 geschrieben werden muss.</p>
-<p>Rein psychologisch betrachtet und<lb/>
+                     <p>Rein psychologisch betrachtet und<lb/>
 losgelöst von seiner wissenschaftlichen<lb/>
 Bedeutung, erscheint Kepler als der<lb/>
 Wenigen Einer, der, gleich Giordano<lb/>
@@ -96,12 +112,13 @@ höchste Erkenntnis erreicht, und ist ohne<lb/>
 jegliches Begehren. So soll das Sonnen-<lb break="no"/>
 system zu einem bewussten Wesen, dem<lb/>
 Empfindungswerte nach Analogie des</p>
-</cell><cell>
-<p rend="no-intend">unserigen zugeschrieben werden. An Stelle<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">unserigen zugeschrieben werden. An Stelle<lb/>
 der mechanischen Natur mit ihren Zug-<lb/>
 und Druckkräften tritt die organische mit<lb/>
 ihren ansteigenden Daseinsstufen.</p>
-<p>Aber auch vom objectiv-wissenschaft-<lb break="no"/>
+                     <p>Aber auch vom objectiv-wissenschaft-<lb break="no"/>
 lichen Standpunkte wird ihm niemand die<lb/>
 höchste Würdigung versagen dürfen:<lb/>
 Entdecker der drei großen Gesetze, die<lb/>
@@ -121,7 +138,7 @@ Gebiete rein <hi rend="text-spaced">methodologischer</hi> Natur-<lb break="no"/>
 beobachtung, die man als der unfrucht-<lb break="no"/>
 baren mystischen Behandlungweise polar<lb/>
 entgegengesetzt zu bezeichnen pflegt.</p>
-<p>Wenn er in manchem geirrt hat, so<lb/>
+                     <p>Wenn er in manchem geirrt hat, so<lb/>
 war er in vielem unendlich groß; während<lb/>
 andere — nach Goethes schöner Bemer-<lb break="no"/>
 kung — wenig irren, aber auch wenig<lb/>
@@ -142,7 +159,12 @@ fische Gewichte, lateinische Namen; alles<lb/>
 — nur keine echte, dem schweren Werke<lb/>
 der Welt-Erklärung frommende Natur-<lb break="no"/>
 wissenschaft.</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/></div>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
       </body>
    </text>
 </TEI>

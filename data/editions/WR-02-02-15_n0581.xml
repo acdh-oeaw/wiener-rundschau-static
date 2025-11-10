@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-15_n0581.xml"
-     prev="WR-02-02-15_n0580.xml"
-     next="WR-02-02-15_n0582.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-15_n0581.xml" prev="WR-02-02-15_n0580.xml" next="WR-02-02-15_n0582.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,31 +42,116 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 14</title>
+                  <idno>WR-02-02-14_n0521.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 16</title>
+                  <idno>WR-02-02-16_n0601.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">SCENE AUS »FANTASIO«.</fw><fw type="pn">581</fw></fw><p rend="no-intend">danken; sein Wesen gehört ihm allein. Ach! die Menschen sagen<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">SCENE AUS »FANTASIO«.</fw>
+               <fw type="pn">581</fw>
+            </fw>
+            <p rend="no-intend">danken; sein Wesen gehört ihm allein. Ach! die Menschen sagen<lb/>
 einander alle das Gleiche; in ihren Gesprächen kehren dieselben Gedanken<lb/>
 fast immer wieder. Aber im Innern dieser einsamen Gedankenfabriken,<lb/>
 wie viel Windungen, wie viel geheimnisvolle Winkel! Eine Welt birgt<lb/>
 jeder in sich, eine heimliche Welt, die lautlos wird und verschwindet!<lb/>
-Wie vereinsamt sind all diese menschlichen Körper!</p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Spark</hi>. Trink’, Träumer, statt Dir den Kopf zu zerbrechen.</p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Fantasio</hi>. Nur eins hat mich seit drei Tagen belustigt: meine<lb/>
+Wie vereinsamt sind all diese menschlichen Körper!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Spark</hi>. Trink’, Träumer, statt Dir den Kopf zu zerbrechen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Fantasio</hi>. Nur eins hat mich seit drei Tagen belustigt: meine<lb/>
 Gläubiger haben einen Haftbefehl gegen mich erwirkt; wie ich den<lb/>
-Fuss in mein Haus setze, werden vier Lümmel mich beim Kragen fassen.</p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Spark</hi>. Sehr unterhaltend in der That. Wo wirst Du heute<lb/>
-nachts schlafen?</p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Fantasio</hi>. Bei der erstbesten. Morgen früh werden meine Möbel<lb/>
-versteigert; wir kaufen doch welche, nicht?</p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Spark</hi>. Brauchst Du Geld, Heinrich? Willst Du meine Börse?</p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Fantasio</hi>. Kind! hätt’ ich kein Geld, ich hätte keine Schulden.<lb/>
-Ich will ein Mädel vom Ballet zur Liebsten nehmen.</p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Spark</hi>. Das wird Dich tödtlich langweilen.</p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Fantasio</hi>. Durchaus nicht; meine Phantasie wird von Pirouetten<lb/>
+Fuss in mein Haus setze, werden vier Lümmel mich beim Kragen fassen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Spark</hi>. Sehr unterhaltend in der That. Wo wirst Du heute<lb/>
+nachts schlafen?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Fantasio</hi>. Bei der erstbesten. Morgen früh werden meine Möbel<lb/>
+versteigert; wir kaufen doch welche, nicht?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Spark</hi>. Brauchst Du Geld, Heinrich? Willst Du meine Börse?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Fantasio</hi>. Kind! hätt’ ich kein Geld, ich hätte keine Schulden.<lb/>
+Ich will ein Mädel vom Ballet zur Liebsten nehmen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Spark</hi>. Das wird Dich tödtlich langweilen.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Fantasio</hi>. Durchaus nicht; meine Phantasie wird von Pirouetten<lb/>
 und kleinen weissen Atlasschuhen erfüllt sein; mein Handschuh wird<lb/>
 vom ersten Januar bis zur Sylvesternacht auf einer Logenbrüstung liegen<lb/>
 und in meinen Traumen werd’ ich Clarinettensoli trillern, bis ich an<lb/>
 meiner Erdbeerleidenschaft in den Armen der Liebsten sterbe. Ist es<lb/>
 Dir noch nie eingefallen, Spark? Wir haben keinen Stand, wir üben<lb/>
-keinen Beruf aus.</p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Spark</hi>. Ist das der Grund Deines Trübsinns?</p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Fantasio</hi>. Bist Du jemals einem melancholischen Fechtmeister<lb/>
-begegnet?</p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Spark</hi>. Du machst mir den Eindruck, als wärest Du über alles hinaus.</p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Fantasio</hi>. Ach Freund, dazu müsste man viel herumge-<lb break="no"/>
-kommen sein!</p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Spark</hi>. Nun also?</p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Fantasio</hi>. Nun also! Wohin soll ich geh’n? Betrachte diese alte<lb/>
+keinen Beruf aus.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Spark</hi>. Ist das der Grund Deines Trübsinns?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Fantasio</hi>. Bist Du jemals einem melancholischen Fechtmeister<lb/>
+begegnet?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Spark</hi>. Du machst mir den Eindruck, als wärest Du über alles hinaus.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Fantasio</hi>. Ach Freund, dazu müsste man viel herumge-<lb break="no"/>
+kommen sein!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Spark</hi>. Nun also?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Fantasio</hi>. Nun also! Wohin soll ich geh’n? Betrachte diese alte<lb/>
 rauchgeschwärzte Stadt! Gibt es einen Platz, eine Gasse, ein Gässchen,<lb/>
 worin ich nicht hundertmal geschlendert wäre? Kein Pflasterstein, über<lb/>
 weichen nicht diese abgenutzten Sohlen schleiften; kein Haus, wo ich<lb/>
@@ -83,7 +165,9 @@ ich, sein einziger Bewohner! In allen Schenken darin hab’ ich mich<lb/>
 bezecht; bin üppig darin gelagert wie ein Despot in goldner Carosse;<lb/>
 bin darin als braver Bürger auf friedsamem Esel getrabt, und ich wag’<lb/>
 es bloss jetzt nicht, mich als Dieb einzuschleichen, eine Blendlaterne<lb/>
-in der Hand.</p><milestone unit="untyped-end"/></div>
+in der Hand.</p>
+            <milestone unit="untyped-end"/>
+         </div>
       </body>
    </text>
 </TEI>

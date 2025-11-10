@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-02_n0029.xml"
-     prev="WR-05-02_n0028.xml"
-     next="WR-05-02_n0030.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-02_n0029.xml" prev="WR-05-02_n0028.xml" next="WR-05-02_n0030.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 1</title>
+                  <idno>WR-05-01_n0001.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 3</title>
+                  <idno>WR-05-03_n0049.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">SWINBURNE: DIE DICHTUNGEN DES DANTE GABRIEL ROSSETTI.</fw></fw><table><row><cell>
-<p>in seiner der Erzählung des Boccaccio<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">SWINBURNE: DIE DICHTUNGEN DES DANTE GABRIEL ROSSETTI.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>in seiner der Erzählung des Boccaccio<lb/>
 nachgebildeten Romanze »<hi rend="italics">Knights Tale</hi>«<lb/>
 gethan hat oder William <hi rend="text-spaced">Morris</hi> in dem<lb/>
 aus einer schon halb verwitterten Legende<lb/>
@@ -105,8 +120,9 @@ Landschaftsschilderung erscheint die Ballade<lb/>
 »<hi rend="italics">Stratten Walter</hi>«; »<hi rend="italics">Card-Dealer</hi>«, gebürt<lb/>
 wegen der Größe und Wucht des Grund-<lb break="no"/>
 gefühls ein besonders hervorragender</p>
-</cell><cell>
-<p>Platz. Ohne das beigefügte Datum hätte<lb/>
+                  </cell>
+                  <cell>
+                     <p>Platz. Ohne das beigefügte Datum hätte<lb/>
 ich das kleine Cabinetstück »<hi rend="italics">My Sisters<lb/>
 Sleep</hi>« für eine Jugendarbeit gehalten. Es<lb/>
 hat das Frische, Trotzig-Unternehmende<lb/>
@@ -116,7 +132,7 @@ kundet freilich die Hand nicht eines<lb/>
 Tastenden, sondern des gereiften Meisters.<lb/>
 Von den Sonetten zu des Dichters eigenen<lb/>
 Gemälden und Skizzen möchte ich der<lb/>
-<hi rend="italics">»Pandora«</hi> die Palme reichen. Die Skizze<lb/>
+                        <hi rend="italics">»Pandora«</hi> die Palme reichen. Die Skizze<lb/>
 des Malers ist ja schon an sich von fast<lb/>
 überirdischer Herrlichkeit. Wie schauer-<lb break="no"/>
 lich-schön ist diese »Pandora«, umzüngelt<lb/>
@@ -126,7 +142,7 @@ jäh geöffneten Büchse stürmen und sich<lb/>
 in blutrothem Flammentanz um das bleiche<lb/>
 Antlitz und die im Winde wehenden<lb/>
 dunklen Haare ringeln! Die wundervollen<lb/>
-<hi rend="text-spaced">Übersetzungen</hi> Rossettis sind bereits<lb/>
+                        <hi rend="text-spaced">Übersetzungen</hi> Rossettis sind bereits<lb/>
 hervorgehoben worden; ich möchte noch-<lb break="no"/>
 mals auf seine Übertragungen des Villon<lb/>
 und anderer französischer Poeten hin-<lb break="no"/>
@@ -160,7 +176,10 @@ setzung nicht wiedergeben. Dieser Dichterin<lb/>
 hat nicht Paris, sondern Apollo selbst den<lb/>
 Apfel vom höchsten Zweige des Baumes<lb/>
 der Kunst und des Lebens gereicht; er</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

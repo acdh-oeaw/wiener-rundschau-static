@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-15_n0584.xml"
-     prev="WR-02-02-15_n0583.xml"
-     next="WR-02-02-15_n0585.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-15_n0584.xml" prev="WR-02-02-15_n0583.xml" next="WR-02-02-15_n0585.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,32 +42,127 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 14</title>
+                  <idno>WR-02-02-14_n0521.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 16</title>
+                  <idno>WR-02-02-16_n0601.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">584</fw><fw type="ctext">MUSSET.</fw></fw><milestone unit="speech-start"/><p><hi rend="text-spaced">Spark</hi>. Du solltest Dich verlieben, Heinrich, Du wärst der<lb/>
-Glücklichste unter der Sonne.</p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Fantasio</hi>. Es gibt keine Liebe mehr, mein guter Freund. Die<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">584</fw>
+               <fw type="ctext">MUSSET.</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Spark</hi>. Du solltest Dich verlieben, Heinrich, Du wärst der<lb/>
+Glücklichste unter der Sonne.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Fantasio</hi>. Es gibt keine Liebe mehr, mein guter Freund. Die<lb/>
 Brüste der Religion, ihrer Amme, sind schlaff wie eine alte Börse, auf<lb/>
 deren Grund ein grosses Kupferstück liegt. Die Liebe ist eine Hostie,<lb/>
 welche man vor einem Altar entzweibrechen und in einem Kuss zusammen<lb/>
 verschlucken muss. Es gibt keinen Altar mehr und keine Liebe. Hoch<lb/>
-die Natur! Noch gibt es Wein. (Er trinkt.)</p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Spark</hi>. Du wirst Dich betrinken.</p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Fantasio</hi>. Ich werde mich betrinken, wie Du sagst.</p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Spark</hi>. Dazu ist es ein wenig zu spät.</p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Fantasio</hi>. Was nennst Du spät? Ist Mittag spät, Mitternacht<lb/>
+die Natur! Noch gibt es Wein. (Er trinkt.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Spark</hi>. Du wirst Dich betrinken.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Fantasio</hi>. Ich werde mich betrinken, wie Du sagst.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Spark</hi>. Dazu ist es ein wenig zu spät.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Fantasio</hi>. Was nennst Du spät? Ist Mittag spät, Mitternacht<lb/>
 früh? Woher nimmst Du Deine Berechnung der Zeit? Bleiben wir hier,<lb/>
 Spark, ich bitte Dich. Wir wollen trinken, plaudern, philosophieren,<lb/>
 Unsinn schwatzen und politisieren; combinieren wir die Regierung,<lb/>
 fangen wir alle Maikäfer, welche diese Kerze umschwirren und stecken<lb/>
 wir sie in die Tasche. Weisst Du, dass die Kanonen eine schöne<lb/>
-Erfindung für Philanthropen sind?</p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Spark</hi>. Inwiefern?</p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Fantasio</hi>. Es war einmal ein König; der war sehr weise, sehr<lb/>
-weise, sehr glücklich, sehr glücklich <milestone unit="3dots"/></p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Spark</hi>. Weiter.</p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Fantasio</hi>. Ihm fehlte nur eines zu seinem Glück — Kinder.<lb/>
-Er liess in allen Moscheen öffentliche Gebete abhalten.</p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Spark</hi>. Wo willst Du hinaus?</p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Fantasio</hi>. Ich denk’ an mein geliebtes Tausend und eine Nacht.<lb/>
+Erfindung für Philanthropen sind?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Spark</hi>. Inwiefern?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Fantasio</hi>. Es war einmal ein König; der war sehr weise, sehr<lb/>
+weise, sehr glücklich, sehr glücklich <milestone unit="3dots"/>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Spark</hi>. Weiter.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Fantasio</hi>. Ihm fehlte nur eines zu seinem Glück — Kinder.<lb/>
+Er liess in allen Moscheen öffentliche Gebete abhalten.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Spark</hi>. Wo willst Du hinaus?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Fantasio</hi>. Ich denk’ an mein geliebtes Tausend und eine Nacht.<lb/>
 So beginnen die Märchen alle. Siehst Du, Spark, nun bin ich betrunken.<lb/>
-Ich muss mir Luft machen. Tra la, tra la! Auf, erheben wir uns!</p><p>(Ein Leichenzug zieht vorbei.)</p><p>Ha! Gute Leute, wen begrabt Ihr da? Jetzt ist nicht die Stunde<lb/>
-für ein Begräbnis.</p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Die Träger</hi>. Wir begraben Saint-Jean.</p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Fantasio</hi>. Saint-Jean ist todt? Der Narr des Königs ist todt?<lb/>
-Wer hat seine Stelle eingenommen — der Justizminister?</p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Die Träger</hi>. Sein Platz ist frei. Ihr könnt ihn einnehmen, wenn<lb/>
-Ihr wollt. (Sie gehen weiter.)</p><milestone unit="untyped-end"/><milestone unit="untyped-end"/><milestone unit="untyped-end"/><milestone unit="hr"/></div>
+Ich muss mir Luft machen. Tra la, tra la! Auf, erheben wir uns!</p>
+            <p>(Ein Leichenzug zieht vorbei.)</p>
+            <p>Ha! Gute Leute, wen begrabt Ihr da? Jetzt ist nicht die Stunde<lb/>
+für ein Begräbnis.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Die Träger</hi>. Wir begraben Saint-Jean.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Fantasio</hi>. Saint-Jean ist todt? Der Narr des Königs ist todt?<lb/>
+Wer hat seine Stelle eingenommen — der Justizminister?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Die Träger</hi>. Sein Platz ist frei. Ihr könnt ihn einnehmen, wenn<lb/>
+Ihr wollt. (Sie gehen weiter.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
       </body>
    </text>
 </TEI>

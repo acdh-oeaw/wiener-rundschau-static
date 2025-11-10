@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-09_n0199.xml"
-     prev="WR-05-09_n0198.xml"
-     next="WR-05-09_n0200.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-09_n0199.xml" prev="WR-05-09_n0198.xml" next="WR-05-09_n0200.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 8</title>
+                  <idno>WR-05-08_n0159.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 10</title>
+                  <idno>WR-05-10_n0205.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">SCHMITT: HERBERT SPENCERS SYNTHETISCHE PHILOSOPHIE.</fw></fw><table><row><cell>
-<p rend="no-intend">willkürlich, wenn wir der einen oder der<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">SCHMITT: HERBERT SPENCERS SYNTHETISCHE PHILOSOPHIE.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">willkürlich, wenn wir der einen oder der<lb/>
 anderen Sorte von Erscheinungen, entweder<lb/>
 der endlichsinnlichen oder der universellen,<lb/>
 einseitig den Charakter der Ursprünglichkeit<lb/>
@@ -73,7 +88,7 @@ sinnliche gelten, <hi rend="text-spaced">sensualistisch-<lb break="no"/>
 naturalistisch</hi>. Die zweite Art der<lb/>
 Metaphysik wird als die idealistische<lb/>
 bezeichnet.</p>
-<p>Nun ist es aber ganz offenbar, dass<lb/>
+                     <p>Nun ist es aber ganz offenbar, dass<lb/>
 die sogenannte positivistische Schule hier<lb/>
 die erstere Partei ergriffen hat. Schon<lb/>
 Comte stellte die metaphysische Be-<lb break="no"/>
@@ -81,7 +96,8 @@ hauptung auf, dass die universellen Formen<lb/>
 des Bewusstseins bloße Abstractionen aus<lb/>
 dem Material sinnlicher Wahrnehmung<lb/>
 seien, und war mit diesem Schritte viel<lb/>
-weniger vorsichtig als Kant. Stuart <hi rend="text-spaced">Mill</hi><lb/>
+weniger vorsichtig als Kant. Stuart <hi rend="text-spaced">Mill</hi>
+                        <lb/>
 versuchte auf dieser Basis den Aufbau<lb/>
 einer inductiven Logik, die allerdings sich<lb/>
 als hölzernes Eisen erweisen muss, sofern<lb/>
@@ -105,8 +121,9 @@ lichkeit gilt und der Boden der Vernunft,<lb/>
 der einzig sichere Boden, unter den Füßen<lb/>
 dieses Positivismus wankend wird, ist es<lb/>
 begreiflich, dass sich in der geschicht-</p>
-</cell><cell>
-<p rend="no-intend">lichen Entwicklung, wie im Leben über-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">lichen Entwicklung, wie im Leben über-<lb break="no"/>
 haupt, wieder die Gegensätze berühren,<lb/>
 und das Thor der Phantasie und Phan-<lb break="no"/>
 tastik, das eben diese Positivisten sich an-<lb break="no"/>
@@ -120,7 +137,7 @@ Spiritisten und Occultisten wieder ihren<lb/>
 Einzug halten in diese große Auf-<lb break="no"/>
 erstehung der Todten, die wir Welt-<lb break="no"/>
 geschichte nennen.</p>
-<p>Spencer ist nun ganz in diesem Bann-<lb break="no"/>
+                     <p>Spencer ist nun ganz in diesem Bann-<lb break="no"/>
 kreise befangen, dessen Grundlinien von<lb/>
 Comte und Mill verzeichnet worden sind,<lb/>
 und versucht, die Ableitung der Welt der<lb/>
@@ -152,7 +169,7 @@ während ein solcher Agnosticismus nur<lb/>
 den Bankerott einer veralteten Welt-<lb break="no"/>
 anschauung in verdienstlicher Weise<lb/>
 demonstriert.</p>
-<p>Die biologisch-darwinistische Seite<lb/>
+                     <p>Die biologisch-darwinistische Seite<lb/>
 dieser Philosophie, um deren Ausarbeitung<lb/>
 sich Spencer in ganz besonderer Weise<lb/>
 verdient gemacht hat, bedeutet daher auch<lb/>
@@ -160,7 +177,10 @@ nichts anderes als den Versuch, die Fülle<lb/>
 des organischen Lebens in seiner lebendigen<lb/>
 Einheit ebenso wie des geistigen Lebens,<lb/>
 welches als Blüte und Gipfelpunkt des</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

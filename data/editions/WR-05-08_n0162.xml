@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-08_n0162.xml"
-     prev="WR-05-08_n0161.xml"
-     next="WR-05-08_n0163.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-08_n0162.xml" prev="WR-05-08_n0161.xml" next="WR-05-08_n0163.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,20 +41,39 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 7</title>
+                  <idno>WR-05-07_n0141.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 9</title>
+                  <idno>WR-05-09_n0189.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">MAETERLINCK: DER GEIST DER BIENEN.</fw></fw><table><row><cell>
-<p rend="no-intend">sollten, die Wahrheit herbeizuwünschen<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MAETERLINCK: DER GEIST DER BIENEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">sollten, die Wahrheit herbeizuwünschen<lb/>
 und zu suchen. Ich will hier nicht auf-<lb break="no"/>
 zählen, was die Bienenkunde ihm alles<lb/>
 verdankt, ich konnte leichter sagen,<lb/>
 was sie ihm nicht verdankt. Seine »Nou-<lb break="no"/>
 velles observations sur les Abeilles«,<lb/>
-von denen der erste Band im Jahre <date>1789</date><lb/>
+von denen der erste Band im Jahre <date>1789</date>
+                        <lb/>
 in Form von Briefen an Charles Bonnet<lb/>
 erschien — der zweite folgte erst<lb/>
 25 Jahre später — sind der unerschöpf-<lb break="no"/>
@@ -73,8 +89,10 @@ Hauptbeobachtungen ist widerlegt oder<lb/>
 als irrig erwiesen worden; sie sind im<lb/>
 Gegentheil die Grundlage unseres heu-<lb break="no"/>
 tigen Wissens.</p>
-<ab><title>III.</title></ab>
-<p>Nach Hubers Entdeckungen herrscht<lb/>
+                     <ab>
+                        <title>III.</title>
+                     </ab>
+                     <p>Nach Hubers Entdeckungen herrscht<lb/>
 einige Jahre Schweigen, aber bald ent-<lb break="no"/>
 deckt ein deutscher Bienenzüchter, der<lb/>
 Pfarrer Dzierzon, die jungfräuliche Zeu-<lb break="no"/>
@@ -103,8 +121,9 @@ ihren Bedürfnissen anpassten, während<lb/>
 Major von Hruschka die Honigschleuder<lb/>
 erfand, eine Centrifugalmaschine, die<lb/>
 den Honig ausschleudert, ohne dass</p>
-</cell><cell>
-<p rend="no-intend">die Waben zerstört werden. Damit er-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">die Waben zerstört werden. Damit er-<lb break="no"/>
 öffnet sich eine neue Periode der Bienen-<lb break="no"/>
 zucht. Die Kästen sind von dreifachem<lb/>
 Fassungsvermögen und dreifacher Er-<lb break="no"/>
@@ -158,7 +177,10 @@ und sind nur darauf bedacht, in uner-<lb break="no"/>
 müdlicher Selbstverleugnung die geheim-<lb break="no"/>
 nisvolle Pflicht gegen die Gattung zu<lb/>
 erfüllen.</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

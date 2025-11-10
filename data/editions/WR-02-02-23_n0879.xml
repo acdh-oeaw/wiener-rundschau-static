@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-23_n0879.xml"
-     prev="WR-02-02-23_n0878.xml"
-     next="WR-02-02-23_n0880.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-23_n0879.xml" prev="WR-02-02-23_n0878.xml" next="WR-02-02-23_n0880.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,13 +42,42 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 22</title>
+                  <idno>WR-02-02-22_n0825.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 24</title>
+                  <idno>WR-02-02-24_n0905.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">EMILY BRONTÉ.</fw><fw type="pn">879</fw></fw><p>Und doch wissen wir — denn es ist nichts verborgen in diesem<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">EMILY BRONTÉ.</fw>
+               <fw type="pn">879</fw>
+            </fw>
+            <p>Und doch wissen wir — denn es ist nichts verborgen in diesem<lb/>
 armen Leben — dass sie keinen Menschen liebte und dass niemand<lb/>
 sie liebte. Es ist also wahr, dass das letzte Wort eines Daseins ein<lb/>
 Wort ist, welches das Schicksal im geheimsten Grunde unseres Herzens<lb/>
@@ -78,7 +104,8 @@ in der Leidenschaft, in der Freude vergeht, so hatte sie alles, was<lb/>
 von menschlichen Regungen bleibt, nachdem jene nicht mehr sind.<lb/>
 Welcher von beiden wird wirklich etwas besessen haben, der Blinde,<lb/>
 der ein Feenschloss bewohnt, oder der, welcher nur ein einzigesmal<lb/>
-in diesen Palast gekommen ist, aber dies mit offenen Augen?</p><p>»Sein oder Nichtsein.« — Lassen wir uns durch Worte nicht<lb/>
+in diesen Palast gekommen ist, aber dies mit offenen Augen?</p>
+            <p>»Sein oder Nichtsein.« — Lassen wir uns durch Worte nicht<lb/>
 irre führen. Es ist vollständig möglich, ohne Denken zu existieren,<lb/>
 aber es ist nicht möglich, zu denken, ohne zu leben. Das glückliche<lb/>
 oder unglückliche Wesen eines Ereignisses liegt in <hi rend="text-spaced">der</hi> Vorstellung,<lb/>
@@ -88,14 +115,16 @@ Es ist möglich, dass tausend physische Ereignisse dir längs deiner<lb/>
 Strasse bis zum Grabe entgegenkommen, und dass keines davon die<lb/>
 Kraft findet, deren es bedürfte, um sich in ein moralisches Ereignis<lb/>
 zu verwandeln. Dann allein kann der Mensch sich sagen: »Ich habe<lb/>
-vielleicht nicht gelebt!«</p><p>Auch können wir sagen, dass das innere Glück unserer Heldin —<lb/>
+vielleicht nicht gelebt!«</p>
+            <p>Auch können wir sagen, dass das innere Glück unserer Heldin —<lb/>
 wie <hi rend="text-spaced">das</hi> eines jeden Wesens — sich ganz genau in seiner Moral<lb/>
 und Weltanschauung wiederspiegelt. Dies ist die Lichtung im Walde<lb/>
 der Zufälle, die man am Ende jedes Lebens messen sollte, um die<lb/>
 Ausdehnung eines Glückes zu schätzen. Und wer könnte noch jene<lb/>
 kleinen Thränen über die Täuschungen, Unruhe und Trübsale des<lb/>
 Alltags vergiessen, die allein schmerzlich sind, da sie, statt zu erfrischen,<lb/>
-den Blick vergrämen; wer könnte sie noch vergiessen auf den Höhen</p></div>
+den Blick vergrämen; wer könnte sie noch vergiessen auf den Höhen</p>
+         </div>
       </body>
    </text>
 </TEI>

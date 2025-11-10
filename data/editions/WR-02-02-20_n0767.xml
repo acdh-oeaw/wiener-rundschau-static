@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-20_n0767.xml"
-     prev="WR-02-02-20_n0766.xml"
-     next="WR-02-02-20_n0768.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-20_n0767.xml" prev="WR-02-02-20_n0766.xml" next="WR-02-02-20_n0768.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,16 +42,46 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 19</title>
+                  <idno>WR-02-02-19_n0713.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 21</title>
+                  <idno>WR-02-02-21_n0785.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">DIE NAZARENER.</fw><fw type="pn">767</fw></fw><p rend="no-intend">Muskeln etc. an. Mit der Farbe aber blieb’s bei ihnen ein wahres Elend.<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DIE NAZARENER.</fw>
+               <fw type="pn">767</fw>
+            </fw>
+            <p rend="no-intend">Muskeln etc. an. Mit der Farbe aber blieb’s bei ihnen ein wahres Elend.<lb/>
 Das Resultat dieser Bestrebungen ist leicht zu berechnen: erkünstelte,<lb/>
 primitive Empfindung, conventionelle Zeichnung und vollständiger<lb/>
-Mangel an Farbensinn.</p><p>Das ist so in Kurzem der Sinn dessen, was heute noch über<lb/>
+Mangel an Farbensinn.</p>
+            <p>Das ist so in Kurzem der Sinn dessen, was heute noch über<lb/>
 die Nazarener geschrieben wird (wofern man es überhaupt der Mühe<lb/>
 wert findet, über sie zu schreiben). Dass man auf diese Art keinen<lb/>
 besonderen Respect vor ihnen bekommen kann, ist selbstverständlich.<lb/>
@@ -67,13 +94,15 @@ in der modernen Kunstgeschichte überhaupt nur zum Zwecke einer<lb/>
 heilsamen Abschreckung weiter, aber ich glaube trotzdem, dass es für<lb/>
 uns Deutsche keine so unglaubliche Erniedrigung ist, für diese einzigen<lb/>
 deutschen Künstler, die es seit Dürer’s Zeiten gegeben, ein Wort der<lb/>
-Anerkennung oder doch wenigstens Entschuldigung zu finden.</p><p>Sie gehören ja gewiss nicht zu denen, die die Technik der Kunst<lb/>
+Anerkennung oder doch wenigstens Entschuldigung zu finden.</p>
+            <p>Sie gehören ja gewiss nicht zu denen, die die Technik der Kunst<lb/>
 vorwärts schieben, die die Maler »scharf schauen« lehren und alle diese<lb/>
 wertvollen Dinge, durch die z. B. Menzel gross geworden ist. Ob man<lb/>
 die Natur nach dem Recept Ruskins oder als Impressionist malen soll,<lb/>
 ist ihnen sogar total gleichgiltig. Aber dafür haben sie etwas anderes,<lb/>
 was wieder der grosse Menzel absolut nicht hat; ihre Bilder sagen<lb/>
-einem doch wenigstens etwas.</p><p>Ich finde, dass es für den Nichtmaler nichts langweiligeres und<lb/>
+einem doch wenigstens etwas.</p>
+            <p>Ich finde, dass es für den Nichtmaler nichts langweiligeres und<lb/>
 gleichgiltigeres gibt, als Bilder von Menzel. Sie mögen vortrefflich<lb/>
 gemalt, und vor allem sehr »scharf geschaut« sein, aber was geht<lb/>
 denn mich das alles an? Diese Arbeiter in der Schmiede, diese Pro-<lb break="no"/>
@@ -94,7 +123,8 @@ Zunftgenossen; denn obendrein ist dann dieses Handwerk ein furchtbar<lb/>
 überflüssiges, das eine Concurrenz mit Schustern und Schneidern<lb/>
 unmöglich aushalten könnte. In Cornelius und den Nazarenern aber<lb/>
 ist die Kunst wirklich Kunst, diese Leute sind nicht nur Maler, sondern<lb/>
-auch Menschen, die uns etwas zu sagen haben. Wer einmal in München</p></div>
+auch Menschen, die uns etwas zu sagen haben. Wer einmal in München</p>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-06_n0133.xml"
-     prev="WR-05-06_n0132.xml"
-     next="WR-05-06_n0134.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-06_n0133.xml" prev="WR-05-06_n0132.xml" next="WR-05-06_n0134.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 5</title>
+                  <idno>WR-05-05_n0097.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 7</title>
+                  <idno>WR-05-07_n0141.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">HARTMANN: DIE GEHEIME BEDEUTUNG DES KREUZES.</fw></fw><table><row><cell>
-<p>In der That stellt diese Leidensge-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">HARTMANN: DIE GEHEIME BEDEUTUNG DES KREUZES.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>In der That stellt diese Leidensge-<lb break="no"/>
 schichte eine ewige Wahrheit dar; eine<lb/>
 Thatsache, die nicht nur einmal in Palä-<lb break="no"/>
 stina geschehen ist, sondern sich beständig<lb/>
@@ -70,7 +85,7 @@ Wort, welches Gott ist, ist »alles ge-<lb break="no"/>
 macht, was gemacht ist«; es ist die Ur-<lb break="no"/>
 kraft aller Evolution und ohne dasselbe<lb/>
 ist nichts entstanden (Johannes I, 1—3).</p>
-<p>Das Kreuz bedeutet das Herabsteigen<lb/>
+                     <p>Das Kreuz bedeutet das Herabsteigen<lb/>
 des Geistes in die Materie. Der horizon-<lb break="no"/>
 tale Strich deutet das Reich des Materiellen<lb/>
 an, der senkrechte Strich den durch-<lb break="no"/>
@@ -99,14 +114,15 @@ eine Rose an, als Sinnbild der Weisheit,<lb/>
 die durch den Einfluss der göttlichen<lb/>
 Liebe im Herzen des Menschen erblüht<lb/>
 und sich offenbart.</p>
-<p>Diese Erweckung des Gottesbewusst-<lb break="no"/>
+                     <p>Diese Erweckung des Gottesbewusst-<lb break="no"/>
 seins im Menschen ist seine Erlösung. Sie ist<lb/>
 aber auch nöthig, um diese Vorgänge nicht<lb/>
 bloß als Theorien aufzufassen, sondern<lb/>
 sie richtig zu begreifen und praktisch<lb/>
 zu erleben. Deshalb gehören diese Lehren</p>
-</cell><cell>
-<p rend="no-intend">auch nicht der alltäglichen Wissenschaft<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">auch nicht der alltäglichen Wissenschaft<lb/>
 an, und eine dürre philosophische oder<lb/>
 theologische Speculation bringt kein wahres<lb/>
 Verständnis dafür, wohl aber die eigene<lb/>
@@ -124,7 +140,7 @@ der Wahrheit durchdrungen, erleuchtet<lb/>
 und innerlich erweckt wurden, und dadurch<lb/>
 auf eine höhere Stufe der Evolution und<lb/>
 Selbsterkenntnis gelangt sind.</p>
-<p>Die Weisen und Heiligen aller Völker,<lb/>
+                     <p>Die Weisen und Heiligen aller Völker,<lb/>
 die indischen Yogis sowohl, als die Budd-<lb break="no"/>
 histen und christlichen Mystiker lehren,<lb/>
 dass im Laufe der großen Evolution des<lb/>
@@ -153,14 +169,17 @@ und Offenbarung, Eins, wenn das Wort<lb/>
 die Offenbarung des Gedankens ist und<lb/>
 der Gedanke durch das Wort zur That<lb/>
 wird.</p>
-<p>Wie C. P. Heinrich in seinem »Ge-<lb break="no"/>
+                     <p>Wie C. P. Heinrich in seinem »Ge-<lb break="no"/>
 setz des Lebens« durch Anführung ver-<lb break="no"/>
 schiedener Bibelstellen nachgewiesen hat,<lb/>
 ist »der <hi rend="text-spaced">Vater</hi> der allerheiligste, reinste<lb/>
 Urgedanke, der Inbegriff alles Seins, die Ur-<lb break="no"/>
 quelle und Gnadensonne der reinsten Liebe<lb/>
 und Weisheit, der Mittelpunkt alles Lebens,</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

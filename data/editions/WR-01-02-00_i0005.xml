@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-01-02-00_i0005.xml"
-     prev="WR-01-02-00_i0004.xml"
-     next="WR-01-02-00_i0006.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-00_i0005.xml" prev="WR-01-02-00_i0004.xml" next="WR-01-02-00_i0006.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,105 +42,271 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 2</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 1, Halbbd. 1, Nr. 12</title>
+                  <idno>WR-01-01-12_n0441.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 1, Halbbd. 2, Nr. 13</title>
+                  <idno>WR-01-02-13_n0481.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">INHALTS-VERZEICHNISS.</fw></fw><table>
-<row><cell>
-</cell><cell>Seite
-</cell></row>
-<row><cell><hi rend="text-spaced">Schmidkunz</hi>, Dr. Hans, Zum Umbau Wiens <milestone unit="dots"/> 
-</cell><cell>Nr. <hi rend="strong">22,</hi> 856
-</cell></row>
-<row><cell><hi rend="text-spaced">Schmitz</hi>, Oscar A. H., Blanche <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">14,</hi> 526
-</cell></row>
-<row><cell>    Gedicht <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">19,</hi> 741
-</cell></row>
-<row><cell>    Succubus <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">20,</hi> 760
-</cell></row>
-<row><cell>    Selene <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">22,</hi> 836
-</cell></row>
-<row><cell>    Die junge Generation <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">24,</hi> 921
-</cell></row>
-<row><cell><hi rend="text-spaced">Soulier</hi>, Gaston, Zu einem Bild von Holman Hunt <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">22,</hi> 836
-</cell></row>
-<row><cell><hi rend="text-spaced">Strauss</hi>, Rudolf, Die wahre Bashkirtscheff <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">15,</hi> 585
-</cell></row>
-<row><cell>  Anton Tschechow <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">22,</hi> 851
-</cell></row>
-<row><cell><hi rend="text-spaced">Tschechoff</hi>, Anton, Der Lehrer <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">13,</hi> 482
-</cell></row>
-<row><cell>    <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">14,</hi> 532
-</cell></row>
-<row><cell>    <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">16,</hi> 612
-</cell></row>
-<row><cell><hi rend="text-spaced">Veber</hi>, Pierre, Die wahre Geschichte von Josua <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">22,</hi> 861
-</cell></row>
-<row><cell><hi rend="text-spaced">Vogüé</hi>, E. M. de, Der Abgeordnete D’Annunzio <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">23,</hi> 881
-</cell></row>
-<row><cell><hi rend="text-spaced">Wassermann</hi>, Jakob, Fragen <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">19,</hi> 728
-</cell></row>
-<row><cell><hi rend="text-spaced">Weisengrün</hi>, Dr. Paul, Gegen die Emancipation des Weibes <milestone unit="dots"/>
-</cell><cell> <hi rend="strong">13,</hi> 503
-</cell></row>
-<row><cell><hi rend="text-spaced">Whitman</hi>, Walt, Ein Sonnenbad <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">16,</hi> 608
-</cell></row>
-<row><cell>  Die Eiche und ich <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">16,</hi> 610
-</cell></row>
-<row><cell><hi rend="text-spaced">Wilde</hi>, Oscar, Künstler und Publicum <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">13,</hi> 496
-</cell></row>
-<row><cell><hi rend="text-spaced">Wilhelm</hi>, Paul, Carl Wilhelm Diefenbach <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">16,</hi> 634
-</cell></row>
-<row><cell><hi rend="text-spaced">Zenker</hi>, Ernst Victor, Henry George <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">24,</hi> 929
-</cell></row>
-<row><cell><hi rend="text-spaced">Zerboglio</hi>, Prof. Adolfo, Zur Psychologie des Kerkerlebens <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">15,</hi> 579
-</cell></row>
-<row><cell><ab><title>KRITIK.</title></ab>
-</cell></row>
-<row><cell><ab><title><hi rend="strong">Theater-Besprechungen.</hi></title></ab>
-</cell></row>
-<row><cell>Hof-Operntheater <milestone unit="dots"/>
-</cell><cell>Nr. <hi rend="strong">15,</hi> S. 557, Nr. <hi rend="strong">23,</hi> S. 900
-</cell></row>
-<row><cell>Deutsches Volkstheater <milestone unit="dots"/>
-</cell><cell>Nr. <hi rend="strong">15,</hi> S. 556, Nr. <hi rend="strong">21,</hi> S. 825, Nr. <hi rend="strong">23,</hi> S. 901
-</cell></row>
-<row><cell>Raimund-Theater 
-</cell><cell>Nr. <hi rend="strong">13,</hi> S. 517, Nr. <hi rend="strong">14,</hi> S. 555, Nr. <hi rend="strong">21,</hi> S. 825, Nr. <hi rend="strong">22,</hi> S. 862<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">INHALTS-VERZEICHNISS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+</cell>
+                  <cell>Seite
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Schmidkunz</hi>, Dr. Hans, Zum Umbau Wiens <milestone unit="dots"/>
+                  </cell>
+                  <cell>Nr. <hi rend="strong">22,</hi> 856
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Schmitz</hi>, Oscar A. H., Blanche <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">14,</hi> 526
+</cell>
+               </row>
+               <row>
+                  <cell>    Gedicht <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">19,</hi> 741
+</cell>
+               </row>
+               <row>
+                  <cell>    Succubus <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">20,</hi> 760
+</cell>
+               </row>
+               <row>
+                  <cell>    Selene <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">22,</hi> 836
+</cell>
+               </row>
+               <row>
+                  <cell>    Die junge Generation <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">24,</hi> 921
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Soulier</hi>, Gaston, Zu einem Bild von Holman Hunt <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">22,</hi> 836
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Strauss</hi>, Rudolf, Die wahre Bashkirtscheff <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">15,</hi> 585
+</cell>
+               </row>
+               <row>
+                  <cell>  Anton Tschechow <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">22,</hi> 851
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Tschechoff</hi>, Anton, Der Lehrer <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">13,</hi> 482
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">14,</hi> 532
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">16,</hi> 612
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Veber</hi>, Pierre, Die wahre Geschichte von Josua <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">22,</hi> 861
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Vogüé</hi>, E. M. de, Der Abgeordnete D’Annunzio <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">23,</hi> 881
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Wassermann</hi>, Jakob, Fragen <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">19,</hi> 728
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Weisengrün</hi>, Dr. Paul, Gegen die Emancipation des Weibes <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">13,</hi> 503
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Whitman</hi>, Walt, Ein Sonnenbad <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">16,</hi> 608
+</cell>
+               </row>
+               <row>
+                  <cell>  Die Eiche und ich <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">16,</hi> 610
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Wilde</hi>, Oscar, Künstler und Publicum <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">13,</hi> 496
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Wilhelm</hi>, Paul, Carl Wilhelm Diefenbach <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">16,</hi> 634
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Zenker</hi>, Ernst Victor, Henry George <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">24,</hi> 929
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Zerboglio</hi>, Prof. Adolfo, Zur Psychologie des Kerkerlebens <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">15,</hi> 579
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <ab>
+                        <title>KRITIK.</title>
+                     </ab>
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <ab>
+                        <title>
+                           <hi rend="strong">Theater-Besprechungen.</hi>
+                        </title>
+                     </ab>
+                  </cell>
+               </row>
+               <row>
+                  <cell>Hof-Operntheater <milestone unit="dots"/>
+                  </cell>
+                  <cell>Nr. <hi rend="strong">15,</hi> S. 557, Nr. <hi rend="strong">23,</hi> S. 900
+</cell>
+               </row>
+               <row>
+                  <cell>Deutsches Volkstheater <milestone unit="dots"/>
+                  </cell>
+                  <cell>Nr. <hi rend="strong">15,</hi> S. 556, Nr. <hi rend="strong">21,</hi> S. 825, Nr. <hi rend="strong">23,</hi> S. 901
+</cell>
+               </row>
+               <row>
+                  <cell>Raimund-Theater 
+</cell>
+                  <cell>Nr. <hi rend="strong">13,</hi> S. 517, Nr. <hi rend="strong">14,</hi> S. 555, Nr. <hi rend="strong">21,</hi> S. 825, Nr. <hi rend="strong">22,</hi> S. 862<lb/>
 Nr. <hi rend="strong">24,</hi> S. 944
-</cell></row>
-<row><cell>Carltheater <milestone unit="dots"/>
-</cell><cell>Nr. <hi rend="strong">22,</hi> S. 862, Nr. <hi rend="strong">24,</hi> S. 944
-</cell></row>
-<row><cell>Theater an der Wien <milestone unit="dots"/>
-</cell><cell>Nr. <hi rend="strong">13,</hi> S. 516, Nr. <hi rend="strong">23,</hi> S. 902
-</cell></row>
-<row><cell><ab><title><hi rend="strong">Bücher.</hi></title></ab>
-</cell></row>
-<row><cell><hi rend="text-spaced">Bang</hi>, »Die vier Teufel« Nr. <hi rend="strong">15,</hi> S. 558; <hi rend="text-spaced">Bleibtreu</hi>, »Byron der Uebermensch«
+</cell>
+               </row>
+               <row>
+                  <cell>Carltheater <milestone unit="dots"/>
+                  </cell>
+                  <cell>Nr. <hi rend="strong">22,</hi> S. 862, Nr. <hi rend="strong">24,</hi> S. 944
+</cell>
+               </row>
+               <row>
+                  <cell>Theater an der Wien <milestone unit="dots"/>
+                  </cell>
+                  <cell>Nr. <hi rend="strong">13,</hi> S. 516, Nr. <hi rend="strong">23,</hi> S. 902
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <ab>
+                        <title>
+                           <hi rend="strong">Bücher.</hi>
+                        </title>
+                     </ab>
+                  </cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Bang</hi>, »Die vier Teufel« Nr. <hi rend="strong">15,</hi> S. 558; <hi rend="text-spaced">Bleibtreu</hi>, »Byron der Uebermensch«
 Nr. <hi rend="strong">21,</hi> S. 827; <hi rend="text-spaced">Brachvogel</hi>, »Der Erntetag und Anderes« Nr. <hi rend="strong">21,</hi> S. 827;
 <hi rend="text-spaced">Croissant</hi>-<hi rend="text-spaced">Rust</hi>, »Der Bua« Nr. <hi rend="strong">18,</hi> S. 714; <hi rend="text-spaced">Dahlmann</hi>, »Briefe eines jungen
 Deutschen« Nr. <hi rend="strong">16,</hi> S. 637; D’<hi rend="text-spaced">Arc</hi>, »La steppe« Nr. <hi rend="strong">15,</hi> S. 598; <hi rend="text-spaced">Hallström</hi>,
@@ -153,8 +316,10 @@ Nr. <hi rend="strong">13,</hi> S. 517; <hi rend="text-spaced">Nansen</hi>, »Aus
 <hi rend="text-spaced">Pastor</hi>, »Wana« Nr. <hi rend="strong">16,</hi> S. 637; <hi rend="text-spaced">Rosmer</hi>, »Themistokles« Nr. <hi rend="strong">23,</hi> S. 903;
 <hi rend="text-spaced">Siebenlist</hi>, »Gespenster der Erinnerung« Nr. <hi rend="strong">16,</hi> S. 639; <hi rend="text-spaced">Stucken</hi>, »Yrsa«
 Nr. 19, S. 750; <hi rend="text-spaced">Svoboda</hi>, »Gestalten des Glaubens« Nr. <hi rend="strong">16,</hi> S. 640; <hi rend="text-spaced">Szcze</hi>-
-</cell></row>
-</table></div>
+</cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

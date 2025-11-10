@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-05_n0110.xml"
-     prev="WR-05-05_n0109.xml"
-     next="WR-05-05_n0111.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-05_n0110.xml" prev="WR-05-05_n0109.xml" next="WR-05-05_n0111.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,15 +41,34 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 4</title>
+                  <idno>WR-05-04_n0077.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 6</title>
+                  <idno>WR-05-06_n0115.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>KEUSCHHEIT UND PRODUCTIVITÄT.<lb/>
-Von <rs type="person" key="">HEINRICH PUDOR</rs> (Leipzig)</title></ab><table><row><cell>
-<p>Gibt es einen Zusammenhang zwischen<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>KEUSCHHEIT UND PRODUCTIVITÄT.<lb/>
+Von <rs type="person" key="">HEINRICH PUDOR</rs> (Leipzig)</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Gibt es einen Zusammenhang zwischen<lb/>
 körperlicher und geistiger Productivität?<lb/>
 Diese Frage ist wohl schon gestellt worden,<lb/>
 ohne dass jedoch ihre Beantwortung ent-<lb break="no"/>
@@ -98,8 +114,9 @@ Sinnlichkeit, eine hochgespannte geschlecht-<lb break="no"/>
 liche Empfänglichkeit, eine außerordent-<lb break="no"/>
 liche Geschlechts-Capacität, deren magne-<lb break="no"/>
 tische Triebkraft, deren Impulsivkraft und</p>
-</cell><cell>
-<p rend="no-intend">Explosivstärke aber — und dies ist das<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Explosivstärke aber — und dies ist das<lb/>
 Wesentliche — für das Gebiet des geistigen<lb/>
 Schaffens fructificiert und auf dieses Gebiet<lb/>
 hinübergespielt wurde. Dass die hervor-<lb break="no"/>
@@ -121,7 +138,7 @@ Trieben, an glühendem Empfinden, an<lb/>
 wilden Begierden lebt, auf geistigem und<lb/>
 künstlerischem Gebiete zum Austrag<lb/>
 bringen.</p>
-<p>Um alle diese Erscheinungen erklären<lb/>
+                     <p>Um alle diese Erscheinungen erklären<lb/>
 zu können, müssen wir nach Dem suchen,<lb/>
 was dem Geschlechtlichen und dem<lb/>
 Geistigen gemeinsam ist. Dies aber ist<lb/>
@@ -143,9 +160,12 @@ die Empfindung ist, desto lebhafter wird<lb/>
 die Phantasie. Ohne Empfindung keine<lb/>
 Phantasie. Die Thätigkeit der Phantasie<lb/>
 ist eine Folge-Erscheinung der Empfindung.</p>
-<p>Darnach ist es einleuchtend, dass,<lb/>
+                     <p>Darnach ist es einleuchtend, dass,<lb/>
 je mehr Empfindungskraft und je mehr</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

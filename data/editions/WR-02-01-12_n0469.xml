@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-12_n0469.xml"
-     prev="WR-02-01-12_n0468.xml"
-     next="WR-02-01-12_n0470.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-12_n0469.xml" prev="WR-02-01-12_n0468.xml" next="WR-02-01-12_n0470.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,13 +42,42 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 11</title>
+                  <idno>WR-02-01-11_n0401.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 13</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">GUSTAVE MORE AU.</fw><fw type="pn">469</fw></fw><p rend="no-intend">thum befruchten zu lassen und einen Strahl dieses Lichtes aufzufangen; die<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">GUSTAVE MORE AU.</fw>
+               <fw type="pn">469</fw>
+            </fw>
+            <p rend="no-intend">thum befruchten zu lassen und einen Strahl dieses Lichtes aufzufangen; die<lb/>
 meisten haben kaum die äusseren Formen richtig aufgepasst, es kaum<lb/>
 zuwege gebracht, Linien zu copiren, und durch ihre seichte und äusser-<lb break="no"/>
 liche Nachahmung die Entwicklung ganzer Epochen in falsche Bahnen<lb/>
@@ -73,11 +99,15 @@ hundert eine solche Auferstehung gefeiert, als die Welt der Edda —<lb/>
 an der ein Hebbel so kläglich scheiterte — sich im Werke Wagner’s<lb/>
 offenbarte. Ein Vorgang, den nur die Annahme erklärt, die Summe der<lb/>
 Energien, die sich in solchen Systemen resumirt hatten, habe sich eines<lb/>
-vollkommener gebauten Gehirnes zu einer neuen Incarnation bedient.</p><p>Im Grunde bedeutet dieser Vorgang nur die ganz natürliche<lb/>
+vollkommener gebauten Gehirnes zu einer neuen Incarnation bedient.</p>
+            <p>Im Grunde bedeutet dieser Vorgang nur die ganz natürliche<lb/>
 Weiterentwicklung des genus »homo«: die nächste Stufe. Auf diesem Wege<lb/>
 wird das neue Wesen entstehen, das nur die Grössten bisher dunkel<lb/>
 geahnt haben. Wir kennen seinen Namen nicht; einer seiner Vorläufer<lb/>
-war Gustave Moreau.</p><milestone unit="untyped-end"/><milestone unit="hr"/></div>
+war Gustave Moreau.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-00_i0005.xml"
-     prev="WR-02-01-00_i0004.xml"
-     next="WR-02-01-00_i0006.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-00_i0005.xml" prev="WR-02-01-00_i0004.xml" next="WR-02-01-00_i0006.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,205 +42,501 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 1, Halbbd. 2, Nr. 24</title>
+                  <idno>WR-01-02-24_n0905.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 1</title>
+                  <idno>WR-02-01-01_n0001.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">INHALTS-VERZEICHNIS.</fw></fw><table>
-<row><cell>
-</cell><cell><hi rend="strong">Nr.</hi>
-</cell><cell>Seite
-</cell></row>
-<row><cell><hi rend="text-spaced">Kipling</hi>, Rudyard, Das Fest der Witwe <milestone unit="dots"/>
-</cell><cell><hi rend="strong">5</hi>
-</cell><cell>178
-</cell></row>
-<row><cell>  Ein Shilling pro Tag <milestone unit="dots"/>
-</cell><cell><hi rend="strong">8</hi>
-</cell><cell>311
-</cell></row>
-<row><cell>  Maudalay <milestone unit="dots"/>
-</cell><cell><hi rend="strong">11</hi>
-</cell><cell>447
-</cell></row>
-<row><cell><hi rend="text-spaced">Kotanyi</hi>, Elsa, Gewitter <milestone unit="dots"/>
-</cell><cell><hi rend="strong">3</hi>
-</cell><cell>89
-</cell></row>
-<row><cell><hi rend="text-spaced">Kronfeld</hi>, M., Der botanische Poet <milestone unit="dots"/>
-</cell><cell><hi rend="strong">16</hi>
-</cell><cell>624
-</cell></row>
-<row><cell>  Secession der Blumen <milestone unit="dots"/>
-</cell><cell><hi rend="strong">19</hi>
-</cell><cell>745
-</cell></row>
-<row><cell><hi rend="text-spaced">La Jeunesse</hi>, Ernest, »Studia la matematica« <milestone unit="dots"/>
-</cell><cell><hi rend="strong">11</hi>
-</cell><cell>406
-</cell></row>
-<row><cell><hi rend="text-spaced">Landauer</hi>, Gustav, Zur Psychologie activer Naturen <milestone unit="dots"/>
-</cell><cell><hi rend="strong">17</hi>
-</cell><cell>667
-</cell></row>
-<row><cell><hi rend="text-spaced">Lang</hi>, Marie, Das Secessionsgebäude <milestone unit="dots"/>
-</cell><cell><hi rend="strong">24</hi>
-</cell><cell>939
-</cell></row>
-<row><cell><hi rend="text-spaced">Lanzky</hi>, Paul, Friedrich Nietzsche als Mensch <milestone unit="dots"/>
-</cell><cell><hi rend="strong">23</hi>
-</cell><cell>884
-</cell></row>
-<row><cell><hi rend="text-spaced">Le Gallienne</hi>, Richard, »Wenn ich Gott wäre« <milestone unit="dots"/>
-</cell><cell><hi rend="strong">21</hi><lb/>
-<hi rend="strong">22</hi>
-</cell><cell>801,<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">INHALTS-VERZEICHNIS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+</cell>
+                  <cell>
+                     <hi rend="strong">Nr.</hi>
+                  </cell>
+                  <cell>Seite
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Kipling</hi>, Rudyard, Das Fest der Witwe <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">5</hi>
+                  </cell>
+                  <cell>178
+</cell>
+               </row>
+               <row>
+                  <cell>  Ein Shilling pro Tag <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">8</hi>
+                  </cell>
+                  <cell>311
+</cell>
+               </row>
+               <row>
+                  <cell>  Maudalay <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">11</hi>
+                  </cell>
+                  <cell>447
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Kotanyi</hi>, Elsa, Gewitter <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">3</hi>
+                  </cell>
+                  <cell>89
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Kronfeld</hi>, M., Der botanische Poet <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">16</hi>
+                  </cell>
+                  <cell>624
+</cell>
+               </row>
+               <row>
+                  <cell>  Secession der Blumen <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">19</hi>
+                  </cell>
+                  <cell>745
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">La Jeunesse</hi>, Ernest, »Studia la matematica« <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">11</hi>
+                  </cell>
+                  <cell>406
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Landauer</hi>, Gustav, Zur Psychologie activer Naturen <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">17</hi>
+                  </cell>
+                  <cell>667
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Lang</hi>, Marie, Das Secessionsgebäude <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">24</hi>
+                  </cell>
+                  <cell>939
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Lanzky</hi>, Paul, Friedrich Nietzsche als Mensch <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">23</hi>
+                  </cell>
+                  <cell>884
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Le Gallienne</hi>, Richard, »Wenn ich Gott wäre« <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">21</hi>
+                     <lb/>
+                     <hi rend="strong">22</hi>
+                  </cell>
+                  <cell>801,<lb/>
 844
-</cell></row>
-<row><cell><hi rend="text-spaced">Lemaître</hi>, Jules, Alphonse Daudet <milestone unit="dots"/>
-</cell><cell><hi rend="strong">5</hi>
-</cell><cell>197
-</cell></row>
-<row><cell><hi rend="text-spaced">Levetzow</hi>, Freiherr Karl von, Adonai <milestone unit="dots"/>
-</cell><cell><hi rend="strong">2</hi>
-</cell><cell>50
-</cell></row>
-<row><cell><hi rend="text-spaced">Lie</hi>, Jonas, Bootsmann Rüsten <milestone unit="dots"/>
-</cell><cell><hi rend="strong">23</hi>
-</cell><cell>892
-</cell></row>
-<row><cell><hi rend="text-spaced">Maeterlinck</hi>, Maurice, Die innere Schönheit <milestone unit="dots"/>
-</cell><cell><hi rend="strong">3</hi>
-</cell><cell>108
-</cell></row>
-<row><cell>  Der Stern <milestone unit="dots"/>
-</cell><cell><hi rend="strong">18</hi>
-</cell><cell>685
-</cell></row>
-<row><cell>  Emily Bronté <milestone unit="dots"/>
-</cell><cell><hi rend="strong">23</hi>
-</cell><cell>875
-</cell></row>
-<row><cell><hi rend="text-spaced">Marholm</hi>, Laura, Einige Erinnerungen an Karl A. Tavaststjerna <milestone unit="dots"/>
-</cell><cell><hi rend="strong">19</hi>
-</cell><cell>724
-</cell></row>
-<row><cell><hi rend="text-spaced">Mauclair</hi>, Camille, Betrachtungen über die Ziele unserer Zeit <milestone unit="dots"/>
-</cell><cell><hi rend="strong">4</hi>
-</cell><cell>121
-</cell></row>
-<row><cell><hi rend="text-spaced">Messer</hi>, Max, Fanny <milestone unit="dots"/>
-</cell><cell><hi rend="strong">8</hi>
-</cell><cell>307
-</cell></row>
-<row><cell>  Max Stirners Leben und sein Werk <milestone unit="dots"/>
-</cell><cell><hi rend="strong">18</hi>
-</cell><cell>677
-</cell></row>
-<row><cell><hi rend="text-spaced">Meyer</hi>-<hi rend="text-spaced">Förster</hi>, Else, Dear little girl! <milestone unit="dots"/>
-</cell><cell><hi rend="strong">22</hi>
-</cell><cell>854
-</cell></row>
-<row><cell><hi rend="text-spaced">Mirbeau</hi>, Octave, Der Streik der Wähler <milestone unit="dots"/>
-</cell><cell><hi rend="strong">13</hi>
-</cell><cell>513
-</cell></row>
-<row><cell><hi rend="text-spaced">Moosmee</hi>, Warum sie dieses Dichters Werke so sehr liebt <milestone unit="dots"/>
-</cell><cell><hi rend="strong">15</hi>
-</cell><cell>585
-</cell></row>
-<row><cell> Mittag — Nachmittag — Abend <milestone unit="dots"/>
-</cell><cell><hi rend="strong">18</hi>
-</cell><cell>683
-</cell></row>
-<row><cell><hi rend="text-spaced">Multatuli</hi>, Gespräch mit Japanern <milestone unit="dots"/>
-</cell><cell><hi rend="strong">5</hi>
-</cell><cell>171
-</cell></row>
-<row><cell>    <milestone unit="dots"/>
-</cell><cell><hi rend="strong">14</hi>
-</cell><cell>549
-</cell></row>
-<row><cell>Musset, Alfred de, Scene aus »Fantasio« <milestone unit="dots"/>
-</cell><cell><hi rend="strong">15</hi>
-</cell><cell>579
-</cell></row>
-<row><cell><hi rend="text-spaced">Negri</hi>, Ada, Bacio morto <milestone unit="dots"/>
-</cell><cell><hi rend="strong">9</hi>
-</cell><cell>350
-</cell></row>
-<row><cell><hi rend="text-spaced">Panizza</hi>, Oskar, Die Heilsarmee <milestone unit="dots"/>
-</cell><cell><hi rend="strong">2</hi>
-</cell><cell>52
-</cell></row>
-<row><cell>  Ueber das Küssen <milestone unit="dots"/>
-</cell><cell><hi rend="strong">4</hi>
-</cell><cell>129
-</cell></row>
-<row><cell><hi rend="text-spaced">Perzyńiski</hi>, Friedrich, An der Schwelle des Todes <milestone unit="dots"/>
-</cell><cell><hi rend="strong">7</hi>
-</cell><cell>261
-</cell></row>
-<row><cell><hi rend="text-spaced">Pica</hi>, Vittorio, Stéphane Mallarmé <milestone unit="dots"/>
-</cell><cell><hi rend="strong">22</hi>
-</cell><cell>836
-</cell></row>
-<row><cell><hi rend="text-spaced">Rappaport</hi>, Felix, Gustave Moreau <milestone unit="died"/> <milestone unit="dots"/>
-</cell><cell><hi rend="strong">12</hi>
-</cell><cell>468
-</cell></row>
-<row><cell><hi rend="text-spaced">Reclus</hi>, Elie, Masken- und Götzenbilder <milestone unit="dots"/>
-</cell><cell><hi rend="strong">18</hi><lb/>
-<hi rend="strong">20</hi>
-</cell><cell>705,<lb/>
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Lemaître</hi>, Jules, Alphonse Daudet <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">5</hi>
+                  </cell>
+                  <cell>197
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Levetzow</hi>, Freiherr Karl von, Adonai <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">2</hi>
+                  </cell>
+                  <cell>50
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Lie</hi>, Jonas, Bootsmann Rüsten <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">23</hi>
+                  </cell>
+                  <cell>892
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Maeterlinck</hi>, Maurice, Die innere Schönheit <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">3</hi>
+                  </cell>
+                  <cell>108
+</cell>
+               </row>
+               <row>
+                  <cell>  Der Stern <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">18</hi>
+                  </cell>
+                  <cell>685
+</cell>
+               </row>
+               <row>
+                  <cell>  Emily Bronté <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">23</hi>
+                  </cell>
+                  <cell>875
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Marholm</hi>, Laura, Einige Erinnerungen an Karl A. Tavaststjerna <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">19</hi>
+                  </cell>
+                  <cell>724
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Mauclair</hi>, Camille, Betrachtungen über die Ziele unserer Zeit <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">4</hi>
+                  </cell>
+                  <cell>121
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Messer</hi>, Max, Fanny <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">8</hi>
+                  </cell>
+                  <cell>307
+</cell>
+               </row>
+               <row>
+                  <cell>  Max Stirners Leben und sein Werk <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">18</hi>
+                  </cell>
+                  <cell>677
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Meyer</hi>-<hi rend="text-spaced">Förster</hi>, Else, Dear little girl! <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">22</hi>
+                  </cell>
+                  <cell>854
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Mirbeau</hi>, Octave, Der Streik der Wähler <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">13</hi>
+                  </cell>
+                  <cell>513
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Moosmee</hi>, Warum sie dieses Dichters Werke so sehr liebt <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">15</hi>
+                  </cell>
+                  <cell>585
+</cell>
+               </row>
+               <row>
+                  <cell> Mittag — Nachmittag — Abend <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">18</hi>
+                  </cell>
+                  <cell>683
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Multatuli</hi>, Gespräch mit Japanern <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">5</hi>
+                  </cell>
+                  <cell>171
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">14</hi>
+                  </cell>
+                  <cell>549
+</cell>
+               </row>
+               <row>
+                  <cell>Musset, Alfred de, Scene aus »Fantasio« <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">15</hi>
+                  </cell>
+                  <cell>579
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Negri</hi>, Ada, Bacio morto <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">9</hi>
+                  </cell>
+                  <cell>350
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Panizza</hi>, Oskar, Die Heilsarmee <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">2</hi>
+                  </cell>
+                  <cell>52
+</cell>
+               </row>
+               <row>
+                  <cell>  Ueber das Küssen <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">4</hi>
+                  </cell>
+                  <cell>129
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Perzyńiski</hi>, Friedrich, An der Schwelle des Todes <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">7</hi>
+                  </cell>
+                  <cell>261
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Pica</hi>, Vittorio, Stéphane Mallarmé <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">22</hi>
+                  </cell>
+                  <cell>836
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Rappaport</hi>, Felix, Gustave Moreau <milestone unit="died"/>
+                     <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">12</hi>
+                  </cell>
+                  <cell>468
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Reclus</hi>, Elie, Masken- und Götzenbilder <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">18</hi>
+                     <lb/>
+                     <hi rend="strong">20</hi>
+                  </cell>
+                  <cell>705,<lb/>
 775
-</cell></row>
-<row><cell><hi rend="text-spaced">Rilke</hi>, Rainer Maria, Demnächst und gestern <milestone unit="dots"/>
-</cell><cell><hi rend="strong">4</hi>
-</cell><cell>143
-</cell></row>
-<row><cell>   Uhdes Christus <milestone unit="dots"/>
-</cell><cell><hi rend="strong">6</hi>
-</cell><cell>231
-</cell></row>
-<row><cell>   Die neue Kunst in Berlin <milestone unit="dots"/>
-</cell><cell><hi rend="strong">23</hi>
-</cell><cell>889
-</cell></row>
-<row><cell><hi rend="text-spaced">Rittinger</hi>, Paul Ritter von, Orchardson und die englische Kunst <milestone unit="dots"/>
-</cell><cell><hi rend="strong">14</hi>
-</cell><cell>530
-</cell></row>
-<row><cell><hi rend="text-spaced">Rittinger</hi>, Paul Ritter von, Die Engländer und die Franzosen in<lb/>
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Rilke</hi>, Rainer Maria, Demnächst und gestern <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">4</hi>
+                  </cell>
+                  <cell>143
+</cell>
+               </row>
+               <row>
+                  <cell>   Uhdes Christus <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">6</hi>
+                  </cell>
+                  <cell>231
+</cell>
+               </row>
+               <row>
+                  <cell>   Die neue Kunst in Berlin <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">23</hi>
+                  </cell>
+                  <cell>889
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Rittinger</hi>, Paul Ritter von, Orchardson und die englische Kunst <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">14</hi>
+                  </cell>
+                  <cell>530
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Rittinger</hi>, Paul Ritter von, Die Engländer und die Franzosen in<lb/>
 der Jubiläums-Kunstausstellung <milestone unit="dots"/>
-</cell><cell><hi rend="strong">16</hi><lb/>
-<hi rend="strong">17</hi>
-</cell><cell>631,<lb/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">16</hi>
+                     <lb/>
+                     <hi rend="strong">17</hi>
+                  </cell>
+                  <cell>631,<lb/>
 671
-</cell></row>
-<row><cell><hi rend="text-spaced">Rittinger</hi>, Paul Ritter von, Die Nazarener <milestone unit="dots"/>
-</cell><cell><hi rend="strong">20</hi>
-</cell><cell>766
-</cell></row>
-<row><cell><hi rend="text-spaced">Sandrock</hi>, Adele, Die Regisseurin <milestone unit="dots"/>
-</cell><cell><hi rend="strong">13</hi>
-</cell><cell>505
-</cell></row>
-<row><cell><hi rend="text-spaced">Schaukai</hi>, Richard, Zu Heinrich Heines hundertjährigem Geburtstage
-</cell><cell><hi rend="strong">2</hi>
-</cell><cell>56
-</cell></row>
-<row><cell>  Der Engländer <milestone unit="dots"/>
-</cell><cell><hi rend="strong">11</hi>
-</cell><cell>423
-</cell></row>
-<row><cell><hi rend="text-spaced">Scheerbart</hi>, Paul, Eigenthümliche Poesie <milestone unit="dots"/>
-</cell><cell><hi rend="strong">15</hi>
-</cell><cell>572
-</cell></row>
-</table></div>
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Rittinger</hi>, Paul Ritter von, Die Nazarener <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">20</hi>
+                  </cell>
+                  <cell>766
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Sandrock</hi>, Adele, Die Regisseurin <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">13</hi>
+                  </cell>
+                  <cell>505
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Schaukai</hi>, Richard, Zu Heinrich Heines hundertjährigem Geburtstage
+</cell>
+                  <cell>
+                     <hi rend="strong">2</hi>
+                  </cell>
+                  <cell>56
+</cell>
+               </row>
+               <row>
+                  <cell>  Der Engländer <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">11</hi>
+                  </cell>
+                  <cell>423
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Scheerbart</hi>, Paul, Eigenthümliche Poesie <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">15</hi>
+                  </cell>
+                  <cell>572
+</cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

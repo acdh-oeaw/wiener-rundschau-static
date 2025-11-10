@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-05_n0174.xml"
-     prev="WR-02-01-05_n0173.xml"
-     next="WR-02-01-05_n0175.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-05_n0174.xml" prev="WR-02-01-05_n0173.xml" next="WR-02-01-05_n0175.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,49 +42,91 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 4</title>
+                  <idno>WR-02-01-04_n0121.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 6</title>
+                  <idno>WR-02-01-06_n0201.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">174</fw><fw type="ctext">MULTATULI.</fw></fw><p>— Aha, Tugend! — Nehmt noch ein Schälchen Thee, der Ihr<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">174</fw>
+               <fw type="ctext">MULTATULI.</fw>
+            </fw>
+            <p>— Aha, Tugend! — Nehmt noch ein Schälchen Thee, der Ihr<lb/>
 verdientet, aufgeschlitzt zu sein <milestone unit="3dots"/> trinkt, freut Euch, streckt die Beine<lb/>
-aus und sagt mir, was Tugend ist.</p><p>— Gern thue ich das, Kami, der Ihr Weisheit aufschlürft wie<lb/>
+aus und sagt mir, was Tugend ist.</p>
+            <p>— Gern thue ich das, Kami, der Ihr Weisheit aufschlürft wie<lb/>
 Aufguss der Blätter vom Strauche des Lebens, aber tausend ja! <milestone unit="3dots"/> es<lb/>
 ist gefährlich! Schwört Ihr mir, Kami, dass Ihr Nichts wiedererzählen<lb/>
 werdet von dem, was ich Euch über Tugend sage? Dass Ihr es weder<lb/>
 dem König sagen werdet, noch dem Minister, noch dem Besitzer von<lb/>
 Euerem Hotel, noch dem Mädchen, das Ihr soeben rufen liesset, noch<lb/>
-dem Mann, der Euere Stiefel putzt?</p><p>— Wir tragen keine Stiefel. Frei heraus, Mann ohne Bauch, seid<lb/>
+dem Mann, der Euere Stiefel putzt?</p>
+            <p>— Wir tragen keine Stiefel. Frei heraus, Mann ohne Bauch, seid<lb/>
 ohne Sorge. Trügen wir auch Stiefel, wir würden es doch Niemandem<lb/>
-sagen. Was ist Tugend?</p><p>— Kami, ich weiss nicht, was Tugend ist!</p><p>— Das dacht’ ich wohl, als ich vernahm, dass Ihr nicht einmal<lb/>
+sagen. Was ist Tugend?</p>
+            <p>— Kami, ich weiss nicht, was Tugend ist!</p>
+            <p>— Das dacht’ ich wohl, als ich vernahm, dass Ihr nicht einmal<lb/>
 im Stande seid, Uhren mit Unzüchtigkeiten zu machen. Aber wenn<lb/>
 Ihr es doch nicht wisst, warum hattet Ihr dann solche Furcht, dass<lb/>
-wir es wieder sagen würden, was Ihr selbst nicht sagen könnt.</p><p>— Das ist es gerade, o tugendgieriger Kami, der Ihr Unzüchtig-<lb break="no"/>
+wir es wieder sagen würden, was Ihr selbst nicht sagen könnt.</p>
+            <p>— Das ist es gerade, o tugendgieriger Kami, der Ihr Unzüchtig-<lb break="no"/>
 keiten liebt <milestone unit="3dots"/> auf Uhren. Das ist es gerade. <hi rend="text-spaced">Man</hi> weiss genau,<lb/>
 was Tugend ist, <hi rend="text-spaced">Man</hi> misshandelt den verkehrt Geborenen, der es<lb/>
-nicht weiss.</p><p>— Aber sagt mir dann, o Mann, dessen Seele unrecht geboren<lb/>
-ist, sagt mir dann, was <hi rend="text-spaced">Man</hi> für Tugend hält.</p><p>— Das ist etwas Anderes, würdiger Kami, aber die Erzählung<lb/>
-ist lang, weil <hi rend="text-spaced">Man</hi> sich so oft verändert, und die Tugend von <hi rend="text-spaced">Man</hi><lb/>
+nicht weiss.</p>
+            <p>— Aber sagt mir dann, o Mann, dessen Seele unrecht geboren<lb/>
+ist, sagt mir dann, was <hi rend="text-spaced">Man</hi> für Tugend hält.</p>
+            <p>— Das ist etwas Anderes, würdiger Kami, aber die Erzählung<lb/>
+ist lang, weil <hi rend="text-spaced">Man</hi> sich so oft verändert, und die Tugend von <hi rend="text-spaced">Man</hi>
+               <lb/>
 mit ihm. Es sind viele Tugenden von <hi rend="text-spaced">Man</hi> verloren gegangen — die<lb/>
 meisten Tugenden werden nicht aufgeschrieben, Kami — doch was<lb/>
 da bewahrt geblieben ist, das will ich Alles gern, so viel ich nur<lb/>
-weiss, erzählen.</p><p>Am Anfang war Tugend <milestone unit="3dots"/> nirgends. Man war tugendsam, so<lb/>
+weiss, erzählen.</p>
+            <p>Am Anfang war Tugend <milestone unit="3dots"/> nirgends. Man war tugendsam, so<lb/>
 lange Niemand über Tugend sprach. Tugend ist die Eigenschaft von<lb/>
-<hi rend="text-spaced">taugen</hi>, o sprachkundiger Kami. Am Anfang nun taugte Alles. Die<lb/>
+               <hi rend="text-spaced">taugen</hi>, o sprachkundiger Kami. Am Anfang nun taugte Alles. Die<lb/>
 Kuh frass Gras, ohne dass Jemand dem Thiere sagte, wie es thun<lb/>
-müsse, um dieses Gras zu Milch und Butter zu verarbeiten. <hi rend="text-spaced">Man</hi><lb/>
+müsse, um dieses Gras zu Milch und Butter zu verarbeiten. <hi rend="text-spaced">Man</hi>
+               <lb/>
 handelte gut, <hi rend="text-spaced">Man</hi> taugte <milestone unit="3dots"/> bis dass da Menschen kamen, die An-<lb break="no"/>
 leitungen gaben, wie die Kuh Gras fressen müsse, und wie man thun<lb/>
-müsse, um zu taugen.</p><p>Die Anleitungen für die Kühe thaten keinen Schaden. Die ein-<lb break="no"/>
+müsse, um zu taugen.</p>
+            <p>Die Anleitungen für die Kühe thaten keinen Schaden. Die ein-<lb break="no"/>
 fältigen Thiere lasen sie nicht. Das ist eine grosse Tugend bei den<lb/>
 Kühen, o Kamin. Aber <hi rend="text-spaced">Man</hi> las die Anleitung, um zu taugen. Das<lb/>
 war <hi rend="text-spaced">Man</hi>’s erste Untugend, o Kami, der Wissenschaft wie einen<lb/>
-Morgentrank geniesst.</p><p>Denn die erste Natur des Menschen war gut. Aber <hi rend="text-spaced">Man</hi> fing<lb/>
+Morgentrank geniesst.</p>
+            <p>Denn die erste Natur des Menschen war gut. Aber <hi rend="text-spaced">Man</hi> fing<lb/>
 an zu erzählen, <hi rend="text-spaced">was gut ist</hi>, und von dem Augenblick an hatte<lb/>
-<hi rend="text-spaced">Man</hi> so viele Tugenden, als <hi rend="text-spaced">Man</hi> Köpfe hat: Legion, wie ich schon<lb/>
-sagte, o Kamin, bewandert im Unbegreiflichen.</p></div>
+               <hi rend="text-spaced">Man</hi> so viele Tugenden, als <hi rend="text-spaced">Man</hi> Köpfe hat: Legion, wie ich schon<lb/>
+sagte, o Kamin, bewandert im Unbegreiflichen.</p>
+         </div>
       </body>
    </text>
 </TEI>

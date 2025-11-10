@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-08_n0187.xml"
-     prev="WR-05-08_n0186.xml"
-     next="WR-05-08_n0188.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-08_n0187.xml" prev="WR-05-08_n0186.xml" next="WR-05-08_n0188.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 7</title>
+                  <idno>WR-05-07_n0141.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 9</title>
+                  <idno>WR-05-09_n0189.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">RUNDSCHAU.</fw></fw><table><row><cell>
-<p rend="no-intend">sätzen erklingt alles dann von selbst<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">RUNDSCHAU.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">sätzen erklingt alles dann von selbst<lb/>
 nach dem Willen des Schöpfers. Ähnlich<lb/>
 ist es bei den Händel’schen Chören, aus<lb/>
 denen die strömende Urkraft auch dann<lb/>
@@ -63,7 +78,7 @@ die höchsten Anforderungen an musika-<lb break="no"/>
 lische Technik und Stimmkraft stellenden<lb/>
 Aufgabe entledigte, rühmend gedacht<lb/>
 werden.</p>
-<p>Die Solisten hingegen, denen dasPubli-<lb break="no"/>
+                     <p>Die Solisten hingegen, denen dasPubli-<lb break="no"/>
 cum — wie stets — größere Aufmerk-<lb break="no"/>
 samkeit schenkte, konnten, mit einer<lb/>
 Ausnahme, nicht recht befriedigen. — In<lb/>
@@ -88,12 +103,13 @@ Nebenstimmen sich verlierend. Dies ist<lb/>
 ernste Vortragskunst im Geiste des Meisters,<lb/>
 ohne Mätzchen, schlicht und ernst, ohne<lb/>
 Concessionen.</p>
-<p>Die Instrumentation der Original-Partitur<lb/>
+                     <p>Die Instrumentation der Original-Partitur<lb/>
 hatte man beibehalten. So konnte man die<lb/>
 selten gehörte Oboë d’amore vernehmen,<lb/>
 und die bekannten hohen Trompeten, die</p>
-</cell><cell>
-<p rend="no-intend">im brausenden Jubel des »Resurrexit« das<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">im brausenden Jubel des »Resurrexit« das<lb/>
 Thema dem Chor entreißen und hoch in<lb/>
 die Luft schmettern. Das Publicum nahm<lb/>
 diese mit so primitiven Mitteln erzielte<lb/>
@@ -101,15 +117,16 @@ Pracht dankbar auf, — schien die Fülle<lb/>
 dieses Glanzes aber nicht begreifen oder<lb/>
 aus der »dogmatischen« Natur Bachs sich<lb/>
 nicht erklären zu können. <rs type="person" key="">BRYK</rs>.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="asterisk"/>
-<milestone unit="untyped-start"/>
-<p><hi rend="text-spaced">Gerhard Munthe</hi>. Seine Wand-<lb break="no"/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="asterisk"/>
+                     <milestone unit="untyped-start"/>
+                     <p>
+                        <hi rend="text-spaced">Gerhard Munthe</hi>. Seine Wand-<lb break="no"/>
 teppiche (vergl. S. 167) lassen sich aus<lb/>
 der culturellen Tradition des Landes Nor-<lb break="no"/>
 wegen begreifen, dem der Künstler ent-<lb break="no"/>
 stammt.</p>
-<p>Mit einer Technik, deren vollendete<lb/>
+                     <p>Mit einer Technik, deren vollendete<lb/>
 Naivität den Halb-»Gebildeten« wie<lb/>
 »Raffinement« berühren muss, werden<lb/>
 da altnordische Ornamente und heimat-<lb break="no"/>
@@ -135,12 +152,24 @@ vollkommnet zu haben, gebürt der be-<lb break="no"/>
 rühmten Anstalt »Det norske Billedväveri«<lb/>
 in Christiania, die von Frieda Hansen<lb/>
 geleitet wird.</p>
-<note type="footnote">
-<p>* Frl. E. <hi rend="text-spaced">Walker</hi>.</p>
-</note>
-<milestone unit="untyped-end"/>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/><milestone unit="editorialStatement-start"/><p>Der Schluss des Artikels von Otto Bryk »Zum Verständnis der Projections-Erscheinungen«<lb/>
-erscheint in nächster Nummer.</p><milestone unit="untyped-end"/><milestone unit="hr"/><milestone unit="imprint-start"/><p>Verantwortl. Redacteur: R. Dworschak — K. k. Hoftheater-Druckerei, Wien, I., Wollzeile 17. (Verantwortl. A. Rimrich.)</p><milestone unit="untyped-end"/></div>
+                     <note type="footnote">
+                        <p>* Frl. E. <hi rend="text-spaced">Walker</hi>.</p>
+                     </note>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="editorialStatement-start"/>
+            <p>Der Schluss des Artikels von Otto Bryk »Zum Verständnis der Projections-Erscheinungen«<lb/>
+erscheint in nächster Nummer.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="imprint-start"/>
+            <p>Verantwortl. Redacteur: R. Dworschak — K. k. Hoftheater-Druckerei, Wien, I., Wollzeile 17. (Verantwortl. A. Rimrich.)</p>
+            <milestone unit="untyped-end"/>
+         </div>
       </body>
    </text>
 </TEI>

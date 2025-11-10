@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-23_n0882.xml"
-     prev="WR-02-02-23_n0881.xml"
-     next="WR-02-02-23_n0883.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-23_n0882.xml" prev="WR-02-02-23_n0881.xml" next="WR-02-02-23_n0883.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,13 +42,39 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 22</title>
+                  <idno>WR-02-02-22_n0825.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 24</title>
+                  <idno>WR-02-02-24_n0905.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd">MAETERLINCK.</fw><p rend="no-intend">denselben Mangel an Hellsichtigkeit und vor allem dasselbe Fehlen<lb/>
+         <div type="page">
+            <fw type="hd">MAETERLINCK.</fw>
+            <p rend="no-intend">denselben Mangel an Hellsichtigkeit und vor allem dasselbe Fehlen<lb/>
 der Rückkehr auf sich selbst. Wenn ein Wesen uns sein Leben darthun<lb/>
 will, fängt es damit an, uns seine Art, zu sehen, zu begreifen, zu<lb/>
 empfinden, mitzutheilen; man ersieht daraus eine edle Natur der Seele.<lb/>
@@ -63,7 +86,9 @@ ans Handeln geht, kommen die Instincte dazwischen, macht sich<lb/>
 der Charakter geltend, und die Seele, das ist der höhere Theil eines<lb/>
 Wesens, scheint uns zu nichts geworden; wie eine Prinzessin lieber<lb/>
 in bettelstolzer Armut lebt, als dass sie ihre Hände in gemeinen Ver-<lb break="no"/>
-richtungen hart machte <milestone unit="3dots"/></p><p>Doch wahrhaftig! Nichts ist gethan, so lange man nicht gelernt<lb/>
+richtungen hart machte <milestone unit="3dots"/>
+            </p>
+            <p>Doch wahrhaftig! Nichts ist gethan, so lange man nicht gelernt<lb/>
 hat, seine Hände zu härten, so lange man nicht gelernt hat, das Gold<lb/>
 und Silber seiner Gedanken in einen Schlüssel umzuschmelzen, der<lb/>
 zwar nicht mehr das Elfenbeinthor unserer Träume, wohl aber die<lb/>
@@ -96,7 +121,8 @@ es nicht mehr tragen können, sich nicht aufhält. Wer will uns sagen,<lb/>
 ob es nicht vorzuziehen sei, manchmal <hi rend="text-spaced">gegen</hi> sein Denken zu handeln,<lb/>
 als nie zu wagen, <hi rend="text-spaced">nach</hi> seinem Denken zu handeln? Der thätliche<lb/>
 Irrthum ist fast nie unheilbar; Menschen und Dinge pflegen ihn bald<lb/>
-wieder zu berichtigen; aber was vermögen sie gegen den passiven</p></div>
+wieder zu berichtigen; aber was vermögen sie gegen den passiven</p>
+         </div>
       </body>
    </text>
 </TEI>

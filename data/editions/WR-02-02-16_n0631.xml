@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-16_n0631.xml"
-     prev="WR-02-02-16_n0630.xml"
-     next="WR-02-02-16_n0632.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-16_n0631.xml" prev="WR-02-02-16_n0630.xml" next="WR-02-02-16_n0632.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,15 +42,44 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 15</title>
+                  <idno>WR-02-02-15_n0561.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 17</title>
+                  <idno>WR-02-02-17_n0641.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>DIE ENGLÄNDER UND DIE FRANZOSEN IN DER<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIE ENGLÄNDER UND DIE FRANZOSEN IN DER<lb/>
 JUBILÄUMS-AUSSTELLUNG.<lb/>
-Von <rs type="person" key="">PAUL RITTER V. RITTINGER</rs> (Wien).</title></ab><p>Die Engländer und Franzosen, warum denn nicht die Wiener,<lb/>
+Von <rs type="person" key="">PAUL RITTER V. RITTINGER</rs> (Wien).</title>
+            </ab>
+            <p>Die Engländer und Franzosen, warum denn nicht die Wiener,<lb/>
 oder wenigstens die Münchener, Berliner oder Düsseldorfer? Das ist<lb/>
 sehr einfach, und ich antworte auf die Gefahr hin, für einen schlechten<lb/>
 Localpatrioten gehalten zu werden: »Weil eben in den wenigen englischen<lb/>
@@ -75,7 +101,8 @@ einen Blick ins sündhafte Ausland thun durfte. Aber wirklich berühmt,<lb/>
 berühmt in der ganzen künstlerischen Welt, wo man kaum einen von<lb/>
 unseren »bekannten« Malern kennt, aber dafür alle die unbekannten<lb/>
 Franzosen und Engländer desto besser, was dieses berühmt bedeutet,<lb/>
-das muss der zufriedene Wiener erst lernen.</p><p>Die Secession hat ihm dazu die erste Gelegenheit gegeben. Da<lb/>
+das muss der zufriedene Wiener erst lernen.</p>
+            <p>Die Secession hat ihm dazu die erste Gelegenheit gegeben. Da<lb/>
 hat schon allein die Anzahl der ausländischen Bilder für die Bedeutung<lb/>
 ihrer Kunst gesprochen, und wenn auch keine berühmtesten da waren,<lb/>
 so gab es doch wenigstens sehr viel berühmte. England speciell war<lb/>
@@ -84,9 +111,11 @@ her kommen, dass ein englischer Künstler seine Bilder nicht erst nach<lb/>
 Wien zu schicken braucht, um sie zu verkaufen, oder gar »berühmt«<lb/>
 zu werden. Dagegen waren viele Franzosen und Belgier zu sehen, vor<lb/>
 allem die Belgier, und über Khnopff konnte man sich aus den ausge-<lb break="no"/>
-stellten Bildern sogar schon eine eigene Meinung bilden.</p><p>Im Künstlerhause liegen die Dinge freilich nicht so günstig, aber<lb/>
+stellten Bildern sogar schon eine eigene Meinung bilden.</p>
+            <p>Im Künstlerhause liegen die Dinge freilich nicht so günstig, aber<lb/>
 es ist ja auch eine Jubiläums-Ausstellung, wo die Kunst zum Zwecke<lb/>
-einer allerhöchsten Anerkennung um jeden Preis »Fortschritte« gemacht</p></div>
+einer allerhöchsten Anerkennung um jeden Preis »Fortschritte« gemacht</p>
+         </div>
       </body>
    </text>
 </TEI>

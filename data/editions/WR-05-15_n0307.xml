@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-15_n0307.xml"
-     prev="WR-05-15_n0306.xml"
-     next="WR-05-15_n0308.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-15_n0307.xml" prev="WR-05-15_n0306.xml" next="WR-05-15_n0308.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 14</title>
+                  <idno>WR-05-14_n0279.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 16</title>
+                  <idno>WR-05-16_n0313.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">SPRENGEL: SIGBJÖRN OBSTFELDERS »TAGEBUCH EINES GEISTLICHEN«</fw></fw><table><row><cell>
-<p rend="no-intend">Obstfelder, um seinen eigenen Ausdruck<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">SPRENGEL: SIGBJÖRN OBSTFELDERS »TAGEBUCH EINES GEISTLICHEN«</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Obstfelder, um seinen eigenen Ausdruck<lb/>
 aus einem anderen Werk zu benutzen,<lb/>
 Denen an, die der Musik des Lebens zu<lb/>
 lauschen verstehen. Dieselbe intime Natur-<lb break="no"/>
@@ -64,7 +79,7 @@ seine Dornroserei sind, wie wenn er z. B.<lb/>
 den Weltenraum mit einer großen, beben-<lb break="no"/>
 den Thräne vergleicht, in der alle Sterne<lb/>
 und Sonnen schwimmen.</p>
-<p>Just in diesen Tagen hat eine post-<lb break="no"/>
+                     <p>Just in diesen Tagen hat eine post-<lb break="no"/>
 hume Arbeit von Obstfelders Hand das<lb/>
 Licht gesehen. Der erste Eindruck, den man<lb/>
 bekommt, wenn man »Das Tagebuch eines<lb/>
@@ -105,11 +120,12 @@ den armen Menschen das geringste Räthsel<lb/>
 zu lösen, er soll der Mittler sein zwischen<lb/>
 ihnen und ihrem Gott! »Wer ist dieser<lb/>
 Gott?« ruft er. »Lasst mich ihn sehen.</p>
-</cell><cell>
-<p rend="no-intend">Lasst mich sein Angesicht sehen. Lasst<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Lasst mich sein Angesicht sehen. Lasst<lb/>
 mich sehen, was er mit den Geschöpfen<lb/>
 meint, die er geschaffen hat.«</p>
-<p>Und er begibt sich auf Entdeckungs-<lb break="no"/>
+                     <p>Und er begibt sich auf Entdeckungs-<lb break="no"/>
 reisen. Bald ist er über die Grenzen der<lb/>
 festgestellten Theologie. Er fährt fort, nach<lb/>
 seinem Gott zu forschen, bald in schwarzer<lb/>
@@ -144,7 +160,7 @@ müssen wir wohl suchen. Selbst verändert<lb/>
 werden, suchen mit besserem Licht, viel-<lb break="no"/>
 leicht uns nähern, uns nähern, einst<lb/>
 finden!«</p>
-<p>Aber unter diesen Entdeckungsfahrten<lb/>
+                     <p>Aber unter diesen Entdeckungsfahrten<lb/>
 entfernt sich sein Gott immer weiter von<lb/>
 ihm. Je heißer er über sein Wesen ge-<lb break="no"/>
 grübelt hat, desto weiter hinein in den<lb/>
@@ -157,10 +173,13 @@ von Planeten und Sonnen, die ihre Bahn<lb/>
 im Weltenraum dahinwirbeln. Die Evo-<lb break="no"/>
 lution des Gottesgedankens, das ist des<lb/>
 Buches großartige Idee:</p>
-<p>»Bei den Chaldäern war die Astro-<lb break="no"/>
+                     <p>»Bei den Chaldäern war die Astro-<lb break="no"/>
 nomie Religion und die Priester waren<lb/>
 Forscher. Und jetzt? Wer sind der Zeit</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

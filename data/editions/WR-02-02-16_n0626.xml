@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-16_n0626.xml"
-     prev="WR-02-02-16_n0625.xml"
-     next="WR-02-02-16_n0627.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-16_n0626.xml" prev="WR-02-02-16_n0625.xml" next="WR-02-02-16_n0627.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,26 +42,65 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 15</title>
+                  <idno>WR-02-02-15_n0561.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 17</title>
+                  <idno>WR-02-02-17_n0641.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">620</fw><fw type="ctext">KRONFELD.</fw></fw><p rend="no-intend">die Einbildungskraft anregen und auf die poetischen Erzeugnisse der<lb/>
-verschiedenen Völker Einfluss nehmen.«</p><p>Adalbert <hi rend="text-spaced">Stifter</hi>, den Kerner persönlich kannte, ist auf ihn<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">620</fw>
+               <fw type="ctext">KRONFELD.</fw>
+            </fw>
+            <p rend="no-intend">die Einbildungskraft anregen und auf die poetischen Erzeugnisse der<lb/>
+verschiedenen Völker Einfluss nehmen.«</p>
+            <p>Adalbert <hi rend="text-spaced">Stifter</hi>, den Kerner persönlich kannte, ist auf ihn<lb/>
 sichtlich von Eindruck geblieben. Dann waren es <hi rend="text-spaced">Goethe</hi> und Her-<lb break="no"/>
 mann <hi rend="text-spaced">Gilm</hi>, die er verehrte. Goethe, der das bedeutsame Geständnis<lb/>
 ablegt, dass, nach <hi rend="text-spaced">Shakespeare</hi> und <hi rend="text-spaced">Spinoza</hi>, Lin<hi rend="text-spaced"/>né auf ihn »die<lb/>
 grösste Wirkung« geübt, hat der Botanik den poetischen Adelsbrief<lb/>
-verliehen. Er singt:</p><milestone unit="verse-start"/><lg><l>Ein Blumenglöckchen</l>
-<l>Vom Boden hervor</l>
-<l>War früh gesprosset</l>
-<l>In lieblichem Flor;</l>
-<l>Da kam ein Bienchen</l>
-<l>Und naschte fein: —</l>
-<l><hi rend="text-spaced">Die müssen wohl beide</hi></l>
-<l><hi rend="text-spaced">Für einander sein</hi>.</l></lg><milestone unit="untyped-end"/><p>Was Goethe andeutet, hat Kerner ausgeführt. Man versteht vollends,<lb/>
+verliehen. Er singt:</p>
+            <milestone unit="verse-start"/>
+            <lg>
+               <l>Ein Blumenglöckchen</l>
+               <l>Vom Boden hervor</l>
+               <l>War früh gesprosset</l>
+               <l>In lieblichem Flor;</l>
+               <l>Da kam ein Bienchen</l>
+               <l>Und naschte fein: —</l>
+               <l>
+                  <hi rend="text-spaced">Die müssen wohl beide</hi>
+               </l>
+               <l>
+                  <hi rend="text-spaced">Für einander sein</hi>.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <p>Was Goethe andeutet, hat Kerner ausgeführt. Man versteht vollends,<lb/>
 seit er das berühmte Buch von den »Schutzmitteln der Blüten gegen<lb/>
 unberufene Gäste« geschrieben, was Blumen und Insecten einander<lb/>
 sind, wie der Besuch des »losen Falters«, der summsenden Biene ein<lb/>
@@ -72,7 +108,8 @@ sind, wie der Besuch des »losen Falters«, der summsenden Biene ein<lb/>
 hat und wie sie für diesen den vor den räuberischen Ameisen geschützten<lb/>
 Honig und Pollen als Entlohnung aufspart. Die Inzucht muss um jeden<lb/>
 Preis vermieden, die Kreuzung gefördert werden. Das ist der tiefe Ernst<lb/>
-der poesieumwobenenen Blumen; sie sind Hilfen der Weltordnung.</p><p>Als Botaniker von innerem Beruf stand er natürlich mit der<lb/>
+der poesieumwobenenen Blumen; sie sind Hilfen der Weltordnung.</p>
+            <p>Als Botaniker von innerem Beruf stand er natürlich mit der<lb/>
 Poesie in innigem Contact. Da er in Innsbruck schon ein berühmter<lb/>
 Botaniker und unermüdlich in der Erforschung der Alpenpflanzen war,<lb/>
 kam Longfellow zu ihm. Von dieser Begegnung erzählt Kerner im<lb/>
@@ -94,7 +131,8 @@ ewigen Bergen«, welches auf Longfellow einen tiefen Eindruck machte.<lb/>
 Ich führte auch mein damals fünfjähriges Töchterchen zu dem greisen<lb/>
 Dichter und empfahl ihr, sich die Züge des berühmten Mannes in das<lb/>
 Gedächtnis einzuprägen. Er setzte sie auf seinen Schoss und gab ihr<lb/>
-mit freundlichen Worten die Lehre, in späteren Jahren neben den</p></div>
+mit freundlichen Worten die Lehre, in späteren Jahren neben den</p>
+         </div>
       </body>
    </text>
 </TEI>

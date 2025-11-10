@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-13_n0274.xml"
-     prev="WR-05-13_n0273.xml"
-     next="WR-05-13_n0275.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-13_n0274.xml" prev="WR-05-13_n0273.xml" next="WR-05-13_n0275.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,18 +41,36 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 12</title>
+                  <idno>WR-05-12_n0249.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 14</title>
+                  <idno>WR-05-14_n0279.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">KUHAUPT: SUGGESTION ALS PSYCHOLOGISCHES HAUPTMOMENT IN DER KUNST.</fw></fw><table><row><cell>
-<p rend="no-intend">Zustand höherer Erhebung, der Ekstase,<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KUHAUPT: SUGGESTION ALS PSYCHOLOGISCHES HAUPTMOMENT IN DER KUNST.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Zustand höherer Erhebung, der Ekstase,<lb/>
 der eine Begleit-Erscheinung bei allem<lb/>
 Erzeugen (ich erinnere an die Ekstase im<lb/>
 Zeugungsact) zu sein scheint.</p>
-<p>Alles Neuschöpferische ist kein aus<lb/>
+                     <p>Alles Neuschöpferische ist kein aus<lb/>
 der Erfahrung direct Hervorgegangenes,<lb/>
 kein von äußeren Objecten Abgezogenes,<lb/>
 sondern es ist ein wohl durch Erfahrung<lb/>
@@ -63,7 +78,7 @@ und äußere Dinge ausgelöstes, aber sonst<lb/>
 von diesen unabhängiges, aus den Tiefen<lb/>
 des unbewussten Seelenlebens emporge-<lb break="no"/>
 tauchtes Urbild.</p>
-<p>Damit diese auf dem Grunde der<lb/>
+                     <p>Damit diese auf dem Grunde der<lb/>
 Seele schlummernden Urbilder der Dinge,<lb/>
 die uns in gewissem Sinne an die plato-<lb break="no"/>
 nischen Ideen erinnern, in die Wirklich-<lb break="no"/>
@@ -72,7 +87,7 @@ hinaustreten können, bedarf der schöpfe-<lb break="no"/>
 rische, gestaltende Geist der Concentration,<lb/>
 der Sammlung und Zurückziehung in den<lb/>
 Punkt.</p>
-<p>Das Bewusstseinsleben wird herab-<lb break="no"/>
+                     <p>Das Bewusstseinsleben wird herab-<lb break="no"/>
 gestimmt und verdunkelt, damit die eine<lb/>
 neue Idee umso klarer und prägnanter,<lb/>
 umso lichter und heller sich abheben und<lb/>
@@ -98,20 +113,21 @@ sichtbarer Ausprägung des geistig Ge-<lb break="no"/>
 schauten machtvoll hervor; die noch<lb/>
 nebulose Idee will sich in eine Form<lb/>
 kleiden.</p>
-<p>In derselben Weise aber, wie die neue<lb/>
+                     <p>In derselben Weise aber, wie die neue<lb/>
 Idee durch ihre suggestive Kraft den<lb/>
 Künstler gewissermaßen hypnotisiert und<lb/>
 in ihren Bann zwingt, ebenso wird auch<lb/>
 der kunstsinnige Beschauer des hernach<lb/>
 vollendeten Kunstwerkes von der Macht<lb/>
 und Kraft jener Idee, die er nun in ihrer</p>
-</cell><cell>
-<p rend="no-intend">realen Verkörperung vor sich sieht, erfasst<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">realen Verkörperung vor sich sieht, erfasst<lb/>
 und in Fesseln geschlagen. Das, was der<lb/>
 Künstler empfand und erlebte, erlebt und<lb/>
 empfindet der Beschauer in schwächerem<lb/>
 Maße noch einmal.</p>
-<p>Die alten Griechen nannten deshalb<lb/>
+                     <p>Die alten Griechen nannten deshalb<lb/>
 den Zeus des Phidias ein leidstillendes<lb/>
 Zaubermittel. Die großartige Schönheit,<lb/>
 Ruhe und Erhabenheit dieses Kunstwerkes<lb/>
@@ -119,7 +135,7 @@ hatte eine so starke, suggestive Wirkung,<lb/>
 dass sich die hohen Ideale des Künstlers<lb/>
 auch dem Beschauer mittheilten, dass ihn<lb/>
 das ergriff, was den Künstler ergriffen hatte.</p>
-<p>Die Griechen sprachen von einem<lb/>
+                     <p>Die Griechen sprachen von einem<lb/>
 Zaubermittel — ganz mit Recht, denn<lb/>
 Zauber ist bei den Alten in gewissem<lb/>
 Sinne das, was wir heute Hypnose nennen.<lb/>
@@ -127,7 +143,7 @@ Zauber ist ein Fesseln, Festmachen,<lb/>
 Bannen, ein in fremden Willenskreis<lb/>
 Zwingen, ein Bestricken durch seelische<lb/>
 Mittel.</p>
-<p>Ein Kunstwerk von hoher Schönheit<lb/>
+                     <p>Ein Kunstwerk von hoher Schönheit<lb/>
 übt in der That einen Zauber auf uns<lb/>
 aus. Im wahren Kunstwerk wirkt das<lb/>
 verkörperte, in Raum und Zeit ausgegossene<lb/>
@@ -145,12 +161,12 @@ sich ohne Willensinteresse realisiert, so<lb/>
 ist auch im ästhetischen Genuss der Wille<lb/>
 ausgeschaltet; die Wirkung ist hier wie<lb/>
 da eine unmittelbare.</p>
-<p>Dies lässt uns erst erkennen, wie klar<lb/>
+                     <p>Dies lässt uns erst erkennen, wie klar<lb/>
 und richtig der große Königsberger,<lb/>
 J. Kant, den ästhetischen Genuss analysiert<lb/>
 hat und wie treffend sein Urtheil über<lb/>
 das Schöne in der Kunst ist.</p>
-<p>Kant sagt: »Schön nennen wir das-<lb break="no"/>
+                     <p>Kant sagt: »Schön nennen wir das-<lb break="no"/>
 jenige, was in uns ein reines und uninter-<lb break="no"/>
 essiertes Vergnügen erweckt. Das Schöne<lb/>
 ist weder Gegenstand einer theoretischen<lb/>
@@ -160,7 +176,10 @@ der Lust« <milestone unit="5dots"/> »Das Vergnügen oder<lb/>
 die Lust, welche wir bei Betrachtung des<lb/>
 Schönen empfinden, ist gänzlich uninter-<lb break="no"/>
 essiert.« »Schön ist, was ohne Begriff</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

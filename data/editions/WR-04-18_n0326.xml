@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-04-18_n0326.xml"
-     prev="WR-04-18_n0325.xml"
-     next="WR-04-19_n0327.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-18_n0326.xml" prev="WR-04-18_n0325.xml" next="WR-04-19_n0327.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,45 +41,71 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 5</title>
+                  <idno>WR-05-01_n0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 4, Nr. 17</title>
+                  <idno>WR-04-17_n0291.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 4, Nr. 19</title>
+                  <idno>WR-04-19_n0327.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">RUNDSCHAU.</fw></fw><table><row><cell>
-<p rend="no-intend">esse zuwenden, besucht. Man sah unter den<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">RUNDSCHAU.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">esse zuwenden, besucht. Man sah unter den<lb/>
 Theilnehmern berühmte Philosophen, Geist-<lb break="no"/>
 liche, Theosophen, Occultisten, Ärzte, Physio-<lb break="no"/>
 logen. Auch einige gelehrte Brahmanen ver-<lb break="no"/>
 folgten mit großem Interesse die Vorträge.<lb/>
-Prof. Th. <hi rend="text-spaced">Ribot</hi> vom <hi rend="italics">Collège de France</hi><lb/>
+Prof. Th. <hi rend="text-spaced">Ribot</hi> vom <hi rend="italics">Collège de France</hi>
+                        <lb/>
 präsidierte. Zum Vicepräsidenten war Prof.<lb/>
 Ch. <hi rend="text-spaced">Richet</hi> von der medicinischen Facultät<lb/>
 in Paris, zum Generalsecretär Prof. <hi rend="text-spaced">Pierre<lb/>
 Janet</hi> vom College de France gewählt worden.</p>
-<p>Der Congress war in 6 <hi rend="text-spaced">Sectionen</hi> ge-<lb break="no"/>
+                     <p>Der Congress war in 6 <hi rend="text-spaced">Sectionen</hi> ge-<lb break="no"/>
 gliedert, nämlich: i. in die Section für <hi rend="text-spaced">com</hi>-<lb break="no"/>
-<hi rend="text-spaced">parative</hi> Psychologie unter dem Präsidium<lb/>
+                        <hi rend="text-spaced">parative</hi> Psychologie unter dem Präsidium<lb/>
 des M. <hi rend="text-spaced">Jocs Delage</hi>, Professors der Zoologie<lb/>
-und vergleichenden Anatomie an der <hi rend="italics">Sorbonne;</hi><lb/>
+und vergleichenden Anatomie an der <hi rend="italics">Sorbonne;</hi>
+                        <lb/>
 2. in die Section für <hi rend="text-spaced">introspective</hi> Psycho-<lb break="no"/>
 logie unter dem Präsidium des M. G. <hi rend="text-spaced">Séailles</hi>,<lb/>
-Professors der Philosophie an der <hi rend="italics">Sorbonne;</hi><lb/>
+Professors der Philosophie an der <hi rend="italics">Sorbonne;</hi>
+                        <lb/>
 3. in die Section für <hi rend="text-spaced">Experimental</hi>-Psycho-<lb break="no"/>
 logie unter dem Präsidium des M. A. <hi rend="text-spaced">Binet</hi>;<lb/>
 4. in die Section für <hi rend="text-spaced">pathologische</hi> Psy-<lb break="no"/>
 chologie unter dem Präsidium des Dr. <hi rend="text-spaced">Mag</hi>-<lb break="no"/>
-<hi rend="text-spaced">nan</hi>, Mitglieds der medicinischen Akademie<lb/>
+                        <hi rend="text-spaced">nan</hi>, Mitglieds der medicinischen Akademie<lb/>
 von Paris; 5. in die Section für Psychologie<lb/>
-des <hi rend="text-spaced">Hypnotismus</hi> und der <hi rend="text-spaced">Suggestion</hi><lb/>
+des <hi rend="text-spaced">Hypnotismus</hi> und der <hi rend="text-spaced">Suggestion</hi>
+                        <lb/>
 unter dem Präsidium des M. <hi rend="text-spaced">Bernheim</hi>,<lb/>
 Professors an der medicinischen Facultät von<lb/>
 Nancy; 6. in die Section für <hi rend="text-spaced">sociale und<lb/>
 criminelle</hi> Psychologie unter dem Prä-<lb break="no"/>
 sidium des M. <hi rend="text-spaced">Tarde</hi>, Professors der modernen<lb/>
 Philosophie am <hi rend="italics">Collège de France</hi>.</p>
-<p>Es sprachen u. a.: Dr. J. Paul Hartenberg<lb/>
+                     <p>Es sprachen u. a.: Dr. J. Paul Hartenberg<lb/>
 über die Psychologie der Furcht, Dr. Fritz<lb/>
 Schultze über die Psychologie der wilden<lb/>
 Völker, Abbé Ch. Denis über die Gläubigkeit,<lb/>
@@ -100,30 +123,31 @@ nomene der psychischen Hallucinationen, Dr.<lb/>
 Jean Philippe über das Bewusstseins-Problem<lb/>
 in der Experimental-Psychologie. Der Gegen-<lb break="no"/>
 satz zwischen <hi rend="text-spaced">spiritualistischen</hi> und<lb/>
-<hi rend="text-spaced">materialistischen</hi> Anschauungen trat, wie<lb/>
+                        <hi rend="text-spaced">materialistischen</hi> Anschauungen trat, wie<lb/>
 vorauszusehen war, besonders scharf in den<lb/>
 Debatten hervor. Gewisse Psychologen scheinen<lb/>
 trotz aller Beweise gegen den Materialismus,<lb/>
 welche die letzten Decennien geliefert haben,<lb/>
 die Psychologie ohne — Psyche noch immer<lb/>
 in ihr Herz geschlossen zu haben.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="asterisk"/>
-<milestone unit="untyped-start"/>
-<p>Der Congress für Hypnologie wurde<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="asterisk"/>
+                     <milestone unit="untyped-start"/>
+                     <p>Der Congress für Hypnologie wurde<lb/>
 am <date>12. August</date> im Palais Louis XVI. eröffnet.<lb/>
 Unter den zahlreichen Theilnehmern befanden<lb/>
 sich viele auswärtige Ärzte. Der bekannte<lb/>
 Forscher auf dem Gebiete des Hypnotismus<lb/>
 und der Suggestion, Dr. <hi rend="text-spaced">Voisin</hi>, wurde zum</p>
-</cell><cell>
-<p rend="no-intend">Präsidenten ernannt. Am Präsidententische<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Präsidenten ernannt. Am Präsidententische<lb/>
 saßen außer ihm noch Prof. <hi rend="text-spaced">Raymond</hi>, Ehren-<lb break="no"/>
 präsident, und Dr. <hi rend="text-spaced">Bérillon</hi>, ständiger<lb/>
 Secretär der »<hi rend="italics">Société d’hypnologie</hi>«, sowie<lb/>
 Prof. <hi rend="text-spaced">Gariel</hi>, Delegierter der Regierung, Prof.<lb/>
-<hi rend="text-spaced">Bernheim</hi> und Prof. <hi rend="text-spaced">Liébault</hi> von Nancy.</p>
-<p>Dr. <hi rend="text-spaced">Voisin</hi> sprach über die wissen-<lb break="no"/>
+                        <hi rend="text-spaced">Bernheim</hi> und Prof. <hi rend="text-spaced">Liébault</hi> von Nancy.</p>
+                     <p>Dr. <hi rend="text-spaced">Voisin</hi> sprach über die wissen-<lb break="no"/>
 schaftliche Entwicklung des Hypnotismus<lb/>
 und Suggestionismus und über die Bedeu-<lb break="no"/>
 tung der neuen Wissenschaft für Therapie und<lb/>
@@ -139,7 +163,7 @@ mene). Am folgenden Tage vormittags be-<lb break="no"/>
 suchten die Congress-Theilnehmer unter der<lb/>
 Leitung des Dr. <hi rend="text-spaced">Voisin</hi>, des Chefs der hyp-<lb break="no"/>
 notischen Abtheilung, die <hi rend="italics">Salpêtriere</hi>.</p>
-<p>Der zweite Congress-Tag brachte Vor-<lb break="no"/>
+                     <p>Der zweite Congress-Tag brachte Vor-<lb break="no"/>
 träge von Dr. <hi rend="text-spaced">Vogt</hi>, Prof. <hi rend="text-spaced">Farcz</hi> und<lb/>
 Dr. Felix <hi rend="text-spaced">Régnault</hi> über den Wert des<lb/>
 Hypnotismus als Mittel psychologischer For-<lb break="no"/>
@@ -151,14 +175,15 @@ Congress-Tage wurde speciell die Stellung der<lb/>
 Gesetzgebung zum Hypnotismus von Dr.<lb/>
 v. <hi rend="text-spaced">Schrenck-Notsing</hi>, Dr. Ch. <hi rend="text-spaced">Juliot</hi>,<lb/>
 Dr. Henry <hi rend="text-spaced">Lemesle</hi>, Prof. <hi rend="text-spaced">Joire</hi> und Prof.<lb/>
-<hi rend="text-spaced">Boirac</hi> erörtert. In der Sitzung vom <date>15. August</date><lb/>
+                        <hi rend="text-spaced">Boirac</hi> erörtert. In der Sitzung vom <date>15. August</date>
+                        <lb/>
 behandelten zunächt Dr. Paul <hi rend="text-spaced">Magnin</hi> und<lb/>
 J. <hi rend="text-spaced">Crocq</hi> die Beziehungen des Hypnotismus<lb/>
 zur Hysterie. Dr. Tamburini, Bérillon, Cullève,<lb/>
 P. Janet, A. Charpentier machten diesbezüglich<lb/>
 interessante Mittheilungen aus ihrer Praxis. Hier-<lb break="no"/>
 aufsprachen Dr. <hi rend="text-spaced">Torkasky</hi>, A. <hi rend="text-spaced">de Jong</hi>, de la<lb/>
-<hi rend="text-spaced">Haye</hi> und Lloyd <hi rend="text-spaced">Tucks</hi> über die erfolgreiche<lb/>
+                        <hi rend="text-spaced">Haye</hi> und Lloyd <hi rend="text-spaced">Tucks</hi> über die erfolgreiche<lb/>
 Anwendung des Hypnotismus und Suggestionis-<lb break="no"/>
 mus bei der Behandlung der Geisteskrankheiten<lb/>
 und des Alkoholismus. Am nächsten Tage<lb/>
@@ -180,10 +205,28 @@ die schwebenden Fragen der Hypnologie<lb/>
 neuerdings beleuchtet, auch wiederholt Gelegen-<lb break="no"/>
 heit zur Beobachtung eines neuen und inter-<lb break="no"/>
 essanten Thatsachen-Materials geboten.</p>
-<p><rs type="person" key="">Th.</rs></p>
-<milestone unit="untyped-end"/>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="editorialStatement-start"/><p><hi rend="italics">Nachdruck der Artikel oder Notizen ist nur mit genauer Quellen-Angabe gestattet.</hi></p><milestone unit="untyped-end"/><milestone unit="hr"/><milestone unit="imprint-start"/><p>Herausgeber: <hi rend="strong">Constantin Christomanos</hi> und <hi rend="strong">Felix Rappaport.</hi> — Verantwortlicher Redacteur:<lb/>
-<hi rend="strong">Anton Lindner.</hi></p><p>K. k. Hoftheater-Druckerei, Wien, I., Wollzeile 17. (Verantwortlich A. Rimrich.)</p><milestone unit="untyped-end"/><milestone unit="untyped-end"/></div>
+                     <p>
+                        <rs type="person" key="">Th.</rs>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="editorialStatement-start"/>
+            <p>
+               <hi rend="italics">Nachdruck der Artikel oder Notizen ist nur mit genauer Quellen-Angabe gestattet.</hi>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="imprint-start"/>
+            <p>Herausgeber: <hi rend="strong">Constantin Christomanos</hi> und <hi rend="strong">Felix Rappaport.</hi> — Verantwortlicher Redacteur:<lb/>
+               <hi rend="strong">Anton Lindner.</hi>
+            </p>
+            <p>K. k. Hoftheater-Druckerei, Wien, I., Wollzeile 17. (Verantwortlich A. Rimrich.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
       </body>
    </text>
 </TEI>

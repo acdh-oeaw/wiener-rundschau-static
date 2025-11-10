@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-18_n0360.xml"
-     prev="WR-05-18_n0359.xml"
-     next="WR-05-18_n0361.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-18_n0360.xml" prev="WR-05-18_n0359.xml" next="WR-05-18_n0361.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,28 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 17</title>
+                  <idno>WR-05-17_n0327.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">WEISS: HANS VON MARÉES.</fw></fw><table><row><cell>
-<p rend="no-intend">keinem Zweifel, dass das <hi rend="text-spaced">rein bild-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">WEISS: HANS VON MARÉES.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">keinem Zweifel, dass das <hi rend="text-spaced">rein bild-<lb break="no"/>
 nerische</hi> Princip als Offenbarungs-<lb break="no"/>
 mittel gefühlter Vorstellungen das<lb/>
 höher stehende ist. Ein Anderes<lb/>
@@ -67,10 +78,10 @@ Wachsens in der »<hi rend="italics">Venus Genitrix</hi>«<lb/>
 dämonische Erkenntnis der malerischen<lb/>
 Ausdrucksmittel in vorher bei keinem<lb/>
 Anderen erlebter Weise zu Hilfe kommt.</p>
-<milestone unit="asterisk"/>
-<p>Der Urmensch, der Paradieses-<lb break="no"/>
+                     <milestone unit="asterisk"/>
+                     <p>Der Urmensch, der Paradieses-<lb break="no"/>
 mensch, <hi rend="text-spaced">der Mensch ganz einfach</hi>,<lb/>
-<hi rend="text-spaced">der wir sein möchten</hi>, der wir<lb/>
+                        <hi rend="text-spaced">der wir sein möchten</hi>, der wir<lb/>
 manchmal sind, ist Marées’ einziges,<lb/>
 unerschöpfliches »Motiv« und wird das<lb/>
 Motiv einer künftigen großen, ebenso<lb/>
@@ -96,12 +107,13 @@ der freiesten Verwendung der Ausdrucks-<lb break="no"/>
 mittel Schritt halten wird. Der Vater<lb/>
 dieses Künftigen wird kein anderer<lb/>
 sein, als Hans von Marées.</p>
-<milestone unit="asterisk"/>
-<p>Marées gibt uns als Mensch und<lb/>
+                     <milestone unit="asterisk"/>
+                     <p>Marées gibt uns als Mensch und<lb/>
 als Künstler das Beispiel einer Lebens-<lb break="no"/>
 führung, wie sie uns die schönste und</p>
-</cell><cell>
-<p rend="no-intend">richtigste zu sein dünkt. Jene dumme<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">richtigste zu sein dünkt. Jene dumme<lb/>
 und verderbliche Trennung des produ-<lb break="no"/>
 cierenden Künstlers von seinem Mensch-<lb break="no"/>
 sein hat er nie gekannt. Sie existiert<lb/>
@@ -117,7 +129,7 @@ seiner gesteigerten Organisation der<lb/>
 gegensetzt und den angeborenen Trieb<lb/>
 nach Einheit und Harmonie als Drang<lb/>
 nach Erkenntnis äußert«.</p>
-<p>»Von dieser allgemeinen Thatsache<lb/>
+                     <p>»Von dieser allgemeinen Thatsache<lb/>
 schien ihm der Künstler durchaus keine<lb/>
 Ausnahme zu machen, und er zählte<lb/>
 denselben dreist zu jener Minderheit,<lb/>
@@ -153,9 +165,13 @@ sollte mehr sein, als der Hervorbringer<lb/>
 von Kunstwerken, er sollte eine be-<lb break="no"/>
 sondere Modification des Menschen-<lb break="no"/>
 thums darstellen.«</p>
-</cell></row></table><note type="footnote">
-<p>* L. v. Kunowski: »Durch Kunst zum Leben«. VI., S. 179.</p>
-</note></div>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* L. v. Kunowski: »Durch Kunst zum Leben«. VI., S. 179.</p>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

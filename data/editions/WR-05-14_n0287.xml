@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-14_n0287.xml"
-     prev="WR-05-14_n0286.xml"
-     next="WR-05-14_n0288.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-14_n0287.xml" prev="WR-05-14_n0286.xml" next="WR-05-14_n0288.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 13</title>
+                  <idno>WR-05-13_n0265.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 15</title>
+                  <idno>WR-05-15_n0295.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">MAUCLAIR: ÜBER DEN GEGENWÄRTIGEN STAND DER LITERARISCHEN KRITIK.</fw></fw><table><row><cell>
-<p>socialen Wohlthäter entwickeln. Ich<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MAUCLAIR: ÜBER DEN GEGENWÄRTIGEN STAND DER LITERARISCHEN KRITIK.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>socialen Wohlthäter entwickeln. Ich<lb/>
 will nur ein Beispiel jüngsten Datums<lb/>
 herausgreifen. Die symbolistische Bewe-<lb break="no"/>
 gung hat, nachdem sie zwölf Jahre an-<lb break="no"/>
@@ -59,7 +74,7 @@ gedauert, vor kaum drei Jahren ihr Ende<lb/>
 gefunden, und in unklarem Drange wandte<lb/>
 sich die französische Jugend einer Ver-<lb break="no"/>
 einigung aller Künste unter dem Einfluss<lb/>
-<hi rend="text-spaced">Wagners</hi> und des Internationalismus zu.<lb/>
+                        <hi rend="text-spaced">Wagners</hi> und des Internationalismus zu.<lb/>
 Wäre damals ein Kritiker von hohem<lb/>
 Moralsinn aufgestanden, der den unnützen<lb/>
 Streitereien ein Ende gemacht und mit<lb/>
@@ -74,13 +89,14 @@ gezeitigt. Das wäre eine bedeutende und<lb/>
 segensreiche Rolle gewesen — eine Rolle,<lb/>
 wie sie Heine im zweiten deutschen<lb/>
 Romantismus nach <hi rend="text-spaced">Schlegel und<lb/>
-Tieck</hi>, wie sie <hi rend="text-spaced">Baudelaire</hi>, <hi rend="text-spaced">Gautier</hi><lb/>
+Tieck</hi>, wie sie <hi rend="text-spaced">Baudelaire</hi>, <hi rend="text-spaced">Gautier</hi>
+                        <lb/>
 und <hi rend="text-spaced">Nerval</hi> im Jahre <date>1840</date>, wie sie<lb/>
 Taine in den Anfängen des Rationalis-<lb break="no"/>
 mus, wie sie William Morris in den<lb/>
 Versuchen der Kunstsocialisierung, die auf<lb/>
 die Präraphaeliten folgte, wie sie César<lb/>
-<hi rend="text-spaced">Franck</hi> in der symphonischen Schule<lb/>
+                        <hi rend="text-spaced">Franck</hi> in der symphonischen Schule<lb/>
 nach Wagner spielte. Doch niemand<lb/>
 erschien, der diese Rolle hätte ausfüllen<lb/>
 können, und wenn der Symbolismus Fiasco<lb/>
@@ -97,16 +113,17 @@ schreiben können: »Seine ganze Thätig-<lb break="no"/>
 keit bestand darin, dass er dreißig Jahre<lb/>
 lang jeden Montag erklärte, das Buch ist<lb/>
 etwas wert und das ist nichts wert« —<lb/>
-<hi rend="text-spaced">der Mann</hi> verdient wirklich nicht, dass<lb/>
+                        <hi rend="text-spaced">der Mann</hi> verdient wirklich nicht, dass<lb/>
 man sich zu seinen Lebzeiten über ihn<lb/>
 aufregt. Das ist ein Mann, der sich nie<lb/>
 selbst erkannt und, wie fast alle seines-<lb break="no"/>
 gleichen, in seinem Schlendrian dahingelebt<lb/>
 hat. <hi rend="text-spaced">Aber ist das der Kritiker</hi>?<lb/>
-<hi rend="text-spaced">Nein</hi>! Wir fühlen es, das ist er <hi rend="text-spaced">nicht</hi>!<lb/>
+                        <hi rend="text-spaced">Nein</hi>! Wir fühlen es, das ist er <hi rend="text-spaced">nicht</hi>!<lb/>
 Weder Taine, Carlyle, Emerson, Lessing,</p>
-</cell><cell>
-<p rend="no-intend">noch Nietzsche, noch Baudelaire oder<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">noch Nietzsche, noch Baudelaire oder<lb/>
 Mallarmé waren so — in ihnen aber<lb/>
 verkörpert sich die Kritik, die erhabene,<lb/>
 vornehme und nachsichtige <hi rend="text-spaced">Erkenntnis<lb/>
@@ -127,7 +144,7 @@ Regionen des <hi rend="text-spaced">Essais</hi> zuwenden, dieses<lb/>
 wunderbaren, in Frankreich fast ganz auf-<lb break="no"/>
 gegebenen Genres, das der Zwang der<lb/>
 Verhältnisse wieder zu Ehren bringen wird.</p>
-<p>Der Essai ist die höhere Form der<lb/>
+                     <p>Der Essai ist die höhere Form der<lb/>
 Kritik. Er schließt sich direct an die<lb/>
 psychologischen Wissenschaften an, streift<lb/>
 ebensosehr die Poesie wie die Philosophie<lb/>
@@ -152,7 +169,7 @@ sie aus der menschlichen Arbeit entstanden<lb/>
 sind. Wer wird noch zu behaupten wagen,<lb/>
 dass ein solcher Geist nicht den Schaffen-<lb break="no"/>
 den gleichkommt?</p>
-<p>Geister wie Faguet begreifen diese<lb/>
+                     <p>Geister wie Faguet begreifen diese<lb/>
 hohe Mission. Sie verstehen diese Krisis<lb/>
 der Kritik „und versuchen selbst in den<lb/>
 zerhackten Feuilletons, die der Journalis-<lb break="no"/>
@@ -160,7 +177,10 @@ mus dem Publicum Tag für Tag hin-<lb break="no"/>
 wirft, selbst in der Hast der dramatischen<lb/>
 Recensionen, ihre Thätigkeit auf der Höhe<lb/>
 des Essais zu halten. Faguet verdient es</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-17_n0340.xml"
-     prev="WR-05-17_n0339.xml"
-     next="WR-05-17_n0341.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-17_n0340.xml" prev="WR-05-17_n0339.xml" next="WR-05-17_n0341.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 16</title>
+                  <idno>WR-05-16_n0313.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 18</title>
+                  <idno>WR-05-18_n0343.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">RUNDSCHAU.</fw></fw><table><row><cell>
-<p rend="no-intend">Maße zur Verherrlichung des Monismus<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">RUNDSCHAU.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Maße zur Verherrlichung des Monismus<lb/>
 zu verwenden. Die Bannkraft Häckels<lb/>
 zwingt den wirklich poetisch sein Object<lb/>
 betrachtenden Naturforscher stets und stets<lb/>
@@ -60,12 +75,12 @@ Die Unendlichkeit des Stoffes, die Plasticität<lb/>
 des Stoffes, und zuguterletzt die Zellseele<lb/>
 — die berühmte Kohlenstoff-Hymne. Alles<lb/>
 Evolution, Entwicklung. Die Materie<lb/>
-<hi rend="italics">ab initio</hi> belebt (nicht beseelt), der Ver-<lb break="no"/>
+                        <hi rend="italics">ab initio</hi> belebt (nicht beseelt), der Ver-<lb break="no"/>
 stand ein »zufälliges« Entwicklungsproduct.<lb/>
 Wer sentimental aufgelegt ist, erinnere<lb/>
 sich an die tiefe Resignation der Humboldt’-<lb break="no"/>
 schen Worte.</p>
-<p>Von dieser Warte aus besieht sich<lb/>
+                     <p>Von dieser Warte aus besieht sich<lb/>
 Bölsche die Liebe. Neben der individuellen,<lb/>
 »geträumten« Unsterblichkeit die »reale«,<lb/>
 durch die Existenz der Geschlechtsliebe<lb/>
@@ -99,14 +114,15 @@ nur Liebigs »Chemische Briefe«, Ross-<lb break="no"/>
 mässlers romantischer »Wald«, wenn man<lb/>
 will, Cottas »Geologische Bilder« und<lb/>
 Flammarions »<hi rend="italics">Rêves étoiles</hi>«.</p>
-<p>Abstrahiert man von metaphysischer<lb/>
+                     <p>Abstrahiert man von metaphysischer<lb/>
 Tiefe und philosophischer Kritik, so muss<lb/>
 man Bölsche als einen glänzenden Ver-<lb break="no"/>
 treter feinsinniger Popularisierungskunst<lb/>
 bezeichnen. Die Unerschöpflichkeit des<lb/>
 Evolutionsproblems beutet er für seine</p>
-</cell><cell>
-<p rend="no-intend">(zunächst künstlerischen) Zwecke weise aus.<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">(zunächst künstlerischen) Zwecke weise aus.<lb/>
 Verglichen mit den aufdringlich-aufkläre-<lb break="no"/>
 rischen Schriften aus der Zeit des »Cultur-<lb break="no"/>
 kampfes«, zeigen seine Essays hohe Form-<lb break="no"/>
@@ -119,7 +135,7 @@ schen und Essayistischen auch öfter eine<lb/>
 leise Manieriertheit nicht abzustreifen ver-<lb break="no"/>
 mag, in der Naturschilderung ist sie dem<lb/>
 Thema völlig gewachsen.</p>
-<p>In der (eben erschienenen) II. Folge<lb/>
+                     <p>In der (eben erschienenen) II. Folge<lb/>
 des »Liebeslebens« überwiegt das Lehr-<lb break="no"/>
 hafte, die Verwertung des Thatsachen-<lb break="no"/>
 materiales. Die Evolution der Liebe über<lb/>
@@ -139,7 +155,8 @@ nicht genommen hat. In theoretischer<lb/>
 Hinsicht trennt Bölsche Mischungs- und<lb/>
 Distanzliebe als Evolutionsstufen in ähn-<lb break="no"/>
 licher Weise wie Moll, der in seinen<lb/>
-Untersuchungen über die <hi rend="italics">Libido sexualis</hi><lb/>
+Untersuchungen über die <hi rend="italics">Libido sexualis</hi>
+                        <lb/>
 die Generationsfunction in eine »Detu-<lb break="no"/>
 mescenz«- und »Contrectations«-Compo-<lb break="no"/>
 nente zerlegt hat. Übrigens ist diese<lb/>
@@ -160,7 +177,10 @@ selbst erfunden, nicht wenigstens nach-<lb break="no"/>
 erfunden hat, der bleibe abseits <milestone unit="3dots"/> Zur<lb/>
 Wissenschaft steigt man hinauf; sie hat<lb/>
 es nicht nöthig, herabzusteigen.</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

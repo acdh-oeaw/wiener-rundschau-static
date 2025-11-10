@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-11_n0232.xml"
-     prev="WR-05-11_n0231.xml"
-     next="WR-05-11_n0233.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-11_n0232.xml" prev="WR-05-11_n0231.xml" next="WR-05-11_n0233.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 10</title>
+                  <idno>WR-05-10_n0205.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 12</title>
+                  <idno>WR-05-12_n0249.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BLEIBTREU: DIALOG ÜBER ESOTERISCHEN BUDDHISMUS.</fw></fw><table><row><cell>
-<p rend="no-intend">gleichwie Buddha sich jede Verehrung<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BLEIBTREU: DIALOG ÜBER ESOTERISCHEN BUDDHISMUS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">gleichwie Buddha sich jede Verehrung<lb/>
 seiner Person verbat, gleichwohl aber den<lb/>
 ersten Hörern seine eigene »Vollendung«<lb/>
 triumphierend ankündigte: »Versiegt ist<lb/>
@@ -105,8 +120,9 @@ des praktischen Lebens mit seinem Wust<lb/>
 von Conventionalitäten und Irrlichtern das<lb/>
 Seelenleben mehr und mehr seinem wahren<lb/>
 Ziel entfremde, seinem festen Anker ent-</p>
-</cell><cell>
-<p>ferne, bis es steuerlos ins Wesenlose<lb/>
+                  </cell>
+                  <cell>
+                     <p>ferne, bis es steuerlos ins Wesenlose<lb/>
 scheitert. Diese trostlose Ich-Subjectivität<lb/>
 kennt das gutgeartete Kind so wenig,<lb/>
 dass es häufig von sich selbst in der<lb/>
@@ -134,7 +150,7 @@ der höheren Kräfte durch Ausbildung des<lb/>
 thierischen Verstandes kennen. Jesus lernte<lb/>
 die Geheimlehre vermuthlich in Egypten,<lb/>
 und seine Schöpfung darf nur als geniale<lb/>
-<hi rend="text-spaced">Ergänzung</hi> der uralten Weisheit Indiens<lb/>
+                        <hi rend="text-spaced">Ergänzung</hi> der uralten Weisheit Indiens<lb/>
 betrachtet werden. Weil aber dieser Maß-<lb break="no"/>
 stab fehlte und Buddha erst heute wieder<lb/>
 Europa bekannt wurde, hat soviel Miss-<lb break="no"/>
@@ -153,14 +169,18 @@ heiten«das Wesentliche (im Banausensinn<lb/>
 der Menge), und er sieht nicht mehr durch<lb/>
 den Kirchenschutt hindurch die absolute<lb/>
 geistige Identität Jesu mit Buddha, aus<lb/>
-welchen Beiden das dritte Reich des <hi rend="text-spaced">neuen</hi><lb/>
+welchen Beiden das dritte Reich des <hi rend="text-spaced">neuen</hi>
+                        <lb/>
 Buddhismus hervorgehen soll. Wir mussten<lb/>
 uns hier mit dem wahren Christenthum<lb/>
 auseinandersetzen, wie es freilich selbst<lb/>
 Tolstoi mit rationalistischer Verwässerung<lb/>
 nicht vom Schutt reinigt. Mir war es<lb/>
 bezeichnend, dass Sie als Materialist lieber</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

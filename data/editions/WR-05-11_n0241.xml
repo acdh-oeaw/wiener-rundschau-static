@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-11_n0241.xml"
-     prev="WR-05-11_n0240.xml"
-     next="WR-05-11_n0242.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-11_n0241.xml" prev="WR-05-11_n0240.xml" next="WR-05-11_n0242.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 10</title>
+                  <idno>WR-05-10_n0205.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 12</title>
+                  <idno>WR-05-12_n0249.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">VAN DE VELDE: VORSCHLÄGE ZUR KÜNSTLER. HEBUNG DER FRAUENTRACHT.</fw></fw><table><row><cell>
-<p rend="no-intend">zugten Helfer, die Schneider, mit ihren<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">VAN DE VELDE: VORSCHLÄGE ZUR KÜNSTLER. HEBUNG DER FRAUENTRACHT.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">zugten Helfer, die Schneider, mit ihren<lb/>
 schmeichelnden und stupiden Rathschlägen<lb/>
 nehmend, und verlasse sie Verantwortungs-<lb break="no"/>
 beladen auf einem Boden, der ihr, sobald<lb/>
@@ -72,7 +87,7 @@ zu geben, welches sie bisher der Schablone,<lb/>
 dem Geschmack und den Ansichten der<lb/>
 Mehrheit oder der interessierten Phantasie<lb/>
 der Lieferanten überließen.</p>
-<p>Hat man das Wesen dieser ersten<lb/>
+                     <p>Hat man das Wesen dieser ersten<lb/>
 Stufe erkannt, so wird es nicht schwer<lb/>
 halten, die beiden folgenden zu erreichen.<lb/>
 — Die Atmosphäre der Öffentlichkeit<lb/>
@@ -90,7 +105,7 @@ ihrer Toilette die nur zu indiscreten<lb/>
 Blicke und die nur zu frechen Betrach-<lb break="no"/>
 tungen der Menge auf sich gezogen<lb/>
 fühlen würden.</p>
-<p>Der zweite Grund geht aus diesem<lb/>
+                     <p>Der zweite Grund geht aus diesem<lb/>
 Entschlusse hervor. Sie sind durchdrungen<lb/>
 von der Nothwendigkeit, die Straße<lb/>
 anonym zu passieren. Die Straße ist<lb/>
@@ -102,13 +117,14 @@ sind da dieselben, das gleiche Decor be-<lb break="no"/>
 herrscht uns da alle, und die unabweis-<lb break="no"/>
 liche Verpflichtung, sich diesem Decor<lb/>
 anzupassen, besteht für alle.</p>
-<p>Die Männer haben diese Nothwendig-<lb break="no"/>
+                     <p>Die Männer haben diese Nothwendig-<lb break="no"/>
 keit gefühlt und haben sich ihr vor den<lb/>
 Damen unterworfen. Sollte ihr Charakter</p>
-</cell><cell>
-<p rend="no-intend">fügsamer oder ihr Kunstgefühl geschulter<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">fügsamer oder ihr Kunstgefühl geschulter<lb/>
 und ausgeprägter sein?</p>
-<p>Sie tragen alle denselben oder fast<lb/>
+                     <p>Sie tragen alle denselben oder fast<lb/>
 denselben Hut, denselben oder annähernd<lb/>
 denselben Überzieher, denselben oder fast<lb/>
 den gleichen Überrock darunter. Sie geben<lb/>
@@ -122,21 +138,21 @@ selben fügen und in dem Anblick dieser<lb/>
 Genuss schöpfen, der ganz und gar nicht<lb/>
 die Hoffnung, die Kleidung bald zu ver-<lb break="no"/>
 bessern, hemmt.</p>
-<p>Also da haben wir zwei gewonnene<lb/>
+                     <p>Also da haben wir zwei gewonnene<lb/>
 Punkte, welche die Berechtigung meines<lb/>
 Vorschlages bekräftigen.</p>
-<p>In der Häuslichkeit, zu Hause, muss<lb/>
+                     <p>In der Häuslichkeit, zu Hause, muss<lb/>
 die Kleidung so individuell wie irgend<lb/>
 möglich sein, auf der Straße wird sie<lb/>
 ungefähr identisch mit der der Anderen.</p>
-<p>Meine dritte Proposition wird als die<lb/>
+                     <p>Meine dritte Proposition wird als die<lb/>
 kühnste erscheinen. Ich schlage vor, dass<lb/>
 bei Feierlichkeiten, bei Ceremonien und<lb/>
 bei Festlichkeiten die Frauen eine Zwangs-<lb break="no"/>
 toilette tragen sollen, ebenso wie die<lb/>
 Männer, die diese Tradition niemals<lb/>
 gebrochen haben.</p>
-<p>Man hat meinen Vorschlag sofort<lb/>
+                     <p>Man hat meinen Vorschlag sofort<lb/>
 bildlich genommen, diesen Vorschlag, der<lb/>
 nur deshalb so kühn ist, weil er noch<lb/>
 ganz unerwartet kommt und im Grunde<lb/>
@@ -147,7 +163,7 @@ Frack erfunden!« — Hier in Deutsch-<lb break="no"/>
 land sagt man: »Es würde langweilig<lb/>
 sein!« in Österreich: »Es würde preußisch<lb/>
 sein«.</p>
-<p>Unter den Frauen verpflanzen die-<lb break="no"/>
+                     <p>Unter den Frauen verpflanzen die-<lb break="no"/>
 jenigen nicht den geringsten persönlichen<lb/>
 Ausdruck in irgendeine Gelegenheit des<lb/>
 Lebens, die sich über das Opfer, das sie<lb/>
@@ -159,7 +175,10 @@ Geltung zu verschaffen und diese ahnen<lb/>
 mit mir die Schönheit der Feste, bei<lb/>
 welchen alle Frauen die gleichen Costume<lb/>
 tragen würden und die ungetrübte Feier-</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-06_n0134.xml"
-     prev="WR-05-06_n0133.xml"
-     next="WR-05-06_n0135.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-06_n0134.xml" prev="WR-05-06_n0133.xml" next="WR-05-06_n0135.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,18 +41,36 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 5</title>
+                  <idno>WR-05-05_n0097.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 7</title>
+                  <idno>WR-05-07_n0141.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">HARTMANN: DIE GEHEIME BEDEUTUNG DES KREUZES.</fw></fw><table><row><cell>
-<p rend="no-intend">das geistige Licht der Urgrund und das<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">HARTMANN: DIE GEHEIME BEDEUTUNG DES KREUZES.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">das geistige Licht der Urgrund und das<lb/>
 zeugende Princip der Gottheit; der Sohn<lb/>
 ist der Ausdruck dieses Gedankens, das<lb/>
 Wort, die Urkraft alles Lebens; der heilige<lb/>
-<hi rend="text-spaced">Geist</hi> ist der Geist der Wahrheit, der<lb/>
+                        <hi rend="text-spaced">Geist</hi> ist der Geist der Wahrheit, der<lb/>
 gemeinsame Ausfluss von Vater und Sohn,<lb/>
 die Wirkung von Gedanke und Wort, die<lb/>
 Offenbarung Gottes. Er ist das göttliche<lb/>
@@ -79,7 +94,7 @@ ihm die Einheit der heiligen Dreifaltigkeit<lb/>
 wieder hergestellt ist, d. h. wenn sein<lb/>
 Wort der reine Ausdruck seines Gedankens<lb/>
 ist und zur That wird.</p>
-<p>Vater, Sohn und heiliger Geist sind<lb/>
+                     <p>Vater, Sohn und heiliger Geist sind<lb/>
 keine uns fremde und ferne stehenden Dinge.<lb/>
 Der Vater ist der Grund unseres eigenen<lb/>
 Daseins, in uns selbst ist der Sohn ge-<lb break="no"/>
@@ -102,8 +117,9 @@ Sinne der Symbole nichts wissen, werden<lb/>
 das Kind mit dem Bade ausschütten und<lb/>
 alles, was gerade über ihren zeitweiligen<lb/>
 Horizont geht, verwerfen. Wir selbst sind</p>
-</cell><cell>
-<p rend="no-intend">das Kreuz, zusammengesetzt aus verkehrten<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">das Kreuz, zusammengesetzt aus verkehrten<lb/>
 Begierden und irrigen Meinungen, welche<lb/>
 uns hindern, zur wahren Selbsterkenntnis<lb/>
 zu kommen. Unser göttliches Selbst ist<lb/>
@@ -131,7 +147,7 @@ unsere Auferstehung, wenn der Stein des<lb/>
 Irrthums, der das Grab der Nichterkenntnis,<lb/>
 in welchem wir gefangen sind, hinweg-<lb break="no"/>
 gerollt wird.*</p>
-<p>Dass das Symbol der Kreuzigung sich<lb/>
+                     <p>Dass das Symbol der Kreuzigung sich<lb/>
 nicht auf ein »historisches« Ereignis in<lb/>
 der Geschichte der Juden bezieht, davon<lb/>
 zeugen auch die ältesten Bilder derselben,<lb/>
@@ -154,10 +170,14 @@ zulänglichkeit des zusammengebrauten<lb/>
 Gelehrtenkrams, welcher der nach Er-<lb break="no"/>
 kenntnis der Wahrheit dürstenden Seele<lb/>
 von der Welt dargeboten wird; der</p>
-</cell></row></table><note type="footnote">
-<p>* Siehe: F. Hartmann: »<hi rend="text-spaced">Jehoschna</hi>, <hi rend="text-spaced">der Prophet von Nazareth</hi>«. Leipzig.<lb/>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Siehe: F. Hartmann: »<hi rend="text-spaced">Jehoschna</hi>, <hi rend="text-spaced">der Prophet von Nazareth</hi>«. Leipzig.<lb/>
 W. Friedrich.</p>
-</note></div>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

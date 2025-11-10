@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-04_n0091.xml"
-     prev="WR-05-04_n0090.xml"
-     next="WR-05-04_n0092.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-04_n0091.xml" prev="WR-05-04_n0090.xml" next="WR-05-04_n0092.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 3</title>
+                  <idno>WR-05-03_n0049.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 5</title>
+                  <idno>WR-05-05_n0097.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">HARTMANN: ÜBER DIE OCCULTE BEDEUTUNG ALLGEM. GEBRÄUCHE. WORTE.</fw></fw><table><row><cell>
-<p rend="no-intend">unbegreiflich, wenn man auch noch so<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">HARTMANN: ÜBER DIE OCCULTE BEDEUTUNG ALLGEM. GEBRÄUCHE. WORTE.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">unbegreiflich, wenn man auch noch so<lb/>
 viel darüber argumentieren kann, und des-<lb break="no"/>
 halb sind auch die meisten unserer gelehrten<lb/>
 Abhandlungen über »<hi rend="text-spaced">Nirwana</hi>«, »<hi rend="text-spaced">Sa-<lb break="no"/>
@@ -61,7 +76,7 @@ kann, unsere Schriftgelehrten möchten<lb/>
 einmal selbst geeignete Erfahrungen machen,<lb/>
 ehe sie über Dinge urtheilen, in Bezug<lb/>
 auf welche sie absolut unwissend sind.</p>
-<p>Betrachten wir das Wort »<hi rend="text-spaced">Raum</hi>«.<lb/>
+                     <p>Betrachten wir das Wort »<hi rend="text-spaced">Raum</hi>«.<lb/>
 Wir leben im Raume und bewegen uns<lb/>
 darin. Jedermann glaubt an das Dasein<lb/>
 des Raumes und dennoch kann niemand<lb/>
@@ -75,7 +90,7 @@ Unendlichkeit machen. Der Verstand<lb/>
 begreift nur das Geformte und Beschränkte:<lb/>
 die Seele allein kann das Formlose und<lb/>
 Unendliche empfinden.</p>
-<p>Unter »<hi rend="text-spaced">Ewigkeit</hi>« stellen sich die<lb/>
+                     <p>Unter »<hi rend="text-spaced">Ewigkeit</hi>« stellen sich die<lb/>
 meisten Menschen eine Zeit vor, welche<lb/>
 kein Ende nimmt. Thatsächlich hat die<lb/>
 Ewigkeit nichts mit der Zeit zu schaffen,<lb/>
@@ -85,9 +100,9 @@ springt. Der Intellect hat kein Begriffs-<lb break="no"/>
 vermögen dafür, aber das Herz denkt<lb/>
 anders. F. Rückert sagt: »Was in mir<lb/>
 Ewiges denkt, muss ewig sein«.</p>
-<p>Wir müssen das Ewige in uns selbst<lb/>
+                     <p>Wir müssen das Ewige in uns selbst<lb/>
 finden, um zu erfahren, was Ewigkeit ist.</p>
-<p>Ähnlich verhält es sich mit dem Worte<lb/>
+                     <p>Ähnlich verhält es sich mit dem Worte<lb/>
 »<hi rend="text-spaced">Unsterblichkeit</hi>«. Alle sogenannten<lb/>
 Beweise, welche über die Unsterblichkeit<lb/>
 der menschlichen Seele erbracht werden,<lb/>
@@ -102,11 +117,12 @@ die Sache unserer sterblichen Persönlich-<lb break="no"/>
 keit, sondern des unsterblichen Menschen<lb/>
 in uns. Die Bibel sagt richtig: »Es ist<lb/>
 niemand unsterblich, als Gott«.</p>
-<p>Zahllose Bücher wurden schon in<lb/>
+                     <p>Zahllose Bücher wurden schon in<lb/>
 Bezug auf »<hi rend="text-spaced">Gott</hi>« geschrieben und den-<lb break="no"/>
 noch hat wohl noch niemand den Sinn</p>
-</cell><cell>
-<p rend="no-intend">dieses Wortes intellectuell begriffen; denn<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">dieses Wortes intellectuell begriffen; denn<lb/>
 ein Gott, den ein Mensch begreifen könnte,<lb/>
 wäre weniger als ein Mensch und nicht<lb/>
 Gott. Nichts Geringeres als Gott selbst<lb/>
@@ -115,7 +131,7 @@ kenntnis zu gelangen, müssen wir über<lb/>
 unsere angenommene Eigenheit hinaus-<lb break="no"/>
 gehen; dann aber hört mit dieser auch<lb/>
 unser eigenes Begriffsvermögen auf.</p>
-<p>Man sagt, dass man zur Gottes-<lb break="no"/>
+                     <p>Man sagt, dass man zur Gottes-<lb break="no"/>
 erkenntnis nicht durch wissenschaftliche<lb/>
 Forschung, sondern durch den »<hi rend="text-spaced">Glauben</hi>«<lb/>
 gelangt, und es gibt wohl schwer-<lb break="no"/>
@@ -128,7 +144,7 @@ sondern, so wie St. Paul es lehrt (I. Korinth,<lb/>
 II. 5), »eine Kraft Gottes«, die sich<lb/>
 niemand selbst machen kann und die<lb/>
 nur Derjenige kennt, der sie besitzt.</p>
-<p>Ähnlich ist es mit der »<hi rend="text-spaced">Hoffnung</hi>«,<lb/>
+                     <p>Ähnlich ist es mit der »<hi rend="text-spaced">Hoffnung</hi>«,<lb/>
 unter welcher sich der Egoist die sichere<lb/>
 Erwartung irgendeines ihm zugute<lb/>
 kommenden Ereignisses vorstellt; aber<lb/>
@@ -139,7 +155,7 @@ zu schaffen. Wenn der Stern der Hoffnung<lb/>
 in seinem Innern aufgeht, so liegt die<lb/>
 Erfüllung seiner Wünsche bereits in ihm,<lb/>
 und er denkt dabei nicht an sich selbst.</p>
-<p>Aber auch der Sinn des Wortes<lb/>
+                     <p>Aber auch der Sinn des Wortes<lb/>
 »<hi rend="text-spaced">Selbst</hi>« ist wohl nur Wenigen völlig<lb/>
 klar; denn hiezu ist diejenige Selbst-<lb break="no"/>
 erkenntnis nöthig, welche identisch mit der<lb/>
@@ -160,7 +176,10 @@ die höchste Weisheit und die größte<lb/>
 Lüge enthalten, nutzbringend oder ver-<lb break="no"/>
 derblich sein, je nachdem sie auf das<lb/>
 wahre oder das falsche Selbst angewandt</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

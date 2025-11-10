@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-18_n0343.xml"
-     prev="WR-05-17_n0342.xml"
-     next="WR-05-18_n0344.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-18_n0343.xml" prev="WR-05-17_n0342.xml" next="WR-05-18_n0344.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,20 +41,53 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 17</title>
+                  <idno>WR-05-17_n0327.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="prose-start"/><milestone unit="masthead-start"/><p><hi rend="strong">WIENER<lb/>
-RUNDSCHAU</hi></p><p><hi rend="strong">HERAUSGEGEBEN VON FELIX RAPPAPORT</hi></p><table><row><cell>
-<p><date><hi rend="strong">30. SEPTEMBER 1901</hi></date></p>
-</cell><cell>
-<p><hi rend="strong">V. JAHRGANG, NR. 18</hi></p>
-</cell></row></table><milestone unit="hr"/><milestone unit="untyped-end"/><table><row><cell>
-<milestone unit="editorialStatement-start"/>
-<p>Wir theilen hiedurch unseren Lesern<lb/>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="strong">WIENER<lb/>
+RUNDSCHAU</hi>
+            </p>
+            <p>
+               <hi rend="strong">HERAUSGEGEBEN VON FELIX RAPPAPORT</hi>
+            </p>
+            <table>
+               <row>
+                  <cell>
+                     <p>
+                        <date>
+                           <hi rend="strong">30. SEPTEMBER 1901</hi>
+                        </date>
+                     </p>
+                  </cell>
+                  <cell>
+                     <p>
+                        <hi rend="strong">V. JAHRGANG, NR. 18</hi>
+                     </p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="editorialStatement-start"/>
+                     <p>Wir theilen hiedurch unseren Lesern<lb/>
 mit, dass diese Zeitschrift aufhört, in<lb/>
 der bisherigen Form zu erscheinen. Es<lb/>
 begründet sich dies — was für Lügen<lb/>
@@ -79,8 +109,9 @@ kenntnistheorie und die transcendentale<lb/>
 Physik gestützt, ihren Urtheilen eine<lb/>
 sichere und wissenschaftliche Basis<lb/>
 geben kann, während fast alle bisherige</p>
-</cell><cell>
-<p rend="no-intend">nur oberflächlich willkürliches Geschwätz<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">nur oberflächlich willkürliches Geschwätz<lb/>
 ist. Wir haben gezeigt, dass es absurd<lb/>
 ist, sich mit Kunst zu beschäftigen,<lb/>
 wenn man gerade diejenigen Theile<lb/>
@@ -102,8 +133,12 @@ tiefstandes im heutigen Europa die<lb/>
 Veröffentlichung jener Untersuchungen<lb/>
 verfrüht erschien, deren erste Serie<lb/>
 hiemit abgeschlossen ist.</p>
-<milestone unit="untyped-end"/>
-</cell></row></table><milestone unit="undefined"/></div>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="undefined"/>
+         </div>
       </body>
    </text>
 </TEI>

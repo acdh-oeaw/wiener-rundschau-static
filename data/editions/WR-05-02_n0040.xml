@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-02_n0040.xml"
-     prev="WR-05-02_n0039.xml"
-     next="WR-05-02_n0041.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-02_n0040.xml" prev="WR-05-02_n0039.xml" next="WR-05-02_n0041.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 1</title>
+                  <idno>WR-05-01_n0001.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 3</title>
+                  <idno>WR-05-03_n0049.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">MAUCLAIR: ÜBER DEN GEGENWÄRTIGEN STAND DER LITERARISCHEN KRITIK.</fw></fw><table><row><cell>
-<p rend="no-intend">so fest geankert hat, dass sie ein Syn-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MAUCLAIR: ÜBER DEN GEGENWÄRTIGEN STAND DER LITERARISCHEN KRITIK.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">so fest geankert hat, dass sie ein Syn-<lb break="no"/>
 dicat und einen Club besitzen und sich<lb/>
 wie andere Zünfte zur Berufsgenossenschaft<lb/>
 zusammengeschlossen haben. Diese An-<lb break="no"/>
@@ -76,7 +91,7 @@ Kritik in einen <hi rend="text-spaced">unglaublich tiefen<lb/>
 Verfall</hi> gerathen, und zwar aus ganz<lb/>
 natürlichen Ursachen, die ich dem Leser<lb/>
 hier auseinandersetzen will.</p>
-<p>Diese Ursachen sind materieller und<lb/>
+                     <p>Diese Ursachen sind materieller und<lb/>
 moralischer Art; die einen beeinflussen die<lb/>
 andern, und man kann der Frage direct<lb/>
 zu Leibe gehen, indem man zunächst die<lb/>
@@ -97,7 +112,7 @@ Adepten mehr? Die Frage bleibt noch<lb/>
 zu lösen. Jedenfalls ist es Thatsache,<lb/>
 dass die guten, ernsten und würdigen<lb/>
 Blätter von früher todt sind, und dass die<lb/>
-<hi rend="text-spaced">Reportage</hi> und die Fülle <hi rend="text-spaced">telegra-<lb break="no"/>
+                        <hi rend="text-spaced">Reportage</hi> und die Fülle <hi rend="text-spaced">telegra-<lb break="no"/>
 phischer</hi> Informationen alle Zeitungen<lb/>
 dazu treiben, auf Annoncen und schnelle<lb/>
 Berichte ihr Hauptaugenmerk zu richten.<lb/>
@@ -105,8 +120,9 @@ Natürlich müssen bei solchen Verhältnissen<lb/>
 die Gegenstände ausgeschieden werden,<lb/>
 die ein langsames Denken beanspruchen.<lb/>
 Die kritischen Geister, die noch auf ihre</p>
-</cell><cell>
-<p rend="no-intend">Würde halten, werden abgeschreckt, und<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Würde halten, werden abgeschreckt, und<lb/>
 die Chefredacteure finden sich unter<lb/>
 solchen Verhältnissen veranlasst, sie auf<lb/>
 die Monatsschriften zu verweisen. Wie<lb/>
@@ -124,7 +140,7 @@ zusetzen und das Talent der Autoren<lb/>
 zu studieren; der Raum reicht gerade<lb/>
 dazu aus, das betreffende Werk zu loben<lb/>
 oder zu tadeln.</p>
-<p>Da der Zudrang im Vergleich zu der<lb/>
+                     <p>Da der Zudrang im Vergleich zu der<lb/>
 Winzigkeit dieser Artikelchen ein ganz<lb/>
 enormer ist, so wird die Stellung Dem<lb/>
 zugesprochen, der die geringste Forde-<lb break="no"/>
@@ -137,7 +153,7 @@ recht nutzbringend gestalten könnten,<lb/>
 indem sie der <hi rend="text-spaced">Reclamesucht</hi> der<lb/>
 »schreibenden Leute« einen Tribut abver-<lb break="no"/>
 langen. So haben sie das System der<lb/>
-<hi rend="text-spaced">bezahlten Reclame</hi> eingeführt, das<lb/>
+                        <hi rend="text-spaced">bezahlten Reclame</hi> eingeführt, das<lb/>
 heute allgemein verbreitet ist, und es ist<lb/>
 fast unmöglich, über ein Werk etwas<lb/>
 Gutes zu sagen, ohne dass der Verleger<lb/>
@@ -160,7 +176,10 @@ werden von Leuten verfasst, die zu dieser<lb/>
 Rolle nichts weiter mitbringen, als ihren<lb/>
 guten — Willen! Die lächelnde Sorg-<lb break="no"/>
 losigkeit, mit der unbekannte und unpro-</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-20_n0766.xml"
-     prev="WR-02-02-20_n0765.xml"
-     next="WR-02-02-20_n0767.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-20_n0766.xml" prev="WR-02-02-20_n0765.xml" next="WR-02-02-20_n0767.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,14 +42,44 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 19</title>
+                  <idno>WR-02-02-19_n0713.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 21</title>
+                  <idno>WR-02-02-21_n0785.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title><hi rend="text-spaced">DIE NAZARENER</hi>.<lb/>
-Von <rs type="person" key="">PAUL R. v. RITTINGER</rs> (Wien).</title></ab><p>Von allen den zahllosen Schulen der Kunstgeschichte haben sie<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">DIE NAZARENER</hi>.<lb/>
+Von <rs type="person" key="">PAUL R. v. RITTINGER</rs> (Wien).</title>
+            </ab>
+            <p>Von allen den zahllosen Schulen der Kunstgeschichte haben sie<lb/>
 jetzt wohl das kläglichste Los, die armen Nazarener. Einst Künstler<lb/>
 ersten Ranges neuerstandene Raphaels und Michel Angelos, endliche<lb/>
 Erlöser der deutschen Kunst, sind sie jetzt blasse, bedeutungslose<lb/>
@@ -67,7 +94,8 @@ vielleicht wird man einmal ebenso über uns lachen, wie wir über die<lb/>
 und Dürer ganz kleine Durchschnittskünstler und der langweilige<lb/>
 Poussin sowie ein gewisser Herr Diepenbeck grosse Meister waren.<lb/>
 Michel Angelo—Diepenbeck, Cornelius—Menzel. Für uns klingt die<lb/>
-Parallele noch etwas paradox; aber später, wer weiss?</p><p>Im Jahre <date>1811</date> thaten sich mehrere junge Maler, denen die<lb/>
+Parallele noch etwas paradox; aber später, wer weiss?</p>
+            <p>Im Jahre <date>1811</date> thaten sich mehrere junge Maler, denen die<lb/>
 Akademiekunst in Deutschland nicht mehr behagen wollte, zusammen<lb/>
 und siedelten nach Rom über. Ein gewisser Overbeck und ein gewisser<lb/>
 Cornelius waren die ersten, später kamen dann Veit, Steinle, Schnorr<lb/>
@@ -88,7 +116,8 @@ Routine in Farben und Formengebung — waren sie begreiflicherweise<lb/>
 noch weniger als schwach. Einige von ihnen suchten das Versäumte<lb/>
 später in löblichem Eifer nachzuholen, giengen bei Raphaël und Michel<lb/>
 Angelo in die Schule und eigneten sich so eine leidliche Fertigkeit<lb/>
-in symmetrischen Compositionen, glatten Draperien, antikisierenden</p></div>
+in symmetrischen Compositionen, glatten Draperien, antikisierenden</p>
+         </div>
       </body>
    </text>
 </TEI>

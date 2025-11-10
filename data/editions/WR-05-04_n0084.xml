@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-04_n0084.xml"
-     prev="WR-05-04_n0083.xml"
-     next="WR-05-04_n0085.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-04_n0084.xml" prev="WR-05-04_n0083.xml" next="WR-05-04_n0085.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 3</title>
+                  <idno>WR-05-03_n0049.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 5</title>
+                  <idno>WR-05-05_n0097.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">SCHUR: ÜBER HENRY BEYLE-STENDHAL.</fw></fw><table><row><cell>
-<p rend="no-intend">die Reinheit seines Bildes nicht ver-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">SCHUR: ÜBER HENRY BEYLE-STENDHAL.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">die Reinheit seines Bildes nicht ver-<lb break="no"/>
 unreinigen; darum rührte er wohl nicht<lb/>
 daran; deutete nur darauf hin. Vielleicht<lb/>
 — auch das kann der Fall sein — fügte<lb/>
@@ -59,7 +74,7 @@ er sich nur einem künstlerischen Gebot,<lb/>
 demselben, das ich oben andeutete. Viel-<lb break="no"/>
 leicht war es auch nur eine Lebens-<lb break="no"/>
 Erfahrung, die ihn leitete.</p>
-<p>Wohlverstanden — er kennt eine<lb/>
+                     <p>Wohlverstanden — er kennt eine<lb/>
 moralische Grenze nicht; Wenige sind so<lb/>
 frei von Urtheil wie er. Es kommt ihm<lb/>
 gar nicht in den Sinn, dass es ein Gut<lb/>
@@ -71,7 +86,7 @@ etwas zu scheuen. Wohl aber kennt er<lb/>
 eine künstlerische — und auch mensch-<lb break="no"/>
 liche — Grenze. Die hält er mit tödt-<lb break="no"/>
 licher Sicherheit inne.</p>
-<p>Man vergleiche hierzu — zugleich<lb/>
+                     <p>Man vergleiche hierzu — zugleich<lb/>
 als Beweis für seine oben geschilderte<lb/>
 Technik — die Entwicklung des Liebes-<lb break="no"/>
 verhältnisses zwischen Julian und Frau<lb/>
@@ -94,7 +109,7 @@ und gibt dem Bilde die Gleichmäßigkeit<lb/>
 und ruhige, reife Kühle im Ton. Er weint<lb/>
 seine Thränen nicht auf dem Markt. Auch<lb/>
 darin ist er ein Widerspiel unserer Zeit.</p>
-<p>Man macht Stendhal auch den Vor-<lb break="no"/>
+                     <p>Man macht Stendhal auch den Vor-<lb break="no"/>
 wurf, seine Gestalten seien oft nebelhaft<lb/>
 und verschwommen, treten nicht recht<lb/>
 ins Dasein. Der Übersetzer schließt sich<lb/>
@@ -104,13 +119,14 @@ spectivische Art des Sehens, wo manches<lb/>
 unklar, wenig nur scharf hervortritt — ist<lb/>
 sie nicht künstlerisch berechtigt und wahr?<lb/>
 Im Gang des Lebens kommen und gehen die</p>
-</cell><cell>
-<p rend="no-intend">Gestalten und von manchen behält man<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Gestalten und von manchen behält man<lb/>
 nur ein flüchtiges, verschwommenes Bild.<lb/>
 Henry Beyle gibt manche Gestalten so.<lb/>
 Wer ihm hier einen Vorwurf macht —<lb/>
 fehlt ihm nicht das künstlerische Maß?</p>
-<p>Henry Beyle will nicht alles enthüllen,<lb/>
+                     <p>Henry Beyle will nicht alles enthüllen,<lb/>
 sagte ich. Dieser vornehme, aristokratische<lb/>
 Ton unterscheidet ihn vortheilhaft von<lb/>
 jener plebejischen Art, die alles bis zum<lb/>
@@ -133,7 +149,7 @@ und eben hindurchgleiten lässt, für die<lb/>
 Bändigung seiner Instincte und die Reife<lb/>
 seiner Lebensanschauung. Höchste Stil-<lb break="no"/>
 einheit ist bei ihm zu finden.</p>
-<p>Unbeabsichtigt gibt er damit ein Vor-<lb break="no"/>
+                     <p>Unbeabsichtigt gibt er damit ein Vor-<lb break="no"/>
 bild, und indem er dieses ganze bunte<lb/>
 Treiben künstlerisch zu einer Harmonie<lb/>
 zu vereinigen weiß, weist er unwillkürlich<lb/>
@@ -146,19 +162,23 @@ den Sinn des Lebens, an dessen Thoren<lb/>
 er steht. Er erzog sich und zog sich dann zu-<lb break="no"/>
 rück. Er ist in höherem Sinne ein Erzieher,<lb/>
 als heute mancher ein Erzieher sein möchte.</p>
-<p>Freilich, eines schickt sich nicht für<lb/>
+                     <p>Freilich, eines schickt sich nicht für<lb/>
 alle, und ebenso auch nicht für alles.<lb/>
 Und dieser Autor sagt im Hinblick auf<lb/>
 eine unumwundene Anerkennung seines<lb/>
 Talentes von seiten Balzacs ruhigen<lb/>
 Geistes von sich: »Ich glaubte, ich würde<lb/>
 nicht vor <date>1880</date> gelesen werden.«</p>
-<p>Er ist etwas zu optimistisch gewesen;<lb/>
+                     <p>Er ist etwas zu optimistisch gewesen;<lb/>
 bei uns wenigstens wird er wohl auch<lb/>
 um <date>1900</date> herum noch nicht gelesen werden.<lb/>
 Wenigstens nicht mit dem Verständnis,<lb/>
 das er dann erwarten zu können glaubte.</p>
-</cell></row></table><milestone unit="untyped-end"/></div>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+         </div>
       </body>
    </text>
 </TEI>

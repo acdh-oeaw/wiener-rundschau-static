@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-11_n0411.xml"
-     prev="WR-02-01-11_n0410.xml"
-     next="WR-02-01-11_n0412.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-11_n0411.xml" prev="WR-02-01-11_n0410.xml" next="WR-02-01-11_n0412.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,40 +42,91 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 10</title>
+                  <idno>WR-02-01-10_n0361.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 12</title>
+                  <idno>WR-02-01-12_n0441.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">»STUDIA LA MATEMATICA«</fw><fw type="pn">411</fw></fw><p rend="no-intend">bloss nicht sentimental werden lassen. Er ist keusch. Er muss sich<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">»STUDIA LA MATEMATICA«</fw>
+               <fw type="pn">411</fw>
+            </fw>
+            <p rend="no-intend">bloss nicht sentimental werden lassen. Er ist keusch. Er muss sich<lb/>
 seiner Begierden entledigen, ehe er Begierden hat. Er macht ein Ver-<lb break="no"/>
 langen daraus: ein Ach! ein Oh! und sonst nichts. Eine halbe Stunde<lb/>
-Umarmung. Das ist die ärgste Enthaltsamkeit.</p><p>Die Zeit kommt, wo Napoleon ein Idyll sucht. An einer Lebens-<lb break="no"/>
+Umarmung. Das ist die ärgste Enthaltsamkeit.</p>
+            <p>Die Zeit kommt, wo Napoleon ein Idyll sucht. An einer Lebens-<lb break="no"/>
 wende. Es ist Frau Walewska. Er hat Stunden todtzuschlagen, Pläne<lb/>
 auszubrüten, auszureifen, etwas zu verwischen. Er muss die segnen, die<lb/>
 ihm widersteht, die ihm Glut und Aufregung, Blumensträusse und Sex-<lb break="no"/>
-tanerbriefe erlaubt. Doch er vergisst.</p><p>Und er wollte Kinder haben.</p><p>— Jean-Jacques dagegen liess seine Kinder in Findelanstalten<lb/>
+tanerbriefe erlaubt. Doch er vergisst.</p>
+            <p>Und er wollte Kinder haben.</p>
+            <p>— Jean-Jacques dagegen liess seine Kinder in Findelanstalten<lb/>
 stecken: denn er hatte köstliche Worte gefunden, die für ihn die köst-<lb break="no"/>
 lichsten Qualen gewesen wären und die köstlichsten Unruhen, und die<lb/>
 ihm zu süsse Leiden verursacht hätten. Es wäre reizend gewesen.<lb/>
-Leiden! Leiden! Ach! Botaniker.</p><p>— Für Napoleon war ein Kind, ebenso wie ein Weib oder ein<lb/>
+Leiden! Leiden! Ach! Botaniker.</p>
+            <p>— Für Napoleon war ein Kind, ebenso wie ein Weib oder ein<lb/>
 Land, eine Gleichung. Immer eine Berechnung, und eine Berechnung,<lb/>
 die nicht widerwärtig war. Ach! Wie hat Hortense Unrecht, auszurufen:<lb/>
 »Wie, wenn er mich wie seine Tochter behandelte; wenn es für mich<lb/>
 so süss und so einfach war, den Vater, den ich verloren hatte, wieder-<lb break="no"/>
 zufinden, waren so viel Aufmerksamkeit und Vorliebe nur Politik und<lb/>
-keine Zärtlichkeit! <milestone unit="3dots"/>«</p><p>— Kleine? <milestone unit="3dots"/></p><p>— Kleine Julietta? <milestone unit="3dots"/></p><p>— Womit beschäftigen wir uns?</p><p>— Aber <milestone unit="3dots"/></p><p>— Herr Frédéric Masson hatte das Alles vor dir gesagt <milestone unit="3dots"/></p><p>— Und vor dir.</p><p>— Was liegt daran?</p><p>— Ach! Julietta!</p><p>— Ach! Kleine! das ist Literatur! Wahrhaftig, ich bedauerte<lb/>
+keine Zärtlichkeit! <milestone unit="3dots"/>«</p>
+            <p>— Kleine? <milestone unit="3dots"/>
+            </p>
+            <p>— Kleine Julietta? <milestone unit="3dots"/>
+            </p>
+            <p>— Womit beschäftigen wir uns?</p>
+            <p>— Aber <milestone unit="3dots"/>
+            </p>
+            <p>— Herr Frédéric Masson hatte das Alles vor dir gesagt <milestone unit="3dots"/>
+            </p>
+            <p>— Und vor dir.</p>
+            <p>— Was liegt daran?</p>
+            <p>— Ach! Julietta!</p>
+            <p>— Ach! Kleine! das ist Literatur! Wahrhaftig, ich bedauerte<lb/>
 nicht am meisten den Verlust von Zanetto. Am meisten sehnte ich<lb/>
 mich nach Herrn de Brémont zurück, nach einem Schiffscapitän oder<lb/>
-einem Matrosen, die ich naiv und gierig gekannt hatte.</p><p>Und du, Kleine, du liebtest und du suchtest Jemanden — der<lb/>
+einem Matrosen, die ich naiv und gierig gekannt hatte.</p>
+            <p>Und du, Kleine, du liebtest und du suchtest Jemanden — der<lb/>
 dich rein geküsst, geschlagen oder verschmäht hatte. Aber die grossen<lb/>
 Männer! Die Abenteurer! Das hat nichts mit den Weibern zu thun.<lb/>
 Die Julietta von <date>1744</date> hatte recht: »<hi rend="text-spaced">Lasciate le donne e studia<lb/>
 la matematica</hi>.« Mathematik studiren und von den Weibern lassen.<lb/>
 Noch besser! Sie stets vermieden haben! Keusch geblieben sein, keusch<lb/>
 bleiben, wieder keusch werden! Ach! sie sollten immer keusch sein<lb/>
-— immer ganz einfach.</p><p>Und wir, Julietta? Wir?</p><milestone unit="untyped-end"/><milestone unit="hr"/></div>
+— immer ganz einfach.</p>
+            <p>Und wir, Julietta? Wir?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
       </body>
    </text>
 </TEI>

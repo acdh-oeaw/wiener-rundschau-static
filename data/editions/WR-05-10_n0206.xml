@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-10_n0206.xml"
-     prev="WR-05-10_n0205.xml"
-     next="WR-05-10_n0207.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-10_n0206.xml" prev="WR-05-10_n0205.xml" next="WR-05-10_n0207.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 9</title>
+                  <idno>WR-05-09_n0189.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 11</title>
+                  <idno>WR-05-11_n0225.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BLEIBTREU: DIALOG ÜBER ESOTERISCHEN BUDDHISMUS.</fw></fw><table><row><cell>
-<p rend="no-intend">sein fortführender Buddhismus, bieten wollen<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BLEIBTREU: DIALOG ÜBER ESOTERISCHEN BUDDHISMUS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">sein fortführender Buddhismus, bieten wollen<lb/>
 und können, so haben derlei unklare und<lb/>
 zweideutige Aphorismen nicht mehr Be-<lb break="no"/>
 weiskraft, wie die Blender eines Nietzsche.<lb/>
@@ -65,7 +80,7 @@ Strafe verhängt wird. Nichts liegt ferner!<lb/>
 Leiden« ist ein wesentlich anderer, als<lb/>
 Sie ahnen. Doch davon später! Was<lb/>
 stößt Sie nun zumeist am Buddhismus ab?</p>
-<p>— Seine maßlose einseitige Verneinung<lb/>
+                     <p>— Seine maßlose einseitige Verneinung<lb/>
 des Seins. Und sein wesenloses Glück des<lb/>
 Nicht-Seins soll ich obendrein erst durch<lb/>
 schwerste Zermarterung und Abtödtung<lb/>
@@ -80,7 +95,7 @@ ermöglicht werden, der soviel Stärke<lb/>
 heischt, die in dem Maße geschwächt<lb/>
 wird, je mehr die buddhistische Lebens-<lb break="no"/>
 schwächung sich stärkt?</p>
-<p>— Hier schweifen Sie gar schon ins<lb/>
+                     <p>— Hier schweifen Sie gar schon ins<lb/>
 »Praktische« ab, ohne den Widersinn zu<lb/>
 spüren. »Der Kampf ums Dasein« ist ja<lb/>
 gerade der Todfeind, der bekämpft werden<lb/>
@@ -92,25 +107,26 @@ loses Nicht-Sein«, »berechtigte Selbstliebe«,<lb/>
 lauter Trugschlüsse sind, werden Sie später<lb/>
 sehen. Nun bitte weiter mit Ihren Ein-<lb break="no"/>
 würfen!</p>
-<p>— Wer schuf denn das angebliche Gute<lb/>
+                     <p>— Wer schuf denn das angebliche Gute<lb/>
 und Böse? Doch nicht ein persönlicher<lb/>
 Gott. Den verwirft ja der Buddhist, mit<lb/>
 Recht.</p>
-<p>— Sachte! »Persönlich« und »unper-<lb break="no"/>
+                     <p>— Sachte! »Persönlich« und »unper-<lb break="no"/>
 sönlich« sind für den letzten Urgrund<lb/>
 kindische Menschenbegriffe. Der Buddhist<lb/>
 streicht nur den thörichten Kirchengott<lb/>
 des Pöbels.</p>
-<p>— Wenn ein »persönlicher« Welt-<lb break="no"/>
+                     <p>— Wenn ein »persönlicher« Welt-<lb break="no"/>
 schöpfer vom Verstande kritisch verworfen<lb/>
 wird, was bleibt dann? Das All-Eine als</p>
-</cell><cell>
-<p rend="no-intend">unbewusste Totalität kann doch unmöglich<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">unbewusste Totalität kann doch unmöglich<lb/>
 moralische Weltordnungen erlassen.</p>
-<p>— Und wenn nun dieser unbewusste<lb/>
+                     <p>— Und wenn nun dieser unbewusste<lb/>
 Gott identisch wäre mit einer moralischen<lb/>
 Weltordnung?</p>
-<p>— Und was ist das für ein Ding?<lb/>
+                     <p>— Und was ist das für ein Ding?<lb/>
 Leugnen Sie, dass die »Moral«, wie der<lb/>
 intellectuelle Banause sie auffasst, nichts<lb/>
 ist als ein historisches Product socialen<lb/>
@@ -122,7 +138,7 @@ komisch! Also, das All soll sich nach<lb/>
 Statuten der Menschen-Ameisen richten, die<lb/>
 sogar zeitlich und örtlich, social und<lb/>
 klimatisch auf dem Erdball verschieden sind?</p>
-<p>— Sogar individuell. Das sogenannte<lb/>
+                     <p>— Sogar individuell. Das sogenannte<lb/>
 Gewissen, das noch bei Kant und Anderen<lb/>
 als eingeborene Idee herumspukte, ist gar<lb/>
 nichts als ein Coefficient des jeweiligen<lb/>
@@ -159,7 +175,10 @@ zwar auch wirklich geniale Naturen öfters<lb/>
 zu gewaltthätigen und sinnlichen Aus-<lb break="no"/>
 schreitungen, was als Abfall vom besseren<lb/>
 Selbst zu bedauern ist; es steht aber dem</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

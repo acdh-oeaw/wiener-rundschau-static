@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-04_n0143.xml"
-     prev="WR-02-01-04_n0142.xml"
-     next="WR-02-01-04_n0144.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-04_n0143.xml" prev="WR-02-01-04_n0142.xml" next="WR-02-01-04_n0144.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,26 +42,61 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 3</title>
+                  <idno>WR-02-01-03_n0081.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 5</title>
+                  <idno>WR-02-01-05_n0161.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>DEMNÄCHST UND GESTERN.<lb/>
-Von <rs type="person" key="">Rainer Maria Rilke</rs>.</title></ab><p>So ist es immer der gleiche Weg. Von dem geheimnissvollen,<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DEMNÄCHST UND GESTERN.<lb/>
+Von <rs type="person" key="">Rainer Maria Rilke</rs>.</title>
+            </ab>
+            <p>So ist es immer der gleiche Weg. Von dem geheimnissvollen,<lb/>
 grosssprecherischen »Demnächst« zu dem zaghaften Heute, vor welchem<lb/>
 sich der Vorhang enthüllend hebt. Fast wie bei einer Gerichtsver-<lb break="no"/>
 handlung geht es da zu bei den Premieren. Und fast immer führt sich<lb/>
 der Autor nach jedem Act als mildernden Umstand vor, indem er sich<lb/>
 devot verneigt, lächelt und sein Lächeln reden lässt: »Bitte, seien Sie<lb/>
 nur gerecht; richten Sie relativ; wenn ich Ihnen auch nicht viel gebe,<lb/>
-seh’ ich aus, als ob ich mehr geben könnte! Urtheilen Sie selbst!« Pause.</p><p>Ecce homo.</p><p>Und das Publicum denkt: Ja, in Anbetracht <milestone unit="3dots"/> und es klatscht<lb/>
+seh’ ich aus, als ob ich mehr geben könnte! Urtheilen Sie selbst!« Pause.</p>
+            <p>Ecce homo.</p>
+            <p>Und das Publicum denkt: Ja, in Anbetracht <milestone unit="3dots"/> und es klatscht<lb/>
 seinen Freispruch. Es will ihn nicht ans Kreuz. Es ist manierlicher und<lb/>
-auch vorsichtiger als seine Ahnen aus des Pilatus Tagen.</p><p>Und am anderen Morgen beginnt der Theaterbericht: »Gestern<lb/>
-war <milestone unit="3dots"/>« Und wenn er hier aufhörte, ist das nicht auch ein Urtheil?</p><milestone unit="asterismDown"/><p>Es liegt nahe, von den verschiedenen kleinen Demnächst abzu-<lb break="no"/>
+auch vorsichtiger als seine Ahnen aus des Pilatus Tagen.</p>
+            <p>Und am anderen Morgen beginnt der Theaterbericht: »Gestern<lb/>
+war <milestone unit="3dots"/>« Und wenn er hier aufhörte, ist das nicht auch ein Urtheil?</p>
+            <milestone unit="asterismDown"/>
+            <p>Es liegt nahe, von den verschiedenen kleinen Demnächst abzu-<lb break="no"/>
 sehen und zu fragen, ob hinter dem ernsten Demnächst des Dramas<lb/>
-als solchem auch ein trauriges »Gestern war« wartet.</p><p>Unsere Zeit hat uns eine Fülle neuer Aufschlüsse über die Kunst<lb/>
+als solchem auch ein trauriges »Gestern war« wartet.</p>
+            <p>Unsere Zeit hat uns eine Fülle neuer Aufschlüsse über die Kunst<lb/>
 vemittelt, und wenn das grosse Geheimniss, dem wir entgegenlauschen,<lb/>
 auch nicht redselig wurde, vielleicht sind wir schweigsamer geworden,<lb/>
 da wir beginnen, es zu verstehen, da wir nicht mehr nach grossen<lb/>
@@ -82,7 +114,8 @@ dann gewinnt aber auch die Form eine seltsame Wichtigkeit. Sie ist<lb/>
 dann das eigentlich Intime, das Aufrichtige an dem Kunstwerke. Und<lb/>
 ein Werk muss bedeutend an Werth einbüssen, welches dem Zufall<lb/>
 und der Willkür irgendwann Antheil an der Bestimmung seiner äusseren<lb/>
-Gestalt gewährt, jenem Werke gegenüber, bei dem jede Biegung und</p></div>
+Gestalt gewährt, jenem Werke gegenüber, bei dem jede Biegung und</p>
+         </div>
       </body>
    </text>
 </TEI>

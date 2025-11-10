@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-11_n0246.xml"
-     prev="WR-05-11_n0245.xml"
-     next="WR-05-11_n0247.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-11_n0246.xml" prev="WR-05-11_n0245.xml" next="WR-05-11_n0247.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 10</title>
+                  <idno>WR-05-10_n0205.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 12</title>
+                  <idno>WR-05-12_n0249.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">AURIER: VINCENT VAN GOGH.</fw></fw><table><row><cell>
-<p rend="no-intend">die unaufhörliche Notwendigkeit fühlt,<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">AURIER: VINCENT VAN GOGH.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">die unaufhörliche Notwendigkeit fühlt,<lb/>
 seine Ideen mit präcisen, wägbaren,<lb/>
 greifbaren Formen zu bekleiden, mit<lb/>
 kraftvoll fleischlichen und körperlichen<lb/>
@@ -75,7 +90,7 @@ das Dasein dieser idealistischen Ten-<lb break="no"/>
 denzen zuzugeben, so bliebe ein großer<lb/>
 Theil des Werkes, das wir studieren,<lb/>
 sehr unverständlich.</p>
-<p>Wie erklärte man zum Beispiel<lb/>
+                     <p>Wie erklärte man zum Beispiel<lb/>
 den »<hi rend="text-spaced">Säemann</hi>«, diesen erhabenen und<lb/>
 beunruhigenden Säemann, diesen un-<lb break="no"/>
 geschlachten Bauer mit der rohen,<lb/>
@@ -105,23 +120,24 @@ volle Sonnenblume, die er unermüdlich<lb/>
 wiederholt, wie ein Monomane; wie<lb/>
 soll man es erklären, wenn man nicht<lb/>
 sein beständiges Eingenommensein von</p>
-</cell><cell>
-<p rend="no-intend">einer vagen und glorreichen sonnen-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">einer vagen und glorreichen sonnen-<lb break="no"/>
 mythischen Allegorie zugeben will?</p>
-<milestone unit="asterisk"/>
-<p>Vincent van Gogh ist in der That<lb/>
+                     <milestone unit="asterisk"/>
+                     <p>Vincent van Gogh ist in der That<lb/>
 nicht nur ein großer Maler, ein Enthu-<lb break="no"/>
 siast seiner Kunst, seiner Palette und der<lb/>
 Natur, er ist auch ein Träumer, ein<lb/>
 exaltierter Gläubiger, ein Verschlinger<lb/>
 schöner Utopien, von Ideen und<lb/>
 Träumen lebend.</p>
-<p>Lange fand er seine Lust darin, eine<lb/>
+                     <p>Lange fand er seine Lust darin, eine<lb/>
 Erneuerung der Kunst auszudenken,<lb/>
 die durch eine Verpflanzung der Cultur<lb/>
 ermöglicht werden sollte: eine Kunst<lb/>
 der tropischen Regionen.</p>
-<p>Die Völker gebieterisch Werke ver-<lb break="no"/>
+                     <p>Die Völker gebieterisch Werke ver-<lb break="no"/>
 langend, die dem neubewohnten Milieu<lb/>
 entsprechen; die Maler sich einer bisher<lb/>
 unbekannten, furchtbar leuchtenden<lb/>
@@ -130,8 +146,9 @@ die Ohnmacht der alten Schulkniffe<lb/>
 eingestehend und sich naiv auf die<lb/>
 Suche begebend nach einer aufrich-<lb break="no"/>
 tigen Übertragung all dieser neuen<lb/>
-Sensationen! <milestone unit="4dots"/></p>
-<p>Wäre er nicht in der That, er, der<lb/>
+Sensationen! <milestone unit="4dots"/>
+                     </p>
+                     <p>Wäre er nicht in der That, er, der<lb/>
 intensive und phantastische Colorist,<lb/>
 Gold- und Edelsteinmaler, viel mehr<lb/>
 als Guillaumet, der abgeschmackte<lb/>
@@ -139,8 +156,9 @@ Fromentin und der schmutzige Gérôme,<lb/>
 der wahrhaft würdige Maler dieser<lb/>
 Länder des Glanzes, der blitzenden<lb/>
 Sonnen und der Farben, die blind<lb/>
-machen? <milestone unit="4dots"/></p>
-<p>Dann, als Consequenz dieser Über-<lb break="no"/>
+machen? <milestone unit="4dots"/>
+                     </p>
+                     <p>Dann, als Consequenz dieser Über-<lb break="no"/>
 zeugung, dass alles in der Kunst neu<lb/>
 angefangen werden muss, hatte und<lb/>
 liebte er lange Zeit die Idee, eine sehr<lb/>
@@ -158,8 +176,12 @@ unbeschreiblich jubilierenden »<hi rend="text-spaced">Post-<lb break="no"/>
 angestellten</hi>«, die »<hi rend="text-spaced">Zugbrücke</hi>«, so<lb/>
 roh leuchtend und so wundervoll banal,<lb/>
 das treuherzige »<hi rend="text-spaced">Mädchen mit der<lb/>
-Rose</hi>«, der »<hi rend="text-spaced">Zuave</hi>«, die »<hi rend="text-spaced">Pro-</hi></p>
-</cell></row></table></div>
+Rose</hi>«, der »<hi rend="text-spaced">Zuave</hi>«, die »<hi rend="text-spaced">Pro-</hi>
+                     </p>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

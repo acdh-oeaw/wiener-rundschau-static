@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-03-01-01_n0003.xml"
-     prev="WR-03-01-01_n0002.xml"
-     next="WR-03-01-01_n0004.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-01_n0003.xml" prev="WR-03-01-01_n0002.xml" next="WR-03-01-01_n0004.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,150 +42,241 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 2</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 2</title>
+                  <idno>WR-03-02-14_n0321.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 3, Halbbd. 1, Nr. 0</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 3, Halbbd. 1, Nr. 2</title>
+                  <idno>WR-03-01-02_n0025.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">STRINDBERG: DIE SCHLÜSSEL DES HIMMELREICHS.</fw></fw><table><row><cell>
-<lg><l>Mich, wie dereinst die ihren, angelacht.</l>
-<l>Ich hatt’ Dich lieb! Wie lieb, das kann</l>
-<l>Ich gar nicht sagen. Eins ich weiss,</l>
-<l>Als Du mir starbst, starb ich. —</l>
-<l>Dein kleiner, zarter Leib</l>
-<l>Barg einen männlich starken Willen!</l>
-<l>Dein schönes blondes Köpfchen,</l>
-<l>So reich an mächtiger Gedanken Keim,</l>
-<l>Liess Dir zu Spielen niemals irgend Ruh.</l>
-<l>Und in der schwachen Brust ein edles</l>
-<l>Herz Dir klopfte,</l>
-<l>Dass Du Dich strafen liessest für die</l>
-<l>Schwestern. —</l>
-<l>Denk, schwarzer Doctor Dir,</l>
-<l>Er nahm der andern Schuld auf sich —</l>
-<l>Dem Jesuskinde war er gleich:</l>
-<l>Sein liebstes Spielzeug war das kleine</l>
-<l>Lämmchen,</l>
-<l>Das Lämmchen, sieh, so unschuldsweiss!</l>
-<l>Das sollte schlafen ihm im Arm,</l>
-<l>Es sollt’ ihm fressen aus der Hand! <milestone unit="4dots"/></l>
-<l>Mein kleines, weisses Lamm, leb wohl,</l>
-<l>Leb wohl, mein Liebling, mein Johannes!</l></lg>
-<milestone unit="untyped-end"/>
-<p>(Lässt sich am Bette des Kindes nieder.)</p>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Der Arzt</hi> (aufstehend).</p>
-<lg><l>Hat, armer Freund, der Schmerz nun</l>
-<l>ausgetobt?</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Der Schmied</hi>.</p>
-<lg><l>Wo gab’s ein Ende solchen Grams,</l>
-<l>Arzneien wo?</l>
-<l>Ja, gib mir meine Kinder wieder, und</l>
-<l>ich bin geheilt!</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Der Arzt</hi>.</p>
-<lg><l>Hör’ mich und nimm Vernunft zu Hilfe!</l>
-<l>Nicht immer heilt man Gleiches nur mit</l>
-<l>Gleichem,</l>
-<l>Brandwunden linderst Du mit kühler Salbe;</l>
-<l>Du weisst, die des Gesichts entrathen</l>
-<l>Sie helfen sich mit Ohr und Hand;</l>
-<l>Und bald, als Deine Frau Dir starb,</l>
-<l>Vergassest Du sie um die Kinder?</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Der Schmied</hi>.</p>
-<lg><l>Und nun sind auch die Kinder mir ge-</l>
-<l>storben!</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Der Arzt</hi>.</p>
-<lg><l>So höre doch! Kann ich zum Leben wecken,</l>
-<l>Die von uns schieden?</l>
-<l>Ich kannte Deine Kinder, habe nie</l>
-<l>So liebe Kleinen noch gesehen.</l>
-<l>Und dass sie Dich geliebt, das weiss ich,</l>
-<l>In Leidensstunden sah ich sie,</l>
-<l>Und hörte wie sie Vater riefen.</l></lg>
-</cell><cell>
-<lg><l>Mit Thränen in der Stimme! Väterchen,</l>
-<l>Komm, Vater. Komm! Wir sterben.</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Der Schmied</hi>.</p>
-<lg><l>Ach! Nach dem Vater riefen sie!</l>
-<l>Was weisst Du noch? So sprich <milestone unit="3dots"/>!</l>
-<l>Sie litten schwer? Wie sahn sie aus?</l>
-<l>Wer war am tapfersten?</l>
-<l>Berichte alles! Auch das Kleinste</l>
-<l>Ruf ins Gedächtnis Dir zum Leben!</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Der Arzt</hi>.</p>
-<lg><l>Zuletzt, im Fieber, dem Ersticken nah —</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Der Schmied</hi>.</p>
-<lg><l>Halt ein, zum Satan! Sie erstickten!</l>
-<l>O Gott! Der Du sie mir erstickt,</l>
-<l>Ich hasse Dich!</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Der Arzt</hi>.</p>
-<lg><l>Bedeckten sie mit Küssen meine Hand</l>
-<l>Und nannten Vater mich — — —</l>
-<l>Zum erstenmal hört’ ich mich Vater rufen</l>
-<l>Und als ich fühlte ihre heissen Lippen</l>
-<l>Auf meiner harten Hand, die schnitt in</l>
-<l>Menschenfleisch,</l>
-<l>Empfand ich Deine Seligkeit, Dein Wehe <milestone unit="3dots"/></l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Der Schmied</hi>.</p>
-<lg><l>Du bist ein Mann von Herz, Du Doctor.</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Der Arzt</hi>.</p>
-<lg><l>So ziemlich, ja!</l>
-<l>Indessen kam ich da auf den Gedanken —</l>
-<l>Und denken ist ja meine starke Seite —</l>
-<l>So dacht’ ich denn:</l>
-<l>Wie schön der Tod ist in der Jugend,</l>
-<l>Bevor des Lebens Bosheit uns verderbte.</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Der Schmied</hi>.</p>
-<lg><l>Ein altes Wort, und wohl so unwahr nicht.</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Der Arzt</hi>.</p>
-<lg><l>Du bist ein Mann von Kopf, Du Schmied.</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Der Schmied</hi>.</p>
-<lg><l>So ziemlich, ja!</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Der Arzt</hi>.</p>
-<lg><l>Doch sollst ein lust’ger Kerl Du von Natur</l>
-<l>Auch sein. So spricht man in der Zunft.</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Der Schmied</hi>.</p>
-<lg><l>Ich war’s. Doch bin ich es nicht mehr.</l>
-<l>Nun ist mein Frohsinn hin.</l>
-<l>Der Baum, dem seine Wurzeln abgestorben,</l>
-<l>Der welket ab!</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Der Arzt</hi>.</p>
-<lg><l>Doch setzt die Zweige man ins Wasser,</l>
-<l>schlägt er neue Wurzeln.</l></lg>
-</cell></row></table></div>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">STRINDBERG: DIE SCHLÜSSEL DES HIMMELREICHS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <lg>
+                        <l>Mich, wie dereinst die ihren, angelacht.</l>
+                        <l>Ich hatt’ Dich lieb! Wie lieb, das kann</l>
+                        <l>Ich gar nicht sagen. Eins ich weiss,</l>
+                        <l>Als Du mir starbst, starb ich. —</l>
+                        <l>Dein kleiner, zarter Leib</l>
+                        <l>Barg einen männlich starken Willen!</l>
+                        <l>Dein schönes blondes Köpfchen,</l>
+                        <l>So reich an mächtiger Gedanken Keim,</l>
+                        <l>Liess Dir zu Spielen niemals irgend Ruh.</l>
+                        <l>Und in der schwachen Brust ein edles</l>
+                        <l>Herz Dir klopfte,</l>
+                        <l>Dass Du Dich strafen liessest für die</l>
+                        <l>Schwestern. —</l>
+                        <l>Denk, schwarzer Doctor Dir,</l>
+                        <l>Er nahm der andern Schuld auf sich —</l>
+                        <l>Dem Jesuskinde war er gleich:</l>
+                        <l>Sein liebstes Spielzeug war das kleine</l>
+                        <l>Lämmchen,</l>
+                        <l>Das Lämmchen, sieh, so unschuldsweiss!</l>
+                        <l>Das sollte schlafen ihm im Arm,</l>
+                        <l>Es sollt’ ihm fressen aus der Hand! <milestone unit="4dots"/>
+                        </l>
+                        <l>Mein kleines, weisses Lamm, leb wohl,</l>
+                        <l>Leb wohl, mein Liebling, mein Johannes!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>(Lässt sich am Bette des Kindes nieder.)</p>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi> (aufstehend).</p>
+                     <lg>
+                        <l>Hat, armer Freund, der Schmerz nun</l>
+                        <l>ausgetobt?</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Wo gab’s ein Ende solchen Grams,</l>
+                        <l>Arzneien wo?</l>
+                        <l>Ja, gib mir meine Kinder wieder, und</l>
+                        <l>ich bin geheilt!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Hör’ mich und nimm Vernunft zu Hilfe!</l>
+                        <l>Nicht immer heilt man Gleiches nur mit</l>
+                        <l>Gleichem,</l>
+                        <l>Brandwunden linderst Du mit kühler Salbe;</l>
+                        <l>Du weisst, die des Gesichts entrathen</l>
+                        <l>Sie helfen sich mit Ohr und Hand;</l>
+                        <l>Und bald, als Deine Frau Dir starb,</l>
+                        <l>Vergassest Du sie um die Kinder?</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Und nun sind auch die Kinder mir ge-</l>
+                        <l>storben!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>So höre doch! Kann ich zum Leben wecken,</l>
+                        <l>Die von uns schieden?</l>
+                        <l>Ich kannte Deine Kinder, habe nie</l>
+                        <l>So liebe Kleinen noch gesehen.</l>
+                        <l>Und dass sie Dich geliebt, das weiss ich,</l>
+                        <l>In Leidensstunden sah ich sie,</l>
+                        <l>Und hörte wie sie Vater riefen.</l>
+                     </lg>
+                  </cell>
+                  <cell>
+                     <lg>
+                        <l>Mit Thränen in der Stimme! Väterchen,</l>
+                        <l>Komm, Vater. Komm! Wir sterben.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Ach! Nach dem Vater riefen sie!</l>
+                        <l>Was weisst Du noch? So sprich <milestone unit="3dots"/>!</l>
+                        <l>Sie litten schwer? Wie sahn sie aus?</l>
+                        <l>Wer war am tapfersten?</l>
+                        <l>Berichte alles! Auch das Kleinste</l>
+                        <l>Ruf ins Gedächtnis Dir zum Leben!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Zuletzt, im Fieber, dem Ersticken nah —</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Halt ein, zum Satan! Sie erstickten!</l>
+                        <l>O Gott! Der Du sie mir erstickt,</l>
+                        <l>Ich hasse Dich!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Bedeckten sie mit Küssen meine Hand</l>
+                        <l>Und nannten Vater mich — — —</l>
+                        <l>Zum erstenmal hört’ ich mich Vater rufen</l>
+                        <l>Und als ich fühlte ihre heissen Lippen</l>
+                        <l>Auf meiner harten Hand, die schnitt in</l>
+                        <l>Menschenfleisch,</l>
+                        <l>Empfand ich Deine Seligkeit, Dein Wehe <milestone unit="3dots"/>
+                        </l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Du bist ein Mann von Herz, Du Doctor.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>So ziemlich, ja!</l>
+                        <l>Indessen kam ich da auf den Gedanken —</l>
+                        <l>Und denken ist ja meine starke Seite —</l>
+                        <l>So dacht’ ich denn:</l>
+                        <l>Wie schön der Tod ist in der Jugend,</l>
+                        <l>Bevor des Lebens Bosheit uns verderbte.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Ein altes Wort, und wohl so unwahr nicht.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Du bist ein Mann von Kopf, Du Schmied.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>So ziemlich, ja!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Doch sollst ein lust’ger Kerl Du von Natur</l>
+                        <l>Auch sein. So spricht man in der Zunft.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Ich war’s. Doch bin ich es nicht mehr.</l>
+                        <l>Nun ist mein Frohsinn hin.</l>
+                        <l>Der Baum, dem seine Wurzeln abgestorben,</l>
+                        <l>Der welket ab!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Doch setzt die Zweige man ins Wasser,</l>
+                        <l>schlägt er neue Wurzeln.</l>
+                     </lg>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

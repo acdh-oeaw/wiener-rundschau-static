@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-16_n0314.xml"
-     prev="WR-05-16_n0313.xml"
-     next="WR-05-16_n0315.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-16_n0314.xml" prev="WR-05-16_n0313.xml" next="WR-05-16_n0315.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 15</title>
+                  <idno>WR-05-15_n0295.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 17</title>
+                  <idno>WR-05-17_n0327.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">LUCKA: ZUR SYMBOLIK IN WAGNERS »PARSIFAL«.</fw></fw><table><row><cell>
-<p>In die Hut des Menschen sind die<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">LUCKA: ZUR SYMBOLIK IN WAGNERS »PARSIFAL«.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>In die Hut des Menschen sind die<lb/>
 beiden constituierenden Principien gegeben:<lb/>
 das Göttliche (Metaphysische), das die<lb/>
 Edelsten in seinem Dienste hält und<lb/>
@@ -105,8 +120,9 @@ gegenüber das reine Princip vollständig zu<lb/>
 besiegen: »Bald hüt’ ich mir selbst den<lb/>
 Gral«. Durch Klingsors Macht hat sich<lb/>
 die Erscheinung in unheilvollem Zwiespalt</p>
-</cell><cell>
-<p rend="no-intend">gegen die geistigen Menschen gewendet.<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">gegen die geistigen Menschen gewendet.<lb/>
 Amfortas und die Ritter, die, obzwar<lb/>
 intellectueller Natur, doch nicht die Kraft<lb/>
 zu befreiender That haben, sind verurtheilt,<lb/>
@@ -114,7 +130,7 @@ in fruchtloser Ohnmacht dahinzusiechen.<lb/>
 Der Gral spendet ihnen keine Nahrung<lb/>
 mehr, sie leben kümmerlich von Früchten<lb/>
 des Feldes.</p>
-<p>Parsifal, der geniale und reine Mensch,<lb/>
+                     <p>Parsifal, der geniale und reine Mensch,<lb/>
 weiß den Speer durch Entsagungs-That<lb/>
 zu gewinnen und treu zu hüten: der<lb/>
 Speer tritt in sein drittes Stadium, das<lb/>
@@ -123,7 +139,7 @@ Physische kehrt zum Metaphysischen zurück.<lb/>
 Grund; da verliert sie ihren Namen und<lb/>
 ist nichts mehr als Gott in Gott.« Meister<lb/>
 Eckhart 503, I.)</p>
-<p>Der erlösende Mensch, der keinerlei<lb/>
+                     <p>Der erlösende Mensch, der keinerlei<lb/>
 durch Tradition erworbene Kenntnisse<lb/>
 besitzt (Parsifal ist fern von den Menschen<lb/>
 im Walde aufgewachsen), »der reine Thor«,<lb/>
@@ -160,7 +176,10 @@ stellt. Aber anstatt die beabsichtigte<lb/>
 Wirkung hervorzurufen, machen ihn ihre<lb/>
 Liebkosungen »weit-hellsichtig«. Er ge-<lb break="no"/>
 denkt der aus Sehnsucht nach ihm ge-</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

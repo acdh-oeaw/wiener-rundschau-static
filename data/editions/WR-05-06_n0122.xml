@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-06_n0122.xml"
-     prev="WR-05-06_n0121.xml"
-     next="WR-05-06_n0123.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-06_n0122.xml" prev="WR-05-06_n0121.xml" next="WR-05-06_n0123.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 5</title>
+                  <idno>WR-05-05_n0097.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 7</title>
+                  <idno>WR-05-07_n0141.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">STRINDBERG: DIE GEHEIMNISSE DER BLUMEN.</fw></fw><table><row><cell>
-<p rend="no-intend">zu dem dunklen Blau entwickelt haben,<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">STRINDBERG: DIE GEHEIMNISSE DER BLUMEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">zu dem dunklen Blau entwickelt haben,<lb/>
 könnte man ja Spasses halber sich fragen:<lb/>
 was liegt dahinter? Hat die Sonne etwas<lb/>
 von ihrer Stärke eingebüßt seit der Trias-<lb/>
@@ -62,7 +77,7 @@ in der Farbe von Hell zu Dunkel geht?<lb/>
 Hat die Sage von dem Erlöschen der<lb/>
 Sonne hier einen Grund? Und — wandern<lb/>
 wir dem Dunkel zu?</p>
-<p>Werden alle Ranunkeln, Rosen und<lb/>
+                     <p>Werden alle Ranunkeln, Rosen und<lb/>
 Nelken einmal blau werden? Oder werden<lb/>
 wir unsere rothen Rosen behalten dürfen,<lb/>
 wenn auch einige blau geworden sind,<lb/>
@@ -77,16 +92,16 @@ Blau zu berühren. Die Saubohne hat rein<lb/>
 schwarze Flecken auf weißem Grunde<lb/>
 und ihre wilde Verwandte, die wilde<lb/>
 Wicke, hat blaue oder violette Blüten.</p>
-<p>Die cyanenblaue Kornblume wird durch<lb/>
+                     <p>Die cyanenblaue Kornblume wird durch<lb/>
 Anbau noch blauer, und ihre Futter-<lb break="no"/>
 schuppen haben rein schwarze Kanten<lb/>
 bekommen. Das spricht für das Heran-<lb break="no"/>
 nahen des Dunkels.</p>
-<p>Wird der Gang der Entwicklung vom<lb/>
+                     <p>Wird der Gang der Entwicklung vom<lb/>
 Lichte zum Dunkel schreiten, zu gleicher<lb/>
 Zeit, wie die Pflanzen hinauf zur Vervoll-<lb break="no"/>
 kommnung wandern?</p>
-<p>Was ist denn Entwicklung, und was ist<lb/>
+                     <p>Was ist denn Entwicklung, und was ist<lb/>
 Vervollkommnung? Der Weg von dem<lb/>
 Einfachen und Gleichartigen zu dem Zu-<lb break="no"/>
 sammengesetzten und Ungleichartigen, sagt<lb/>
@@ -100,20 +115,21 @@ kragen vollkommener als die Rose? Was<lb/>
 will das sagen? Ist sie geschickter, den<lb/>
 Kampf ums Dasein auszuhalten, als die<lb/>
 Rose? — Keine Antwort!</p>
-<p>Vielleicht ist Entwicklung nur Bewe-<lb break="no"/>
+                     <p>Vielleicht ist Entwicklung nur Bewe-<lb break="no"/>
 gung, vorwärts oder rückwärts, gleich-<lb break="no"/>
 giltige Veränderung! Und die Natur-<lb break="no"/>
 gesetze nur subjective Wahrnehmungen</p>
-</cell><cell>
-<p rend="no-intend">unserer ordnungsliebenden Gehirne, die<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">unserer ordnungsliebenden Gehirne, die<lb/>
 überall einen Zweck spüren wollen.</p>
-<p>Wenn wir sehen, bis wieweit die<lb/>
+                     <p>Wenn wir sehen, bis wieweit die<lb/>
 historische Entwicklung der Phanero-<lb break="no"/>
 gamen mit der der Blütenfarben zusammen-<lb break="no"/>
 fällt, werden wir wirklich ein Ungefähr<lb/>
 von Ordnung und Übereinstimmung ge-<lb break="no"/>
 wahr, aber so voll von Ausnahmen?</p>
-<p>Bereits während der Steinkohlenzeit<lb/>
+                     <p>Bereits während der Steinkohlenzeit<lb/>
 beginnen die Phanerogamen sich aus den<lb/>
 Farnen zu entwickeln, sagt Häckel Wort<lb/>
 für Wort. Die erste Gruppe wird Kelch-<lb break="no"/>
@@ -150,7 +166,7 @@ Gruppe auftritt; wie Veronika, Kornblume,<lb/>
 blaue Gentiane, Glockenblume, Cichorie,<lb/>
 Vergissmeinnicht, Münze, Lavendel, Ros-<lb break="no"/>
 marin, Vinca, Artischoke!</p>
-<p>Wäre nur nicht der vermaledeite<lb/>
+                     <p>Wäre nur nicht der vermaledeite<lb/>
 Flachs und der ärgerliche Rittersporn, der<lb/>
 Sturmhut, die Akelei und das Kreuzkraut<lb/>
 dazwischen gekommen, so wäre es gut<lb/>
@@ -159,7 +175,10 @@ fehlt es. Und es hilft nichts, dass ich<lb/>
 die überwältigende blaue Majorität der<lb/>
 dritten Classe zu Hilfe nehme. Ich würde<lb/>
 allerdings die blaue Farbe der Akelei,</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

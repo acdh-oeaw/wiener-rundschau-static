@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-12_n0252.xml"
-     prev="WR-05-12_n0251.xml"
-     next="WR-05-12_n0253.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-12_n0252.xml" prev="WR-05-12_n0251.xml" next="WR-05-12_n0253.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 11</title>
+                  <idno>WR-05-11_n0225.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 13</title>
+                  <idno>WR-05-13_n0265.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BUBER: ÜBER JAKOB BOEHME.</fw></fw><table><row><cell>
-<p>Nach Boehmes Gefühl werden alle<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BUBER: ÜBER JAKOB BOEHME.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Nach Boehmes Gefühl werden alle<lb/>
 Dinge durch zwei Grundkräfte bewegt:<lb/>
 die Kampf- und die Liebessehnsucht.<lb/>
 Aber ihm sind diese nicht die alten,<lb/>
@@ -67,7 +82,7 @@ wegung des Kampfes führt zum Individuum,<lb/>
 die Bewegung der Liebe zu Gott. Ich<lb/>
 möchte bei dieser eigenartigen Weg-<lb break="no"/>
 bestimmung ein wenig verweilen.</p>
-<p>Kampf und Liebe sind nichts als<lb/>
+                     <p>Kampf und Liebe sind nichts als<lb/>
 Sehnsucht. Die Verschiedenheit der Dinge,<lb/>
 die beide erzeugt, ist um der Sehnsucht<lb/>
 und der Bewegung willen da; »denn«,<lb/>
@@ -105,8 +120,9 @@ Ludwig Feuerbachs ihre Bejahung und<lb/>
 Ergänzung. »<milestone unit="4dots"/> Der Mensch für sich<lb/>
 ist Mensch (im gewöhnlichen Sinn); der<lb/>
 Mensch mit Mensch — die Einheit von</p>
-</cell><cell>
-<p rend="no-intend">Ich und Du — ist Gott.« Feuerbach<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Ich und Du — ist Gott.« Feuerbach<lb/>
 will die Einheit, von der er spricht, auf<lb/>
 die »Realität des Unterschiedes von Ich<lb/>
 und Du« gestützt sehen. Wir aber stehen<lb/>
@@ -115,7 +131,7 @@ Feuerbachs, dem Gefühle des heiligen<lb/>
 Franciscus von Assisi, der Bäume, Vögel<lb/>
 und Sterne seine Geschwister nannte und<lb/>
 noch näher dem Vedânta.</p>
-<p>Für Boehme aber sind Kampf und<lb/>
+                     <p>Für Boehme aber sind Kampf und<lb/>
 Liebe Versöhnungen und Überwindungen<lb/>
 des Zwiespaltes, Brücken zwischen dem<lb/>
 Ich und der Welt; der Kampf, weil in ihm<lb/>
@@ -135,7 +151,7 @@ sich eine Gestalt in der ewigen Geburt<lb/>
 allein nicht zu offenbaren, denn eine ist<lb/>
 der anderen Glied und wäre eine ohne<lb/>
 die andere nichts.«</p>
-<p>Die Einheit aller Einzelwesen und<lb/>
+                     <p>Die Einheit aller Einzelwesen und<lb/>
 deren Verschiedenheit hängen mit einander<lb/>
 zusammen. Die Welt ist für Boehme eine<lb/>
 Harmonie individueller, in ihrer<lb/>
@@ -148,7 +164,7 @@ ihren Ton gibt, und ist doch nur einerlei<lb/>
 Luft in allen Stimmen, welche in jeder<lb/>
 Stimme hallet, je nachdem das Instrument<lb/>
 oder die Orgel gemacht ist«.</p>
-<p>Aber Boehme begnügt sich mit dieser<lb/>
+                     <p>Aber Boehme begnügt sich mit dieser<lb/>
 Brücke nicht, und dies ist es, worin er<lb/>
 sich uns am stärksten nähert. Ihn ver-<lb break="no"/>
 langt es nach einer tieferen Einheit. Es<lb/>
@@ -160,7 +176,10 @@ Affectionen eines Ich ist, noch auch im<lb/>
 Sinne Fichtes, der nicht das Individuum,<lb/>
 sondern die Ichheit überhaupt, »die Iden-<lb break="no"/>
 tität des Bewusstseienden und Bewussten«</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

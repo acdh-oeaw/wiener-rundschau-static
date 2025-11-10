@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-23_n0898.xml"
-     prev="WR-02-02-23_n0897.xml"
-     next="WR-02-02-23_n0899.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-23_n0898.xml" prev="WR-02-02-23_n0897.xml" next="WR-02-02-23_n0899.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,14 +42,44 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 22</title>
+                  <idno>WR-02-02-22_n0825.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 24</title>
+                  <idno>WR-02-02-24_n0905.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">898</fw><fw type="ctext">LIE.</fw></fw><p>»Aber dann frag’ ich nur, wer daran schuld ist, dass ich heut’<lb/>
-zu der Sauferei hinaus musst’?</p><p>»Ja—a, ja—a, wie es kam, Du <milestone unit="4dots"/> Da war es aus mit aller<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">898</fw>
+               <fw type="ctext">LIE.</fw>
+            </fw>
+            <p>»Aber dann frag’ ich nur, wer daran schuld ist, dass ich heut’<lb/>
+zu der Sauferei hinaus musst’?</p>
+            <p>»Ja—a, ja—a, wie es kam, Du <milestone unit="4dots"/> Da war es aus mit aller<lb/>
 Barschheit und Unfreundlichkeit, und man drehte sich und lächelte,<lb/>
 wie Butter, und bot Essen und Bier, um den Segelmacher in die<lb/>
 Stube hineinzulocken. Hätte sie nur erst die Vögel da drinnen, dann —<lb/>
@@ -60,12 +87,18 @@ dann würden sie schon auf der Leimruthe sitzen bleiben — Hi hi hi —<lb/>
 sie bringt ein paar alte Kerle ins Geleise zum Trinken, und dann<lb/>
 rennt sie, Gott helf mir, zum Hause hinaus! — Lässt uns da auf<lb/>
 dem Trocknen sitzen und dursten und uns langweilen <milestone unit="3dots"/> Schlimmer,<lb/>
-als wenn es nur aus Malice ausgedacht wär’ <milestone unit="3dots"/></p><p>»Da war es mit eins das Kleid für die Mären, um das Du Dich<lb/>
+als wenn es nur aus Malice ausgedacht wär’ <milestone unit="3dots"/>
+            </p>
+            <p>»Da war es mit eins das Kleid für die Mären, um das Du Dich<lb/>
 so zerriss’st — — Und — hü — ü — wenn es sich um die Kinder<lb/>
-handelt, dann — —</p><p>»Aber der Mann! <milestone unit="4dots"/> an ihn denkt sie nicht mehr so viel —.<lb/>
+handelt, dann — —</p>
+            <p>»Aber der Mann! <milestone unit="4dots"/> an ihn denkt sie nicht mehr so viel —.<lb/>
 Er« — der Ton des Bootsmanns wurde gallenbitter — »er soll nur<lb/>
 arbeiten und sich abrackern, bis er alt und grau wird, wie ein abge-<lb break="no"/>
-nutzter Schrobber <milestone unit="3dots"/></p><p>»Aber da ist nun die Leber, auf die ich zu hoffen habe <milestone unit="3dots"/><lb/>
+nutzter Schrobber <milestone unit="3dots"/>
+            </p>
+            <p>»Aber da ist nun die Leber, auf die ich zu hoffen habe <milestone unit="3dots"/>
+               <lb/>
 Um den Unfug anzusehen — wie Du gehst und Dich abrackerst und<lb/>
 quälst und rennst und schänd’st im Sonnenbrand, so dass Du oben<lb/>
 auf der Höh’ stehst und schnaufst — obgleich Du weisst, dass Du<lb/>
@@ -73,18 +106,27 @@ Asthmakrämpfe kriegen kannst <milestone unit="3dots"/> Früher war da ein ewige
 mit all den neun Kindern, die gewaschen und gekämmt und gespeist<lb/>
 und zur Weisheit und Zucht ausgeschimpft wurden. Aber nun ist es,<lb/>
 bei Gott, um nichts besser. Sie fährt wie ein Ballon ohne Steuer<lb/>
-herum, nachdem sie den ganzen Ballast gelichtet hat <milestone unit="4dots"/>«</p><p>»Nun mach’ ’nmal, dass Du in’s Bett kommst, Rusten« —<lb/>
-suchte ihn seine Frau anzutreiben, ohne auf sein Gerede zu achten.</p><p>»He, he, beisst nichts an der Gerechtigkeit an — die ist wohl<lb/>
-poliert —</p><p>»Nein, ob sie nicht dem richt’gen Gertrudsvogel ähnelt <milestone unit="4dots"/><lb/>
+herum, nachdem sie den ganzen Ballast gelichtet hat <milestone unit="4dots"/>«</p>
+            <p>»Nun mach’ ’nmal, dass Du in’s Bett kommst, Rusten« —<lb/>
+suchte ihn seine Frau anzutreiben, ohne auf sein Gerede zu achten.</p>
+            <p>»He, he, beisst nichts an der Gerechtigkeit an — die ist wohl<lb/>
+poliert —</p>
+            <p>»Nein, ob sie nicht dem richt’gen Gertrudsvogel ähnelt <milestone unit="4dots"/>
+               <lb/>
 Sie hat einen Schnabel wie eine Eule — und Augen wie ’ne Gans<lb/>
-— und krächzt — — und krächzt —« lachte er und brummte.</p><p>»Du konntest doch wohl Marens Kleid fortschicken, Gertrud« —<lb/>
-fuhr er plötzlich eifrig in die Höhe.</p><milestone unit="asterismUp"/><p>Eines Morgens einige Wochen später hiengen weisse Laken vor<lb/>
+— und krächzt — — und krächzt —« lachte er und brummte.</p>
+            <p>»Du konntest doch wohl Marens Kleid fortschicken, Gertrud« —<lb/>
+fuhr er plötzlich eifrig in die Höhe.</p>
+            <milestone unit="asterismUp"/>
+            <p>Eines Morgens einige Wochen später hiengen weisse Laken vor<lb/>
 den Stubenfenstern droben auf der Höhe bei Rustens, sowohl nach<lb/>
 dem Garten, als nach der Strasse hinaus. Die Frau war am Tage<lb/>
-vorher gegen Abend unter einem Asthma-Anfall gestorben.</p><p>Drinnen gieng der Bootsmann herum, aus der Wohnstube in<lb/>
+vorher gegen Abend unter einem Asthma-Anfall gestorben.</p>
+            <p>Drinnen gieng der Bootsmann herum, aus der Wohnstube in<lb/>
 die Schlafkammer und wirtschaftete umher, und wenn er eine Weile<lb/>
 drinnen gesessen und sie angesehen hatte, dann wieder hinaus in die<lb/>
-Stube. Sie lag noch im Bett, mit geschlossenen Augen, die Nase in</p></div>
+Stube. Sie lag noch im Bett, mit geschlossenen Augen, die Nase in</p>
+         </div>
       </body>
    </text>
 </TEI>

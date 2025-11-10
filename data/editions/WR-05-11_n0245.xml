@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-11_n0245.xml"
-     prev="WR-05-11_n0244.xml"
-     next="WR-05-11_n0246.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-11_n0245.xml" prev="WR-05-11_n0244.xml" next="WR-05-11_n0246.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,21 +41,39 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 10</title>
+                  <idno>WR-05-10_n0205.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 12</title>
+                  <idno>WR-05-12_n0249.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">AURIER: VINCENT VAN GOGH.</fw></fw><table><row><cell>
-<p rend="no-intend">des vorgesetzten Objectivs; hypothetisch<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">AURIER: VINCENT VAN GOGH.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">des vorgesetzten Objectivs; hypothetisch<lb/>
 — es ist wahr — immer eins, in den<lb/>
 Subjecten immer verschieden, was die<lb/>
 Frage compliciert und die Möglichkeit<lb/>
 jedes unwiderleglichen Kriteriums der<lb/>
 Grade der passiven Aufrichtigkeit des<lb/>
 Künstlers vor der Natur zerstört.</p>
-<p>Der Kritiker ist daher immer un-<lb break="no"/>
+                     <p>Der Kritiker ist daher immer un-<lb break="no"/>
 glücklicherweise bei dieser Determi-<lb break="no"/>
 nation, und selbst bei der reinen und<lb/>
 einfachen Versicherung oder reinen und<lb/>
@@ -66,7 +81,7 @@ einfachen Verneinung dieser passiven<lb/>
 Aufrichtigkeit, auf mehr oder weniger<lb/>
 muthmaßliche, aber immer strittige<lb/>
 Folge-Erscheinungen beschränkt.</p>
-<p>Nichtsdestoweniger halte ich dafür,<lb/>
+                     <p>Nichtsdestoweniger halte ich dafür,<lb/>
 dass es, in dem Fall von Vincent van<lb/>
 Gogh, trotz der manchmal verwirrenden<lb/>
 Seltsamkeit seiner Werke, für Den, der<lb/>
@@ -88,7 +103,7 @@ Details unbestreitbar seinen tiefen und<lb/>
 beinahe kindlichen Ernst, seine große<lb/>
 Liebe der Natur und des Wahren —<lb/>
 des für ihn Wahren.</p>
-<p>Es sei uns daher erlaubt, nachdem<lb/>
+                     <p>Es sei uns daher erlaubt, nachdem<lb/>
 dies zugegeben ist, von den Werken<lb/>
 Vincent van Goghs auf sein mensch-<lb break="no"/>
 liches oder vielmehr künstlerisches<lb/>
@@ -99,8 +114,9 @@ könnte. Das, was sein ganzes Werk<lb/>
 besonders macht, ist der Excess, der<lb/>
 Excess in der Kraft, in der Nervosität,<lb/>
 die Heftigkeit des Ausdrucks. In seiner</p>
-</cell><cell>
-<p rend="no-intend">kategorischen Betonung des Charakters<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">kategorischen Betonung des Charakters<lb/>
 der Dinge, in seiner oft tollkühnen<lb/>
 Vereinfachung der Formen, in seiner<lb/>
 Frechheit, die Sonne von Angesicht zu<lb/>
@@ -143,7 +159,7 @@ Bourgeois von Holland, mit der guten<lb/>
 Gesundheit, sie, mit dem guten Gleich-<lb break="no"/>
 gewicht der Seelen, die seine Vorfahren<lb/>
 und seine Meister waren.</p>
-<p>Jedoch genügen dieser Respect und<lb/>
+                     <p>Jedoch genügen dieser Respect und<lb/>
 diese Liebe zur Realität der Dinge<lb/>
 kaum allein, um die tiefe, zusammen-<lb break="no"/>
 gesetzte und sehr besondere Kunst<lb/>
@@ -160,7 +176,10 @@ der italienischen Primitiven, dieser<lb/>
 Mystiker, die kaum das Bedürfnis<lb/>
 empfanden, ihre Träume zu desimma-<lb break="no"/>
 terialisieren, aber ein Symbolist, der</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

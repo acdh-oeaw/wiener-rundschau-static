@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-02_n0038.xml"
-     prev="WR-05-02_n0037.xml"
-     next="WR-05-02_n0039.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-02_n0038.xml" prev="WR-05-02_n0037.xml" next="WR-05-02_n0039.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 1</title>
+                  <idno>WR-05-01_n0001.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 3</title>
+                  <idno>WR-05-03_n0049.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">NATKOWSKI: DAS TAGEBUCH DER KOWALEWSKA.</fw></fw><table><row><cell>
-<p>Vor allem begegnet der Mathematiker,<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">NATKOWSKI: DAS TAGEBUCH DER KOWALEWSKA.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Vor allem begegnet der Mathematiker,<lb/>
 der an außergewöhnliche Ordnung, an eiserne<lb/>
 logische Folgen in der Vorstellung der Dinge<lb/>
 gewöhnt ist, unbesiegbaren Schwierigkeiten<lb/>
@@ -63,7 +78,7 @@ anwenden will. Wer wäre denn imstande, das<lb/>
 veränderliche Gewirr der miteinander kämpfen-<lb break="no"/>
 den, sich erhebenden und fallenden Tropfen<lb/>
 in der siedenden Geysersäule zu ordnen!</p>
-<p>Abgesehen davon, stößt der Mathematiker<lb/>
+                     <p>Abgesehen davon, stößt der Mathematiker<lb/>
 beim literarischen Schaffen auch auf materielle,<lb/>
 inhaltliche Schwierigkeiten. Die mathematischen<lb/>
 Forschungen verwischen die Empfindsamkeit<lb/>
@@ -96,7 +111,7 @@ nicht zu sehen sind. Seine Seele ist gleichsam<lb/>
 eine zerreibende Maschine, in der Millionen<lb/>
 einzelner Kerne sich in einen concentrierten<lb/>
 bitteren Tropfen verwandeln.*</p>
-<p>Wir sprechen nicht mehr davon, dass<lb/>
+                     <p>Wir sprechen nicht mehr davon, dass<lb/>
 außer diesen Schwierigkeiten, denen der<lb/>
 Mathematiker begegnet, Kowalewska auch auf<lb/>
 solche stoßen musste, denen überhaupt jedes<lb/>
@@ -114,8 +129,9 @@ scheinen, selbst wenn es Donnerschläge wären,<lb/>
 selbst wenn nach ihnen, wie nach den Schlägen<lb/>
 Thors, unverwischte Furchen auf dem Felsen-<lb break="no"/>
 antlitz der Erde verblieben.</p>
-</cell><cell>
-<p>Kein Wunder also, dass trotz und sogar<lb/>
+                  </cell>
+                  <cell>
+                     <p>Kein Wunder also, dass trotz und sogar<lb/>
 theilweise wegen ihres geistigen Reichthums<lb/>
 Kowalewskas literarisches Schaffen unbedeutend<lb/>
 war und dass sie ein anderes, geistig nicht<lb/>
@@ -131,22 +147,23 @@ bekleiden, welche die Pest verbreiten, oder<lb/>
 auch die Puppen aus Sägespänen und Stroh,<lb/>
 mit denen sie, wie die Zauberkünstler in den<lb/>
 Jahrmarktbuden, den durch die Reclame her-<lb break="no"/>
-beigelockten Pöbel belustigen! <milestone unit="3dots"/></p>
-<p>Also auch dieser Stütze war Kowalewska<lb/>
+beigelockten Pöbel belustigen! <milestone unit="3dots"/>
+                     </p>
+                     <p>Also auch dieser Stütze war Kowalewska<lb/>
 beraubt, der Stütze, ohne welche selbst der<lb/>
 egoistische Goethe »verloren« wäre, wie er<lb/>
 selber sagt. Kann man es nun der Kowalewska<lb/>
 als Schwäche anrechnen, dass sie sich unter<lb/>
 der Last der Leiden beugte?</p>
-<p>»Ein Unverwundbares, Unbegrabbares ist<lb/>
+                     <p>»Ein Unverwundbares, Unbegrabbares ist<lb/>
 an mir, ein Felsensprengendes: das heißt mein<lb/>
 Wille. Schweigsam und unverändert schreitet<lb/>
 es durch die Jahre.</p>
-<p>Ja, noch bist du mir aller Gräber Zer-<lb break="no"/>
+                     <p>Ja, noch bist du mir aller Gräber Zer-<lb break="no"/>
 trümmerer: Heil dir, mein Wille! <milestone unit="3dots"/>« Und<lb/>
 doch beugte sich auch dieser so mächtige<lb/>
 Wille vor dem Hunger des Lebens.</p>
-<p>Diese mächtigen Mittel genügen also nicht,<lb/>
+                     <p>Diese mächtigen Mittel genügen also nicht,<lb/>
 um den Schmerz und die Schläge zu besiegen,<lb/>
 die als Lawine auf das Haupt des kämpfenden<lb/>
 Menschen niederfallen. Es gilt also, sich noch um<lb/>
@@ -156,15 +173,15 @@ muss man noch tiefer in die menschliche<lb/>
 Natur hineingreifen, um daraus ein noch<lb/>
 dauerhafteres Erz hervorzubringen und eine<lb/>
 noch stärkere Waffe zu hauen.</p>
-<p>In dem Schmerz als solchen muss man die<lb/>
-<hi rend="text-spaced">unmittelbare</hi> Quelle der Kraft suchen. Da-<lb break="no"/>
+                     <p>In dem Schmerz als solchen muss man die<lb/>
+                        <hi rend="text-spaced">unmittelbare</hi> Quelle der Kraft suchen. Da-<lb break="no"/>
 bei denken wir nicht an die Resignation des<lb/>
 Schmerzes, nein: solch ein Menschentypus ist<lb/>
 für die Entwicklung der Menschheit ein wert-<lb break="no"/>
 loser, passiver Typus, das ist Ballast, das<lb/>
 ist — Kanonenfutter! Wir meinen nicht die<lb/>
 Resignation, sondern die Wuth des Schmerzes.</p>
-<p>Nietzsches Zarathustra sagte: »Seid hart!«<lb/>
+                     <p>Nietzsches Zarathustra sagte: »Seid hart!«<lb/>
 aber hart ist die Natur und hart ist der Mensch<lb/>
 der Natur, der Thiermensch; es kann also der<lb/>
 Zukunftsmensch, der über-fühlende Mensch, der<lb/>
@@ -175,15 +192,19 @@ der Schmerz, die Schicksalsschläge — ihr werdet<lb/>
 sie nicht fürchten, sie werden euch nicht<lb/>
 brechen, denn sie werden für euch ein Element<lb/>
 werden, wie für andere das Glück!</p>
-<p>Das ist durchaus keine leere Phrase, denn<lb/>
+                     <p>Das ist durchaus keine leere Phrase, denn<lb/>
 das Leben des Organismus ist eine gewisse<lb/>
 Ausgleichung zwischen ihm und dem Medium;</p>
-</cell></row></table><note type="footnote">
-<p>* Diese constructiven und inhaltlichen Schwierigkeiten, auf welche Kowalewska in der Entwicklung des literarischen<lb/>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Diese constructiven und inhaltlichen Schwierigkeiten, auf welche Kowalewska in der Entwicklung des literarischen<lb/>
 Schaffens stieß, erklären uns, weshalb ihr oben betiteltes Werk ein »Tagebuch« ist (leichte Construction), und zwar aus<lb/>
 ihren »Kinderjahren« (größere Leichtigkeit, einzelne Erscheinungen zu erfassen und in der ursprünglichen Form<lb/>
 festzuhalten).</p>
-</note></div>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-04_n0093.xml"
-     prev="WR-05-04_n0092.xml"
-     next="WR-05-04_n0094.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-04_n0093.xml" prev="WR-05-04_n0092.xml" next="WR-05-04_n0094.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 3</title>
+                  <idno>WR-05-03_n0049.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 5</title>
+                  <idno>WR-05-05_n0097.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">HARTMANN: ÜBER DIE OCCULTE BEDEUTUNG ALLGEM. GEBRÄUCHL. WORTE.</fw></fw><table><row><cell>
-<p rend="no-intend">aus der Tiefe des beziehungsweise »Unbe-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">HARTMANN: ÜBER DIE OCCULTE BEDEUTUNG ALLGEM. GEBRÄUCHL. WORTE.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">aus der Tiefe des beziehungsweise »Unbe-<lb break="no"/>
 wussten«, so muss auch bei der Schöpfung<lb/>
 eines Weltalls das Material, wenn auch<lb/>
 unsichtbar und im Geiste, vorhanden sein,<lb/>
@@ -60,7 +75,7 @@ schein kommen kann. Wie Viele ge-<lb break="no"/>
 brauchen ein derartiges Wort und wie<lb/>
 Wenige haben den wahren Sinn desselben<lb/>
 entdeckt!</p>
-<p>Das Wort »<hi rend="text-spaced">Entdecken</hi>« bedeutet<lb/>
+                     <p>Das Wort »<hi rend="text-spaced">Entdecken</hi>« bedeutet<lb/>
 gleichfalls etwas mehr, als ein »Ausfinden«.<lb/>
 »Ent-decken« ist gleichsam ein Hinweg-<lb break="no"/>
 räumen der Decke der Unwissenheit,<lb/>
@@ -72,7 +87,7 @@ in Wirklichkeit eine Wahrheit »offenbaren«;<lb/>
 er kann höchstens die Decke hinweg-<lb break="no"/>
 ziehen; dann wird die Wahrheit von<lb/>
 selbst offenbar.</p>
-<p>Ähnlich verhält es sich mit dem<lb/>
+                     <p>Ähnlich verhält es sich mit dem<lb/>
 Worte »<hi rend="text-spaced">Entschließen</hi>«. Viele können<lb/>
 nur deshalb keinen Entschluss fassen, weil<lb/>
 sie den Sinn dieses Wortes nicht richtig<lb/>
@@ -86,7 +101,7 @@ Regel die Ausführung nicht schwer; aber<lb/>
 ein bloßes »Vorhaben« oder »Vornehmen«<lb/>
 ist noch lange kein Entschluss; obgleich<lb/>
 es oft dafür gehalten wird.</p>
-<p>Das Wort »<hi rend="text-spaced">Zerstreuung</hi>« hat eine<lb/>
+                     <p>Das Wort »<hi rend="text-spaced">Zerstreuung</hi>« hat eine<lb/>
 tiefe, aber wenig beachtete metaphysische<lb/>
 Bedeutung. Wer nicht gesammelt lebt,<lb/>
 sondern ein äußerliches, sinnliches Leben<lb/>
@@ -105,8 +120,9 @@ ist, verschiedenes Ding. Dies geschieht<lb/>
 nur langsam. Ein Verdruss, Ärger oder<lb/>
 irgendeine andere Leidenschaft bricht<lb/>
 die ungebildete Kraft und der »Doppel-</p>
-</cell><cell>
-<p rend="no-intend">gänger« sinkt in seine alten Fesseln zu-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">gänger« sinkt in seine alten Fesseln zu-<lb break="no"/>
 rück. Die innerliche Sehkraft hat vielleicht<lb/>
 schon angefangen, sich zu entwickeln, da<lb/>
 kommt die Eifersucht, der Neid, der<lb/>
@@ -118,7 +134,7 @@ und ziehen die in ihm angesammelte<lb/>
 Substanz wieder heraus. — Ein Mensch,<lb/>
 der so seine Kräfte vergeudet, ist am<lb/>
 Ende thatsächlich »verlumpt«.</p>
-<p>Betrachten wir das Wort »<hi rend="text-spaced">Einbil-<lb break="no"/>
+                     <p>Betrachten wir das Wort »<hi rend="text-spaced">Einbil-<lb break="no"/>
 dung</hi>«. Man verwechselt es in der Regel<lb/>
 mit Phantasie und Träumerei. In Wirk-<lb break="no"/>
 lichkeit ist dieselbe die Kraft, durch den<lb/>
@@ -140,7 +156,7 @@ Wir wissen nicht mehr, was »Einbildung«<lb/>
 ist; denn unsere Gedanken sind kraftlos<lb/>
 und unsere Einbildung — man könnte<lb/>
 sagen »imaginär«.</p>
-<p>Ähnliches könnte über den »<hi rend="text-spaced">Willen</hi>«<lb/>
+                     <p>Ähnliches könnte über den »<hi rend="text-spaced">Willen</hi>«<lb/>
 gesagt werden; der heutzutage gewöhnlich<lb/>
 mit »Wunsch«,»Begierde«, »Absicht«<lb/>
 u. dgl. verwechselt wird. Der wahre,<lb/>
@@ -155,12 +171,15 @@ nicht vollkommen ist. Wir glauben zu<lb/>
 herrschen und werden doch nur von den<lb/>
 Gefühlen und Vorstellungen, die in uns<lb/>
 auftreten und uns beeinflussen, beherrscht.</p>
-<p>Mit unserer »<hi rend="text-spaced">Erkenntnis</hi>« ist es<lb/>
+                     <p>Mit unserer »<hi rend="text-spaced">Erkenntnis</hi>« ist es<lb/>
 nicht besser bestellt, und deshalb wird<lb/>
 auch der Sinn des Wortes »Selbst-<lb break="no"/>
 erkenntnis« nur von Wenigen begriffen.<lb/>
 Die Selbsterkenntnis ist eine Kraft, welche</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

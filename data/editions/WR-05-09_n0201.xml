@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-09_n0201.xml"
-     prev="WR-05-09_n0200.xml"
-     next="WR-05-09_n0202.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-09_n0201.xml" prev="WR-05-09_n0200.xml" next="WR-05-09_n0202.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 8</title>
+                  <idno>WR-05-08_n0159.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 10</title>
+                  <idno>WR-05-10_n0205.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">SCHMITT: HERBERT SPENCERS SYNTHETISCHE PHILOSOPHIE.</fw></fw><table><row><cell>
-<p>ja oft mit Aufopferung des Lebens voll-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">SCHMITT: HERBERT SPENCERS SYNTHETISCHE PHILOSOPHIE.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>ja oft mit Aufopferung des Lebens voll-<lb break="no"/>
 zogen werden — und nur solche uninter-<lb break="no"/>
 essierte Handlungen sind sittlich — können<lb/>
 vom Standpunkte der im Kampfe ums<lb/>
@@ -80,10 +95,11 @@ politischer Einsicht von Kirche und Staat<lb/>
 geheiligt werden, habe ich in meiner<lb/>
 Schrift »Die Culturbedingungen der christ-<lb break="no"/>
 lichen Dogmen und unsere Zeit« (Leipzig<lb/>
-<date>1901</date>, E. Diederichs) ausgeführt. — Spencer<lb/>
+                        <date>1901</date>, E. Diederichs) ausgeführt. — Spencer<lb/>
 ist ferner »der Ansicht, dass die Ent-</p>
-</cell><cell>
-<p rend="no-intend">wicklung des Geistes durch gehäufte und<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">wicklung des Geistes durch gehäufte und<lb/>
 vererbte Wirkungen der Erfahrungen zu<lb/>
 dauernden und universellen moralischen<lb/>
 Gefühlen führe« (S. 360). Es ist aber<lb/>
@@ -103,7 +119,7 @@ Diese Mächte haben Sokrates den Gift-<lb break="no"/>
 becher gereicht und Giordano Bruno auf<lb/>
 den Scheiterhaufen geschleppt, sie haben<lb/>
 Christus an das Kreuz geheftet.</p>
-<p>Aus diesen Mächten mechanischer Ge-<lb break="no"/>
+                     <p>Aus diesen Mächten mechanischer Ge-<lb break="no"/>
 wohnheit und den Körperschaften, in denen<lb/>
 sich ihre Formen consolidieren, lässt sich<lb/>
 nicht die geringste sittliche Regung er-<lb break="no"/>
@@ -114,7 +130,12 @@ Mächte verstehen muss, die Lösung des<lb/>
 Welträthsels ebensowenig erwarten, wie<lb/>
 die Anbahnung einer edleren Cultur der<lb/>
 Zukunft.</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/></div>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
       </body>
    </text>
 </TEI>

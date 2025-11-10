@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-02_n0055.xml"
-     prev="WR-02-01-02_n0054.xml"
-     next="WR-02-01-02_n0056.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-02_n0055.xml" prev="WR-02-01-02_n0054.xml" next="WR-02-01-02_n0056.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,27 +42,75 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 1</title>
+                  <idno>WR-02-01-01_n0001.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 3</title>
+                  <idno>WR-02-01-03_n0081.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">DIE HEILSARMEE.</fw><fw type="pn">55</fw></fw><p rend="no-intend">als wollten sie leise auf die Himmelsfreude hinweisen, und mit feinen<lb/>
-Stimmchen repetirten sie:</p><milestone unit="verse-start"/><lg><l>»Der Jäsus liebt die Sünder,</l>
-<l>Der Jäsus hat sie gern.</l>
-<l>Ja, der Jäsus liebt die Sünder,</l>
-<l>Ach, er hat sie wirklich gern.</l></lg><milestone unit="untyped-end"/><p>Dradiralirolliro! — Dradiraliriddidi! — <milestone unit="5dots"/>« und schlössen das feinste<lb/>
-und beste Schweizer Gejodel mit Kanarienzwitschern an.</p><p>Aber der <hi rend="italics">Commis</hi> war ein entschlossener Weltmensch. Für ihn<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DIE HEILSARMEE.</fw>
+               <fw type="pn">55</fw>
+            </fw>
+            <p rend="no-intend">als wollten sie leise auf die Himmelsfreude hinweisen, und mit feinen<lb/>
+Stimmchen repetirten sie:</p>
+            <milestone unit="verse-start"/>
+            <lg>
+               <l>»Der Jäsus liebt die Sünder,</l>
+               <l>Der Jäsus hat sie gern.</l>
+               <l>Ja, der Jäsus liebt die Sünder,</l>
+               <l>Ach, er hat sie wirklich gern.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <p>Dradiralirolliro! — Dradiraliriddidi! — <milestone unit="5dots"/>« und schlössen das feinste<lb/>
+und beste Schweizer Gejodel mit Kanarienzwitschern an.</p>
+            <p>Aber der <hi rend="italics">Commis</hi> war ein entschlossener Weltmensch. Für ihn<lb/>
 war überhaupt diese ganze Heilsarmeevorstellung nichts weiter als eine<lb/>
-Sensation. Und er machte sich resolut Bahn.</p><p>Aber vorne an der Thür war alles verriegelt. Und nur die Herzen<lb/>
-dieser geknickten, weltverlassenen, armen Mädchen standen ihm offen.</p><p>»Kinder,« meinte er, »ich <hi rend="text-spaced">muss</hi> mein <hi rend="italics">Rendez-vous</hi> halten; das<lb/>
-verlangt schon meine Ehre.«</p><p>Sie aber flehten noch einmal mit ihrem herzinnisgten Stammeln:<lb/>
+Sensation. Und er machte sich resolut Bahn.</p>
+            <p>Aber vorne an der Thür war alles verriegelt. Und nur die Herzen<lb/>
+dieser geknickten, weltverlassenen, armen Mädchen standen ihm offen.</p>
+            <p>»Kinder,« meinte er, »ich <hi rend="text-spaced">muss</hi> mein <hi rend="italics">Rendez-vous</hi> halten; das<lb/>
+verlangt schon meine Ehre.«</p>
+            <p>Sie aber flehten noch einmal mit ihrem herzinnisgten Stammeln:<lb/>
 »Ach <hi rend="text-spaced">bleiben</hi> Sie bei uns!« und streckten ihm die vergilbten, blut-<lb break="no"/>
-leeren Arbeitshändchen entgegen.</p><p>Nun ging er nebenan, als wolle er einen zweiten Ausgang suchen,<lb/>
-und — kam in die Garderobe der Damen.</p><p>Jetzt gaben sie nach und öffneten ihm die Hauptthüre.</p><p>Und nun ging er hinaus.</p><p>Und drinnen zwischen den Bänken lag der gelbe Sonnenblumen-<lb break="no"/>
-schein glücklicher Seelen.</p><p>Dann schloss sich hart die Thüre.</p><p>Und nun stand er wieder draussen in der finsteren, schwarzen<lb/>
-Nacht.</p><milestone unit="untyped-end"/><milestone unit="hr"/></div>
+leeren Arbeitshändchen entgegen.</p>
+            <p>Nun ging er nebenan, als wolle er einen zweiten Ausgang suchen,<lb/>
+und — kam in die Garderobe der Damen.</p>
+            <p>Jetzt gaben sie nach und öffneten ihm die Hauptthüre.</p>
+            <p>Und nun ging er hinaus.</p>
+            <p>Und drinnen zwischen den Bänken lag der gelbe Sonnenblumen-<lb break="no"/>
+schein glücklicher Seelen.</p>
+            <p>Dann schloss sich hart die Thüre.</p>
+            <p>Und nun stand er wieder draussen in der finsteren, schwarzen<lb/>
+Nacht.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
       </body>
    </text>
 </TEI>

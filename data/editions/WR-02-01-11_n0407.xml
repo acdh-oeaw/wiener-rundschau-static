@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-11_n0407.xml"
-     prev="WR-02-01-11_n0406.xml"
-     next="WR-02-01-11_n0408.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-11_n0407.xml" prev="WR-02-01-11_n0406.xml" next="WR-02-01-11_n0408.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,30 +42,65 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 10</title>
+                  <idno>WR-02-01-10_n0361.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 12</title>
+                  <idno>WR-02-01-12_n0441.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">»STUDIA LA MATEMATICA.«</fw><fw type="pn">407</fw></fw><p rend="no-intend">Ich sagte zu ihm: »Kommen Sie. Wir wollen zu ihnen nach Hause gehen.<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">»STUDIA LA MATEMATICA.«</fw>
+               <fw type="pn">407</fw>
+            </fw>
+            <p rend="no-intend">Ich sagte zu ihm: »Kommen Sie. Wir wollen zu ihnen nach Hause gehen.<lb/>
 Kommen Sie, dass wir uns wärmen und Sie Ihre Lust befriedigen.«<lb/>
-Wir gingen hin, wir wärmten uns, und er befriedigte sich.</p><p>— Wir, wir brauchten uns nicht zu wärmen; in Venedig ist es<lb/>
+Wir gingen hin, wir wärmten uns, und er befriedigte sich.</p>
+            <p>— Wir, wir brauchten uns nicht zu wärmen; in Venedig ist es<lb/>
 nicht kalt. Das Meer lag vor uns, das Meer, wo ich ihn geküsst hatte,<lb/>
 unverhofft, und wo er von meinem Blick und meiner Sprache berauscht<lb/>
 wurde. Wir wärmten uns nicht und seine Lust befriedigte er nicht;<lb/>
 er weinte über diese Lust — im Voraus, er weinte unfruchtbar, und er<lb/>
-wurde weich.</p><p>— Der meinige wurde nicht weich. Er hatte eine Anstrengung<lb/>
+wurde weich.</p>
+            <p>— Der meinige wurde nicht weich. Er hatte eine Anstrengung<lb/>
 gemacht, um zu scherzen, sich zu wundern, um zu verachten und zu<lb/>
-trösten. Er machte keine Anstrengung, um zu lieben; er liebte und ging.</p><p>— Er ging, traurig und untröstlich, weil ich im Zimmer herum-<lb break="no"/>
+trösten. Er machte keine Anstrengung, um zu lieben; er liebte und ging.</p>
+            <p>— Er ging, traurig und untröstlich, weil ich im Zimmer herum-<lb break="no"/>
 geschlendert war und die Geringschätzung des Ruhebettes auf ihm<lb/>
 gelastet hatte. Am dritten Tage kam er zurück, weil ich ihm dies<lb/>
 Stelldichein gegeben hatte und er mein Lachen gesehen hatte. Er fand<lb/>
 mich nicht und klagte über meinen Verlust, er klagte. Ich nannte ihn<lb/>
-»Zanetto«.</p><p>— Ich nannte ihn »Monsieur«.</p><p>— Er war klein, er war mager, und seine Jugend war ohne<lb/>
+»Zanetto«.</p>
+            <p>— Ich nannte ihn »Monsieur«.</p>
+            <p>— Er war klein, er war mager, und seine Jugend war ohne<lb/>
 Anmuth. Er war schlecht gekleidet. Etwas mehr als gewöhnlich liess<lb/>
 er mich den Verlust des Officiers bedauern, der mich in Nantes, in<lb/>
-der Bretagne entehrt hatte. Und das ist Alles.</p><p>— Was soll ich von meinem Zanetto sagen? Ich weiss nicht<lb/>
+der Bretagne entehrt hatte. Und das ist Alles.</p>
+            <p>— Was soll ich von meinem Zanetto sagen? Ich weiss nicht<lb/>
 mehr, ob er klein oder gross, ob er elegant oder schäbig war. Ich<lb/>
 habe während meines Lebens und nach meinem Tode Bilder, Statuen,<lb/>
 Reliquien und Büsten gefunden. Ich habe sie angeschaut, und ich<lb/>
@@ -85,11 +117,13 @@ davon weg und schlenderte im Zimmer herum. Und indem ich jede<lb/>
 Zurückhaltung, jede Scham, jede Gemüthsbewegung, all diese zerstreute<lb/>
 Rührung, welche mir von Zanetto und von der Welt kam, zu ent-<lb break="no"/>
 fernen versuchte, sagte ich ihm kalt und verachtend: »Zanetto, lascia<lb/>
-le donne e studia la matematica«.</p><p>Unglückliche, die ich war! Ich wollte durchaus nicht verstehen!<lb/>
+le donne e studia la matematica«.</p>
+            <p>Unglückliche, die ich war! Ich wollte durchaus nicht verstehen!<lb/>
 Ich wollte nicht bemerken, dass Zanetto allein die Frauen liebte, dass<lb/>
 er allein sie nicht verlassen konnte, dass er sie immer auf seinem<lb/>
 Wege finden sollte, hier mitleidig, dort spottend, aber beständig um<lb/>
-ihn herum, damit er leide, damit er lebe.</p></div>
+ihn herum, damit er leide, damit er lebe.</p>
+         </div>
       </body>
    </text>
 </TEI>

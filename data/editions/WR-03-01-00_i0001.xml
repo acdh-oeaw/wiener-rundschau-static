@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-03-01-00_i0001.xml"
-     next="WR-03-01-00_i0002.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-00_i0001.xml" next="WR-03-01-00_i0002.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,20 +42,60 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 2</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 2</title>
+                  <idno>WR-03-02-14_n0321.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 24</title>
+                  <idno>WR-02-02-24_n0905.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 3, Halbbd. 1, Nr. 1</title>
+                  <idno>WR-03-01-01_n0001.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="contents-start"/><milestone unit="titlepage-start"/><ab><title><hi rend="strong">WIENER<milestone unit="colons"/><lb/>
-RUNDSCHAU<milestone unit="colons"/></hi><lb/>
-<hi rend="strong">III. JAHRGANG. — NR. 1—27.<lb/>
-15. NOVEMBER 1898 — 31. DECEMBER 1899.</hi><lb/>
-<hi rend="strong">Zeitschrift für Cultur und Kunst herausgegeben von<lb/>
-<rs type="person" key="">CONSTANTIN CHRISTOMANOS</rs> UND <rs type="person" key="">FELIX RAPPAPORT</rs></hi><lb/>
-<hi rend="strong">Wien <date>1899</date><lb/>
-I/1 Spiegelgasse 11</hi></title></ab><milestone unit="untyped-end"/></div>
+         <div type="page">
+            <milestone unit="contents-start"/>
+            <milestone unit="titlepage-start"/>
+            <ab>
+               <title>
+                  <hi rend="strong">WIENER<milestone unit="colons"/>
+                     <lb/>
+RUNDSCHAU<milestone unit="colons"/>
+                  </hi>
+                  <lb/>
+                  <hi rend="strong">III. JAHRGANG. — NR. 1—27.<lb/>
+15. NOVEMBER 1898 — 31. DECEMBER 1899.</hi>
+                  <lb/>
+                  <hi rend="strong">Zeitschrift für Cultur und Kunst herausgegeben von<lb/>
+                     <rs type="person" key="">CONSTANTIN CHRISTOMANOS</rs> UND <rs type="person" key="">FELIX RAPPAPORT</rs>
+                  </hi>
+                  <lb/>
+                  <hi rend="strong">Wien <date>1899</date>
+                     <lb/>
+I/1 Spiegelgasse 11</hi>
+               </title>
+            </ab>
+            <milestone unit="untyped-end"/>
+         </div>
       </body>
    </text>
 </TEI>

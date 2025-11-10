@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-23_n0897.xml"
-     prev="WR-02-02-23_n0896.xml"
-     next="WR-02-02-23_n0898.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-23_n0897.xml" prev="WR-02-02-23_n0896.xml" next="WR-02-02-23_n0898.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,32 +42,74 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 22</title>
+                  <idno>WR-02-02-22_n0825.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 24</title>
+                  <idno>WR-02-02-24_n0905.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BOOTSMANN RUSTEN.</fw><fw type="pn">897</fw></fw><p>Der Bootsmann klopfte auch die seinige aus, steckte sie aber<lb/>
-schnell in die Tasche und stand auf:</p><p>»Eigentlich dachten wir an Brandy and Water; und wir wollen<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BOOTSMANN RUSTEN.</fw>
+               <fw type="pn">897</fw>
+            </fw>
+            <p>Der Bootsmann klopfte auch die seinige aus, steckte sie aber<lb/>
+schnell in die Tasche und stand auf:</p>
+            <p>»Eigentlich dachten wir an Brandy and Water; und wir wollen<lb/>
 hier auch nicht vor zwei leeren Flaschen vor Anker liegen bleiben,<lb/>
-accurat, wie wir durstig geworden sind.«</p><p>Der Hausthürschlüssel wurde in dem bestimmten Loch hinter<lb/>
+accurat, wie wir durstig geworden sind.«</p>
+            <p>Der Hausthürschlüssel wurde in dem bestimmten Loch hinter<lb/>
 dem Thürrahmen verwahrt und dann kreuzten sie beide zusammen die<lb/>
-hügelige Gasse hinab zum »Hecht«.</p><milestone unit="asterismUp"/><p>Um den Glockenschlag elf wurde unten im «Hecht« geschlossen,<lb/>
+hügelige Gasse hinab zum »Hecht«.</p>
+            <milestone unit="asterismUp"/>
+            <p>Um den Glockenschlag elf wurde unten im «Hecht« geschlossen,<lb/>
 und die mächtige Gestalt des Bootsmanns verschattete das Flurfenster<lb/>
 an dem hellen Abend, indem er etwas unnöthig lange herumtastete,<lb/>
 um die Hausthüre aufzubekommen und sie wieder richtig zu schliessen.<lb/>
 Er rumorte und brummte zu Hause im Flur, liess dann die Stubenthüre<lb/>
-auffallen, blieb stehen und sah in die offene Schlafkammer hinein.</p><p>»Wüsste ich nicht, dass sie da in der Nachtjacke aufsitzen würde<lb/>
-— und aufpassen, damit man sich nicht in Frieden hinlegen kann <milestone unit="4dots"/></p><p>»Ja, natürlich, ja, wenn es so um ihre Mundwinkel aufzieht —<lb/>
+auffallen, blieb stehen und sah in die offene Schlafkammer hinein.</p>
+            <p>»Wüsste ich nicht, dass sie da in der Nachtjacke aufsitzen würde<lb/>
+— und aufpassen, damit man sich nicht in Frieden hinlegen kann <milestone unit="4dots"/>
+            </p>
+            <p>»Ja, natürlich, ja, wenn es so um ihre Mundwinkel aufzieht —<lb/>
 ist das nicht, als wenn alles Unglück des ganzen Landes sich unter<lb/>
-ihre Nase setzt <milestone unit="5dots"/></p><p>»Neh, Du sagst nichts <milestone unit="4dots"/> Denn Du bist eine, die die Messe<lb/>
+ihre Nase setzt <milestone unit="5dots"/>
+            </p>
+            <p>»Neh, Du sagst nichts <milestone unit="4dots"/> Denn Du bist eine, die die Messe<lb/>
 ohne Worte lesen kann <milestone unit="4dots"/> der Text <milestone unit="4dots"/> huh — seht sie nur<lb/>
 an — — —. Ach, red’ nur Alte <milestone unit="4dots"/> Diese Verschlagenheit und<lb/>
-Betrübnis, vor der man auf Socken umherschleichen soll <milestone unit="4dots"/>«</p><p>»Ich sag’ nur, Gott sei Dank, dass Du endlich heimkamst,<lb/>
-Rusten — von diesem vertrunk’nen und versoffnen Segelmacher <milestone unit="4dots"/><lb/>
-Deine Leber, Du weisst <milestone unit="4dots"/>«</p><p>»So — trink’ ich denn — willst Du behaupten, dass ich mit-<lb break="no"/>
-trink’ <milestone unit="5dots"/>«</p><p>»Und dann spricht sie so hübsch von meiner Leber, die nichts<lb/>
+Betrübnis, vor der man auf Socken umherschleichen soll <milestone unit="4dots"/>«</p>
+            <p>»Ich sag’ nur, Gott sei Dank, dass Du endlich heimkamst,<lb/>
+Rusten — von diesem vertrunk’nen und versoffnen Segelmacher <milestone unit="4dots"/>
+               <lb/>
+Deine Leber, Du weisst <milestone unit="4dots"/>«</p>
+            <p>»So — trink’ ich denn — willst Du behaupten, dass ich mit-<lb break="no"/>
+trink’ <milestone unit="5dots"/>«</p>
+            <p>»Und dann spricht sie so hübsch von meiner Leber, die nichts<lb/>
 Starkes verträgt, nein. Hernach ja — hernach ja <milestone unit="3dots"/> Denn man muss<lb/>
 immer achthaben. Man crepiert, wenn man nicht Recht kriegt und<lb/>
 sitzen und uns Gottlosen predigen kann <milestone unit="3dots"/> Verdammtes Weib — sie<lb/>
@@ -84,8 +123,10 @@ oder auslegt <milestone unit="3dots"/> Und was aus der Leber wird <milestone uni
 kannst Dich damit trösten, dass es spickt — accurat hier — hier in<lb/>
 der rechten Seite. Hu — u — uh, — das brennt und bohrt <milestone unit="3dots"/> Du<lb/>
 kannst Dich ruhig salben lassen, dass Du darin wieder einmal recht<lb/>
-hast</p><p>»Seht, nun sieht sie aus wie ein Grabdenkmal mit dem Schnabel<lb/>
-unter’m Kinn <milestone unit="3dots"/> Nein, noch bin ich nicht todt.</p></div>
+hast</p>
+            <p>»Seht, nun sieht sie aus wie ein Grabdenkmal mit dem Schnabel<lb/>
+unter’m Kinn <milestone unit="3dots"/> Nein, noch bin ich nicht todt.</p>
+         </div>
       </body>
    </text>
 </TEI>

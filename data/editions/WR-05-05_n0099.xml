@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-05_n0099.xml"
-     prev="WR-05-05_n0098.xml"
-     next="WR-05-05_n0100.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-05_n0099.xml" prev="WR-05-05_n0098.xml" next="WR-05-05_n0100.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,26 +41,44 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 4</title>
+                  <idno>WR-05-04_n0077.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 6</title>
+                  <idno>WR-05-06_n0115.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">RIMBAUD: SCHLECHTES BLUT.</fw></fw><table><row><cell>
-<p rend="no-intend">ist gewiss, ist Orakel, was ich sage.<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">RIMBAUD: SCHLECHTES BLUT.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">ist gewiss, ist Orakel, was ich sage.<lb/>
 Ich begreife, und weil ich nicht weiß,<lb/>
 wie mich ohne heidnische Worte aus-<lb break="no"/>
 drücken, möchte ich schweigen.</p>
-<p>Das heidnische Blut kommt zurück!<lb/>
+                     <p>Das heidnische Blut kommt zurück!<lb/>
 Der Geist ist nah’; warum hilft mir<lb/>
 Christus nicht, indem er meiner Seele<lb/>
 Stolz und Freiheit gibt. Ach! das<lb/>
 Evangelium ist vorbei! Das Evangelium!<lb/>
 Das Evangelium!</p>
-<p>Ich erwarte Gott mit Genuss. Ich<lb/>
+                     <p>Ich erwarte Gott mit Genuss. Ich<lb/>
 bin inferiore Rasse von Ewigkeit.</p>
-<p>Da bin ich auf dem armorikanischen*<lb/>
+                     <p>Da bin ich auf dem armorikanischen*<lb/>
 Strand. Dass die Städte sich entzünden<lb/>
 im Abend. Mein Tagwerk ist gethan;<lb/>
 ich verlasse Europa. Die Seeluft wird<lb/>
@@ -74,7 +89,7 @@ jagen, vor allem rauchen, Liqueure<lb/>
 trinken, so stark wie kochendes Metall,<lb/>
 — wie es die theuren Vorfahren<lb/>
 am Feuer machten.</p>
-<p>Ich werde zurückkommen mit<lb/>
+                     <p>Ich werde zurückkommen mit<lb/>
 Gliedern von Eisen, die Haut dunkel,<lb/>
 das Auge rasend; auf meine Maske hin<lb/>
 wird man mich als von einer starken<lb/>
@@ -84,12 +99,12 @@ brutal. Die Weiber sorgen für diese<lb/>
 wilden Siechlinge, die zurück sind aus<lb/>
 den heißen Ländern. Ich werde mich<lb/>
 in politische Affairen mischen. Gerettet.</p>
-<p>Jetzt bin ich verhasst, ich habe<lb/>
+                     <p>Jetzt bin ich verhasst, ich habe<lb/>
 Abscheu vor dem Vaterland. Das Beste<lb/>
 ist ein ordentlich betrunkener Schlaf<lb/>
 im Sand.</p>
-<milestone unit="asterisk"/>
-<p>Man reist nicht ab. — Nehmen wir<lb/>
+                     <milestone unit="asterisk"/>
+                     <p>Man reist nicht ab. — Nehmen wir<lb/>
 wieder den heimischen Weg auf,<lb/>
 beladen mit meinem Laster, dem Laster,<lb/>
 das seine Leidenswurzeln neben mir<lb/>
@@ -97,19 +112,20 @@ geschlagen hat seit dem Alter der<lb/>
 Verständigkeit — das zum Himmel<lb/>
 steigt, mich schlägt, mich zerstört,<lb/>
 mich mit sich schleppt.</p>
-<p>Die letzte Unschuld und die letzte<lb/>
+                     <p>Die letzte Unschuld und die letzte<lb/>
 Furchtsamkeit. Abgemacht. Meinen<lb/>
 Ekel und meinen Verrath nicht in die<lb/>
 Welt tragen.</p>
-<p>Allons! Die Reise, die Last, die<lb/>
+                     <p>Allons! Die Reise, die Last, die<lb/>
 Wüste, der Trübsinn und der Zorn.</p>
-</cell><cell>
-<p>Vor wem mich loben? Welches Vieh<lb/>
+                  </cell>
+                  <cell>
+                     <p>Vor wem mich loben? Welches Vieh<lb/>
 soll man anbeten? Welches heilige Bild<lb/>
 angreifen? Welches Herz brech’ ich?<lb/>
 Welche Lüge soll ich sagen? — In<lb/>
 welchem Blute waten?</p>
-<p>Lieber sich vor der Gerechtigkeit<lb/>
+                     <p>Lieber sich vor der Gerechtigkeit<lb/>
 inacht nehmen. — Das Leben dauert,<lb/>
 — einfache, viehische Dummheit, —<lb/>
 mit verkümmerter Faust den Deckel<lb/>
@@ -117,15 +133,16 @@ des Sarges aufheben, sich hinsetzen,<lb/>
 ersticken. Auf diese Weise kein Alter,<lb/>
 keine Gefahren; der Schrecken ist<lb/>
 keineswegs französisch.</p>
-<p>Ah! Ich bin so verlassen, dass ich<lb/>
+                     <p>Ah! Ich bin so verlassen, dass ich<lb/>
 gleichgiltig welchem göttlichen Bild<lb/>
 Anstrengungen zur Vollendung anbiete.</p>
-<p>O, meine Entsagung, o, meine<lb/>
+                     <p>O, meine Entsagung, o, meine<lb/>
 wunderbare Barmherzigkeit! Hier unten,<lb/>
 immerhin!</p>
-<p><hi rend="italics">De profudis Domine</hi>; bin ich dumm!</p>
-<milestone unit="asterisk"/>
-<p>Noch ganz Kind, bewunderte ich<lb/>
+                     <p>
+                        <hi rend="italics">De profudis Domine</hi>; bin ich dumm!</p>
+                     <milestone unit="asterisk"/>
+                     <p>Noch ganz Kind, bewunderte ich<lb/>
 den störrischen Galeerensclaven, über<lb/>
 dem sich der Bagno immer schließt;<lb/>
 ich besuchte die Herbergen und die<lb/>
@@ -138,7 +155,7 @@ Er hatte mehr Kraft als ein Heiliger,<lb/>
 mehr richtiges Urtheil als ein Reisender<lb/>
 — und er, er allein! als Zeuge seines<lb/>
 Ruhmes und Verstandes.</p>
-<p>Auf den Straßen, in den Winter-<lb break="no"/>
+                     <p>Auf den Straßen, in den Winter-<lb break="no"/>
 nächten, ohne Nachtlager, ohne Kleider,<lb/>
 ohne Brot, ward mein erfrorenes Herz<lb/>
 von einer Stimme zusammengeschnürt:<lb/>
@@ -151,14 +168,18 @@ wie wenn du bereits ein Leichnam<lb/>
 wärst.« Am Morgen hatte ich einen<lb/>
 so verlorenen Blick und eine so todte<lb/>
 Fassung, dass Die, die mir begegneten,<lb/>
-<hi rend="text-spaced">mich vielleicht nicht gesehen<lb/>
+                        <hi rend="text-spaced">mich vielleicht nicht gesehen<lb/>
 haben</hi>.</p>
-<p>In den Städten erschien mir der<lb/>
+                     <p>In den Städten erschien mir der<lb/>
 Schmutz plötzlich roth und schwarz,<lb/>
 wie ein Spiegel, wenn die Lampe im</p>
-</cell></row></table><note type="footnote">
-<p>*Alte Bezeichnung für die Bretagne (Armorika).</p>
-</note></div>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>*Alte Bezeichnung für die Bretagne (Armorika).</p>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

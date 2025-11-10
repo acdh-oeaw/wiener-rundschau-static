@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-04-12_n0188.xml"
-     prev="WR-04-12_n0187.xml"
-     next="WR-04-12_n0189.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-12_n0188.xml" prev="WR-04-12_n0187.xml" next="WR-04-12_n0189.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -43,6 +40,22 @@
                   <title n=""/>
                   <biblScope unit="page">-</biblScope>
                   <idno/>
+               </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 5</title>
+                  <idno>WR-05-01_n0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 4, Nr. 11</title>
+                  <idno>WR-04-11_n0157.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 4, Nr. 13</title>
+                  <idno>WR-04-13_n0217.xml</idno>
                </bibl>
             </listBibl>
          </sourceDesc>

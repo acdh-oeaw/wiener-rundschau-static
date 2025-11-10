@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-04_n0132.xml"
-     prev="WR-02-01-04_n0131.xml"
-     next="WR-02-01-04_n0133.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-04_n0132.xml" prev="WR-02-01-04_n0131.xml" next="WR-02-01-04_n0133.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,36 +42,69 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 3</title>
+                  <idno>WR-02-01-03_n0081.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 5</title>
+                  <idno>WR-02-01-05_n0161.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">132</fw><fw type="ctext">PANIZZA.</fw></fw><p rend="no-intend">die Hand gegeben wird. Verfasser dieses musste ein Zeugniss beibringen,<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">132</fw>
+               <fw type="ctext">PANIZZA.</fw>
+            </fw>
+            <p rend="no-intend">die Hand gegeben wird. Verfasser dieses musste ein Zeugniss beibringen,<lb/>
 dass er in den Schoss der alleinseligmachenden Kirche zurückgekehrt<lb/>
 ist und sich für den Priesterstand vorbereitet, sonst hätte er dieses<lb/>
 furchtbare Beschwörungsbuch gegen die Sinnlichkeit nicht ausgefolgt<lb/>
-erhalten. Debrayne selbst ist Priester, Ordensmönch, <hi rend="italics">docteur en médecine</hi><lb/>
+erhalten. Debrayne selbst ist Priester, Ordensmönch, <hi rend="italics">docteur en médecine</hi>
+               <lb/>
 und <hi rend="italics">professeur particulier de médecine pratique</hi> bei dem Orden <hi rend="italics">de la<lb/>
 Grande-Trappe</hi> (Trappisten). Das Buch erschien zu Brüssel <date>1846</date> in<lb/>
 der Imprimerie Vanderborcht. Jeder Brief dahin ist, wie ich versichern<lb/>
 kann, nutzlos, denn das Buch ist nicht zu haben. Aber der lustige<lb/>
 Léo Taxil hat es in seinen <hi rend="italics">Livres secrets des Confesseurs</hi> wörtlich ab-<lb break="no"/>
 gedruckt, wie ich für diejenigen, die es auf ihrem Weg zum Venusberg<lb/>
-etwa zu benützen wünschen, mittheilen will.</p><p>Noch strenger ist der heilige Ligorio. Selbst der Kuss zwischen<lb/>
-<hi rend="italics">Verlobten</hi> — und er hat natürlich keine <hi rend="text-spaced">Wiener</hi> Verlobungen im<lb/>
+etwa zu benützen wünschen, mittheilen will.</p>
+            <p>Noch strenger ist der heilige Ligorio. Selbst der Kuss zwischen<lb/>
+               <hi rend="italics">Verlobten</hi> — und er hat natürlich keine <hi rend="text-spaced">Wiener</hi> Verlobungen im<lb/>
 Auge, die wieder auseinandergehen — ist ihm anstössig. Der Kuss<lb/>
 an sich wäre nicht so schlimm, wenn er ohne die bekannte Libidität<lb/>
 ausgeführt werden könnte. Dies ist aber wenig wahrscheinlich wegen<lb/>
 der Verruchtheit des menschlichen Fleisches — <hi rend="italics">ob corruptam hominis<lb/>
 naturam</hi> — so muss auch er, gar wenn er von Mund zu Mund ge-<lb break="no"/>
 geben wird — <hi rend="italics">osculum oris ad os</hi> — und entsetzlich lang dauert —<lb/>
-<hi rend="italics">si fiat more valde moroso</hi> — zu den Todsünden gerechnet werden.</p><p>Das Küssen von Knaben, wie ich hier bemerken will, haben jene<lb/>
+               <hi rend="italics">si fiat more valde moroso</hi> — zu den Todsünden gerechnet werden.</p>
+            <p>Das Küssen von Knaben, wie ich hier bemerken will, haben jene<lb/>
 Italiener und Spanier bei ihren heiligen Studien sehr wohl vorgesehen.<lb/>
 Das Küssen von Knaben ist erlaubt. Jawohl! Aber — hier hinkt<lb/>
 immer der Pferdefuss hinten nach — nur unter Ausschluss jeder libidi-<lb break="no"/>
-nösen Absicht. Hier ist Sanchez unerbittlich.</p><p>Das Infamste aber, nur unter dem Zusammenwirken aller Teufel<lb/>
+nösen Absicht. Hier ist Sanchez unerbittlich.</p>
+            <p>Das Infamste aber, nur unter dem Zusammenwirken aller Teufel<lb/>
 in der Hölle mögliche Ereigniss, ist der Kuss in den Mund, <hi rend="italics">osculus<lb/>
 in ore</hi>, das Schnäbeln — <hi rend="italics">columbinum</hi> ist hier der technische Aus-<lb break="no"/>
 druck. Hier scheint Sanchez mit einem grotesken Luftsprung von<lb/>
@@ -89,8 +119,18 @@ verflucht (wie es im »Tannhäuser« heisst), der hat auf keine Gnade<lb/>
 mehr zu hoffen; mag er zehnmal verheiratet sein und Alles nur im<lb/>
 Hinblick auf die Nachkommenschaft thun — hier hilft nichts mehr,<lb/>
 Sanchez selbst könnte nicht mehr helfen, und Ligorio wendet sich ver-<lb break="no"/>
-düsterten Antlitzes ab.</p><p>Wie aber singt <hi rend="text-spaced">Genée</hi> und fidelt der <hi rend="text-spaced">Strauss</hi>?</p><milestone unit="verse-start"/><lg><l>»Ach, so ein Kuss,</l>
-<l>Welch’ ein Genuss! <milestone unit="3dots"/>«</l></lg><milestone unit="untyped-end"/><p>Ogottogott!</p><milestone unit="untyped-end"/><milestone unit="hr"/></div>
+düsterten Antlitzes ab.</p>
+            <p>Wie aber singt <hi rend="text-spaced">Genée</hi> und fidelt der <hi rend="text-spaced">Strauss</hi>?</p>
+            <milestone unit="verse-start"/>
+            <lg>
+               <l>»Ach, so ein Kuss,</l>
+               <l>Welch’ ein Genuss! <milestone unit="3dots"/>«</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <p>Ogottogott!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
       </body>
    </text>
 </TEI>

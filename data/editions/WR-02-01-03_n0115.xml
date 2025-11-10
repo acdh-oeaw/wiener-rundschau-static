@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-03_n0115.xml"
-     prev="WR-02-01-03_n0114.xml"
-     next="WR-02-01-03_n0116.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-03_n0115.xml" prev="WR-02-01-03_n0114.xml" next="WR-02-01-03_n0116.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,13 +42,42 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 2</title>
+                  <idno>WR-02-01-02_n0041.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 4</title>
+                  <idno>WR-02-01-04_n0121.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">DIE INNERE SCHÖNHEIT.</fw><fw type="pn">115</fw></fw><p rend="no-intend">die immer gegenwärtige Seele nicht in Schönheit verwandelt. So lieben<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DIE INNERE SCHÖNHEIT.</fw>
+               <fw type="pn">115</fw>
+            </fw>
+            <p rend="no-intend">die immer gegenwärtige Seele nicht in Schönheit verwandelt. So lieben<lb/>
 heisst, das Schlechte nur mehr sehen, um die Nachsicht zu läutern<lb/>
 und um zu lernen, dass der Sünder und seine Sünde nicht eins sind.<lb/>
 So lieben heisst, alle uns Umgebenden in uns auf Höhen erheben, wo<lb/>
@@ -80,7 +106,8 @@ schreiten. — Denn es gibt auch eine todte Güte, die nur aus Ver-<lb break="no
 gangenheit gewoben ist; aber die wirkliche Liebe macht die Ver-<lb break="no"/>
 gangenheit unnütz und schafft bei ihrem Nahen eine unerschöpfliche<lb/>
 Zukunft an Güte ohne Unglück und ohne Thränen. So lieben heisst,<lb/>
-seine Seele befreien und ebenso schön werden wie die befreite Seele.</p><p>»Wenn du bei der Rührung, die dir dieses Schauspiel verursachen<lb/>
+seine Seele befreien und ebenso schön werden wie die befreite Seele.</p>
+            <p>»Wenn du bei der Rührung, die dir dieses Schauspiel verursachen<lb/>
 muss,« sagt über ähnliche Dinge der grosse Plotinus, der von allen mir<lb/>
 bekannten Geistern sich am meisten der Göttlichkeit näherte, »wenn<lb/>
 du bei der Rührung, die dir dieses Schauspiel verursachen muss, nicht<lb/>
@@ -90,7 +117,10 @@ selbst senkend, nicht den Reiz der Schönheit empfindest, dann wirst du in<lb/>
 du würdest sie dann nur im Unreinen und Hässlichen suchen.« Darum<lb/>
 sind die Worte, die wir hier gesprochen, nicht an alle Menschen ge-<lb break="no"/>
 richtet. Aber wenn du in dir die Schönheit erkannt hast, dann erhebe<lb/>
-dich zur Erinnerung an die übersinnliche Schönheit. — — — — —</p><milestone unit="untyped-end"/><milestone unit="hr"/></div>
+dich zur Erinnerung an die übersinnliche Schönheit. — — — — —</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
       </body>
    </text>
 </TEI>

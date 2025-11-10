@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-02_n0025.xml"
-     prev="WR-05-02_n0024.xml"
-     next="WR-05-02_n0026.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-02_n0025.xml" prev="WR-05-02_n0024.xml" next="WR-05-02_n0026.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,15 +41,34 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 1</title>
+                  <idno>WR-05-01_n0001.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 3</title>
+                  <idno>WR-05-03_n0049.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>MEMLING.<lb/>
-Von <rs type="person" key="">OSKAR LEVERTIN</rs>.</title></ab><table><row><cell>
-<p>Wenn man ein paar Tage in Brügge<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>MEMLING.<lb/>
+Von <rs type="person" key="">OSKAR LEVERTIN</rs>.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Wenn man ein paar Tage in Brügge<lb/>
 umhergewandert ist, in Beichte und Zwie-<lb break="no"/>
 sprache mit sich selbst, dann kommt die<lb/>
 Stille, die der Novize erfährt, wenn seine<lb/>
@@ -69,7 +85,7 @@ rechten Stimmung, um das kennen zu<lb/>
 lernen, was Brügge Erlesenstes hat: Mem-<lb break="no"/>
 lings Heilige, Engel und Madonnen, die<lb/>
 hier ihr ewiges Sonntagsfest verleben.</p>
-<p>Brügge ist Memlings Stadt, und doch<lb/>
+                     <p>Brügge ist Memlings Stadt, und doch<lb/>
 würde man sich eine zu einseitige Vor-<lb break="no"/>
 stellung des Meisters machen — und Mem-<lb break="no"/>
 ling ist wohl einer der herrlichsten Künstler,<lb/>
@@ -98,8 +114,9 @@ und in bebender, demüthiger Nacktheit<lb/>
 steigen sie die Treppe zu der Kathedralen-<lb break="no"/>
 pforte des himmlischen Paradieses empor.<lb/>
 Petrus stützt ihr Wanken, und fünf Engel</p>
-</cell><cell>
-<p rend="no-intend">im bischöflichen Ornat hüllen sie in geist-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">im bischöflichen Ornat hüllen sie in geist-<lb break="no"/>
 liche Gewänder. Aber auf den Loggien<lb/>
 über den offenen Thürflügeln und heiligen-<lb break="no"/>
 geschmückten Giebelfeldern des Kathe-<lb break="no"/>
@@ -110,7 +127,7 @@ klaren Morgengesang, und ihre Flügel und<lb/>
 Locken schimmern der Flamme der Flam-<lb break="no"/>
 men entgegen, der Morgenröthe des Para-<lb break="no"/>
 dieses.</p>
-<p>Es ist in diesem Bilde ein ewiger<lb/>
+                     <p>Es ist in diesem Bilde ein ewiger<lb/>
 Hauch, eine großartige Mischung von<lb/>
 Scholastik und Religiosität, wenn man<lb/>
 auch die Originalität der Composition nicht<lb/>
@@ -118,7 +135,7 @@ zu hoch anschlagen darf, wie aus einem<lb/>
 Vergleich mit dem muthmaßlichen Vor-<lb break="no"/>
 bilde: »Das jüngste Gericht« von Stephan<lb/>
 Lochner im Dome zu Köln, hervorgeht.</p>
-<p>Nicht weniger stattlich ist das kürzlich<lb/>
+                     <p>Nicht weniger stattlich ist das kürzlich<lb/>
 abgebildete Tryptichon von Christus und<lb/>
 seinen Engeln, das durch Jahrhunderte ver-<lb break="no"/>
 gessen in dem Orgelchor einer spanischen<lb/>
@@ -127,7 +144,7 @@ dene andere Werke des Künstlers, die<lb/>
 ringsum in den Gallerien — Berlin, Paris,<lb/>
 London — durch ihre lichte, schmelzende<lb/>
 Harmonie fesseln.</p>
-<p>Und doch, trotz alledem, ist Brügge<lb/>
+                     <p>Und doch, trotz alledem, ist Brügge<lb/>
 Memlings Stadt. Die alte Legende erzählt,<lb/>
 dass der Maler nach der Schlacht bei<lb/>
 Nancy in die Stadt gekommen war, schwer<lb/>
@@ -145,7 +162,10 @@ oder heißer Reue und Zerknirschung in<lb/>
 seinen Bildern mit ihrer klaren, ungetrübten<lb/>
 Schönheits-Feierstimmung gestützt wurde.<lb/>
 Die alten Papiere zeigen ihn im Gegen-</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-11_n0240.xml"
-     prev="WR-05-11_n0239.xml"
-     next="WR-05-11_n0241.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-11_n0240.xml" prev="WR-05-11_n0239.xml" next="WR-05-11_n0241.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 10</title>
+                  <idno>WR-05-10_n0205.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 12</title>
+                  <idno>WR-05-12_n0249.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">VAN DE VELDE: VORSCHLÄGE ZUR KÜNSTLER. HEBUNG DER FRAUENTRACHT.</fw></fw><table><row><cell>
-<p>Schwindel, so wie man den Cagliostro<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">VAN DE VELDE: VORSCHLÄGE ZUR KÜNSTLER. HEBUNG DER FRAUENTRACHT.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Schwindel, so wie man den Cagliostro<lb/>
 (dessen Physiognomie ein Lavater die<lb/>
 edelste nannte, die er je sah) und die<lb/>
 Blavatsky, allen Thatsachen hohn-<lb break="no"/>
@@ -77,12 +92,13 @@ lichen Ich-Willen ausmerzt. <hi rend="text-spaced">Nur dieser<lb/>
 aber ist unfrei</hi>, nicht der transcen-<lb break="no"/>
 dente objectivierte Wille zum All, und<lb/>
 aus diesem Widerspiel ergibt sich die<lb/>
-<hi rend="text-spaced">freie Nothwendigkeit</hi>. Das letzte un-<lb break="no"/>
+                        <hi rend="text-spaced">freie Nothwendigkeit</hi>. Das letzte un-<lb break="no"/>
 beschreibliche Geheimnis Buddhas, mit<lb/>
 Worten nicht zu offenbaren, hat er in der<lb/>
 Parabel »Die Heimsuchung Brahmas« aus-</p>
-</cell><cell>
-<p rend="no-intend">gedrückt, worin der absolute Triumph des<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">gedrückt, worin der absolute Triumph des<lb/>
 Geistes — des wahren, selbstherrlichen<lb/>
 Gott-Königs aller Dinge — über die sicht-<lb break="no"/>
 bare Materie der <hi rend="text-spaced">äußerlichen</hi> Schöpfer-<lb break="no"/>
@@ -99,7 +115,7 @@ des unfreien Willens der Materie</hi>.<lb/>
 — Ja, ich habe nicht alles begriffen;<lb/>
 jedenfalls haben Sie mich nicht über-<lb break="no"/>
 zeugt.</p>
-<p>— Das glaub’ ich gern. Denn wie<lb/>
+                     <p>— Das glaub’ ich gern. Denn wie<lb/>
 Jesus sagt: »Dies halsstarrige, verstockte<lb/>
 Geschlecht verlangt ein Zeichen. Aber<lb/>
 wenn sie Moses und den Propheten nicht<lb/>
@@ -112,23 +128,35 @@ liche imponieren, nicht bekehren, und die<lb/>
 theoretische Beweiskraft des Buddhismus<lb/>
 ist ihm ein posthypnotischer Schwindel.<lb/>
 — Sela!</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/><milestone unit="untyped-start"/><ab><title>VORSCHLÄGE ZUR KÜNSTLERISCHEN HEBUNG DER<lb/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>VORSCHLÄGE ZUR KÜNSTLERISCHEN HEBUNG DER<lb/>
 FRAUENTRACHT.<lb/>
-Von <rs type="person" key="">HENRY van de VELDE</rs> (Berlin).</title></ab><table><row><cell>
-<p>Da ich die Eigenart zu definieren<lb/>
+Von <rs type="person" key="">HENRY van de VELDE</rs> (Berlin).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Da ich die Eigenart zu definieren<lb/>
 suchte, welche bei den unterschiedlichen,<lb/>
 eine besondere Tracht erfordernden An-<lb break="no"/>
 lässen der Frauenkleidung zukäme, ge-<lb break="no"/>
 langte ich durch Abstraction endlich zu<lb/>
-<hi rend="text-spaced">drei</hi> Hauptstufen. Diese sind: das Haus,<lb/>
+                        <hi rend="text-spaced">drei</hi> Hauptstufen. Diese sind: das Haus,<lb/>
 die Straße, die Feier. Ich schlug dem-<lb break="no"/>
 gemäß vor, von nun an als Princip für<lb/>
 die Bekleidung im Haus die Individualität,<lb/>
 auf der Straße die annähernde und auf<lb/>
 dem Feste die vollkommene Gleichförmig-<lb break="no"/>
 keit zu betrachten.</p>
-</cell><cell>
-<p>Der erste dieser Vorschläge, obgleich<lb/>
+                  </cell>
+                  <cell>
+                     <p>Der erste dieser Vorschläge, obgleich<lb/>
 er schwierig durchzuführen ist und viele<lb/>
 Anforderungen stellt, wurde am wohl-<lb break="no"/>
 wollendsten aufgenommen. Wollte ich nach<lb/>
@@ -140,7 +168,10 @@ ich gerade diesbezüglich ziemlich viel<lb/>
 verlangt, denn ich forderte von der Frau<lb/>
 eine starke persönliche Anstrengung; ich<lb/>
 weise sie auf sich selbst, ihr ihre bevor-</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-04_n0082.xml"
-     prev="WR-05-04_n0081.xml"
-     next="WR-05-04_n0083.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-04_n0082.xml" prev="WR-05-04_n0081.xml" next="WR-05-04_n0083.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,18 +41,36 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 3</title>
+                  <idno>WR-05-03_n0049.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 5</title>
+                  <idno>WR-05-05_n0097.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">SCHUR: ÜBER HENRY BEYLE-STENDHAL.</fw></fw><table><row><cell>
-<p rend="no-intend">Zwiespalt heute beinahe noch ebenso<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">SCHUR: ÜBER HENRY BEYLE-STENDHAL.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Zwiespalt heute beinahe noch ebenso<lb/>
 klafft und ebensowenig überwunden ist,<lb/>
 so kann man es diesem Menschen von<lb/>
 1800 wohl nicht allzusehr verargen.</p>
-<p>Herr Friedrich von Oppeln-Bronikowski,<lb/>
+                     <p>Herr Friedrich von Oppeln-Bronikowski,<lb/>
 der Übersetzer des in der Anmerkung<lb/>
 angeführten Romanes, findet Veranlassung,<lb/>
 zugestehen zu müssen, dass bei Beyle in<lb/>
@@ -99,13 +114,14 @@ zu übersehen ist, alle, die in oder außer<lb/>
 Europa noch scharfen und arbeiten, über-<lb break="no"/>
 trifft — Leo Tolstoi — wie kann man da<lb/>
 bei Beyle noch von einem Mangel reden?</p>
-<milestone unit="asterisk"/>
-<p>Es packt Einen oft die Sehnsucht, in<lb/>
+                     <milestone unit="asterisk"/>
+                     <p>Es packt Einen oft die Sehnsucht, in<lb/>
 einer Zeit aufgeblasener Gefühle, unechter<lb/>
 Verbrämungen, unwahrer Vergrößerungen<lb/>
 und Verrückungen einen Roman sich zu</p>
-</cell><cell>
-<p rend="no-intend">denken, eiskalt wie ein Gletscher, alle<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">denken, eiskalt wie ein Gletscher, alle<lb/>
 Gefühle wie in einen dicken, undurch-<lb break="no"/>
 dringlichen Pelz eingehüllt; nur die Personen<lb/>
 selbst sprechen und handeln, sonst nichts.<lb/>
@@ -122,7 +138,7 @@ dass es einen Abschnitt in der Entwick-<lb break="no"/>
 lung gibt, wo alles, auch dies, sich recht-<lb break="no"/>
 fertigt; doch thut diese Erkenntnis einem<lb/>
 kritischen Urtheil keinen Abbruch.</p>
-<p>Nun — hier ist dieser Autor. Seine<lb/>
+                     <p>Nun — hier ist dieser Autor. Seine<lb/>
 Schilderungen liegen vor uns wie eine<lb/>
 wundervoll klare Landschaft im Winter.<lb/>
 Alles ist klar zu erkennen, tritt deutlich,<lb/>
@@ -159,7 +175,10 @@ das Ganze nicht verschwunden. Diese<lb/>
 Fähigkeit offenbart sich als eine Folge<lb/>
 menschlicher wie künstlerischer Durch-<lb break="no"/>
 bildung und Zucht. Seine Worte klingen</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

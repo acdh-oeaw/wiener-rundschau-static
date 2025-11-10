@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-09_n0196.xml"
-     prev="WR-05-09_n0195.xml"
-     next="WR-05-09_n0197.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-09_n0196.xml" prev="WR-05-09_n0195.xml" next="WR-05-09_n0197.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,21 +41,39 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 8</title>
+                  <idno>WR-05-08_n0159.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 10</title>
+                  <idno>WR-05-10_n0205.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BRYK: ZUM VERSTÄNDNIS DER PROJECTIONS-ERSCHEINUNGEN.</fw></fw><table><row><cell>
-<p rend="no-intend">plastischen und musischen Künsten, wenn<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BRYK: ZUM VERSTÄNDNIS DER PROJECTIONS-ERSCHEINUNGEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">plastischen und musischen Künsten, wenn<lb/>
 nicht nachgewiesen, so doch vermuthet<lb/>
 zu haben, und auf diese Weise die Ele-<lb break="no"/>
 mente zu einer, der erkenntnis-theoretischen<lb/>
 Forschung zugänglichen, exact-psycho-<lb break="no"/>
 logischen Behandlung des ästhetischen<lb/>
 Grundproblems angedeutet zu haben.</p>
-<p>Um jedoch das Geltungsgebiet der<lb/>
+                     <p>Um jedoch das Geltungsgebiet der<lb/>
 entwickelten Grund-Anschauung genauer<lb/>
 abzustecken, muss noch einer Erscheinung<lb/>
 gedacht werden, welche, obwohl schon<lb/>
@@ -96,7 +111,7 @@ dann durch Projection hervorgegangene<lb/>
 Organe, nicht <hi rend="text-spaced">eines</hi> erfindsamen Einzel-<lb break="no"/>
 wesens, sondern der gesammten, vom<lb/>
 »Erdleib« getragenen Menschheit.</p>
-<p>Die beiden hier als typisch heraus-<lb break="no"/>
+                     <p>Die beiden hier als typisch heraus-<lb break="no"/>
 gehobenen Formen der Projections-Thätig-<lb break="no"/>
 keit — somatische Projection und Bewusst-<lb break="no"/>
 seins-Projection — bestimmen die Extrem-<lb break="no"/>
@@ -105,8 +120,9 @@ tragung von <hi rend="text-spaced">innen</hi> angeschauter orga-<lb break="no"/>
 nischer Formen auf die zu gestaltende<lb/>
 Materie bestimmt mit Notwendigkeit den<lb/>
 Entwicklungsgang sowohl der wissen-</p>
-</cell><cell>
-<p rend="no-intend">schaftlichen Technik, als des Utilität und<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">schaftlichen Technik, als des Utilität und<lb/>
 Anmuth in sich vereinigenden Kunst-<lb break="no"/>
 gewerbes; die polyphonen Kunstformen<lb/>
 der Musik bergen in sich den Keim zur<lb/>
@@ -118,8 +134,10 @@ nären Ästhetik meist getrennt behandelt<lb/>
 eines vielverzweigten Stammes, dessen<lb/>
 Wurzeln in den Boden der unbewussten<lb/>
 Trieb weit versenkt sind.</p>
-<ab><title>IV.</title></ab>
-<p>Bisher ist die Bedeutung der Ausgangs-<lb break="no"/>
+                     <ab>
+                        <title>IV.</title>
+                     </ab>
+                     <p>Bisher ist die Bedeutung der Ausgangs-<lb break="no"/>
 Hypothese nur in ihrer Beziehung auf<lb/>
 die ästhetische Production näher erörtert<lb/>
 worden; der wissenschaftlichen Thätigkeit<lb/>
@@ -137,7 +155,7 @@ künstlerischen enge verwandt, für das<lb/>
 Aufdecken großer Naturzusammenhänge<lb/>
 unerlässlich ist. Die synthetische Natur-<lb break="no"/>
 betrachtung findet ihren Ausdruck in der<lb/>
-<hi rend="text-spaced">Hypothese</hi>, welche nichts anderes ent-<lb break="no"/>
+                        <hi rend="text-spaced">Hypothese</hi>, welche nichts anderes ent-<lb break="no"/>
 halten kann, als alles vor jeder mög-<lb break="no"/>
 lichen Erfahrung über das zu Erklärende,<lb/>
 Geahnte. Ahnen lässt sich gar Manches<lb/>
@@ -157,7 +175,10 @@ dass bei der künstlerischen Production die<lb/>
 Phantasie-Thätigkeit keinen Augenblick<lb/>
 ausgeschaltet werden kann, während bei<lb/>
 der Gedankenarbeit hie und da Einiges</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

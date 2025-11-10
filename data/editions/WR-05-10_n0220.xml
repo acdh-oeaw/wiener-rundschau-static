@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-10_n0220.xml"
-     prev="WR-05-10_n0219.xml"
-     next="WR-05-10_n0221.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-10_n0220.xml" prev="WR-05-10_n0219.xml" next="WR-05-10_n0221.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,33 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 9</title>
+                  <idno>WR-05-09_n0189.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 11</title>
+                  <idno>WR-05-11_n0225.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>DIE DEUTUNG DER CAUSALITÄT.*</title></ab><table><row><cell>
-<p>Der Natur-Philosoph hat in einigen<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIE DEUTUNG DER CAUSALITÄT.*</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Der Natur-Philosoph hat in einigen<lb/>
 seiner Werke auch erkenntnis-theo-<lb break="no"/>
 retische Gedanken von größter Trag-<lb break="no"/>
 weite entwickelt. Von besonderem Inter-<lb break="no"/>
@@ -75,7 +91,7 @@ scheinung, wenn sie uns auch infolge<lb/>
 der langen Gewohnheit selbstverständ-<lb break="no"/>
 lich vorkommt. Fechner deutet dies<lb/>
 folgendermaßen:</p>
-<p>Alles, was wir gleichzeitig wahr-<lb break="no"/>
+                     <p>Alles, was wir gleichzeitig wahr-<lb break="no"/>
 nehmen, steht mit einander in Wirkungs-<lb break="no"/>
 bezügen; dadurch werden die Empfin-<lb break="no"/>
 dungen in einer Bewusstseins-Einheit<lb/>
@@ -95,15 +111,16 @@ Bewusstsein; sie bewirken, im Unter-<lb break="no"/>
 bewusstsein arbeitend, dass ich beim<lb/>
 Einströmen aller (sinnlosen) Sinnes-<lb break="no"/>
 Elemente, des grünen Runden und des</p>
-</cell><cell>
-<p rend="no-intend">länglichen Braunen <milestone unit="3dots"/> sofort die<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">länglichen Braunen <milestone unit="3dots"/> sofort die<lb/>
 klare Vorstellung des Baumes habe.<lb/>
 An solcher Folgebestimmtheit hängt<lb/>
 aber alle Fort-Erhaltung der Indivi-<lb break="no"/>
 dualität; fehlte sie, so würde es nur<lb/>
 Empfindungen geben, doch kein ver-<lb break="no"/>
 einigendes Bewusstsein.</p>
-<p>Diese psychischen Processe sind<lb/>
+                     <p>Diese psychischen Processe sind<lb/>
 an die materielle Causalität geknüpft.<lb/>
 Jedesmal folgt auf den Gehirnvorgang<lb/>
 A der Gehirnvorgang B; jedesmal bei<lb/>
@@ -129,10 +146,10 @@ salität in der ganzen Natur deutet<lb/>
 also darauf hin, dass die ganze Natur<lb/>
 eine Individualität, eine Bewusstseins-<lb break="no"/>
 Einheit forterhält.</p>
-<p>Die Causalität in der ganzen Natur<lb/>
+                     <p>Die Causalität in der ganzen Natur<lb/>
 weist also auf die Existenz eines all-<lb break="no"/>
 gemeinsten Ich hin.</p>
-<p>Den veralteten Aberglauben, dass<lb/>
+                     <p>Den veralteten Aberglauben, dass<lb/>
 Bewusstsein durchaus mit Protoplasma-<lb break="no"/>
 substanz und Nervenzellen verbunden<lb/>
 sein müsse, widerlegt Fechner mit<lb/>
@@ -140,10 +157,14 @@ folgendem Gleichnis: Die Geige hat<lb/>
 Saiten und tönt; die Flöte hat keine<lb/>
 Saiten und tönt nicht. (Menschen und<lb/>
 Thiere haben Nerven und sind bewusste</p>
-</cell></row></table><note type="footnote">
-<p>* S. <hi rend="text-spaced">Zendavesta</hi>, III. Band. Anlässlich des Fechner-Centenars wird uns Obenstehendes<lb/>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* S. <hi rend="text-spaced">Zendavesta</hi>, III. Band. Anlässlich des Fechner-Centenars wird uns Obenstehendes<lb/>
 aus Zürich geschrieben.</p>
-</note></div>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

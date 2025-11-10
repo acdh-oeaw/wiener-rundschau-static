@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-18_n0677.xml"
-     prev="WR-02-02-17_n0676.xml"
-     next="WR-02-02-18_n0678.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-18_n0677.xml" prev="WR-02-02-17_n0676.xml" next="WR-02-02-18_n0678.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,14 +42,55 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 17</title>
+                  <idno>WR-02-02-17_n0641.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 19</title>
+                  <idno>WR-02-02-19_n0713.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><milestone unit="masthead-start"/><p><hi rend="initial">Wiener</hi> <hi rend="initial">Rundschau</hi>.</p><milestone unit="hr"/><p><hi rend="strong"><date>1. <hi rend="text-spaced">AUGUST</hi> 1898</date>.</hi></p><milestone unit="hr"/><milestone unit="untyped-end"/><milestone unit="untyped-start"/><ab><title>MAX STIRNERS LEBEN UND WERK.<lb/>
-Von <rs type="person" key="">MAX MESSER</rs> (Wien.)</title></ab><p>Unter grossen Mühseligkeiten ist es John Henry Mackay gelungen,<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>1. <hi rend="text-spaced">AUGUST</hi> 1898</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>MAX STIRNERS LEBEN UND WERK.<lb/>
+Von <rs type="person" key="">MAX MESSER</rs> (Wien.)</title>
+            </ab>
+            <p>Unter grossen Mühseligkeiten ist es John Henry Mackay gelungen,<lb/>
 die Biographie Stirners fertig zu stellen.*) Vor zehn Jahren hatte er<lb/>
 begonnen, nach den Lebensumständen des verschollenen Denkers zu<lb/>
 forschen, in der Überzeugung, dass irgend etwas Ausserordentliches in<lb/>
@@ -63,7 +101,8 @@ Schliesslich erkannte er, dass es eine Thorheit war, sich Stirners<lb/>
 Leben gleichsam in rauschender, heftiger Bewegung vorzustellen und<lb/>
 dass dieses, weit entfernt im Gegensatz zu seiner grossen That zu<lb/>
 stehen, vielmehr der klare und schlichte Ausdruck ihrer letzten Lehre<lb/>
-war: das Leben eines Egoisten, der wusste, dass er es war!</p><p>In Bayreuth, am <date>25. October 1806</date>, wurde Johann Caspar Schmidt<lb/>
+war: das Leben eines Egoisten, der wusste, dass er es war!</p>
+            <p>In Bayreuth, am <date>25. October 1806</date>, wurde Johann Caspar Schmidt<lb/>
 als Sohn eines »blasenden Instrumentenmachers« geboren und genoss<lb/>
 hier als ein »guter und fleissiger« Schüler die Erziehung des städtischen<lb/>
 Gymnasiums. Von dem inneren Leben, das der Knabe und Jüngling<lb/>
@@ -73,12 +112,16 @@ sophischen Facultät, die damals eine Reihe glänzender Namen aufwies.<lb/>
 Nach zwei Jahren verlässt er Berlin und studiert bis zum Jahre <date>1832</date> in<lb/>
 Erlangen und Königsberg, um dann, wieder in Berlin angelangt, sich dem<lb/>
 Lehrerexamen zu unterziehen. 1½ Jahre verbrachte er als Schulamts-<lb break="no"/>
-candidat an der königlichen Realschule. Am <date>12. Dezember 1837</date><lb/>
+candidat an der königlichen Realschule. Am <date>12. Dezember 1837</date>
+               <lb/>
 heirathete er die Tochter seiner Wohnungsgeberin, Agnes Burtz. Die,<lb/>
 wie es scheint, stille, friedvolle, leidenschaftslose Ehe wird durch den<lb/>
-Tod der Frau schon im <date>nächsten Jahre</date> gelöst. Nun nahm Stirner eine</p><milestone unit="hr"/><note type="footnote">
-<p>*) Berlin <date>1898</date>. Verlag von Schuster &amp; Loeffler.</p>
-</note></div>
+Tod der Frau schon im <date>nächsten Jahre</date> gelöst. Nun nahm Stirner eine</p>
+            <milestone unit="hr"/>
+            <note type="footnote">
+               <p>*) Berlin <date>1898</date>. Verlag von Schuster &amp; Loeffler.</p>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

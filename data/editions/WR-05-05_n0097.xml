@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-05_n0097.xml"
-     prev="WR-05-04_n0096.xml"
-     next="WR-05-05_n0098.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-05_n0097.xml" prev="WR-05-04_n0096.xml" next="WR-05-05_n0098.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,55 +41,98 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 4</title>
+                  <idno>WR-05-04_n0077.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 6</title>
+                  <idno>WR-05-06_n0115.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="prose-start"/><milestone unit="masthead-start"/><p><hi rend="strong">WIENER<lb/>
-RUNDSCHAU</hi></p><p><hi rend="strong">HERAUSGEGEBEN VON FELIX RAPPAPORT</hi></p><table><row><cell>
-<p><date><hi rend="strong">1. MÄRZ 1901</hi></date></p>
-</cell><cell>
-<p><hi rend="strong">V. JAHRGANG, NR. 5</hi></p>
-</cell></row></table><milestone unit="hr"/><milestone unit="untyped-end"/><milestone unit="untyped-start"/><ab><title>NACH DER SÜNDFLUT. (»LES ILLUMINATIONS.« I.)<lb/>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="strong">WIENER<lb/>
+RUNDSCHAU</hi>
+            </p>
+            <p>
+               <hi rend="strong">HERAUSGEGEBEN VON FELIX RAPPAPORT</hi>
+            </p>
+            <table>
+               <row>
+                  <cell>
+                     <p>
+                        <date>
+                           <hi rend="strong">1. MÄRZ 1901</hi>
+                        </date>
+                     </p>
+                  </cell>
+                  <cell>
+                     <p>
+                        <hi rend="strong">V. JAHRGANG, NR. 5</hi>
+                     </p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>NACH DER SÜNDFLUT. (»LES ILLUMINATIONS.« I.)<lb/>
 Von <rs type="person" key="">ARTHUR RIMBAUD</rs>.<lb/>
-Aus dem Französischen von <rs type="person" key="">E. R. <hi rend="text-spaced">Weiß</hi></rs>, Baden-Baden.</title></ab><table><row><cell>
-<p>Sobald sich die Idee der Sündflut<lb/>
+Aus dem Französischen von <rs type="person" key="">E. R. <hi rend="text-spaced">Weiß</hi>
+                  </rs>, Baden-Baden.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Sobald sich die Idee der Sündflut<lb/>
 beruhigt hatte, hielt ein Hase im<lb/>
 spanischen Klee und in den wiegenden<lb/>
 Glockenblumen und sprach sein Gebet<lb/>
 zum Regenbogen empor durch das<lb/>
 Spinngewebe.</p>
-<p>O, die kostbaren Steine, die sich<lb/>
+                     <p>O, die kostbaren Steine, die sich<lb/>
 verborgen — die Blumen, die schon<lb/>
 schauten!</p>
-<p>In der grollen, schmutzigen Straße<lb/>
+                     <p>In der grollen, schmutzigen Straße<lb/>
 waren die Fleischbänke aufgestellt, und<lb/>
 man zog die Barken zum Meer, auf-<lb break="no"/>
 gethürmt wie auf den Gravüren.</p>
-<p>Das Blut strömte, bei Blaubart, in<lb/>
+                     <p>Das Blut strömte, bei Blaubart, in<lb/>
 den Schlachthäusern, in den Circussen,<lb/>
 wo das Siegel Gottes die Fenster<lb/>
 bleichte.</p>
-<p>Das Blut und die Milch strömten.</p>
-<p>Die Biber bauten.</p>
-<p>Die »Mazagrans« rauchten in den<lb/>
+                     <p>Das Blut und die Milch strömten.</p>
+                     <p>Die Biber bauten.</p>
+                     <p>Die »Mazagrans« rauchten in den<lb/>
 Kneipen.</p>
-<p>In dem großen, noch triefenden<lb/>
+                     <p>In dem großen, noch triefenden<lb/>
 Glashaus betrachteten die Kinder in<lb/>
 Trauer die wundersamen Bilder.</p>
-<p>Eine Thür schlug, und auf dem<lb/>
+                     <p>Eine Thür schlug, und auf dem<lb/>
 Platz des Weilers drehte das Kind<lb/>
 seine Arme gleich den Wetterfahnen</p>
-</cell><cell>
-<p rend="no-intend">und den Thurmhähnen überall unter<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">und den Thurmhähnen überall unter<lb/>
 dem niedersausenden Platzregen.</p>
-<p>Madame <milestone unit="asterismUp"/> stellte ein Piano in<lb/>
+                     <p>Madame <milestone unit="asterismUp"/> stellte ein Piano in<lb/>
 die Alpen. Die Messe und die ersten<lb/>
 Communionen wurden celebriert an den<lb/>
 hunderttausend Altären der Kathedrale.</p>
-<p>Die Karawanen reisten ab. Und<lb/>
+                     <p>Die Karawanen reisten ab. Und<lb/>
 das Splendid-Hotel wurde in dem Eis-<lb/>
 und Nachtchaos des Pols gebaut. Seit-<lb break="no"/>
 dem hörte der Mond die Schakale in<lb/>
@@ -101,7 +141,7 @@ die hirtengedichtlichen Holzschuhe im<lb/>
 Obstgarten klappern. Dann sagte mir<lb/>
 Eucharis in dem knospentreibenden,<lb/>
 violetten Hochwald, das sei der Frühling.</p>
-<p>Quill auf, Sumpf! — Schaum, rolle<lb/>
+                     <p>Quill auf, Sumpf! — Schaum, rolle<lb/>
 über die Brücke und überschreite die<lb/>
 Wälder! — Schwarze Fahnen und<lb/>
 Orgeln, Blitze und Donner, steigt und<lb/>
@@ -114,7 +154,11 @@ die Königin, die Hexe, die ihre Kohlen-<lb break="no"/>
 glut im irdenen Topf anzündet, will<lb/>
 uns niemals erzählen, was sie weiß<lb/>
 und was wir nicht wissen!</p>
-</cell></row></table><milestone unit="untyped-end"/></div>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+         </div>
       </body>
    </text>
 </TEI>

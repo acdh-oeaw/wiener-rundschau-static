@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-04_n0087.xml"
-     prev="WR-05-04_n0086.xml"
-     next="WR-05-04_n0088.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-04_n0087.xml" prev="WR-05-04_n0086.xml" next="WR-05-04_n0088.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 3</title>
+                  <idno>WR-05-03_n0049.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 5</title>
+                  <idno>WR-05-05_n0097.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">HECKEL: FRIEDRICH DER UNZEITGEMÄSSE.</fw></fw><table><row><cell>
-<p>Der feierliche, fast salbungsvolle Ton<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">HECKEL: FRIEDRICH DER UNZEITGEMÄSSE.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Der feierliche, fast salbungsvolle Ton<lb/>
 in den frühen Briefen Nietzsches weckt<lb/>
 manchesmal ein leises Lächeln der<lb/>
 Rührung, so sehr steht die ernste, schwere,<lb/>
@@ -61,25 +76,25 @@ Nietzsche und seiner »gaya scienza«, die<lb/>
 er in einem Briefe charakterisiert als<lb/>
 »sehr viel heiteres Glück, sehr viel<lb/>
 Halkyonismus«.</p>
-<p>Einmal schreibt er an Gersdorff:<lb/>
+                     <p>Einmal schreibt er an Gersdorff:<lb/>
 »Betone nur immer durch die That Deine<lb/>
 innerste Übereinstimmung mit dem Dogma<lb/>
 der Liebe und des Mitleidens, das ist die<lb/>
 feste Brücke u. s. w.«</p>
-<p>Gegen Ende des Jahres 1875 dagegen<lb/>
+                     <p>Gegen Ende des Jahres 1875 dagegen<lb/>
 heißt es in einem Briefe an denselben<lb/>
 Freund: »Du hast die herrliche Fähigkeit<lb/>
 zur <hi rend="text-spaced">Mitfreude</hi>; ich meine, sie ist selbst<lb/>
 seltener und edler, als die des Mitleidens.«</p>
-<p>Eine bedeutsame Stelle als Vorahnung<lb/>
+                     <p>Eine bedeutsame Stelle als Vorahnung<lb/>
 seiner späteren Lebens-Anschauung. Denn<lb/>
 noch bekennt er sich in demselben Briefe<lb/>
 zum Pessimismus, nur dass er nach der<lb/>
-<hi rend="text-spaced">indischen</hi> Überzeugung von dem Un-<lb break="no"/>
+                        <hi rend="text-spaced">indischen</hi> Überzeugung von dem Un-<lb break="no"/>
 werte des Lebens verlangte, »nicht ver-<lb break="no"/>
 quickt mit den jüdisch-christlichen Redens-<lb break="no"/>
 arten«.</p>
-<p>Noch nennt er Schopenhauer und<lb/>
+                     <p>Noch nennt er Schopenhauer und<lb/>
 Wagner seine Erzieher, die Griechen aber<lb/>
 nur die täglichen Objecte seiner Arbeit.<lb/>
 Aber schon im <date>nächsten Jahre</date> schreibt<lb/>
@@ -88,7 +103,7 @@ chischen Philosophen als Vorbilder der zu<lb/>
 erreichenden Lebensweise vor die Augen.<lb/>
 Ich lese die Memorabilien des Xenophon<lb/>
 mit dem tiefsten persönlichen Interesse.«</p>
-<p>Zu gleicher Zeit regt sich auch schon<lb/>
+                     <p>Zu gleicher Zeit regt sich auch schon<lb/>
 ein Vorgefühl des Trotzes, dessen er zur<lb/>
 Verharrung auf seinem Wege bedurfte.<lb/>
 »Um alles in der Welt keinen Schritt zur<lb/>
@@ -100,16 +115,17 @@ mich selbst nicht nur, sondern viele mit<lb/>
 mir wachsende Menschen schädigen oder<lb/>
 vernichten, wenn ich schwächer und<lb/>
 skeptisch werden wollte.«</p>
-<p>Leider bricht der Briefwechsel mit<lb/>
+                     <p>Leider bricht der Briefwechsel mit<lb/>
 Freiherrn von Gersdorff <date>1876</date> kurz vor<lb/>
 den Bayreuther Bühnen-Festspielen ab,<lb/>
 um erst sieben Jahre später wieder auf-<lb break="no"/>
 genommen zu werden. In diese Zwischen-</p>
-</cell><cell>
-<p rend="no-intend">zeit fällt »eine lange, schwere Askese des<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">zeit fällt »eine lange, schwere Askese des<lb/>
 Geistes«, die Jahre der größten Selbst-<lb break="no"/>
 überwindung.</p>
-<p>Die im gleichen Bande enthaltenen<lb/>
+                     <p>Die im gleichen Bande enthaltenen<lb/>
 Briefe an Frau Marie Baumgartner,<lb/>
 Dr. Eiser, Madame Luise O., Ober-<lb break="no"/>
 regierungsrath Gustav Krug, Prof. Dr. Paul<lb/>
@@ -121,7 +137,7 @@ keinem von ihnen war Nietzsche so rück-<lb break="no"/>
 haltslos vertraut, um ihm tiefe Einblicke<lb/>
 zu gewähren in seine Kampfe und<lb/>
 Wandlungen.</p>
-<p>Man hat den verdienstvollen Heraus-<lb break="no"/>
+                     <p>Man hat den verdienstvollen Heraus-<lb break="no"/>
 gebern der Briefe vorgeworfen, dass sie<lb/>
 die Briefe nicht synchronistisch geordnet<lb/>
 haben, sondern sie nach Adressaten zu-<lb break="no"/>
@@ -154,13 +170,16 @@ Liebes-Idylle, zu der sich die Briefe an<lb/>
 Madame Luise O. so anmuthig verflechten,<lb/>
 durchbrochen wissen durch gleich giltige<lb/>
 oder fremdklingende Briefe.</p>
-<p>Eines allerdings muss bei dieser An-<lb break="no"/>
+                     <p>Eines allerdings muss bei dieser An-<lb break="no"/>
 ordnung, die das psychologische Interesse<lb/>
 vor das biographische stellt, verwundern:<lb/>
 dass mitten unter die Briefe Nietzsches<lb/>
 an Frau Baumgartner solche seiner<lb/>
 Schwester eingefügt sind. War man sich</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

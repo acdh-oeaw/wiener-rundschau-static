@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-20_n0768.xml"
-     prev="WR-02-02-20_n0767.xml"
-     next="WR-02-02-20_n0769.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-20_n0768.xml" prev="WR-02-02-20_n0767.xml" next="WR-02-02-20_n0769.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,13 +42,39 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 19</title>
+                  <idno>WR-02-02-19_n0713.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 21</title>
+                  <idno>WR-02-02-21_n0785.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd">RITTINGER.</fw><p rend="no-intend">in der Ludwigskirche gestanden ist, wo alle die ernsten grossen<lb/>
+         <div type="page">
+            <fw type="hd">RITTINGER.</fw>
+            <p rend="no-intend">in der Ludwigskirche gestanden ist, wo alle die ernsten grossen<lb/>
 Gestalten auf einen heruntersehen mit den tiefen seelenvollen Blicken,<lb/>
 dieses poetisch grosse Himmelreich von Propheten und Patriarchen, wo<lb/>
 alle Äusserlichkeit aufzuhören scheint in der grossen Sprache der Seelen,<lb/>
@@ -64,17 +87,20 @@ zu der Almers aufblickt — wer das alles gesehen hat, mit ernstem,<lb/>
 offenem Herzen, dem wird es ekeln vor der niedrigen Herabwürdigung,<lb/>
 die dieser einsam grosse Nazarener von den heutigen Kunstverständigen<lb/>
 erfährt, er wird sich sagen müssen, das ist ein Prophet, und jene<lb/>
-anderen sind malerische Jongleurs, weiter nichts.</p><p>Und der Mann wird auch keinen Augenblick an der Ursprüng-<lb break="no"/>
+anderen sind malerische Jongleurs, weiter nichts.</p>
+            <p>Und der Mann wird auch keinen Augenblick an der Ursprüng-<lb break="no"/>
 lichkeit dieser grossen nazarenischen Kunst zweifeln. Sie haben ja<lb/>
 gewiss in der Art einer älteren Kunst gemalt, aber doch nur deshalb,<lb/>
 weil sie selbst Männer von dieser älteren Art waren. Nachahmer,<lb/>
 Anempfinder! Es gibt keine epochemachende Kunstschule, die nach-<lb break="no"/>
-ahmt und anempfindet.</p><p>Hat etwa Raphaël in den Stanzen, Goethe in der Iphigenie die<lb/>
+ahmt und anempfindet.</p>
+            <p>Hat etwa Raphaël in den Stanzen, Goethe in der Iphigenie die<lb/>
 Antike bloss nachgeahmt und anempfunden? Gewiss nicht. Sie waren<lb/>
 einfach antike Menschen und mussten deshalb antik malen und dichten.<lb/>
 Ebenso waren die Nazarener romantische Menschen, durch und durch,<lb/>
 und an Führichs christlicher Kunst ist ebensowenig Erlogenes wie an<lb/>
-den alten Kölner Malern.</p><p>Es ist ein grosser Unterschied zwischen diesen Malerromantikern<lb/>
+den alten Kölner Malern.</p>
+            <p>Es ist ein grosser Unterschied zwischen diesen Malerromantikern<lb/>
 und den ersten romantischen Dichtern Tieck, Schlegel etc., der Unter-<lb break="no"/>
 schied nämlich, dass die Maler 13 Jahre später begonnen haben als<lb/>
 die Dichter, und das macht viel aus. Sie stehen in dieser Hinsicht<lb/>
@@ -94,7 +120,8 @@ malt Bilder zu Brentanos Gedichten. Was Tieck vor sich gesehen<lb/>
 hat, als Mensch von Geschmack und Witz, das ist in den Nazarenern<lb/>
 Fleisch und Blut geworden, seine Träume sind ihre Natur. Einen so<lb/>
 durchaus christlichen, positiv gläubigen Menschen wie Führich hat es<lb/>
-im strengsten Mittelalter nur selten gegeben. Und Führich war nicht</p></div>
+im strengsten Mittelalter nur selten gegeben. Und Führich war nicht</p>
+         </div>
       </body>
    </text>
 </TEI>

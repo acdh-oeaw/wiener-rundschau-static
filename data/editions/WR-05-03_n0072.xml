@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-03_n0072.xml"
-     prev="WR-05-03_n0071.xml"
-     next="WR-05-03_n0073.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-03_n0072.xml" prev="WR-05-03_n0071.xml" next="WR-05-03_n0073.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 2</title>
+                  <idno>WR-05-02_n0023.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 4</title>
+                  <idno>WR-05-04_n0077.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">LINDNER: LAVATER.</fw></fw><table><row><cell>
-<p>Dieser »schwache« Mysticismus lag<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">LINDNER: LAVATER.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Dieser »schwache« Mysticismus lag<lb/>
 eben tief im Innersten seiner Natur be-<lb break="no"/>
 gründet und war durchaus nicht als etwas<lb/>
 Äußerliches zu nehmen. Da Kaspar kein<lb/>
@@ -64,7 +79,7 @@ bestimmte Explosionspunkte zu sammeln,<lb/>
 musste daher den Eindruck der lediglich<lb/>
 gläubigen (weil <hi rend="text-spaced">künstlerisch</hi> ungerecht-<lb break="no"/>
 fertigten) Schwäche machen.</p>
-<p>Seine Predigten und Herzensworte,<lb/>
+                     <p>Seine Predigten und Herzensworte,<lb/>
 aus deren übergroßem Reichthum unsere<lb/>
 Pastoren, Pfarrer, Rabbiner zu ihrem eigenen<lb/>
 Vortheil stehlen sollten, statt ewiglich<lb/>
@@ -87,14 +102,15 @@ Hat man Zeit und hegt man geduldigen<lb/>
 Taubenmuth, dann mag man mit gleichem<lb/>
 Behagen in einem vierbändigen Schmöker<lb/>
 blättern, der mit grotesker Umständlich-<lb break="no"/>
-keit <hi rend="italics">de omni re scibili et quibusdam aliis</hi><lb/>
+keit <hi rend="italics">de omni re scibili et quibusdam aliis</hi>
+                        <lb/>
 handelt und den pandämonischen Titel führt:<lb/>
 »<hi rend="text-spaced">Pontius Pilatus</hi> oder der Mensch in<lb/>
 allen Gestalten oder Höhe und Tiefe der<lb/>
 Menschheit oder die Bibel im Kleinen und<lb/>
 der Mensch im Großen oder ein Universal-<lb break="no"/>
-<hi rend="italics">Ecce-homo</hi> oder Alles in Einem«.</p>
-<p>Keinesfalls aber wird man die »<hi rend="text-spaced">Phy-<lb break="no"/>
+                        <hi rend="italics">Ecce-homo</hi> oder Alles in Einem«.</p>
+                     <p>Keinesfalls aber wird man die »<hi rend="text-spaced">Phy-<lb break="no"/>
 siognomischen Fragmente zur Be-<lb break="no"/>
 förderung der Menschenkenntnis<lb/>
 und Menschenliebe</hi>« (<date>1775</date>, vier Bände)<lb/>
@@ -105,8 +121,10 @@ Deutschland, England und Frankreich<lb/>
 sehr zahlreiche Anhänger gefunden haben.<lb/>
 Man weiß, dass sie die Wechselwirkungen<lb/>
 des äußeren und inneren Menschen, die</p>
-</cell><cell>
-<p rend="no-intend">räthselhaften Beziehungen zwischen <hi rend="text-spaced">Seele</hi><lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">räthselhaften Beziehungen zwischen <hi rend="text-spaced">Seele</hi>
+                        <lb/>
 und <hi rend="text-spaced">Antlitz</hi> zum Gegenstande einer sprung-<lb break="no"/>
 haften und hypothetischen, mehr divina-<lb break="no"/>
 torischen als logischen, mehr pythischen<lb/>
@@ -115,7 +133,7 @@ und dieses schwierige Problem mit einer<lb/>
 Kühnheit anschneiden, die den wehrhaften<lb/>
 Akademicismus wie ein rothes Tuch reizen<lb/>
 musste. Zwar, was von <hi rend="text-spaced">Plato</hi>, <hi rend="text-spaced">Pythagoras</hi>,<lb/>
-<hi rend="text-spaced">Aristoteles</hi> geahnt, von mittelalterlichen<lb/>
+                        <hi rend="text-spaced">Aristoteles</hi> geahnt, von mittelalterlichen<lb/>
 Mystikern theilweise ausgesponnen und<lb/>
 von der Märchenphantasie fast aller<lb/>
 Völker, der orientalischen zumal, wie<lb/>
@@ -123,7 +141,7 @@ etwas Längstgehegtes bestätigt wurde,<lb/>
 konnte von einem Manne wie Lavater<lb/>
 gleichfalls nur intuitiv erfasst, intuitiv<lb/>
 ausgebaut und lediglich auf persönliche<lb/>
-<hi rend="text-spaced">Empfindungen</hi> oder <hi rend="text-spaced">Ahnungen</hi> gestellt<lb/>
+                        <hi rend="text-spaced">Empfindungen</hi> oder <hi rend="text-spaced">Ahnungen</hi> gestellt<lb/>
 werden. »Beweise« waren seine Sache<lb/>
 nicht. So begnügte er sich, Töne und<lb/>
 Themen anzuschlagen, die er aus sich<lb/>
@@ -143,13 +161,14 @@ und interessantesten Probleme gegraben,<lb/>
 um es alsbald für öffentliche Discussionen<lb/>
 und für die Forschung späterer Jahrzehnte<lb/>
 freizulegen. Dass viele der Späteren — so<lb/>
-<hi rend="text-spaced">Gall</hi>, <hi rend="text-spaced">Piderit</hi>, <hi rend="text-spaced">Carus</hi>, <hi rend="text-spaced">Darwin</hi>, <hi rend="text-spaced">Spencer</hi><lb/>
+                        <hi rend="text-spaced">Gall</hi>, <hi rend="text-spaced">Piderit</hi>, <hi rend="text-spaced">Carus</hi>, <hi rend="text-spaced">Darwin</hi>, <hi rend="text-spaced">Spencer</hi>
+                        <lb/>
 — zu andersgearteten Resultaten gelangten<lb/>
 und sich vielfach genöthigt sahen, von<lb/>
 völlig neuen Voraussetzungen und Erfah-<lb break="no"/>
 rungen auszugehen, kann Lavaters Ver-<lb break="no"/>
 dienst in keiner Weise schmälern.</p>
-<p>Als dann anno domini <date>1786</date> der Mag-<lb break="no"/>
+                     <p>Als dann anno domini <date>1786</date> der Mag-<lb break="no"/>
 netismus aus dem Elsass in die Schweiz<lb/>
 kam, beugte sich Kaspar vor dieser<lb/>
 »neuen Art von Strahlen«, die ihm<lb/>
@@ -160,7 +179,10 @@ in ihr den Somnambulismus nach dem<lb/>
 Puységur’schen Verfahren, heilte sie und<lb/>
 viele Andere auf diesem ungewöhnlichen<lb/>
 Wege und gelangte so zu dem Caeterum</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

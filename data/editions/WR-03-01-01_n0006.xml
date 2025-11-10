@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-03-01-01_n0006.xml"
-     prev="WR-03-01-01_n0005.xml"
-     next="WR-03-01-01_n0007.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-01_n0006.xml" prev="WR-03-01-01_n0005.xml" next="WR-03-01-01_n0007.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,141 +42,228 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 2</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 2</title>
+                  <idno>WR-03-02-14_n0321.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 3, Halbbd. 1, Nr. 0</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 3, Halbbd. 1, Nr. 2</title>
+                  <idno>WR-03-01-02_n0025.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">STRINDBERG: DIE SCHLÜSSEL DES HIMMELREICHS.</fw></fw><table><row><cell>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Die Frösche</hi>.</p>
-<lg><l>Koah koah koah koah koah koah — koah</l>
-<l>koah koah koah koah koah koah koah</l>
-<l>koah* — (Bis.)</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Thersites</hi> (singt).</p>
-<lg><l>Ich bin ein kleiner Vogel,</l>
-<l>Der singet Nacht und Tag,</l>
-<l>Und lernt’ ich auch nicht singen,</l>
-<l>So sing ich doch recht brav!</l></lg>
-<milestone unit="untyped-end"/>
-<p>(Räuspert sich.)</p>
-<p><hi rend="text-spaced">Die Frösche</hi> (applaudieren).</p>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Thersites</hi> (singt).</p>
-<lg><l>Ich bin ein kleines Blümlein</l>
-<l>Und dufte rein im Tann’,</l>
-<l>Und lernt’ ich auch nicht duften,</l>
-<l>So duft ich, wie ich kann.</l></lg>
-<milestone unit="untyped-end"/>
-<p>(Räuspert sich.)</p>
-<p><hi rend="text-spaced">Die Frösche</hi> (applaudieren).</p>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Thersites</hi> (singt).</p>
-<lg><l>Ich bin ein kleiner Falter,</l>
-<l>Zu schäkern flieg ich aus,</l>
-<l>Und lernt’ ich auch nicht fliegen,</l>
-<l>Ich flieg’, trotz einem — Strauss.</l></lg>
-<milestone unit="untyped-end"/>
-<p>(Er tanzt.)</p>
-<p><hi rend="text-spaced">Die Frösche</hi><lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">STRINDBERG: DIE SCHLÜSSEL DES HIMMELREICHS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Die Frösche</hi>.</p>
+                     <lg>
+                        <l>Koah koah koah koah koah koah — koah</l>
+                        <l>koah koah koah koah koah koah koah</l>
+                        <l>koah* — (Bis.)</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Thersites</hi> (singt).</p>
+                     <lg>
+                        <l>Ich bin ein kleiner Vogel,</l>
+                        <l>Der singet Nacht und Tag,</l>
+                        <l>Und lernt’ ich auch nicht singen,</l>
+                        <l>So sing ich doch recht brav!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>(Räuspert sich.)</p>
+                     <p>
+                        <hi rend="text-spaced">Die Frösche</hi> (applaudieren).</p>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Thersites</hi> (singt).</p>
+                     <lg>
+                        <l>Ich bin ein kleines Blümlein</l>
+                        <l>Und dufte rein im Tann’,</l>
+                        <l>Und lernt’ ich auch nicht duften,</l>
+                        <l>So duft ich, wie ich kann.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>(Räuspert sich.)</p>
+                     <p>
+                        <hi rend="text-spaced">Die Frösche</hi> (applaudieren).</p>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Thersites</hi> (singt).</p>
+                     <lg>
+                        <l>Ich bin ein kleiner Falter,</l>
+                        <l>Zu schäkern flieg ich aus,</l>
+                        <l>Und lernt’ ich auch nicht fliegen,</l>
+                        <l>Ich flieg’, trotz einem — Strauss.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>(Er tanzt.)</p>
+                     <p>
+                        <hi rend="text-spaced">Die Frösche</hi>
+                        <lb/>
 (applaudieren und recitieren hierauf wie oben).</p>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Der Arzt</hi>.</p>
-<lg><l>Du singest wie Narcissus selbst!</l>
-<l>Und hätte Midas nicht schon ganz ver-</l>
-<l>pfuscht das Genre,</l>
-<l>So könntest Du Dich messen mit Apoll!</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Thersites</hi>.</p>
-<lg><l>Ihr seid zu gütig, Doctor,</l>
-<l>Und dass ich’s nur gesteh’, ich dachte</l>
-<l>selbst daran,</l>
-<l>Doch hielt die angebor’ne Schüchternheit</l>
-<l>Mich stets davon zurück.</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Der Arzt</hi>.</p>
-<lg><l>Hast Du Narcissus nie zum Wettkampf</l>
-<l>aufgefordert?</l>
-<l>Das wär’ doch immer ein Triumph, ob</l>
-<l>auch nicht gross.</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Thersites</hi>.</p>
-<lg><l>Der dünkelhafte Narr!</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="untyped-end"/>
-</cell><cell>
-<milestone unit="scene-start"/>
-<ab><title>Vierte Scene.</title></ab>
-<p>(Eine Oreade der Felsen des Waldes tritt her-<lb break="no"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Du singest wie Narcissus selbst!</l>
+                        <l>Und hätte Midas nicht schon ganz ver-</l>
+                        <l>pfuscht das Genre,</l>
+                        <l>So könntest Du Dich messen mit Apoll!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Thersites</hi>.</p>
+                     <lg>
+                        <l>Ihr seid zu gütig, Doctor,</l>
+                        <l>Und dass ich’s nur gesteh’, ich dachte</l>
+                        <l>selbst daran,</l>
+                        <l>Doch hielt die angebor’ne Schüchternheit</l>
+                        <l>Mich stets davon zurück.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Hast Du Narcissus nie zum Wettkampf</l>
+                        <l>aufgefordert?</l>
+                        <l>Das wär’ doch immer ein Triumph, ob</l>
+                        <l>auch nicht gross.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Thersites</hi>.</p>
+                     <lg>
+                        <l>Der dünkelhafte Narr!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+                  <cell>
+                     <milestone unit="scene-start"/>
+                     <ab>
+                        <title>Vierte Scene.</title>
+                     </ab>
+                     <p>(Eine Oreade der Felsen des Waldes tritt her-<lb break="no"/>
 vor. Um sie scharen sich Dryaden, welche<lb/>
 sich hinter Baumstämmen verborgen gehalten,<lb/>
 sowie aus dem Wasser tauchende Najaden.)</p>
-<p><hi rend="strong">Die Vorigen.</hi></p>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Die Oreade</hi>.</p>
-<lg><l>Halt ein! Thersites! Hör’, bevor Du redest</l>
-<l>Von Dingen, die Du nicht verstehn gekonnt.</l>
-<l>Du liest die Sachen wie ein Kind,</l>
-<l>Und findest alles einfach.</l>
-<l>Doch der Gedanke, der dahinter steckt,</l>
-<l>Bleibt Deinem trüben Blick verdeckt.</l>
-<l>So klingt die wahre Sage von Narcissus:</l></lg>
-<p>(Recitiert oder singt.)</p>
-<lg><l>So erzählt die Sage von Pan,</l>
-<l>Dem Gotte des rauschenden Wald’s,</l>
-<l>Einer Nymphe stellt’ er einst nach,</l>
-<l>Die Echo mit Namen genannt.</l>
-<l>Nicht Gefallen fand Echo an Pan,</l>
-<l>Sie liebt’ einen andern getreu,</l>
-<l>Doch Narcissus, wie er genannt,</l>
-<l>Statt Liebe die Weisheit erkor.</l>
-<l>Gnothi Seauton!</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Die Nymphen</hi>.</p>
-<lg><l>Das da heisst: Erkenne Dich selbst!</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Die Oreade</hi>.</p>
-<lg><l>In Gedanken sieh ihn dort steh’n,</l>
-<l>Er schaut in der Tiefe sein Bild,</l>
-<l>Seines Wesens Grund zu erspäh’n,</l>
-<l>Das hinter den Zügen sich birgt.</l>
-<l>Doch im Wasser rudert ein Narr,</l>
-<l>Im See nur den Spiegel er sieht,</l>
-<l>Und er wähnt, der Denker begafft</l>
-<l>Sich dort, wo ins Tiefste er blickt.</l>
-<l>Gnothi Seauton!</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Die Nymphen</hi>.</p>
-<lg><l>Das da heisst: Erkenne Dich selbst.</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Thersites</hi>.</p>
-<lg><l>Gnothi Seauton! Ach! Den Narren,</l>
-<l>Damit soll ich vielleicht gemeint sein!</l>
-<l>Doch ich will zeigen Euch, dass auch</l>
-<l>der Narr,</l>
-<l>Wenn’s sein muss, in die Tiefe blickt,</l>
-<l>Obgleich ich, grad’ heraus, dort nichts</l>
-<l>gewahr’ als Schlamm.</l></lg>
-<milestone unit="untyped-end"/>
-<p>(Er lehnt sich über den Bootrand.)</p>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Die Oreade</hi>.</p>
-<lg><l>Das glaub’ ich gern, Thersites,</l>
-<l>Darum, weil Du allein die Oberfläche siehst.</l></lg>
-<milestone unit="untyped-end"/>
-</cell></row></table><note type="footnote">
-<p>* ˉ˘˘ˉ˘ˉ | ˘ ˉ˘˘ˉ˘˘ˉ˘</p>
-</note></div>
+                     <p>
+                        <hi rend="strong">Die Vorigen.</hi>
+                     </p>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Die Oreade</hi>.</p>
+                     <lg>
+                        <l>Halt ein! Thersites! Hör’, bevor Du redest</l>
+                        <l>Von Dingen, die Du nicht verstehn gekonnt.</l>
+                        <l>Du liest die Sachen wie ein Kind,</l>
+                        <l>Und findest alles einfach.</l>
+                        <l>Doch der Gedanke, der dahinter steckt,</l>
+                        <l>Bleibt Deinem trüben Blick verdeckt.</l>
+                        <l>So klingt die wahre Sage von Narcissus:</l>
+                     </lg>
+                     <p>(Recitiert oder singt.)</p>
+                     <lg>
+                        <l>So erzählt die Sage von Pan,</l>
+                        <l>Dem Gotte des rauschenden Wald’s,</l>
+                        <l>Einer Nymphe stellt’ er einst nach,</l>
+                        <l>Die Echo mit Namen genannt.</l>
+                        <l>Nicht Gefallen fand Echo an Pan,</l>
+                        <l>Sie liebt’ einen andern getreu,</l>
+                        <l>Doch Narcissus, wie er genannt,</l>
+                        <l>Statt Liebe die Weisheit erkor.</l>
+                        <l>Gnothi Seauton!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Die Nymphen</hi>.</p>
+                     <lg>
+                        <l>Das da heisst: Erkenne Dich selbst!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Die Oreade</hi>.</p>
+                     <lg>
+                        <l>In Gedanken sieh ihn dort steh’n,</l>
+                        <l>Er schaut in der Tiefe sein Bild,</l>
+                        <l>Seines Wesens Grund zu erspäh’n,</l>
+                        <l>Das hinter den Zügen sich birgt.</l>
+                        <l>Doch im Wasser rudert ein Narr,</l>
+                        <l>Im See nur den Spiegel er sieht,</l>
+                        <l>Und er wähnt, der Denker begafft</l>
+                        <l>Sich dort, wo ins Tiefste er blickt.</l>
+                        <l>Gnothi Seauton!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Die Nymphen</hi>.</p>
+                     <lg>
+                        <l>Das da heisst: Erkenne Dich selbst.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Thersites</hi>.</p>
+                     <lg>
+                        <l>Gnothi Seauton! Ach! Den Narren,</l>
+                        <l>Damit soll ich vielleicht gemeint sein!</l>
+                        <l>Doch ich will zeigen Euch, dass auch</l>
+                        <l>der Narr,</l>
+                        <l>Wenn’s sein muss, in die Tiefe blickt,</l>
+                        <l>Obgleich ich, grad’ heraus, dort nichts</l>
+                        <l>gewahr’ als Schlamm.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>(Er lehnt sich über den Bootrand.)</p>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Die Oreade</hi>.</p>
+                     <lg>
+                        <l>Das glaub’ ich gern, Thersites,</l>
+                        <l>Darum, weil Du allein die Oberfläche siehst.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* ˉ˘˘ˉ˘ˉ | ˘ ˉ˘˘ˉ˘˘ˉ˘</p>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

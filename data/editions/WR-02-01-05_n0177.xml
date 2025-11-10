@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-05_n0177.xml"
-     prev="WR-02-01-05_n0176.xml"
-     next="WR-02-01-05_n0178.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-05_n0177.xml" prev="WR-02-01-05_n0176.xml" next="WR-02-01-05_n0178.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,13 +42,42 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 4</title>
+                  <idno>WR-02-01-04_n0121.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 6</title>
+                  <idno>WR-02-01-06_n0201.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">GESPRÄCH MIT JAPANERN.</fw><fw type="pn">177</fw></fw><p>— Mit Eurem Wechsel könnt Ihr alle Abweichungen von Ent-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">GESPRÄCH MIT JAPANERN.</fw>
+               <fw type="pn">177</fw>
+            </fw>
+            <p>— Mit Eurem Wechsel könnt Ihr alle Abweichungen von Ent-<lb break="no"/>
 haltung zudecken, die man Euch als Unkeuschheit anrechnen wird,<lb/>
 wenn Ihr sie nicht mit einem Wechsel zudeckt. Meint Ihr, o Kami, da<lb/>
 Ihr Eure Tugenden in Wechseln durch die Post empfängt, meint Ihr,<lb/>
@@ -61,21 +87,31 @@ Ihr tugendsam genug gewesen wäret, sie nicht in japanischem Kupfer<lb/>
 und lackirten Präsentierbüchschen zu bezahlen? Nein, Kami! Was bei<lb/>
 einem armen Teufel gemein befunden worden wäre, wird in Niederlands<lb/>
 Augen edel, gross und keusch, sobald es von einer Regierung ausgeht,<lb/>
-die so reich an lackirter Tugend ist als die japanische.</p><p>Und mehr noch, Kami <milestone unit="3dots"/> Darf ich Euch ersuchen, das Kammer-<lb break="no"/>
-mädchen zu rufen? Und den Diener auch? Aber Einen nach dem Andern!</p><p>Der Diener kam zuerst, weil das Kammermädchen eine Lection<lb/>
-in Japanisch nahm.</p><p>— Sage mir, Diener, bist du tugendhaft?</p><p>— Ja, mein Herr, sehr tugendhaft.</p><p>— Das hätte ich ihm nicht angesehen, riefen die Kamis. Er<lb/>
+die so reich an lackirter Tugend ist als die japanische.</p>
+            <p>Und mehr noch, Kami <milestone unit="3dots"/> Darf ich Euch ersuchen, das Kammer-<lb break="no"/>
+mädchen zu rufen? Und den Diener auch? Aber Einen nach dem Andern!</p>
+            <p>Der Diener kam zuerst, weil das Kammermädchen eine Lection<lb/>
+in Japanisch nahm.</p>
+            <p>— Sage mir, Diener, bist du tugendhaft?</p>
+            <p>— Ja, mein Herr, sehr tugendhaft.</p>
+            <p>— Das hätte ich ihm nicht angesehen, riefen die Kamis. Er<lb/>
 sieht nicht aus wie Einer, der beträchtliche Wechsel in seinem Porte-<lb break="no"/>
-feuille hat.</p><p>— Einen Augenblick, o interessante Fremdlinge, die ihr zu hoch<lb/>
+feuille hat.</p>
+            <p>— Einen Augenblick, o interessante Fremdlinge, die ihr zu hoch<lb/>
 steht, um das Geringe zu verachten. Es gibt grosse Tugend und kleine<lb/>
 Tugend. Ich vermuthe, dass wir hier ein Beispiel von kleiner Tugend<lb/>
 haben. Sag mir, mit Tugenden gesegnet über viele Knechte und Herren,<lb/>
-bist du ehrlich?</p><p>— Ja, mein Herr, denn das währt am längsten. Ich habe hier<lb/>
-sechs Gulden in der Woche und volle Kost.</p><p>— Da habt Ihr die Ehrlichkeit in der einfachsten Form, o Kami,<lb/>
+bist du ehrlich?</p>
+            <p>— Ja, mein Herr, denn das währt am längsten. Ich habe hier<lb/>
+sechs Gulden in der Woche und volle Kost.</p>
+            <p>— Da habt Ihr die Ehrlichkeit in der einfachsten Form, o Kami,<lb/>
 so einfach wie das Lampenschirmchen, das Ihr an Stelle eines Hutes<lb/>
 auf Euer Haupt gesetzt habt. Der Mann berechnet <milestone unit="3dots"/> Sage doch, Diener,<lb/>
 wie viel hättet, falls Ihr nicht ehrlich wäret, Ihr auf einmal stehlen<lb/>
-können?</p><p>— Einmal wohl tausend Gulden, mein Herr. <hi rend="text-spaced">Aber dann wär</hi>’<lb/>
-<hi rend="text-spaced">ich zum Teufel gejagt worden</hi>.</p><p>— Freilich. Merkt nun gut auf, o Kami. Dieser Mann verdient<lb/>
+können?</p>
+            <p>— Einmal wohl tausend Gulden, mein Herr. <hi rend="text-spaced">Aber dann wär</hi>’<lb/>
+               <hi rend="text-spaced">ich zum Teufel gejagt worden</hi>.</p>
+            <p>— Freilich. Merkt nun gut auf, o Kami. Dieser Mann verdient<lb/>
 sechs Gulden per Woche und »die Kost«. Rechnen wir sie für fünf-<lb break="no"/>
 hundert per Jahr. Die mittlere Dauer der Bedientencarrière wird wohl<lb/>
 dreissig Jahre sein. Die Belohnung der Ehrlichkeit dieses Mannes beläuft<lb/>
@@ -84,7 +120,10 @@ des Tages, diese Belohnung dem Wenigen vorzuziehen, das seine Un-<lb break="no"/
 ehrlichkeit ihm einbringen könnte, um gar nicht von den Unannehm-<lb break="no"/>
 lichkeiten zu reden, die sie ihm einbrocken würde. Ihr selbst habt<lb/>
 gehört, Kami, wie er in der Sprache der Volksweisheit die Ehrlichkeit<lb/>
-als »<hi rend="text-spaced">am längsten während</hi>« pries.</p><milestone unit="untyped-end"/><milestone unit="hr"/></div>
+als »<hi rend="text-spaced">am längsten während</hi>« pries.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
       </body>
    </text>
 </TEI>

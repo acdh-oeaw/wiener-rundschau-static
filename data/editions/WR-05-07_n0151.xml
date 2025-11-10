@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-07_n0151.xml"
-     prev="WR-05-07_n0150.xml"
-     next="WR-05-07_n0152.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-07_n0151.xml" prev="WR-05-07_n0150.xml" next="WR-05-07_n0152.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,15 +41,34 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 6</title>
+                  <idno>WR-05-06_n0115.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 8</title>
+                  <idno>WR-05-08_n0159.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>NAIVE UND KÜNSTLERISCHE SENSIBILITÄT.<lb/>
-Von <rs type="person" key="">A. GUREWITSCH</rs> (Baugy sur Clarens).*</title></ab><table><row><cell>
-<p>Es gibt eine naive und eine künst-<lb break="no"/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>NAIVE UND KÜNSTLERISCHE SENSIBILITÄT.<lb/>
+Von <rs type="person" key="">A. GUREWITSCH</rs> (Baugy sur Clarens).*</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Es gibt eine naive und eine künst-<lb break="no"/>
 lerische Sensibilität. Die erste ist mit<lb/>
 Unlust, Begierde, Unruhe, Angst, Ver-<lb break="no"/>
 wirrung, Leidenschaft, Hass, Verletztheit,<lb/>
@@ -76,7 +92,7 @@ Sache, wir gehen in ihr auf und empfinden<lb/>
 eine umso intensivere und reinere Lust, je<lb/>
 vollkommener und reiner wir in der Sache<lb/>
 versunken sind.</p>
-<p>Die Erreichung der vollkommenen<lb/>
+                     <p>Die Erreichung der vollkommenen<lb/>
 künstlerischen Sensibilität bedeutet die voll-<lb break="no"/>
 kommene innere Befreiung. Sie bedeutet<lb/>
 aber auch die Vernichtung aller persön-<lb break="no"/>
@@ -91,8 +107,9 @@ kommenen naiven Sensibilität, welche,<lb/>
 weil persönlich, innere Unfreiheit und<lb/>
 äußere Disharmonie ist. Die vollkommene<lb/>
 naive Sensibilität ist ebenfalls Widerstands-</p>
-</cell><cell>
-<p rend="no-intend">und Wehrlosigkeit, sie bedeutet auch den<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">und Wehrlosigkeit, sie bedeutet auch den<lb/>
 unvermeidlichen Untergang, aber — in<lb/>
 Entsetzen und Feindschaft, in Krampf und<lb/>
 Kampf, in der Finsternis. Hie — schmerz-<lb break="no"/>
@@ -130,9 +147,15 @@ Irrthum, Causalität, Relativität, Rangord-<lb break="no"/>
 nung, Mysterium, Parallelismus, Wechsel-<lb break="no"/>
 wirkung, Beharrung, Veränderung, Conti-<lb break="no"/>
 nuität und Entwicklung.<lb/>
-</cell></row></table><note type="footnote">
-<p>* Vom selben Verfasser erscheint demnächst »Der gegenwärtige Zustand der Sociologie«.</p>
-</note><milestone unit="untyped-end"/><milestone unit="undefined"/></div>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Vom selben Verfasser erscheint demnächst »Der gegenwärtige Zustand der Sociologie«.</p>
+            </note>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-05_n0111.xml"
-     prev="WR-05-05_n0110.xml"
-     next="WR-05-05_n0112.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-05_n0111.xml" prev="WR-05-05_n0110.xml" next="WR-05-05_n0112.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 4</title>
+                  <idno>WR-05-04_n0077.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 6</title>
+                  <idno>WR-05-06_n0115.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">PUDOR: KEUSCHHEIT UND PRODUCTIVITÄT.</fw></fw><table><row><cell>
-<p rend="no-intend">Pharitasiekraft wir auf dem sexuellen Ge-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">PUDOR: KEUSCHHEIT UND PRODUCTIVITÄT.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Pharitasiekraft wir auf dem sexuellen Ge-<lb break="no"/>
 biete verausgaben, wir für das geistige<lb/>
 Gebiet verlieren, dass wir, je mehr wir<lb/>
 dort sparen, hier gewinnen. Es ist möglich,<lb/>
@@ -67,13 +82,13 @@ selteneren Fällen auch bewusst, alle unsere<lb/>
 Empfindungsmöglichkeiten und die ganze<lb/>
 Hitze und Kraft der Phantasie auf geistigem<lb/>
 Gebiete ausleben zu lassen.</p>
-<p>Betrachten wir nunmehr die physio-<lb break="no"/>
+                     <p>Betrachten wir nunmehr die physio-<lb break="no"/>
 logische Seite der Frage. Diese wird uns<lb/>
 von ausschlaggebender Bedeutung sein,<lb/>
 weil sie ein Irren und Fehlgehen so gut<lb/>
 wie ausschließt und nicht mit Möglich-<lb break="no"/>
 keiten, sondern mit Thatsachen rechnet.</p>
-<p>Es darf als bekannt vorausgesetzt<lb/>
+                     <p>Es darf als bekannt vorausgesetzt<lb/>
 werden, dass der Zeugungsstoff des Mannes<lb/>
 aus dem Blute produciert wird. Ebenso<lb/>
 bekannt ist eigentlich, aber weit weniger<lb/>
@@ -91,30 +106,32 @@ auch schon, dass die Säfte sich von dem<lb/>
 zurückbehaltenen Zeugungsstoff bereichern.<lb/>
 Demokritos hielt den Act für eine Art<lb/>
 der fallenden Sucht.</p>
-<p>Der bis heute berühmte und aner-<lb break="no"/>
+                     <p>Der bis heute berühmte und aner-<lb break="no"/>
 kannte Wiener Anatomiker Sömmering<lb/>
 hat wohl zuerst die ganze Sache klar er-<lb break="no"/>
 kannt. Er schrieb: »Bedenkt man ferner,<lb/>
 dass es wohl völlig gewiss ist, dass von<lb/>
 dem doch größtentheils zur Befruchtung<lb/>
 bestimmten männlichen Zeugungsstoff<lb/>
-Theilchen wieder eingesaugt werden <milestone unit="3dots"/><lb/>
+Theilchen wieder eingesaugt werden <milestone unit="3dots"/>
+                        <lb/>
 so wird man auf die Idee geleitet, der<lb/>
 Resorption desjenigen subtilen Fluidi,<lb/>
 welches den Nerven durch die ihnen<lb/>
 eigenen Arterien unaufhörlich zugeführt<lb/>
 und in gesundem Zustande von diesen<lb/>
 edlen Theilchen ebenso unaufhörlich durch</p>
-</cell><cell>
-<p rend="no-intend">die Saugadern ins Blut zurückgeleitet<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">die Saugadern ins Blut zurückgeleitet<lb/>
 wird, einen weiteren und höheren Zweck<lb/>
 beizumessen, als nur, um möglichst bald<lb/>
 aus dem Körper als ein Fluidum excremen-<lb break="no"/>
 titium weggeschafft zu werden.«</p>
-<p>Noch unzweideutiger drückt sich Hufe-<lb break="no"/>
+                     <p>Noch unzweideutiger drückt sich Hufe-<lb break="no"/>
 land, der berühmte Verfasser der welt-<lb break="no"/>
 bekannten »Makrobiotik«, aus:</p>
-<p>»<hi rend="text-spaced">Es scheint</hi>, <hi rend="text-spaced">dass die Seelen-<lb break="no"/>
+                     <p>»<hi rend="text-spaced">Es scheint</hi>, <hi rend="text-spaced">dass die Seelen-<lb break="no"/>
 organe und Zeugungsorgane</hi>, <hi rend="text-spaced">sowie<lb/>
 die beiden Verrichtungen des Den-<lb break="no"/>
 kens und der Zeugung sehr genau<lb/>
@@ -122,18 +139,20 @@ mit einander verbunden sind und<lb/>
 beide den veredeltsten und subli-<lb break="no"/>
 miertesten Theil der Lebenskraft<lb/>
 verbrauchen</hi>.</p>
-<p><hi rend="text-spaced">Durchgehends finden wir in der<lb/>
+                     <p>
+                        <hi rend="text-spaced">Durchgehends finden wir in der<lb/>
 alten Welt</hi>, <hi rend="text-spaced">dass alle Diejenigen</hi>,<lb/>
-<hi rend="text-spaced">von denen man etwas Außerordent-<lb break="no"/>
+                        <hi rend="text-spaced">von denen man etwas Außerordent-<lb break="no"/>
 liches und Ausgezeichnetes erwar-<lb break="no"/>
 tete</hi>, <hi rend="text-spaced">sich der physischen Liebe ent-<lb break="no"/>
 halten mussten</hi>.</p>
-<p><hi rend="text-spaced">Ich kann nicht oft genug daran<lb/>
+                     <p>
+                        <hi rend="text-spaced">Ich kann nicht oft genug daran<lb/>
 erinnern</hi>, <hi rend="text-spaced">dass die Zeugungssäfte am<lb/>
 meisten zur Wiedereinsaugung ins<lb/>
 Blut und zu unserer eigenen Stär-<lb break="no"/>
 kung bestimmt sind</hi>.«</p>
-<p>Dass also in der That geistige und<lb/>
+                     <p>Dass also in der That geistige und<lb/>
 körperliche Schaffenskraft nicht nur eng<lb/>
 zusammenhängen, sondern dass auch eine<lb/>
 ausschweifende Bethätigung der einen der<lb/>
@@ -159,7 +178,10 @@ doch <hi rend="text-spaced">für den Augenblick</hi> eine Willens-<lb break="no"
 belebung und eine Phantasiebelebung zur<lb/>
 Folge hat. Außerdem darf nicht ver-<lb break="no"/>
 gessen werden, dass beim Geschlechts-</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

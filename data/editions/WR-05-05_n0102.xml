@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-05_n0102.xml"
-     prev="WR-05-05_n0101.xml"
-     next="WR-05-05_n0103.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-05_n0102.xml" prev="WR-05-05_n0101.xml" next="WR-05-05_n0103.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,22 +41,42 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 4</title>
+                  <idno>WR-05-04_n0077.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 6</title>
+                  <idno>WR-05-06_n0115.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BRYK: DIE BEIDEN PFADE.</fw></fw><table><row><cell>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Kosmotheoros</hi>: Und weshalb legst<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BRYK: DIE BEIDEN PFADE.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Kosmotheoros</hi>: Und weshalb legst<lb/>
 du es mir so ungünstig aus, dass ich der-<lb break="no"/>
 gleichen schreibe und sage, dass ich den<lb/>
 Blumen solches zuspreche, den Sternen<lb/>
 solches, und den Gesteinen wieder anderes?</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Philarithmos</hi>: Dem Rufe der Lehre<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Philarithmos</hi>: Dem Rufe der Lehre<lb/>
 schadest du damit, o Kosmotheoros! Denn<lb/>
 vortrefflich sagt ein erleuchteter Weiser,<lb/>
 dass die Lehre nicht für den Haufen ge-<lb break="no"/>
@@ -92,14 +109,16 @@ also vernehmen, o Theurer — dann<lb/>
 weiß ich nicht, ob der weltberühmte<lb/>
 Kosmotheoros spricht oder meine alte<lb/>
 Amme.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Kosmotheoros</hi>: Eine kluge Amme<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Kosmotheoros</hi>: Eine kluge Amme<lb/>
 haben dir, o Philarithmos, deine süßen<lb/>
 Eltern auserlesen!</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Philarithmos</hi>: Braucht es vieler<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Philarithmos</hi>: Braucht es vieler<lb/>
 Klugheit hiezu, um solche Sätze zu ver-<lb break="no"/>
 stehen, wie: »Jede Schuld muss sich<lb/>
 rächen«; oder: »Die Forschung ist ziellos«<lb/>
@@ -109,12 +128,14 @@ meinen Beifall, aber dieses Spielen mit<lb/>
 dem »Übernatürlichen«, mit dem »Ge-<lb break="no"/>
 heimnisvollen«, mit dem »Ahnungs-<lb break="no"/>
 schweren« muss ich strenge rügen.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Kosmotheoros</hi>: Und in welcher<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Kosmotheoros</hi>: Und in welcher<lb/>
 Art wünschest du wohl, dass wir für die</p>
-</cell><cell>
-<p rend="no-intend">Lehre thätig seien? Soll dieses alles, was<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Lehre thätig seien? Soll dieses alles, was<lb/>
 du eben rügtest, fernbleiben und nichts<lb/>
 anderes in den Schriften aufgezeichnet<lb/>
 werden, als was wir mit den Sinnen un-<lb break="no"/>
@@ -122,9 +143,10 @@ mittelbar erblicken, so kann ich den<lb/>
 Nutzen dieser Aufschreibungen für die<lb/>
 Veredelung unseres Gemüthslebens nicht<lb/>
 mehr absehen.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Philarithmos</hi>: »Mit der Veredelung<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Philarithmos</hi>: »Mit der Veredelung<lb/>
 unserer Gemüthskräfte« hat die Lehre<lb/>
 und die Kunde nichts zu schaffen; sondern<lb/>
 was wahr ist und jederzeit durch viele<lb/>
@@ -136,32 +158,37 @@ stellt, theilweise durch glaubwürdige<lb/>
 Männer erfahren haben. Und je mehr wir<lb/>
 solcher wahrer Thatsachen zur Hand<lb/>
 haben, desto reicher dünket uns die Lehre.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Kosmotheoros</hi>: Und mehr strebt<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Kosmotheoros</hi>: Und mehr strebt<lb/>
 ihr nicht an, als immerfort neue Beobach-<lb break="no"/>
 tungen anzusammeln? Oder verbindet ihr<lb/>
 noch einen andern Zweck damit? Heißet<lb/>
 jene Lehre die bessere, die reicher ist an<lb/>
 Beobachtetem, oder jene, die uns bei<lb/>
 wenigem Gegebenen vieles sagt?</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Philarithmos</hi>: Wie man mit<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Philarithmos</hi>: Wie man mit<lb/>
 »Wenigem vieles« sagen kann, das ver-<lb break="no"/>
 stehe ich nun wieder nicht. — Was aber<lb/>
 den Zweck unserer mühevollen For-<lb break="no"/>
 schungen und Beobachtungen anbetrifft,<lb/>
 so ist meine Anschauung diese: Siehe,<lb/>
 o Freund, alles, was rings um uns ist,<lb/>
-das besteht aus vielen Kügelchen <milestone unit="3dots"/></p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Kosmotheoros</hi>: Aus kleinen oder<lb/>
+das besteht aus vielen Kügelchen <milestone unit="3dots"/>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Kosmotheoros</hi>: Aus kleinen oder<lb/>
 großen Kügelchen?</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Philarithmos</hi>: Aus ganz unendlich<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Philarithmos</hi>: Aus ganz unendlich<lb/>
 kleinen, die, weil sie so einzig klein sind,<lb/>
 dass sie niemand, auch nicht in Gedanken,<lb/>
 weiter zu zertheilen vermöchte, trefflich<lb/>
@@ -177,7 +204,10 @@ obachten wir alles so genau und emsig,<lb/>
 um es mit dieser Lehre schön in Einklang<lb/>
 zu bringen. Deshalb auch wollen wir nicht<lb/>
 hören, wenn Einer von Dingen spricht,</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

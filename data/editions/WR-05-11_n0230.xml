@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-11_n0230.xml"
-     prev="WR-05-11_n0229.xml"
-     next="WR-05-11_n0231.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-11_n0230.xml" prev="WR-05-11_n0229.xml" next="WR-05-11_n0231.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,21 +41,39 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 10</title>
+                  <idno>WR-05-10_n0205.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 12</title>
+                  <idno>WR-05-12_n0249.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BRYK: DIE MUSIK UND DIE INSCENIERUNG.</fw></fw><table><row><cell>
-<p rend="no-intend">Licht selbst, ebenso wie der Schall,<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BRYK: DIE MUSIK UND DIE INSCENIERUNG.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Licht selbst, ebenso wie der Schall,<lb/>
 auch nur Erscheinung, dadurch aber,<lb/>
 dass beide gleichzeitig unabweisbare<lb/>
 Wahrnehmbarkeits-Bedingungen sind,<lb/>
 von viel höherer Ordnung und infolge-<lb break="no"/>
 dessen künstlerisches <hi rend="text-spaced">Compositions-<lb break="no"/>
 Element</hi>.</p>
-<p>Das Worttondrama benöthigt, um<lb/>
+                     <p>Das Worttondrama benöthigt, um<lb/>
 fassbar zu werden, einer vermitteln-<lb break="no"/>
 den Einheit, welche den Parallelismus<lb/>
 in der musikalischen und scenischen<lb/>
@@ -82,15 +97,16 @@ trachten. — Übrigens ist die ganze<lb/>
 Theorie dieser gebundenen Empfindungs-<lb break="no"/>
 werte (d. h. das synthetische Aufheben<lb/>
 in einer sicheren Einheit) schon vor<lb/>
-<hi rend="text-spaced">Appia</hi> klar in diesen Blättern ent-<lb break="no"/>
+                        <hi rend="text-spaced">Appia</hi> klar in diesen Blättern ent-<lb break="no"/>
 wickelt worden, aus welchem Grunde<lb/>
 diese Erörterungen nur als Commen-<lb break="no"/>
 tarien dieses Ideencentrums zu be-<lb break="no"/>
 trachten sind.</p>
-<p>Farbe verhält sich zum absoluten<lb/>
+                     <p>Farbe verhält sich zum absoluten<lb/>
 Licht nicht bloß wie Subjectives zum</p>
-</cell><cell>
-<p rend="no-intend">Objectiven, sondern vielmehr wie<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Objectiven, sondern vielmehr wie<lb/>
 Qualitatives zum Quantitativen. Farbe<lb/>
 hat diese oder jene Schwingungszahl,<lb/>
 Licht ist Schwingungszahl schlechthin,<lb/>
@@ -121,14 +137,19 @@ der Musik reine und vollkommene Ob-<lb break="no"/>
 jectivität ermöglichend, von dem aus-<lb break="no"/>
 geht, was Jakob <hi rend="text-spaced">Boehme</hi> das »Cen-<lb break="no"/>
 trum der Natur« nennt.</p>
-<p>Alle diese Thesen sind unwider-<lb break="no"/>
+                     <p>Alle diese Thesen sind unwider-<lb break="no"/>
 leglich richtig und geben die Grundlage<lb/>
 für alle Möglichkeiten der Entwicklung<lb/>
 der bildenden wie der Bühnenkunst:<lb/>
 und die Versuche einer unsachlichen<lb/>
 Pseudokritik, sie todtzuschweigen,<lb/>
 werden daran nichts ändern.</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/></div>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
       </body>
    </text>
 </TEI>

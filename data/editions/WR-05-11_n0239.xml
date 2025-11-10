@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-11_n0239.xml"
-     prev="WR-05-11_n0238.xml"
-     next="WR-05-11_n0240.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-11_n0239.xml" prev="WR-05-11_n0238.xml" next="WR-05-11_n0240.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 10</title>
+                  <idno>WR-05-10_n0205.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 12</title>
+                  <idno>WR-05-12_n0249.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BLEIBTREU: DIALOG ÜBER ESOTERISCHEN BUDDHISMUS.</fw></fw><table><row><cell>
-<p>auf anderer Basis mit heiter freiem Ge-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BLEIBTREU: DIALOG ÜBER ESOTERISCHEN BUDDHISMUS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>auf anderer Basis mit heiter freiem Ge-<lb break="no"/>
 müthe die Selbsterlösung in Angriff nahm.<lb/>
 Mönchische Dumpfheit und Trägheit »ist<lb/>
 dem Buddha ein Greuel«, der vielmehr<lb/>
@@ -105,9 +120,10 @@ und hiermit die materialistische Welt-<lb break="no"/>
 anschauung indirect Lügen strafte. Aber<lb/>
 die Wahrheit und letzte Erkenntnis in<lb/>
 und seit Buddha bedankt sich auch für</p>
-</cell><cell>
-<p>den abstracten Kant’schen Sittlichkeits-<lb break="no"/>
-<hi rend="text-spaced">zwang</hi>, als einer — von wem und<lb/>
+                  </cell>
+                  <cell>
+                     <p>den abstracten Kant’schen Sittlichkeits-<lb break="no"/>
+                        <hi rend="text-spaced">zwang</hi>, als einer — von wem und<lb/>
 warum? — auferlegten Pflicht ohne ent-<lb break="no"/>
 sprechende Vergeltung. »Gott«, die All-<lb break="no"/>
 macht und All-Liebe, ist nicht ein solcher<lb/>
@@ -143,7 +159,7 @@ dem Nirwana — zum Mahatma (Über-<lb break="no"/>
 mensch) geworden. Auf der Grundlage der<lb/>
 buddhistischen »Sieben Pfade zum Heil«<lb/>
 wächst allmählich ein gott-menschliches<lb/>
-<hi rend="text-spaced">Wollen</hi> und später <hi rend="text-spaced">Können</hi> empor,<lb/>
+                        <hi rend="text-spaced">Wollen</hi> und später <hi rend="text-spaced">Können</hi> empor,<lb/>
 das die Wunder der »Zauberer« ermög-<lb break="no"/>
 licht. (Vergl. das herrliche Capitel über<lb/>
 Apollonius von Tyana im III. vol. der<lb/>
@@ -160,7 +176,10 @@ auch Fulton, Stephenson und Watt am<lb/>
 liebsten ins Irrenhaus gesteckt hätte, ist<lb/>
 die Existenz latenter Seelenkräfte jenseits<lb/>
 der Materie natürlich heute noch reiner</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

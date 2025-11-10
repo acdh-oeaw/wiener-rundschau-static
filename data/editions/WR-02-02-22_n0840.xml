@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-22_n0840.xml"
-     prev="WR-02-02-22_n0839.xml"
-     next="WR-02-02-22_n0841.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-22_n0840.xml" prev="WR-02-02-22_n0839.xml" next="WR-02-02-22_n0841.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,21 +42,52 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 21</title>
+                  <idno>WR-02-02-21_n0785.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 23</title>
+                  <idno>WR-02-02-23_n0865.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">840</fw><fw type="ctext">PICA.</fw></fw><p rend="no-intend">zu sein. In dieser Weise würden Poesie- und Prosadichtung einander<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">840</fw>
+               <fw type="ctext">PICA.</fw>
+            </fw>
+            <p rend="no-intend">zu sein. In dieser Weise würden Poesie- und Prosadichtung einander<lb/>
 glücklich ergänzen, indem die eine den concreten, die andere den<lb/>
 abstracten Theil des Lebens und seinen geistigen Inhalt darstellen,<lb/>
 die eine die positivistischen, die andere die idealistischen Tendenzen<lb/>
-verkörpern würde.</p><p>Aber jedesfalls sind jene Werke von unvergänglicherem Reiz, die,<lb/>
+verkörpern würde.</p>
+            <p>Aber jedesfalls sind jene Werke von unvergänglicherem Reiz, die,<lb/>
 statt die Gedanken und Gefühle des Autors deutlich auszudrücken, sich<lb/>
 damit begnügen, dieselben bloss anzudeuten, sie gleichsam mit einem<lb/>
 Nebelschleier zu umhüllen und es dem Leser überlassen, sie selber<lb/>
-ergänzend nachzuschaffen.</p><p>Offenbar schwebt das dem Mallarmé vor, wenn er eine symbo-<lb break="no"/>
+ergänzend nachzuschaffen.</p>
+            <p>Offenbar schwebt das dem Mallarmé vor, wenn er eine symbo-<lb break="no"/>
 listische Form für seine Dichtungen wählt, die freilich allzu dunkel<lb/>
 im Ausdruck metaphysischer Begriffe ist und allzu grossen Nachdruck<lb/>
 auf das musikalische Element in der Poesie legt, die überdies manch-<lb break="no"/>
@@ -68,8 +96,10 @@ ganz kleinen Zahl erlesener Geister zugänglich sind. Doch lässt sich<lb/>
 dieses Übermass vielleicht durch das Wort des Joubert, eines tiefen<lb/>
 Denkers des vorigen Jahrhunderts, rechtfertigen: »Souvent on ne peut<lb/>
 éviter de passer par le subtil, pour s’élever et arriver au sublime,<lb/>
-comme pour monter aux cieux il faut passer par les nuées —.«</p><milestone unit="asterismUp"/><p>Die Reihe der Veröffentlichungen begann für Mallarmé im Jahre<lb/>
-<date>1866</date>, wo bei Lemerre der erste Band des »Parnasse Contemporain«<lb/>
+comme pour monter aux cieux il faut passer par les nuées —.«</p>
+            <milestone unit="asterismUp"/>
+            <p>Die Reihe der Veröffentlichungen begann für Mallarmé im Jahre<lb/>
+               <date>1866</date>, wo bei Lemerre der erste Band des »Parnasse Contemporain«<lb/>
 erschien, eine bedeutende und charakteristische Sammlung von neuen<lb/>
 Dichtungen aus den Reihen der Parnassiens. Darin veröffentlichte<lb/>
 Mallarmé zehn Gedichte, welche lebhaftes Aufsehen in literarischen<lb/>
@@ -78,10 +108,12 @@ tadellos in der Form und — was ihr grosses Übergewicht über die<lb/>
 sonstigen Dichtungen der Parnassiens ausmachte — von wohlthuendem<lb/>
 Einklang zwischen Form und Inhalt, so dass die kunstvolle Musik<lb/>
 der Worte und Rhythmen genau den Gedanken und Empfindungen<lb/>
-entsprach, die der Dichter auszudrücken gedachte.</p><p>Von jenen ersten Talentproben des Mallarmé schrieb Théophile<lb/>
+entsprach, die der Dichter auszudrücken gedachte.</p>
+            <p>Von jenen ersten Talentproben des Mallarmé schrieb Théophile<lb/>
 Gautier in seinem: »Tableau de la poésie française depuis <date>1830</date>«:<lb/>
 »L’Extravagance un peu voulue en était traversée par de brillants<lb/>
-éclairs.«</p><p>Vermuthlich hat der Dichter der »Emaux et Camées«, alt und<lb/>
+éclairs.«</p>
+            <p>Vermuthlich hat der Dichter der »Emaux et Camées«, alt und<lb/>
 abgemüdet, wie er war, Mallarmés Bedeutung als Neuerer übersehen,<lb/>
 die ihn in jüngeren Jahren sicherlich begeistert hätte; aber anderseits<lb/>
 glaube ich, dass die lakonische Bezeichnung: »Extravagance un peu<lb/>
@@ -90,7 +122,8 @@ theidigung Baudelaires die folgenden Worte schrieb, die sich ebenso<lb/>
 gut auf Mallarmé anwenden lassen: »Man hat Baudelaire oftmals der<lb/>
 absichtlichen Bizarrerie, der gesuchten Originalität um jeden Preis,<lb/>
 und namentlich der Manieriertheit angeklagt. Es gebürt sich bei<lb/>
-diesem Punkte länger zu verweilen. Es gibt Leute, die von Natur</p></div>
+diesem Punkte länger zu verweilen. Es gibt Leute, die von Natur</p>
+         </div>
       </body>
    </text>
 </TEI>

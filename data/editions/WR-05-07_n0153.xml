@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-07_n0153.xml"
-     prev="WR-05-07_n0152.xml"
-     next="WR-05-07_n0154.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-07_n0153.xml" prev="WR-05-07_n0152.xml" next="WR-05-07_n0154.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 6</title>
+                  <idno>WR-05-06_n0115.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 8</title>
+                  <idno>WR-05-08_n0159.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BRIDIER: WIE VERSETZT MAN SICH IN DIE PERSÖNLICHKEIT EINES ANDEREN?</fw></fw><table><row><cell>
-<p>Auf dem Gebiete des Hypnotismus<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BRIDIER: WIE VERSETZT MAN SICH IN DIE PERSÖNLICHKEIT EINES ANDEREN?</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Auf dem Gebiete des Hypnotismus<lb/>
 ist man sich der ganzen Bedeutsamkeit<lb/>
 dieses Gesichtspunktes bewusst, was die<lb/>
 Auslegung von Mienen und Geberden,<lb/>
@@ -72,7 +87,7 @@ bedingen — so sehr verschmelzen die<lb/>
 objectiven und subjectiven Erscheinungen<lb/>
 zu einem untheilbaren Ganzen, das eben<lb/>
 die Gemüthsbewegung selbst ist.</p>
-<p>Wenig kommt es schließlich darauf<lb/>
+                     <p>Wenig kommt es schließlich darauf<lb/>
 an, ob das eine oder das andere Ursache<lb/>
 oder Wirkung darstellt, oder ob sie sich<lb/>
 gegenseitig als Ursache und Wirkung aus-<lb break="no"/>
@@ -83,14 +98,14 @@ erregung oder auf den Ausdruck derselben<lb/>
 einwirken, ohne gleichzeitig auf deren<lb/>
 physiologische und psychologische Ergän-<lb break="no"/>
 zungen Einfluss zu üben.</p>
-<p>Diese Thatsache lässt der Hypnotismus<lb/>
+                     <p>Diese Thatsache lässt der Hypnotismus<lb/>
 besonders scharf hervortreten, indem er<lb/>
 sie intensiv vergrößert; es wäre über-<lb break="no"/>
 flüssig, weiterhin zu bemerken, dass diese<lb/>
 wechselseitige Reaction nur deshalb mög-<lb break="no"/>
 lich ist, weil Physis und Psyche Analo-<lb break="no"/>
 gien miteinander aufweisen.</p>
-<p>Auch dies sind Sympathie-Erschei-<lb break="no"/>
+                     <p>Auch dies sind Sympathie-Erschei-<lb break="no"/>
 nungen. Der beste Theil vom Talent eines<lb/>
 Graphologen besteht in der ursprünglichen<lb/>
 oder durch Übung erworbenen Fähigkeit,<lb/>
@@ -98,9 +113,12 @@ sich in die Seele desjenigen hineinzudenken,<lb/>
 dessen Schrift er einer eingehenden Deu-<lb break="no"/>
 tung unterzieht; auch dies ist sonder Zweifel<lb/>
 Sache der Sympathie.</p>
-</cell><cell>
-<ab><title>III.</title></ab>
-<p>Offenbar besteht die erste Bedingung<lb/>
+                  </cell>
+                  <cell>
+                     <ab>
+                        <title>III.</title>
+                     </ab>
+                     <p>Offenbar besteht die erste Bedingung<lb/>
 dieser Identification in der genauen Kennt-<lb break="no"/>
 nisnahme der zu erforschenden Schrift,<lb/>
 nicht nur vermittelst des bloßen Auges,<lb/>
@@ -113,7 +131,7 @@ gung und Erforschung der Einzelheiten,<lb/>
 wobei man vermeiden muss, sich in der<lb/>
 Scheidemünze der kleinen Zeichen aus-<lb break="no"/>
 zugeben und zu verkrümmeln.</p>
-<p>Alles in allem stellt dies nur eine ein-<lb break="no"/>
+                     <p>Alles in allem stellt dies nur eine ein-<lb break="no"/>
 leitende Operation dar, der sich Unter-<lb break="no"/>
 suchungen und Prüfungen, desgleichen eine<lb/>
 Sichtung des Bestandes anschließen muss,<lb/>
@@ -142,19 +160,23 @@ Leben der Zeichen mitzuleben« — wie<lb/>
 sich Crépieux-Janun so treffend ausdrückt,<lb/>
 — um den Symbolismus derselben geläufig<lb/>
 zu entziffern.</p>
-<p>Bevor man es versucht, deren Werte<lb/>
+                     <p>Bevor man es versucht, deren Werte<lb/>
 in die definitive Synthese einer Skizze oder<lb/>
 eines ausgeführten Charakterbildes zu-</p>
-</cell></row></table><note type="footnote">
-<p>* Beide, das Gefühl und der Ausdruck desselben, bedingen einander und steigern sich<lb/>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Beide, das Gefühl und der Ausdruck desselben, bedingen einander und steigern sich<lb/>
 gegenseitig.</p>
-<p>»Der Zorn entstellt die Geberde also, dass sie scheußlich wird wie ein Sack«, heißt es<lb/>
+               <p>»Der Zorn entstellt die Geberde also, dass sie scheußlich wird wie ein Sack«, heißt es<lb/>
 in der Schrift (Jesus Sirach). Wer diesen physiologischen Ausdruck nicht stark in Schranken<lb/>
 hält, dem gestaltet sich der Zorn in der That zu einer kurzen Raserei. Wer aber, dessen ein-<lb break="no"/>
 gedenk, bei berechtigtem Zürnen seine Stimme zu einem leisen Schelten herabstimmt und<lb/>
 seine Mienen zügelt, der wird an sich selbst erfahren, wie die subjective Erregung verblasst.</p>
-<p>(Anm. d. Übers.)</p>
-</note></div>
+               <p>(Anm. d. Übers.)</p>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

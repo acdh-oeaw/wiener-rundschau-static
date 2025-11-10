@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-22_n0835.xml"
-     prev="WR-02-02-22_n0834.xml"
-     next="WR-02-02-22_n0836.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-22_n0835.xml" prev="WR-02-02-22_n0834.xml" next="WR-02-02-22_n0836.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,33 +42,69 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 21</title>
+                  <idno>WR-02-02-21_n0785.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 23</title>
+                  <idno>WR-02-02-23_n0865.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="verse-start"/><ab><title><hi rend="text-spaced">DEIN BRIEF</hi>.</title></ab><lg><l>Ich sitze still in meiner dunklen Laube</l>
-<l>Am Tisch von Eichenholz geschnitzt, die Ranken</l>
-<l>Von wildem Wein umschmeicheln luft’ge Äste,</l>
-<l>Aus denen sich der Bau zusammenfügt.</l>
-<l>Die Luft ist mild, und still bewegen sich die Blätter,</l>
-<l>Sie lächeln über Sommerwindes Spiel,</l>
-<l>Dann träumt es wieder — tief und ruhig,</l>
-<l>Gefällig eingewiegt schläft die Natur.</l>
-<l>Mein Haupt sinkt auf die müden Arme nieder,</l>
-<l>Das Auge blickt umflort auf einen Gegenstand,</l>
-<l>Der zitternd in der Hand mir wilde Gluten</l>
-<l>Und sanfte Rührungen erweckt: Dein Brief.</l>
-<l>So lern’ ich Deine Züge, so umfass’ ich</l>
-<l>Dein Wesen segnend, wie ein müder Pilger</l>
-<l>Vor einem Bildstock schluchzend niedersinkt.</l>
-<l>Dein Brief! — Ich les’ ihn nicht, ich seh’ ihn nur</l>
-<l>Und lese tief in Deinem tiefen Herzen. — —</l>
-<l>Genug der Träumerei. Das Leben fordert mich,</l>
-<l>Es fordert, dass ich thätig nun Dich preise,</l>
-<l>Dass nicht in rührend sehnenden Gedanken,</l>
-<l>Nein, in der That Dein Segen sich erweise.</l></lg><p><date>1889</date>. <rs type="person" key="">Georg Hirschfeld</rs>.</p><milestone unit="untyped-end"/></div>
+         <div type="page">
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">DEIN BRIEF</hi>.</title>
+            </ab>
+            <lg>
+               <l>Ich sitze still in meiner dunklen Laube</l>
+               <l>Am Tisch von Eichenholz geschnitzt, die Ranken</l>
+               <l>Von wildem Wein umschmeicheln luft’ge Äste,</l>
+               <l>Aus denen sich der Bau zusammenfügt.</l>
+               <l>Die Luft ist mild, und still bewegen sich die Blätter,</l>
+               <l>Sie lächeln über Sommerwindes Spiel,</l>
+               <l>Dann träumt es wieder — tief und ruhig,</l>
+               <l>Gefällig eingewiegt schläft die Natur.</l>
+               <l>Mein Haupt sinkt auf die müden Arme nieder,</l>
+               <l>Das Auge blickt umflort auf einen Gegenstand,</l>
+               <l>Der zitternd in der Hand mir wilde Gluten</l>
+               <l>Und sanfte Rührungen erweckt: Dein Brief.</l>
+               <l>So lern’ ich Deine Züge, so umfass’ ich</l>
+               <l>Dein Wesen segnend, wie ein müder Pilger</l>
+               <l>Vor einem Bildstock schluchzend niedersinkt.</l>
+               <l>Dein Brief! — Ich les’ ihn nicht, ich seh’ ihn nur</l>
+               <l>Und lese tief in Deinem tiefen Herzen. — —</l>
+               <l>Genug der Träumerei. Das Leben fordert mich,</l>
+               <l>Es fordert, dass ich thätig nun Dich preise,</l>
+               <l>Dass nicht in rührend sehnenden Gedanken,</l>
+               <l>Nein, in der That Dein Segen sich erweise.</l>
+            </lg>
+            <p>
+               <date>1889</date>. <rs type="person" key="">Georg Hirschfeld</rs>.</p>
+            <milestone unit="untyped-end"/>
+         </div>
       </body>
    </text>
 </TEI>

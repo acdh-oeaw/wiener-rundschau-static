@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-08_n0185.xml"
-     prev="WR-05-08_n0184.xml"
-     next="WR-05-08_n0186.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-08_n0185.xml" prev="WR-05-08_n0184.xml" next="WR-05-08_n0186.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 7</title>
+                  <idno>WR-05-07_n0141.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 9</title>
+                  <idno>WR-05-09_n0189.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">MAUCLAIR: MALLARMÉ.</fw></fw><table><row><cell>
-<p rend="no-intend">à emplacement gradué, ne maintien<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MAUCLAIR: MALLARMÉ.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">à emplacement gradué, ne maintien<lb/>
 drait-il pas le lecteur en haleine, durant<lb/>
 tout le livre, avec appel à sa puissance<lb/>
 d’attention: alors que se grouperait<lb/>
@@ -80,7 +95,7 @@ concentrierter Symbolismus eine Reihe<lb/>
 von Betrachtungsmotiven enthielt, an<lb/>
 denen sich die persönliche Arbeit des<lb/>
 Lesers üben konnte.</p>
-<p>Was wird von Stephan Mallarmé<lb/>
+                     <p>Was wird von Stephan Mallarmé<lb/>
 übrigbleiben? Lassen wir zunächst<lb/>
 den Mallarmismus beiseite, der nur<lb/>
 eine Erfindung der Zeitungen ist. Ich<lb/>
@@ -101,12 +116,13 @@ mit seinen Collagen nicht die geringste<lb/>
 Ideen, Existenz, Schriften, entstammt<lb/>
 einer ursprünglichen Originalität und<lb/>
 war mit niemandem zu vergleichen.</p>
-<p>Er hat keine Zeit gehabt, ein abge-<lb break="no"/>
+                     <p>Er hat keine Zeit gehabt, ein abge-<lb break="no"/>
 schlossenes Werk zu schaffen. Es bleibt<lb/>
 uns nur sein System und das Ange-<lb break="no"/>
 denken seiner hohen Persönlichkeit,</p>
-</cell><cell>
-<p>sowie ferner die Dichtungen seiner<lb/>
+                  </cell>
+                  <cell>
+                     <p>sowie ferner die Dichtungen seiner<lb/>
 ersten Methode, die von bedeutendem<lb/>
 Werte sind und unter den genialen<lb/>
 und außergewöhnlichen Schöpfungen<lb/>
@@ -160,7 +176,10 @@ wegen nichts von seinem erträumten<lb/>
 Werke verlauten ließ und auf dem Sterbe-<lb break="no"/>
 bette befahl, dass alles, was er hinterließ,<lb/>
 dem Publicum entzogen werden solle.</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

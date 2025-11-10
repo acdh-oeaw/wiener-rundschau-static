@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-20_n0769.xml"
-     prev="WR-02-02-20_n0768.xml"
-     next="WR-02-02-20_n0770.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-20_n0769.xml" prev="WR-02-02-20_n0768.xml" next="WR-02-02-20_n0770.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,14 +42,44 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 19</title>
+                  <idno>WR-02-02-19_n0713.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 21</title>
+                  <idno>WR-02-02-21_n0785.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">DIE NAZARENER.</fw><fw type="pn">769</fw></fw><p rend="no-intend">fromm aus Geist oder Geschmack, er war fromm aus Naturtrieb, einfach<lb/>
-so, weil er sich’s nicht anders denken konnte.</p><p>Es ist ja mit den englischen Präraphaeliten, die doch gewiss<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DIE NAZARENER.</fw>
+               <fw type="pn">769</fw>
+            </fw>
+            <p rend="no-intend">fromm aus Geist oder Geschmack, er war fromm aus Naturtrieb, einfach<lb/>
+so, weil er sich’s nicht anders denken konnte.</p>
+            <p>Es ist ja mit den englischen Präraphaeliten, die doch gewiss<lb/>
 jedem modernen Menschen imponieren, genau dasselbe wie mit den<lb/>
 Nazarenern. Was für diese Fiésole, das ist für jene Boticelli. Aber<lb/>
 da heisst es dann immer »O ich bitte, das ist ganz etwas anderes,<lb/>
@@ -82,7 +109,8 @@ Perugino, Luini und etruskischen Vasenmaler bewundert, während er<lb/>
 sich furchtbar erhaben fühlt über den farblosen Imitator Cornelius,<lb/>
 für den er aber bisher leider nur ein Modell ausfindig machen konnte,<lb/>
 nämlich Michel Angelo. Er soll die Sache mal umdrehen, da klingt’s<lb/>
-noch viel besser: der Nachahmer mit den vielen Vorbildern.</p><p>Aber das ist ja gleichgiltig. Ich glaube, Burne-Jones würde sich<lb/>
+noch viel besser: der Nachahmer mit den vielen Vorbildern.</p>
+            <p>Aber das ist ja gleichgiltig. Ich glaube, Burne-Jones würde sich<lb/>
 für die Mehrzahl dieser Vorbilder schönstens bedanken. An dem einen<lb/>
 Boticelli hat er schon mehr als genug, ebenso wie Cornelius an seinem<lb/>
 Michel Angelo, mit dem er übrigens viel weniger zu thun hat, als<lb/>
@@ -95,7 +123,8 @@ dazu, den einen eine blosse Copie des andern zu nennen. Hier der<lb/>
 ewig ruhige, weissbartige Weltenvater, mit dem tiefen durchdringenden<lb/>
 Blick, so vielleicht wie ihn ein Giotto mit den technischen Errungen-<lb break="no"/>
 schaften des Quinquecento gemalt hätte, und dort ein donnernder Titane,<lb/>
-ein Weltenbildner und -Vernichter aus eigenem schrankenlosen Herren-</p></div>
+ein Weltenbildner und -Vernichter aus eigenem schrankenlosen Herren-</p>
+         </div>
       </body>
    </text>
 </TEI>

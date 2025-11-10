@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-16_n0632.xml"
-     prev="WR-02-02-16_n0631.xml"
-     next="WR-02-02-16_n0633.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-16_n0632.xml" prev="WR-02-02-16_n0631.xml" next="WR-02-02-16_n0633.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,20 +42,50 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 15</title>
+                  <idno>WR-02-02-15_n0561.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 17</title>
+                  <idno>WR-02-02-17_n0641.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">632</fw><fw type="ctext">RITTINGER.</fw></fw><p rend="no-intend">haben muss, und da kann man doch selbstverständlich den unange-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">632</fw>
+               <fw type="ctext">RITTINGER.</fw>
+            </fw>
+            <p rend="no-intend">haben muss, und da kann man doch selbstverständlich den unange-<lb break="no"/>
 nehmen Ausländern und besonders den gefährlichsten unter ihnen nicht<lb/>
 so galant den Vortritt lassen, wie in einer Secession. Indessen einige<lb/>
 Säle haben sie sich doch erobert, diese Ausländer, und wenn ich<lb/>
 bedenke, wie es noch vor etlichen Jahren einem Bilde von Burne-Jones,<lb/>
 einem echten, unverfälschten Burne-Jones und einem der geschätzteren<lb/>
 obendrein, im Künstlerhause ergangen ist, so bin ich schon mit diesen<lb/>
-wenigen Sälen mehr als zufrieden. Wenig ist doch besser, als gar nichts.</p><p>Was zunächst die Engländer betrifft, so haben sie freilich nur<lb/>
+wenigen Sälen mehr als zufrieden. Wenig ist doch besser, als gar nichts.</p>
+            <p>Was zunächst die Engländer betrifft, so haben sie freilich nur<lb/>
 einen Saal, und dass sie den so halbwegs ausfüllen, haben sie auch<lb/>
 nur dem Umstände zu verdanken, dass man aus purem Wohlwollen<lb/>
 die zwei bis drei ausstellenden Amerikaner zu ihnen gehängt hat.<lb/>
@@ -96,7 +123,8 @@ fache Frische der freien Natur aus diesem Schatten, ihre geheimsten,<lb/>
 intimsten Töne sind ihr abgelauscht, von den bei Davis so häufigen<lb/>
 Apfelblüten bis herunter zu ganz prosaischen Details, alles Leben,<lb/>
 liebevoll beachtetes Leben. Davis hat in solchen Dingen eine grosse<lb/>
-Virtuosität und kann seine Lämmer auch oft für grossartige schottische</p></div>
+Virtuosität und kann seine Lämmer auch oft für grossartige schottische</p>
+         </div>
       </body>
    </text>
 </TEI>

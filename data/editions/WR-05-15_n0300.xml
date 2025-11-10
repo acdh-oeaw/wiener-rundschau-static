@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-15_n0300.xml"
-     prev="WR-05-15_n0299.xml"
-     next="WR-05-15_n0301.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-15_n0300.xml" prev="WR-05-15_n0299.xml" next="WR-05-15_n0301.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,15 +41,34 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 14</title>
+                  <idno>WR-05-14_n0279.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 16</title>
+                  <idno>WR-05-16_n0313.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>PSYCHOGRAPHOLOGIE.<lb/>
-Von <rs type="person" key="">CARL VICK</rs> (Graz).</title></ab><table><row><cell>
-<p>Den Namen Psychographologie bildete<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>PSYCHOGRAPHOLOGIE.<lb/>
+Von <rs type="person" key="">CARL VICK</rs> (Graz).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Den Namen Psychographologie bildete<lb/>
 der in Augsburg thätige Psychographo-<lb break="no"/>
 loge P. P. Liebe. Er bezeichnet mit ihm<lb/>
 die Anwendung der Psychometric und<lb/>
@@ -77,7 +93,7 @@ metric erzielt in ihrer Vereinigung mit der<lb/>
 Graphologie eine über das graphologische<lb/>
 Ermitteln hinausgehende Charakterzeich-<lb break="no"/>
 nung.</p>
-<p>Von dem einfach-graphologischen Ver-<lb break="no"/>
+                     <p>Von dem einfach-graphologischen Ver-<lb break="no"/>
 fahren unterscheidet sich das psychogra-<lb break="no"/>
 phologische darin, dass im letzteren die<lb/>
 graphologischen Resultate lediglich der<lb/>
@@ -98,8 +114,9 @@ mindert den Eigenwert der Graphologie,<lb/>
 sie gibt den psychometrischen Erfahrungen<lb/>
 ein neues Mittel. Wenn sensitive Wahr-<lb break="no"/>
 nehmung bisher zumeist an den somnam-</p>
-</cell><cell>
-<p rend="no-intend">bulen Schlaf und an die innere Aufmerk-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">bulen Schlaf und an die innere Aufmerk-<lb break="no"/>
 samkeit gebunden war, so steht dem ent-<lb break="no"/>
 gegen, dass im Falle des Psychographo-<lb break="no"/>
 logen das sensitive Erkennen des Charakters<lb/>
@@ -121,7 +138,7 @@ baren, aus dem Unbewussten stammenden<lb/>
 Kraft dazu benützt werden, Resultate zu<lb/>
 erzielen, welche ohne diese Kraft aus den<lb/>
 Mitteln an sich nicht abzuleiten wären.</p>
-<p>In der Demonstration des Verfahrens<lb/>
+                     <p>In der Demonstration des Verfahrens<lb/>
 liegt auch seine Rechtfertigung. Es sendet<lb/>
 jemand ein beschriebenes Papier zu Händen<lb/>
 des Psychographologen. Die Antwort ent-<lb break="no"/>
@@ -145,7 +162,10 @@ selben dem Charakter sein vernehmlichstes<lb/>
 Gepräge verleihen, sowohl in die Ver-<lb break="no"/>
 gangenheit rückwärts, als auch vorwärts<lb/>
 in die Zukunft; zuletzt beschließt er seine</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

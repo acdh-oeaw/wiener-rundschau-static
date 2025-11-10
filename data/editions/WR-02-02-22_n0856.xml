@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-22_n0856.xml"
-     prev="WR-02-02-22_n0855.xml"
-     next="WR-02-02-22_n0857.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-22_n0856.xml" prev="WR-02-02-22_n0855.xml" next="WR-02-02-22_n0857.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,16 +42,46 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 21</title>
+                  <idno>WR-02-02-21_n0785.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 23</title>
+                  <idno>WR-02-02-23_n0865.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">856</fw><fw type="ctext">MEYER-FÖRSTER.</fw></fw><p rend="no-intend">seine Hände, und seine Seidentücher, und seine Gefühle vor allem<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">856</fw>
+               <fw type="ctext">MEYER-FÖRSTER.</fw>
+            </fw>
+            <p rend="no-intend">seine Hände, und seine Seidentücher, und seine Gefühle vor allem<lb/>
 waren rein geblieben. Nie hätte er können einem Mädchen, das die<lb/>
 Arme beim Sprechen auf den Tisch auflegte, ein gutes Wort geben.<lb/>
-O never! — Margarete that das nie.</p><p>Kleine, freundliche Margarete! Ihr Kummer und ihre Ver-<lb break="no"/>
+O never! — Margarete that das nie.</p>
+            <p>Kleine, freundliche Margarete! Ihr Kummer und ihre Ver-<lb break="no"/>
 zweiflung waren ausgelöscht, sie verstand jetzt wieder etwas vom<lb/>
 Leben, vor allem, dass es herrlich ist, den Kopf an die warme, klopfende<lb/>
 Brust eines so feinen, jungen Mannes zu legen und ganz leise zu<lb/>
@@ -69,7 +96,9 @@ gerathen, der mich zum Schlusse schlug! Diese Schande, diese Ver-<lb break="no"/
 zweiflung, niemals könnte ich’s Harley eingesteh’n! O wenn er mit<lb/>
 seinen weissen Händen über meine geschlagenen Wangen streicht! —<lb/>
 Harley!« — — — — — — — — — — — — — — — — —<lb/>
-<milestone unit="hr"/></p><p>Blumen blühten auf unter seinen weissen schönen Händen auf<lb/>
+               <milestone unit="hr"/>
+            </p>
+            <p>Blumen blühten auf unter seinen weissen schönen Händen auf<lb/>
 Margaretens Wangen. Funken erschlossen sich in ihren Augen. Ton-<lb break="no"/>
 leitern, mit kleinen süssen Himmelsnoten, tönten aus ihrer Seele. Oft<lb/>
 sah er sie mit seinen starren, guten Lordsaugen ganz verwundert an.<lb/>
@@ -95,7 +124,8 @@ seinen kleinen Händen, die es einst so hilfreich nach ihr ausgestreckt,<lb/>
 als Papa das arme Mütterchen schlug, zu ihr empor. Dann war es<lb/>
 ihr, als habe sie den Tod und seine Leiden überwunden und schwebe<lb/>
 in einer höheren Welt, und dürfe das Kind wie ein schützender<lb/>
-Engel umfassen. Und in ihre Kissen murmelte sie: »Gott segne dich!</p></div>
+Engel umfassen. Und in ihre Kissen murmelte sie: »Gott segne dich!</p>
+         </div>
       </body>
    </text>
 </TEI>

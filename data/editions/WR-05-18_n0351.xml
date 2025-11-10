@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-18_n0351.xml"
-     prev="WR-05-18_n0350.xml"
-     next="WR-05-18_n0352.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-18_n0351.xml" prev="WR-05-18_n0350.xml" next="WR-05-18_n0352.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,28 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 17</title>
+                  <idno>WR-05-17_n0327.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BRYK: OBJECTIVE MUSIK-FORMEN.</fw></fw><table><row><cell>
-<p rend="no-intend">Axiom der Mechanik zufolge — die Action<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BRYK: OBJECTIVE MUSIK-FORMEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Axiom der Mechanik zufolge — die Action<lb/>
 stets von der Reaction gefolgt sein muss,<lb/>
 so erscheint das Gefühl als bedingte Re-<lb break="no"/>
 action der Activität der Natur. Man wird<lb/>
@@ -60,7 +71,7 @@ der Reactivität ihre eigenen Gesetze be-<lb break="no"/>
 sitzt, deren wir uns aber zum Unterschiede<lb/>
 von den Verstandesgesetzen niemals be-<lb break="no"/>
 wusst werden können.</p>
-<p>Der richtige Weg zur Erforschung<lb/>
+                     <p>Der richtige Weg zur Erforschung<lb/>
 dieser merkwürdigen Gesetzmäßigkeit be-<lb break="no"/>
 steht also nicht darin, eine aprioristische<lb/>
 Functionenlehre aufzustellen, sondern<lb/>
@@ -89,7 +100,7 @@ schauen, sondern das Sinnensystem des<lb/>
 Künstlers in seiner Totalität entspricht<lb/>
 dem arithmetischen Mittelwerte der sen-<lb break="no"/>
 suellen Activität.</p>
-<p>Schreiten wir nunmehr zur Darlegung<lb/>
+                     <p>Schreiten wir nunmehr zur Darlegung<lb/>
 einer Auffassung kosmologischen Charakters.<lb/>
 Die Natur in der Vielheit ihrer Actionen<lb/>
 zu zeigen, ist Aufgabe der Wissenschaft;<lb/>
@@ -104,9 +115,12 @@ Erkenntnistheorie des XVIII. und XIX.<lb/>
 Jahrhunderts gelungen, einen Satz von<lb/>
 universeller Giltigkeit aufzustellen, der die<lb/>
 nothwendige Bedingung jedes Geschehens<lb/>
-kategorisch aussagt — die <hi rend="italics">Lex parsimoniae</hi></p>
-</cell><cell>
-<p rend="no-intend"><hi rend="italics">naturae</hi> des <hi rend="italics">Linné</hi> und <hi rend="italics">Maupertuis,</hi> das<lb/>
+kategorisch aussagt — die <hi rend="italics">Lex parsimoniae</hi>
+                     </p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">
+                        <hi rend="italics">naturae</hi> des <hi rend="italics">Linné</hi> und <hi rend="italics">Maupertuis,</hi> das<lb/>
 Gesetz von der Constanz der Energie des<lb/>
 Robert Meyer und Hermann Heimholtz.<lb/>
 Es lässt sich leicht deducieren, dass dieses<lb/>
@@ -114,7 +128,8 @@ Axiom, ohne sinnlos zu werden, auch auf<lb/>
 die Thätigkeit des künstlerischen Genius<lb/>
 angewendet werden darf — selbstverständ-<lb break="no"/>
 lich nur insoferne dieser Künstler als der<lb/>
-Erzeuger objectiver Darstellung<hi rend="text-spaced">smittel</hi><lb/>
+Erzeuger objectiver Darstellung<hi rend="text-spaced">smittel</hi>
+                        <lb/>
 betrachtet wird. Die Idee des Kunst-<lb break="no"/>
 werkes gehört einer intelligibeln Welt an,<lb/>
 innerhalb welcher das vorerwähnte Princip,<lb/>
@@ -144,7 +159,7 @@ zu Sinnesorganen specifischer Erregbarkeit.<lb/>
 Dass diesem Zustande ein Anwachsen der<lb/>
 Lustwerte zugeordnet sei, ist die schöne<lb/>
 und große Hypothese Theodor Fechners.</p>
-<p>Auf empirischem Felde ist der Nach-<lb break="no"/>
+                     <p>Auf empirischem Felde ist der Nach-<lb break="no"/>
 weis dieses Sachverhaltes bisher nur für<lb/>
 die objectiven Musikformen durch H.<lb/>
 Helmholtz geleistet worden. Bezüglich<lb/>
@@ -160,7 +175,10 @@ um die völlig befriedigende Erklärung des<lb/>
 Dur- und Moll-Dreiklang-Problems, sondern<lb/>
 auch um die psycho-physikalischen Gründe<lb/>
 des Quinten- und Octaven-Verbotes, der</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

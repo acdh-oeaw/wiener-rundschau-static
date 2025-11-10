@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-01_n0003.xml"
-     prev="WR-05-01_n0002.xml"
-     next="WR-05-01_n0004.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-01_n0003.xml" prev="WR-05-01_n0002.xml" next="WR-05-01_n0004.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 4, Nr. 24</title>
+                  <idno>WR-04-24_n0421.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 2</title>
+                  <idno>WR-05-02_n0023.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">SWINBURNE: DIE DICHTUNGEN DES DANTE GABRIEL ROSSETTI</fw></fw><table><row><cell>
-<p rend="no-intend">mieden. Shakespeare ist oft im Gefühl<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">SWINBURNE: DIE DICHTUNGEN DES DANTE GABRIEL ROSSETTI</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">mieden. Shakespeare ist oft im Gefühl<lb/>
 heftiger, epigrammatischer in der Ge-<lb break="no"/>
 staltung; Rossettis Ausdruck erscheint<lb/>
 daneben gepflegter, weicher, von zarterem<lb/>
@@ -69,7 +84,7 @@ Blätterdach murmelnd, unter Weiden, in<lb/>
 deren schlanken Ästen Vogelsang und die<lb/>
 Stille des Mittags sich zu wundervoller<lb/>
 Musik vermählen.</p>
-<p>Aufflackernder Zorn, Reue, jäh er-<lb break="no"/>
+                     <p>Aufflackernder Zorn, Reue, jäh er-<lb break="no"/>
 wachende Hoffnung und stilles Zukunfts-<lb break="no"/>
 vertrauen, Glanz und Glut des Dichter-<lb break="no"/>
 traums sind in dieses goldene Haus<lb/>
@@ -105,8 +120,9 @@ und erloschener Sehnsucht, das Wechseln<lb/>
 der Lichter, die um unser Leben spielen,<lb/>
 der Sonne Leuchten um Mittag und das<lb/>
 Weben des bleichen Mondlichtes, Müdig-</p>
-</cell><cell>
-<p rend="no-intend">keit und Verzweiflung, dunkle Wildnisse<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">keit und Verzweiflung, dunkle Wildnisse<lb/>
 der Qualen, darin Schatten genossener<lb/>
 und gestorbener Stunden jagen — dies<lb/>
 alles, die ganze Scala der Ekstasen liegt<lb/>
@@ -152,17 +168,23 @@ Ton des murmelnden Sees, wenn der<lb/>
 Wind darüber einschlief. Aus diesen Versen<lb/>
 glaubt man fast den uralten Gesang der<lb/>
 Sphären zu vernehmen:</p>
-<milestone unit="verse-start"/>
-<lg><l>»Consider the seas listless chime:</l>
-<l>Times self it is, made audible:</l>
-<l>The murmur of the earths own shell.«</l></lg>
-<milestone unit="untyped-end"/>
-<p>In »<hi rend="text-spaced">The Woodspurge</hi>« ist der<lb/>
+                     <milestone unit="verse-start"/>
+                     <lg>
+                        <l>»Consider the seas listless chime:</l>
+                        <l>Times self it is, made audible:</l>
+                        <l>The murmur of the earths own shell.«</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>In »<hi rend="text-spaced">The Woodspurge</hi>« ist der<lb/>
 Zustand eines durch wilden Schmelz halb<lb/>
 erschlafften, halb bis zur Erbitterung auf-<lb break="no"/>
 gereizten Gemüthes mit wenigen Strichen<lb/>
-vollendet gegeben <milestone unit="3dots"/></p>
-</cell></row></table></div>
+vollendet gegeben <milestone unit="3dots"/>
+                     </p>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

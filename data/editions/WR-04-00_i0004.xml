@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-04-00_i0004.xml"
-     prev="WR-04-00_i0003.xml"
-     next="WR-04-00_i0005.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-00_i0004.xml" prev="WR-04-00_i0003.xml" next="WR-04-00_i0005.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,388 +41,859 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 5</title>
+                  <idno>WR-05-01_n0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 3, Halbbd. 2, Nr. 27</title>
+                  <idno>WR-03-02-27_n0633.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 4, Nr. 1</title>
+                  <idno>WR-04-01_n0001.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">AUTOREN- UND INHALTS-VERZEICHNIS.</fw></fw><table><row><cell>
-<table>
-<row><cell>
-</cell><cell>Nr.
-</cell><cell>Seite
-</cell></row>
-<row><cell><hi rend="text-spaced">Graevell</hi>, Harald, Baumgartner S. J.:<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">AUTOREN- UND INHALTS-VERZEICHNIS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <table>
+                        <row>
+                           <cell>
+</cell>
+                           <cell>Nr.
+</cell>
+                           <cell>Seite
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Graevell</hi>, Harald, Baumgartner S. J.:<lb/>
 Geschichte der Welt-Literatur*
-</cell><cell><hi rend="strong">19</hi>
-</cell><cell>343
-</cell></row>
-<row><cell> Ein Abenteuer unter den Rosen-<lb break="no"/>
+</cell>
+                           <cell>
+                              <hi rend="strong">19</hi>
+                           </cell>
+                           <cell>343
+</cell>
+                        </row>
+                        <row>
+                           <cell> Ein Abenteuer unter den Rosen-<lb break="no"/>
 kreuzern* <milestone unit="dots"/>
-</cell><cell><hi rend="strong">19</hi>
-</cell><cell>344
-</cell></row>
-<row><cell> »Kurzgefasster Grundriss der<lb/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">19</hi>
+                           </cell>
+                           <cell>344
+</cell>
+                        </row>
+                        <row>
+                           <cell> »Kurzgefasster Grundriss der<lb/>
 Geheimlehre« von H. P. Blavatsky* <milestone unit="dots"/>
-</cell><cell><hi rend="strong">1</hi>
-</cell><cell>27
-</cell></row>
-<row><cell><hi rend="text-spaced">Graf</hi>, Max, Philharmonische Concerte
-</cell><cell><hi rend="strong">1</hi>
-</cell><cell>23
-</cell></row>
-<row><cell> Hof-Operntheater: »Es war<lb/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">1</hi>
+                           </cell>
+                           <cell>27
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Graf</hi>, Max, Philharmonische Concerte
+</cell>
+                           <cell>
+                              <hi rend="strong">1</hi>
+                           </cell>
+                           <cell>23
+</cell>
+                        </row>
+                        <row>
+                           <cell> Hof-Operntheater: »Es war<lb/>
 einmal <milestone unit="3dots"/>«* <milestone unit="dots"/>
-</cell><cell><hi rend="strong">4</hi>
-</cell><cell>97
-</cell></row>
-<row><cell> Die Aufführung der »Neunten Symphonie« <milestone unit="dots"/>
-</cell><cell><hi rend="strong">5</hi>
-</cell><cell>122
-</cell></row>
-<row><cell> Hofoper: »Jolanthe« von Tschaï-<lb break="no"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">4</hi>
+                           </cell>
+                           <cell>97
+</cell>
+                        </row>
+                        <row>
+                           <cell> Die Aufführung der »Neunten Symphonie« <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">5</hi>
+                           </cell>
+                           <cell>122
+</cell>
+                        </row>
+                        <row>
+                           <cell> Hofoper: »Jolanthe« von Tschaï-<lb break="no"/>
 kowsky* <milestone unit="dots"/>
-</cell><cell><hi rend="strong">7</hi>
-</cell><cell>174
-</cell></row>
-<row><cell> Hof-Operntheater: »Così fan tutte«* <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">20</hi>
-</cell><cell>361
-</cell></row>
-<row><cell> Eine erste Symphonie* <milestone unit="dots"/>
-</cell><cell><hi rend="strong">23</hi>
-</cell><cell>415
-</cell></row>
-<row><cell> Hof-Operntheater: »Der Bundschuh« <milestone unit="dots"/>
-</cell><cell><hi rend="strong">23</hi>
-</cell><cell>416
-</cell></row>
-<row><cell><hi rend="text-spaced">Gumppenberg</hi>, E. Freiin von, Ge-<lb break="no"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">7</hi>
+                           </cell>
+                           <cell>174
+</cell>
+                        </row>
+                        <row>
+                           <cell> Hof-Operntheater: »Così fan tutte«* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">20</hi>
+                           </cell>
+                           <cell>361
+</cell>
+                        </row>
+                        <row>
+                           <cell> Eine erste Symphonie* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">23</hi>
+                           </cell>
+                           <cell>415
+</cell>
+                        </row>
+                        <row>
+                           <cell> Hof-Operntheater: »Der Bundschuh« <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">23</hi>
+                           </cell>
+                           <cell>416
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Gumppenberg</hi>, E. Freiin von, Ge-<lb break="no"/>
 danken über ein Drama Björnsons <milestone unit="dots"/>
-</cell><cell><hi rend="strong">23</hi>
-</cell><cell>401
-</cell></row>
-<row><cell><hi rend="text-spaced">Gundolf</hi>, Friedrich, Stefan George:<lb/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">23</hi>
+                           </cell>
+                           <cell>401
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Gundolf</hi>, Friedrich, Stefan George:<lb/>
 Der Teppich des Lebens und<lb/>
 die Lieder von Traum und Tod <milestone unit="dots"/>
-</cell><cell><hi rend="strong">9</hi>
-</cell><cell>109
-</cell></row>
-<row><cell><hi rend="text-spaced">Hardt</hi>, Ernst, Vor Sonnenaufgang <milestone unit="dots"/>
-</cell><cell><hi rend="strong">10</hi>
-</cell><cell>142
-</cell></row>
-<row><cell><hi rend="text-spaced">Hartmann</hi>, Franz, Das Princip der<lb/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">9</hi>
+                           </cell>
+                           <cell>109
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Hardt</hi>, Ernst, Vor Sonnenaufgang <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">10</hi>
+                           </cell>
+                           <cell>142
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Hartmann</hi>, Franz, Das Princip der<lb/>
 Geschlechter <milestone unit="dots"/>
-</cell><cell><hi rend="strong">7</hi>
-</cell><cell>158
-</cell></row>
-<row><cell> Die Vorausbestimmung des Ge-<lb break="no"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">7</hi>
+                           </cell>
+                           <cell>158
+</cell>
+                        </row>
+                        <row>
+                           <cell> Die Vorausbestimmung des Ge-<lb break="no"/>
 schlechts bei der Erzeugung<lb/>
 vom Standpunkte der occulten<lb/>
 Wissenschaft <milestone unit="dots"/>
-</cell><cell><hi rend="strong">13</hi>
-</cell><cell>230
-</cell></row>
-<row><cell> Aus den Lehren der Kabbala
-</cell><cell><hi rend="strong">21</hi>
-</cell><cell>370
-</cell></row>
-<row><cell><hi rend="text-spaced">Heiberg</hi>, Gunnar, Sigbjörn Obst-<lb break="no"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">13</hi>
+                           </cell>
+                           <cell>230
+</cell>
+                        </row>
+                        <row>
+                           <cell> Aus den Lehren der Kabbala
+</cell>
+                           <cell>
+                              <hi rend="strong">21</hi>
+                           </cell>
+                           <cell>370
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Heiberg</hi>, Gunnar, Sigbjörn Obst-<lb break="no"/>
 felder <milestone unit="dots"/>
-</cell><cell><hi rend="strong">20</hi>
-</cell><cell>349
-</cell></row>
-<row><cell><hi rend="text-spaced">Heidenstam</hi>, Verner von, Über die<lb/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">20</hi>
+                           </cell>
+                           <cell>349
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Heidenstam</hi>, Verner von, Über die<lb/>
 Abschaffung des Pöbels <milestone unit="dots"/>
-</cell><cell><hi rend="strong">6</hi>
-</cell><cell>139
-</cell></row>
-<row><cell><hi rend="text-spaced">Jellinek</hi>, A. L., Lesen und Bildung*
-</cell><cell><hi rend="strong">18</hi>
-</cell><cell>324
-</cell></row>
-<row><cell><hi rend="text-spaced">Jacobsen</hi>, R., W. G. van Nouhuys:<lb/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">6</hi>
+                           </cell>
+                           <cell>139
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Jellinek</hi>, A. L., Lesen und Bildung*
+</cell>
+                           <cell>
+                              <hi rend="strong">18</hi>
+                           </cell>
+                           <cell>324
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Jacobsen</hi>, R., W. G. van Nouhuys:<lb/>
 »Egidius und der Fremde« <milestone unit="dots"/>
-</cell><cell><hi rend="strong">2</hi>
-</cell><cell>42
-</cell></row>
-<row><cell>K. A., Die C-moll-Symphonie* <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">21</hi>
-</cell><cell>379
-</cell></row>
-<row><cell><hi rend="text-spaced">Kassner</hi>, Rudolf, Noten zu den Sculp-<lb break="no"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">2</hi>
+                           </cell>
+                           <cell>42
+</cell>
+                        </row>
+                        <row>
+                           <cell>K. A., Die C-moll-Symphonie* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">21</hi>
+                           </cell>
+                           <cell>379
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Kassner</hi>, Rudolf, Noten zu den Sculp-<lb break="no"/>
 turen Rodins <milestone unit="dots"/>
-</cell><cell><hi rend="strong">12</hi>
-</cell><cell>185
-</cell></row>
-<row><cell> Die Ethik der Gobelins <milestone unit="dots"/>
-</cell><cell><hi rend="strong">18</hi>
-</cell><cell>309
-</cell></row>
-<row><cell> Der Abbé Galiani <milestone unit="dots"/>
-</cell><cell><hi rend="strong">23</hi>
-</cell><cell>411
-</cell></row>
-<row><cell><hi rend="text-spaced">Key</hi>, Ellen, Gedanken vor einem<lb/>
-Bilde des Filippo Lippi <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">21</hi>
-</cell><cell>365
-</cell></row>
-<row><cell><hi rend="text-spaced">Kniepf</hi>, Albert, Mikrokosmos und<lb/>
-Makrokosmos <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">6</hi>
-</cell><cell>125
-</cell></row>
-<row><cell><hi rend="text-spaced">Kolb</hi>, Annette, Ein Quartett in Rom 
-</cell><cell><hi rend="strong">2</hi>
-</cell><cell>45
-</cell></row>
-<row><cell> »Il Fuoco«* <milestone unit="dots"/>
-</cell><cell><hi rend="strong">13</hi>
-</cell><cell>237
-</cell></row>
-<row><cell> Wagner und das »Repertoire« 
-</cell><cell><hi rend="strong">21</hi>
-</cell><cell>375
-</cell></row>
-<row><cell><hi rend="text-spaced">Kuhlenbeck</hi>, Ludwig, Dr., Die Philo-<lb break="no"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">12</hi>
+                           </cell>
+                           <cell>185
+</cell>
+                        </row>
+                        <row>
+                           <cell> Die Ethik der Gobelins <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">18</hi>
+                           </cell>
+                           <cell>309
+</cell>
+                        </row>
+                        <row>
+                           <cell> Der Abbé Galiani <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">23</hi>
+                           </cell>
+                           <cell>411
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Key</hi>, Ellen, Gedanken vor einem<lb/>
+Bilde des Filippo Lippi <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">21</hi>
+                           </cell>
+                           <cell>365
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Kniepf</hi>, Albert, Mikrokosmos und<lb/>
+Makrokosmos <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">6</hi>
+                           </cell>
+                           <cell>125
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Kolb</hi>, Annette, Ein Quartett in Rom 
+</cell>
+                           <cell>
+                              <hi rend="strong">2</hi>
+                           </cell>
+                           <cell>45
+</cell>
+                        </row>
+                        <row>
+                           <cell> »Il Fuoco«* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">13</hi>
+                           </cell>
+                           <cell>237
+</cell>
+                        </row>
+                        <row>
+                           <cell> Wagner und das »Repertoire« 
+</cell>
+                           <cell>
+                              <hi rend="strong">21</hi>
+                           </cell>
+                           <cell>375
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Kuhlenbeck</hi>, Ludwig, Dr., Die Philo-<lb break="no"/>
 sophie des Giordano Bruno I.
-</cell><cell><hi rend="strong">4</hi>
-</cell><cell>88
-</cell></row>
-<row><cell>  II. <milestone unit="dots"/>
-</cell><cell><hi rend="strong">5</hi>
-</cell><cell>105
-</cell></row>
-<row><cell> Wie gelangen wir zu einer<lb/>
+</cell>
+                           <cell>
+                              <hi rend="strong">4</hi>
+                           </cell>
+                           <cell>88
+</cell>
+                        </row>
+                        <row>
+                           <cell>  II. <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">5</hi>
+                           </cell>
+                           <cell>105
+</cell>
+                        </row>
+                        <row>
+                           <cell> Wie gelangen wir zu einer<lb/>
 heroischen Weltanschauung? <milestone unit="dots"/>
-</cell><cell><hi rend="strong">13</hi>
-</cell><cell>224
-</cell></row>
-<row><cell> Die Wahrheit des Individualis-<lb break="no"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">13</hi>
+                           </cell>
+                           <cell>224
+</cell>
+                        </row>
+                        <row>
+                           <cell> Die Wahrheit des Individualis-<lb break="no"/>
 mus <milestone unit="dots"/>
-</cell><cell><hi rend="strong">21</hi>
-</cell><cell>368
-</cell></row>
-<row><cell>  II. <milestone unit="dots"/>
-</cell><cell><hi rend="strong">22</hi>
-</cell><cell>381
-</cell></row>
-<row><cell><hi rend="text-spaced">Lemonnier</hi>, Camille, Flandrische<lb/>
-Lieder <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">7</hi>
-</cell><cell>153
-</cell></row>
-<row><cell> Flandrische Lieder <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">18</hi>
-</cell><cell>317
-</cell></row>
-</table>
-</cell><cell>
-<table>
-<row><cell>
-</cell><cell>Nr.
-</cell><cell>Seite
-</cell></row>
-<row><cell><hi rend="text-spaced">Lindner</hi>, Anton, Farbe und Linie, I. 
-</cell><cell><hi rend="strong">1</hi> 
-</cell><cell>2
-</cell></row>
-<row><cell> Rossetti* <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">1</hi>
-</cell><cell>28
-</cell></row>
-<row><cell> Farbe und Linie II. <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">2</hi> 
-</cell><cell>31
-</cell></row>
-<row><cell> Walter Crane* <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">2</hi> 
-</cell><cell>52
-</cell></row>
-<row><cell> Lithographien <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">3</hi> 
-</cell><cell>72
-</cell></row>
-<row><cell> Ferdinand Bonn* <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">4</hi> 
-</cell><cell>98
-</cell></row>
-<row><cell> Lionardo da Vinci von Otto<lb/>
-Sachs* <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">4</hi> 
-</cell><cell>100
-</cell></row>
-<row><cell> Lex Heinze <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">6</hi> 
-</cell><cell>145
-</cell></row>
-<row><cell> Jan Toorop <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">7</hi> 
-</cell><cell>172
-</cell></row>
-<row><cell> Die Freie Bühne in Wien <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">8</hi> 
-</cell><cell>202
-</cell></row>
-<row><cell> Cultur im Alltag* <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">10</hi> 
-</cell><cell>154
-</cell></row>
-<row><cell> Iphigenie auf Tauris* <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">13</hi> 
-</cell><cell>239
-</cell></row>
-<row><cell> Annie Besant <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">14</hi> 
-</cell><cell>254
-</cell></row>
-<row><cell> Die Berliner Secessionsbühne* 
-</cell><cell><hi rend="strong">14</hi> 
-</cell><cell>254
-</cell></row>
-<row><cell> Moderne Bühnen-Ästhetik <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">15</hi> 
-</cell><cell>270
-</cell></row>
-<row><cell> Sigbjörn Obstfelder* <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">16</hi> 
-</cell><cell>290
-</cell></row>
-<row><cell> Ästhetik der Gasse <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">17</hi> 
-</cell><cell>296
-</cell></row>
-<row><cell> Die materielle Stellung der<lb/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">21</hi>
+                           </cell>
+                           <cell>368
+</cell>
+                        </row>
+                        <row>
+                           <cell>  II. <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">22</hi>
+                           </cell>
+                           <cell>381
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Lemonnier</hi>, Camille, Flandrische<lb/>
+Lieder <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">7</hi>
+                           </cell>
+                           <cell>153
+</cell>
+                        </row>
+                        <row>
+                           <cell> Flandrische Lieder <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">18</hi>
+                           </cell>
+                           <cell>317
+</cell>
+                        </row>
+                     </table>
+                  </cell>
+                  <cell>
+                     <table>
+                        <row>
+                           <cell>
+</cell>
+                           <cell>Nr.
+</cell>
+                           <cell>Seite
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Lindner</hi>, Anton, Farbe und Linie, I. 
+</cell>
+                           <cell>
+                              <hi rend="strong">1</hi>
+                           </cell>
+                           <cell>2
+</cell>
+                        </row>
+                        <row>
+                           <cell> Rossetti* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">1</hi>
+                           </cell>
+                           <cell>28
+</cell>
+                        </row>
+                        <row>
+                           <cell> Farbe und Linie II. <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">2</hi>
+                           </cell>
+                           <cell>31
+</cell>
+                        </row>
+                        <row>
+                           <cell> Walter Crane* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">2</hi>
+                           </cell>
+                           <cell>52
+</cell>
+                        </row>
+                        <row>
+                           <cell> Lithographien <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">3</hi>
+                           </cell>
+                           <cell>72
+</cell>
+                        </row>
+                        <row>
+                           <cell> Ferdinand Bonn* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">4</hi>
+                           </cell>
+                           <cell>98
+</cell>
+                        </row>
+                        <row>
+                           <cell> Lionardo da Vinci von Otto<lb/>
+Sachs* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">4</hi>
+                           </cell>
+                           <cell>100
+</cell>
+                        </row>
+                        <row>
+                           <cell> Lex Heinze <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">6</hi>
+                           </cell>
+                           <cell>145
+</cell>
+                        </row>
+                        <row>
+                           <cell> Jan Toorop <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">7</hi>
+                           </cell>
+                           <cell>172
+</cell>
+                        </row>
+                        <row>
+                           <cell> Die Freie Bühne in Wien <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">8</hi>
+                           </cell>
+                           <cell>202
+</cell>
+                        </row>
+                        <row>
+                           <cell> Cultur im Alltag* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">10</hi>
+                           </cell>
+                           <cell>154
+</cell>
+                        </row>
+                        <row>
+                           <cell> Iphigenie auf Tauris* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">13</hi>
+                           </cell>
+                           <cell>239
+</cell>
+                        </row>
+                        <row>
+                           <cell> Annie Besant <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">14</hi>
+                           </cell>
+                           <cell>254
+</cell>
+                        </row>
+                        <row>
+                           <cell> Die Berliner Secessionsbühne* 
+</cell>
+                           <cell>
+                              <hi rend="strong">14</hi>
+                           </cell>
+                           <cell>254
+</cell>
+                        </row>
+                        <row>
+                           <cell> Moderne Bühnen-Ästhetik <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">15</hi>
+                           </cell>
+                           <cell>270
+</cell>
+                        </row>
+                        <row>
+                           <cell> Sigbjörn Obstfelder* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">16</hi>
+                           </cell>
+                           <cell>290
+</cell>
+                        </row>
+                        <row>
+                           <cell> Ästhetik der Gasse <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">17</hi>
+                           </cell>
+                           <cell>296
+</cell>
+                        </row>
+                        <row>
+                           <cell> Die materielle Stellung der<lb/>
 deutschen Dichter und Schrift-<lb break="no"/>
-steller* <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">17</hi> 
-</cell><cell>306
-</cell></row>
-<row><cell><hi rend="text-spaced">Maeterlinck</hi>, Maurice, Das Myste-<lb break="no"/>
-rium der Gerechtigkeit <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">14</hi> 
-</cell><cell>241
-</cell></row>
-<row><cell>  (Fortsetzung und<lb/>
-Schluss) <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">15</hi> 
-</cell><cell>257
-</cell></row>
-<row><cell><hi rend="text-spaced">Mallarmé</hi>, Stéphane, Herbstklage <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">21</hi> 
-</cell><cell>363
-</cell></row>
-<row><cell> Das Wunder der Zukunft <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">21</hi> 
-</cell><cell>364
-</cell></row>
-<row><cell><hi rend="text-spaced">Mauclair</hi>, Camille, Richard Wagner<lb/>
+steller* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">17</hi>
+                           </cell>
+                           <cell>306
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Maeterlinck</hi>, Maurice, Das Myste-<lb break="no"/>
+rium der Gerechtigkeit <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">14</hi>
+                           </cell>
+                           <cell>241
+</cell>
+                        </row>
+                        <row>
+                           <cell>  (Fortsetzung und<lb/>
+Schluss) <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">15</hi>
+                           </cell>
+                           <cell>257
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Mallarmé</hi>, Stéphane, Herbstklage <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">21</hi>
+                           </cell>
+                           <cell>363
+</cell>
+                        </row>
+                        <row>
+                           <cell> Das Wunder der Zukunft <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">21</hi>
+                           </cell>
+                           <cell>364
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Mauclair</hi>, Camille, Richard Wagner<lb/>
 und das französische Publicum 
-</cell><cell><hi rend="strong">1</hi> 
-</cell><cell>12
-</cell></row>
-<row><cell> Die moderne Kunst in Frank-<lb break="no"/>
-reich seit <date>1870</date> <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">9</hi> 
-</cell><cell>124
-</cell></row>
-<row><cell> Zur Psychologie und Über-<lb break="no"/>
-windung des Bohémiens I. <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">16</hi> 
-</cell><cell>275
-</cell></row>
-<row><cell>  II. <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">17</hi> 
-</cell><cell>294
-</cell></row>
-<row><cell>  III. <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">18</hi> 
-</cell><cell>313
-</cell></row>
-<row><cell><hi rend="text-spaced">Menkes</hi>, Hermann. Sigbjörn Obst-<lb break="no"/>
-felder <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">6</hi> 
-</cell><cell>132
-</cell></row>
-<row><cell><hi rend="text-spaced">Multatuli</hi>, Wahrheit in der Legende 
-</cell><cell><hi rend="strong">19</hi> 
-</cell><cell>327
-</cell></row>
-<row><cell><hi rend="text-spaced">Neera</hi>, Die platonische Liebe I. <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">13</hi> 
-</cell><cell>222
-</cell></row>
-<row><cell>  II. <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">14</hi> 
-</cell><cell>248
-</cell></row>
-<row><cell>  III. <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">15</hi> 
-</cell><cell>268
-</cell></row>
-<row><cell><hi rend="text-spaced">Obstfelder</hi>, Sigbjörn, Zwei Skizzen 
-</cell><cell><hi rend="strong">3</hi>
-</cell><cell>53
-</cell></row>
-<row><cell> Gattin <milestone unit="dots"/>
-</cell><cell><hi rend="strong">6</hi>
-</cell><cell>131
-</cell></row>
-<row><cell><hi rend="text-spaced">Panizza</hi>, Oscar, Brief aus Paris <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">16</hi>
-</cell><cell>279
-</cell></row>
-<row><cell> Arthur Rimbaud <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">19</hi>
-</cell><cell>332
-</cell></row>
-<row><cell><hi rend="text-spaced">Pastor</hi>, Willy, Gerhart Hauptmanns<lb/>
-»Schluck und Jau« <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">6</hi> 
-</cell><cell>144
-</cell></row>
-<row><cell><hi rend="text-spaced">Poe</hi>, Edgar Allan, Schatten <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">8</hi> 
-</cell><cell>176
-</cell></row>
-<row><cell><hi rend="text-spaced">Pudor</hi>, Heinrich, Porträtmalerei <milestone unit="dots"/>
-</cell><cell><hi rend="strong">10</hi> 
-</cell><cell>152
-</cell></row>
-<row><cell> Zur Physiologie der Frivolität<lb/>
-und des Cynismus <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">15</hi> 
-</cell><cell>263
-</cell></row>
-<row><cell><hi rend="text-spaced">Quincey</hi>, Thomas de, Levana und<lb/>
+</cell>
+                           <cell>
+                              <hi rend="strong">1</hi>
+                           </cell>
+                           <cell>12
+</cell>
+                        </row>
+                        <row>
+                           <cell> Die moderne Kunst in Frank-<lb break="no"/>
+reich seit <date>1870</date>
+                              <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">9</hi>
+                           </cell>
+                           <cell>124
+</cell>
+                        </row>
+                        <row>
+                           <cell> Zur Psychologie und Über-<lb break="no"/>
+windung des Bohémiens I. <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">16</hi>
+                           </cell>
+                           <cell>275
+</cell>
+                        </row>
+                        <row>
+                           <cell>  II. <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">17</hi>
+                           </cell>
+                           <cell>294
+</cell>
+                        </row>
+                        <row>
+                           <cell>  III. <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">18</hi>
+                           </cell>
+                           <cell>313
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Menkes</hi>, Hermann. Sigbjörn Obst-<lb break="no"/>
+felder <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">6</hi>
+                           </cell>
+                           <cell>132
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Multatuli</hi>, Wahrheit in der Legende 
+</cell>
+                           <cell>
+                              <hi rend="strong">19</hi>
+                           </cell>
+                           <cell>327
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Neera</hi>, Die platonische Liebe I. <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">13</hi>
+                           </cell>
+                           <cell>222
+</cell>
+                        </row>
+                        <row>
+                           <cell>  II. <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">14</hi>
+                           </cell>
+                           <cell>248
+</cell>
+                        </row>
+                        <row>
+                           <cell>  III. <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">15</hi>
+                           </cell>
+                           <cell>268
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Obstfelder</hi>, Sigbjörn, Zwei Skizzen 
+</cell>
+                           <cell>
+                              <hi rend="strong">3</hi>
+                           </cell>
+                           <cell>53
+</cell>
+                        </row>
+                        <row>
+                           <cell> Gattin <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">6</hi>
+                           </cell>
+                           <cell>131
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Panizza</hi>, Oscar, Brief aus Paris <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">16</hi>
+                           </cell>
+                           <cell>279
+</cell>
+                        </row>
+                        <row>
+                           <cell> Arthur Rimbaud <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">19</hi>
+                           </cell>
+                           <cell>332
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Pastor</hi>, Willy, Gerhart Hauptmanns<lb/>
+»Schluck und Jau« <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">6</hi>
+                           </cell>
+                           <cell>144
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Poe</hi>, Edgar Allan, Schatten <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">8</hi>
+                           </cell>
+                           <cell>176
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Pudor</hi>, Heinrich, Porträtmalerei <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">10</hi>
+                           </cell>
+                           <cell>152
+</cell>
+                        </row>
+                        <row>
+                           <cell> Zur Physiologie der Frivolität<lb/>
+und des Cynismus <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">15</hi>
+                           </cell>
+                           <cell>263
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Quincey</hi>, Thomas de, Levana und<lb/>
 Unsere lieben Frauen von der<lb/>
-Traurigkeit <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">22</hi> 
-</cell><cell>386
-</cell></row>
-<row><cell><hi rend="text-spaced">Rappaport</hi>, Felix, Die Beziehungen<lb/>
+Traurigkeit <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">22</hi>
+                           </cell>
+                           <cell>386
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Rappaport</hi>, Felix, Die Beziehungen<lb/>
 zwischen Thema und Material 
-</cell><cell><hi rend="strong">5</hi> 
-</cell><cell>109
-</cell></row>
-<row><cell> Aischylos und das Burgtheater 
-</cell><cell><hi rend="strong">24</hi> 
-</cell><cell>439
-</cell></row>
-<row><cell><hi rend="text-spaced">Rossetti</hi>, Dante Gabriel, Fünf<lb/>
-Sonette <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">1</hi> 
-</cell><cell>9
-</cell></row>
-<row><cell> Sonette <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">6</hi> 
-</cell><cell>129
-</cell></row>
-</table>
-</cell></row></table></div>
+</cell>
+                           <cell>
+                              <hi rend="strong">5</hi>
+                           </cell>
+                           <cell>109
+</cell>
+                        </row>
+                        <row>
+                           <cell> Aischylos und das Burgtheater 
+</cell>
+                           <cell>
+                              <hi rend="strong">24</hi>
+                           </cell>
+                           <cell>439
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Rossetti</hi>, Dante Gabriel, Fünf<lb/>
+Sonette <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">1</hi>
+                           </cell>
+                           <cell>9
+</cell>
+                        </row>
+                        <row>
+                           <cell> Sonette <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">6</hi>
+                           </cell>
+                           <cell>129
+</cell>
+                        </row>
+                     </table>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

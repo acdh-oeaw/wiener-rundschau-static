@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-06_n0123.xml"
-     prev="WR-05-06_n0122.xml"
-     next="WR-05-06_n0124.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-06_n0123.xml" prev="WR-05-06_n0122.xml" next="WR-05-06_n0124.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 5</title>
+                  <idno>WR-05-05_n0097.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 7</title>
+                  <idno>WR-05-07_n0141.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">STRINDBERG: DIE GEHEIMNISSE DER BLUMEN.</fw></fw><table><row><cell>
-<p rend="no-intend">des Kreuzkrautes und des Flachses als<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">STRINDBERG: DIE GEHEIMNISSE DER BLUMEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">des Kreuzkrautes und des Flachses als<lb/>
 weniger gut fixiert fortadvocieren können<lb/>
 (und das Kreuzkraut wird oft rothblau,<lb/>
 die Akelei weiß und rosa), aber da strande<lb/>
@@ -71,22 +86,24 @@ südlichen Europa gelbe Blüten! Der Be-<lb break="no"/>
 weis ist schwach, das wird zugegeben,<lb/>
 und ich muss noch einen anderen und<lb/>
 stärkeren versuchen.</p>
-<p>Weil die <hi rend="text-spaced">Familien</hi>, unter welche<lb/>
+                     <p>Weil die <hi rend="text-spaced">Familien</hi>, unter welche<lb/>
 diese unregelmäßigen blauen gehören,<lb/>
 bereits während der Kreidezeit auftreten,<lb/>
-<hi rend="text-spaced">brauchen</hi> die genannten <hi rend="text-spaced">Verwandten</hi><lb/>
+                        <hi rend="text-spaced">brauchen</hi> die genannten <hi rend="text-spaced">Verwandten</hi>
+                        <lb/>
 nicht während derselben Periode dage-<lb break="no"/>
 wesen zu sein.</p>
-<p>Das ist ein guter Beweis, obgleich er<lb/>
+                     <p>Das ist ein guter Beweis, obgleich er<lb/>
 negativ ist.</p>
-<p>Und damit kann ich eine etwas ge-<lb break="no"/>
+                     <p>Und damit kann ich eine etwas ge-<lb break="no"/>
 fährliche Hinterbemerkung verwerfen, die<lb/>
 ich verborgen habe, um nicht den Effect<lb/>
 meines Systems zu zerstören. Es gibt<lb/>
 nämlich ja bereits während der Secundär-<lb break="no"/>
 zeit eine niedere Gruppe, die Monokoty-</p>
-</cell><cell>
-<p rend="no-intend">ledonen genannt, zu welcher die Gräser<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">ledonen genannt, zu welcher die Gräser<lb/>
 mit ihren grünen Blüten gehören. Leider<lb/>
 gehören dahin auch die blauen Zwiebeln,<lb/>
 die Hyacinthen und Orchideen. Wenn ich<lb/>
@@ -103,7 +120,7 @@ wie die Embryonen der gelehrten Physio-<lb break="no"/>
 logen auf ungleichen Entwicklungsstadien,<lb/>
 welche die Herleitung des Menschen ge-<lb break="no"/>
 zeigt haben.</p>
-<p>Am schönsten kann man den Gang<lb/>
+                     <p>Am schönsten kann man den Gang<lb/>
 der Sache an einem schwarzen Maulbeer-<lb break="no"/>
 baum illustriert sehen, wenn er in Frucht<lb/>
 steht. Das ist ein lieblicher Anblick, den<lb/>
@@ -111,7 +128,7 @@ man niemals vergisst, zumal, wenn man<lb/>
 das erstemal, wie mir geschah, den Baum<lb/>
 gegen ferne Schneealpen, als Hintergrund<lb/>
 stehend, zu sehen bekommt.</p>
-<p>Zwischen dem prächtigen lindengleichen<lb/>
+                     <p>Zwischen dem prächtigen lindengleichen<lb/>
 Laube sitzen die Beeren in allen Farben<lb/>
 des Prisma. Vom Grün durch Grüngelb,<lb/>
 Wachsgelb, Lachsgelb, Himbeerroth,<lb/>
@@ -119,7 +136,13 @@ Kirschroth, Schwarzblau. Müssen wir mehr<lb/>
 Zeugen stellen? So ist es! Warum, das<lb/>
 wissen wir nicht und damit haben wir<lb/>
 nichts zu thun.</p>
-</cell></row></table><p>Deutsch von <rs type="person" key="">Emil Schering</rs>, Berlin.</p><milestone unit="untyped-end"/><milestone unit="undefined"/></div>
+                  </cell>
+               </row>
+            </table>
+            <p>Deutsch von <rs type="person" key="">Emil Schering</rs>, Berlin.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
       </body>
    </text>
 </TEI>

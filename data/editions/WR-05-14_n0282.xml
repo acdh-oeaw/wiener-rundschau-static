@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-14_n0282.xml"
-     prev="WR-05-14_n0281.xml"
-     next="WR-05-14_n0283.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-14_n0282.xml" prev="WR-05-14_n0281.xml" next="WR-05-14_n0283.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,16 +41,35 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 13</title>
+                  <idno>WR-05-13_n0265.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 15</title>
+                  <idno>WR-05-15_n0295.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>DAS WELTALL UND DAS INDIVIDUUM ().<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DAS WELTALL UND DAS INDIVIDUUM ().<lb/>
 Von <rs type="person" key="">LUDWIG KUHLENBECK</rs> (Jena).<lb/>
-VI.</title></ab><table><row><cell>
-<p>Philosophie als Streben nach Wahr-<lb break="no"/>
+VI.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Philosophie als Streben nach Wahr-<lb break="no"/>
 heit ist ein unausgesetzter Kampf gegen<lb/>
 Missverständnisse. Die Quelle aller Miss-<lb break="no"/>
 verständnisse ist das Wort, das nur ein<lb/>
@@ -95,12 +111,13 @@ konnte, um unsere Zeichensprache nicht<lb/>
 völlig zu missdeuten. Indem ich jetzt zum<lb/>
 erstenmale vom Ich zum Nicht-Ich über-<lb break="no"/>
 gehen will, wo nur noch die Analogie</p>
-</cell><cell>
-<p rend="no-intend">den Ariadne-Faden im Labyrinth der Er-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">den Ariadne-Faden im Labyrinth der Er-<lb break="no"/>
 scheinungen bildet, scheint mir ein wenig<lb/>
 Definition, so sehr ich den Schein logischer<lb/>
 Pedanterie scheue, unerlässlich.</p>
-<p>Zunächst, was bedeutet eigentlich In-<lb break="no"/>
+                     <p>Zunächst, was bedeutet eigentlich In-<lb break="no"/>
 dividuum? Auch der lateinisch Gebildete<lb/>
 wird nicht immer an den ursprünglichen<lb/>
 Sinn denken: »Das Untheilbare«. In wel-<lb break="no"/>
@@ -128,7 +145,7 @@ Erinnerungen sich aufreiht, nannten wir<lb/>
 unser Individuum, unser transcendentales<lb/>
 Subject, Monade, überhaupt mit Worten<lb/>
 nicht geizig und pedantisch.</p>
-<p>Aber wenden wir uns zur Außenwelt!<lb/>
+                     <p>Aber wenden wir uns zur Außenwelt!<lb/>
 Steht nicht hier dem von uns in uns<lb/>
 vorausgesetzten Untheilbaren ein unendlich<lb/>
 Theilbares gegenüber: die Materie, dieses<lb/>
@@ -138,7 +155,10 @@ Offenbar haben wir in ihr den Begriff<lb/>
 einer realen Theilbarkeit, die wir der<lb/>
 rein begrifflichen entgegensetzen, entlehnt.<lb/>
 Nun aber behaupten wir: Auch die</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

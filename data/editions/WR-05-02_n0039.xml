@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-02_n0039.xml"
-     prev="WR-05-02_n0038.xml"
-     next="WR-05-02_n0040.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-02_n0039.xml" prev="WR-05-02_n0038.xml" next="WR-05-02_n0040.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 1</title>
+                  <idno>WR-05-01_n0001.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 3</title>
+                  <idno>WR-05-03_n0049.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">MAUCLAIR: ÜBER DEN GEGENWÄRTIGEN STAND DER LITERARISCHEN KRITIK.</fw></fw><table><row><cell>
-<p rend="no-intend">es gibt also kein gutes oder schlechtes Medium<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MAUCLAIR: ÜBER DEN GEGENWÄRTIGEN STAND DER LITERARISCHEN KRITIK.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">es gibt also kein gutes oder schlechtes Medium<lb/>
 im allgemeinen, sondern nur in der Anwen-<lb break="no"/>
 dung zu einem bestimmten Organismus; das<lb/>
 betreffende Medium kann schlecht sein für<lb/>
@@ -65,22 +80,22 @@ ausgearbeitet haben. Kälte, die auf manche<lb/>
 Organismen vernichtend wirkt, ist für andere,<lb/>
 die viel Wärme hervorzubringen verstehen,<lb/>
 vortheilhaft u. s. w.</p>
-<p>Können also Kämpfe und Schmerzen für<lb/>
+                     <p>Können also Kämpfe und Schmerzen für<lb/>
 gewisse Persönlichkeiten nicht ein vortheil-<lb break="no"/>
 haftes Medium bilden, nämlich für diejenigen,<lb/>
 welche eine große Quantität von Kraft in sich<lb/>
 hervorzubringen vermögen?</p>
-<p>Die Schmerzen sind deshalb schmerzhaft<lb/>
+                     <p>Die Schmerzen sind deshalb schmerzhaft<lb/>
 und lebensgefährlich, weil sie den Lebenspuls<lb/>
 hemmen und den Stoffaustausch behindern. Es<lb/>
 ist aber ein solcher Organismus denkbar, in<lb/>
 welchem sie umgekehrt die Lebenskraft steigern<lb/>
 würden, und zwar durch Erregung von Wuth.</p>
-<p>Ähnlich hemmt Kälte in manchen Orga-<lb break="no"/>
+                     <p>Ähnlich hemmt Kälte in manchen Orga-<lb break="no"/>
 nismen den Lebenspuls, während sie entgegen-<lb break="no"/>
 gesetzt in anderen denselben durch Anregung<lb/>
 zur Wärme-Erregung beschleunigt.</p>
-<p>Kowalewska, die, wie uns bekannt ist, oft<lb/>
+                     <p>Kowalewska, die, wie uns bekannt ist, oft<lb/>
 Hartnäckigkeit zeigte, besaß bereits eine<lb/>
 gewisse Andeutung, einen Schimmer dieses<lb/>
 Kampfmittels. Es äußerte sich, indem sie<lb/>
@@ -94,8 +109,9 @@ natürlich nicht die »Härte« von Nietzsche<lb/>
 im Sinne, sondern jene, welche die Seele des<lb/>
 Kämpfers vor dem Klageliede über sich selber<lb/>
 bewahrt.</p>
-</cell><cell>
-<p>Endlich konnte Kowalewska in ihrem<lb/>
+                  </cell>
+                  <cell>
+                     <p>Endlich konnte Kowalewska in ihrem<lb/>
 Schmerz, wie viele weniger bedeutende Men-<lb break="no"/>
 schen, in der Gesellschaft natürlich keine Stütze<lb/>
 finden. Sie mied selbst die Nächsten. In Gesell-<lb break="no"/>
@@ -110,7 +126,7 @@ samkeit suchte und den Tod herbeiwünschte,<lb/>
 der auch nicht lange auf sich warten ließ.<lb/>
 Formell gesprochen, starb sie an Lungenentzün-<lb break="no"/>
 dung.</p>
-<p>Ein Mensch, der den körperlichen Stoff<lb/>
+                     <p>Ein Mensch, der den körperlichen Stoff<lb/>
 zur Bildung von Gehirnmasse verbraucht, der<lb/>
 die Lebenskraft in <hi rend="text-spaced">geistige Thätigkeit ver-<lb break="no"/>
 wandelt</hi>, gleicht einem Baumeister, welcher<lb/>
@@ -139,24 +155,39 @@ stützen und deshalb ist ihr Gebäude, wenn<lb/>
 auch nicht fruchtlos, so doch sehr vorzeitig<lb/>
 in geheimnisvolle, nicht wiederkehrende Tiefe<lb/>
 verfallen.</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/><milestone unit="untyped-start"/><ab><title>ÜBER DEN<lb/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>ÜBER DEN<lb/>
 GEGENWÄRTIGEN STAND DER LITERARISCHEN KRITIK.<lb/>
-<hi rend="text-spaced">Mit besonderer Berücksichtigung Frankreichs</hi>.<lb/>
-Von <rs type="person" key="">CAMILLE MAUCLAIR</rs> (Paris).</title></ab><table><row><cell>
-<p>Es ist eine feststehende Thatsache,<lb/>
+                  <hi rend="text-spaced">Mit besonderer Berücksichtigung Frankreichs</hi>.<lb/>
+Von <rs type="person" key="">CAMILLE MAUCLAIR</rs> (Paris).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Es ist eine feststehende Thatsache,<lb/>
 dass wir heutzutage wohl noch Kritiker,<lb/>
 und zwar in bedeutender Anzahl, aber<lb/>
 keine französische Kritik mehr haben. Man<lb/>
 greift die ersteren an und jammert über<lb/>
 das Verschwinden der letzteren. Unlogisch</p>
-</cell><cell>
-<p>finden das aber nur die Kritiker selbst,<lb/>
+                  </cell>
+                  <cell>
+                     <p>finden das aber nur die Kritiker selbst,<lb/>
 weil sie alle an dem Grundgedanken kran-<lb break="no"/>
 ken; ebenso, wie viele Tischler das Tischler-<lb break="no"/>
 gewerbe bilden, so bilden auch viele<lb/>
 Feuilletonisten eine Kritik. Das ist eine<lb/>
 durchaus falsche Auffassung, die sich aber</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

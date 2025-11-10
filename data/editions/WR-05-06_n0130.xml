@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-06_n0130.xml"
-     prev="WR-05-06_n0129.xml"
-     next="WR-05-06_n0131.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-06_n0130.xml" prev="WR-05-06_n0129.xml" next="WR-05-06_n0131.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 5</title>
+                  <idno>WR-05-05_n0097.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 7</title>
+                  <idno>WR-05-07_n0141.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">KUHLENBECK: SCHOPENHAUER UND DER INDIVIDUALISMUS.</fw></fw><table><row><cell>
-<p rend="no-intend">durch einen Trugschluss aus der Idealität<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KUHLENBECK: SCHOPENHAUER UND DER INDIVIDUALISMUS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">durch einen Trugschluss aus der Idealität<lb/>
 von Raum und Zeit jenes von Schopen-<lb break="no"/>
 hauer so oft betonte: Tat twam asi (Dies<lb/>
 bist du) der <hi rend="text-spaced">indischen</hi> Alleinheitslehre,<lb/>
@@ -66,20 +81,23 @@ Monaden nur um der <hi rend="text-spaced">Freiheit</hi> willen<lb/>
 die Entstehung so mancher Bosheiten und<lb/>
 Erbärmlichkeiten, deren Möglichkeit sie<lb/>
 voraussah, nicht verhütet hat.</p>
-<milestone unit="verse-start"/>
-<lg><l>»Der Freiheit entzückende Erscheinung nicht</l>
-<l>zu stören,</l>
-<l>Lässt er des Übels grauenvolles Heer</l>
-<l>In seiner Schöpfung toben.«</l></lg>
-<p>(<rs type="person" key="">Schiller</rs>.)</p>
-<milestone unit="untyped-end"/>
-<p>So wird es klar, wie auch <hi rend="text-spaced">freiheit-<lb break="no"/>
+                     <milestone unit="verse-start"/>
+                     <lg>
+                        <l>»Der Freiheit entzückende Erscheinung nicht</l>
+                        <l>zu stören,</l>
+                        <l>Lässt er des Übels grauenvolles Heer</l>
+                        <l>In seiner Schöpfung toben.«</l>
+                     </lg>
+                     <p>(<rs type="person" key="">Schiller</rs>.)</p>
+                     <milestone unit="untyped-end"/>
+                     <p>So wird es klar, wie auch <hi rend="text-spaced">freiheit-<lb break="no"/>
 liche</hi> und <hi rend="text-spaced">individualistische Welt-<lb break="no"/>
 anschauung</hi> gleichbedeutend ist. Wir<lb/>
 wollen keinen Monopol-Gott — ni dieu ni<lb/>
 maître* —, darin stimmen wir überein mit<lb/>
 Schopenhauer; aber wir bedanken uns<lb/>
-auch dafür, uns als solchen einen <hi rend="text-spaced">blinden</hi><lb/>
+auch dafür, uns als solchen einen <hi rend="text-spaced">blinden</hi>
+                        <lb/>
 Willen unterschieben zu lassen, der für alle<lb/>
 Übel <hi rend="text-spaced">solidarische</hi> Haftpflicht begründet.<lb/>
 Sehend haben wir uns selber auf diesen<lb/>
@@ -92,7 +110,7 @@ und wir können dies, weil wir Anhänger<lb/>
 des Ormuzd zum mindesten so gut und<lb/>
 fest im Ewigen wurzeln, wie die Anhänger<lb/>
 des Ahriman.</p>
-<p>Weit entfernt, die Leiden dieser Welt<lb/>
+                     <p>Weit entfernt, die Leiden dieser Welt<lb/>
 zu verkennen oder gar zu beschönigen,<lb/>
 billigen wir den Schopenhauer’schen Pessi-<lb break="no"/>
 mismus, soweit er ethischer Entrüstungs-<lb break="no"/>
@@ -101,10 +119,12 @@ kennzeichnet als eine Welt, die so nicht sein<lb/>
 sollte! Aber diese Welt ist auch nicht<lb/>
 dieselbe, die <hi rend="text-spaced">in uns</hi> sein wollte, und soweit<lb/>
 diese bessere Welt in uns ist, kann jene ihr<lb/>
-nichts anhaben; unser <hi rend="text-spaced">empirisches</hi><lb/>
+nichts anhaben; unser <hi rend="text-spaced">empirisches</hi>
+                        <lb/>
 Ich kann freilich durch jene <hi rend="text-spaced">leiden</hi>. Aber</p>
-</cell><cell>
-<p rend="no-intend">Schopenhauer selbst schreibt (§ 330 a Neue<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Schopenhauer selbst schreibt (§ 330 a Neue<lb/>
 Paralipomena): »Das Leiden ist die Be-<lb break="no"/>
 dingung zur Wirksamkeit des <hi rend="text-spaced">Genius</hi>.<lb/>
 Glaubt ihr, dass Shakespeare und Goethe<lb/>
@@ -118,7 +138,7 @@ mit der wirklichen Welt in gewissem Grade<lb/>
 entzweit und unzufrieden sind, wenden wir<lb/>
 uns zur Befreiung an die <hi rend="text-spaced">Welt des Ge-<lb break="no"/>
 dankens</hi>.«</p>
-<p>In dieser Welt des Gedankens lebt<lb/>
+                     <p>In dieser Welt des Gedankens lebt<lb/>
 unser <hi rend="text-spaced">Genius</hi>, unser transcendentales<lb/>
 Subject, unser <hi rend="text-spaced">wahres</hi> Ich, nicht un-<lb break="no"/>
 zeitlich und unräumlich, sondern über-<lb break="no"/>
@@ -141,7 +161,8 @@ mord finden sich erst in dem Gedanken,<lb/>
 dass jener Wille zum Leben, in welchem<lb/>
 Schopenhauer unser eigenes Wesen er-<lb break="no"/>
 kennt (den wir also nicht <hi rend="text-spaced">haben</hi>, sondern<lb/>
-<hi rend="text-spaced">sind</hi>), zwar nicht die <hi rend="text-spaced">Weltsubstanz</hi><lb/>
+                        <hi rend="text-spaced">sind</hi>), zwar nicht die <hi rend="text-spaced">Weltsubstanz</hi>
+                        <lb/>
 ist — wie Schopenhauer meint — wohl<lb/>
 aber der Wille unseres eigenen trans-<lb break="no"/>
 cendentalen Subjects; und letzterer fasst<lb/>
@@ -154,12 +175,16 @@ uns eine Anrede des Göttervaters an Osiris<lb/>
 vor seiner Incarnation (Synesios: »Die<lb/>
 Egypter oder die Vorsehung«, übersetzt in<lb/>
 Kiesewetters »Occultismus des Alterthums«</p>
-</cell></row></table><note type="footnote">
-<p>* Nur der <hi rend="text-spaced">Herrgottsg</hi>laube, nur der <hi rend="text-spaced">jüdische</hi> Deismus wird damit abgelehnt. Eine<lb/>
-<hi rend="text-spaced">Gottheit</hi>, die die <hi rend="text-spaced">Einheit</hi> des Lebens der Welt und eine sittliche Weltordnung durch<lb/>
-<hi rend="text-spaced">immanente</hi> Gesetze verbürgt, ist auch mit <hi rend="text-spaced">unserem Individualismus</hi> nicht unvereinbar.<lb/>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Nur der <hi rend="text-spaced">Herrgottsg</hi>laube, nur der <hi rend="text-spaced">jüdische</hi> Deismus wird damit abgelehnt. Eine<lb/>
+                  <hi rend="text-spaced">Gottheit</hi>, die die <hi rend="text-spaced">Einheit</hi> des Lebens der Welt und eine sittliche Weltordnung durch<lb/>
+                  <hi rend="text-spaced">immanente</hi> Gesetze verbürgt, ist auch mit <hi rend="text-spaced">unserem Individualismus</hi> nicht unvereinbar.<lb/>
 Darüber später sub titulo: !</p>
-</note></div>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

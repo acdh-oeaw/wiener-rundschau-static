@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-20_n0777.xml"
-     prev="WR-02-02-20_n0776.xml"
-     next="WR-02-02-20_n0778.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-20_n0777.xml" prev="WR-02-02-20_n0776.xml" next="WR-02-02-20_n0778.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,18 +42,48 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 19</title>
+                  <idno>WR-02-02-19_n0713.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 21</title>
+                  <idno>WR-02-02-21_n0785.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">MASKEN UND GÖTZENBILDER.</fw><fw type="pn">777</fw></fw><p rend="no-intend">sogar ähnlich war. Als authentisches Zeugnis klebte man die Haut<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MASKEN UND GÖTZENBILDER.</fw>
+               <fw type="pn">777</fw>
+            </fw>
+            <p rend="no-intend">sogar ähnlich war. Als authentisches Zeugnis klebte man die Haut<lb/>
 des Originales über das Holz oder den Thon des Standbildes und die<lb/>
 Asche bewahrte man in der Schädelhöhle auf. Personen von Rang<lb/>
 und Ansehen erhielten ihre aus Thon gebrannten Statuen unter einem<lb/>
 Dache aufgestellt. Für gewöhnlich verblieben diese Götzenbilder aber<lb/>
-in der Familie.</p><p>Ohne Zweifel sind die ersten Nachbildungen menschlicher Formen<lb/>
+in der Familie.</p>
+            <p>Ohne Zweifel sind die ersten Nachbildungen menschlicher Formen<lb/>
 von Leichnamen abgenommen worden. Keine Chronik erzählt uns die<lb/>
 vielen Versuche, die an verschiedenen Orten angestellt worden sind.<lb/>
 Durch Zufall oder anderswie verfiel man auf die Gefügigkeit des<lb/>
@@ -69,26 +96,36 @@ fest werden zu lassen. Als man darauf kam, diese Nachbildungen in<lb/>
 einem Ofen zu brennen, gewannen sie eine ausserordentliche Dauer-<lb break="no"/>
 haftigkeit. Aber die solchermassen erzeugten Porträts hatten die Starre<lb/>
 des Leichnams; man verdankte sie einem geschäftsmässigen Verfahren,<lb/>
-welches der Kunst fremd war und blieb.</p><p>Bei lateinischen und römischen Bestattungen wurden die wächsernen<lb/>
+welches der Kunst fremd war und blieb.</p>
+            <p>Bei lateinischen und römischen Bestattungen wurden die wächsernen<lb/>
 Bilder des Verstorbenen und seiner Vorfahren unter feierlichen Ver-<lb break="no"/>
 anstaltungen umhergetragen. Man entnahm sie dem Heiligthum der<lb/>
 Laren. Zuweilen ersetzte man sie durch Mimen, die damit betraut<lb/>
 waren, die Personen natürlich darzustellen, ihr Angesicht, ihre Geberden,<lb/>
-ihre Haltung und Sprechweise.</p><p>Manchmal artete die tragische Feier in Possenreisserei aus. Die<lb/>
+ihre Haltung und Sprechweise.</p>
+            <p>Manchmal artete die tragische Feier in Possenreisserei aus. Die<lb/>
 Masken und Bildnisse der Vorfahren, welche durch die Verbrennung<lb/>
 unter die Götter versetzt worden waren, trugen die Benennung »Büsten«<lb/>
-oder »Verbrannte«, ein Wort, dessen Ursprung betont zu werden verdient.</p><ab><title>VI.</title></ab><p>Von den grossen Todten wurden die einen Schutzgeister der<lb/>
+oder »Verbrannte«, ein Wort, dessen Ursprung betont zu werden verdient.</p>
+            <ab>
+               <title>VI.</title>
+            </ab>
+            <p>Von den grossen Todten wurden die einen Schutzgeister der<lb/>
 Horden, Stämme, Sippen und Familien, der Völker, Nationen und<lb/>
 Reiche. Die anderen, mit besonderen Verrichtungen betraut, wurden<lb/>
-die Götter der Jagd, der Fischerei, der Viehzucht und des Ackerbaues.</p><p>Mit der Zeit veränderte sich diese Maske und brachte die con-<lb break="no"/>
+die Götter der Jagd, der Fischerei, der Viehzucht und des Ackerbaues.</p>
+            <p>Mit der Zeit veränderte sich diese Maske und brachte die con-<lb break="no"/>
 ventionelle Grimasse besonders zum Ausdruck, nahm an Genauigkeit<lb/>
-sowie an Phantasie zu und wurde charakteristisch.</p><p>Man wagte lange nicht diesen Masken die Augen zu öffnen.<lb/>
+sowie an Phantasie zu und wurde charakteristisch.</p>
+            <p>Man wagte lange nicht diesen Masken die Augen zu öffnen.<lb/>
 Den alten Überlieferungen treu, führten die Alëuten bei ihren heiligen<lb/>
 Tänzen verwickelte Geberdenspiele aus. Das am Gesichte anhaftende<lb/>
 Brettchen schien sie zu völliger Blindheit zu verdammen und hinderte<lb/>
 die Athmung, obgleich es zu springen, zu laufen und ungestüme, heftige<lb/>
-Bewegungen zu machen galt — was lag daran!</p><p>Aber anderwärts gieng man weiter. Man sann besondere Be-<lb break="no"/>
-schwörungen aus, um die Augen sowie den Mund zu öffnen und bohrte</p></div>
+Bewegungen zu machen galt — was lag daran!</p>
+            <p>Aber anderwärts gieng man weiter. Man sann besondere Be-<lb break="no"/>
+schwörungen aus, um die Augen sowie den Mund zu öffnen und bohrte</p>
+         </div>
       </body>
    </text>
 </TEI>

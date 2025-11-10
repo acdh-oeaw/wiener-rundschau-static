@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-14_n0283.xml"
-     prev="WR-05-14_n0282.xml"
-     next="WR-05-14_n0284.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-14_n0283.xml" prev="WR-05-14_n0282.xml" next="WR-05-14_n0284.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 13</title>
+                  <idno>WR-05-13_n0265.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 15</title>
+                  <idno>WR-05-15_n0295.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">KUHLENBECK: DAS WELTALL UND DAS INDIVIDUUM.</fw></fw><table><row><cell>
-<p rend="no-intend">Materie, die Welt als Ganzes, das Uni-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KUHLENBECK: DAS WELTALL UND DAS INDIVIDUUM.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Materie, die Welt als Ganzes, das Uni-<lb break="no"/>
 versum oder All ist ein Individuum. Also<lb/>
 wäre alle reale Theilung, alles Trennen<lb/>
 und Verbinden der Stoffe und Körper nur<lb/>
@@ -95,7 +110,7 @@ heißt: sie ist ein einheitliches, unendliche<lb/>
 Verschiedenheiten durch stetigen Zu-<lb break="no"/>
 sammenhang (Naturgesetzlichkeit) untheil-<lb break="no"/>
 bar verbindendes Wesen.</p>
-<p>Wir nannten die realen Theilungen, das<lb/>
+                     <p>Wir nannten die realen Theilungen, das<lb/>
 Trennen und Verbinden, das sich mit<lb/>
 oder ohne unser eigenes Zuthun stetig in<lb/>
 der Welt vollzieht, bloßen Schein. Um<lb/>
@@ -105,8 +120,9 @@ der Schein eine Wirklichkeit ist, ja dass<lb/>
 jeglicher Schein Wirkung ist, dass wir<lb/>
 also, wenn wir etwas zum Schein degra-<lb break="no"/>
 dieren, nur seine Bedeutung anders aus-</p>
-</cell><cell>
-<p rend="no-intend">legen. Wir wollen also nur sagen, dass<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">legen. Wir wollen also nur sagen, dass<lb/>
 es ganz unmöglich ist, irgendein Wesen<lb/>
 in der Welt von der Welt, von seinem<lb/>
 Zusammenhang mit dem Ganzen zu<lb/>
@@ -124,7 +140,7 @@ empirische Wirklichkeit wie unsere Innen-<lb break="no"/>
 welt. Beide Welten sind aber bloßer<lb/>
 Schein einer transcendenten (intelligiblen)<lb/>
 Welt.</p>
-<p>Die Außenwelt ist in uns. Der Idealis-<lb break="no"/>
+                     <p>Die Außenwelt ist in uns. Der Idealis-<lb break="no"/>
 mus hat recht, solange er nicht Soliphis-<lb break="no"/>
 mus wird. Aber wir sind auch in der<lb/>
 Außenwelt. Der unendliche Raum mit all<lb/>
@@ -141,7 +157,7 @@ hat. Damit haben wir den Monismus ge-<lb break="no"/>
 streift, den ich den erkenntnistheoretischen<lb/>
 nennen möchte, den logisch weiter auszu-<lb break="no"/>
 spinnen hier noch nicht der Ort ist.</p>
-<p>Wie nun ist es möglich, dass die<lb/>
+                     <p>Wie nun ist es möglich, dass die<lb/>
 Welt ein Individuum ist und dass zugleich<lb/>
 ich selber, als Theil dieser Welt, ein<lb/>
 Individuum bin? Muss nicht die Indivi-<lb break="no"/>
@@ -150,7 +166,7 @@ aufheben, mich zu einem bloßen Schein,<lb/>
 einem Modus, einem bloß aufblitzenden<lb/>
 Gedankenfunken des Gesammtbewusstseins<lb/>
 degradieren?</p>
-<p>Halten wir nur fest an dem Begriffe<lb/>
+                     <p>Halten wir nur fest an dem Begriffe<lb/>
 der Immanenz oder Selbstschöpfung, so<lb/>
 brauchen wir diesen logischen Selbstmord<lb/>
 nicht zu begehen. Was ist ein Gedanke<lb/>
@@ -160,7 +176,10 @@ mung! Hat man je einen Gedanken ge-<lb break="no"/>
 sehen, der sich von uns ablöste und ein Leben<lb/>
 für sich führte? Jeder meiner Gedanken<lb/>
 ist mein Ich — nicht etwas in diesem</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

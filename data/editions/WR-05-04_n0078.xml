@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-04_n0078.xml"
-     prev="WR-05-04_n0077.xml"
-     next="WR-05-04_n0079.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-04_n0078.xml" prev="WR-05-04_n0077.xml" next="WR-05-04_n0079.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 3</title>
+                  <idno>WR-05-03_n0049.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 5</title>
+                  <idno>WR-05-05_n0097.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BRYK: DIE ÄSTHETISCHE NATURBETRACHTUNG KEPLERS.</fw></fw><table><row><cell>
-<p>Die eben erwähnte Art der Natur-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BRYK: DIE ÄSTHETISCHE NATURBETRACHTUNG KEPLERS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Die eben erwähnte Art der Natur-<lb break="no"/>
 betrachtung steht der künstlerischen Welt-<lb break="no"/>
 auffassung näher als der im eigentlichen<lb/>
 Sinne so genannten wissenschaftlichen<lb/>
@@ -88,7 +103,7 @@ der bedeutendste Naturforscher, da es ja<lb/>
 niemandem einfallen kann, physikalische<lb/>
 Vorgänge anders zu sehen, als sie that-<lb break="no"/>
 sächlich vor sich gehen.</p>
-<p>Aber nicht bloß der Umstand, dass<lb/>
+                     <p>Aber nicht bloß der Umstand, dass<lb/>
 einige Wenige die natürlichen Vorgänge<lb/>
 anders ansehen als die Übrigen, lässt<lb/>
 eine Analogie zwischen künstlerischer und<lb/>
@@ -103,10 +118,11 @@ Bedeutsamkeit zu unterlegen. Es ist eine<lb/>
 Wahrheit, die niemand im Ernste be-<lb break="no"/>
 zweifeln wird: zuerst wird geahnt, dann<lb/>
 erst erschlossen, bewiesen, demonstriert.</p>
-<p>Eine weitere Analogie ergibt sich,<lb/>
+                     <p>Eine weitere Analogie ergibt sich,<lb/>
 wenn die Beziehungen des Traumlebens</p>
-</cell><cell>
-<p rend="no-intend">zur künstlerischen Thätigkeit ins Auge ge-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">zur künstlerischen Thätigkeit ins Auge ge-<lb break="no"/>
 fasst werden, die Schopenhauer zum<lb/>
 erstenmale mit meisterhafter Klarheit ent-<lb break="no"/>
 wirrt hat. Ihm verdankt man die fein-<lb break="no"/>
@@ -149,8 +165,8 @@ in krausen, seltsamen Schriftzeichen, in<lb/>
 denen die ewige Wahrheit wieder auf-<lb break="no"/>
 ersteht, von der unendlichen Harmonie der<lb/>
 Welt, von der uralten »<hi rend="italics">Harmonice mundi</hi>«.</p>
-<milestone unit="asterisk"/>
-<p>Solch ein Wach- und Wahrträumer im<lb/>
+                     <milestone unit="asterisk"/>
+                     <p>Solch ein Wach- und Wahrträumer im<lb/>
 Reiche der Wissenschaft, solch ein tief-<lb break="no"/>
 sinniger Schlafwandler und Weltenwanderer,<lb/>
 ein »<hi rend="italics">Kosmotheoros</hi>«, war Johannes Kepler.<lb/>
@@ -159,7 +175,10 @@ geheimnisvolle und doch so lichtvolle Lehre<lb/>
 der Pythagoräer, dem Plato im »Philo-<lb break="no"/>
 laos« und »Timaeos« so viel enthüllt hatte<lb/>
 über die mystische Harmonie aller krei-</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

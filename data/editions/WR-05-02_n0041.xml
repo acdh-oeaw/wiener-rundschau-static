@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-02_n0041.xml"
-     prev="WR-05-02_n0040.xml"
-     next="WR-05-02_n0042.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-02_n0041.xml" prev="WR-05-02_n0040.xml" next="WR-05-02_n0042.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 1</title>
+                  <idno>WR-05-01_n0001.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 3</title>
+                  <idno>WR-05-03_n0049.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">MAUCLAIR: ÜBER DEN GEGENWÄRTIGEN STAND DER LITERARISCHEN KRITIK.</fw></fw><table><row><cell>
-<p rend="no-intend">ductive Leute von heute auf morgen die<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MAUCLAIR: ÜBER DEN GEGENWÄRTIGEN STAND DER LITERARISCHEN KRITIK.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">ductive Leute von heute auf morgen die<lb/>
 Bücherkritik übernehmen, gehört zu den<lb/>
 merkwürdigsten Verirrungen des mensch-<lb break="no"/>
 lichen Geistes, und es ist ein wahres<lb/>
@@ -78,12 +93,12 @@ die bezahlte Annonce, und man hat fest-<lb break="no"/>
 gestellt, dass tausend Francs an bezahlten<lb/>
 Notizen den Verkauf noch nicht um hundert<lb/>
 Exemplare erhöhen.</p>
-<p>Hoffen wir also, dass die Verleger und<lb/>
+                     <p>Hoffen wir also, dass die Verleger und<lb/>
 Autoren die Thorheit einer solchen Aus-<lb break="no"/>
 gabe bald einsehen, selbst davon zurück-<lb break="no"/>
 kommen und den Zeitungen diese Ein-<lb break="no"/>
 nahmequellen verschließen werden.</p>
-<p>Dann wird es zwar gar keine Kritik<lb/>
+                     <p>Dann wird es zwar gar keine Kritik<lb/>
 mehr geben, aber das wird immer noch<lb/>
 besser sein, als die schmachvolle Annoncen-<lb break="no"/>
 Kritik. Inzwischen veröffentlichen die<lb/>
@@ -105,8 +120,9 @@ wenigstens Bücher zusammen«, wobei er<lb/>
 innerlich hinzufügt: »um sie am Schlusse<lb/>
 des Monats bei den Antiquaren zu ver-<lb break="no"/>
 kaufen«. Unter solchen wenig glänzenden</p>
-</cell><cell>
-<p rend="no-intend">Bedingungen wird die Kritik ausgeübt,<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Bedingungen wird die Kritik ausgeübt,<lb/>
 mit Ausnahme des »Temps« und der<lb/>
 »Débats«, wo ein regelrechter Referent<lb/>
 angestellt ist; im »Journal« findet man<lb/>
@@ -131,7 +147,7 @@ nur dem reactionären Geiste des »Temps«<lb/>
 und der »Débats«, die durch ihre strenge<lb/>
 Haltung gegen den brutalen Amerikanismus<lb/>
 Front machen wollen.</p>
-<p>Man verspottet diese Blätter wegen<lb/>
+                     <p>Man verspottet diese Blätter wegen<lb/>
 ihrer feierlichen und spießbürgerlichen<lb/>
 Manieren, doch man thut Unrecht daran,<lb/>
 denn bald werden nur sie allein die fran-<lb break="no"/>
@@ -140,9 +156,9 @@ und den geistigen Fragen einen würdigen<lb/>
 Platz offen halten, ohne sie von der täg-<lb break="no"/>
 lichen Flut der Notizen und Informationen<lb/>
 verdrängen zu lassen.</p>
-<p>Kann man unter solchen Umständen<lb/>
+                     <p>Kann man unter solchen Umständen<lb/>
 eine Neubelebung der Kritik erhoffen?<lb/>
-<hi rend="text-spaced">Nein</hi>! Sie ist verurtheilt, in kurzer Zeit<lb/>
+                        <hi rend="text-spaced">Nein</hi>! Sie ist verurtheilt, in kurzer Zeit<lb/>
 gänzlich zu verschwinden. Die regelmäßig<lb/>
 erscheinenden Feuilletons werden abge-<lb break="no"/>
 schafft werden, an ihre Stelle werden in<lb/>
@@ -156,11 +172,14 @@ von dem Verlage der Zeitung als Reclame<lb/>
 angesehen wird. So ist der Journalismus<lb/>
 das Element, das jede Kritik methodisch<lb/>
 zerstört.</p>
-<p>Es bleiben noch die Revuen, die einzigen<lb/>
+                     <p>Es bleiben noch die Revuen, die einzigen<lb/>
 Hüterinnen der französischen Literatur,<lb/>
 die einzigen anständigen Orte, wo der<lb/>
 Schriftsteller nach seinem Verstand be-</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

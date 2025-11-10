@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-10_n0215.xml"
-     prev="WR-05-10_n0214.xml"
-     next="WR-05-10_n0216.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-10_n0215.xml" prev="WR-05-10_n0214.xml" next="WR-05-10_n0216.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,15 +41,37 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 9</title>
+                  <idno>WR-05-09_n0189.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 11</title>
+                  <idno>WR-05-11_n0225.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>DAS GEFÜHL DER PERSÖNLICHKEIT.<lb/>
-Von PROF. <rs type="person" key="">PAUL JANET</rs>.*</title></ab><ab><title>I.</title></ab><table><row><cell>
-<p>Von Anbeginn der Forschungen gibt<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DAS GEFÜHL DER PERSÖNLICHKEIT.<lb/>
+Von PROF. <rs type="person" key="">PAUL JANET</rs>.*</title>
+            </ab>
+            <ab>
+               <title>I.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Von Anbeginn der Forschungen gibt<lb/>
 es keinen Philosophen, der nicht vom<lb/>
 Menschen, seiner Individualität, seiner<lb/>
 Person gesprochen hätte. Doch die<lb/>
@@ -92,10 +111,11 @@ darüber hinaus und definiert die Seele als<lb/>
 den Stoff durch die Ideen, die ihm als<lb/>
 die klarsten und dem Verstande ein-<lb break="no"/>
 leuchtendsten erscheinen.</p>
-<p>Diese beiden Auffassungen von Persön-<lb break="no"/>
+                     <p>Diese beiden Auffassungen von Persön-<lb break="no"/>
 lichkeit und Seele sind so eng verbunden</p>
-</cell><cell>
-<p rend="no-intend">und verknüpft, dass man eine nicht dis-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">und verknüpft, dass man eine nicht dis-<lb break="no"/>
 cutieren zu können glaubt, ohne gleich-<lb break="no"/>
 zeitig die andere anzugreifen. Durch diese<lb/>
 Verwirrung lässt sich das berühmte Para-<lb break="no"/>
@@ -124,7 +144,7 @@ meinigen, wäre recht unverständlich, wenn<lb/>
 man nicht bedächte, dass Hume die Auf-<lb break="no"/>
 fassung der Seele discutiert, die er mit<lb/>
 der des Ich verwechselt.</p>
-<p>Wäre es nicht anstatt dieser augen-<lb break="no"/>
+                     <p>Wäre es nicht anstatt dieser augen-<lb break="no"/>
 scheinlich oberflächlichen Negation besser,<lb/>
 nothwendige Unterschiede aufzustellen und<lb/>
 die Probleme zu trennen? Diese Unter-<lb break="no"/>
@@ -137,10 +157,14 @@ innern, der als der Vater der wissen-<lb break="no"/>
 schaftlichen Psychologie betrachtet werden<lb/>
 kann; ich will von Malebranche sprechen:<lb/>
 »Das innere Gefühl, das ich von mir selbst</p>
-</cell></row></table><note type="footnote">
-<p>* Autor von »Kant und Swedenborg«.</p>
-<p>** D. Hume, Abhandlung über die menschliche Natur.</p>
-</note></div>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Autor von »Kant und Swedenborg«.</p>
+               <p>** D. Hume, Abhandlung über die menschliche Natur.</p>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

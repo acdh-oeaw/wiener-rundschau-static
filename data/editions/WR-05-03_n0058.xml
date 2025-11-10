@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-03_n0058.xml"
-     prev="WR-05-03_n0057.xml"
-     next="WR-05-03_n0059.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-03_n0058.xml" prev="WR-05-03_n0057.xml" next="WR-05-03_n0059.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,109 +41,154 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 2</title>
+                  <idno>WR-05-02_n0023.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 4</title>
+                  <idno>WR-05-04_n0077.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">GIDE: PHILOKTET ODER DER TRACTAT VON DEN DREI LEBENSANSCHAUUNGEN.</fw></fw><table><row><cell>
-<p rend="no-intend">sich plötzlich.) Ich höre Ulysses! Leb’<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">GIDE: PHILOKTET ODER DER TRACTAT VON DEN DREI LEBENSANSCHAUUNGEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">sich plötzlich.) Ich höre Ulysses! Leb’<lb/>
 wohl! (Er trennt sich und sagt im Weggehen):<lb/>
 Werde ich dich wiedersehen?</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Neoptolemos</hi>: Leb’ wohl! (Ulysses<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Neoptolemos</hi>: Leb’ wohl! (Ulysses<lb/>
 tritt auf.)</p>
-<milestone unit="untyped-end"/>
-<milestone unit="untyped-end"/>
-<milestone unit="scene-start"/>
-<ab><title>3. Scene.</title></ab>
-<p><hi rend="text-spaced">Ulysses</hi> und <hi rend="text-spaced">Neoptolemos</hi>.</p>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Ulysses</hi>: Komme ich zurecht?<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="scene-start"/>
+                     <ab>
+                        <title>3. Scene.</title>
+                     </ab>
+                     <p>
+                        <hi rend="text-spaced">Ulysses</hi> und <hi rend="text-spaced">Neoptolemos</hi>.</p>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Ulysses</hi>: Komme ich zurecht?<lb/>
 Was hat er gesagt? Hast du gut ge-<lb break="no"/>
 sprochen, mein Schüler?</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Neoptolemos</hi>: Dank dir besser<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Neoptolemos</hi>: Dank dir besser<lb/>
 als er. Doch wozu? <milestone unit="3dots"/> Ulysses, er<lb/>
 hat mir seinen Bogen zu spannen<lb/>
 gegeben.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Ulysses</hi>: Seinen Bogen? Du<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Ulysses</hi>: Seinen Bogen? Du<lb/>
 spassest wohl! <milestone unit="3dots"/> Und hast du ihn<lb/>
 nun bei dir behalten, Sohn des Achilles?</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Neoptolemos</hi>: Was ist ein Bogen<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Neoptolemos</hi>: Was ist ein Bogen<lb/>
 ohne Pfeile? Während ich den Bogen<lb/>
 hatte, hielt er klug die Pfeile zurück.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Ulysses</hi>: Der kluge Freund! <milestone unit="3dots"/><lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Ulysses</hi>: Der kluge Freund! <milestone unit="3dots"/>
+                        <lb/>
 Argwöhnt er etwas, glaubst du? Was<lb/>
 sagte er?</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Neoptolemos</hi>: O, nichts, oder bei-<lb break="no"/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Neoptolemos</hi>: O, nichts, oder bei-<lb break="no"/>
 nahe soviel.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Ulysses</hi>: Und hat er dir wiederum<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Ulysses</hi>: Und hat er dir wiederum<lb/>
 von seiner Tugend declamiert?</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Neoptolemos</hi>: Er, der vorhin so<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Neoptolemos</hi>: Er, der vorhin so<lb/>
 gut sprach, als ich ihn fragte, schwieg<lb/>
-er <milestone unit="3dots"/></p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Ulysses</hi>: Da siehst du es nun.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Neoptolemos</hi>: Und als ich ihn<lb/>
+er <milestone unit="3dots"/>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Ulysses</hi>: Da siehst du es nun.</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Neoptolemos</hi>: Und als ich ihn<lb/>
 fragte, wem anders als Griechenland<lb/>
-man sich hingeben solle, sagte er <milestone unit="3dots"/></p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Ulysses</hi>: Was?</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Neoptolemos</hi>: Dass er es nicht<lb/>
+man sich hingeben solle, sagte er <milestone unit="3dots"/>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Ulysses</hi>: Was?</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Neoptolemos</hi>: Dass er es nicht<lb/>
 wisse. Und als ich sagte, dass selbst<lb/>
 die Götter, wie du es mich lehrtest,<lb/>
 Griechenland untergeben sind, da ant-<lb break="no"/>
 wortete er: Es gibt noch etwas über<lb/>
 den Göttern.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Ulysses</hi>: Was?</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Neoptolemos</hi>: Er sagte, er wisse<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Ulysses</hi>: Was?</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Neoptolemos</hi>: Er sagte, er wisse<lb/>
 es nicht.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Ulysses</hi>: Da hast du es, Neopto-<lb break="no"/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Ulysses</hi>: Da hast du es, Neopto-<lb break="no"/>
 lemos!</p>
-<milestone unit="untyped-end"/>
-</cell><cell>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Neoptolemos</hi>: Nein, Ulysses, mir<lb/>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+                  <cell>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Neoptolemos</hi>: Nein, Ulysses, mir<lb/>
 scheint, als verstünde ich ihn jetzt.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Ulysses</hi>: Was verstündest du jetzt?</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Neoptolemos</hi>: Irgendetwas; denn<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Ulysses</hi>: Was verstündest du jetzt?</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Neoptolemos</hi>: Irgendetwas; denn<lb/>
 hier auf dieser einsamen Insel, wem<lb/>
 gab sich denn Philoktet hin?</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Ulysses</hi>: Aber du hast es ja<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Ulysses</hi>: Aber du hast es ja<lb/>
 gesagt, niemandem! Wozu dient eine<lb/>
 einsame Tugend? Was er auch immer<lb/>
 geglaubt haben mag, er gab sich aus,<lb/>
@@ -175,41 +217,52 @@ abweisen könnte, so ist es besser, ihn<lb/>
 zu seiner Tugend zu zwingen, ihm das<lb/>
 Opfer aufzuzwingen <milestone unit="3dots"/> und vor allem<lb/>
 klüger ist es, ihn einzuschläfern. Hier<lb/>
-habe ich ein Fläschchen <milestone unit="3dots"/></p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Neoptolemos</hi>: Sprich nicht zu<lb/>
+habe ich ein Fläschchen <milestone unit="3dots"/>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Neoptolemos</hi>: Sprich nicht zu<lb/>
 viel, Ulysses <milestone unit="3dots"/> Philoktet hat ge-<lb break="no"/>
 schwiegen.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Ulysses</hi>: Weil er nichts zu sagen<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Ulysses</hi>: Weil er nichts zu sagen<lb/>
 hatte.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Neoptolemos</hi>: Und darum, meinst<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Neoptolemos</hi>: Und darum, meinst<lb/>
 du, weinte er?</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Ulysses</hi>: Er weinte, weil er sich<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Ulysses</hi>: Er weinte, weil er sich<lb/>
 geirrt hatte.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Neoptolemos</hi>: Nein, meinetwegen<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Neoptolemos</hi>: Nein, meinetwegen<lb/>
 weinte er.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Ulysses</hi> (lächelnd): Deinetwegen!<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Ulysses</hi> (lächelnd): Deinetwegen!<lb/>
 Das, was man aus Dummheit beginnt,<lb/>
 aus Hochmuth, nennt man es Tugend?</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Neoptolemos</hi> (aufschluchzend):<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Neoptolemos</hi> (aufschluchzend):<lb/>
 Ulysses, du verstehst Philoktet nicht!</p>
-<milestone unit="untyped-end"/>
-<milestone unit="untyped-end"/>
-<milestone unit="untyped-end"/>
-</cell></row></table></div>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

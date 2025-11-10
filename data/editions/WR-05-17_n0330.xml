@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-17_n0330.xml"
-     prev="WR-05-17_n0329.xml"
-     next="WR-05-17_n0331.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-17_n0330.xml" prev="WR-05-17_n0329.xml" next="WR-05-17_n0331.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,19 +41,37 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 16</title>
+                  <idno>WR-05-16_n0313.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 18</title>
+                  <idno>WR-05-18_n0343.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">ACHELIS: WILHELM WUNDT.</fw></fw><table><row><cell>
-<p rend="no-intend">Leipzig, Wilh. Engelmann, <date>1900</date> und<lb/>
-<date>1901</date>, Preis je 14 Mk.), auf ein weiteres<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">ACHELIS: WILHELM WUNDT.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Leipzig, Wilh. Engelmann, <date>1900</date> und<lb/>
+                        <date>1901</date>, Preis je 14 Mk.), auf ein weiteres<lb/>
 Interesse rechnen, als es sonst die speci-<lb break="no"/>
 fisch philosophischen Werke hervorzurufen<lb/>
 pflegen.</p>
-<p>Die Völker-Psychologie ist etwas über<lb/>
+                     <p>Die Völker-Psychologie ist etwas über<lb/>
 vierzig Jahre alt und seltsamerweise<lb/>
 auf demjenigen Boden entsprossen, welcher<lb/>
 eigentlich dieser Richtung am aller-<lb break="no"/>
@@ -105,8 +120,9 @@ samem Leben bestimmt, und der Einzelne<lb/>
 ist Mensch nur in der Gemeinsamkeit,<lb/>
 durch die Theilnahme am Leben der<lb/>
 Gattung. Die Grundlage für das über</p>
-</cell><cell>
-<p>das thierische Dasein sich erhebende<lb/>
+                  </cell>
+                  <cell>
+                     <p>das thierische Dasein sich erhebende<lb/>
 Sein und Wirken des Menschen ist dem-<lb break="no"/>
 nach zuerst die Gemeinsamkeit mit gleich-<lb break="no"/>
 zeitigen Nebenmenschen. Doch diese<lb/>
@@ -160,7 +176,10 @@ fruchtbare, moderne vergleichende Rechts-<lb break="no"/>
 wissenschaft ebenso wie natürlich auch<lb/>
 die Sociologie und Völkerkunde auf diesen<lb/>
 Principien. Es wäre nach diesen Aus-</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

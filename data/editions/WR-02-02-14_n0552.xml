@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-14_n0552.xml"
-     prev="WR-02-02-14_n0551.xml"
-     next="WR-02-02-14_n0553.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-14_n0552.xml" prev="WR-02-02-14_n0551.xml" next="WR-02-02-14_n0553.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,19 +42,51 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 13</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 15</title>
+                  <idno>WR-02-02-15_n0561.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">552</fw><fw type="ctext">MULTATULI.</fw></fw><p rend="no-intend">ein junges Mädchen, das in das Wort jemandes ohne die Ceremonie<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">552</fw>
+               <fw type="ctext">MULTATULI.</fw>
+            </fw>
+            <p rend="no-intend">ein junges Mädchen, das in das Wort jemandes ohne die Ceremonie<lb/>
 des öffentlichen Versprechens Vertrauen gesetzt hatte, als minder ehrbar<lb/>
 hinstellte als ein anderes. Höchstens war sie einer Unverständigkeit<lb/>
 schuldig, indem sie vergass, dass das menschliche Herz schlecht ist,<lb/>
-was man doch sonst männiglich weiss.«</p><p>— »Ich sagte Euch, dass es anfänglich nicht so war, o Kami. Die<lb/>
-Erfindung des Wortes Keuschheit oder Anstand <milestone unit="3dots"/>«</p><p>— »Du sagtest, dass diese Hälfte der allgemeinen Tugend — die<lb/>
-zwei ist — nicht erfunden sei.«</p><p>— »Und ich wiederhole, o Kami, der Ihr von Unaufmerksamkeit<lb/>
+was man doch sonst männiglich weiss.«</p>
+            <p>— »Ich sagte Euch, dass es anfänglich nicht so war, o Kami. Die<lb/>
+Erfindung des Wortes Keuschheit oder Anstand <milestone unit="3dots"/>«</p>
+            <p>— »Du sagtest, dass diese Hälfte der allgemeinen Tugend — die<lb/>
+zwei ist — nicht erfunden sei.«</p>
+            <p>— »Und ich wiederhole, o Kami, der Ihr von Unaufmerksamkeit<lb/>
 überfliesst, die <hi rend="text-spaced">Sache</hi> ist nicht erfunden worden, weil sie nichts ist.<lb/>
 Aber das <hi rend="text-spaced">Wort</hi> für dieses illusionäre Ding wurde von der Zeit an-<lb break="no"/>
 gewandt, wo man einen Popanz nöthig hatte, um einen Schutz gegen<lb/>
@@ -78,22 +107,28 @@ ganze Keuschheit, die ganze Wohlanständigkeit ist in diesem Fleisch-<lb break="
 kessel gelegen. Nehmt diesen Kessel weg, und Ihr werdet die Eltern<lb/>
 alsbald ein Wort erfinden sehen, das einen Fluch auf die Tochter<lb/>
 schleudert, die dem Hause einen Säugling ohne gehörig registrierten<lb/>
-Vater zuführt.«</p><p>— »Denken diese Rothhäute noch so?«</p><p>— »Ich glaube es nicht, Kami mit Euerem gelben Teint. Ich denke,<lb/>
+Vater zuführt.«</p>
+            <p>— »Denken diese Rothhäute noch so?«</p>
+            <p>— »Ich glaube es nicht, Kami mit Euerem gelben Teint. Ich denke,<lb/>
 dass die weissen Amerikaner ihnen die Fleischkessel weggenommen<lb/>
 haben, um ihnen an deren Stelle einige Kernsprüche über die Tugend<lb/>
 zu schenken. Wenn jetzt ein Mädchen ein Kind gebärt, das der über-<lb break="no"/>
 mässigen Natürlichkeit schuldig ist, so wird sie es zweifellos tödten,<lb/>
 wie man’s ja auch in den civilisierten Ländern thut. Seht, o Kami, der<lb/>
 Ihr wünschet, die Civilisation aus einem Journal zu schöpfen: »<hi rend="text-spaced">Die<lb/>
-Leiche eines neugeborenen Kindes wurde heute morgens</hi></p><milestone unit="hr"/><note type="footnote">
-<p>*) (Note des Autors von <date>1865</date>.) Ich habe mich in Ländern aufgehalten,<lb/>
+Leiche eines neugeborenen Kindes wurde heute morgens</hi>
+            </p>
+            <milestone unit="hr"/>
+            <note type="footnote">
+               <p>*) (Note des Autors von <date>1865</date>.) Ich habe mich in Ländern aufgehalten,<lb/>
 wo der Kindermord als Ursache der Schande unbekannt war. Aber diese ein-<lb break="no"/>
 geredete Schande und als ihre Folge diese Morde habe ich mit dem Christen-<lb break="no"/>
 thum dort sich einfuhren und festsetzen sehen.</p>
-<p>**) (Note des Autors von <date>1865</date>). Biographie des Makatai-Meshekia-<lb break="no"/>
+               <p>**) (Note des Autors von <date>1865</date>). Biographie des Makatai-Meshekia-<lb break="no"/>
 Kiak, nach officiellen Documenten. Von R. Postumus, Leenwaarden bei<lb/>
 D. Meinersma, <date>1847</date>.</p>
-</note></div>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

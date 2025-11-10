@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-07_n0145.xml"
-     prev="WR-05-07_n0144.xml"
-     next="WR-05-07_n0146.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-07_n0145.xml" prev="WR-05-07_n0144.xml" next="WR-05-07_n0146.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,27 +41,48 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 6</title>
+                  <idno>WR-05-06_n0115.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 8</title>
+                  <idno>WR-05-08_n0159.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">GIDE: DER TRACTAT VON NARCISS.</fw></fw><table><row><cell>
-<p>Unerschöpfliche Messen, jeden Tag,<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">GIDE: DER TRACTAT VON NARCISS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Unerschöpfliche Messen, jeden Tag,<lb/>
 um Christum wieder in Agonie zu ver-<lb break="no"/>
 setzen, und das Publicum in der Stel-<lb break="no"/>
 lung des Gebetes <milestone unit="4dots"/> Ein Publicum!<lb/>
 — Müsste man die ganze Menschheit<lb/>
 fußfällig hinstrecken, dann genügte eine<lb/>
 Messe.</p>
-<p>Wenn wir verstehen, aufmerksam<lb/>
+                     <p>Wenn wir verstehen, aufmerksam<lb/>
 zu sein und zu betrachten, was sähen<lb/>
-wir für Sachen, vielleicht <milestone unit="5dots"/></p>
-<ab><title>III.</title></ab>
-<p>Der Dichter ist der, der betrachtet.<lb/>
+wir für Sachen, vielleicht <milestone unit="5dots"/>
+                     </p>
+                     <ab>
+                        <title>III.</title>
+                     </ab>
+                     <p>Der Dichter ist der, der betrachtet.<lb/>
 Und was sieht er: das Paradies.</p>
-<p>Denn das Paradies ist überall.<lb/>
+                     <p>Denn das Paradies ist überall.<lb/>
 Glauben wir den Erscheinungen nicht.<lb/>
 Die Erscheinungen sind unvollkommen.<lb/>
 Sie stammeln die Wahrheiten, die sie<lb/>
@@ -76,13 +94,13 @@ sucht den Urtypus der Dinge und die Ge-<lb break="no"/>
 setze ihrer Nachfolge. Schließlich setzt<lb/>
 er eine ideal einfache Welt zusammen,<lb/>
 in der sich alles natürlich anordnet.</p>
-<p>Aber der Gelehrte sucht diese ersten<lb/>
+                     <p>Aber der Gelehrte sucht diese ersten<lb/>
 Formen in einer langen und ängstlichen<lb/>
 Induction, auf dem Wege unzähliger<lb/>
 Beispiele. Denn er bleibt bei der Er-<lb break="no"/>
 scheinung stehen und, verlangend nach<lb/>
 Gewissheit, wehrt er sich, zu rathen.</p>
-<p>Der Dichter, er, der weiß, dass er<lb/>
+                     <p>Der Dichter, er, der weiß, dass er<lb/>
 schafft, räth durch alle Dinge durch —<lb/>
 und ein einziges genügt ihm, ein sym-<lb break="no"/>
 bolisches, um seinen Urtypus zu ent-<lb break="no"/>
@@ -91,8 +109,9 @@ nur dessen Vorwand ist, ein Kleid,<lb/>
 das ihn verbirgt und an dem das<lb/>
 profane Auge anhält, das uns aber<lb/>
 zeigt, dass er da ist.*</p>
-</cell><cell>
-<p>Der fromme Dichter neigt sich in<lb/>
+                  </cell>
+                  <cell>
+                     <p>Der fromme Dichter neigt sich in<lb/>
 Betrachtung über die Symbole, steigt<lb/>
 schweigsam tief ins Herz der Dinge<lb/>
 — und wenn er seherisch die Idee, die<lb/>
@@ -105,7 +124,7 @@ und er weiß ihr die einzige Form<lb/>
 wiederzugeben, <hi rend="text-spaced">ihre</hi> Form, endlich die<lb/>
 wahrhaftige und über sie verhängte —<lb/>
 paradiesische und krystallinische.</p>
-<p>Denn das Kunstwerk ist ein Kry-<lb break="no"/>
+                     <p>Denn das Kunstwerk ist ein Kry-<lb break="no"/>
 stall-Theil des Paradieses, in dem die<lb/>
 Idee wieder aufblickt in ihrer höchsten<lb/>
 Reinheit; wo, wie in dem verschwun-<lb break="no"/>
@@ -118,7 +137,7 @@ vertreibt — wo die rhythmischen und<lb/>
 sicheren Phrasen, noch Symbole, aber<lb/>
 reine Symbole, wo die Worte sich<lb/>
 durchsichtig und offenbarend machen.</p>
-<p>Solche Werke krystallisieren sich<lb/>
+                     <p>Solche Werke krystallisieren sich<lb/>
 nur im Schweigen. Aber es gibt manch-<lb break="no"/>
 mal Schweigen inmitten der Menge,<lb/>
 wo der Künstler, geflüchtet wie Moses<lb/>
@@ -126,7 +145,7 @@ auf dem Sinai, sich isoliert, aus den<lb/>
 Dingen fortgeht, aus der Zeit, sich um-<lb break="no"/>
 hüllt mit einer Atmosphäre von Licht<lb/>
 über der beschäftigten Menge.</p>
-<p>In ihm ruht sich langsam die Idee<lb/>
+                     <p>In ihm ruht sich langsam die Idee<lb/>
 aus, dann thut sie sich blühend auf,<lb/>
 außerhalb der Stunden. Und wie sie<lb/>
 nicht in der Zeit ist, vermag auch die<lb/>
@@ -135,19 +154,23 @@ mehr: man fragt sich, ob das Paradies,<lb/>
 selber außer der Zeit, nicht vielleicht<lb/>
 niemals war, außer eben dort — das<lb/>
 heißt: nur ideal.**</p>
-</cell></row></table><note type="footnote">
-<p>Und ich gebe nicht vor, diese Theorie sei neu. Die Lehren der Entsagung predigen<lb/>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>Und ich gebe nicht vor, diese Theorie sei neu. Die Lehren der Entsagung predigen<lb/>
 nichts anderes.</p>
-<p>Die moralische Frage für den Künstler ist nicht, ob die Idee, die er offenbart, mehr<lb/>
+               <p>Die moralische Frage für den Künstler ist nicht, ob die Idee, die er offenbart, mehr<lb/>
 oder weniger moralisch und der großen Zahl nützlich ist; die Frage ist, ob er sie gut offenbare.<lb/>
 Denn alles muss geoffenbart werden, selbst die tödtlich traurigsten Dinge. »Wehe dem, durch<lb/>
 den das Ärgernis geschieht«, aber: »Es ist nothwendig, dass das Ärgernis geschehe.« — Der<lb/>
 Künstler und der Mensch, der wahrhaft Mensch ist, der für etwas lebt, soll vor allem das Opfer<lb/>
 seiner selbst gebracht haben. Sein ganzes Leben ist nur eine Einleitung dazu.</p>
-<p>Und nun: was offenbaren? — Man lernt das im Schweigen. (<date>1890</date>.)</p>
-<p>* Hat man verstanden, dass ich symbolisch nenne — <hi rend="text-spaced">alles</hi>, <hi rend="text-spaced">was erscheint</hi>?</p>
-<p>**: Die erste Note wieder lesen.</p>
-</note></div>
+               <p>Und nun: was offenbaren? — Man lernt das im Schweigen. (<date>1890</date>.)</p>
+               <p>* Hat man verstanden, dass ich symbolisch nenne — <hi rend="text-spaced">alles</hi>, <hi rend="text-spaced">was erscheint</hi>?</p>
+               <p>**: Die erste Note wieder lesen.</p>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

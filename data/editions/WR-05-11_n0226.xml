@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-11_n0226.xml"
-     prev="WR-05-11_n0225.xml"
-     next="WR-05-11_n0227.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-11_n0226.xml" prev="WR-05-11_n0225.xml" next="WR-05-11_n0227.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 10</title>
+                  <idno>WR-05-10_n0205.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 12</title>
+                  <idno>WR-05-12_n0249.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">EMERSON: AUFZEICHNUNGEN.</fw></fw><table><row><cell>
-<p rend="no-intend">das ein Geschöpf, wie John M. Forbes her-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">EMERSON: AUFZEICHNUNGEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">das ein Geschöpf, wie John M. Forbes her-<lb break="no"/>
 vorbringen kann <milestone unit="4dots"/> Als ich fortgieng,<lb/>
 sagte ich zu mir selbst: »Wie wenig ahnt<lb/>
 dieser Mensch mit seiner Sympathie für<lb/>
@@ -60,14 +75,15 @@ für Literaten und Leute der Wissenschaft,<lb/>
 wie unwahrscheinlich es ist, dass er je<lb/>
 einem Menschen begegne, der ihm über-<lb break="no"/>
 legen ist.«</p>
-<p><date>1851</date>. Ich sah einen Knaben auf der<lb/>
+                     <p>
+                        <date>1851</date>. Ich sah einen Knaben auf der<lb/>
 Canader Haide eine alte, verbogene, zinnerne<lb/>
 Milchkanne, die am Wegrand rostete, auf-<lb break="no"/>
 klauben, an die Spitze eines Stockes<lb/>
 hängen und dann drehen, so dass sie<lb/>
 die feinsten, schönsten erdenkbaren Curven<lb/>
 beschrieb.</p>
-<p>Ich glaube manchmal, dass mein Mangel<lb/>
+                     <p>Ich glaube manchmal, dass mein Mangel<lb/>
 an musikalischem Gehör mir durch die<lb/>
 Augen ersetzt wird: was andere hören,<lb/>
 das <hi rend="text-spaced">sehe</hi> ich. All die sanften, klagenden,<lb/>
@@ -79,8 +95,9 @@ Haines von Schierlings-Tannen oder in der<lb/>
 unendlichen Mannigfaltigkeit und dem<lb/>
 raschen Tanz der Baumwipfel, wenn ich<lb/>
 an ihnen vorübereile.</p>
-<milestone unit="asterisk"/>
-<p><date>1842</date>. Ein Mensch kann sich nicht<lb/>
+                     <milestone unit="asterisk"/>
+                     <p>
+                        <date>1842</date>. Ein Mensch kann sich nicht<lb/>
 durch selbstquälerische Regimes Gewalt<lb/>
 anthun und weiterbringen, nicht durch<lb/>
 Kartoffel und Wasser, nicht durch gewalt-<lb break="no"/>
@@ -96,7 +113,8 @@ Gebiet und in der Weise, die ihm eigen<lb/>
 ist, nur so scheint ein Engel zu erstehen<lb/>
 und ihn bei der Hand aus allen Gefäng-<lb break="no"/>
 nissen zu führen.</p>
-<p><date>1846</date>. Welch eine Entdeckung, die<lb/>
+                     <p>
+                        <date>1846</date>. Welch eine Entdeckung, die<lb/>
 ich eines Tages machte; dass je mehr<lb/>
 ich ausgab, ich umsomehr wuchs; dass es<lb/>
 ebenso leicht war, einen großen Platz ein-<lb break="no"/>
@@ -104,11 +122,12 @@ zunehmen und viel zu thun, als einen kleinen<lb/>
 und wenig zu thun; und dass in dem<lb/>
 Winter, in dem ich all meine Resultate den<lb/>
 Hörern gab, ich voll neuer Gedanken ward.</p>
-</cell><cell>
-<p rend="no-intend">— (Verschiedenen Datums.) Eure Arbeit<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">— (Verschiedenen Datums.) Eure Arbeit<lb/>
 gewinnt durch jedes »Sehr«, das ihr aus-<lb break="no"/>
 streichen könnt.</p>
-<p>Keine unterstrichenen Worte! Schreibt<lb/>
+                     <p>Keine unterstrichenen Worte! Schreibt<lb/>
 so, dass die Worte von selbst unterstrichen<lb/>
 scheinen! — Hütet euch vor den Worten<lb/>
 »intensiv« und »außerordentlich«; nur<lb/>
@@ -117,7 +136,7 @@ Leben eine Gelegenheit für das Wort<lb/>
 »intensiv«. — Gebraucht das kräftige<lb/>
 sächsische Wort anstatt des pedantischen<lb/>
 latinisierten.</p>
-<p>— Unser Ziel in unseren Schriften<lb/>
+                     <p>— Unser Ziel in unseren Schriften<lb/>
 sollte sein: das Tageslicht durch sie<lb/>
 scheinen zu lassen. Es ist ein großer<lb/>
 Unterschied zwischen gedrängtem und<lb/>
@@ -132,7 +151,7 @@ einem Platz von wenig Zollen Raum ist<lb/>
 für Herrschaft und Liebe, Scherz und<lb/>
 Weisheit und selbst für den Ausdruck<lb/>
 ungeheurer Weiten.</p>
-<p>Ich hasse alles Anschwellen der Bücher;<lb/>
+                     <p>Ich hasse alles Anschwellen der Bücher;<lb/>
 nicht Mazzini selbst, nicht Cranch, kaum<lb/>
 Browning selbst könnte mich dazu be-<lb break="no"/>
 wegen, einen Appendix von einer Zeile<lb/>
@@ -141,7 +160,8 @@ wozu eine Vorrede? Wenn acht Seiten<lb/>
 Platz ist, so lasst sie in herrlichem Weiß;<lb/>
 nein, nein, keine Vorreden — ich will<lb/>
 keine unnöthige Silbe niederschreiben.</p>
-<p><date>1839</date>. Reim, aber keine klingenden<lb/>
+                     <p>
+                        <date>1839</date>. Reim, aber keine klingenden<lb/>
 Reime, sondern großartige Pindar’sche<lb/>
 Schläge, fest wie das Stampfen eines<lb/>
 Pferdes. Reim, der sich selbst als Kunst<lb/>
@@ -156,10 +176,13 @@ zuruft, dass die Schöpfung neu beginnt.<lb/>
 Ich wollte, ich könnte solche Reime finden,<lb/>
 die keinen Zwang, sondern im Gegentheil<lb/>
 die wildeste Freiheit empfinden lassen.</p>
-<p>Für jeden Gedanken existiert seine<lb/>
+                     <p>Für jeden Gedanken existiert seine<lb/>
 eigene Melodie und sein Reim, obgleich<lb/>
 die ungeheuere Wahrscheinlichkeit dagegen</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

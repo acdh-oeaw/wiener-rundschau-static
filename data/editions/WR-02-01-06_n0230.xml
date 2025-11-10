@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-06_n0230.xml"
-     prev="WR-02-01-06_n0229.xml"
-     next="WR-02-01-06_n0231.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-06_n0230.xml" prev="WR-02-01-06_n0229.xml" next="WR-02-01-06_n0231.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,14 +42,43 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 5</title>
+                  <idno>WR-02-01-05_n0161.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 7</title>
+                  <idno>WR-02-01-07_n0241.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>UHDE’S CHRISTUS.<lb/>
-Von <rs type="person" key="">Rainer Maria Rilke</rs> (Wilmersdorf bei Berlin).</title></ab><p>Im Sommer 1897 stand plötzlich in mehreren Zeitungen: »Die<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>UHDE’S CHRISTUS.<lb/>
+Von <rs type="person" key="">Rainer Maria Rilke</rs> (Wilmersdorf bei Berlin).</title>
+            </ab>
+            <p>Im Sommer 1897 stand plötzlich in mehreren Zeitungen: »Die<lb/>
 Münchener Pinakothek wird Uhde’s ‚Himmelfahrt‘ ankaufen, nachdem<lb/>
 der Künstler sich entschlossen hat, einige Aenderungen am Bilde vor-<lb break="no"/>
 zunehmen. Dann schlugen verschiedene Blätter in wüthender Ent-<lb break="no"/>
@@ -73,20 +99,24 @@ zwar die Thorflügel ziemlich mächtig in Erinnerung und kenne auch<lb/>
 die »Himmelfahrt«, aber man irrt sich ja bekanntlich immer in den<lb/>
 Dimensionen. Also Herr v. Uhde muss wohl rundherum einen Streifen<lb/>
 Leinwand abgetrennt haben. Das ist klar: es kann doch Bilder geben,<lb/>
-welche zu gross sind für eine königliche Pinakothek.</p><p>Warum mir das nicht gleich eingefallen ist? Im <date>November des<lb/>
+welche zu gross sind für eine königliche Pinakothek.</p>
+            <p>Warum mir das nicht gleich eingefallen ist? Im <date>November des<lb/>
 vergangenen Jahres</date> habe ich das Bild in Herrn v. Uhde’s Atelier<lb/>
 gesehen, und Bilder, unfertig, ungerahmt, sehen ja stets kleiner aus<lb/>
 — und später im Glaspalast — da hab’ ich immer gethan, als säh’<lb/>
-ich’s nicht.</p><p>Nur manchmal, wenn ich ganz einsam war im Rotundensaal (es<lb/>
+ich’s nicht.</p>
+            <p>Nur manchmal, wenn ich ganz einsam war im Rotundensaal (es<lb/>
 war ja oft einsam im Glaspalast), dann hab’ ich mich wohl davor nieder-<lb break="no"/>
 gesetzt und — die Augen geschlossen und gedacht, wie es doch da-<lb break="no"/>
-mals im Atelier war.</p><p>Stellen Sie sich einmal vor: eine Gruppe von Menschen, nicht<lb/>
+mals im Atelier war.</p>
+            <p>Stellen Sie sich einmal vor: eine Gruppe von Menschen, nicht<lb/>
 von Bauern und nicht von Gebildeten, einfach von Menschen, Greisen<lb/>
 und Kindern, Männern, Jungfrauen und Frauen. Und denken Sie:<lb/>
 diese Gruppe zusammengezwungen, geeint und gemeinsam durchzuckt<lb/>
 von <hi rend="text-spaced">einer</hi> Sensation. Und auf allen Gesichtern in feiner Abstufung<lb/>
 die Wirkung von etwas Grossem, Unglaublichem: bei den Greisen: Er-<lb break="no"/>
-staunen, bei den Frauen: Entzücken, bei den Jungfrauen: Verklärung</p></div>
+staunen, bei den Frauen: Entzücken, bei den Jungfrauen: Verklärung</p>
+         </div>
       </body>
    </text>
 </TEI>

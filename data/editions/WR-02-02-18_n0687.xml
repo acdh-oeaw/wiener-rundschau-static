@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-18_n0687.xml"
-     prev="WR-02-02-18_n0686.xml"
-     next="WR-02-02-18_n0688.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-18_n0687.xml" prev="WR-02-02-18_n0686.xml" next="WR-02-02-18_n0688.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,13 +42,42 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 17</title>
+                  <idno>WR-02-02-17_n0641.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 19</title>
+                  <idno>WR-02-02-19_n0713.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">DER STERN.</fw><fw type="pn">687</fw></fw><p>Es wäre interessant zu untersuchen, unter welchem Gesichts-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DER STERN.</fw>
+               <fw type="pn">687</fw>
+            </fw>
+            <p>Es wäre interessant zu untersuchen, unter welchem Gesichts-<lb break="no"/>
 winkel unsere letzten Tragiker das Unglück betrachten, welches den<lb/>
 Grund aller dramatischen Dichtung bildet. Sie sehen es näher als<lb/>
 die Griechen und dringen mehr in das fruchtbare Dunkel seines<lb/>
@@ -64,7 +90,8 @@ Grunde unseres Wesens nähren, und die mit ihm im Einverständnis<lb/>
 sind? Man müsste von den Gipfeln einer anderen Welt die Bewegungen<lb/>
 eines Menschen beobachten können, dem ein grosser Schmerz zustossen<lb/>
 soll; und welcher Mensch arbeitet nicht unbewusst daran, den Schmerz<lb/>
-zu schmieden, der der Angelpunkt seines Lebens sein soll?</p><p>Die schottischen Bauern haben ein Wort, das auf alle Existenzen<lb/>
+zu schmieden, der der Angelpunkt seines Lebens sein soll?</p>
+            <p>Die schottischen Bauern haben ein Wort, das auf alle Existenzen<lb/>
 Anwendung finden könnte. In ihren Legenden nennen sie <hi rend="text-spaced">Fey</hi> den<lb/>
 Zustand eines Menschen, den eine Art unwiderstehlichen inneren<lb/>
 Impulses trotz all seiner Bemühungen, trotz aller Rathschläge und<lb/>
@@ -87,14 +114,19 @@ Thüre, die man nicht geöffnet, eine Hand, die man nicht erhoben<lb/>
 hätte, geändert hätte werden können, wer von uns hat nicht<lb/>
 vergebens kraft- und hoffnungslos auf den zackigen Wänden des<lb/>
 Abgrundes gegen eine unsichtbare und scheinbar unbedeutende Macht<lb/>
-gekämpft?</p><p>Das Wehen jener Thüre, die ich eines Abends geöffnet, sollte<lb/>
+gekämpft?</p>
+            <p>Das Wehen jener Thüre, die ich eines Abends geöffnet, sollte<lb/>
 auf immer mein Glück verlöschen, wie es eine trübe Lampe verlöscht<lb/>
 hätte; und jetzt wenn ich daran denke, kann ich mir nicht sagen,<lb/>
 dass ich es nicht wusste<milestone unit="6dots"/> Und dennoch hatte mich nichts<lb/>
 Wichtiges auf jene Schwelle geführt. Ich hätte achselzuckend weg-<lb break="no"/>
 gehen können, kein menschlicher Grund konnte mich zwingen, an den<lb/>
 Thürflügel zu rühren<milestone unit="6dots"/> kein menschlicher Grund; nichts als das<lb/>
-Schicksal<milestone unit="6dots"/></p><milestone unit="hr"/><lb/></div>
+Schicksal<milestone unit="6dots"/>
+            </p>
+            <milestone unit="hr"/>
+            <lb/>
+         </div>
       </body>
    </text>
 </TEI>

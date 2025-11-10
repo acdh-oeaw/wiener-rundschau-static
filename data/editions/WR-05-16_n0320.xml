@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-16_n0320.xml"
-     prev="WR-05-16_n0319.xml"
-     next="WR-05-16_n0321.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-16_n0320.xml" prev="WR-05-16_n0319.xml" next="WR-05-16_n0321.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 15</title>
+                  <idno>WR-05-15_n0295.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 17</title>
+                  <idno>WR-05-17_n0327.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">GUMPPENBERG: DAS WESEN DES OPFERS.</fw></fw><table><row><cell>
-<p rend="no-intend">zu verstehen, dass nach <hi rend="text-spaced">solchen</hi> Be-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">GUMPPENBERG: DAS WESEN DES OPFERS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">zu verstehen, dass nach <hi rend="text-spaced">solchen</hi> Be-<lb break="no"/>
 griffen der Sohn höher stünde als der<lb/>
 Vater, der sich Opfernde höher als<lb/>
 der <hi rend="text-spaced">solches</hi> Opfer Verlangende. Das<lb/>
@@ -93,7 +108,7 @@ d. h. er erkennt, was Leben heißt,<lb/>
 das Attribut wahren Lebens: Seligkeit<lb/>
 ist ihm geworden und kann ihm nie mehr<lb/>
 verloren gehen.</p>
-<p>Wenn einmal die Wahrheit, dass wir<lb/>
+                     <p>Wenn einmal die Wahrheit, dass wir<lb/>
 Kinder der Ewigkeit sind, dass der<lb/>
 irdische Tod nur ein Brechen der Form<lb/>
 ist, die Geburt aber für den hochent-<lb break="no"/>
@@ -105,8 +120,9 @@ Unsterblichkeit zur Überzeugung des<lb/>
 Sokrates, so können wir unter »Leben«<lb/>
 nur unser Geistleben verstehen und es<lb/>
 niemals mit seiner jeweiligen Form identi-</p>
-</cell><cell>
-<p rend="no-intend">ficieren. Solche Auffassung, die ein Ent-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">ficieren. Solche Auffassung, die ein Ent-<lb break="no"/>
 wicklungsproduct ist, stellt sofort das<lb/>
 Opfer Christi in das rechte Licht. Das<lb/>
 Leiden ist gewissermaßen das Attribut<lb/>
@@ -141,7 +157,7 @@ könnt es jetzt noch nicht ertragen. Wenn<lb/>
 er, der Geist der Wahrheit, wird ge-<lb break="no"/>
 kommen sein, wird er euch führen in<lb/>
 alle Wahrheit!«</p>
-<p>Von dem Wort des zwölfjährigen<lb/>
+                     <p>Von dem Wort des zwölfjährigen<lb/>
 Knaben Jesu: »Wusstet ihr nicht, dass<lb/>
 ich in dem sein muss, was meines Vaters<lb/>
 ist?« (Luc. II., 49) bis zu dem einfach<lb/>
@@ -156,11 +172,14 @@ die Menschen sich mehr mit der Materie,<lb/>
 als mit dem Geist identifizierten, eine<lb/>
 Lehre, die heute noch zu dem Sucher<lb/>
 spricht, der Ohren hat, zu hören.</p>
-<p>Warum geben wir den Worten des<lb/>
+                     <p>Warum geben wir den Worten des<lb/>
 Meisters eine so enge Fassung, da doch<lb/>
 nur das Größte, was wir zu fassen ver-<lb break="no"/>
 mögen, ihnen gerecht werden kann? So</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

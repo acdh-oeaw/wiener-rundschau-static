@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-05_n0100.xml"
-     prev="WR-05-05_n0099.xml"
-     next="WR-05-05_n0101.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-05_n0100.xml" prev="WR-05-05_n0099.xml" next="WR-05-05_n0101.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,20 +41,38 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 4</title>
+                  <idno>WR-05-04_n0077.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 6</title>
+                  <idno>WR-05-06_n0115.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">RIMBAUD: SCHLECHTES BLUT.</fw></fw><table><row><cell>
-<p rend="no-intend">benachbarten Zimmer wandert, wie ein<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">RIMBAUD: SCHLECHTES BLUT.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">benachbarten Zimmer wandert, wie ein<lb/>
 Schatz im Wald. Gutes Zeichen! schrie<lb/>
 ich, und ich sah ein Meer von Flammen<lb/>
 und Rauch am Himmel: und links<lb/>
 und rechts alle Reichthümer, flammend<lb/>
 wie eine Milliarde von Gewittern.</p>
-<p>Aber die Ausschweifung und die<lb/>
+                     <p>Aber die Ausschweifung und die<lb/>
 Freundschaft der Frauen waren mir<lb/>
 versagt. Nicht einmal ein Gefährte. Ich<lb/>
 sah mich vor einer erbitterten Menge,<lb/>
@@ -65,7 +80,7 @@ gegenüber der Hinrichtungsmannschaft,<lb/>
 weinend über das Unglück, dass sie<lb/>
 nicht begreifen konnten, und verzeihend!<lb/>
 — Wie Jeanne d’Arc!</p>
-<p>Priester, Professoren, Meister, ihr<lb/>
+                     <p>Priester, Professoren, Meister, ihr<lb/>
 täuscht euch, indem ihr mich der<lb/>
 Gerechtigkeit ausliefert! Ich habe nie<lb/>
 zu diesem Volk da gehört. Ich war<lb/>
@@ -73,7 +88,7 @@ niemals Christ. Ich bin von der Rasse,<lb/>
 die sang bei der Hinrichtung. Ich<lb/>
 begreife die Gesetze nicht. Ich habe<lb/>
 keinen Sinn für Moral, ich bin ein Vieh.</p>
-<p>Ja, ich habe die Augen geschlossen<lb/>
+                     <p>Ja, ich habe die Augen geschlossen<lb/>
 vor eurem Licht. Ich bin dumm, bin<lb/>
 ein Neger. Aber ich kann gerettet<lb/>
 werden. Ihr seid falsche Neger, ihr,<lb/>
@@ -92,7 +107,7 @@ Continent zu verlassen, wo der Wahn-<lb break="no"/>
 sinn streift, um diese Elenden mit<lb/>
 Bürgen zu versorgen. Ich trete ein in<lb/>
 das wahre Reich Hams.</p>
-<p>Kenne ich die Natur? Kenne ich<lb/>
+                     <p>Kenne ich die Natur? Kenne ich<lb/>
 mich? — <hi rend="text-spaced">Keine Worte mehr</hi>. Ich<lb/>
 begrabe die Todten in meinem Bauch.<lb/>
 Schreie, Tambour, tanze, tanze, tanze,<lb/>
@@ -100,15 +115,16 @@ tanze! Ich sehe nicht einmal die Stunde,<lb/>
 in der ich, die Weißen ausschiffend,<lb/>
 ins Nichts fallen werde. Hunger, Durst,<lb/>
 schreie, tanze, tanze, tanze, tanze!</p>
-<milestone unit="asterisk"/>
-<p>Die Weißen geh’n ans Land. Die<lb/>
+                     <milestone unit="asterisk"/>
+                     <p>Die Weißen geh’n ans Land. Die<lb/>
 Kanone! Man mus dich der Taufe<lb/>
 unterziehen, sich ankleiden, arbeiten.</p>
-</cell><cell>
-<p>Ich habe den Gnadenstoß ins Herz<lb/>
+                  </cell>
+                  <cell>
+                     <p>Ich habe den Gnadenstoß ins Herz<lb/>
 erhalten. Ah! das hatte ich nicht voraus-<lb break="no"/>
 gesehen.</p>
-<p>Ich habe kaum Übles gethan. Die<lb/>
+                     <p>Ich habe kaum Übles gethan. Die<lb/>
 Tage gehen leicht, die Reue wird mir<lb/>
 erspart bleiben. Ich werde die Stürme<lb/>
 in der Seele nicht gehabt haben, die<lb/>
@@ -125,7 +141,7 @@ als die des reinen Schmerzes zu<lb/>
 schlagen. Gehe ich hin, um wie ein<lb/>
 Kind im Paradies zu spielen, in Ver-<lb break="no"/>
 gessenheit alles Unglücks?</p>
-<p>Schnell! Gibt’s anderes Leben? —<lb/>
+                     <p>Schnell! Gibt’s anderes Leben? —<lb/>
 Im Reichthum zu träumen, ist un-<lb break="no"/>
 möglich. Der Reichthum war immer<lb/>
 für alle. Einzig die göttliche Liebe be-<lb break="no"/>
@@ -133,7 +149,7 @@ willigt die Schlüssel des Wissens. Ich<lb/>
 sehe, dass die Natur nichts ist als ein<lb/>
 Schauspiel aus Güte. Adieu, Chimären,<lb/>
 Ideale, Irrthümer!</p>
-<p>Der vernunftvolle Gesang der Engel<lb/>
+                     <p>Der vernunftvolle Gesang der Engel<lb/>
 erhebt sich vom rettenden Schiff;<lb/>
 das ist die göttliche Liebe. — Zwei<lb/>
 Lieben! Ich kann vor irdischer Liebe<lb/>
@@ -144,20 +160,23 @@ Abfahrt mehren wird! Ihr sucht mich<lb/>
 unter den Schiffbrüchigen aus; die<lb/>
 Übrigbleibenden, sind es nicht meine<lb/>
 Freunde?</p>
-<p>Rettet sie!</p>
-<p>Die Vernunft ist mir geboren. Die<lb/>
+                     <p>Rettet sie!</p>
+                     <p>Die Vernunft ist mir geboren. Die<lb/>
 Welt ist gut.</p>
-<p>Ich werde das Leben benedeien.<lb/>
+                     <p>Ich werde das Leben benedeien.<lb/>
 Ich werde meine Brüder lieben. Das<lb/>
 sind keine Kinderversprechungen mehr.<lb/>
 Noch die Hoffnung, dem Alter und<lb/>
 dem Tod zu entgehen. Gott macht<lb/>
 meine Kraft, und ich lobe Gott.</p>
-<milestone unit="asterisk"/>
-<p>Der Trübsinn ist meine Liebe nicht<lb/>
+                     <milestone unit="asterisk"/>
+                     <p>Der Trübsinn ist meine Liebe nicht<lb/>
 mehr. Die Rasereien, die Ausschwei-<lb break="no"/>
 fungen, der Wahnsinn, dessen Auf-</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

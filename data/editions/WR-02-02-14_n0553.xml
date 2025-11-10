@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-14_n0553.xml"
-     prev="WR-02-02-14_n0552.xml"
-     next="WR-02-02-14_n0554.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-14_n0553.xml" prev="WR-02-02-14_n0552.xml" next="WR-02-02-14_n0554.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,27 +42,61 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 13</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 15</title>
+                  <idno>WR-02-02-15_n0561.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">GESPRÄCH MIT JAPANERN.</fw><fw type="pn">553</fw></fw><p rend="no-intend"><hi rend="text-spaced">aus der Prinzengracht gezogen</hi>.« Jede Woche liest man<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">GESPRÄCH MIT JAPANERN.</fw>
+               <fw type="pn">553</fw>
+            </fw>
+            <p rend="no-intend">
+               <hi rend="text-spaced">aus der Prinzengracht gezogen</hi>.« Jede Woche liest man<lb/>
 diese oder eine ähnliche Neuigkeit, und wenn man nun an die Zahl<lb/>
 der nicht aufgefundenen Neugeborenen denkt, die dennoch mit ebenso<lb/>
 wenig Achtung behandelt wurden, wie dieser Knirps in der ekel-<lb break="no"/>
 erregenden Prinzengracht, so verwünscht man diese, bezüglich der<lb/>
 Tugend erfundenen Worte, und man beneidet die Amerikaner um<lb/>
 ihre Fleischkessel, die immer über dem Feuer, dem Menschen erlaubten<lb/>
-<hi rend="text-spaced">Mensch</hi> zu sein, anstatt eines Tugendboldes.«</p><p>— »Aber was ist die Belohnung für diese Ehrlichkeit?« fragte<lb/>
-der Kami.</p><p>— »Keine, o Kami. Eltern, Gesetzgeber und Fürsten begreifen sehr<lb/>
+               <hi rend="text-spaced">Mensch</hi> zu sein, anstatt eines Tugendboldes.«</p>
+            <p>— »Aber was ist die Belohnung für diese Ehrlichkeit?« fragte<lb/>
+der Kami.</p>
+            <p>— »Keine, o Kami. Eltern, Gesetzgeber und Fürsten begreifen sehr<lb/>
 gut, dass die Belohnung der Tugend ebenso theuer zu stehen kommen<lb/>
 würde, als wenn man die Consequenzen des Gegentheils auf sich<lb/>
 nehmen würde. Nun hat man derart noch etwas erfunden, und zwar<lb/>
 auch ein Wort, Kami; aber sagt mir, habt Ihr meine »<hi rend="text-spaced">Ideen</hi>«*)<lb/>
-gelesen?«</p><p>— »Das nicht. Wir haben unseren Lehrern in Yeddo versprechen<lb/>
-müssen, uns dieser Lecture zu enthalten.«</p><p>— »Dann könnet Ihr nicht wissen, o Kami, dass ich in Nummer 88<lb/>
+gelesen?«</p>
+            <p>— »Das nicht. Wir haben unseren Lehrern in Yeddo versprechen<lb/>
+müssen, uns dieser Lecture zu enthalten.«</p>
+            <p>— »Dann könnet Ihr nicht wissen, o Kami, dass ich in Nummer 88<lb/>
 meiner »Ideen« gesagt habe: »Worte regieren die Welt«. Nun, da<lb/>
 hat man in Ermangelung der Fleischtöpfe auch wieder so ein »Wort«<lb/>
 erfunden, um damit die Tugend schadlos zu halten. Wenn Euer<lb/>
@@ -75,9 +106,14 @@ armen Teufel — von da an, wo sie nicht mehr arbeiten können —<lb/>
 dennoch aufs Pflaster, ganz wie die Margot, die <hi rend="text-spaced">nicht</hi> tugendhaft war,<lb/>
 oder wie irgend einer, der albern genug sein würde, <hi rend="text-spaced">tausend mit<lb/>
 einem Streich errungene Gulden</hi> — trotz starker Unannehmlich-<lb break="no"/>
-keiten — dreissig Jahren eines ruhigen Lebens mit »Kost« vorzuziehen.«</p><milestone unit="hr"/><note type="footnote">
-<p>*) Das siebenbändige Hauptwerk Multatulis.</p>
-</note><milestone unit="untyped-end"/><milestone unit="hr"/></div>
+keiten — dreissig Jahren eines ruhigen Lebens mit »Kost« vorzuziehen.«</p>
+            <milestone unit="hr"/>
+            <note type="footnote">
+               <p>*) Das siebenbändige Hauptwerk Multatulis.</p>
+            </note>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
       </body>
    </text>
 </TEI>

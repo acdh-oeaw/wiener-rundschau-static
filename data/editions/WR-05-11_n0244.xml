@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-11_n0244.xml"
-     prev="WR-05-11_n0243.xml"
-     next="WR-05-11_n0245.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-11_n0244.xml" prev="WR-05-11_n0243.xml" next="WR-05-11_n0245.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 10</title>
+                  <idno>WR-05-10_n0205.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 12</title>
+                  <idno>WR-05-12_n0249.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">AURIER: VINCENT VAN GOGH.</fw></fw><table><row><cell>
-<p rend="no-intend">ihrer knorrigen, drohenden Arme, mit<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">AURIER: VINCENT VAN GOGH.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">ihrer knorrigen, drohenden Arme, mit<lb/>
 dem Fliegen ihrer grünen Mähnen ihre<lb/>
 unbezwingliche Kraft verkündend, den<lb/>
 Stolz ihrer Muskulatur, ihren Saft, heiß<lb/>
@@ -89,8 +104,8 @@ die Form zum Alp geworden, die<lb/>
 Farbe zu Flammen werdend, zu Lava<lb/>
 und Edelsteinen, das Licht zum Feuer-<lb break="no"/>
 brand, das Leben zum heißen Fieber.</p>
-<milestone unit="asterisk"/>
-<p>So ist — und keineswegs über-<lb break="no"/>
+                     <milestone unit="asterisk"/>
+                     <p>So ist — und keineswegs über-<lb break="no"/>
 trieben, wenn man dies auch denken<lb/>
 könnte — der Eindruck, den das erste<lb/>
 Anschauen der seltsamen, intensiven<lb/>
@@ -99,13 +114,14 @@ Goghs im Auge zurücklässt, des<lb/>
 Landsmannes und nicht unwürdigen<lb/>
 Nachkommen der alten holländischen<lb/>
 Meister.</p>
-<p>O, wie weit sind wir — nicht<lb/>
+                     <p>O, wie weit sind wir — nicht<lb/>
 wahr — von der schönen, großen,<lb/>
 alten, sehr gesunden, sehr wohlabge-<lb break="no"/>
 wogenen Kunst der Niederlande! Wie<lb/>
 weit von Gérard Dow, von Albert Guyp,</p>
-</cell><cell>
-<p rend="no-intend">Terburg, Metzn, Pieter de Hoogh, Van<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Terburg, Metzn, Pieter de Hoogh, Van<lb/>
 der Meer, Van der Heyden und ihren<lb/>
 gefälligen, ein wenig spießbürgerlichen,<lb/>
 so geduldigen und sorgfältigen, so<lb/>
@@ -138,7 +154,7 @@ vergleichlichen alten Meister, die das<lb/>
 einzige Unrecht hatten — wenn es<lb/>
 ein Unrecht war für sie — alle Familien-<lb break="no"/>
 väter und Bürgermeister zu sein!</p>
-<p>Und doch, man täusche sich nicht,<lb/>
+                     <p>Und doch, man täusche sich nicht,<lb/>
 Vincent van Gogh ist keineswegs so<lb/>
 sehr außer seiner Rasse. Er unterliegt,<lb/>
 besser als manche anderen, den unver-<lb break="no"/>
@@ -147,11 +163,11 @@ denen Taine gern ein Geheimnis macht.<lb/>
 Er ist sehr wohl und gebürender-<lb break="no"/>
 maßen Holländer, von der sublimen<lb/>
 Linie des Franz Hals.</p>
-<p>Und vor allem, er ist in der That,<lb/>
+                     <p>Und vor allem, er ist in der That,<lb/>
 wie alle seine berühmten Landsleute,<lb/>
 ein Realist, ein Realist in der ganzen<lb/>
 Kraft dieser Bezeichnung.</p>
-<p>Ars est homo additus naturae hat<lb/>
+                     <p>Ars est homo additus naturae hat<lb/>
 der Kanzler Bacon gesagt. Und Emile<lb/>
 Zola hat den Naturalismus definiert als<lb/>
 »die Natur, gesehen durch ein Tempera-<lb break="no"/>
@@ -159,7 +175,10 @@ ment«. Nun, es ist »homo additus«,<lb/>
 es ist dieses »durch ein Temperament«,<lb/>
 diese nach den Persönlichkeiten ver-<lb break="no"/>
 schiedene Deformation, der Abdruck</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

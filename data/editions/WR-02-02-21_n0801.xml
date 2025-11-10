@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-21_n0801.xml"
-     prev="WR-02-02-21_n0800.xml"
-     next="WR-02-02-21_n0802.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-21_n0801.xml" prev="WR-02-02-21_n0800.xml" next="WR-02-02-21_n0802.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,29 +42,61 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 20</title>
+                  <idno>WR-02-02-20_n0749.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 22</title>
+                  <idno>WR-02-02-22_n0825.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>»<hi rend="text-spaced">WENN ICH GOTT WÄRE</hi>.«<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>»<hi rend="text-spaced">WENN ICH GOTT WÄRE</hi>.«<lb/>
 Ein Gespräch<lb/>
 von<lb/>
-<rs type="person" key="">RICHARD LE GALLIENNE</rs>.<lb/>
-Aus dem Englischen übersetzt von <rs type="person" key="">Wilhelm Schölermann</rs>.</title></ab><p>An einem hellen Augustnachmittag standen auf einem hohen,<lb/>
+                  <rs type="person" key="">RICHARD LE GALLIENNE</rs>.<lb/>
+Aus dem Englischen übersetzt von <rs type="person" key="">Wilhelm Schölermann</rs>.</title>
+            </ab>
+            <p>An einem hellen Augustnachmittag standen auf einem hohen,<lb/>
 stillen Gipfel der Alpen ein Mann und ein junges Weib und sprachen<lb/>
 über Gott. Sonne, Schnee und Einsamkeit umgaben sie mit einem<lb/>
 leuchtenden Schweigen in vielen Farben. Die starke Sonne, der reine<lb/>
 Schnee, der weite, milde Friede. Während das Weib sprach, erfüllten<lb/>
 diese Herrlichkeiten ihre Seele wie sichtbare Offenbarungen des höchsten<lb/>
 Wesens, das zu vertreten und zu vertheidigen ihr Gefährte sie an<lb/>
-dem Nachmittag herausgefordert hatte.</p><p>Beide hatten in ihrem Leben die Hand Gottes gefühlt, uner-<lb break="no"/>
+dem Nachmittag herausgefordert hatte.</p>
+            <p>Beide hatten in ihrem Leben die Hand Gottes gefühlt, uner-<lb break="no"/>
 klärlich, muthwillig behauptete der Mann, strafend; aber nur das<lb/>
 Weib erkannte noch immer Sein Antlitz. Der Schlag, der den Mann<lb/>
 von Gott hinweggetrieben, gebrochenen Herzens und lästernd, führte<lb/>
-das Weib wie mit unerklärlicher Anziehungskraft näher zu Ihm hin.</p><p>»Sollte der Schmerz dennoch läutern können?« dachte der Mann,<lb/>
-als er in ihr klares und seltsam heiteres Gesicht blickte.</p><p>In früherer Zeit hätte er keinen Augenblick gezögert mit der<lb/>
+das Weib wie mit unerklärlicher Anziehungskraft näher zu Ihm hin.</p>
+            <p>»Sollte der Schmerz dennoch läutern können?« dachte der Mann,<lb/>
+als er in ihr klares und seltsam heiteres Gesicht blickte.</p>
+            <p>In früherer Zeit hätte er keinen Augenblick gezögert mit der<lb/>
 Antwort auf solche Frage. Der aus seinem persönlichen Frieden<lb/>
 geborene, oberflächliche Optimismus, wie er jetzt zu sagen pflegte,<lb/>
 erklärte früher mit verdächtiger Leichtigkeit die Reinigung durch<lb/>
@@ -78,13 +107,15 @@ Wachsthums, dass er in seinem Eifer ganz danach zu fragen vergass<lb/>
 — weshalb denn eine so grausame Bedingung an die unfreiwillige<lb/>
 Existenz des Menschen geknüpft sein müsse. Wäre es einer liebevollen<lb/>
 Allmacht nicht ebenso leicht gewesen, das Wachsthum zu einem<lb/>
-Kinde der Freude zu machen?</p><p>Damals hatte ein mit dem Gram vertrauterer älterer Freund ihn ge-<lb break="no"/>
+Kinde der Freude zu machen?</p>
+            <p>Damals hatte ein mit dem Gram vertrauterer älterer Freund ihn ge-<lb break="no"/>
 fragt: »Ist es denn wahr, dass das Leid stets oder wenigstens oft eine reini-<lb break="no"/>
 gende Wirkung in uns hervorbringt anstatt vielmehr eine erniedrigende?«<lb/>
 Unser Theoretiker philosophierte aber über den Schmerz unentwegt<lb/>
 weiter, weil er ihn nur aus Büchern — oder aus den Erfahrungen<lb/>
 seiner Freunde — kennen gelernt hatte. Noch war er nicht mit dem<lb/>
-rauhen Griff der Wirklichkeit in Berührung getreten.</p></div>
+rauhen Griff der Wirklichkeit in Berührung getreten.</p>
+         </div>
       </body>
    </text>
 </TEI>

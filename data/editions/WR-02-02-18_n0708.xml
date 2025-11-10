@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-18_n0708.xml"
-     prev="WR-02-02-18_n0707.xml"
-     next="WR-02-02-18_n0709.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-18_n0708.xml" prev="WR-02-02-18_n0707.xml" next="WR-02-02-18_n0709.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,13 +42,42 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 17</title>
+                  <idno>WR-02-02-17_n0641.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 19</title>
+                  <idno>WR-02-02-19_n0713.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">708</fw><fw type="ctext">RECLUS.</fw></fw><p rend="no-intend">dem zwitschernden Dialect der Creolen, welches manchmal anzuwenden<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">708</fw>
+               <fw type="ctext">RECLUS.</fw>
+            </fw>
+            <p rend="no-intend">dem zwitschernden Dialect der Creolen, welches manchmal anzuwenden<lb/>
 wir um Erlaubnis bitten. Wozu sollen die Zombi gewonnen werden?<lb/>
 Auf dass sie den Nebenbuhlern und Neidern schaden, die Feinde<lb/>
 würgen oder ihnen doch wenigstens übel mitspielen. Also nicht um<lb/>
@@ -67,7 +93,8 @@ ihn allzu leicht verwechselt. Lange Zeit trachtete man nur darnach,<lb/>
 angenehme Sensationen aufzufinden und unangenehme Sensationen<lb/>
 zu vermeiden. Es bedurfte einer gewissen Entwicklung, um zur<lb/>
 Erkenntnis intellectueller Perception und noch später zu moralischen<lb/>
-Gefühlen zu gelangen.</p><p>Ohne uns jetzt mit den zahllosen Freveln zu befassen, deren<lb/>
+Gefühlen zu gelangen.</p>
+            <p>Ohne uns jetzt mit den zahllosen Freveln zu befassen, deren<lb/>
 sich der Magier, seine Macht so viel er konnte missbrauchend,<lb/>
 schuldig machte, wollen wir die unvergesslichen Dienste anerkennen,<lb/>
 welche jene Leute unserer Gattung erwiesen haben, die man bei<lb/>
@@ -75,7 +102,8 @@ manchen Stämmen immer noch Dickschädel, Querköpfe, Gewitzte,<lb/>
 Schlaumeier, Kreuzköpfeln, »Leute, die noch was anderes können als<lb/>
 Eicheln fressen«, nennt. Der Magier war es, der mit seinen verworrenen<lb/>
 Hirngespinsten und langwierigen Proceduren unseren Vorfahren aus<lb/>
-brutaler Wildheit zu einer bereits intelligenten Barbarei herüberhalf.</p><p>Leidenschaft war die erste Veranlassung zu magischen Werken.<lb/>
+brutaler Wildheit zu einer bereits intelligenten Barbarei herüberhalf.</p>
+            <p>Leidenschaft war die erste Veranlassung zu magischen Werken.<lb/>
 Aber ausser Liebe oder Hass bedurfte es hiebei auch einer gewissen<lb/>
 Einsicht, jener ersten Wahrnehmungen, die sich später in Wissenschaft<lb/>
 umwandelten; die blinden Kräfte der Anziehung und Abstossung<lb/>
@@ -84,7 +112,11 @@ Sympathie und Antipathie setzt eine intime Kenntnis der Persönlichkeit<lb/>
 voraus, welche sie hervorgerufen hat. Das kommt in einer seltsamen<lb/>
 Redensart zum Ausdruck, nach welcher die Pläne des Zauberers<lb/>
 misslingen müssen, wenn er nicht weiss, wie der Vater des Mannes<lb/>
-hiess, dessen Untergang er beschlossen.</p><ab><title>III.</title></ab><p>Sich eines Menschen erinnern, heisst ihn beschwören und erscheinen<lb/>
+hiess, dessen Untergang er beschlossen.</p>
+            <ab>
+               <title>III.</title>
+            </ab>
+            <p>Sich eines Menschen erinnern, heisst ihn beschwören und erscheinen<lb/>
 lassen; seine Gestalt projiciert sich auf das Gehirn wie auf eine Wand,<lb/>
 verkleinert und winzig, wie jemand, der durch ein verkehrtes Opern-<lb break="no"/>
 glas betrachtet wird. Bis in die Neuzeit zweifelte man nicht daran,<lb/>
@@ -92,7 +124,8 @@ dass diese Erscheinungen, Erscheinungen der Seelen oder zum mindesten<lb/>
 ihrer Ausstrahlungen seien. Man stellt sich den Schatten als Gestalt<lb/>
 vor, welche die Griechen Eidolon nannten, das Idol oder Ideechen.<lb/>
 Ideen sind und bedeuten Visionen. Es tauchen zuerst concrete Ideen<lb/>
-scharf umrissen auf. Um sie in abstracte Ideen hinüberzuleiten bedarf</p></div>
+scharf umrissen auf. Um sie in abstracte Ideen hinüberzuleiten bedarf</p>
+         </div>
       </body>
    </text>
 </TEI>

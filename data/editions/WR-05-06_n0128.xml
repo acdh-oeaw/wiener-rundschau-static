@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-06_n0128.xml"
-     prev="WR-05-06_n0127.xml"
-     next="WR-05-06_n0129.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-06_n0128.xml" prev="WR-05-06_n0127.xml" next="WR-05-06_n0129.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,25 +41,43 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 5</title>
+                  <idno>WR-05-05_n0097.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 7</title>
+                  <idno>WR-05-07_n0141.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">KUHLENBECK: SCHOPENHAUER UND DER INDIVIDUALISMUS.</fw></fw><table><row><cell>
-<p rend="no-intend">sein. Der Faden kann nach dem Tode<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KUHLENBECK: SCHOPENHAUER UND DER INDIVIDUALISMUS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">sein. Der Faden kann nach dem Tode<lb/>
 wieder angeknüpft werden. <hi rend="text-spaced">Anderer-<lb break="no"/>
 seits ist für uns absolute Be-<lb break="no"/>
 wusstlosigkeit und absolutes<lb/>
 Nichtsein völlig gleichbedeutend</hi>.<lb/>
-<hi rend="text-spaced">Den berühmten Satz Berkeleys</hi>:<lb/>
-<hi rend="text-spaced">Esse est percipi</hi> (<hi rend="text-spaced">Sein ist Bewusst-<lb break="no"/>
+                        <hi rend="text-spaced">Den berühmten Satz Berkeleys</hi>:<lb/>
+                        <hi rend="text-spaced">Esse est percipi</hi> (<hi rend="text-spaced">Sein ist Bewusst-<lb break="no"/>
 sein</hi>) <hi rend="text-spaced">halten auch wir für eine<lb/>
 selbstverständliche Wahrheit</hi>;<lb/>
-<hi rend="text-spaced">wir wehren uns nur gegen seinen<lb/>
+                        <hi rend="text-spaced">wir wehren uns nur gegen seinen<lb/>
 solipsistischen Missbrauch</hi>, d. h.<lb/>
-<hi rend="text-spaced">wir halten daran fest</hi>, <hi rend="text-spaced">dass unser<lb/>
+                        <hi rend="text-spaced">wir halten daran fest</hi>, <hi rend="text-spaced">dass unser<lb/>
 Ich-Bewusstsein nicht alles Be-<lb break="no"/>
 wusstsein ist</hi>, <hi rend="text-spaced">dass also unend-<lb break="no"/>
 liches Sein-Bewusstsein über unser<lb/>
@@ -82,11 +97,11 @@ Willen Schopenhauers nicht abzusprechen;<lb/>
 denn wenn auch »blind«, ist er doch<lb/>
 Wille zum <hi rend="text-spaced">Leben</hi>, und dieser Wille, also<lb/>
 auch die ihm immanente Vorstellung des<lb/>
-<hi rend="text-spaced">Lebens</hi> wohnt selbst in dem »Lieben und<lb/>
+                        <hi rend="text-spaced">Lebens</hi> wohnt selbst in dem »Lieben und<lb/>
 Hassen« der chemischen Urstoffe, das<lb/>
 sich durch ihre »Wahlverwandtschaft«<lb/>
 äußert.</p>
-<p>Aber nach Schopenhauers Ansicht ist<lb/>
+                     <p>Aber nach Schopenhauers Ansicht ist<lb/>
 dieser Wille zum Leben ursprünglich<lb/>
 »dumm«, weil er eine Welt erzeugt, die<lb/>
 so reich an Übeln ist, und <hi rend="text-spaced">erst im<lb/>
@@ -103,10 +118,12 @@ Lehre von der All-Einheit des Willens<lb/>
 unlösbar bleibt und der nur durch unseren<lb/>
 (relativen) <hi rend="text-spaced">Individualismus</hi>, der frei-<lb break="no"/>
 lich zugleich ein relativ metaphysischer<lb/>
-<hi rend="text-spaced">Pluralismus</hi> ist, umgangen werden<lb/>
+                        <hi rend="text-spaced">Pluralismus</hi> ist, umgangen werden<lb/>
 kann. Denn nach Schopenhauer ist »der</p>
-</cell><cell>
-<p rend="no-intend"><hi rend="text-spaced">ganze</hi> Wille zum Leben im Individuum,<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">
+                        <hi rend="text-spaced">ganze</hi> Wille zum Leben im Individuum,<lb/>
 wie er im Geschlechte ist, und ist daher<lb/>
 die Fortdauer der Gattung bloß das Bild<lb/>
 der Unzerstörbarkeit des Individuums«<lb/>
@@ -117,10 +134,11 @@ wie vielfach bei Giordano Bruno: »Jedes<lb/>
 (Einzelwesen) ist ganz in ihr und sie ist<lb/>
 ganz in Jedem. In jedem Thiere hat sie<lb/>
 ihren Mittelpunkt« (Ebenda, I, S. 331).</p>
-<p><hi rend="text-spaced">Wenn aber dem so ist</hi>, <hi rend="text-spaced">so fragen<lb/>
+                     <p>
+                        <hi rend="text-spaced">Wenn aber dem so ist</hi>, <hi rend="text-spaced">so fragen<lb/>
 wir</hi>, <hi rend="text-spaced">wie kommt es</hi>, <hi rend="text-spaced">dass die Welt<lb/>
 immer noch besteht</hi>, <hi rend="text-spaced">obwohl auch</hi>,<lb/>
-<hi rend="text-spaced">von Schopenhauer selbst abge-<lb break="no"/>
+                        <hi rend="text-spaced">von Schopenhauer selbst abge-<lb break="no"/>
 sehen</hi>, <hi rend="text-spaced">der ihr zugrunde liegende<lb/>
 Wille zum Leben doch schon in<lb/>
 mehr als einem Individuum sich<lb/>
@@ -132,7 +150,7 @@ solchen fruchtlos gewesen. Diese Erwä-<lb break="no"/>
 gung aber hätte Schopenhauer zum meta-<lb break="no"/>
 physischen Individualisten in unserem<lb/>
 Sinne machen, d. h. ihn zur Anerkennung<lb/>
-<hi rend="text-spaced">unserer</hi> Behauptung bewegen müssen,<lb/>
+                        <hi rend="text-spaced">unserer</hi> Behauptung bewegen müssen,<lb/>
 dass unser transcendentales Subject nicht<lb/>
 unmittelbar mit der metaphysischen Welt-<lb break="no"/>
 einheit zusammenfällt, dass »die Wurzel<lb/>
@@ -144,7 +162,7 @@ individualisiert</hi>, <hi rend="text-spaced">sondern sich<lb/>
 bereits in einem weit vor dieser<lb/>
 zurückliegenden Stadium vom<lb/>
 Allgemeinen abgelöst hat</hi>.</p>
-<p>Dass Schopenhauer, zumal in der letzten<lb/>
+                     <p>Dass Schopenhauer, zumal in der letzten<lb/>
 Epoche seiner Philosophie, von diesem<lb/>
 unserem Schritte zu einem (relativen)<lb/>
 Individualismus nicht mehr fern gewesen<lb/>
@@ -152,7 +170,8 @@ ist, beweist nicht nur seine »Epiphilosophie«<lb/>
 (Frauenstädt II, S. 737). Auch in seinen<lb/>
 »Bemerkungen zur Ethik«, § 117 (Parer-<lb break="no"/>
 gon II, S. 243, Frauenstädt) findet sich<lb/>
-folgender bemerkenswerter Satz: »<hi rend="text-spaced">Hieraus</hi><lb/>
+folgender bemerkenswerter Satz: »<hi rend="text-spaced">Hieraus</hi>
+                        <lb/>
 (aus der Nothwendigkeit des empirischen<lb/>
 Charakters) <hi rend="text-spaced">folgt nun ferner</hi>, <hi rend="text-spaced">dass die<lb/>
 Individualität nicht allein auf<lb/>
@@ -160,7 +179,10 @@ dem Principium individuationis<lb/>
 beruht und daher nicht durch und<lb/>
 durch bloße Erscheinung ist</hi>, <hi rend="text-spaced">son-<lb break="no"/>
 dern dass sie im Dinge an sich</hi>,</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

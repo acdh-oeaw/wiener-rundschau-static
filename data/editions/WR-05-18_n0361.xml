@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-18_n0361.xml"
-     prev="WR-05-18_n0360.xml"
-     next="WR-05-18_n0362.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-18_n0361.xml" prev="WR-05-18_n0360.xml" next="WR-05-18_n0362.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,18 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 17</title>
+                  <idno>WR-05-17_n0327.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">RUNDSCHAU.</fw></fw><table><row><cell>
-<p>Ich setze endlich einige biogra-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">RUNDSCHAU.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Ich setze endlich einige biogra-<lb break="no"/>
 phische Daten her, die ich meinem<lb/>
 Freund, dem Maler Würtenberger,<lb/>
 verdanke.</p>
-<p>Hans von Marées ist geboren in<lb/>
+                     <p>Hans von Marées ist geboren in<lb/>
 Elberfeld <date>1837</date>, gestorben in Rom <date>1889</date>.<lb/>
 Er studierte in München, gieng dann<lb/>
 nach Italien, wo er dauernd blieb. Er<lb/>
@@ -72,8 +83,9 @@ etwas Fascinierendes. »Schöne Reden<lb/>
 über Kunst, ja, die konnte er halten«,<lb/>
 sagte Frau Böcklin von ihm. (!) Von<lb/>
 Gestalt war er mittelgroß und fein-</p>
-</cell><cell>
-<p rend="no-intend">gliedrig. (Sein wundervolles Selbst-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">gliedrig. (Sein wundervolles Selbst-<lb break="no"/>
 bildnis in Schleißheim ist vielleicht die<lb/>
 größte und einfachste Lösung des<lb/>
 Problems eines Maler-Selbstbildnisses,<lb/>
@@ -88,14 +100,26 @@ würdig zusammengepfercht und schlecht<lb/>
 beleuchtet hängenden Bilder. Hoffen wir,<lb/>
 dass ihnen endlich in der Pinakothek<lb/>
 eine würdige Aufstellung zutheil wird!</p>
-<p>Marées hat, bis Fiedler kam und<lb/>
+                     <p>Marées hat, bis Fiedler kam und<lb/>
 half, den in Deutschland selbstverständ-<lb break="no"/>
 lichen Kampf des Künstlers um die<lb/>
 Existenz in schnödester Form mit den<lb/>
 »übrigen Menschen« theilen müssen.</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/><milestone unit="untyped-start"/><ab><title><hi rend="text-spaced">RUNDSCHAU</hi>.</title></ab><table><row><cell>
-<milestone unit="untyped-start"/>
-<p>Die philosophische Kritik beginnt sich<lb/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">RUNDSCHAU</hi>.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="untyped-start"/>
+                     <p>Die philosophische Kritik beginnt sich<lb/>
 bereits mit der Verwertung der Resultate<lb/>
 physikalischer Forschung zu beschäf-<lb break="no"/>
 tigen. Während man dem geistigen<lb/>
@@ -121,8 +145,9 @@ Jahrbüchern«. Die Stellung und Bedeu-<lb break="no"/>
 tung der Materie in den Systemen der<lb/>
 Eleaten, des Aristoteles, Leibnitz, Kant<lb/>
 und Schopenhauer wird kurz erörtert, der</p>
-</cell><cell>
-<p>Wert der beiden allein möglichen Con-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p>Wert der beiden allein möglichen Con-<lb break="no"/>
 stitutions-Hypothesen (Atomismus und ma-<lb break="no"/>
 terielles [unendliches] Continuum) deutlich<lb/>
 gemacht. Hieran schließen sich die Folge-<lb break="no"/>
@@ -148,7 +173,10 @@ und den Vertretern des Continuitäts-<lb break="no"/>
 princips gewonnen ist. Die Corpuskeln<lb/>
 sind frei sich durcheinander verschlingende<lb/>
 und durcheinander gleitende Flüssigkeits-</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-06_n0138.xml"
-     prev="WR-05-06_n0137.xml"
-     next="WR-05-06_n0139.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-06_n0138.xml" prev="WR-05-06_n0137.xml" next="WR-05-06_n0139.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 5</title>
+                  <idno>WR-05-05_n0097.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 7</title>
+                  <idno>WR-05-07_n0141.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">RUNDSCHAU.</fw></fw><table><row><cell>
-<p rend="no-intend">der Bühne des königlichen »Dramatischen<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">RUNDSCHAU.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">der Bühne des königlichen »Dramatischen<lb/>
 Theaters« zu Stockholm (und, wie Emil Schering<lb/>
 meldet, auch in einigen deutschen Theatern)<lb/>
 zur Darstellung gelangen. Auf der nämlichen<lb/>
@@ -61,7 +76,8 @@ Theil I) statt, dessen <hi rend="italics">Mise-en-Scène</hi> in techni-<lb brea
 scher Beziehung Neues und Interessantes bot.<lb/>
 Diese Aufführung hat nämlich die Construierung<lb/>
 einer besonderen Coulissenmechanik noth-<lb break="no"/>
-wendig gemacht, einer <hi rend="text-spaced">Strindberg-Bühne</hi><lb/>
+wendig gemacht, einer <hi rend="text-spaced">Strindberg-Bühne</hi>
+                        <lb/>
 Nr. II, wie man sie wohl nennen darf, wenn<lb/>
 man das intime Theater, das der Dichter in<lb/>
 seiner Vorrede zu »Comtesse Julie« fordert,<lb/>
@@ -100,22 +116,24 @@ denen die Theaterregie lediglich eine dem<lb/>
 Bühnengemäßen angepasste und entsprechend<lb/>
 stilisierte Bildnerkunst scheint.** Verwandte<lb/>
 ästhetische Grundsätze werden für die Schöpfung<lb/>
-einer rein decorativen <hi rend="text-spaced">Maeterlinck-Bühne</hi><lb/>
+einer rein decorativen <hi rend="text-spaced">Maeterlinck-Bühne</hi>
+                        <lb/>
 maßgebend sein, die im Herbst des vergangenen<lb/>
 Jahres — nur eben mit allzu ärmlichen Mitteln<lb/>
 und ohne die Assistenz eines einheitlich ge-<lb break="no"/>
 bildeten Geschmacks — von jungen Berlinern<lb/>
 versucht wurde.***</p>
-<p>Der düsteren und sprunghaften, sozusagen:<lb/>
+                     <p>Der düsteren und sprunghaften, sozusagen:<lb/>
 kaleidoskopischen Phantastik des Strindberg-<lb break="no"/>
 schen Gewissensspiels suchte man nun auf der<lb/>
 königlichen Bühne Stockholms technisch in<lb/>
-<hi rend="text-spaced">der</hi> Weise gerecht zu werden, dass man nächst<lb/>
+                        <hi rend="text-spaced">der</hi> Weise gerecht zu werden, dass man nächst<lb/>
 dem vordersten Coulissenpaar ein »inneres<lb/>
 Proscenium« in Gestalt einer halbzerfallenen,<lb/>
 triumphbogenförmigen, antiken Mauer an-</p>
-</cell><cell>
-<p rend="no-intend">brachte, die den Bühnenvorgängen eine passe-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">brachte, die den Bühnenvorgängen eine passe-<lb break="no"/>
 partoutartige Umrahmung und durch diese<lb/>
 Umrahmung einen visionären, malerischen<lb/>
 Charakter gab. Über der Mauer sah man ein<lb/>
@@ -141,11 +159,13 @@ Vergangenheit, die Bilanzierung seines Lebens,<lb/>
 die Revidierung seines seelischen Gewinn- und<lb/>
 Verlustcontos schildert) zu einer concreten,<lb/>
 stilgemäßen Phantastik zu steigern.</p>
-<p><rs type="person" key="">ANT. L—r</rs>.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="asterisk"/>
-<milestone unit="untyped-start"/>
-<p><hi rend="text-spaced">Goethes Sensitivität</hi>. Hierüber<lb/>
+                     <p>
+                        <rs type="person" key="">ANT. L—r</rs>.</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="asterisk"/>
+                     <milestone unit="untyped-start"/>
+                     <p>
+                        <hi rend="text-spaced">Goethes Sensitivität</hi>. Hierüber<lb/>
 schreibt uns Prof. Max <hi rend="text-spaced">Seiling</hi> (Pasing<lb/>
 bei München): Einen triftigen Beweis für<lb/>
 Goethes große Sensitivität liefert Ecker-<lb break="no"/>
@@ -159,7 +179,8 @@ würdigen Wahrtraum erzählt, erwiderte Goethe:<lb/>
 »Dergleichen liegt sehr wohl in der Natur,<lb/>
 wenn wir auch dazu noch nicht den rechten<lb/>
 Schlüssel haben. Wir wandeln alle in Geheim-<lb break="no"/>
-nissen. Wir sind von einer <hi rend="text-spaced">Atmosphäre</hi><lb/>
+nissen. Wir sind von einer <hi rend="text-spaced">Atmosphäre</hi>
+                        <lb/>
 umgeben, von der wir noch gar nicht wissen,<lb/>
 was sich alles in ihr regt und wie es mit<lb/>
 unserem Geiste in Verbindung steht. Soviel<lb/>
@@ -180,11 +201,15 @@ ich einen Mann gekannt, der, ohne ein Wort<lb/>
 zu sagen, durch bloße Geistesgewalt eine in<lb/>
 heiteren Gesprächen begriffene Gesellschaft<lb/>
 plötzlich still zu machen imstande war. Ja er</p>
-</cell></row></table><note type="footnote">
-<p>* Theilweise in diesen Blättern (III, 1, 2, 4) erschienen.</p>
-<p>** Vgl. die Bestrebungen des Malers Professors Peter Behrens, »W. K.«, IV, 12, 14.</p>
-<p>*** »W. R.«, IV, 14, 15.</p>
-</note></div>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Theilweise in diesen Blättern (III, 1, 2, 4) erschienen.</p>
+               <p>** Vgl. die Bestrebungen des Malers Professors Peter Behrens, »W. K.«, IV, 12, 14.</p>
+               <p>*** »W. R.«, IV, 14, 15.</p>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

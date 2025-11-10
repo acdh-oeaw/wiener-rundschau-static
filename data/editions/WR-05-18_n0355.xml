@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-18_n0355.xml"
-     prev="WR-05-18_n0354.xml"
-     next="WR-05-18_n0356.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-18_n0355.xml" prev="WR-05-18_n0354.xml" next="WR-05-18_n0356.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,28 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 17</title>
+                  <idno>WR-05-17_n0327.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">WEISS: HANS VON MARÉES.</fw></fw><table><row><cell>
-<p rend="no-intend">gemeinsamen Abschluss bildete, war<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">WEISS: HANS VON MARÉES.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">gemeinsamen Abschluss bildete, war<lb/>
 mit Kränzen ausgeschmückt. Diese<lb/>
 Arbeit war, ehe sie Marées mit Firnis-<lb break="no"/>
 farbe übergieng, von einer solchen<lb/>
@@ -71,7 +82,7 @@ stellen, dass etwa die griechischen<lb/>
 Meister, denen die pompejanischen<lb/>
 Handwerker ihre Darstellungen ent-<lb break="no"/>
 lehnten, ähnlich gemalt haben müssten.</p>
-<p>Genau dasselbe war im Winter<lb/>
+                     <p>Genau dasselbe war im Winter<lb/>
 1884/85 mit dem dreitheiligen Hespe-<lb break="no"/>
 ridenbilde der Fall, welches in den<lb/>
 Fiedler’schen Lichtdrucktafeln die Num-<lb break="no"/>
@@ -79,7 +90,7 @@ mern 5 und 6 trägt. Nur kam hier die<lb/>
 Kunst Marées’ in ihren rein bildneri-<lb break="no"/>
 schen Absichten noch voller und klarer<lb/>
 zum Ausdrucke.</p>
-<p>Und diese in ihrer Art ganz gewiss<lb/>
+                     <p>Und diese in ihrer Art ganz gewiss<lb/>
 einzigen Leistungen sind für immer<lb/>
 dahin! — Wer mag über dieses merk-<lb break="no"/>
 würdige und tieftraurige künstlerische<lb/>
@@ -94,7 +105,7 @@ Verständnis«, pflegte er zu sagen,<lb/>
 »gibt es nur ein vollgiltiges Zeug-<lb break="no"/>
 nis: die gleichwertige künstlerische<lb/>
 Leistung.« (P.)</p>
-<p>Wir stehen vor diesen Bildern, die<lb/>
+                     <p>Wir stehen vor diesen Bildern, die<lb/>
 nach diesem Urtheil als Ruinen anzu-<lb break="no"/>
 sehen sind, wie vor Offenbarungen.<lb/>
 Die Unmöglichkeit, das einmal Erreichte<lb/>
@@ -104,9 +115,10 @@ späteren Geistestrübung Marées und<lb/>
 der Keim seines Unterganges. Er war<lb/>
 ein Opfer der Probleme, die er sich<lb/>
 selbst gestellt hatte.</p>
-<milestone unit="asterisk"/>
-</cell><cell>
-<p>Seine Bilder entstanden zur Zeit<lb/>
+                     <milestone unit="asterisk"/>
+                  </cell>
+                  <cell>
+                     <p>Seine Bilder entstanden zur Zeit<lb/>
 der allerödesten »Münchenerei«, und<lb/>
 später zu der Zeit, als in Deutschland<lb/>
 das Feuer ausbrach, dessen Funken<lb/>
@@ -146,8 +158,8 @@ nur er sagen kann, durch seine Natur,<lb/>
 und soll durch höchste Reinheit seiner<lb/>
 Einzelnatur dem Ganzen stumm, <hi rend="text-spaced">ab-<lb break="no"/>
 sichtslos</hi> dienen.</p>
-<milestone unit="asterisk"/>
-<p>Ich fühle, er hat, obwohl nichts<lb/>
+                     <milestone unit="asterisk"/>
+                     <p>Ich fühle, er hat, obwohl nichts<lb/>
 weniger als ein Techniker in dem<lb/>
 Sinne, den man gewöhnlich mit diesem<lb/>
 Wort verbindet, am meisten von allen<lb/>
@@ -158,7 +170,10 @@ ergänzenden Mitteln, complementären<lb/>
 Klängen, Dichtigkeiten und Dünnflüssig-<lb break="no"/>
 keiten, alle Rundungen, Wölbungen,<lb/>
 Flächen und Ecken der Körper aufge-</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-15_n0311.xml"
-     prev="WR-05-15_n0310.xml"
-     next="WR-05-15_n0312.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-15_n0311.xml" prev="WR-05-15_n0310.xml" next="WR-05-15_n0312.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,16 +41,34 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 14</title>
+                  <idno>WR-05-14_n0279.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 16</title>
+                  <idno>WR-05-16_n0313.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">RUNDSCHAU.</fw></fw><table><row><cell>
-<p rend="no-intend">den sie erinnern; nur durch diese Symbolik<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">RUNDSCHAU.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">den sie erinnern; nur durch diese Symbolik<lb/>
 erscheint sie schön.</p>
-<p>Eine Folge dieser <hi rend="text-spaced">Lotze</hi>’schen Kritik<lb/>
+                     <p>Eine Folge dieser <hi rend="text-spaced">Lotze</hi>’schen Kritik<lb/>
 war das Loslösen <hi rend="text-spaced">Brahms</hi>’ von der neu-<lb break="no"/>
 deutschen Affectsmusik. Hingegen liegt die<lb/>
 Schwäche der Hanslick’schen Auffassung in<lb/>
@@ -70,17 +85,19 @@ des »Musikalisch-Schönen« bedeutet Einseitig-<lb break="no"/>
 keit des Standpunktes. — Viel tiefer gelangt<lb/>
 der Musikhistoriker <hi rend="text-spaced">Ambros</hi> (»Grenzen der<lb/>
 Musik und Poesie« <date>1872</date>), der in der als reines</p>
-</cell><cell>
-<p rend="no-intend">Formwesen aufgefassten Musik geradezu das<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Formwesen aufgefassten Musik geradezu das<lb/>
 Wesen der Schönheit selbst erblickt, indem<lb/>
 sich diese durch das Ausschließen alles stoff-<lb break="no"/>
 artigen Interesses dem <hi rend="text-spaced">Kant</hi>’schen Schönheits-<lb break="no"/>
 begriff sehr nähert.</p>
-<p>Der Irrthum Hanslicks beruht darin, dass<lb/>
+                     <p>Der Irrthum Hanslicks beruht darin, dass<lb/>
 er in der Welt des musikalisch Wahrnehmbaren<lb/>
 alles Musik-Ästhetische erschöpft zu haben<lb/>
 glaubte und in gänzlich unpsychologischer<lb/>
-Weise auf die Notwendigkeit der <hi rend="text-spaced">Deutung</hi><lb/>
+Weise auf die Notwendigkeit der <hi rend="text-spaced">Deutung</hi>
+                        <lb/>
 des Wahrnehmbaren verzichtete. — Aus dem<lb/>
 Sichtbar-Bewegten auf das Hörbar-Bewegte zu<lb/>
 schließen —wie dies <hi rend="text-spaced">Jul</hi>. <hi rend="text-spaced">Milthaier</hi> versuchte<lb/>
@@ -90,11 +107,30 @@ physisch unrichtig. Milthaler nähert sich <hi rend="text-spaced">Kant</hi>,<lb/
 indem er den Schwerpunkt in das genießende<lb/>
 Subject verlegt, übersieht aber den Wert einer<lb/>
 Selbst-Projection in den Geist des Componisten.</p>
-<p><rs type="person" key="">β</rs></p>
-<milestone unit="untyped-end"/>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/><milestone unit="hr"/><milestone unit="editorialStatement-start"/><p><hi rend="text-spaced">Nachtrag</hi>. Das in der letzten Nummer besprochene Werk von Prof. <hi rend="text-spaced">Jos</hi>. <hi rend="text-spaced">Schlesinger</hi><lb/>
-ist im Verlage der Hofbuchhandlung von <hi rend="text-spaced">Carl Siegismund</hi> in <hi rend="text-spaced">Berlin</hi> erschienen.</p><p><hi rend="text-spaced">Berichtigung</hi>: In der vorigen Nummer (14) wurde als Autor des Artikels: »Die Sonne«<lb/>
-<hi rend="text-spaced">irrthümlicher</hi> Weise der Name des <hi rend="text-spaced">Übersetzers</hi> (O. Bryk) angegeben.</p><milestone unit="untyped-end"/><milestone unit="hr"/><milestone unit="imprint-start"/><p>Verantwortl. Redacteur: R. Dworschak. — K. k. Hoftheater-Druckerei, Wien, I., Wollzeile 17. (Verantwortl. A. Rimrich.)</p><milestone unit="untyped-end"/></div>
+                     <p>
+                        <rs type="person" key="">β</rs>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="hr"/>
+            <milestone unit="editorialStatement-start"/>
+            <p>
+               <hi rend="text-spaced">Nachtrag</hi>. Das in der letzten Nummer besprochene Werk von Prof. <hi rend="text-spaced">Jos</hi>. <hi rend="text-spaced">Schlesinger</hi>
+               <lb/>
+ist im Verlage der Hofbuchhandlung von <hi rend="text-spaced">Carl Siegismund</hi> in <hi rend="text-spaced">Berlin</hi> erschienen.</p>
+            <p>
+               <hi rend="text-spaced">Berichtigung</hi>: In der vorigen Nummer (14) wurde als Autor des Artikels: »Die Sonne«<lb/>
+               <hi rend="text-spaced">irrthümlicher</hi> Weise der Name des <hi rend="text-spaced">Übersetzers</hi> (O. Bryk) angegeben.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="imprint-start"/>
+            <p>Verantwortl. Redacteur: R. Dworschak. — K. k. Hoftheater-Druckerei, Wien, I., Wollzeile 17. (Verantwortl. A. Rimrich.)</p>
+            <milestone unit="untyped-end"/>
+         </div>
       </body>
    </text>
 </TEI>

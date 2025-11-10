@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-03_n0109.xml"
-     prev="WR-02-01-03_n0108.xml"
-     next="WR-02-01-03_n0110.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-03_n0109.xml" prev="WR-02-01-03_n0108.xml" next="WR-02-01-03_n0110.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,13 +42,42 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 2</title>
+                  <idno>WR-02-01-02_n0041.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 4</title>
+                  <idno>WR-02-01-04_n0121.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">DIE INNERE SCHÖNHEIT.</fw><fw type="pn">109</fw></fw><p rend="no-intend">nacht ist. Unruhe bemächtigt sich Aller, und die Gesichter lächeln<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DIE INNERE SCHÖNHEIT.</fw>
+               <fw type="pn">109</fw>
+            </fw>
+            <p rend="no-intend">nacht ist. Unruhe bemächtigt sich Aller, und die Gesichter lächeln<lb/>
 oder zeigen Erstaunen. Aber habt ihr denn nie in solchen Momenten<lb/>
 gefühlt, mit welch vereinter Kraft alle Seelen bewundern und wie die<lb/>
 schwächste unter ihnen aus ihrem Kerker heraus unsagbar dem Worte<lb/>
@@ -70,7 +96,8 @@ werden, und ihre blosse Gegenwart wird von da an etwas Erhabenes<lb/>
 Wechsel stattgefunden, den man nicht näher bestimmen kann. Die<lb/>
 untergeordneten Dinge werden nicht mehr dieselbe ausschliessliche<lb/>
 Kraft haben, und die erschreckten Seelen wissen, dass es irgendwo<lb/>
-eine Zufluchtsstätte gibt. — — —</p><p>Es ist ganz gewiss, dass die ursprünglichen und natürlichen Be-<lb break="no"/>
+eine Zufluchtsstätte gibt. — — —</p>
+            <p>Es ist ganz gewiss, dass die ursprünglichen und natürlichen Be-<lb break="no"/>
 ziehungen von Seele zu Seele Schönheitsbeziehungen sind. Die Schön-<lb break="no"/>
 heit ist die einzige Sprache unserer Seelen. Sie verstehen keine andere.<lb/>
 Sie haben kein anderes Leben, sie können nichts Anderes hervor-<lb break="no"/>
@@ -93,9 +120,11 @@ wenden, der sich verneigte und zu lieben verstand. Euere Seele hatte<lb/>
 in ihren Tiefen geurtheilt, und dieses lautlose, unfehlbare Urtheil wird<lb/>
 vielleicht dreissig Jahre nachher an die Oberfläche steigen und euch<lb/>
 zu einer Schwester schicken, in der mehr von euch ist als in euerem<lb/>
-ganzen Selbst, weil sie der Schönheit näher war.</p><p>Es gehört so wenig dazu, die Schönheit einer Seele zu er-<lb break="no"/>
+ganzen Selbst, weil sie der Schönheit näher war.</p>
+            <p>Es gehört so wenig dazu, die Schönheit einer Seele zu er-<lb break="no"/>
 muthigen. Es gehört so wenig dazu, die schlafenden Engel zu wecken.<lb/>
-Man braucht sie vielleicht nicht einmal zu wecken — es genügt schon,</p></div>
+Man braucht sie vielleicht nicht einmal zu wecken — es genügt schon,</p>
+         </div>
       </body>
    </text>
 </TEI>

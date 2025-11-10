@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-05_n0098.xml"
-     prev="WR-05-05_n0097.xml"
-     next="WR-05-05_n0099.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-05_n0098.xml" prev="WR-05-05_n0097.xml" next="WR-05-05_n0099.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,27 +41,46 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 4</title>
+                  <idno>WR-05-04_n0077.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 6</title>
+                  <idno>WR-05-06_n0115.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>SCHLECHTES BLUT. (AUS »UNE SAISON EN ENFER«.)</title></ab><table><row><cell>
-<p>Ich habe von meinen gallischen<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>SCHLECHTES BLUT. (AUS »UNE SAISON EN ENFER«.)</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Ich habe von meinen gallischen<lb/>
 Vorfahren das helle, blaue Auge, das<lb/>
 enge Gehirn und die Ungeschicklich-<lb break="no"/>
 keit im Kampf. Ich finde meine Kleidung<lb/>
 gerade so roh wie die ihre. Aber ich<lb/>
 buttere meine Haare nicht.</p>
-<p>Die Gallier waren Thierschinder,<lb/>
+                     <p>Die Gallier waren Thierschinder,<lb/>
 die albernsten Grasbrenner ihrer Zeit.<lb/>
 Von ihnen hab’ ich: Abgötterei und die<lb/>
 Liebe zur Lästerung: — o! alle Ver-<lb break="no"/>
 brechen, Zorn, Wollust — wunderbar,<lb/>
 die Wollust; — vor allem die Lüge<lb/>
 und die Faulheit.</p>
-<p>Ich verabscheue alle Berufe. Herren<lb/>
+                     <p>Ich verabscheue alle Berufe. Herren<lb/>
 und Arbeiter, alles Bauern, gemeine<lb/>
 Kerle. Die Hand mit der Feder ist so<lb/>
 gut wie die Hand am Pflug. — Welches<lb/>
@@ -75,7 +91,7 @@ liegend. Die Anständigkeit der Lügnerei<lb/>
 ist eine Qual. Die Verbrecher ekeln<lb/>
 mich wie Beschnittene: ich — ich bin<lb/>
 intact, und das ist mir gleichgiltig.</p>
-<p>Aber! Wer hat meine Zunge so<lb/>
+                     <p>Aber! Wer hat meine Zunge so<lb/>
 hinterlistig gemacht, dass sie bis jetzt<lb/>
 meine Faulheit geführt und gehütet<lb/>
 hat? Ohne selbst meinen Körper zu<lb/>
@@ -86,20 +102,21 @@ kenne. — Ich höre von Familien, wie<lb/>
 die meine, die alles von der Erklärung<lb/>
 der Menschenrechte haben. — Ich habe<lb/>
 jeden Familiensohn gekannt.</p>
-<milestone unit="asterisk"/>
-<p>Wenn ich an irgendeinem Punkt<lb/>
+                     <milestone unit="asterisk"/>
+                     <p>Wenn ich an irgendeinem Punkt<lb/>
 der Geschichte Frankreichs Vorfahren<lb/>
 fände!</p>
-<p>Aber nein, nichts!</p>
-<p>Es ist mir ganz klar, dass ich<lb/>
+                     <p>Aber nein, nichts!</p>
+                     <p>Es ist mir ganz klar, dass ich<lb/>
 immer inferiore Rasse gewesen bin.<lb/>
 Ich kann den Aufruhr nicht verstehen.<lb/>
 Meine Rasse wird sich nie erheben,<lb/>
 als um zu plündern: wie die Wölfe<lb/>
 das Thier, das sie nicht getödtet<lb/>
 haben.</p>
-</cell><cell>
-<p>Ich rufe mir die Geschichte Frank-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p>Ich rufe mir die Geschichte Frank-<lb break="no"/>
 reichs zurück, der ältesten Tochter<lb/>
 der Kirche. Ich Bauer hatte die Reise<lb/>
 nach dem heiligen Land gemacht: ich<lb/>
@@ -114,10 +131,10 @@ und den Nesseln am Fuße einer von<lb/>
 der Sonne gedörrten Mauer. — Später<lb/>
 habe ich als Reiter unter den Nächten<lb/>
 Deutschlands bivouakiert.</p>
-<p>Ah! und: Ich tanze den Sabbath in<lb/>
+                     <p>Ah! und: Ich tanze den Sabbath in<lb/>
 einer rothen Lichtung, mit Alten und<lb/>
 Kindern.</p>
-<p>Ich erinnere mich nicht weiter als<lb/>
+                     <p>Ich erinnere mich nicht weiter als<lb/>
 diese Erde da und das Christenthum. Ich<lb/>
 werde nicht aufhören, mich in diesem<lb/>
 Vergangenen wiederzusehen. Aber immer<lb/>
@@ -126,14 +143,14 @@ Sprache spreche ich? Ich sehe mich<lb/>
 niemals in den Rathsstunden Christi,<lb/>
 noch in den Rathsversammlungen der<lb/>
 edlen Herren — Repräsentanten Christi!</p>
-<p>Wer war ich im letzten Jahr-<lb break="no"/>
+                     <p>Wer war ich im letzten Jahr-<lb break="no"/>
 hundert? Ich finde mich nur im Heute.<lb/>
 Keine Vagabunden, keine vagen Kriege<lb/>
 mehr. Die inferiore Rasse hat alles<lb/>
 bedeckt — das Volk hat, wie man<lb/>
 sagt, Recht: die Nation und die Wissen-<lb break="no"/>
 schaft!</p>
-<p>O! die Wissenschaft! Man hat<lb/>
+                     <p>O! die Wissenschaft! Man hat<lb/>
 alles wieder angefangen. Für den Leib<lb/>
 und die Seele — die Zehrung — hat<lb/>
 man die Medicin und die Philosophie,<lb/>
@@ -141,13 +158,17 @@ man die Medicin und die Philosophie,<lb/>
 die arrangierten Volkslieder. Und die<lb/>
 Zerstreuungen der Fürsten und die<lb/>
 Spiele, die sie untersagten! Geographie,<lb/>
-Kosmographie, Mechanik, Chemie! <milestone unit="3dots"/></p>
-<p>Die Wissenschaft, der neue Adel,<lb/>
+Kosmographie, Mechanik, Chemie! <milestone unit="3dots"/>
+                     </p>
+                     <p>Die Wissenschaft, der neue Adel,<lb/>
 der Fortschritt, die Welt geht voran!<lb/>
 Warum sollte sie nicht umkehren?<lb/>
 Das macht die Anschauung der Zahlen.<lb/>
 Wir sind unterwegs zum Esprit. Das</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

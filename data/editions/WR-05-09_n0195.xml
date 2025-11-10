@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-09_n0195.xml"
-     prev="WR-05-09_n0194.xml"
-     next="WR-05-09_n0196.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-09_n0195.xml" prev="WR-05-09_n0194.xml" next="WR-05-09_n0196.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 8</title>
+                  <idno>WR-05-08_n0159.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 10</title>
+                  <idno>WR-05-10_n0205.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BRYK: ZUM VERSTÄNDNIS DER PROJECTIONS-ERSCHEINUNGEN.</fw></fw><table><row><cell>
-<p rend="no-intend">der Urtheilskraft die Aufmerksamkeit darauf<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BRYK: ZUM VERSTÄNDNIS DER PROJECTIONS-ERSCHEINUNGEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">der Urtheilskraft die Aufmerksamkeit darauf<lb/>
 gelenkt, dass den ästhetischen Urtheilen<lb/>
 Allgemeingiltigkeit nur im Sinne der Sub-<lb break="no"/>
 jectsbetheiligung zukomme. Nicht die ob-<lb break="no"/>
@@ -75,13 +90,14 @@ seinen Oberflächenerscheinungen und Unter-<lb break="no"/>
 strömungen in das Riesenhafte vergrößert<lb/>
 hat, welches mit der Welt, die es durch-<lb break="no"/>
 dringt, vergeistigt, — wieder zusammenfällt?</p>
-<p>Das Wesen dieser Bewusstseins-Pro-<lb break="no"/>
+                     <p>Das Wesen dieser Bewusstseins-Pro-<lb break="no"/>
 jectionen tritt am deutlichsten in der Form<lb/>
 des musikalischen Schaffens zutage. Während<lb/>
 alle übrigen Künste ihre formalen Elemente<lb/>
 der Außenwelt entnehmen und durch Stoff<lb/>
 und Mittel ihres Gestaltungsgebietes eng<lb/>
-und stetig mit ihr in Contact treten, <hi rend="text-spaced">bleibt</hi><lb/>
+und stetig mit ihr in Contact treten, <hi rend="text-spaced">bleibt</hi>
+                        <lb/>
 die Musik in ihrem Verhältnis zum inneren<lb/>
 Sinn umso reiner, je mehr es ihr gelingt,<lb/>
 sich dem individuellen Bewusstseins-Fluss<lb/>
@@ -93,7 +109,7 @@ ihre adäquate Wiedergabe (Projection)<lb/>
 auf musikalischem Wege nicht nur über-<lb break="no"/>
 haupt, sondern — möchte man fast sagen<lb/>
 — allein möglich wird.</p>
-<p>Das Ich selbst muss als untheilbarer,<lb/>
+                     <p>Das Ich selbst muss als untheilbarer,<lb/>
 ausdehnungsloser Punkt aufgefasst werden,<lb/>
 gegen den alles Empfundene convergiert,<lb/>
 von dem aus alles Begehrte divergiert,<lb/>
@@ -105,8 +121,9 @@ geketteten Bewusstseins-Elemente tritt in<lb/>
 den musikalischen Kunstformen in die Er-<lb break="no"/>
 scheinung. Um dies zu begreifen, muss man<lb/>
 sich daran erinnern, dass die Musik ihrer</p>
-</cell><cell>
-<p rend="no-intend">psychologischen Aufgabe erst gerecht zu<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">psychologischen Aufgabe erst gerecht zu<lb/>
 werden begann, als der polyphone Aus-<lb break="no"/>
 drucks-Apparat seine technische Höhe be-<lb break="no"/>
 reits erreicht hatte. Von der Zeit des<lb/>
@@ -150,7 +167,7 @@ psychische Element der Musik am reinsten:<lb/>
 Musik ist Selbstprojection, die polyphonen<lb/>
 Kunstformen gleichzeitig Form der Selbst-<lb break="no"/>
 projection.</p>
-<p>Da diese Erörterungen nur als die<lb/>
+                     <p>Da diese Erörterungen nur als die<lb/>
 ersten, unsicheren Schritte in ein wenig<lb/>
 betretenes Gebiet zu betrachten sind, so<lb/>
 wäre es verfrüht, ein ästhetisches System<lb/>
@@ -160,7 +177,10 @@ und Kunstformen sauber und subtil nach-<lb break="no"/>
 zuweisen sich bemühte. Vielleicht darf es<lb/>
 für den ersten Augenblick genügend ge-<lb break="no"/>
 wesen sein, Projections-Phänomene in den</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

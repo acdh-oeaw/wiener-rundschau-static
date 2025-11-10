@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-08_n0161.xml"
-     prev="WR-05-08_n0160.xml"
-     next="WR-05-08_n0162.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-08_n0161.xml" prev="WR-05-08_n0160.xml" next="WR-05-08_n0162.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 7</title>
+                  <idno>WR-05-07_n0141.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 9</title>
+                  <idno>WR-05-09_n0189.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">MAETERLINCK: DER GEIST DER BIENEN.</fw></fw><table><row><cell>
-<p rend="no-intend">vorausgeschickt werden, dass schon vor<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MAETERLINCK: DER GEIST DER BIENEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">vorausgeschickt werden, dass schon vor<lb/>
 Swammerdam ein vlämischer Natur-<lb break="no"/>
 forscher Clutius gewisse wichtige Wahr-<lb break="no"/>
 heiten gefunden hat, z. B. dass die<lb/>
@@ -89,7 +104,7 @@ wurde ein Jahrhundert später von<lb/>
 Dr. Boerhave aus dem Niederländischen<lb/>
 ins Lateinische übersetzt (unter dem<lb/>
 Titel »Biblia naturae«, Leyden <date>1737</date>).</p>
-<p>Nach ihm hat Réaumur, derselben<lb/>
+                     <p>Nach ihm hat Réaumur, derselben<lb/>
 Methode getreu, in seinen Gärten in<lb/>
 Charenton eine Menge merkwürdiger<lb/>
 Experimente und Beobachtungen ge-<lb break="no"/>
@@ -105,8 +120,9 @@ angelegen sein lassen, eine Reihe von<lb/>
 alten Irrthümern zu zerstreuen — wofür<lb/>
 er freilich einige neue in Umlauf gesetzt<lb/>
 hat —; er gewann einen Einblick in</p>
-</cell><cell>
-<p rend="no-intend">die Entstehung der Schwärme, die<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">die Entstehung der Schwärme, die<lb/>
 politischen Gewohnheiten der Königinnen,<lb/>
 kurz, er fand verschiedene verwickelte<lb/>
 Wahrheiten und wies den Weg zu<lb/>
@@ -132,7 +148,7 @@ die großen Züge beschränken und gehe<lb/>
 darum zu Franz Huber über, dem<lb/>
 Meister und Classiker der heutigen<lb/>
 Bienenkunde.</p>
-<p>Huber wurde im Jahre <date>1750</date> in<lb/>
+                     <p>Huber wurde im Jahre <date>1750</date> in<lb/>
 Genf geboren und erblindete schon als<lb/>
 Knabe. Durch Réaumurs Experimente<lb/>
 angeregt, die er zunächst nur auf ihre<lb/>
@@ -160,7 +176,10 @@ unsichtbaren Honigbau schuf, seine<lb/>
 tiefsten Geheimnisse ablauschte, wie<lb/>
 um uns zu lehren, dass wir unter<lb/>
 keinen Verhältnissen darauf verzichten</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

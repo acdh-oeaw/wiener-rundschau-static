@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-11_n0225.xml"
-     prev="WR-05-10_n0224.xml"
-     next="WR-05-11_n0226.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-11_n0225.xml" prev="WR-05-10_n0224.xml" next="WR-05-11_n0226.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,20 +41,63 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 10</title>
+                  <idno>WR-05-10_n0205.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 12</title>
+                  <idno>WR-05-12_n0249.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="prose-start"/><milestone unit="masthead-start"/><p><hi rend="strong">WIENER<lb/>
-RUNDSCHAU</hi></p><p><hi rend="strong">HERAUSGEGEBEN VON FELIX RAPPAPORT</hi></p><table><row><cell>
-<p><date><hi rend="strong">1. JUNI 1901</hi></date></p>
-</cell><cell>
-<p><hi rend="strong">V. JAHRGANG, NR. 11</hi></p>
-</cell></row></table><milestone unit="hr"/><milestone unit="untyped-end"/><milestone unit="untyped-start"/><ab><title><hi rend="text-spaced">AUFZEICHNUNGEN</hi>.*<lb/>
-Von <rs type="person" key="">R. W. EMERSON</rs>.</title></ab><table><row><cell>
-<p><date>1863</date>. Wenn ich Henry Thoreans<lb/>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="strong">WIENER<lb/>
+RUNDSCHAU</hi>
+            </p>
+            <p>
+               <hi rend="strong">HERAUSGEGEBEN VON FELIX RAPPAPORT</hi>
+            </p>
+            <table>
+               <row>
+                  <cell>
+                     <p>
+                        <date>
+                           <hi rend="strong">1. JUNI 1901</hi>
+                        </date>
+                     </p>
+                  </cell>
+                  <cell>
+                     <p>
+                        <hi rend="strong">V. JAHRGANG, NR. 11</hi>
+                     </p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">AUFZEICHNUNGEN</hi>.*<lb/>
+Von <rs type="person" key="">R. W. EMERSON</rs>.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>
+                        <date>1863</date>. Wenn ich Henry Thoreans<lb/>
 Tagebuch lese, fällt mir immer wieder<lb/>
 die Kraft seiner Constitution auf. Die<lb/>
 Eichenkraft, die ich beobachtete, wenn<lb/>
@@ -80,12 +120,14 @@ klettern und schaukeln sähe mit uner-<lb break="no"/>
 reichlicher Kraft, obwohl ihre Leistungen<lb/>
 nur Fortsetzungen meiner primitiven Tast-<lb/>
 und Hüpf-Bewegungen sind.</p>
-<p><date>12. October 1864</date>. Kehrte von Nanshon<lb/>
+                     <p>
+                        <date>12. October 1864</date>. Kehrte von Nanshon<lb/>
 zurück, wohin ich <date>Sonntag den 8.</date> mit<lb/>
 Prof. — von der Universität Oxford,<lb/>
 Mr. —, — und — zu Besuch kam. Mr.</p>
-</cell><cell>
-<p>Forbes in Nanshon ist der einzige »Junker«<lb/>
+                  </cell>
+                  <cell>
+                     <p>Forbes in Nanshon ist der einzige »Junker«<lb/>
 in Massachusetts, und kein Edelmann hat<lb/>
 je seine Pflichten besser verstanden und<lb/>
 vollführt. Er ist ein Amerikaner, auf den<lb/>
@@ -112,9 +154,13 @@ und die Augen seines Gegenredners öffnet,<lb/>
 ohne ihm zu widersprechen. Ich bin schon<lb/>
 früher stolz auf meine Landsleute gewesen,<lb/>
 aber ich glaube, es ist ein gutes Land,</p>
-</cell></row></table><note type="footnote">
-<p>* Deutsch von Carl <hi rend="text-spaced">Federn</hi>.</p>
-</note></div>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Deutsch von Carl <hi rend="text-spaced">Federn</hi>.</p>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

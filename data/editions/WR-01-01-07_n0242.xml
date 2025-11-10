@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-01-01-07_n0242.xml"
-     prev="WR-01-01-07_n0241.xml"
-     next="WR-01-01-07_n0243.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-07_n0242.xml" prev="WR-01-01-07_n0241.xml" next="WR-01-01-07_n0243.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,41 +42,72 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 2</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 1, Halbbd. 1, Nr. 6</title>
+                  <idno>WR-01-01-06_n0201.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 1, Halbbd. 1, Nr. 8</title>
+                  <idno>WR-01-01-08_n0281.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">242</fw><fw type="ctext">LARSEN.</fw></fw><p rend="no-intend">Menschen keine Ahnung haben. Es wäre erstaunlich, was<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">242</fw>
+               <fw type="ctext">LARSEN.</fw>
+            </fw>
+            <p rend="no-intend">Menschen keine Ahnung haben. Es wäre erstaunlich, was<lb/>
 die Menschen Alles, selbst ihren allernächsten Angehörigen,<lb/>
-verborgen hielten.</p><p>»Ja, deren hatte er ja keine mehr. Er hatte überhaupt<lb/>
+verborgen hielten.</p>
+            <p>»Ja, deren hatte er ja keine mehr. Er hatte überhaupt<lb/>
 niemand, ausser mir. Wir Beide blieben in Kopenhagen; ich<lb/>
 bin auch unverheiratet, und wir waren alle Beide Schul-<lb break="no"/>
-männer —«</p><p>Der junge Arzt sah den Schulmann einen Augenblick an.</p><p>»Où est la femme?« sagte er dann mit Weltmiene.</p><p>»O, keine Spur von cherchez la femme — Nein, Herr<lb/>
+männer —«</p>
+            <p>Der junge Arzt sah den Schulmann einen Augenblick an.</p>
+            <p>»Où est la femme?« sagte er dann mit Weltmiene.</p>
+            <p>»O, keine Spur von cherchez la femme — Nein, Herr<lb/>
 Doctor,« sagte er, »vor zehn Jahren — da gab es une femme.<lb/>
 Und er war über dies und jenes unglücklich. Damals hätte<lb/>
 es mich nicht gewundert, wenn man gekommen wäre und<lb/>
 gesagt hätte, er läge da mit einer Kugel durch den Kopf.<lb/>
-— Aber nun war er ja zur Ruhe gekommen.«</p><p>Der Arzt erhob sich — er musste doch immer an seiner<lb/>
+— Aber nun war er ja zur Ruhe gekommen.«</p>
+            <p>Der Arzt erhob sich — er musste doch immer an seiner<lb/>
 Skepsis festhalten — übrigens fing das Ganze an, ihm<lb/>
 allmälig langweilig zu werden. Aber der Schulmeister wollte<lb/>
-nicht aufhören:</p><p>»Er gehörte zu den Menschen, die sich gern ver-<lb break="no"/>
+nicht aufhören:</p>
+            <p>»Er gehörte zu den Menschen, die sich gern ver-<lb break="no"/>
 heiraten wollen. Aber er hatte allzuviele Bedenken. Und<lb/>
 dann hatte er wissenschaftliche Pläne. Er wollte sich an der<lb/>
 Universität habilitiren. Das mochte er nicht gern aufgeben.<lb/>
 Dazu wurde er nun doch genöthigt. Wir werden Alle dazu<lb/>
-genöthigt.«</p><p>Der Philologe ging im Zimmer schlendernd auf und ab.</p><p>»Und dann kam er ja auch zur Ruhe. — Er wurde<lb/>
+genöthigt.«</p>
+            <p>Der Philologe ging im Zimmer schlendernd auf und ab.</p>
+            <p>»Und dann kam er ja auch zur Ruhe. — Er wurde<lb/>
 Lehrer. Und er war sehr beliebt. Er that nicht mehr so<lb/>
 wichtig wie in seiner Jugend — Sie wissen, so ein gewisses<lb/>
 überlegenes Wesen gegenüber Andern betreffs seiner Fähig-<lb break="no"/>
 keiten. Ach nein, das hatte er gar nicht mehr — er war<lb/>
-<hi rend="text-spaced">sehr</hi> beliebt. Und er hatte es ja so gut als Junggeselle.<lb/>
+               <hi rend="text-spaced">sehr</hi> beliebt. Und er hatte es ja so gut als Junggeselle.<lb/>
 Von Nahrungssorgen kann ja keine Rede sein. Wir meinten<lb/>
 Alle, er legte etwas auf die Seite. Und es wird sich auch<lb/>
-noch zeigen, dass er es that.«</p><p>Es hatte zu dämmern begonnen. Nun wollte der junge<lb/>
+noch zeigen, dass er es that.«</p>
+            <p>Es hatte zu dämmern begonnen. Nun wollte der junge<lb/>
 Arzt wirklich ein wenig in der Dämmerung durch die<lb/>
-Strassen bummeln. Er nahm seinen Hut und Stock: es wäre</p></div>
+Strassen bummeln. Er nahm seinen Hut und Stock: es wäre</p>
+         </div>
       </body>
    </text>
 </TEI>

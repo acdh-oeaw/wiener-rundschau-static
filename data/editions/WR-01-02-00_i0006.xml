@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-01-02-00_i0006.xml"
-     prev="WR-01-02-00_i0005.xml"
-     next="WR-01-02-13_n0481.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-00_i0006.xml" prev="WR-01-02-00_i0005.xml" next="WR-01-02-13_n0481.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,41 +42,106 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 2</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 1, Halbbd. 1, Nr. 12</title>
+                  <idno>WR-01-01-12_n0441.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 1, Halbbd. 2, Nr. 13</title>
+                  <idno>WR-01-02-13_n0481.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">INHALTS-VERZEICHNISS.</fw></fw><table>
-<row><cell><hi rend="text-spaced">panski</hi>, »Srebrne noce« Nr. <hi rend="strong">13,</hi> S. 519; <hi rend="text-spaced">Wassermann</hi>, »Die Juden von Zirn-
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">INHALTS-VERZEICHNISS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">panski</hi>, »Srebrne noce« Nr. <hi rend="strong">13,</hi> S. 519; <hi rend="text-spaced">Wassermann</hi>, »Die Juden von Zirn-
 dorf« Nr. <hi rend="strong">19,</hi> S. 751; <hi rend="text-spaced">Wedekind</hi>, »Die Fürstin Russalka« Nr. <hi rend="strong">20,</hi> S. 792;
 <hi rend="text-spaced">Wendriner</hi>, »Föhn« Nr. <hi rend="strong">22,</hi> S. 864; »Horatius travestitus« Nr. <hi rend="strong">13,</hi> S. 518;
 »Die Reden Kaiser Wilhelms II.« Nr. <hi rend="strong">20,</hi> S. 791; »Das Wiener Barreau«
 Nr. <hi rend="strong">18,</hi> S. 714.
-</cell></row>
-<row><cell><ab><title><hi rend="strong">Kunst.</hi></title></ab>
-</cell></row>
-<row><cell>Edmund Hellmer’s Marmorbrunnen Nr. <hi rend="strong">15,</hi> S. 557; Unsere Kunstkritik Nr. <hi rend="strong">18,</hi>
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <ab>
+                        <title>
+                           <hi rend="strong">Kunst.</hi>
+                        </title>
+                     </ab>
+                  </cell>
+               </row>
+               <row>
+                  <cell>Edmund Hellmer’s Marmorbrunnen Nr. <hi rend="strong">15,</hi> S. 557; Unsere Kunstkritik Nr. <hi rend="strong">18,</hi>
 S. 715; Secession Nr. <hi rend="strong">15,</hi> S. 559; Slevogt Nr. <hi rend="strong">24,</hi> S. 943.
-</cell></row>
-<row><cell><ab><title><hi rend="strong">Vorträge.</hi></title></ab>
-</cell></row>
-<row><cell>Calderon <milestone unit="dots"/>
-</cell><cell>Nr. <hi rend="strong">15,</hi> S. 597
-</cell></row>
-<row><cell><ab><title><hi rend="strong">Diverse Notizen.</hi></title></ab>
-</cell></row>
-<row><cell>Die Budapester Theaterscandale <milestone unit="dots"/>
-</cell><cell>Nr. <hi rend="strong">15,</hi> S. 600
-</cell></row>
-<row><cell>Director Emerich v. Bukovics <milestone unit="dots"/>
-</cell><cell>Nr. <hi rend="strong">22,</hi> S. 863
-</cell></row>
-<row><cell>Vincenz Chiavacci — entdeckt <milestone unit="dots"/>
-</cell><cell>Nr. <hi rend="strong">15,</hi> S. 559
-</cell></row>
-</table><milestone unit="untyped-end"/><milestone unit="hr"/></div>
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <ab>
+                        <title>
+                           <hi rend="strong">Vorträge.</hi>
+                        </title>
+                     </ab>
+                  </cell>
+               </row>
+               <row>
+                  <cell>Calderon <milestone unit="dots"/>
+                  </cell>
+                  <cell>Nr. <hi rend="strong">15,</hi> S. 597
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <ab>
+                        <title>
+                           <hi rend="strong">Diverse Notizen.</hi>
+                        </title>
+                     </ab>
+                  </cell>
+               </row>
+               <row>
+                  <cell>Die Budapester Theaterscandale <milestone unit="dots"/>
+                  </cell>
+                  <cell>Nr. <hi rend="strong">15,</hi> S. 600
+</cell>
+               </row>
+               <row>
+                  <cell>Director Emerich v. Bukovics <milestone unit="dots"/>
+                  </cell>
+                  <cell>Nr. <hi rend="strong">22,</hi> S. 863
+</cell>
+               </row>
+               <row>
+                  <cell>Vincenz Chiavacci — entdeckt <milestone unit="dots"/>
+                  </cell>
+                  <cell>Nr. <hi rend="strong">15,</hi> S. 559
+</cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
       </body>
    </text>
 </TEI>

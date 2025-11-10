@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-18_n0680.xml"
-     prev="WR-02-02-18_n0679.xml"
-     next="WR-02-02-18_n0681.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-18_n0680.xml" prev="WR-02-02-18_n0679.xml" next="WR-02-02-18_n0681.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,19 +42,49 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 17</title>
+                  <idno>WR-02-02-17_n0641.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 19</title>
+                  <idno>WR-02-02-19_n0713.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">680</fw><fw type="ctext">MESSER.</fw></fw><p>war das Ideal jener Zeit, das auf der Höhe der Philosophie endlich<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">680</fw>
+               <fw type="ctext">MESSER.</fw>
+            </fw>
+            <p>war das Ideal jener Zeit, das auf der Höhe der Philosophie endlich<lb/>
 erreicht worden ist. Mit der Philosophie schliesst unsere Vergangenheit<lb/>
 ab und die Philosophen sind die Raphaele der Denkperiode, an welchen<lb/>
 das alte Princip in leuchtender Farbenpracht sich vollendet und durch<lb/>
 Verjüngung aus einem zeitlichen ein ewiges wird. <hi rend="text-spaced">Wer hinfort das<lb/>
 Wissen bewahren will</hi>, <hi rend="text-spaced">der wird es verlieren</hi>; <hi rend="text-spaced">wer es aber<lb/>
-aufgibt</hi>, <hi rend="text-spaced">der wird es gewinnen</hi><milestone unit="4dots"/> Alles Grösse muss zu<lb/>
+aufgibt</hi>, <hi rend="text-spaced">der wird es gewinnen</hi>
+               <milestone unit="4dots"/> Alles Grösse muss zu<lb/>
 sterben wissen und durch seinen Hintritt sich verklären<milestone unit="4dots"/> (Noch<lb/>
 einmal die Wagnerische Idee). Das rechte Wissen vollendet sich,<lb/>
 indem es aufhört Wissen zu sein und wieder ein einfacher, mensch-<lb break="no"/>
@@ -66,7 +93,7 @@ Entwicklungsdrang unserer Zeit zum Primitiven, zur Einfachheit, des<lb/>
 natürlich bestimmten Wesens vorausgeahnt und zugleich die Über-<lb break="no"/>
 nahme der geistig-seelischen Schicksale der Menschheit aus den Händen<lb/>
 der »Philosophen«, der abstracten Forschung in die Hände der<lb/>
-<hi rend="text-spaced">Künstlerdenker</hi>, dieser neuen, höchsten Geschöpfe der Menschheit,<lb/>
+               <hi rend="text-spaced">Künstlerdenker</hi>, dieser neuen, höchsten Geschöpfe der Menschheit,<lb/>
 welche berufen sind, sie durch lebendige Kunstthaten zugleich als<lb/>
 Denker, Künstler und religiöse Apostel, eine neue Einheit und Zusammen-<lb break="no"/>
 fassung und Auflösung des bisherigen Complexes von Geist, Seele und<lb/>
@@ -89,7 +116,7 @@ aus der nie welkenden und alternden Frische und Schöpfungsthätigkeit<lb/>
 ihres ewigen Geistes setzen — die gehen nicht aus jener Erziehung<lb/>
 hervor. Der sogenannte <hi rend="text-spaced">gesunde</hi> Charakter ist auch im besten Falle<lb/>
 ein starrer; soll er ein vollendeter sein, so muss er zugleich ein<lb/>
-<hi rend="text-spaced">leidender</hi> werden, zuckend und schaudernd in der seeligen Passion<lb/>
+               <hi rend="text-spaced">leidender</hi> werden, zuckend und schaudernd in der seeligen Passion<lb/>
 einer Verjüngung und Neugeburt. So laufen denn die Radien aller<lb/>
 Erziehungen in dem einen Mittelpunkt zusammen, welcher <hi rend="text-spaced">Persön-<lb break="no"/>
 lichkeit</hi> heisst. Das Wissen, so gelehrt und tief, oder so breit und<lb/>
@@ -97,7 +124,8 @@ fasslich es auch sei, bleibt so lange doch nur ein Besitz und Eigenthum,<lb/>
 als es nicht in dem unsichtbaren Punkt des Ichs zusammengeschwunden<lb/>
 ist, um von da an als Wille, als übersinnlicher und unfasslicher<lb/>
 Geist allgewaltig hervorzubrechen. Das Wissen erfährt diese Umwandlung<lb/>
-dann, wenn es aufhört, nur an Objecten zu haften, wenn es ein</p></div>
+dann, wenn es aufhört, nur an Objecten zu haften, wenn es ein</p>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-01-01-00_i0003.xml"
-     prev="WR-01-01-00_i0002.xml"
-     next="WR-01-01-00_i0004.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-00_i0003.xml" prev="WR-01-01-00_i0002.xml" next="WR-01-01-00_i0004.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,113 +42,256 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 2</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 1, Halbbd. 1, Nr. 1</title>
+                  <idno>WR-01-01-01_n0001.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><ab><title>INHALTS-VERZEICHNISS.</title></ab><milestone unit="hr"/><table>
-<row><cell>
-</cell><cell>Seite
-</cell></row>
-<row><cell><hi rend="text-spaced">Altenberg</hi>, Peter, Venedig in Wien <milestone unit="dots"/>
-</cell><cell>13
-</cell></row>
-<row><cell>  Der Recitator <milestone unit="dots"/>
-</cell><cell>97
-</cell></row>
-<row><cell>  Der fliegende Holländer <milestone unit="dots"/>
-</cell><cell>184
-</cell></row>
-<row><cell><hi rend="text-spaced">Althof</hi>, Paul, Lieder <milestone unit="dots"/>
-</cell><cell>411
-</cell></row>
-<row><cell><hi rend="text-spaced">Amicis</hi>, Edmondo de, Holländische Landschaft <milestone unit="dots"/>
-</cell><cell>57
-</cell></row>
-<row><cell><hi rend="text-spaced">Annunzio</hi>, Gabriele D’, Die sieben Brunnen <milestone unit="dots"/>
-</cell><cell>448
-</cell></row>
-<row><cell><hi rend="text-spaced">Barrès</hi>, Maurice, Die Uniformirung der Jugend <milestone unit="dots"/>
-</cell><cell>191
-</cell></row>
-<row><cell><hi rend="text-spaced">Baudelaire</hi>, Charles, Herbstklage <milestone unit="dots"/>
-</cell><cell>246
-</cell></row>
-<row><cell>  Die tanzende Schlange <milestone unit="dots"/>
-</cell><cell>328
-</cell></row>
-<row><cell>  Gedichte in Prosa <milestone unit="dots"/>
-</cell><cell>453
-</cell></row>
-<row><cell><hi rend="text-spaced">Christomanos</hi>, Constantin, Das innere Schweigen <milestone unit="dots"/>
-</cell><cell>103
-</cell></row>
-<row><cell><hi rend="text-spaced">Dehmel</hi>, Richard, Wiener Walzer <milestone unit="dots"/>
-</cell><cell>102
-</cell></row>
-<row><cell><hi rend="text-spaced">Dostojewsky</hi>, F. M., Der Bobók <milestone unit="dots"/>
-</cell><cell>121, 166, 208
-</cell></row>
-<row><cell><hi rend="text-spaced">Elbogen</hi>, Friedrich, Eine Rettung <milestone unit="dots"/>
-</cell><cell>104
-</cell></row>
-<row><cell><hi rend="text-spaced">Evers</hi>, Franz, Wunder <milestone unit="dots"/>
-</cell><cell>96
-</cell></row>
-<row><cell>  Die Sehnsucht <milestone unit="dots"/>
-</cell><cell>249
-</cell></row>
-<row><cell>  Gedicht <milestone unit="dots"/>
-</cell><cell>410
-</cell></row>
-<row><cell><hi rend="text-spaced">Feldegg</hi>, Victor, Dunkelstunde <milestone unit="dots"/>
-</cell><cell>334
-</cell></row>
-<row><cell><hi rend="text-spaced">Fiamingo</hi>, Giuseppe, Das nächste Conclave <milestone unit="dots"/>
-</cell><cell>305
-</cell></row>
-<row><cell><hi rend="text-spaced">Forsslund</hi>, Carl Erik, Wölfe <milestone unit="dots"/>
-</cell><cell>441
-</cell></row>
-<row><cell><hi rend="text-spaced">Frommel</hi>, Gaston, Ueber Leo Tolstoj’s Lehre <milestone unit="dots"/>
-</cell><cell>337
-</cell></row>
-<row><cell><hi rend="text-spaced">Fuchs</hi>, Georg, Charfreitags-Zauber <milestone unit="dots"/>
-</cell><cell>361
-</cell></row>
-<row><cell><hi rend="text-spaced">Geijerstam</hi>, Gustav af, Ein Einsiedler <milestone unit="dots"/>
-</cell><cell>321
-</cell></row>
-<row><cell><hi rend="text-spaced">Grazie</hi>, M. E. delle, Blauer Falter <milestone unit="dots"/>
-</cell><cell>290
-</cell></row>
-<row><cell><hi rend="text-spaced">Guglia</hi>, Eugen, An Friedrich Mitterwurzer <milestone unit="dots"/>
-</cell><cell>287
-</cell></row>
-<row><cell><hi rend="text-spaced">Hango</hi>, Hermann, Wie war <milestone unit="3dots"/> <milestone unit="dots"/>
-</cell><cell>131
-</cell></row>
-<row><cell><hi rend="text-spaced">Hirschfeld</hi>, Georg, Traum <milestone unit="dots"/>
-</cell><cell>127
-</cell></row>
-<row><cell><hi rend="text-spaced">Hofmannsthal</hi>, Hugo von, Gedichte <milestone unit="dots"/>
-</cell><cell>11
-</cell></row>
-<row><cell><hi rend="text-spaced">Jacobsen</hi>, R., Ermete Zacconi als Ibsen-Darsteller <milestone unit="dots"/>
-</cell><cell>427
-</cell></row>
-<row><cell><hi rend="text-spaced">Janitschek</hi>, Maria, Kind Gottes <milestone unit="dots"/>
-</cell><cell>81
-</cell></row>
-<row><cell>  Stummer Kampf <milestone unit="dots"/>
-</cell><cell>281
-</cell></row>
-<row><cell><hi rend="text-spaced">Kobor</hi>, Thomas, Marianne heiratet <milestone unit="dots"/>
-</cell><cell>330
-</cell></row>
-</table></div>
+         <div type="page">
+            <ab>
+               <title>INHALTS-VERZEICHNISS.</title>
+            </ab>
+            <milestone unit="hr"/>
+            <table>
+               <row>
+                  <cell>
+</cell>
+                  <cell>Seite
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Altenberg</hi>, Peter, Venedig in Wien <milestone unit="dots"/>
+                  </cell>
+                  <cell>13
+</cell>
+               </row>
+               <row>
+                  <cell>  Der Recitator <milestone unit="dots"/>
+                  </cell>
+                  <cell>97
+</cell>
+               </row>
+               <row>
+                  <cell>  Der fliegende Holländer <milestone unit="dots"/>
+                  </cell>
+                  <cell>184
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Althof</hi>, Paul, Lieder <milestone unit="dots"/>
+                  </cell>
+                  <cell>411
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Amicis</hi>, Edmondo de, Holländische Landschaft <milestone unit="dots"/>
+                  </cell>
+                  <cell>57
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Annunzio</hi>, Gabriele D’, Die sieben Brunnen <milestone unit="dots"/>
+                  </cell>
+                  <cell>448
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Barrès</hi>, Maurice, Die Uniformirung der Jugend <milestone unit="dots"/>
+                  </cell>
+                  <cell>191
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Baudelaire</hi>, Charles, Herbstklage <milestone unit="dots"/>
+                  </cell>
+                  <cell>246
+</cell>
+               </row>
+               <row>
+                  <cell>  Die tanzende Schlange <milestone unit="dots"/>
+                  </cell>
+                  <cell>328
+</cell>
+               </row>
+               <row>
+                  <cell>  Gedichte in Prosa <milestone unit="dots"/>
+                  </cell>
+                  <cell>453
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Christomanos</hi>, Constantin, Das innere Schweigen <milestone unit="dots"/>
+                  </cell>
+                  <cell>103
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Dehmel</hi>, Richard, Wiener Walzer <milestone unit="dots"/>
+                  </cell>
+                  <cell>102
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Dostojewsky</hi>, F. M., Der Bobók <milestone unit="dots"/>
+                  </cell>
+                  <cell>121, 166, 208
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Elbogen</hi>, Friedrich, Eine Rettung <milestone unit="dots"/>
+                  </cell>
+                  <cell>104
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Evers</hi>, Franz, Wunder <milestone unit="dots"/>
+                  </cell>
+                  <cell>96
+</cell>
+               </row>
+               <row>
+                  <cell>  Die Sehnsucht <milestone unit="dots"/>
+                  </cell>
+                  <cell>249
+</cell>
+               </row>
+               <row>
+                  <cell>  Gedicht <milestone unit="dots"/>
+                  </cell>
+                  <cell>410
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Feldegg</hi>, Victor, Dunkelstunde <milestone unit="dots"/>
+                  </cell>
+                  <cell>334
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Fiamingo</hi>, Giuseppe, Das nächste Conclave <milestone unit="dots"/>
+                  </cell>
+                  <cell>305
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Forsslund</hi>, Carl Erik, Wölfe <milestone unit="dots"/>
+                  </cell>
+                  <cell>441
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Frommel</hi>, Gaston, Ueber Leo Tolstoj’s Lehre <milestone unit="dots"/>
+                  </cell>
+                  <cell>337
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Fuchs</hi>, Georg, Charfreitags-Zauber <milestone unit="dots"/>
+                  </cell>
+                  <cell>361
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Geijerstam</hi>, Gustav af, Ein Einsiedler <milestone unit="dots"/>
+                  </cell>
+                  <cell>321
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Grazie</hi>, M. E. delle, Blauer Falter <milestone unit="dots"/>
+                  </cell>
+                  <cell>290
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Guglia</hi>, Eugen, An Friedrich Mitterwurzer <milestone unit="dots"/>
+                  </cell>
+                  <cell>287
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Hango</hi>, Hermann, Wie war <milestone unit="3dots"/>
+                     <milestone unit="dots"/>
+                  </cell>
+                  <cell>131
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Hirschfeld</hi>, Georg, Traum <milestone unit="dots"/>
+                  </cell>
+                  <cell>127
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Hofmannsthal</hi>, Hugo von, Gedichte <milestone unit="dots"/>
+                  </cell>
+                  <cell>11
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Jacobsen</hi>, R., Ermete Zacconi als Ibsen-Darsteller <milestone unit="dots"/>
+                  </cell>
+                  <cell>427
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Janitschek</hi>, Maria, Kind Gottes <milestone unit="dots"/>
+                  </cell>
+                  <cell>81
+</cell>
+               </row>
+               <row>
+                  <cell>  Stummer Kampf <milestone unit="dots"/>
+                  </cell>
+                  <cell>281
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Kobor</hi>, Thomas, Marianne heiratet <milestone unit="dots"/>
+                  </cell>
+                  <cell>330
+</cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

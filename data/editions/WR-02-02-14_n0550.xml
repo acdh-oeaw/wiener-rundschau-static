@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-14_n0550.xml"
-     prev="WR-02-02-14_n0549.xml"
-     next="WR-02-02-14_n0551.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-14_n0550.xml" prev="WR-02-02-14_n0549.xml" next="WR-02-02-14_n0551.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,21 +42,53 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 13</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 15</title>
+                  <idno>WR-02-02-15_n0561.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">550</fw><fw type="ctext">MULTATULI.</fw></fw><p rend="no-intend">Dinge bei ihrem rechten Namen zu nennen, aber im Grunde beruht<lb/>
-alles auf dem <milestone unit="3dots"/> <hi rend="text-spaced">Gelde</hi>.«</p><p>— »Wenn ich als nicht Tugendhafter einen <hi rend="text-spaced">Schwächeren</hi> finden<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">550</fw>
+               <fw type="ctext">MULTATULI.</fw>
+            </fw>
+            <p rend="no-intend">Dinge bei ihrem rechten Namen zu nennen, aber im Grunde beruht<lb/>
+alles auf dem <milestone unit="3dots"/>
+               <hi rend="text-spaced">Gelde</hi>.«</p>
+            <p>— »Wenn ich als nicht Tugendhafter einen <hi rend="text-spaced">Schwächeren</hi> finden<lb/>
 würde und ich verpflichtete ihn, ohne Lohn für mich zu arbeiten,<lb/>
 damit ich als Müssiggänger auf seine Kosten leben kann, so würde das<lb/>
 als sehr unredlich gelten bis zu dem Augenblick, wo ich mit gleicher-<lb break="no"/>
 weise gestohlenem Gelde Eisenbahnen bauen könnte. Das werdet Ihr<lb/>
 ja wissen, Kami, der Ihr Kraft und Geduld genug hattet, den Be-<lb break="no"/>
 rathungen der Kammern beizuwohnen, die nicht das niederländische<lb/>
-Volk repräsentieren.«</p><p>— »Wenn ich jemanden schlüge und auspeitschte oder ich sperrte<lb/>
+Volk repräsentieren.«</p>
+            <p>— »Wenn ich jemanden schlüge und auspeitschte oder ich sperrte<lb/>
 ihn ein und liesse ihn Hungers sterben, würde ich als wenig em-<lb break="no"/>
 pfehlenswert gelten, denn man würde mich fragen, welchen Gewinn<lb/>
 diese Operationen eintrugen, und ich könnte dann keinen aufweisen.<lb/>
@@ -67,14 +96,20 @@ Aber im Haag konntet Ihr constatieren, wie die ehrenhaftesten Männer<lb/>
 von siebzig Nestern sehr von der Tugend einer Regierung befriedigt<lb/>
 waren, die ohne irgend welche Scham dasselbe Ding betreibt. Habt<lb/>
 Ihr, o Kami, in der Kammer ob der Vertheilung der Colonialreich-<lb break="no"/>
-thümer irgend jemanden erröthen sehen?«</p><p>— »Nein, ich muss bekennen, dass diese Herren durchaus ein<lb/>
+thümer irgend jemanden erröthen sehen?«</p>
+            <p>— »Nein, ich muss bekennen, dass diese Herren durchaus ein<lb/>
 ruhiges Gewissen zu haben schienen. Es waren welche mit Bäuchen<lb/>
-dabei <milestone unit="3dots"/> oh, geschwollen von Tugend!«</p><p>— »Und die sie niemals öffnen, o Kami, dem das ärgerlich genug<lb/>
+dabei <milestone unit="3dots"/> oh, geschwollen von Tugend!«</p>
+            <p>— »Und die sie niemals öffnen, o Kami, dem das ärgerlich genug<lb/>
 ist. Und die andere der Tugenden des Tages, die beide nur eine<lb/>
 ausmachen, zeigt überall das gleiche Verhältnis. Da seht z. R in<lb/>
-der Zeitung:</p><p>Verehelicht:</p><p>Herr <hi rend="text-spaced">JANSEN</hi><lb/>
+der Zeitung:</p>
+            <p>Verehelicht:</p>
+            <p>Herr <hi rend="text-spaced">JANSEN</hi>
+               <lb/>
 mit<lb/>
-Fräulein <hi rend="text-spaced">PIETERSE</hi>.</p><p>Fräulein Pieterse ist jetzt Madame Jansen. Das heisst: Herr<lb/>
+Fräulein <hi rend="text-spaced">PIETERSE</hi>.</p>
+            <p>Fräulein Pieterse ist jetzt Madame Jansen. Das heisst: Herr<lb/>
 Jansen hat Fräulein Pieterse <hi rend="text-spaced">versprochen</hi>, dass er sie nicht auf<lb/>
 der Strasse lassen würde <milestone unit="3dots"/> wie Margot. Das hat er ihr im Rath-<lb break="no"/>
 hause vor Zeugen versprochen. Und er hat seinen Namen in ein Buch<lb/>
@@ -85,9 +120,13 @@ Fräulein Pieterse mit Herrn Jansen zusammengezogen wäre, und zwar<lb/>
 bevor oder ohne dass derselbe sein Versprechen in dem Buche des<lb/>
 Rathhauses festlegte, so wäre dem Mädchen Schamlosigkeit nach-<lb break="no"/>
 gesagt worden. Ihre Kinder hätte man genannt illegitim oder <hi rend="text-spaced">na-<lb break="no"/>
-türlich</hi> <milestone unit="3dots"/>«</p><p>— »Und wie nennt man sie jetzt?</p><p>— »Nicht-natürlich und legitim, o Kami, der Ihr einen Geist habt<lb/>
+türlich</hi>
+               <milestone unit="3dots"/>«</p>
+            <p>— »Und wie nennt man sie jetzt?</p>
+            <p>— »Nicht-natürlich und legitim, o Kami, der Ihr einen Geist habt<lb/>
 unersättlich, wie die Raubgier eines christlichen Staates. Nun sind<lb/>
-diese Kinder <hi rend="text-spaced">legitim</hi> durch ihre Nicht-Natürlichkeit. Denn der Haupt-</p></div>
+diese Kinder <hi rend="text-spaced">legitim</hi> durch ihre Nicht-Natürlichkeit. Denn der Haupt-</p>
+         </div>
       </body>
    </text>
 </TEI>

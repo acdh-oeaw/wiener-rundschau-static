@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-17_n0331.xml"
-     prev="WR-05-17_n0330.xml"
-     next="WR-05-17_n0332.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-17_n0331.xml" prev="WR-05-17_n0330.xml" next="WR-05-17_n0332.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 16</title>
+                  <idno>WR-05-16_n0313.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 18</title>
+                  <idno>WR-05-18_n0343.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">ACHELIS: WILHELM WUNDT.</fw></fw><table><row><cell>
-<p>einandersetzungen somit ganz falsch, an-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">ACHELIS: WILHELM WUNDT.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>einandersetzungen somit ganz falsch, an-<lb break="no"/>
 zunehmen, die Völker-Psychologie solle die<lb/>
 bisherige Individual-Psychologic ganz und<lb/>
 gar verdrängen; es handelt sich nur um<lb/>
@@ -105,8 +120,9 @@ dungsgebiete, die zwar, infolge der überall<lb/>
 bestehenden Wechselwirkung zwischen<lb/>
 Theorie und Anwendung, gelegentlich der<lb/>
 allgemeinen psychologischen Erkenntnis,</p>
-</cell><cell>
-<p rend="no-intend">förderlich sein mögen, die sich aber dem,<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">förderlich sein mögen, die sich aber dem,<lb/>
 was zum Charakter eines Hilfsmittels<lb/>
 gefordert werden muss, einer methodisch<lb/>
 geübten, planmäßigen Benützung, durchaus<lb/>
@@ -135,7 +151,7 @@ angestellten Beobachtungen durch die un-<lb break="no"/>
 ablässige Wiederholung des Vergleiches<lb/>
 gleicher und ähnlicher Fälle einigermaßen<lb/>
 ersetzt wird?</p>
-<p>Wir können an dieser Stelle nicht auf<lb/>
+                     <p>Wir können an dieser Stelle nicht auf<lb/>
 das wichtige Problem des Individuums und<lb/>
 seines Verhältnisses zur socialen Gemein-<lb break="no"/>
 schaft eingehen, sondern wir müssen uns<lb/>
@@ -160,7 +176,10 @@ unglückten Erklärungsversuche (besonders<lb/>
 die verhängnisvollen Irrthümer in der Auf-<lb break="no"/>
 klärungs-Philosophie) zur Genüge beweisen.<lb/>
 Sprache, Religion, Mythologie, Recht,</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

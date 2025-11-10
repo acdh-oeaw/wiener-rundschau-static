@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-03_n0061.xml"
-     prev="WR-05-03_n0060.xml"
-     next="WR-05-03_n0062.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-03_n0061.xml" prev="WR-05-03_n0060.xml" next="WR-05-03_n0062.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,17 +41,35 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 2</title>
+                  <idno>WR-05-02_n0023.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 4</title>
+                  <idno>WR-05-04_n0077.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">KASSNER: ANDRÉ GIDE.</fw></fw><table><row><cell>
-<p rend="no-intend">wickelt. Es ist viel Deutsches in Gide,<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KASSNER: ANDRÉ GIDE.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">wickelt. Es ist viel Deutsches in Gide,<lb/>
 und Gide ist Protestant. Vielleicht ist das<lb/>
 letztere nicht unwesentlich.</p>
-<p>Mit neunzehn Jahren schrieb er sein<lb/>
+                     <p>Mit neunzehn Jahren schrieb er sein<lb/>
 erstes Buch: »Les cahiers d’André Walter«.<lb/>
 Das sprach von vielem Großen, eigentlich<lb/>
 mehr von der Größe, enthielt Weises und<lb/>
@@ -94,7 +109,7 @@ lesen: »Philoktète« und »Le roi Candaule«,<lb/>
 zwei Bücher, die, wenn man will, vom<lb/>
 Recht auf das Glück handeln, oder von den<lb/>
 vielen Wegen, wie man zur Tugend gelangt.</p>
-<p>Das ist in schneller Linie der Lauf<lb/>
+                     <p>Das ist in schneller Linie der Lauf<lb/>
 seiner Entwicklung. Welches ist nun der<lb/>
 Grund seiner Entwicklung? Ihre Idee?<lb/>
 Warum ist der Dichter der Cahiers d’André<lb/>
@@ -105,8 +120,9 @@ Ich will mich kurz fassen; André Gide<lb/>
 ist Dichter und Philosoph zugleich, Dichter<lb/>
 und Philosoph, nicht wie die großen<lb/>
 Schöpfer des Gedankens und Bildes ganz</p>
-</cell><cell>
-<p>einfach aus Naturkraft und nicht wie die<lb/>
+                  </cell>
+                  <cell>
+                     <p>einfach aus Naturkraft und nicht wie die<lb/>
 kleinen Poeten und überflüssigen Grübler,<lb/>
 die mit fremden Bildern ihre grundlosen<lb/>
 Gedanken stützen oder mit Gedanken<lb/>
@@ -160,7 +176,10 @@ qu’un peu de droit à la pensée s’achète.<lb/>
 L’homme qui se dit heureux et qui pense,<lb/>
 celui là sera appelé vraiment fort.« Gide<lb/>
 staunt über seine Spiegel, und das ist seine</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

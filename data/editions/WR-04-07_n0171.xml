@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-04-07_n0171.xml"
-     prev="WR-04-07_n0170.xml"
-     next="WR-04-07_n0172.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-07_n0171.xml" prev="WR-04-07_n0170.xml" next="WR-04-07_n0172.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,36 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 5</title>
+                  <idno>WR-05-01_n0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 4, Nr. 6</title>
+                  <idno>WR-04-06_n0125.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 4, Nr. 8</title>
+                  <idno>WR-04-08_n0175.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">GRAEVELL: DIE RENAISSANCE DES KELTENTHUMS.</fw></fw><table><row><cell>
-<p>stand der Ovate, der das heilige Schwert<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">GRAEVELL: DIE RENAISSANCE DES KELTENTHUMS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>stand der Ovate, der das heilige Schwert<lb/>
 hielt. Die Barden kletterten nach einander<lb/>
 auf den heiligen Stein und standen dann<lb/>
 zwischen dem Oberpriester und dem<lb/>
@@ -67,30 +86,33 @@ in drei Grade zerfiel: die Druiden, die<lb/>
 weiße Gewänder trugen, die Barden in<lb/>
 Himmelblau und die Ovaten in Grün!<lb/>
 Zu letzteren gehören auch Frauen. Als<lb/>
-<hi rend="italics">Hwfa-Môn</hi> fungierte ein Pastor von<lb/>
+                        <hi rend="italics">Hwfa-Môn</hi> fungierte ein Pastor von<lb/>
 Cardiff. Es waren auch zum erstenmale<lb/>
 zu dieser Feier Bretonen eingeladen, die<lb/>
 in der Zahl von 25 Abgeordneten er-<lb break="no"/>
 schienen. In diesem Jahre (<date>1900</date>) soll die<lb/>
-Festfeier in Liverpool stattfinden und <date>1901</date><lb/>
+Festfeier in Liverpool stattfinden und <date>1901</date>
+                        <lb/>
 in Merthyr. — Es ist ein erhebendes Ge-<lb break="no"/>
 fühl für einen Gälen, dass er sich sagen<lb/>
 kann: Die Reihenfolge der Erzpriester<lb/>
 ist ununterbrochen bis heute. Es liegt<lb/>
 etwas ungemein Ehrfurchterweckendes in<lb/>
 einer solchen uralten, geheiligten Institution,<lb/>
-die an den römischen <hi rend="italics">pontifex maximus</hi><lb/>
+die an den römischen <hi rend="italics">pontifex maximus</hi>
+                        <lb/>
 und seinen Fortsetzer, den Papst, erinnert.<lb/>
 Die Germanen haben nichts Ähnliches an<lb/>
 die Seite zu stellen, und ihre nationale<lb/>
 Tradition ist durch den Einfluss des Latei-<lb break="no"/>
 nischen und die »moderne« Bildung unter-<lb break="no"/>
 bunden worden. Hier ist noch Volks-</p>
-</cell><cell>
-<p rend="no-intend">thümliches, Ursprüngliches, Uraltes, das<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">thümliches, Ursprüngliches, Uraltes, das<lb/>
 in unsere Zeit hereinragt wie der egyp-<lb break="no"/>
 tische Sphinx.</p>
-<p>Auch das keltische Volk hat etwas<lb/>
+                     <p>Auch das keltische Volk hat etwas<lb/>
 vom Sphinx. Es hat etwas Räthselhaftes,<lb/>
 für uns Unheimliches an sich. Es hat<lb/>
 darin Ähnlichkeit mit den Juden. Ahnen<lb/>
@@ -114,7 +136,7 @@ Ritterthums mit Genugthuung bei. Ihr<lb/>
 verdanken wir den Helden <hi rend="text-spaced">Tristan</hi>, den<lb/>
 König <hi rend="text-spaced">Marke</hi> und die blonde <hi rend="text-spaced">Isolde</hi>, ihr<lb/>
 verdanken wir <hi rend="text-spaced">Parsifal</hi> und den heiligen<lb/>
-<hi rend="text-spaced">Gral</hi>! — Und so grüßen auch wir in<lb/>
+                        <hi rend="text-spaced">Gral</hi>! — Und so grüßen auch wir in<lb/>
 Erinnerung an gemeinsame Kämpfe gegen<lb/>
 die Römer, an gemeinsame Literaturthaten<lb/>
 und Kunstschöpfungen unsere keltischen<lb/>
@@ -122,7 +144,12 @@ Brüder, die treu an ihrem Volksthum<lb/>
 halten (trotz modernen Firnisses), mit dem<lb/>
 Ruf der Mannen in des Kelto-Germanen<lb/>
 unsterblichem Musikdrama: Cornwall Heil!</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/></div>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
       </body>
    </text>
 </TEI>

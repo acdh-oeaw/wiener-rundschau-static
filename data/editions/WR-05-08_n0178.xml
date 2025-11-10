@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-08_n0178.xml"
-     prev="WR-05-08_n0177.xml"
-     next="WR-05-08_n0179.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-08_n0178.xml" prev="WR-05-08_n0177.xml" next="WR-05-08_n0179.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,22 +41,42 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 7</title>
+                  <idno>WR-05-07_n0141.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 9</title>
+                  <idno>WR-05-09_n0189.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">KASSNER: DIE MORAL DER LEGENDE</fw></fw><table><row><cell>
-<table><row><cell>
-<p rend="no-intend">ein Lachen nach langem Schweigen<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KASSNER: DIE MORAL DER LEGENDE</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <table>
+                        <row>
+                           <cell>
+                              <p rend="no-intend">ein Lachen nach langem Schweigen<lb/>
 und darüber, dass sich Andere so schnell<lb/>
 und leicht aussprechen können und<lb/>
 bis zu einem fünften Act kommen.<lb/>
 L’éternité en-soi avant ma naissance,<lb/>
 l’éternité en-soi après ma mort. Et<lb/>
 passer ainsi mes jours à touer le temps.</p>
-<p>Eine andere Erzählung heißt Persée<lb/>
+                              <p>Eine andere Erzählung heißt Persée<lb/>
 et Andromède. In der alten Legende<lb/>
 befreit Perseus Andromeda und tödtet<lb/>
 den Drachen. Das ist alles. Wiederum<lb/>
@@ -106,8 +123,9 @@ und alle Poesie wert, mit denen die<lb/>
 Menschen um diese sich bemühten?<lb/>
 Muss alles einen letzten Act haben?<lb/>
 Und wenn der letzte Act, wie dieser</p>
-</cell><cell>
-<p rend="no-intend">Göttergeck, zufällig nichts wert ist,<lb/>
+                           </cell>
+                           <cell>
+                              <p rend="no-intend">Göttergeck, zufällig nichts wert ist,<lb/>
 sind es darum auch alle anderen Acte?<lb/>
 Gibt es denn Acte im menschlichen<lb/>
 Leben oder gibt es nur Augenblicke<lb/>
@@ -120,7 +138,7 @@ und ausgesprochen sein? Weiß der<lb/>
 Tod nicht besser das Schweigen zu<lb/>
 hüten als alle Helden, Legenden und<lb/>
 letzten Acte?</p>
-<p>Oft kommt das Ideal wie Lohengrin,<lb/>
+                              <p>Oft kommt das Ideal wie Lohengrin,<lb/>
 aber segelt wieder davon, da Elsa nicht<lb/>
 rein ist, und wenn sie auch nicht fragt,<lb/>
 so doch vielen Grund zu fragen gibt.<lb/>
@@ -156,13 +174,18 @@ sion eines Ideals, bald wieder wie die<lb/>
 Kunst des Schmerzes und die Flöte<lb/>
 Pans ist? Jedenfalls sind sie Bilder<lb/>
 ihres Dichters!</p>
-<p>Was soll ich von diesem Dichter<lb/>
+                              <p>Was soll ich von diesem Dichter<lb/>
 sagen? Zunächst: er gehört zu den vier<lb/>
 bis fünf jungen Dichtern, denen der<lb/>
 frühe Tod etwas Symbolisches gab.<lb/>
 Wer will das Leben so sehr wie ein</p>
-</cell></row></table>
-</cell></row></table></div>
+                           </cell>
+                        </row>
+                     </table>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

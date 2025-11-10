@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-03_n0090.xml"
-     prev="WR-02-01-03_n0089.xml"
-     next="WR-02-01-03_n0091.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-03_n0090.xml" prev="WR-02-01-03_n0089.xml" next="WR-02-01-03_n0091.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,13 +42,42 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 2</title>
+                  <idno>WR-02-01-02_n0041.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 4</title>
+                  <idno>WR-02-01-04_n0121.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">90</fw><fw type="ctext">KOTANYI.</fw></fw><p>Vor einem kleinen, reizenden Krystallspiegel bindet sie den<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">90</fw>
+               <fw type="ctext">KOTANYI.</fw>
+            </fw>
+            <p>Vor einem kleinen, reizenden Krystallspiegel bindet sie den<lb/>
 Schleier und zerstört die feinen, goldbraunen Löckchen, die sich im<lb/>
 Nacken kräuseln. Da spricht sie zurück, stockend, hastig, ein wenig<lb/>
 hochmüthig: »Vergessen Sie diese ganze Comödie, ich habe kommen<lb/>
@@ -59,23 +85,35 @@ müssen, jetzt muss ich gehen. Jetzt scheint schon die Sonne, Herr<lb/>
 Redacteur.« Sie macht ihm einen kleinen Schulmädelknicks. Jetzt wird<lb/>
 er ganz Geschäftsmann, blättert in dem Manuscripte. »Also die ersten<lb/>
 Zeilen darf ich streichen? Gut. Und in der nächsten Nummer bringe<lb/>
-ich die Arbeit.«</p><p>Sie macht furchtsame Augen, legt ihre Hand auf die Blätter.<lb/>
+ich die Arbeit.«</p>
+            <p>Sie macht furchtsame Augen, legt ihre Hand auf die Blätter.<lb/>
 »Nein, bitte nein, thun Sie das nicht, jetzt will ich nicht, jetzt kann<lb/>
 ich nicht. Nie soll das gedruckt werden. Zimmerluft hängt daran, bloss<lb/>
 dummes Wissenwollen.« Ganz leise: »Wenn ich es auch früher wollte,<lb/>
-bitte nein.»</p><p>Er zuckt die Achseln, rollt die Blätter zusammen, reicht sie hin,<lb/>
-sagt frostig: »Nach Ihrem Belieben, gnädigstes Fräulein.«</p><p>Ihre Hand liegt in der seinen, seine kräftigen, warmen Finger<lb/>
+bitte nein.»</p>
+            <p>Er zuckt die Achseln, rollt die Blätter zusammen, reicht sie hin,<lb/>
+sagt frostig: »Nach Ihrem Belieben, gnädigstes Fräulein.«</p>
+            <p>Ihre Hand liegt in der seinen, seine kräftigen, warmen Finger<lb/>
 eng um ihre flatternde Hand. »Leben sollt’ ich, leben dürfen — dann<lb/>
 ja — Freiheit und Leben — wie herrlich. —« Und ihre Sehnsuchts-<lb break="no"/>
-augen in den seinen — ein Zittern fliegt durch seine Arme.</p><p>Bleib’ da! möcht’ er schreien, laut, laut, dass es die Thore<lb/>
-ihrer Seele zersprengt.</p><p>Er antwortet fein und höflich: »Auf Wiedersehen, gnädigstes<lb/>
+augen in den seinen — ein Zittern fliegt durch seine Arme.</p>
+            <p>Bleib’ da! möcht’ er schreien, laut, laut, dass es die Thore<lb/>
+ihrer Seele zersprengt.</p>
+            <p>Er antwortet fein und höflich: »Auf Wiedersehen, gnädigstes<lb/>
 Fräulein, kommen Sie bald, bald wieder.« Begleitet sie bis zur Thüre,<lb/>
 bleibt stehen, bis ihr Kleid im Stiegengang verschwindet, und auch<lb/>
-dann noch starrt er unbeweglich minutenlang in die graue Mauer.</p><milestone unit="asterismDown"/><p>Doch in den tiefsten Tiefen ihrer Seele, da, wo sie sich selbst<lb/>
+dann noch starrt er unbeweglich minutenlang in die graue Mauer.</p>
+            <milestone unit="asterismDown"/>
+            <p>Doch in den tiefsten Tiefen ihrer Seele, da, wo sie sich selbst<lb/>
 nicht kennen, suchen sie sich, haschen sie sich, wollen sich ertrotzen,<lb/>
 erzwingen — er sie — in seiner klanggleichen Halbweltweise — sie<lb/>
-ihn — mit tiefem, blutigem Drängen — beide mit ungestümem Muss.</p><p>Quälen sich — verzweifeln.</p><p>Er küsst eine Dirne — sie wird Braut. Auf der Strasse aneinander<lb/>
-vorbei, sie lächelt madonnenhaft, er grüsst höflich, nebenbei.</p><milestone unit="untyped-end"/><milestone unit="hr"/></div>
+ihn — mit tiefem, blutigem Drängen — beide mit ungestümem Muss.</p>
+            <p>Quälen sich — verzweifeln.</p>
+            <p>Er küsst eine Dirne — sie wird Braut. Auf der Strasse aneinander<lb/>
+vorbei, sie lächelt madonnenhaft, er grüsst höflich, nebenbei.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
       </body>
    </text>
 </TEI>

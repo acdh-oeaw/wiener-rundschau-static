@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-07_n0144.xml"
-     prev="WR-05-07_n0143.xml"
-     next="WR-05-07_n0145.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-07_n0144.xml" prev="WR-05-07_n0143.xml" next="WR-05-07_n0145.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,20 +41,38 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 6</title>
+                  <idno>WR-05-06_n0115.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 8</title>
+                  <idno>WR-05-08_n0159.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">GIDE: DER TRACTAT VON NARCISS.</fw></fw><table><row><cell>
-<p rend="no-intend">unbeweglicher Spiegel, in der gleichen<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">GIDE: DER TRACTAT VON NARCISS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">unbeweglicher Spiegel, in der gleichen<lb/>
 Reinheit des Bildes, endlich gleich, bis<lb/>
 zur Verschmelzung mit ihnen — die<lb/>
 Linien dieser verhängnisvollen Formen<lb/>
 aussprechen — um sie endlich zu<lb/>
 werden.</p>
-<p>Wann endlich wird die Zeit, ihre<lb/>
+                     <p>Wann endlich wird die Zeit, ihre<lb/>
 Flucht endend, zulassen, dass dieses<lb/>
 Ablaufen sich ausruhe? Formen, gött-<lb break="no"/>
 liche und ewig dauernde, die ihr nur<lb/>
@@ -65,7 +80,7 @@ auf das Ausruhen wartet, um wieder<lb/>
 zu erscheinen — o wann — in welcher<lb/>
 Nacht — in welchem Schweigen werdet<lb/>
 ihr euch wieder krystallisieren?</p>
-<p>Das Paradies ist immer zu erneuen.<lb/>
+                     <p>Das Paradies ist immer zu erneuen.<lb/>
 Aber es ist keineswegs auf irgendeinem<lb/>
 fernen Thule. Das Paradies ist unter<lb/>
 der Erscheinung. Jedes Ding begreift<lb/>
@@ -76,8 +91,9 @@ Krystalls — und komme eine Zeit<lb/>
 schweigsamer Nacht, wo die Wasser<lb/>
 dichter herabfallen: in den unerschütter-<lb break="no"/>
 lichen Abgründen werden die geheimen<lb/>
-Salzmassen blühen <milestone unit="4dots"/></p>
-<p>Alles müht sich nach seiner ver-<lb break="no"/>
+Salzmassen blühen <milestone unit="4dots"/>
+                     </p>
+                     <p>Alles müht sich nach seiner ver-<lb break="no"/>
 lorenen Form; sie erscheint, aber be-<lb break="no"/>
 schmutzt, schief und sich selbst nicht<lb/>
 befriedigend, da sie immer wieder be-<lb break="no"/>
@@ -88,12 +104,13 @@ gleicherweise anstrengt, zu erscheinen<lb/>
 muss sich beweisen — und der Stolz<lb/>
 bethört jede. Die Stunde, die vorüber-<lb break="no"/>
 geht, verwirrt alles.</p>
-<p>Aber wie die Zeit nicht flieht, als<lb/>
+                     <p>Aber wie die Zeit nicht flieht, als<lb/>
 durch die Flucht der Dinge, hält sich<lb/>
 jedes Ding auf und krümmt sich, um<lb/>
 diesen Lauf ein wenig aufzuhalten und</p>
-</cell><cell>
-<p rend="no-intend">besser erscheinen zu können. Es ist<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">besser erscheinen zu können. Es ist<lb/>
 dann eine Zeit, wo die Dinge lang-<lb break="no"/>
 samer geschehen, wo die Zeit ausruht<lb/>
 — glaubt man — Und wie mit der<lb/>
@@ -111,7 +128,7 @@ alles sich in ewigen Stellungen festigen<lb/>
 will <milestone unit="4dots"/> Aber immer erhebt sich irgend-<lb break="no"/>
 ein ungestümes, verworrenes Geschrei<lb/>
 und vergeht.</p>
-<p>Auf den auserwählten Höhen, auf<lb/>
+                     <p>Auf den auserwählten Höhen, auf<lb/>
 denen, glaubt man, die Zeit zu Ende<lb/>
 gehe — immer einige gierige Soldaten<lb/>
 die Kleider unter sich theilen und um<lb/>
@@ -123,20 +140,24 @@ ganze Schöpfung Christum endlich<lb/>
 betrachtet, der sich an das erhabene<lb/>
 Kreuz heftet und die letzten Worte<lb/>
 spricht: »Es ist vollbracht <milestone unit="3dots"/>«</p>
-<p><milestone unit="4dots"/> Und dann, nein! Alles ist neu<lb/>
+                     <p>
+                        <milestone unit="4dots"/> Und dann, nein! Alles ist neu<lb/>
 zu machen, ewig neu zu machen —<lb/>
 weil ein Würfelspieler mit seiner eitlen<lb/>
 Bewegung nicht einhielt, weil ein Soldat<lb/>
 eine Tunika gewinnen wollte, weil einer<lb/>
 nicht anschaute.</p>
-<p>Denn der Fehler ist immer der<lb/>
+                     <p>Denn der Fehler ist immer der<lb/>
 nämliche und verliert immer wieder<lb/>
 das Paradies. Das Individuum, das an<lb/>
 sich denkt, während das Leiden sich<lb/>
 anordnet und — ein stolzer Figurant<lb/>
 sich nicht unterordnete.*</p>
-</cell></row></table><note type="footnote">
-<p>* Die <hi rend="text-spaced">Wahrheiten</hi> bleiben hinter den symbolischen Formen. Jedes Phänomen ist<lb/>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Die <hi rend="text-spaced">Wahrheiten</hi> bleiben hinter den symbolischen Formen. Jedes Phänomen ist<lb/>
 das Symbol einer <hi rend="text-spaced">Wahrheit</hi>. Seine einzige Pflicht ist, dass es sich offenbare. Seine einzige<lb/>
 Sünde: dass es sich vorzieht. Das ist, was ich sagen möchte. Ich werde mein ganzes Leben<lb/>
 darauf zurückkommen. Hier sehe ich die ganze Moral. Und ich glaube, dass alles darauf zurück-<lb break="no"/>
@@ -146,11 +167,12 @@ Moral und der Ästhetik sind dieselben: jedes Werk, das nicht offenbart, ist unn
 schlecht. Jeder Mensch, der nicht offenbart, ist unnütz und damit schlecht. (Wenn man sich<lb/>
 ein wenig erhebt, wird man dennoch sehen, dass alle offenbaren, aber man soll es erst nachher<lb/>
 erkennen.)</p>
-<p>Alles, was eine Idee repräsentiert, versucht, sich der Idee vorzuziehen. Sich vorziehen,<lb/>
+               <p>Alles, was eine Idee repräsentiert, versucht, sich der Idee vorzuziehen. Sich vorziehen,<lb/>
 das ist der Fehler. Der Künstler, der Gelehrte sollte sich der Wahrheit, die er sagen will,<lb/>
 nicht vorziehen. Das sei seine ganze Moral. Nicht das Wort, nicht die Phrase, die Idee, die<lb/>
 sie zeigen wollen. Ich sage fast, dies ist die ganze Ästhetik.</p>
-</note></div>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

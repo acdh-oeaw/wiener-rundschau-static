@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-01_n0011.xml"
-     prev="WR-05-01_n0010.xml"
-     next="WR-05-01_n0012.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-01_n0011.xml" prev="WR-05-01_n0010.xml" next="WR-05-01_n0012.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 4, Nr. 24</title>
+                  <idno>WR-04-24_n0421.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 2</title>
+                  <idno>WR-05-02_n0023.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">KASSNER: ZUM TODE OSKAR WILDES.</fw></fw><table><row><cell>
-<p rend="no-intend">Paradoxen. Ja, wie dem auch immer sei,<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KASSNER: ZUM TODE OSKAR WILDES.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Paradoxen. Ja, wie dem auch immer sei,<lb/>
 das Paradoxe ist unvernünftig, absolut<lb/>
 unmoralisch und immer nur ein Product<lb/>
 der Einbildungskraft. Es gibt Menschen,<lb/>
@@ -75,7 +90,7 @@ Form der Paradoxie, absichtlich und greif-<lb break="no"/>
 bar wie die Maske des Dänenprinzen, die<lb/>
 dieser fallen lässt, wenn er den Degen<lb/>
 zieht oder vor die Mutter hinkniet.</p>
-<p>Feiner ist die Paradoxie jener Menschen,<lb/>
+                     <p>Feiner ist die Paradoxie jener Menschen,<lb/>
 denen das Leben etwas Fremdes, Fremd-<lb break="no"/>
 gewordenes, etwas, von dem sie sich<lb/>
 befreit haben — wie der Künstler von<lb/>
@@ -105,8 +120,9 @@ also, der die Möglichkeiten sieht und liebt,<lb/>
 die Einbildungskraft. Die dritte Art von<lb/>
 Paradoxie ist die Paradoxie des philoso-<lb break="no"/>
 phischen Geistes. Diesem ist alles Be-</p>
-</cell><cell>
-<p rend="no-intend">stimmte paradox, weil er es geistig wie<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">stimmte paradox, weil er es geistig wie<lb/>
 im Spiegel zahlloser entgegengesetzter<lb/>
 Möglichkeiten reflectiert, und sein Geist<lb/>
 ist der Ort, wo alles, was in der Wirk-<lb break="no"/>
@@ -129,7 +145,7 @@ fruchtbar. Society often forgives the cri-<lb break="no"/>
 minal, it never forgives the dreamer. The<lb/>
 beautiful sterile emotions, that art excites<lb/>
 in us, are hateful in itseyes.</p>
-<p>Oskar Wildes Meister ist zunächst der<lb/>
+                     <p>Oskar Wildes Meister ist zunächst der<lb/>
 junge Keats, und wie mit diesem die<lb/>
 Reihe englischer Maler und Dichter, die<lb/>
 man ungenau die Prä-Raffaeliten nennt,<lb/>
@@ -160,7 +176,10 @@ ressort de l’adion la plus simple ou du geste<lb/>
 le plus ordinaire. Jamais par exemple je ne<lb/>
 me fais la barbe sans rire, tant ça me paraît<lb/>
 bête.« Wer diese Stelle begreift im Zu-</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

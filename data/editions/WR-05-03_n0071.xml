@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-03_n0071.xml"
-     prev="WR-05-03_n0070.xml"
-     next="WR-05-03_n0072.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-03_n0071.xml" prev="WR-05-03_n0070.xml" next="WR-05-03_n0072.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 2</title>
+                  <idno>WR-05-02_n0023.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 4</title>
+                  <idno>WR-05-04_n0077.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">LINDNER: LAVATER.</fw></fw><table><row><cell>
-<p rend="no-intend">führen sie den »Gegenbeweis«, dass die soge-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">LINDNER: LAVATER.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">führen sie den »Gegenbeweis«, dass die soge-<lb break="no"/>
 nannte reale Welt nur Scheinwelt, ihre<lb/>
 Sonderwelt aber die einzig reale Welt ist;<lb/>
 das Subject wird ihnen Object, das Object<lb/>
@@ -60,22 +75,24 @@ an ihr Subjectiv-Object (»Defectiv-Effect«<lb/>
 sagt Polonius) mit verdoppelter Bewusst-<lb break="no"/>
 heit, wo sie ehedem vielleicht nur unbewusst<lb/>
 oder halbbewusst daran geglaubt haben.<lb/>
-<hi rend="text-spaced">Glendower</hi> in Shakespeares »Heinrich IV.«<lb/>
+                        <hi rend="text-spaced">Glendower</hi> in Shakespeares »Heinrich IV.«<lb/>
 ist solch’ ein bitterlich ernster Schelm.<lb/>
 In <hi rend="text-spaced">Paracelsus</hi> lag, wenn ich richtig ver-<lb break="no"/>
 muthe, viel von ihm. In Zarathustra-<lb break="no"/>
-<hi rend="text-spaced">Nietzsche</hi> vielleicht nicht minder. Des-<lb break="no"/>
-gleichen in <hi rend="text-spaced">Marquis Posa</hi>. In <hi rend="text-spaced">Lavater</hi><lb/>
+                        <hi rend="text-spaced">Nietzsche</hi> vielleicht nicht minder. Des-<lb break="no"/>
+gleichen in <hi rend="text-spaced">Marquis Posa</hi>. In <hi rend="text-spaced">Lavater</hi>
+                        <lb/>
 stak er entschieden und wurde durch das<lb/>
 seelsorgerische Phlegma, die pastorale<lb/>
 Lebensbahn Kaspars umso auffälliger<lb/>
 geknebelt. So war es durchaus nicht Teufels<lb/>
 Werk, dass Lavater der Missionär, Lavater<lb/>
-der Bäffchenträger für — <hi rend="text-spaced">Cagliostro</hi><lb/>
+der Bäffchenträger für — <hi rend="text-spaced">Cagliostro</hi>
+                        <lb/>
 schwärmte und in besonderer Verehrung<lb/>
 das schwarzbestrumpfte Knie vor diesem<lb/>
 wunderlichen Großen beugte.</p>
-<p>»Lavater glaubte an Cagliostro und<lb/>
+                     <p>»Lavater glaubte an Cagliostro und<lb/>
 dessen Wunder«, erzählt <hi rend="text-spaced">Goethe</hi>. »Als<lb/>
 man ihn als einen Betrüger entlarvt hatte,<lb/>
 behauptete Lavater, dies — sei ein anderer<lb/>
@@ -89,11 +106,11 @@ hat, so wird mir erst doppelt klar, dass<lb/>
 sie wahr gesprochen, weil dann alle Welt,<lb/>
 in der ich nicht lebe und die nicht in<lb/>
 mir ist, Lüge sein muss.</p>
-<p>Was will man mehr? Ein gründlicherer<lb/>
+                     <p>Was will man mehr? Ein gründlicherer<lb/>
 Triumph des Subjectiv-Objects und seiner<lb/>
 buntgesprenkelten Prestidigitatoren- Logik<lb/>
 lässt sich nicht denken.</p>
-<p>Naturen wie Lavater sind in der<lb/>
+                     <p>Naturen wie Lavater sind in der<lb/>
 Regel herzensgute Menschen. Sie können<lb/>
 nicht enttäuscht und verbittert werden,<lb/>
 weil sie sich dann erst befriedigt fühlen,<lb/>
@@ -105,8 +122,9 @@ finden, durch das ihr scurriles Anderssein<lb/>
 frei wird und den Andern um die Köpfe<lb/>
 braust. Also thun sie erbaulich, stecken<lb/>
 nothgedrungen, von inneren Spannkräften</p>
-</cell><cell>
-<p rend="no-intend">getrieben, ein erbauendes Gehaben auf<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">getrieben, ein erbauendes Gehaben auf<lb/>
 und werden — je nach dem Übergewicht<lb/>
 an productiven oder räsonnierenden Fähig-<lb break="no"/>
 keiten — Künstler, Prediger, Hofnarren,<lb/>
@@ -123,14 +141,15 @@ die in stetig schaffender Bewegung das<lb/>
 All füllen und nur den Wenigsten gewahr<lb/>
 werden. Und so muss es jederzeit reine und<lb/>
 demüthige Menschen geben, die (in einer<lb/>
-gewissen Hinsicht <hi rend="text-spaced">clownh</hi>aft im <hi rend="text-spaced">besten</hi><lb/>
+gewissen Hinsicht <hi rend="text-spaced">clownh</hi>aft im <hi rend="text-spaced">besten</hi>
+                        <lb/>
 Sinne dieses üblen Wortes) ihrer ganzen<lb/>
 seelischen und sinnlichen Disposition nach<lb/>
 würdig scheinen, zu unbewusst-bewussten<lb/>
 Trägern und Hütern dieser göttlich dunklen<lb/>
 Kräfte unserer allverseelenden Mutter Natur<lb/>
 zu werden.</p>
-<p>Dass solche Menschen ein nothwendiger<lb/>
+                     <p>Dass solche Menschen ein nothwendiger<lb/>
 Segen sind, empfinden wir namentlich in<lb/>
 den Tagen unserer Jugend (da wir den<lb/>
 Zusammenhang mit dem All noch nicht<lb/>
@@ -160,7 +179,10 @@ Augenblicken, so oft von Lavater die Rede<lb/>
 war, dass ein »schwacher Mysticismus«<lb/>
 dem »Aufflug seines Genies« Grenzen<lb/>
 gesetzt.</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

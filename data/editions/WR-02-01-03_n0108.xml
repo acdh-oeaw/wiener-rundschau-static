@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-03_n0108.xml"
-     prev="WR-02-01-03_n0107.xml"
-     next="WR-02-01-03_n0109.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-03_n0108.xml" prev="WR-02-01-03_n0107.xml" next="WR-02-01-03_n0109.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,22 +42,53 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 2</title>
+                  <idno>WR-02-01-02_n0041.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 4</title>
+                  <idno>WR-02-01-04_n0121.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title><hi rend="text-spaced">DIE INNERE SCHÖNHEIT</hi>.<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">DIE INNERE SCHÖNHEIT</hi>.<lb/>
 Von <rs type="person" key="">Maurice Maeterlinck</rs>.<lb/>
-Vom Verfasser autorisirte Uebersetzung von <rs type="person" key="">Clara Theumann</rs>.</title></ab><p>Es gibt nichts auf Erden, das schönheitsgieriger, nichts, das<lb/>
+Vom Verfasser autorisirte Uebersetzung von <rs type="person" key="">Clara Theumann</rs>.</title>
+            </ab>
+            <p>Es gibt nichts auf Erden, das schönheitsgieriger, nichts, das<lb/>
 leichter zu verschönen wäre als eine Seele. Es gibt nichts auf Erden,<lb/>
 das sich natürlicher erhebt und rascher veredelt. Es gibt nichts auf<lb/>
 Erden, das den lauteren und edlen Geboten, die man ertheilt, gewissen-<lb break="no"/>
 hafter gehorcht. Es gibt nichts auf Erden, das sich der Macht eines<lb/>
 die anderen überragenden Gedankens bereitwilliger unterwirft. Deshalb<lb/>
 widerstehen auch wenige Seelen hienieden der Herrschaft einer Seele,<lb/>
-die sich frei in Schönheit austönen lässt.</p><p>Man könnte wirklich glauben, dass die Schönheit die einzige<lb/>
+die sich frei in Schönheit austönen lässt.</p>
+            <p>Man könnte wirklich glauben, dass die Schönheit die einzige<lb/>
 Nahrung unserer Seele ist; allerorten sucht sie sie auf, und selbst im<lb/>
 niedrigsten Leben stirbt sie nicht Hungertodes. Es gibt eben keine<lb/>
 Schönheit, die vollständig unbemerkt vorüberginge. Es ist ja möglich,<lb/>
@@ -88,7 +116,8 @@ neten Sphäre, der sie selbst alle angehören, zu entschuldigen. Doch<lb/>
 höret: Ein hohes, stolzes Wort ist ausgesprochen worden und hat ge-<lb break="no"/>
 wissermassen die Quellen des Lebens wieder eröffnet. Eine Seele hat<lb/>
 es gewagt, sich einen Augenblick so zu zeigen, wie sie in der Liebe,<lb/>
-dem Schmerze, vor dem Tode oder in der Einsamkeit der Sternen-</p></div>
+dem Schmerze, vor dem Tode oder in der Einsamkeit der Sternen-</p>
+         </div>
       </body>
    </text>
 </TEI>

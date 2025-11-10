@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-18_n0707.xml"
-     prev="WR-02-02-18_n0706.xml"
-     next="WR-02-02-18_n0708.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-18_n0707.xml" prev="WR-02-02-18_n0706.xml" next="WR-02-02-18_n0708.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,20 +42,50 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 17</title>
+                  <idno>WR-02-02-17_n0641.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 19</title>
+                  <idno>WR-02-02-19_n0713.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">MASKEN UND GÖTZENBILDER.</fw><fw type="pn">707</fw></fw><p>Häufig liest man in den Berichten von Reisenden und Missionären<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MASKEN UND GÖTZENBILDER.</fw>
+               <fw type="pn">707</fw>
+            </fw>
+            <p>Häufig liest man in den Berichten von Reisenden und Missionären<lb/>
 Sätze wie die folgenden: »Die Wilden nehmen die Existenz von zwei<lb/>
 Principien an, Mologou, den Urheber des Guten und Cienga, den<lb/>
 Urheber des Bösen. Aber Cienga begegnet man überall. Cienga ist<lb/>
 auf allen Wegen und Stegen, Cienga mischt sich stets in alles, was<lb/>
 ihn nichts angeht, während Mologou unsichtbar bleibt. Übrigens<lb/>
 sagt man, Mologou sei todt, sei infolge seines hohen Alters<lb/>
-gestorben! —« So erzählt Rudesindo Salvado, Missionär in Australien.</p><p>Diese Angaben sind vielleicht ein wenig zu kategorisch. Die<lb/>
+gestorben! —« So erzählt Rudesindo Salvado, Missionär in Australien.</p>
+            <p>Diese Angaben sind vielleicht ein wenig zu kategorisch. Die<lb/>
 Wilden dürften keine klare metaphysische Vorstellung von gut und<lb/>
 böse haben, von dem ewigen Gegensatz dieser beiden Principien;<lb/>
 sie unterscheiden eher, was ihnen nützlich oder schädlich ist. So ver-<lb break="no"/>
@@ -71,11 +98,13 @@ fest, verändern nicht die Farbe an der Luft und strömen einen feinen<lb/>
 Duft von Rosen und Mandeln aus. Die giftige Art, die schlechten —<lb/>
 sind gekennzeichnet durch ein schmutziges, klebriges Aussehen, weiches,<lb/>
 schwammiges Gewebe und meistens durch einen unangenehmen,<lb/>
-häufig sogar faulen Geruch.</p><p>Der Dualismus, welcher zusammengefasst ist in »Weweh« und<lb/>
+häufig sogar faulen Geruch.</p>
+            <p>Der Dualismus, welcher zusammengefasst ist in »Weweh« und<lb/>
 »Gutiguti«, dieser Dualismus der Kinder und Wilden, hat nur einen<lb/>
 geringen objectiven Wert. Was liegt dem Universum daran, ob eine<lb/>
 Sache dem Individuum angenehm oder unangenehm, nützlich oder<lb/>
-schädlich sei, welches den Namen Mensch trägt?</p><p>Wir sehen nichts Auffälliges an der Gesundheit — ist sie doch<lb/>
+schädlich sei, welches den Namen Mensch trägt?</p>
+            <p>Wir sehen nichts Auffälliges an der Gesundheit — ist sie doch<lb/>
 der Normalzustand. Nichtsdestoweniger setzt sie die Mithilfe zahlreicher<lb/>
 Organe voraus, die in unendlichen Complicationen zusammenwirken.<lb/>
 Die mindeste Unbequemlichkeit, der Schatten einer Störung wird<lb/>
@@ -89,11 +118,13 @@ sich eher als die schützenden Geister. Gegenüber einigen gütigen<lb/>
 Göttern vermutheten die Singhalesen zahllose Mengen bösartiger<lb/>
 Dämonen. Ihre Zauberer behaupteten 240 000 Beschwörungsformeln<lb/>
 zu kennen um Krankheiten herbeizurufen und nur eine, um sie zu<lb/>
-bannen.</p><p>Nach zahlreichen Visitationen auf der Insel St. Domingo gewann<lb/>
+bannen.</p>
+            <p>Nach zahlreichen Visitationen auf der Insel St. Domingo gewann<lb/>
 Monsignore Hillion, Bischof auf Cap Haïti, die traurige Überzeugung,<lb/>
 dass der grösste Theil seiner schwarzen Beichtkinder die Messe<lb/>
 besucht, um sich ganz besonders für die Beschwörung der »Zombi«<lb/>
-vorzubereiten. »Zombi« oder Ombres — Schatten — ein Wort aus</p></div>
+vorzubereiten. »Zombi« oder Ombres — Schatten — ein Wort aus</p>
+         </div>
       </body>
    </text>
 </TEI>

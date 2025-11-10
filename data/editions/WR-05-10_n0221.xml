@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-10_n0221.xml"
-     prev="WR-05-10_n0220.xml"
-     next="WR-05-10_n0222.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-10_n0221.xml" prev="WR-05-10_n0220.xml" next="WR-05-10_n0222.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,28 +41,58 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 9</title>
+                  <idno>WR-05-09_n0189.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 11</title>
+                  <idno>WR-05-11_n0225.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BRYK: DIE MUSIK ALS TÖNENDE WELT-IDEE.</fw></fw><table><row><cell>
-<p rend="no-intend">Wesen; was keine Nerven hat, kann<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BRYK: DIE MUSIK ALS TÖNENDE WELT-IDEE.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Wesen; was keine Nerven hat, kann<lb/>
 nicht bewusst sein.) Überhaupt sei die<lb/>
 Nervensubstanz nur ein Mantel um<lb/>
 den Äther.</p>
-<p>Die Causalität, in allen ihren Formen,<lb/>
+                     <p>Die Causalität, in allen ihren Formen,<lb/>
 als Energie-Princip, Gesetz von der Er-</p>
-</cell><cell>
-<p rend="no-intend">haltung der Materie u. s. w., den äther-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">haltung der Materie u. s. w., den äther-<lb break="no"/>
 erfüllten Weltenraum regelnd, kann<lb/>
 als das Zeichen einer allgemeinsten<lb/>
 Seele gelten. Sie zeigt das Dasein<lb/>
 Gottes an.</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/><milestone unit="untyped-start"/><ab><title>DIE MUSIK ALS TÖNENDE WELT-IDEE.*<lb/>
-Von <rs type="person" key="">OTTO BRYK</rs> (Wien).</title></ab><table><row><cell>
-<p>Der Metaphysik der Musik hatte Schopen-<lb break="no"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIE MUSIK ALS TÖNENDE WELT-IDEE.*<lb/>
+Von <rs type="person" key="">OTTO BRYK</rs> (Wien).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Der Metaphysik der Musik hatte Schopen-<lb break="no"/>
 hauer Zeit seines Lebens die größte Aufmerk-<lb break="no"/>
 samkeit gewidmet; die nur an die Anschau-<lb break="no"/>
 ungsform der Zeit gebundene Kunst erwies<lb/>
@@ -88,7 +115,7 @@ und sind — wie jeder einsichtige Schopen-<lb break="no"/>
 hauer-Verehrer gerne zugeben wird —<lb/>
 vor einer tiefer gehenden Kritik nicht<lb/>
 zu halten.</p>
-<p>Als thätiger Erbe des Schopenhauer-<lb break="no"/>
+                     <p>Als thätiger Erbe des Schopenhauer-<lb break="no"/>
 schen Gedankenkreises, insoweit dieser<lb/>
 die Musik-Aesthetik betrifft, will der<lb/>
 Autor der vorliegenden Studie betrachtet<lb/>
@@ -102,8 +129,9 @@ Weise zum erstenmale entwickelt hat.<lb/>
 Wenn man erwägt, dass hier die Reflexionen<lb/>
 eines gewaltigen schaffenden Künstlers in<lb/>
 der ungezwungensten Weise die aus der</p>
-</cell><cell>
-<p rend="no-intend">theoretischen Betrachtung geschöpften Er-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">theoretischen Betrachtung geschöpften Er-<lb break="no"/>
 kenntnisse eines Denkers illustrieren und<lb/>
 weiterführen, so ist es wohl begreiflich, dass<lb/>
 sich ein empfänglicher Musik-Psychologe<lb/>
@@ -114,7 +142,7 @@ vom Autor gewählten und unumwunden<lb/>
 bezeichneten Standpunkt entweder bedin-<lb break="no"/>
 gungslos anzunehmen oder die Recension<lb/>
 einfach abzulehnen.</p>
-<p>Unter diesem Gesichtspunkte muss die<lb/>
+                     <p>Unter diesem Gesichtspunkte muss die<lb/>
 vorliegende Arbeit zunächst als eine weit aus-<lb break="no"/>
 spannende, die Gedanken Schopenhauers<lb/>
 und Wagners geistreich und kühn weiter-<lb break="no"/>
@@ -123,7 +151,7 @@ ist von hohem künstlerischen Ernst ge-<lb break="no"/>
 tragen und berührt theilweise wenig, theil-<lb break="no"/>
 weise noch gar nicht näher untersuchte<lb/>
 Probleme der theoretischen Musik-Ästhetik.</p>
-<p>Ehe jedoch das vom Verfasser auf-<lb break="no"/>
+                     <p>Ehe jedoch das vom Verfasser auf-<lb break="no"/>
 gestellte Schema kritisch beleuchtet wird,<lb/>
 dürfte es am Platze sein, seine wichtigsten<lb/>
 Thesen so kurz als möglich wiederzu-<lb break="no"/>
@@ -132,17 +160,21 @@ des vorliegenden (I.) Bandes — die<lb/>
 (metaphysischen) Urgesetze der »Melodik<lb/>
 und Intervallik« und könnten folgender-<lb break="no"/>
 maßen formuliert werden:</p>
-<p>1. Durchwegs aufsteigende Motive<lb/>
+                     <p>1. Durchwegs aufsteigende Motive<lb/>
 drücken das Entstehen, Werden aus<lb/>
 (»Werde«-Motive).</p>
-<p>2. Durchwegs fallende Motive be-<lb break="no"/>
+                     <p>2. Durchwegs fallende Motive be-<lb break="no"/>
 zeichnen das Vergehen (sind willensver-<lb break="no"/>
 neinend, »Vergeh«-Motive).</p>
-<p>3. Auf- und absteigende Motive be-<lb break="no"/>
+                     <p>3. Auf- und absteigende Motive be-<lb break="no"/>
 zeichnen das immanente Dasein schlecht-</p>
-</cell></row></table><note type="footnote">
-<p>* <hi rend="text-spaced">Curt Mey</hi>: Die Musik als tönende Welt-Idee. Theil I. Leipzig, <date>1901</date>.</p>
-</note></div>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* <hi rend="text-spaced">Curt Mey</hi>: Die Musik als tönende Welt-Idee. Theil I. Leipzig, <date>1901</date>.</p>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-04-00_i0006.xml"
-     prev="WR-04-00_i0005.xml"
-     next="WR-04-01_n0001.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-00_i0006.xml" prev="WR-04-00_i0005.xml" next="WR-04-01_n0001.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,74 +41,179 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 5</title>
+                  <idno>WR-05-01_n0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 3, Halbbd. 2, Nr. 27</title>
+                  <idno>WR-03-02-27_n0633.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 4, Nr. 1</title>
+                  <idno>WR-04-01_n0001.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">AUTOREN- UND INHALTS-VERZEICHNIS.</fw></fw><ab><title>BILDER.</title></ab><table><row><cell>
-<table>
-<row><cell>
-</cell><cell>Nr. 
-</cell><cell>Seite
-</cell></row>
-<row><cell><hi rend="text-spaced">Beardsley</hi>, Aubrey, Zwei Zeich-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">AUTOREN- UND INHALTS-VERZEICHNIS.</fw>
+            </fw>
+            <ab>
+               <title>BILDER.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <table>
+                        <row>
+                           <cell>
+</cell>
+                           <cell>Nr. 
+</cell>
+                           <cell>Seite
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Beardsley</hi>, Aubrey, Zwei Zeich-<lb break="no"/>
 nungen <milestone unit="dots"/>
-</cell><cell><hi rend="strong">12</hi>
-</cell><cell>189
-</cell></row>
-<row><cell> 
-</cell><cell><hi rend="strong">12</hi>
-</cell><cell>211
-</cell></row>
-<row><cell><hi rend="text-spaced">Khnopff</hi>, Fernand, Die Kaiserin <milestone unit="dots"/>
-</cell><cell><hi rend="strong">1</hi> 
-</cell><cell>1
-</cell></row>
-<row><cell><hi rend="text-spaced">Moreau</hi>, Gustave, Les Muses quittent<lb/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">12</hi>
+                           </cell>
+                           <cell>189
+</cell>
+                        </row>
+                        <row>
+                           <cell> 
+</cell>
+                           <cell>
+                              <hi rend="strong">12</hi>
+                           </cell>
+                           <cell>211
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Khnopff</hi>, Fernand, Die Kaiserin <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">1</hi>
+                           </cell>
+                           <cell>1
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Moreau</hi>, Gustave, Les Muses quittent<lb/>
 Apollon <milestone unit="dots"/>
-</cell><cell><hi rend="strong">10</hi> 
-</cell><cell>133
-</cell></row>
-<row><cell><hi rend="text-spaced">Toorop</hi>, Jan, O grave where is thy<lb/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">10</hi>
+                           </cell>
+                           <cell>133
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Toorop</hi>, Jan, O grave where is thy<lb/>
 Victory <milestone unit="dots"/>
-</cell><cell><hi rend="strong">8</hi> 
-</cell><cell>175
-</cell></row>
-</table>
-</cell><cell>
-<table>
-<row><cell>
-</cell><cell>Nr.
-</cell><cell>Seite
-</cell></row>
-<row><cell><hi rend="text-spaced">Vallotton</hi>, Felix, Richard Wagner
-</cell><cell><hi rend="strong">1</hi> 
-</cell><cell>15
-</cell></row>
-<row><cell> — — — Henrik Ibsen <milestone unit="dots"/>
-</cell><cell><hi rend="strong">11</hi> 
-</cell><cell>173
-</cell></row>
-<row><cell> — — — Maurice Maeterlinck
-</cell><cell><hi rend="strong">15</hi>
-</cell><cell>257
-</cell></row>
-<row><cell><hi rend="text-spaced">Wenban</hi>, Sion L., Landschaft <milestone unit="dots"/>
-</cell><cell><hi rend="strong">5</hi> 
-</cell><cell>101
-</cell></row>
-<row><cell>Porträt Dante Gabriel <hi rend="text-spaced">Rossettis</hi> <milestone unit="dots"/>
-</cell><cell><hi rend="strong">1</hi> 
-</cell><cell>9
-</cell></row>
-<row><cell>Porträt der Mrs. Annie <hi rend="text-spaced">Besant</hi> <milestone unit="dots"/>
-</cell><cell><hi rend="strong">11</hi> 
-</cell><cell>247
-</cell></row>
-</table>
-</cell></row></table><milestone unit="undefined"/><milestone unit="imprint-start"/><p>K. k. Hoftheater-Druckerei, I., Wollzeile 17.</p><milestone unit="untyped-end"/><milestone unit="untyped-end"/></div>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">8</hi>
+                           </cell>
+                           <cell>175
+</cell>
+                        </row>
+                     </table>
+                  </cell>
+                  <cell>
+                     <table>
+                        <row>
+                           <cell>
+</cell>
+                           <cell>Nr.
+</cell>
+                           <cell>Seite
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Vallotton</hi>, Felix, Richard Wagner
+</cell>
+                           <cell>
+                              <hi rend="strong">1</hi>
+                           </cell>
+                           <cell>15
+</cell>
+                        </row>
+                        <row>
+                           <cell> — — — Henrik Ibsen <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">11</hi>
+                           </cell>
+                           <cell>173
+</cell>
+                        </row>
+                        <row>
+                           <cell> — — — Maurice Maeterlinck
+</cell>
+                           <cell>
+                              <hi rend="strong">15</hi>
+                           </cell>
+                           <cell>257
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Wenban</hi>, Sion L., Landschaft <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">5</hi>
+                           </cell>
+                           <cell>101
+</cell>
+                        </row>
+                        <row>
+                           <cell>Porträt Dante Gabriel <hi rend="text-spaced">Rossettis</hi>
+                              <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">1</hi>
+                           </cell>
+                           <cell>9
+</cell>
+                        </row>
+                        <row>
+                           <cell>Porträt der Mrs. Annie <hi rend="text-spaced">Besant</hi>
+                              <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">11</hi>
+                           </cell>
+                           <cell>247
+</cell>
+                        </row>
+                     </table>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="undefined"/>
+            <milestone unit="imprint-start"/>
+            <p>K. k. Hoftheater-Druckerei, I., Wollzeile 17.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
       </body>
    </text>
 </TEI>

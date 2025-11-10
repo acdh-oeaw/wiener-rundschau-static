@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-02_n0035.xml"
-     prev="WR-05-02_n0034.xml"
-     next="WR-05-02_n0036.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-02_n0035.xml" prev="WR-05-02_n0034.xml" next="WR-05-02_n0036.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,16 +41,34 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 1</title>
+                  <idno>WR-05-01_n0001.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 3</title>
+                  <idno>WR-05-03_n0049.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">NATKOWSKI: DAS TAGEBUCH DER KOWALEWSKA.</fw></fw><table><row><cell>
-<p rend="no-intend">vergrößern sie den Kreis der durchlebten<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">NATKOWSKI: DAS TAGEBUCH DER KOWALEWSKA.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">vergrößern sie den Kreis der durchlebten<lb/>
 Leiden.</p>
-<p>Die einzige Erlösung, das einzige Mittel,<lb/>
+                     <p>Die einzige Erlösung, das einzige Mittel,<lb/>
 welches das angegriffene Gleichgewicht des<lb/>
 geistig verklärten Organismus wiederherstellen<lb/>
 könnte, indem es ihm von außen neue Kräfte<lb/>
@@ -66,7 +81,7 @@ Weibe« sagt Laura Marholm über Sophia<lb/>
 Kowalewska. Ihre beiden Biographinnen: L.<lb/>
 Marholm und A. Leffler, zogen die Ursache<lb/>
 dieser Erscheinung in Erwägung.</p>
-<p>Laura Marholm (»Das Buch der Frauen«),<lb/>
+                     <p>Laura Marholm (»Das Buch der Frauen«),<lb/>
 die oft feinfühlig, aber, was Liebe anbelangt,<lb/>
 zu anspruchsvoll, ja sogar ungestüm ist, erklärt<lb/>
 es in derselben Weise, in welcher arme, alte<lb/>
@@ -118,8 +133,9 @@ sterben!« Leider ist aber in der Liebe nicht<lb/>
 jeder ein Napoleon; am wenigsten aber der-<lb break="no"/>
 jenige, der seit den jüngsten Jahren die Erde<lb/>
 verlassen hat, um sich in die Wolkenspären</p>
-</cell><cell>
-<p rend="no-intend">des Ideals emporzuschwingen, der wie Eddas<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">des Ideals emporzuschwingen, der wie Eddas<lb/>
 mythischer Held sein Land verlassen und in<lb/>
 das jenseits liegende Land der Jötuner wanderte,<lb/>
 um dort zu versuchen, übermenschliche Thaten<lb/>
@@ -127,8 +143,9 @@ auszuführen: den Ocean des Wissens aus-<lb break="no"/>
 zutrinken, an dem Globus des Elends und<lb/>
 der Gesetzwidrigkeit zu rütteln; der darnach<lb/>
 trachtete, den Tod selber zu besiegen, indem<lb/>
-er seinen Namen in das Erz hineinschnitt! <milestone unit="2dots"/></p>
-<p>Wir wissen, dass Kowalewskas Ehe nur eine<lb/>
+er seinen Namen in das Erz hineinschnitt! <milestone unit="2dots"/>
+                     </p>
+                     <p>Wir wissen, dass Kowalewskas Ehe nur eine<lb/>
 formelle war, und obgleich sie später zur<lb/>
 realen wurde, so konnte doch ein Mensch,<lb/>
 der »nichts mehr im Leben begehrte, wenn<lb/>
@@ -138,7 +155,7 @@ diese Ehe ließ sie Mutter werden, gab ihr aber<lb/>
 keine Liebe. Laura Marholm drückt sich hier<lb/>
 treffend aus: »Mutter wurde sie ja und Gattin<lb/>
 auch — aber Geliebte nicht«.</p>
-<p>Nachdem sich Kowalewska von ihrem Mann<lb/>
+                     <p>Nachdem sich Kowalewska von ihrem Mann<lb/>
 getrennt hatte (der sich in unglückliche Unter-<lb break="no"/>
 nehmungen eingelassen hatte und sich später<lb/>
 das Leben nahm) begegnete sie in Paris einem<lb/>
@@ -160,7 +177,7 @@ theil zur größeren geistigen Verwandlung<lb/>
 und Erschöpfung bei und untergrub zugleich<lb/>
 mit der Nachricht von dem plötzlichen Tode<lb/>
 ihres Mannes ihre Gesundheit.</p>
-<p>Endlich erglänzte für Kowalewskas Hoff-<lb break="no"/>
+                     <p>Endlich erglänzte für Kowalewskas Hoff-<lb break="no"/>
 nung wahre Liebe in der realen oder vielmehr<lb/>
 realistischen Bedeutung dieses Wortes, eine<lb/>
 Liebe, die das gestörte Gleichgewicht zwischen<lb/>
@@ -186,7 +203,10 @@ der gleichsam ein Austausch des Wärmestoffes<lb/>
 zweier Körper von verschiedener Temperatur<lb/>
 war. Dadurch entsteht ein Sinken der psychi-<lb break="no"/>
 schen Temperatur bei dem höheren Individuum</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

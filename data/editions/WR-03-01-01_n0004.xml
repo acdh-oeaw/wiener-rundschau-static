@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-03-01-01_n0004.xml"
-     prev="WR-03-01-01_n0003.xml"
-     next="WR-03-01-01_n0005.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-03-01-01_n0004.xml" prev="WR-03-01-01_n0003.xml" next="WR-03-01-01_n0005.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,144 +42,221 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 2</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 2</title>
+                  <idno>WR-03-02-14_n0321.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 3, Halbbd. 1, Nr. 0</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 3, Halbbd. 1, Nr. 2</title>
+                  <idno>WR-03-01-02_n0025.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">STRINDBERG: DIE SCHLÜSSEL DES HIMMELREICHS.</fw></fw><table><row><cell>
-<lg><l>Ich hab’ mir auch erzählen lassen,</l>
-<l>Von Deinem Wissensdrang und Weisheits-</l>
-<l>durst,</l>
-<l>Und dass Du mehr von Deinem Fach</l>
-<l>verstehst als andre.</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Der Schmied</hi>.</p>
-<lg><l>Man sagt’s. Und wahr ist’s ohne Prahlerei,</l>
-<l>Wenn in den Krug die andern giengen,</l>
-<l>Sass bei den Kindern ich und lernte lesen.</l>
-<l>Und als ich’s selbst verstand, da lehrt’</l>
-<l>ich es die Grossen.</l>
-<l>Mein Käthchen <milestone unit="3dots"/></l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Der Arzt</hi>.</p>
-<lg><l>Was aber lasest Du am liebsten?</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Der Schmied</hi>.</p>
-<lg><l>Von Höfen, Fürsten, Schloss und Burgen,</l>
-<l>Der Grossen Streit, von Heer und Feld-</l>
-<l>schlacht,</l>
-<l>Von alten Zeiten, längst entschwund’nen</l>
-<l>Tagen;</l>
-<l>Kabalen, Diplomaten, Glaubensstiftern,</l>
-<l>Von fremden Ländern, Türken, Persern,</l>
-<l>Kreuzfahrern und den Saracenen</l>
-<l>Und seltsam war’s: Je mehr ich las,</l>
-<l>Je mehr wuchs mein Verlangen nach</l>
-<l>dem Wissen.</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Der Arzt</hi>.</p>
-<lg><l>Du sehntest nie Dich fortzukommen, nie</l>
-<l>zu reisen?</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Der Schmied</hi>.</p>
-<lg><l>O, reisen! Ja! Die grosse, weite Welt zu</l>
-<l>sehen,</l>
-<l>Nicht nach dem Hörensagen bloss von ihr</l>
-<l>zu reden!</l>
-<l>Wer träumt ihn nicht, den Jugendtraum,</l>
-<l>Wer hegte nicht die Jugendhoffnung?</l></lg>
-<milestone unit="untyped-end"/>
-<p>(Während der vorhergehenden und nächst-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">STRINDBERG: DIE SCHLÜSSEL DES HIMMELREICHS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <lg>
+                        <l>Ich hab’ mir auch erzählen lassen,</l>
+                        <l>Von Deinem Wissensdrang und Weisheits-</l>
+                        <l>durst,</l>
+                        <l>Und dass Du mehr von Deinem Fach</l>
+                        <l>verstehst als andre.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Man sagt’s. Und wahr ist’s ohne Prahlerei,</l>
+                        <l>Wenn in den Krug die andern giengen,</l>
+                        <l>Sass bei den Kindern ich und lernte lesen.</l>
+                        <l>Und als ich’s selbst verstand, da lehrt’</l>
+                        <l>ich es die Grossen.</l>
+                        <l>Mein Käthchen <milestone unit="3dots"/>
+                        </l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Was aber lasest Du am liebsten?</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Von Höfen, Fürsten, Schloss und Burgen,</l>
+                        <l>Der Grossen Streit, von Heer und Feld-</l>
+                        <l>schlacht,</l>
+                        <l>Von alten Zeiten, längst entschwund’nen</l>
+                        <l>Tagen;</l>
+                        <l>Kabalen, Diplomaten, Glaubensstiftern,</l>
+                        <l>Von fremden Ländern, Türken, Persern,</l>
+                        <l>Kreuzfahrern und den Saracenen</l>
+                        <l>Und seltsam war’s: Je mehr ich las,</l>
+                        <l>Je mehr wuchs mein Verlangen nach</l>
+                        <l>dem Wissen.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Du sehntest nie Dich fortzukommen, nie</l>
+                        <l>zu reisen?</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>O, reisen! Ja! Die grosse, weite Welt zu</l>
+                        <l>sehen,</l>
+                        <l>Nicht nach dem Hörensagen bloss von ihr</l>
+                        <l>zu reden!</l>
+                        <l>Wer träumt ihn nicht, den Jugendtraum,</l>
+                        <l>Wer hegte nicht die Jugendhoffnung?</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <p>(Während der vorhergehenden und nächst-<lb break="no"/>
 folgenden Scene verschwinden zuerst die Kinder-<lb break="no"/>
 schuhe, dann die Spielsachen, hierauf die<lb/>
 Kleider. All dies aber nach und nach.)</p>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Der Arzt</hi>.</p>
-<lg><l>So sollst Du reisen!</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Der Schmied</hi>.</p>
-<lg><l>Was sagst Du? —</l>
-<l>Mit wem? Wieso?</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Der Arzt</hi>.</p>
-<lg><l>Mit mir!</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Der Schmied</hi>.</p>
-<lg><l>Wohl hörte ich, dass einst in früher Zeit</l>
-<l>Der Herr auf Erden sei umhergewandert,</l>
-<l>Die Menschenkinder zu beglücken!</l>
-<l>Doch dass in unsern Tagen</l></lg>
-</cell><cell>
-<lg><l>Der Volksaufklärung und des Ketzer-</l>
-<l>glaubens</l>
-<l>Noch solch ein Wunderwerk geschehen</l>
-<l>könnt’,</l>
-<l>Das hätt’ ich, Doctor, nimmermehr</l>
-<l>geglaubt!</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Der Arzt</hi>.</p>
-<lg><l>Ja, Wunder kannst Du alle Tage schauen,</l>
-<l>Bis an der Welten Ende!</l>
-<l>Wenn Du das Meer siehst an die Wolken</l>
-<l>steigen,</l>
-<l>Und Wolken sich zur Erde senken, —</l>
-<l>Und wenn dem Samen in der Erd’ ent-</l>
-<l>sprosst die Pflanze,</l>
-<l>Der Blitz den Baum zerschellt, das Eis</l>
-<l>die Sonne schmilzt,</l>
-<l>Wenn Worte spricht der Mund, das Hirn</l>
-<l>Gedanken denkt,</l>
-<l>Geschehen Wunderwerke noch und alle</l>
-<l>Tage.</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Der Schmied</hi>.</p>
-<lg><l>Sag’, kannst Du zaubern, Doctor?</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Der Arzt</hi>.</p>
-<lg><l>Ja, ich so gut wie Du!</l>
-<l>Siehst Du ein Weib, so hässlich wie die</l>
-<l>Sünde,</l>
-<l>So faul wie Jauche, scharf wie Gift,</l>
-<l>Und Du erschaust in ihr die schöne,</l>
-<l>Die gute, engelsgleiche, reine,</l>
-<l>So zauberst Du!</l>
-<l>Als eben jetzt aus der Erinn’rung Tiefen</l>
-<l>Du auferweckt die todten Kleinen</l>
-<l>Und Du sie deutlich schiedest auseinander,</l>
-<l>Dass meinem Auge leibhaft sie erschienen,</l>
-<l>Dass ich sie sah und ihre Stimmen hörte,</l>
-<l>Da wecktest Du die Todten auf,</l>
-<l>Da konntest Du auch zaubern!</l></lg>
-<p>(Er zieht einen Todtenschädel aus der Tasche.)</p>
-<lg><l>Sieh hier die Zauberbüchse, die Natur</l>
-<l>uns gab,</l>
-<l>In dieser Kapsel lag vor kurzem noch,</l>
-<l>Grauweisslich eine Masse, phosphorhalt’gen</l>
-<l>Fetts!</l>
-<l>Durch diese runden Höhlen drangen</l>
-<l>Hinein des Lichtes Wellen,</l>
-<l>Durch diese die des Lautes,</l>
-<l>Da des Geruchs und des Geschmacks.</l>
-<l>Und wenn sie sich im Innern trafen,</l>
-<l>Zurück liess jede ihren Abdruck,</l>
-<l>Bei manchem stärker und bei andern</l>
-<l>schwächer,</l>
-<l>Gesammelt so, vereint, geschieden,</l>
-<l>Befruchtend wirken sie und zeugend.</l></lg>
-</cell></row></table></div>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>So sollst Du reisen!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Was sagst Du? —</l>
+                        <l>Mit wem? Wieso?</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Mit mir!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Wohl hörte ich, dass einst in früher Zeit</l>
+                        <l>Der Herr auf Erden sei umhergewandert,</l>
+                        <l>Die Menschenkinder zu beglücken!</l>
+                        <l>Doch dass in unsern Tagen</l>
+                     </lg>
+                  </cell>
+                  <cell>
+                     <lg>
+                        <l>Der Volksaufklärung und des Ketzer-</l>
+                        <l>glaubens</l>
+                        <l>Noch solch ein Wunderwerk geschehen</l>
+                        <l>könnt’,</l>
+                        <l>Das hätt’ ich, Doctor, nimmermehr</l>
+                        <l>geglaubt!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Ja, Wunder kannst Du alle Tage schauen,</l>
+                        <l>Bis an der Welten Ende!</l>
+                        <l>Wenn Du das Meer siehst an die Wolken</l>
+                        <l>steigen,</l>
+                        <l>Und Wolken sich zur Erde senken, —</l>
+                        <l>Und wenn dem Samen in der Erd’ ent-</l>
+                        <l>sprosst die Pflanze,</l>
+                        <l>Der Blitz den Baum zerschellt, das Eis</l>
+                        <l>die Sonne schmilzt,</l>
+                        <l>Wenn Worte spricht der Mund, das Hirn</l>
+                        <l>Gedanken denkt,</l>
+                        <l>Geschehen Wunderwerke noch und alle</l>
+                        <l>Tage.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Schmied</hi>.</p>
+                     <lg>
+                        <l>Sag’, kannst Du zaubern, Doctor?</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Arzt</hi>.</p>
+                     <lg>
+                        <l>Ja, ich so gut wie Du!</l>
+                        <l>Siehst Du ein Weib, so hässlich wie die</l>
+                        <l>Sünde,</l>
+                        <l>So faul wie Jauche, scharf wie Gift,</l>
+                        <l>Und Du erschaust in ihr die schöne,</l>
+                        <l>Die gute, engelsgleiche, reine,</l>
+                        <l>So zauberst Du!</l>
+                        <l>Als eben jetzt aus der Erinn’rung Tiefen</l>
+                        <l>Du auferweckt die todten Kleinen</l>
+                        <l>Und Du sie deutlich schiedest auseinander,</l>
+                        <l>Dass meinem Auge leibhaft sie erschienen,</l>
+                        <l>Dass ich sie sah und ihre Stimmen hörte,</l>
+                        <l>Da wecktest Du die Todten auf,</l>
+                        <l>Da konntest Du auch zaubern!</l>
+                     </lg>
+                     <p>(Er zieht einen Todtenschädel aus der Tasche.)</p>
+                     <lg>
+                        <l>Sieh hier die Zauberbüchse, die Natur</l>
+                        <l>uns gab,</l>
+                        <l>In dieser Kapsel lag vor kurzem noch,</l>
+                        <l>Grauweisslich eine Masse, phosphorhalt’gen</l>
+                        <l>Fetts!</l>
+                        <l>Durch diese runden Höhlen drangen</l>
+                        <l>Hinein des Lichtes Wellen,</l>
+                        <l>Durch diese die des Lautes,</l>
+                        <l>Da des Geruchs und des Geschmacks.</l>
+                        <l>Und wenn sie sich im Innern trafen,</l>
+                        <l>Zurück liess jede ihren Abdruck,</l>
+                        <l>Bei manchem stärker und bei andern</l>
+                        <l>schwächer,</l>
+                        <l>Gesammelt so, vereint, geschieden,</l>
+                        <l>Befruchtend wirken sie und zeugend.</l>
+                     </lg>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

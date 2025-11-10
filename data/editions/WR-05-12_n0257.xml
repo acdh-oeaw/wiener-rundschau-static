@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-12_n0257.xml"
-     prev="WR-05-12_n0256.xml"
-     next="WR-05-12_n0258.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-12_n0257.xml" prev="WR-05-12_n0256.xml" next="WR-05-12_n0258.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 11</title>
+                  <idno>WR-05-11_n0225.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 13</title>
+                  <idno>WR-05-13_n0265.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">MELNIK: RUSSISCHER BRIEF.</fw></fw><table><row><cell>
-<p rend="no-intend">an seinem Ohr ungehört vorbei: »Nur ein<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MELNIK: RUSSISCHER BRIEF.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">an seinem Ohr ungehört vorbei: »Nur ein<lb/>
 Künstler kann den Sinn des Lebens er-<lb break="no"/>
 rathen«, meinte Novalis, und eben bei<lb/>
 den Künstlern, bei den Schaffenden von<lb/>
@@ -99,12 +114,13 @@ unaufhörlichen Kampf begriffen, nicht nur<lb/>
 mit den ihn Umgebenden, sondern mit<lb/>
 sich selbst, mit den alttestamentarischen<lb/>
 Anfängen seiner eigenen Seele.</p>
-<p>Gegenwärtig befindet sich Herr<lb/>
+                     <p>Gegenwärtig befindet sich Herr<lb/>
 Wolinsky auf einer wissenschaftlichen</p>
-</cell><cell>
-<p rend="no-intend">Reise nach Griechenland, Italien und<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Reise nach Griechenland, Italien und<lb/>
 Constantinopel. In einem Briefe vom<lb/>
-<date>April d. J.</date> schreibt er unter anderem:<lb/>
+                        <date>April d. J.</date> schreibt er unter anderem:<lb/>
 »Meine zukünftigen Arbeiten schweben mir<lb/>
 in folgender Gestalt vor: Für das Ver-<lb break="no"/>
 ständnis der russischen Kunst erscheint mir<lb/>
@@ -124,7 +140,7 @@ neueren, westeuropäischen Einflüsse nur<lb/>
 die Oberfläche der russischen Kunst<lb/>
 berührten und in ihrer Tiefe unter-<lb break="no"/>
 giengen.</p>
-<p>Auf Puschkin angewendet, muss<lb/>
+                     <p>Auf Puschkin angewendet, muss<lb/>
 diese Arbeit, wie ich hoffe, die inter-<lb break="no"/>
 essantesten Resultate liefern. Puschkin ist<lb/>
 der nationalste russische Dichter und das<lb/>
@@ -135,7 +151,7 @@ Ohr flüsterte, kommt mir als lebendige<lb/>
 Verkörperung jenes volkstümlichen Ele-<lb break="no"/>
 mentes vor, mit dem er in ihrer Gestalt<lb/>
 in enge Fühlung gerieth.</p>
-<p>Sollte diese meine Arbeit zu Ende<lb/>
+                     <p>Sollte diese meine Arbeit zu Ende<lb/>
 geführt sein, werde ich mich durch die<lb/>
 russische Literatur, wie ich das schon<lb/>
 durch Leonardo da Vinci, Ljeskow,<lb/>
@@ -151,7 +167,12 @@ denn nur sie concret mir vergegen-<lb break="no"/>
 wärtigend, werde ich imstande sein, in<lb/>
 der Legende mich zurechtzufinden in<lb/>
 ihren Einflüssen auf die neuen Menschen.«</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/></div>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
       </body>
    </text>
 </TEI>

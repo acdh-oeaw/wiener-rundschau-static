@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-18_n0685.xml"
-     prev="WR-02-02-18_n0684.xml"
-     next="WR-02-02-18_n0686.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-18_n0685.xml" prev="WR-02-02-18_n0684.xml" next="WR-02-02-18_n0686.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,15 +42,45 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 17</title>
+                  <idno>WR-02-02-17_n0641.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 19</title>
+                  <idno>WR-02-02-19_n0713.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title><hi rend="text-spaced">DER STERN</hi>.<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">DER STERN</hi>.<lb/>
 Von <rs type="person" key="">MAURICE MAETERLINCK</rs>.<lb/>
-Vom Verfasser autorisierte Übersetzung von <rs type="person" key="">Clara Theumann</rs>.</title></ab><p>Man könnte sagen, dass von Jahrhundert zu Jahrhundert ein<lb/>
+Vom Verfasser autorisierte Übersetzung von <rs type="person" key="">Clara Theumann</rs>.</title>
+            </ab>
+            <p>Man könnte sagen, dass von Jahrhundert zu Jahrhundert ein<lb/>
 tragischer Dichter »mit der Fackel der Dichtkunst in der Hand die<lb/>
 Labyrinthe des Schicksals durchschritten hat«. Sie haben so, ein jeder<lb/>
 nach den Kräften seiner Zeit, die Seele der menschlichen Annalen<lb/>
@@ -61,12 +88,14 @@ festgehalten und dabei die Geschichte Gottes geschrieben. In ihnen<lb/>
 allein kann man die zahllosen Variationen der grossen unabwendbaren<lb/>
 Macht verfolgen, und es ist interessant, sie zu verfolgen, denn das<lb/>
 Reinste aus der Seele der Völker liegt vielleicht in der Vorstellung,<lb/>
-die sie sich von dieser Macht gebildet haben.</p><p>Nur ein einzigesmal ist sie ausschliesslich angebetet worden.<lb/>
+die sie sich von dieser Macht gebildet haben.</p>
+            <p>Nur ein einzigesmal ist sie ausschliesslich angebetet worden.<lb/>
 Sie war damals selbst für die Götter ein furchtbares Mysterium. Es<lb/>
 ist seltsam zu constatieren, dass die Zeit, in der die Gottheit ohne<lb/>
 Antlitz am schrecklichsten und unverständlichsten schien, die schönste<lb/>
 Zeit der Menschheit war, und dass es das glücklichste aller Völker<lb/>
-war, welches sich das Schicksal in der furchtbarsten Gestalt vorstellte.</p><p>Es scheint, dass in dieser Vorstellung eine geheime Kraft liegt,<lb/>
+war, welches sich das Schicksal in der furchtbarsten Gestalt vorstellte.</p>
+            <p>Es scheint, dass in dieser Vorstellung eine geheime Kraft liegt,<lb/>
 oder dass diese Vorstellung das Zeichen einer Kraft ist. Wächst der<lb/>
 Mensch in dem Masse, in dem er die Grösse des Unbewussten, das<lb/>
 ihn beherrscht, erkannt, oder wächst das Unbewusste im Verhältnis<lb/>
@@ -78,14 +107,16 @@ es gibt keinen glücklichen Stern. Jener, den man so nennt, ist ein<lb/>
 Schicksal, das sich geduldet. Es ist übrigens wichtig, dass wir manchmal<lb/>
 auf die Suche nach unseren Kümmernissen gehen, um sie zu kennen<lb/>
 und zu bewundern, selbst wenn wir an ihrem Ende nicht die grosse<lb/>
-unförmige Masse unseres Schicksals finden.</p><p>Es ist dies die wirksamste Art, auf die Suche nach seinem<lb/>
+unförmige Masse unseres Schicksals finden.</p>
+            <p>Es ist dies die wirksamste Art, auf die Suche nach seinem<lb/>
 eigenen Ich zu gehen; denn man kann sagen, dass wir nur das sind,<lb/>
 was unsere Unruhen und unsere Schwermuthsstimmungen sind. Je mehr<lb/>
 wir vorschreiten, desto tiefer, edler und schöner werden sie, und<lb/>
 Marc Aurel ist der bewunderungswürdigste der Menschen, weil er<lb/>
 besser als irgend jemand begriffen hat, was unsere Seele in das kläg-<lb break="no"/>
 liche resignierte Lächeln gelegt hat, das wohl auf ihrem Grunde ruht.<lb/>
-Dasselbe gilt von den Kümmernissen der Menscheit. Sie gehen einen</p></div>
+Dasselbe gilt von den Kümmernissen der Menscheit. Sie gehen einen</p>
+         </div>
       </body>
    </text>
 </TEI>

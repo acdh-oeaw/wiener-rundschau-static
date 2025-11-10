@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-04-00_i0005.xml"
-     prev="WR-04-00_i0004.xml"
-     next="WR-04-00_i0006.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-00_i0005.xml" prev="WR-04-00_i0004.xml" next="WR-04-00_i0006.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,343 +41,761 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 5</title>
+                  <idno>WR-05-01_n0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 3, Halbbd. 2, Nr. 27</title>
+                  <idno>WR-03-02-27_n0633.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 4, Nr. 1</title>
+                  <idno>WR-04-01_n0001.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">AUTOREN- UND INHALTS-VERZEICHNIS.</fw></fw><table><row><cell>
-<table>
-<row><cell>
-</cell><cell>Nr.
-</cell><cell>Seit
-</cell></row>
-<row><cell>S., B., Theater* <milestone unit="dots"/>
-</cell><cell><hi rend="strong">12</hi>
-</cell><cell>214
-</cell></row>
-<row><cell><hi rend="text-spaced">Sachs</hi>, Otto, Lionardo da Vinci <milestone unit="dots"/>
-</cell><cell><hi rend="strong">4</hi>
-</cell><cell>84
-</cell></row>
-<row><cell>  (Schluss) <milestone unit="dots"/>
-</cell><cell><hi rend="strong">6</hi>
-</cell><cell>135
-</cell></row>
-<row><cell>Sch., W., »The Studio« <milestone unit="dots"/>
-</cell><cell><hi rend="strong">3</hi>
-</cell><cell>75
-</cell></row>
-<row><cell><hi rend="text-spaced">Schlaf</hi>, Johannes, Sophus Michaelis:<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">AUTOREN- UND INHALTS-VERZEICHNIS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <table>
+                        <row>
+                           <cell>
+</cell>
+                           <cell>Nr.
+</cell>
+                           <cell>Seit
+</cell>
+                        </row>
+                        <row>
+                           <cell>S., B., Theater* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">12</hi>
+                           </cell>
+                           <cell>214
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Sachs</hi>, Otto, Lionardo da Vinci <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">4</hi>
+                           </cell>
+                           <cell>84
+</cell>
+                        </row>
+                        <row>
+                           <cell>  (Schluss) <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">6</hi>
+                           </cell>
+                           <cell>135
+</cell>
+                        </row>
+                        <row>
+                           <cell>Sch., W., »The Studio« <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">3</hi>
+                           </cell>
+                           <cell>75
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Schlaf</hi>, Johannes, Sophus Michaelis:<lb/>
 »Aebelö«. — Hunger und Liebe.<lb/>
 Von Irma v. Troll-Borostyáni*
-</cell><cell><hi rend="strong">11</hi>
-</cell><cell>176
-</cell></row>
-<row><cell> Bücher* <milestone unit="dots"/>
-</cell><cell><hi rend="strong">15</hi>
-</cell><cell>274
-</cell></row>
-<row><cell> Multatuli <milestone unit="dots"/>
-</cell><cell><hi rend="strong">23</hi>
-</cell><cell>406
-</cell></row>
-<row><cell> Maurice Maeterlinck: Drei<lb/>
+</cell>
+                           <cell>
+                              <hi rend="strong">11</hi>
+                           </cell>
+                           <cell>176
+</cell>
+                        </row>
+                        <row>
+                           <cell> Bücher* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">15</hi>
+                           </cell>
+                           <cell>274
+</cell>
+                        </row>
+                        <row>
+                           <cell> Multatuli <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">23</hi>
+                           </cell>
+                           <cell>406
+</cell>
+                        </row>
+                        <row>
+                           <cell> Maurice Maeterlinck: Drei<lb/>
 mystische Spiele* <milestone unit="dots"/>
-</cell><cell><hi rend="strong">24</hi>
-</cell><cell>440
-</cell></row>
-<row><cell><hi rend="text-spaced">Schmitt</hi>, Eugen Heinrich, Die Ent-<lb break="no"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">24</hi>
+                           </cell>
+                           <cell>440
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Schmitt</hi>, Eugen Heinrich, Die Ent-<lb break="no"/>
 stehung des socialen Problems
-</cell><cell><hi rend="strong">6</hi>
-</cell><cell>141
-</cell></row>
-<row><cell><hi rend="text-spaced">Schmitz</hi>, Oscar A. H., Rückblicke<lb/>
+</cell>
+                           <cell>
+                              <hi rend="strong">6</hi>
+                           </cell>
+                           <cell>141
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Schmitz</hi>, Oscar A. H., Rückblicke<lb/>
 auf Paris und die Ausstellung
-</cell><cell><hi rend="strong">22</hi>
-</cell><cell>393
-</cell></row>
-<row><cell><hi rend="text-spaced">Schölermann</hi>, W., John Ruskin*
-</cell><cell><hi rend="strong">4</hi>
-</cell><cell>96
-</cell></row>
-<row><cell><hi rend="text-spaced">Scholz</hi>, Wilhelm von, Symbolische<lb/>
+</cell>
+                           <cell>
+                              <hi rend="strong">22</hi>
+                           </cell>
+                           <cell>393
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Schölermann</hi>, W., John Ruskin*
+</cell>
+                           <cell>
+                              <hi rend="strong">4</hi>
+                           </cell>
+                           <cell>96
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Scholz</hi>, Wilhelm von, Symbolische<lb/>
 Kunst <milestone unit="dots"/>
-</cell><cell><hi rend="strong">8</hi>
-</cell><cell>177
-</cell></row>
-<row><cell><hi rend="text-spaced">Seiling</hi>, Max, Prof., Occultismus und<lb/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">8</hi>
+                           </cell>
+                           <cell>177
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Seiling</hi>, Max, Prof., Occultismus und<lb/>
 officielle Wissenschaft <milestone unit="dots"/>
-</cell><cell><hi rend="strong">9</hi>
-</cell><cell>120
-</cell></row>
-<row><cell> Christen und Heiden <milestone unit="dots"/>
-</cell><cell><hi rend="strong">13</hi>
-</cell><cell>233
-</cell></row>
-<row><cell><hi rend="text-spaced">Sokal</hi>, Eduard, Der Schwachsinn des<lb/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">9</hi>
+                           </cell>
+                           <cell>120
+</cell>
+                        </row>
+                        <row>
+                           <cell> Christen und Heiden <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">13</hi>
+                           </cell>
+                           <cell>233
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Sokal</hi>, Eduard, Der Schwachsinn des<lb/>
 Weibes <milestone unit="dots"/>
-</cell><cell><hi rend="strong">17</hi>
-</cell><cell>291
-</cell></row>
-<row><cell><hi rend="text-spaced">Spreti</hi>, Adolf Graf von, Das System<lb/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">17</hi>
+                           </cell>
+                           <cell>291
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Spreti</hi>, Adolf Graf von, Das System<lb/>
 des Védanta <milestone unit="dots"/>
-</cell><cell><hi rend="strong">4</hi>
-</cell><cell>79
-</cell></row>
-<row><cell> Wille und Heilung <milestone unit="dots"/>
-</cell><cell><hi rend="strong">9</hi>
-</cell><cell>118
-</cell></row>
-<row><cell> Das göttliche Alphabet <milestone unit="dots"/>
-</cell><cell><hi rend="strong">11</hi>
-</cell><cell>165
-</cell></row>
-<row><cell>Strindberg, August, Ein Brief <milestone unit="dots"/>
-</cell><cell><hi rend="strong">16</hi>
-</cell><cell>278
-</cell></row>
-<row><cell> Zur Physiologie des Geschmacks
-</cell><cell><hi rend="strong">19</hi>
-</cell><cell>338
-</cell></row>
-<row><cell><hi rend="text-spaced">Th</hi>., Londoner Vorträge. — Pariser<lb/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">4</hi>
+                           </cell>
+                           <cell>79
+</cell>
+                        </row>
+                        <row>
+                           <cell> Wille und Heilung <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">9</hi>
+                           </cell>
+                           <cell>118
+</cell>
+                        </row>
+                        <row>
+                           <cell> Das göttliche Alphabet <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">11</hi>
+                           </cell>
+                           <cell>165
+</cell>
+                        </row>
+                        <row>
+                           <cell>Strindberg, August, Ein Brief <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">16</hi>
+                           </cell>
+                           <cell>278
+</cell>
+                        </row>
+                        <row>
+                           <cell> Zur Physiologie des Geschmacks
+</cell>
+                           <cell>
+                              <hi rend="strong">19</hi>
+                           </cell>
+                           <cell>338
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Th</hi>., Londoner Vorträge. — Pariser<lb/>
 Congresse* <milestone unit="dots"/>
-</cell><cell><hi rend="strong">18</hi>
-</cell><cell>325
-</cell></row>
-<row><cell> Religions-philosophische Vor-<lb break="no"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">18</hi>
+                           </cell>
+                           <cell>325
+</cell>
+                        </row>
+                        <row>
+                           <cell> Religions-philosophische Vor-<lb break="no"/>
 träge* <milestone unit="dots"/>
-</cell><cell><hi rend="strong">21</hi>
-</cell><cell>378
-</cell></row>
-</table>
-</cell><cell>
-<table>
-<row><cell>
-</cell><cell>Nr.
-</cell><cell>Seite
-</cell></row>
-<row><cell>Th., K. v., Max Müller <milestone unit="dots"/>
-</cell><cell><hi rend="strong">23</hi>
-</cell><cell>417
-</cell></row>
-<row><cell><hi rend="text-spaced">Thomassin</hi>, Carl von, Die Theo-<lb break="no"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">21</hi>
+                           </cell>
+                           <cell>378
+</cell>
+                        </row>
+                     </table>
+                  </cell>
+                  <cell>
+                     <table>
+                        <row>
+                           <cell>
+</cell>
+                           <cell>Nr.
+</cell>
+                           <cell>Seite
+</cell>
+                        </row>
+                        <row>
+                           <cell>Th., K. v., Max Müller <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">23</hi>
+                           </cell>
+                           <cell>417
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Thomassin</hi>, Carl von, Die Theo-<lb break="no"/>
 sophin Annie Besant <milestone unit="dots"/>
-</cell><cell><hi rend="strong">3</hi>
-</cell><cell>63
-</cell></row>
-<row><cell> Deutsche Buddhisten <milestone unit="dots"/>
-</cell><cell><hi rend="strong">8</hi>
-</cell><cell>187
-</cell></row>
-<row><cell> Zur Geschichte der Passions-<lb break="no"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">3</hi>
+                           </cell>
+                           <cell>63
+</cell>
+                        </row>
+                        <row>
+                           <cell> Deutsche Buddhisten <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">8</hi>
+                           </cell>
+                           <cell>187
+</cell>
+                        </row>
+                        <row>
+                           <cell> Zur Geschichte der Passions-<lb break="no"/>
 spiele <milestone unit="dots"/>
-</cell><cell><hi rend="strong">10</hi>
-</cell><cell>147
-</cell></row>
-<row><cell><hi rend="text-spaced">Tolstoi</hi>, Leo, Glosse über den<lb/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">10</hi>
+                           </cell>
+                           <cell>147
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Tolstoi</hi>, Leo, Glosse über den<lb/>
 Selbstmord <milestone unit="dots"/>
-</cell><cell><hi rend="strong">15</hi>
-</cell><cell>262
-</cell></row>
-<row><cell> Über den Sinn des Lebens <milestone unit="dots"/>
-</cell><cell><hi rend="strong">19</hi>
-</cell><cell>337
-</cell></row>
-<row><cell><hi rend="text-spaced">Topelius</hi>, Zacharias, Der Gedanke
-</cell><cell><hi rend="strong">11</hi>
-</cell><cell>161
-</cell></row>
-<row><cell><hi rend="text-spaced">Tschechoff</hi>, Anton, Der Mensch<lb/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">15</hi>
+                           </cell>
+                           <cell>262
+</cell>
+                        </row>
+                        <row>
+                           <cell> Über den Sinn des Lebens <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">19</hi>
+                           </cell>
+                           <cell>337
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Topelius</hi>, Zacharias, Der Gedanke
+</cell>
+                           <cell>
+                              <hi rend="strong">11</hi>
+                           </cell>
+                           <cell>161
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Tschechoff</hi>, Anton, Der Mensch<lb/>
 im Futteral <milestone unit="dots"/>
-</cell><cell><hi rend="strong">2</hi>
-</cell><cell>47
-</cell></row>
-<row><cell>  (Forts. und Schluss)
-</cell><cell><hi rend="strong">3</hi>
-</cell><cell>58
-</cell></row>
-<row><cell> Der Student <milestone unit="dots"/>
-</cell><cell><hi rend="strong">23</hi>
-</cell><cell>404
-</cell></row>
-<row><cell><hi rend="text-spaced">Vick</hi>, Carl, Was am Wege liegt <milestone unit="dots"/>
-</cell><cell><hi rend="strong">24</hi>
-</cell><cell>436
-</cell></row>
-<row><cell><hi rend="text-spaced">Wachtelborn</hi>, Carl, Die Naturheil-<lb break="no"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">2</hi>
+                           </cell>
+                           <cell>47
+</cell>
+                        </row>
+                        <row>
+                           <cell>  (Forts. und Schluss)
+</cell>
+                           <cell>
+                              <hi rend="strong">3</hi>
+                           </cell>
+                           <cell>58
+</cell>
+                        </row>
+                        <row>
+                           <cell> Der Student <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">23</hi>
+                           </cell>
+                           <cell>404
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Vick</hi>, Carl, Was am Wege liegt <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">24</hi>
+                           </cell>
+                           <cell>436
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Wachtelborn</hi>, Carl, Die Naturheil-<lb break="no"/>
 bewegung <milestone unit="dots"/>
-</cell><cell><hi rend="strong">1</hi>
-</cell><cell>18
-</cell></row>
-<row><cell><hi rend="text-spaced">Wickström</hi>, Victor Hugo, Die Klippen-<lb break="no"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">1</hi>
+                           </cell>
+                           <cell>18
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Wickström</hi>, Victor Hugo, Die Klippen-<lb break="no"/>
 insel <milestone unit="dots"/>
-</cell><cell><hi rend="strong">9</hi>
-</cell><cell>115
-</cell></row>
-<row><cell><hi rend="text-spaced">Wilde</hi>, Oscar, Die Wahrheit der<lb/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">9</hi>
+                           </cell>
+                           <cell>115
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Wilde</hi>, Oscar, Die Wahrheit der<lb/>
 Maske <milestone unit="dots"/>
-</cell><cell><hi rend="strong">5</hi>
-</cell><cell>112
-</cell></row>
-<row><cell> Salome <milestone unit="dots"/>
-</cell><cell><hi rend="strong">12</hi>
-</cell><cell>189
-</cell></row>
-<row><cell> Aus der Ballade des Stockhauses<lb/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">5</hi>
+                           </cell>
+                           <cell>112
+</cell>
+                        </row>
+                        <row>
+                           <cell> Salome <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">12</hi>
+                           </cell>
+                           <cell>189
+</cell>
+                        </row>
+                        <row>
+                           <cell> Aus der Ballade des Stockhauses<lb/>
 zu Reading <milestone unit="dots"/>
-</cell><cell><hi rend="strong">20</hi>
-</cell><cell>345
-</cell></row>
-<row><cell> Im Hause des Richters <milestone unit="dots"/>
-</cell><cell><hi rend="strong">24</hi>
-</cell><cell>421
-</cell></row>
-<row><cell><hi rend="text-spaced">Ysaey</hi>, L., Der Garten <milestone unit="dots"/>
-</cell><cell><hi rend="strong">7</hi>
-</cell><cell>149
-</cell></row>
-<row><cell>Zuckerkandl, B., Japanische Kunst-<lb break="no"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">20</hi>
+                           </cell>
+                           <cell>345
+</cell>
+                        </row>
+                        <row>
+                           <cell> Im Hause des Richters <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">24</hi>
+                           </cell>
+                           <cell>421
+</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi rend="text-spaced">Ysaey</hi>, L., Der Garten <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">7</hi>
+                           </cell>
+                           <cell>149
+</cell>
+                        </row>
+                        <row>
+                           <cell>Zuckerkandl, B., Japanische Kunst-<lb break="no"/>
 ausstellung <milestone unit="dots"/>
-</cell><cell><hi rend="strong">3</hi>
-</cell><cell>70
-</cell></row>
-</table>
-</cell></row></table><milestone unit="undefined"/><ab><title><hi rend="text-spaced">RUNDSCHAU</hi>.</title></ab><table><row><cell>
-<table>
-<row><cell>
-</cell><cell>Nr.
-</cell><cell>Seite
-</cell></row>
-<row><cell>Ästhetische Uncultur unserer Bühnen-<lb break="no"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">3</hi>
+                           </cell>
+                           <cell>70
+</cell>
+                        </row>
+                     </table>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="undefined"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">RUNDSCHAU</hi>.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <table>
+                        <row>
+                           <cell>
+</cell>
+                           <cell>Nr.
+</cell>
+                           <cell>Seite
+</cell>
+                        </row>
+                        <row>
+                           <cell>Ästhetische Uncultur unserer Bühnen-<lb break="no"/>
 Decoration* <milestone unit="dots"/>
-</cell><cell><hi rend="strong">12</hi>
-</cell><cell>215
-</cell></row>
-<row><cell>Bewohnbarkeit des Mondes* <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">12</hi> 
-</cell><cell>216
-</cell></row>
-<row><cell>Eekhoud, Georges* <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">17</hi> 
-</cell><cell>308
-</cell></row>
-<row><cell>Fieber-Erscheinungen bei Pflanzen <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">10</hi> 
-</cell><cell>156
-</cell></row>
-<row><cell>Gehirn des Weibes* <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">14</hi> 
-</cell><cell>255
-</cell></row>
-<row><cell>Geschlecht der Charaktere* <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">10</hi> 
-</cell><cell>156
-</cell></row>
-<row><cell>Gorkij, Maxim* <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">11</hi> 
-</cell><cell>180
-</cell></row>
-<row><cell>Internationaler theosophischer Con-<lb break="no"/>
-gress* <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">10</hi> 
-</cell><cell>156
-</cell></row>
-<row><cell>Kunst* <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">8</hi> 
-</cell><cell>203
-</cell></row>
-<row><cell>Maurice Maeterlincks Das Mysterium<lb/>
-der Gerechtigkeit* <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">11</hi> 
-</cell><cell>178
-</cell></row>
-<row><cell>Materielle Stellung der deutschen<lb/>
-Dichter und Schriftsteller* <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">16</hi> 
-</cell><cell>289
-</cell></row>
-<row><cell>Melancholische Gesichtsausdruck und<lb/>
-seine Bahn, Der <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">14</hi>
-</cell><cell>255
-</cell></row>
-<row><cell>Musikalischen Centren des Gehirns, Die* 
-</cell><cell><hi rend="strong">11</hi> 
-</cell><cell>179
-</cell></row>
-</table>
-</cell><cell>
-<table>
-<row><cell>Notizen* <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">6</hi> 
-</cell><cell>148
-</cell></row>
-<row><cell>Rimbaud, Arthur* <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">17</hi> 
-</cell><cell>307
-</cell></row>
-<row><cell>Rodin* <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">22</hi> 
-</cell><cell>397
-</cell></row>
-<row><cell>Schauspielkunst und Mcdianimität* <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">23</hi> 
-</cell><cell>419
-</cell></row>
-<row><cell>Secession* <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">23</hi> 
-</cell><cell>417
-</cell></row>
-<row><cell>Sinne des primitiven Menschen* <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">14</hi> 
-</cell><cell>256
-</cell></row>
-<row><cell>Sitz des mathematischen Sinns* <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">11</hi> 
-</cell><cell>178
-</cell></row>
-<row><cell>Sociologie des Genies, Die* <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">12</hi> 
-</cell><cell>215
-</cell></row>
-<row><cell>Spiritualistische Bewegung, Die* <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">8</hi> 
-</cell><cell>206
-</cell></row>
-<row><cell>Spiritualistische Bewegung, Die* <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">9</hi> 
-</cell><cell>132
-</cell></row>
-<row><cell>Theosophin Annie Besant, Die* <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">14</hi> 
-</cell><cell>254
-</cell></row>
-<row><cell>Theosophische Zeitschriften <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">8</hi> 
-</cell><cell>207
-</cell></row>
-<row><cell>Vererbung künstlerischer Talente* <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">20</hi> 
-</cell><cell>362
-</cell></row>
-<row><cell>Vorgeburtliche Beeinflussung* <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">11</hi> 
-</cell><cell>179
-</cell></row>
-<row><cell>Wenban, Sion L.* <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">5</hi> 
-</cell><cell>124
-</cell></row>
-<row><cell>Wirkung der Farben und des farbigen<lb/>
-Lichtes auf die Nerven* <milestone unit="dots"/> 
-</cell><cell><hi rend="strong">10</hi> 
-</cell><cell>156
-</cell></row>
-</table>
-</cell></row></table></div>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">12</hi>
+                           </cell>
+                           <cell>215
+</cell>
+                        </row>
+                        <row>
+                           <cell>Bewohnbarkeit des Mondes* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">12</hi>
+                           </cell>
+                           <cell>216
+</cell>
+                        </row>
+                        <row>
+                           <cell>Eekhoud, Georges* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">17</hi>
+                           </cell>
+                           <cell>308
+</cell>
+                        </row>
+                        <row>
+                           <cell>Fieber-Erscheinungen bei Pflanzen <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">10</hi>
+                           </cell>
+                           <cell>156
+</cell>
+                        </row>
+                        <row>
+                           <cell>Gehirn des Weibes* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">14</hi>
+                           </cell>
+                           <cell>255
+</cell>
+                        </row>
+                        <row>
+                           <cell>Geschlecht der Charaktere* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">10</hi>
+                           </cell>
+                           <cell>156
+</cell>
+                        </row>
+                        <row>
+                           <cell>Gorkij, Maxim* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">11</hi>
+                           </cell>
+                           <cell>180
+</cell>
+                        </row>
+                        <row>
+                           <cell>Internationaler theosophischer Con-<lb break="no"/>
+gress* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">10</hi>
+                           </cell>
+                           <cell>156
+</cell>
+                        </row>
+                        <row>
+                           <cell>Kunst* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">8</hi>
+                           </cell>
+                           <cell>203
+</cell>
+                        </row>
+                        <row>
+                           <cell>Maurice Maeterlincks Das Mysterium<lb/>
+der Gerechtigkeit* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">11</hi>
+                           </cell>
+                           <cell>178
+</cell>
+                        </row>
+                        <row>
+                           <cell>Materielle Stellung der deutschen<lb/>
+Dichter und Schriftsteller* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">16</hi>
+                           </cell>
+                           <cell>289
+</cell>
+                        </row>
+                        <row>
+                           <cell>Melancholische Gesichtsausdruck und<lb/>
+seine Bahn, Der <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">14</hi>
+                           </cell>
+                           <cell>255
+</cell>
+                        </row>
+                        <row>
+                           <cell>Musikalischen Centren des Gehirns, Die* 
+</cell>
+                           <cell>
+                              <hi rend="strong">11</hi>
+                           </cell>
+                           <cell>179
+</cell>
+                        </row>
+                     </table>
+                  </cell>
+                  <cell>
+                     <table>
+                        <row>
+                           <cell>Notizen* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">6</hi>
+                           </cell>
+                           <cell>148
+</cell>
+                        </row>
+                        <row>
+                           <cell>Rimbaud, Arthur* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">17</hi>
+                           </cell>
+                           <cell>307
+</cell>
+                        </row>
+                        <row>
+                           <cell>Rodin* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">22</hi>
+                           </cell>
+                           <cell>397
+</cell>
+                        </row>
+                        <row>
+                           <cell>Schauspielkunst und Mcdianimität* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">23</hi>
+                           </cell>
+                           <cell>419
+</cell>
+                        </row>
+                        <row>
+                           <cell>Secession* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">23</hi>
+                           </cell>
+                           <cell>417
+</cell>
+                        </row>
+                        <row>
+                           <cell>Sinne des primitiven Menschen* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">14</hi>
+                           </cell>
+                           <cell>256
+</cell>
+                        </row>
+                        <row>
+                           <cell>Sitz des mathematischen Sinns* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">11</hi>
+                           </cell>
+                           <cell>178
+</cell>
+                        </row>
+                        <row>
+                           <cell>Sociologie des Genies, Die* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">12</hi>
+                           </cell>
+                           <cell>215
+</cell>
+                        </row>
+                        <row>
+                           <cell>Spiritualistische Bewegung, Die* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">8</hi>
+                           </cell>
+                           <cell>206
+</cell>
+                        </row>
+                        <row>
+                           <cell>Spiritualistische Bewegung, Die* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">9</hi>
+                           </cell>
+                           <cell>132
+</cell>
+                        </row>
+                        <row>
+                           <cell>Theosophin Annie Besant, Die* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">14</hi>
+                           </cell>
+                           <cell>254
+</cell>
+                        </row>
+                        <row>
+                           <cell>Theosophische Zeitschriften <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">8</hi>
+                           </cell>
+                           <cell>207
+</cell>
+                        </row>
+                        <row>
+                           <cell>Vererbung künstlerischer Talente* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">20</hi>
+                           </cell>
+                           <cell>362
+</cell>
+                        </row>
+                        <row>
+                           <cell>Vorgeburtliche Beeinflussung* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">11</hi>
+                           </cell>
+                           <cell>179
+</cell>
+                        </row>
+                        <row>
+                           <cell>Wenban, Sion L.* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">5</hi>
+                           </cell>
+                           <cell>124
+</cell>
+                        </row>
+                        <row>
+                           <cell>Wirkung der Farben und des farbigen<lb/>
+Lichtes auf die Nerven* <milestone unit="dots"/>
+                           </cell>
+                           <cell>
+                              <hi rend="strong">10</hi>
+                           </cell>
+                           <cell>156
+</cell>
+                        </row>
+                     </table>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

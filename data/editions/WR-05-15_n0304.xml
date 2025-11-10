@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-15_n0304.xml"
-     prev="WR-05-15_n0303.xml"
-     next="WR-05-15_n0305.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-15_n0304.xml" prev="WR-05-15_n0303.xml" next="WR-05-15_n0305.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,19 +41,37 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 14</title>
+                  <idno>WR-05-14_n0279.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 16</title>
+                  <idno>WR-05-16_n0313.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">VICK: PSYCHOGRAPHOLOG1E.</fw></fw><table><row><cell>
-<p rend="no-intend">seiner selbst auf die vorliegende Stabilität,<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">VICK: PSYCHOGRAPHOLOG1E.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">seiner selbst auf die vorliegende Stabilität,<lb/>
 sondern auf alle in ihm liegenden mög-<lb break="no"/>
 lichen Erscheinungsformen. Dieser beson-<lb break="no"/>
 dere Vorgang entwickelt sich als Erkenntnis-<lb break="no"/>
 act im Beobachtenden.</p>
-<p>Psychische Kraft scenisiert und dra-<lb break="no"/>
+                     <p>Psychische Kraft scenisiert und dra-<lb break="no"/>
 matisiert diejenigen Stabilitäten, deren<lb/>
 Wurzeln mit ihrer Wurzel in einer Reihe<lb/>
 stehen; und zwar ist, da die Stabilität nicht<lb/>
@@ -76,8 +91,9 @@ Das Bemühen, die Wurzel der eigenen<lb/>
 Erscheinung mit der Wurzel alles Erschei-<lb break="no"/>
 nens in Übereinstimmung zu setzen, das<lb/>
 heißt die Zielkräfte zu vereinigen, alles</p>
-</cell><cell>
-<p rend="no-intend">Differenzielle, wie Hass, Noth, Widerspruch,<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Differenzielle, wie Hass, Noth, Widerspruch,<lb/>
 Egoismus überwinden, alles Einigende auf-<lb break="no"/>
 bauen zu wollen, ist wesentlicher Thätig-<lb break="no"/>
 keitstrieb der Psyche. Soweit dies natür-<lb break="no"/>
@@ -92,7 +108,7 @@ der Wurzeln in den Willen, macht man<lb/>
 die Vereinigung zum Gegenstand prakti-<lb break="no"/>
 scher Arbeit, so legt man sich selbst den<lb/>
 Grund zur Entwicklung sensitiven Schauens.</p>
-<p>Es nimmt sich wunderbar aus, die<lb/>
+                     <p>Es nimmt sich wunderbar aus, die<lb/>
 todte Form die letzten Geheimnisse ihres<lb/>
 Schöpfers preisgeben zu sehen. Erschei-<lb break="no"/>
 nungen sind Schatten, erzeugt aus vielen<lb/>
@@ -102,7 +118,12 @@ thode einerseits, in ihren Resultaten anderer-<lb break="no"/>
 seits die Kenntnis jenes Ich, von welchem<lb/>
 wir so fern sind wie der Tag vom Traum.<lb/>
 Sie übermittelt psychisches Wissen.</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/></div>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
       </body>
    </text>
 </TEI>

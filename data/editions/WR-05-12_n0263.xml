@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-12_n0263.xml"
-     prev="WR-05-12_n0262.xml"
-     next="WR-05-12_n0264.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-12_n0263.xml" prev="WR-05-12_n0262.xml" next="WR-05-12_n0264.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 11</title>
+                  <idno>WR-05-11_n0225.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 13</title>
+                  <idno>WR-05-13_n0265.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BLEIBTREU: »ARBEIT«.</fw></fw><table><row><cell>
-<p rend="no-intend">den Proletariern vorzugaukeln, diese Ge-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BLEIBTREU: »ARBEIT«.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">den Proletariern vorzugaukeln, diese Ge-<lb break="no"/>
 sellschaftsordnung sei so schwach und<lb/>
 feige, dass es kaum der Mühe lohnt, ihr<lb/>
 noch den letzten Fusstritt zu geben. Man<lb/>
@@ -62,7 +77,7 @@ Zola-Froment ein Phantast und falscher<lb/>
 Glücksprophet sei und noch ein Jahr-<lb break="no"/>
 hundertkampf seinen Traum von selbst<lb/>
 nur theilweiser Erfüllung trenne.</p>
-<p>Für Diejenigen freilich, die sich mit<lb/>
+                     <p>Für Diejenigen freilich, die sich mit<lb/>
 seiner Haltung in der Dreyfußsache nicht<lb/>
 befreundeten und eitle Reclamepose da-<lb break="no"/>
 hinter witterten, fällt jetzt auf seinen<lb/>
@@ -81,15 +96,16 @@ bloß Namen, Mittel zum j’accuse-Produ-<lb break="no"/>
 cieren. Voll ehrlichstem Eifer, voll schöner<lb/>
 Erbosung gegen jedes wirkliche oder an-<lb break="no"/>
 gebliche Unrecht, liegt ihm allerdings die</p>
-</cell><cell>
-<p rend="no-intend">schwerere Zurückhaltung ernster, gewissen-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">schwerere Zurückhaltung ernster, gewissen-<lb break="no"/>
 hafter Prüfung des Für und Wider fern.<lb/>
 Vom Augenblicke launisch fortgerissen,<lb/>
 sieht er nur noch Pechschwärze oder<lb/>
 Rosenfarbe. Alle Zweifler an Dreyfuß<lb/>
 sind verrückte Schufte, alle Dreyfuß-<lb break="no"/>
 anbeter haben »eine Seele von Krystall«.</p>
-<p>Wird der neue Evangelist in diesem<lb/>
+                     <p>Wird der neue Evangelist in diesem<lb/>
 Stile weiterpredigen? Oder wird sein Genie<lb/>
 zur Erkenntnis erwachen, dass seine pseudo-<lb break="no"/>
 erhabene Seichtigkeit sich allzu fröhlich<lb/>
@@ -111,7 +127,16 @@ metaphysische Bedürfnis mit einem Feder-<lb break="no"/>
 strich beseitigen, doch dies reicht in<lb/>
 höhere Sphären hinauf, als seine Schul-<lb break="no"/>
 weisheit sich träumen lässt.</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/><milestone unit="hr"/><milestone unit="imprint-start"/><p>Verantwortl. Redacteur: R. Dworschak. — K. k. Hoftheater-Druckerei, Wien. I., Wollzeile 17. (Verantwortl. A. Rimrich.)</p><milestone unit="untyped-end"/></div>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="hr"/>
+            <milestone unit="imprint-start"/>
+            <p>Verantwortl. Redacteur: R. Dworschak. — K. k. Hoftheater-Druckerei, Wien. I., Wollzeile 17. (Verantwortl. A. Rimrich.)</p>
+            <milestone unit="untyped-end"/>
+         </div>
       </body>
    </text>
 </TEI>

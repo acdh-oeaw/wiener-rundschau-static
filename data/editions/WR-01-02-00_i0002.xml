@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-01-02-00_i0002.xml"
-     prev="WR-01-02-00_i0001.xml"
-     next="WR-01-02-00_i0003.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-00_i0002.xml" prev="WR-01-02-00_i0001.xml" next="WR-01-02-00_i0003.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,13 +42,37 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 2</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 1, Halbbd. 1, Nr. 12</title>
+                  <idno>WR-01-01-12_n0441.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 1, Halbbd. 2, Nr. 13</title>
+                  <idno>WR-01-02-13_n0481.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="imprint-start"/><p>CH. REISSER &amp; M. WERTHNER, WIEN.</p><milestone unit="untyped-end"/></div>
+         <div type="page">
+            <milestone unit="imprint-start"/>
+            <p>CH. REISSER &amp; M. WERTHNER, WIEN.</p>
+            <milestone unit="untyped-end"/>
+         </div>
       </body>
    </text>
 </TEI>

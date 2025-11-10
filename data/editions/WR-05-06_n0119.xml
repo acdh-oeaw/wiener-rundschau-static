@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-06_n0119.xml"
-     prev="WR-05-06_n0118.xml"
-     next="WR-05-06_n0120.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-06_n0119.xml" prev="WR-05-06_n0118.xml" next="WR-05-06_n0120.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,19 +41,37 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 5</title>
+                  <idno>WR-05-05_n0097.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 7</title>
+                  <idno>WR-05-07_n0141.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">STRINDBERG: DIR GEHEIMNISSE DER BLUMEN.</fw></fw><table><row><cell>
-<p rend="no-intend">weder als Anhänger der Insecten-Theorie<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">STRINDBERG: DIR GEHEIMNISSE DER BLUMEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">weder als Anhänger der Insecten-Theorie<lb/>
 fangen, noch mich gegen dieselbe schützen<lb/>
 kann. Das Metallnetz hinderte das Flug-<lb break="no"/>
 vieh, aber nicht die Ameisen, also —<lb/>
 plus minus Null.</p>
-<p>Jetzt will ich von einem eigen-<lb break="no"/>
+                     <p>Jetzt will ich von einem eigen-<lb break="no"/>
 thümlichen Anblick erzählen, den ich in<lb/>
 meinem Gurkenbeet im verflossenen<lb/>
 Sommer hatte. Die Gurke ist, wie bekannt,<lb/>
@@ -93,7 +108,7 @@ maßung Numero eins, betreffend die Un-<lb break="no"/>
 entbehrlichkeit der Insecten bei gewissen<lb/>
 Moniceen. Jetzt schiebe ich meinen<lb/>
 Anblick in dem Gurkenbeet ein.</p>
-<p>Unter dem geschlossenen Fenster sah<lb/>
+                     <p>Unter dem geschlossenen Fenster sah<lb/>
 ich eine weibliche Blüte hervorspringen,<lb/>
 sich nach oben und schräg krümmen,<lb/>
 wahrscheinlich nicht, um die Sonne zu<lb/>
@@ -101,12 +116,13 @@ suchen, denn die Gurkenplanzen verbergen<lb/>
 ihre Blüten unter den Blättern, weshalb<lb/>
 man keine Blätter abzubrechen pflegt, um<lb/>
 ihnen Sonne zu geben.</p>
-<p>Die weibliche Blüte wächst also Tag<lb/>
+                     <p>Die weibliche Blüte wächst also Tag<lb/>
 für Tag, und ohne doch, scheint es, be-<lb break="no"/>
 fruchtet zu werden, scheint sie eine männ-<lb break="no"/>
 liche Blüte zu suchen, die höher oben</p>
-</cell><cell>
-<p rend="no-intend">sitzt. Nach einigen Tagen sind sich die<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">sitzt. Nach einigen Tagen sind sich die<lb/>
 beiden Blüten in einer Umarmung be-<lb break="no"/>
 gegnet, die so gewaltsam war, dass ich<lb/>
 sie nicht trennen konnte. Darauf welkt<lb/>
@@ -118,7 +134,7 @@ nacht von dem größeren und stärkeren<lb/>
 Spinnenweibchen gefressen wird. (Anm.<lb/>
 Nach sicheren Quellen und eigenem Ex-<lb break="no"/>
 periment im Glasbauer.)</p>
-<p>Jetzt frage ich mich, statt dir zu ant-<lb break="no"/>
+                     <p>Jetzt frage ich mich, statt dir zu ant-<lb break="no"/>
 worten, neugierige Jugend: Haben die<lb/>
 Blüten ihre Farbe bekommen, um In-<lb break="no"/>
 secten anzulocken, wo Insecten überflüssig<lb/>
@@ -126,7 +142,7 @@ sein können bei der Befruchtung getrennt<lb/>
 geschlechtiger (und der Klee außerdem<lb/>
 zweigeschlechtig ist, der zu nichts anderem<lb/>
 als zur Kreuzung Insecten bedürfen sollte)?</p>
-<p>Könnte man sich nicht denken, dass<lb/>
+                     <p>Könnte man sich nicht denken, dass<lb/>
 das Metallnetz den Zutritt des Windes<lb/>
 hinderte, den Austritt der für die Befruch-<lb break="no"/>
 tung schädlichen Feuchtigkeit hinderte?<lb/>
@@ -134,7 +150,7 @@ Bedenke, was ein Metallnetz bei einer<lb/>
 Grubenlampe hindern kann, wo es da die<lb/>
 Anzündung des Gases durch die Flamme<lb/>
 hindert.</p>
-<p>Werden wir übereinkommen, nicht<lb/>
+                     <p>Werden wir übereinkommen, nicht<lb/>
 auf das Wort der Lehrer zu schwören,<lb/>
 nicht einmal, wenn sie Charles Darwin<lb/>
 heißen? Und dann nehmen wir die Frage<lb/>
@@ -144,7 +160,7 @@ findet, und werden nicht verdrießlich,<lb/>
 wenn wir statt einer Antwort, die alles<lb/>
 weitere abschneidet, auf eine neue Frage<lb/>
 stoßen, viele neue Fragen?</p>
-<p>Die Statistik — die deutsche, gute,<lb/>
+                     <p>Die Statistik — die deutsche, gute,<lb/>
 gründliche Statistik der Naturwissen-<lb break="no"/>
 schaft — lehrt, dass die größte Anzahl<lb/>
 Phanerogamen gelbe Blüten tragen;<lb/>
@@ -153,14 +169,17 @@ die rothen, und zuletzt die blauen. Das<lb/>
 von den blauen weiß jeder Gärtner, der<lb/>
 eine Ehre darin setzt, die geringe der<lb/>
 blauen vermehren zu können.</p>
-<p>Weshalb fragst du nun, sind die<lb/>
+                     <p>Weshalb fragst du nun, sind die<lb/>
 gelben die meisten, und die weißen<lb/>
 danach?</p>
-<p>Hier eine Menge Muthmaßungsvor-<lb break="no"/>
+                     <p>Hier eine Menge Muthmaßungsvor-<lb break="no"/>
 schläge. Wenn wir die Insecten-Theorie<lb/>
 annähmen, so ist die Frage gelöst, denn<lb/>
 die gelben sind am lichtstärksten und auf</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

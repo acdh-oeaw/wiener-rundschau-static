@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-04_n0094.xml"
-     prev="WR-05-04_n0093.xml"
-     next="WR-05-04_n0095.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-04_n0094.xml" prev="WR-05-04_n0093.xml" next="WR-05-04_n0095.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 3</title>
+                  <idno>WR-05-03_n0049.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 5</title>
+                  <idno>WR-05-05_n0097.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">THEATER.</fw></fw><table><row><cell>
-<p>in unserem jetzigen Zustande der Er-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">THEATER.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>in unserem jetzigen Zustande der Er-<lb break="no"/>
 niedrigung nur Wenige kennen. Man<lb/>
 meint, Erkenntnis eines Dinges zu haben,<lb/>
 wenn man weiß, was ein anderer darüber<lb/>
@@ -67,8 +82,9 @@ kannten durch die Kraft des Erkennens.<lb/>
 Sie ist folglich nicht jenes intellectuelle<lb/>
 Kennen, welches durch äußerliche Beobach-<lb break="no"/>
 tung und Schlussfolgerung entsteht, sondern</p>
-</cell><cell>
-<p rend="no-intend">das Resultat der Identificierung von Sub-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">das Resultat der Identificierung von Sub-<lb break="no"/>
 ject und Object, was nur auf geistigem<lb/>
 Wege geschehen kann. Die wahre Selbst-<lb break="no"/>
 erkenntnis ist somit diejenige, welche<lb/>
@@ -77,15 +93,27 @@ sein entspringt. Sie ist die Erkenntnis<lb/>
 der Wirklichkeit, vor deren Licht alle<lb/>
 Täuschungen wie Schatten im Lichte der<lb/>
 Sonne verschwinden.</p>
-<p>Diese Untersuchungen könnten noch<lb/>
+                     <p>Diese Untersuchungen könnten noch<lb/>
 beliebig lang ausgedehnt werden; aber<lb/>
 das Gesagte genügt, um hinzuweisen auf<lb/>
 die tiefere Bedeutung von Worten, welche<lb/>
 vielfach gebraucht und nicht immer richtig<lb/>
 verstanden werden.</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/><milestone unit="untyped-start"/><ab><title><hi rend="text-spaced">THEATER</hi>.</title></ab><table><row><cell>
-<milestone unit="untyped-start"/>
-<p>Die Präceptoren-Komödie, die uns<lb/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">THEATER</hi>.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="untyped-start"/>
+                     <p>Die Präceptoren-Komödie, die uns<lb/>
 das <hi rend="text-spaced">Burgtheater</hi> kürzlich vorgeführt,<lb/>
 lehrt neuerdings, dass Vorsicht der bessere<lb/>
 Theil unserer jungen Literatur geworden.<lb/>
@@ -107,7 +135,7 @@ Bemühter schuldig machen kann! Denn<lb/>
 nicht Das, was er sagt, sondern Das, was<lb/>
 er nicht zu sagen wagt, macht den Ge-<lb break="no"/>
 sinnungs-Autor.</p>
-<p>Aber bezeichnend ist es, sehr bezeich-<lb break="no"/>
+                     <p>Aber bezeichnend ist es, sehr bezeich-<lb break="no"/>
 nend, dass sich da wieder ein Dichter, der<lb/>
 ehedem von revolutionärer Gangart schien<lb/>
 — und dieser zum zweitenmale binnen<lb/>
@@ -115,8 +143,9 @@ kürzester Frist — zu so bequemen<lb/>
 Triumphen entwürdigen konnte. O. E.<lb/>
 Schmidt, Verfasser der Gesinnungsposse<lb/>
 »Flachsmann als Erzieher«, rückt nun in</p>
-</cell><cell>
-<p rend="no-intend">die Reihe L. Fuldas, der in den feigen<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">die Reihe L. Fuldas, der in den feigen<lb/>
 »Kameraden« (dem Vorbilde der »Jugend<lb/>
 von heute«) und früher schon in seinem vor-<lb break="no"/>
 sichtigen und scheinbar so beherzten »Talis-<lb break="no"/>
@@ -137,17 +166,20 @@ mag er dann schließlich von neuen Ab-<lb break="no"/>
 trünnigen aus der allerjüngsten Generation<lb/>
 durch billigere Angebote vom Markte<lb/>
 verdrängt werden.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="asterisk"/>
-<milestone unit="untyped-start"/>
-<p>Spricht man heute von Schulkomödien,<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="asterisk"/>
+                     <milestone unit="untyped-start"/>
+                     <p>Spricht man heute von Schulkomödien,<lb/>
 dann wird man, was natürlich nirgends<lb/>
 geschehen ist, ein zeitgenössisches Buch-<lb break="no"/>
 drama hervorheben müssen, das — vor<lb/>
 ungefähr acht Jahren entstanden — dem<lb/>
 Schüler und Lehrermilieu und den Pro-<lb break="no"/>
 blemen dieses Bereichs in subtilster Ver-</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-12_n0258.xml"
-     prev="WR-05-12_n0257.xml"
-     next="WR-05-12_n0259.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-12_n0258.xml" prev="WR-05-12_n0257.xml" next="WR-05-12_n0259.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,15 +41,34 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 11</title>
+                  <idno>WR-05-11_n0225.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 13</title>
+                  <idno>WR-05-13_n0265.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>»ARBEIT.«<lb/>
-Von <rs type="person" key="">CARL BLEIBTREU</rs>.</title></ab><table><row><cell>
-<p>Unter diesem vielversprechenden Titel<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>»ARBEIT.«<lb/>
+Von <rs type="person" key="">CARL BLEIBTREU</rs>.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Unter diesem vielversprechenden Titel<lb/>
 hat <hi rend="text-spaced">Zola</hi> seiner neuen Serie, welcher er<lb/>
 den anmaßenden Gesammttitel »Die Evan-<lb break="no"/>
 gelien« zu verleihen für gut fand, ein<lb/>
@@ -98,8 +114,9 @@ heitsvergötterung, der sich schon am<lb/>
 Schluss seines vorigen Romanes »Frucht-<lb break="no"/>
 barkeit« erschreckend lächerlich ankün-<lb break="no"/>
 digte, hat jetzt seine Krise erreicht. Dieser</p>
-</cell><cell>
-<p rend="no-intend">förmliche Veitstanz eines kindlichen Opti-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">förmliche Veitstanz eines kindlichen Opti-<lb break="no"/>
 mismus, der im Handumdrehen das Pro-<lb break="no"/>
 blem des größten materiellen Glückes für<lb/>
 die größte Masse löst, kreiselt immerfort<lb/>
@@ -135,7 +152,7 @@ speist uns wie in den Kriegsbildern von<lb/>
 »Débâcle« mit chronikartig trockenen<lb/>
 Berichten ab, bricht alle psychologischen<lb/>
 Begründungen übers Knie.</p>
-<p>Man braucht nur seine großartigste<lb/>
+                     <p>Man braucht nur seine großartigste<lb/>
 Dichtung »Germinal« damit zu ver-<lb break="no"/>
 gleichen. Auch diese ist eine Allegorie,<lb/>
 aber dantesk daran ist nur die groß-<lb break="no"/>
@@ -145,7 +162,10 @@ sich aber sehr vor der dantesken Über-<lb break="no"/>
 sinnlichkeit, sondern strotzt von plastischer<lb/>
 Realität. <hi rend="text-spaced">Diese</hi> Arbeiter sind <hi rend="text-spaced">echt</hi>, unter<lb/>
 Roheit und Gemeinheit bessere mensch-</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

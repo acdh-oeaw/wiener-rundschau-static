@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-05_n0176.xml"
-     prev="WR-02-01-05_n0175.xml"
-     next="WR-02-01-05_n0177.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-05_n0176.xml" prev="WR-02-01-05_n0175.xml" next="WR-02-01-05_n0177.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,40 +42,98 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 4</title>
+                  <idno>WR-02-01-04_n0121.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 6</title>
+                  <idno>WR-02-01-06_n0201.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">176</fw><fw type="ctext">MULTATULI.</fw></fw><p>— Welch andere <hi rend="text-spaced">Tugenden</hi> mehr sind jetzt in der Mode,<lb/>
-o untugendlich zur Welt gekommener Mann?</p><p>— Ihr habt bemerkt, o Kami, der Ihr den letzten Tropfen ver-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">176</fw>
+               <fw type="ctext">MULTATULI.</fw>
+            </fw>
+            <p>— Welch andere <hi rend="text-spaced">Tugenden</hi> mehr sind jetzt in der Mode,<lb/>
+o untugendlich zur Welt gekommener Mann?</p>
+            <p>— Ihr habt bemerkt, o Kami, der Ihr den letzten Tropfen ver-<lb break="no"/>
 langt aus dem Gefäss meines Gemüthes, dass ich mich scheute, über<lb/>
 diesen Gegenstand zu Euch zu sprechen. Es ist mir nicht geglückt,<lb/>
 Eurer Scharfsinnigkeit auszuweichen, da sie auf die Tiefe meiner Seele<lb/>
 dringt, wie ein Steuererheber auf den Grund der Geldlade. Doch nun,<lb/>
 o Kami, bevor ich mich über die Tugenden des Tages auslasse, fordere<lb/>
-ich einen feierlichen Eid von Euch. Schwört mir bei <milestone unit="3dots"/></p><p>— Gut, gut, wir schwören. Ich schwör’, und Kami schwört, und<lb/>
-auch der Kami, der dort in der Ecke sitzt, schwört.</p><p>— Ihr schwört, dass ihr mich nicht verrathen werdet?</p><p>— Das schwören wir auch, der Ihr durch verkehrte Geburt so<lb/>
-umständlich geworden seid.</p><p>— Hört mich, Kami, die ihr zu Häupten der fernen Gesandt-<lb break="no"/>
+ich einen feierlichen Eid von Euch. Schwört mir bei <milestone unit="3dots"/>
+            </p>
+            <p>— Gut, gut, wir schwören. Ich schwör’, und Kami schwört, und<lb/>
+auch der Kami, der dort in der Ecke sitzt, schwört.</p>
+            <p>— Ihr schwört, dass ihr mich nicht verrathen werdet?</p>
+            <p>— Das schwören wir auch, der Ihr durch verkehrte Geburt so<lb/>
+umständlich geworden seid.</p>
+            <p>— Hört mich, Kami, die ihr zu Häupten der fernen Gesandt-<lb break="no"/>
 schaft steht, und Ihr Kami, der Ihr in der Mitte steht, und Ihr Kami,<lb/>
-der Ihr am Schwanz der Gesandtschaft steht: es gibt jetzt <hi rend="text-spaced">zwei</hi><lb/>
+der Ihr am Schwanz der Gesandtschaft steht: es gibt jetzt <hi rend="text-spaced">zwei</hi>
+               <lb/>
 Tugenden. Ihre Namen sind <hi rend="text-spaced">Keuschheit</hi> und <hi rend="text-spaced">Ehrlichkeit</hi>. Und<lb/>
 die zwei sind <hi rend="text-spaced">eine</hi>, o Kami. Und der Name dieser <hi rend="text-spaced">einen</hi> Tugend —<lb/>
-die zwei ist — der Name dieser Tugend <milestone unit="3dots"/></p><p>— Geh fort, Mann einer ungewöhnlichen Darstellung <milestone unit="3dots"/></p><p>— Der Name dieser <hi rend="text-spaced">einen</hi> Tugend, o Kami <milestone unit="3dots"/> Könnt ihr mir<lb/>
-ein paar tausend Taels1) leihen?</p><p>— Unmöglich, wir haben gerade unseren letzten Tael ausgegeben.</p><p>— Dann darf ich euch den Namen dieser einen Tugend nicht<lb/>
+die zwei ist — der Name dieser Tugend <milestone unit="3dots"/>
+            </p>
+            <p>— Geh fort, Mann einer ungewöhnlichen Darstellung <milestone unit="3dots"/>
+            </p>
+            <p>— Der Name dieser <hi rend="text-spaced">einen</hi> Tugend, o Kami <milestone unit="3dots"/> Könnt ihr mir<lb/>
+ein paar tausend Taels1) leihen?</p>
+            <p>— Unmöglich, wir haben gerade unseren letzten Tael ausgegeben.</p>
+            <p>— Dann darf ich euch den Namen dieser einen Tugend nicht<lb/>
 sagen, o Kami, die ihr meinen würdet, dass ich euch für untugendhaft<lb/>
-schelte, weil ihr euren letzten Tael ausgabt.</p><p>— Wir werden es uns nicht anziehen. Wir sind Japaner und<lb/>
+schelte, weil ihr euren letzten Tael ausgabt.</p>
+            <p>— Wir werden es uns nicht anziehen. Wir sind Japaner und<lb/>
 behelfen uns mit japanischer Tugend. Sag’, Mann, dessen Seele krumm<lb/>
-ist <milestone unit="3dots"/></p><p>— Der Name dieser Tugend, o Kami <milestone unit="3dots"/></p><p>Da trat der Diener ein, der die Zeitung brachte.</p><p>— Wollt Ihr uns die Zeitung wohl vorlesen und erklären, Fremdling<lb/>
-im Lande Eurer Geburt?</p><p>— Mit Vergnügen, tugendsamer Kami.</p><p>— Warum nennt Ihr mich tugendsam?</p><p>— Kami, ich sah, dass der Diener, der die Zeitung brachte,<lb/>
+ist <milestone unit="3dots"/>
+            </p>
+            <p>— Der Name dieser Tugend, o Kami <milestone unit="3dots"/>
+            </p>
+            <p>Da trat der Diener ein, der die Zeitung brachte.</p>
+            <p>— Wollt Ihr uns die Zeitung wohl vorlesen und erklären, Fremdling<lb/>
+im Lande Eurer Geburt?</p>
+            <p>— Mit Vergnügen, tugendsamer Kami.</p>
+            <p>— Warum nennt Ihr mich tugendsam?</p>
+            <p>— Kami, ich sah, dass der Diener, der die Zeitung brachte,<lb/>
 Euch gleichzeitig einen Brief überreichte. Diesen Brief habt Ihr geöffnet,<lb/>
 und ich bemerkte den Widerschein der Tugend, die Gluth der Ehr-<lb break="no"/>
 lichkeit auf Eurem Antlitz und freute mich der Wohlfahrt Eurer Seele.<lb/>
-Darum nannte ich Euch tugendsam.</p><p>— Und die Keuschheit?</p><p>— Die wird nicht zurückbleiben, o Kami. Mit Eurem Wechsel <milestone unit="3dots"/><lb/>
-wie gross ist er?</p><p>— Dreizehntausend Taels.</p><milestone unit="hr"/><note type="footnote">
-<p>1) Eine japanische Münze.</p>
-</note></div>
+Darum nannte ich Euch tugendsam.</p>
+            <p>— Und die Keuschheit?</p>
+            <p>— Die wird nicht zurückbleiben, o Kami. Mit Eurem Wechsel <milestone unit="3dots"/>
+               <lb/>
+wie gross ist er?</p>
+            <p>— Dreizehntausend Taels.</p>
+            <milestone unit="hr"/>
+            <note type="footnote">
+               <p>1) Eine japanische Münze.</p>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

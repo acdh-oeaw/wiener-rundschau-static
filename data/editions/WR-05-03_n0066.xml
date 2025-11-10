@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-03_n0066.xml"
-     prev="WR-05-03_n0065.xml"
-     next="WR-05-03_n0067.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-03_n0066.xml" prev="WR-05-03_n0065.xml" next="WR-05-03_n0067.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 2</title>
+                  <idno>WR-05-02_n0023.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 4</title>
+                  <idno>WR-05-04_n0077.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">KUHLENBECK: DIE INDIVIDUALITÄT IST IHR EIGENES GESCHÖPF.</fw></fw><table><row><cell>
-<p rend="no-intend">weise zwischen unserem gegenwärtigen<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KUHLENBECK: DIE INDIVIDUALITÄT IST IHR EIGENES GESCHÖPF.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">weise zwischen unserem gegenwärtigen<lb/>
 und früheren Thun, das uns berechtigt,<lb/>
 beides zu einem und demselben Subject zu<lb/>
 rechnen. Das große Ich im Vordersatze<lb/>
@@ -60,7 +75,7 @@ Inhalt haben, wie das kleine Ich des<lb/>
 Nachsatzes. Denn die Ursache muss bereits<lb/>
 alle Eigenschaften besitzen, welche sich<lb/>
 in der Wirkung äußern.</p>
-<p>Schopenhauer und Fichte haben eben<lb/>
+                     <p>Schopenhauer und Fichte haben eben<lb/>
 kein Recht, das Ich im Vordersatze über-<lb break="no"/>
 haupt noch als Ich zu bezeichnen, wenn<lb/>
 es dem kleinen Ich im Nachsatze so<lb/>
@@ -72,7 +87,7 @@ giltig, ob wir dieses Es als einen all-<lb break="no"/>
 mächtigen Schöpfer oder als Weltsubstanz<lb/>
 denken. Der Zauber des Unvermittelten,<lb/>
 der Sprung bleibt derselbe.</p>
-<p>Es ist ein harter, anstößiger Gedanke,<lb/>
+                     <p>Es ist ein harter, anstößiger Gedanke,<lb/>
 dass ein persönlicher Gott lebendige Per-<lb break="no"/>
 sönlichkeiten aus dem <hi rend="text-spaced">Nichts</hi> gezaubert<lb/>
 habe, aber dieser Gedanke ist nicht an-<lb break="no"/>
@@ -83,7 +98,8 @@ materialistische, dass das leblose Nichts<lb/>
 der bloßen Chemikalien sich von selber<lb/>
 zu einer lebendigen Persönlichkeit um-<lb break="no"/>
 wandle; — und, offen gestanden, etwas<lb/>
-von diesem Zauber-Element des <hi rend="text-spaced">Nichts</hi><lb/>
+von diesem Zauber-Element des <hi rend="text-spaced">Nichts</hi>
+                        <lb/>
 steckt in allen jenen Welt- und Lebens-<lb break="no"/>
 erscheinungen, welche die Ursache dyna-<lb break="no"/>
 misch, physiologisch und psychologisch<lb/>
@@ -91,22 +107,23 @@ minderwertiger sein lassen, als ihre Wir-<lb break="no"/>
 kung. Ein Ich ist aber mehr als ein<lb/>
 blindes, unbewusstes Es, und sei es auch<lb/>
 nur ein ganz kleines Menschen-Ich.</p>
-<p>Der Individualismus setzt also ein vor-<lb break="no"/>
+                     <p>Der Individualismus setzt also ein vor-<lb break="no"/>
 geburtliches Ich voraus, das sich in dem<lb/>
 mit der Geburt zeitlich beginnenden Ich<lb/>
 nur theilweise, als in einer eigenen Wir-<lb break="no"/>
 kung, oder, wie wir unter Voraussetzung<lb/>
 eines Ich, also einer <hi rend="text-spaced">bewussten</hi> Monas,<lb/>
 lieber sagen, <hi rend="text-spaced">That</hi> offenbart.</p>
-<p>Das Unglaubliche einer solchen Auf-<lb break="no"/>
+                     <p>Das Unglaubliche einer solchen Auf-<lb break="no"/>
 fassung des irdischen Lebensbeginnes als<lb/>
 einer freien (bewussten) That liegt vor<lb/>
 allem in dem Mangel einer <hi rend="text-spaced">Erinnerung</hi>.<lb/>
 Allein wir erinnern uns gar mancher That<lb/>
 nicht immer und zu allen Zeiten, die wir<lb/>
 doch nicht ableugnen können, wenn sie</p>
-</cell><cell>
-<p rend="no-intend">uns durch andere Indicien bewiesen wird.<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">uns durch andere Indicien bewiesen wird.<lb/>
 Dieses sehr zeitweilige, oft sogar sehr<lb/>
 lang währende Vergessen, diese Amnesie<lb/>
 scheint eine im Kampfe ums Dasein<lb/>
@@ -143,7 +160,7 @@ steht, ist mir eines der vielen Momente,<lb/>
 durch die ich meine Erkenntnistheorie<lb/>
 bestätigt finde; »man muss sehen <hi rend="text-spaced">wollen</hi>,<lb/>
 um zu sehen«.</p>
-<p>In geistvoller Weise hat einmal du<lb/>
+                     <p>In geistvoller Weise hat einmal du<lb/>
 Prel die Amnesie an unsere von ihm<lb/>
 vorausgesetzte Prä-Existenz erläutert durch<lb/>
 einen von ihm gedichteten »Mythus«, in<lb/>
@@ -151,7 +168,7 @@ dem er das Diesseits mit einer Insel ver-<lb break="no"/>
 gleicht, auf welcher wir mit der Geburt<lb/>
 ausgesetzt sind unter der Suggestion des<lb/>
 zeitweiligen Vergessens des Vorlebens.</p>
-<p>Unsere Zeit ist leider in der classischen<lb/>
+                     <p>Unsere Zeit ist leider in der classischen<lb/>
 Bildung schon so rückständig geworden,<lb/>
 dass man sie daran erinnern muss, wie<lb/>
 ähnliche Mythen im griechischen Alter-<lb break="no"/>
@@ -160,7 +177,10 @@ der Seele vor der Geburt belehrten und<lb/>
 in den eleusianischen Mysterien z.B.<lb/>
 die Anlehnung zu einer bewussten Meta-<lb break="no"/>
 physik der Sittenlehre bildeten, die durch</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

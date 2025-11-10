@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-14_n0281.xml"
-     prev="WR-05-14_n0280.xml"
-     next="WR-05-14_n0282.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-14_n0281.xml" prev="WR-05-14_n0280.xml" next="WR-05-14_n0282.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 13</title>
+                  <idno>WR-05-13_n0265.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 15</title>
+                  <idno>WR-05-15_n0295.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BRYK: DIE SONNE.</fw></fw><table><row><cell>
-<p rend="no-intend">und nach, vorüber die mächtigen Kugeln,<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BRYK: DIE SONNE.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">und nach, vorüber die mächtigen Kugeln,<lb/>
 durch Welträume auseinandergehalten,<lb/>
 die mir die einzelnen, verschiedenen,<lb/>
 begrifflichen Functionen des discursiven<lb/>
@@ -63,7 +78,7 @@ des umfassendsten Intellectes, die Sonne,<lb/>
 in der das Feuer des Verstandes loht,<lb/>
 das , der erhabene , die<lb/>
 Quelle aller Harmonie.</p>
-<p>Schon dem Tycho de Brahe war es<lb/>
+                     <p>Schon dem Tycho de Brahe war es<lb/>
 gewiss, dass alle Planeten mit Lebe-<lb break="no"/>
 wesen dicht bevölkert seien; und ich<lb/>
 will mich von dieser Ansicht gewiss<lb/>
@@ -92,11 +107,12 @@ ihrem Sinne für die Schaffung neuen<lb/>
 Lebens zu verwenden, also: die lange<lb/>
 Dauer oder die Kürze der Umdrehungs-<lb break="no"/>
 zeit, die Sonnennähe oder Sonnenferne,</p>
-</cell><cell>
-<p rend="no-intend">die Verschiedenheit in der Größe der<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">die Verschiedenheit in der Größe der<lb/>
 Excentricität, den Glanz oder die Dunkel-<lb break="no"/>
 heit der Weltkörper?</p>
-<p>Wir besitzen das Symbol des männ-<lb break="no"/>
+                     <p>Wir besitzen das Symbol des männ-<lb break="no"/>
 lichen Principes (hier auf der Erde) in<lb/>
 dem Dodekaeder, das Symbol des<lb/>
 weiblichen Principes im Ikosaeder —<lb/>
@@ -133,7 +149,12 @@ diesen Weltherd bewohnen, fähig, das<lb/>
 Complicierteste einfach zu schauen und<lb/>
 zu verstehen, würdig der Stätte, wo das<lb/>
 ewige  aufflammt?</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/></div>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
       </body>
    </text>
 </TEI>

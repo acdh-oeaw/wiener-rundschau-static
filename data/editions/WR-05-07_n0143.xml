@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-07_n0143.xml"
-     prev="WR-05-07_n0142.xml"
-     next="WR-05-07_n0144.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-07_n0143.xml" prev="WR-05-07_n0142.xml" next="WR-05-07_n0144.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,20 +41,38 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 6</title>
+                  <idno>WR-05-06_n0115.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 8</title>
+                  <idno>WR-05-08_n0159.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">GIDE: DER TRACTAT VON NARCISS.</fw></fw><table><row><cell>
-<p rend="no-intend">gegen den Stamm das Buch des Myste-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">GIDE: DER TRACTAT VON NARCISS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">gegen den Stamm das Buch des Myste-<lb break="no"/>
 riums, in dem die Wahrheit zu lesen<lb/>
 stand, die man kennen muss. Und der<lb/>
 Wind, in den Blättern des Baumes<lb/>
 flüsternd, buchstabierte den Tag lang<lb/>
 seine nothwendigen Hieroglyphen.</p>
-<p>Adam horchte fromm. Einig, noch<lb/>
+                     <p>Adam horchte fromm. Einig, noch<lb/>
 ohne Geschlecht, blieb er sitzen im<lb/>
 Schatten des großen Baumes. Der<lb/>
 Mensch! Die Personwerdung Elohims,<lb/>
@@ -65,11 +80,12 @@ Helfer der Gottheit! Für ihn, durch ihn<lb/>
 erscheinen die Formen. Unbeweglich,<lb/>
 und Mittelpunkt dieses ganzen Zaubers,<lb/>
 betrachtet er ihn, wie er sich entrollt.</p>
-<p>Aber als immer gezwungener Zu-<lb break="no"/>
+                     <p>Aber als immer gezwungener Zu-<lb break="no"/>
 schauer eines Schauspiels, in dem er<lb/>
 keine Rolle hat, als die, immer zuzu-<lb break="no"/>
 sehen, wird er müde. Alles spielt für<lb/>
-ihn, er weiß es — aber er selbst <milestone unit="4dots"/><lb/>
+ihn, er weiß es — aber er selbst <milestone unit="4dots"/>
+                        <lb/>
 aber er selber sieht sich nicht. Und<lb/>
 was ist ihm der ganze Rest? Ah! sich<lb/>
 sehnen! — Gewiss, er ist mächtig,<lb/>
@@ -94,9 +110,11 @@ Teufel! — Ach was! ein wenig Unvor-<lb break="no"/>
 hergesehenes! Ah! packen! Einen Ast<lb/>
 von Ygdrasil packen mit seinen ver-<lb break="no"/>
 narrten Händen — und ihn zer-<lb break="no"/>
-brechen <milestone unit="4dots"/></p>
-<p>Es geschah.</p>
-<p><milestone unit="4dots"/> Ein unmerklicher Spalt zuerst,<lb/>
+brechen <milestone unit="4dots"/>
+                     </p>
+                     <p>Es geschah.</p>
+                     <p>
+                        <milestone unit="4dots"/> Ein unmerklicher Spalt zuerst,<lb/>
 ein Schrei, der aber keimt, sich aus-<lb break="no"/>
 breitet, zornig wird, gellend pfeift und<lb/>
 bald heult wie ein Sturm. Der Baum<lb/>
@@ -105,17 +123,18 @@ seine Blätter, in denen die Lüfte spielten,<lb/>
 zittern, schrumpfen zusammen, lösen<lb/>
 sich im Sturm, der sich erhebt und<lb/>
 sie in die Weite trägt — ins Unbe-</p>
-</cell><cell>
-<p rend="no-intend">kannte eines nächtlichen Himmels und<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">kannte eines nächtlichen Himmels und<lb/>
 zu gefährlichen Meeresstrichen, wohin<lb/>
 sich auch die Flucht der dem großen<lb/>
 geheiligten Buche entrissenen Blätter<lb/>
 zerstreut.</p>
-<p>Zum Himmel steigt ein Dampf,<lb/>
+                     <p>Zum Himmel steigt ein Dampf,<lb/>
 Thränen, Wolken, die in Thränen zurück-<lb break="no"/>
 fallen und die in Wolken wieder auf-<lb break="no"/>
 steigen werden: die Zeit ist geboren.</p>
-<p>Und der entsetzte Mensch, der<lb/>
+                     <p>Und der entsetzte Mensch, der<lb/>
 Zweigeschlechtige, der sich theilt, hat<lb/>
 vor Herzensangst und vor Schrecken<lb/>
 geweint; fühlte mit einem neuen Ge-<lb break="no"/>
@@ -132,7 +151,7 @@ Rasse sich rege machen und ein anderes<lb/>
 Wesen in die Zeit stoßen wird, unvoll-<lb break="no"/>
 kommen auch und sich selber nicht<lb/>
 genügend.</p>
-<p>Traurige Rasse, die du dich über<lb/>
+                     <p>Traurige Rasse, die du dich über<lb/>
 diese Erde der Dämmerung und der<lb/>
 Gebete zerstreuen wirst, manchmal, in<lb/>
 der Ekstase, mit der Vision des Paradieses,<lb/>
@@ -146,8 +165,10 @@ Blätter des unvergesslichen Buches<lb/>
 sammeln werden, in dem die Wahr-<lb break="no"/>
 heiten zu lesen waren, die man kennen<lb/>
 muss.</p>
-<ab><title>II.</title></ab>
-<p>Wenn Narciss sich umdrehte, sähe<lb/>
+                     <ab>
+                        <title>II.</title>
+                     </ab>
+                     <p>Wenn Narciss sich umdrehte, sähe<lb/>
 er, denke ich, einen grünen Uferhang,<lb/>
 einen Himmel vielleicht, den Baum,<lb/>
 die Blume, irgendetwas Beständiges<lb/>
@@ -155,10 +176,13 @@ schließlich, das dauert, dessen Reflex<lb/>
 aber auf das Wasser fällt und sich<lb/>
 bricht, und den die Beweglichkeit der<lb/>
 Fluten vervielfältigt.</p>
-<p>Wann wird denn dieses Wasser<lb/>
+                     <p>Wann wird denn dieses Wasser<lb/>
 endlich mit seiner Flucht aufhören?<lb/>
 Und wird sie, endlich ausgeruht, ein</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-03_n0075.xml"
-     prev="WR-05-03_n0074.xml"
-     next="WR-05-03_n0076.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-03_n0075.xml" prev="WR-05-03_n0074.xml" next="WR-05-03_n0076.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,15 +41,35 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 2</title>
+                  <idno>WR-05-02_n0023.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 4</title>
+                  <idno>WR-05-04_n0077.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>RUNDSCHAU.</title></ab><table><row><cell>
-<milestone unit="untyped-start"/>
-<p><hi rend="text-spaced">Richard Strauß</hi>. — In Richard<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>RUNDSCHAU.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="untyped-start"/>
+                     <p>
+                        <hi rend="text-spaced">Richard Strauß</hi>. — In Richard<lb/>
 Strauß, von seinen Anhängern unverweilt<lb/>
 als Bahnbrecher hingestellt, mag der un-<lb break="no"/>
 beeinflusste, aufmerksame und denkende<lb/>
@@ -74,8 +91,9 @@ scheuen würde — der uns aber mit einer<lb/>
 Tonschöpfung wie »Ein Heldenleben«<lb/>
 nach langwierigen Preambulen zu wahr-<lb break="no"/>
 haft himmlischen Höhen erhebt?</p>
-</cell><cell>
-<p>Waren wir noch eben von tiefem<lb/>
+                  </cell>
+                  <cell>
+                     <p>Waren wir noch eben von tiefem<lb/>
 Überdruss erfüllt über die Nutzbarmachung<lb/>
 eines so monumentalen Stiles zu so<lb/>
 geringem inneren Gehalt, so ist es nun<lb/>
@@ -97,11 +115,19 @@ tellect, die immer sucht, fordert und er-<lb break="no"/>
 zwingt, aber, aller Ursprünglichkeit bar,<lb/>
 in unorganischer Weise Literarisches ge-<lb break="no"/>
 waltsam zur Musik transponiert.</p>
-<p><rs type="person" key="">A. KOLB</rs>.</p>
-<milestone unit="untyped-end"/>
-</cell></row></table><milestone unit="undefined"/><table><row><cell>
-<milestone unit="untyped-start"/>
-<p><hi rend="text-spaced">Peter Altenberg</hi>: <hi rend="text-spaced">Was der Tag<lb/>
+                     <p>
+                        <rs type="person" key="">A. KOLB</rs>.</p>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="undefined"/>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="untyped-start"/>
+                     <p>
+                        <hi rend="text-spaced">Peter Altenberg</hi>: <hi rend="text-spaced">Was der Tag<lb/>
 mir zuträgt</hi>. 55 neue Studien. Berlin,<lb/>
 S. Fischer, <date>1901</date>. Vieles in diesem Buche<lb/>
 ist Stimmung, Einiges aber nur Illusion;<lb/>
@@ -122,8 +148,9 @@ bergen! Das ist beinahe aller Dichtungen<lb/>
 Wunsch, bei Peter Altenberg ist es aber<lb/>
 ihr Sinn, ihre Seele, ihre Formel, ihr<lb/>
 2 × 2 <milestone unit="equals"/> 4, wie er sagen würde. Die Seele</p>
-</cell><cell>
-<p rend="no-intend">seiner Menschen ist die Formel der Dich-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">seiner Menschen ist die Formel der Dich-<lb break="no"/>
 tungen, die sie leben, und Peter Alten-<lb break="no"/>
 bergs Bücher gehören zu den wenigen,<lb/>
 bei welchen man von Seele sprechen<lb/>
@@ -133,11 +160,13 @@ von prachtvoller Nacktheit, es ist, wenn<lb/>
 man mich versteht, die Nacktheit der<lb/>
 Schatten. Da spreche mir einer noch von<lb/>
 dem Griechischen in Peter Altenberg!</p>
-<p><rs type="person" key="">r. k.</rs></p>
-<milestone unit="untyped-end"/>
-<milestone unit="asterisk"/>
-<milestone unit="untyped-start"/>
-<p>L. <hi rend="text-spaced">Ysaye</hi>: <hi rend="text-spaced">Zwischenspiele in Ver-<lb break="no"/>
+                     <p>
+                        <rs type="person" key="">r. k.</rs>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="asterisk"/>
+                     <milestone unit="untyped-start"/>
+                     <p>L. <hi rend="text-spaced">Ysaye</hi>: <hi rend="text-spaced">Zwischenspiele in Ver-<lb break="no"/>
 sen</hi>. (Wiener Verlag.) — Das neuerdings<lb/>
 häufigere Auftreten des absoluten Dialogs<lb/>
 ist bemerkenswert als Symptom der vor-<lb break="no"/>
@@ -145,7 +174,10 @@ schreitenden Krise der Ausdrucksmittel.<lb/>
 Es dürfte nachgerade nutzlos sein, den<lb/>
 Krach der Formen verheimlichen oder<lb/>
 aufhalten zu wollen. Mögen zwar auch</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-03_n0070.xml"
-     prev="WR-05-03_n0069.xml"
-     next="WR-05-03_n0071.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-03_n0070.xml" prev="WR-05-03_n0069.xml" next="WR-05-03_n0071.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 2</title>
+                  <idno>WR-05-02_n0023.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 4</title>
+                  <idno>WR-05-04_n0077.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">LINDNER: LAVATER.</fw></fw><table><row><cell>
-<p rend="no-intend">phleten, Enquêten, Diatriben, in Predigten<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">LINDNER: LAVATER.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">phleten, Enquêten, Diatriben, in Predigten<lb/>
 und Briefen traurig verthan, mag lediglich<lb/>
 Denen von Interesse sein, deren Beruf<lb/>
 es ist, der Langweile verwitterter Epochen<lb/>
@@ -79,7 +94,7 @@ werden, da es des öfteren schon von zu-<lb break="no"/>
 ständiger Seite zum Gegenstande unfrucht-<lb break="no"/>
 barer Untersuchungen gemacht wurde und<lb/>
 heute nur antiquarische Bedeutung hat.</p>
-<p>Hier soll ganz im Gegentheil jener<lb/>
+                     <p>Hier soll ganz im Gegentheil jener<lb/>
 große Trieb zu seelischer Verinner-<lb break="no"/>
 lichung hervorgehoben werden, der ihn<lb/>
 in den lautersten Jahren seines Lebens<lb/>
@@ -90,7 +105,7 @@ Fähigkeit, den wunderthätigen Regungen<lb/>
 der Seele geflissentlich nachzuspüren, sie<lb/>
 organisch zu entwickeln und zu einer<lb/>
 Quelle <hi rend="text-spaced">intuitiver</hi> Erleuchtung zu machen.</p>
-<p>Dass man ihn darob verspottete, wie<lb/>
+                     <p>Dass man ihn darob verspottete, wie<lb/>
 man heute noch jedes ähnliche Streben<lb/>
 verlästert, ist als selbstverständlich zu re-<lb break="no"/>
 gistrieren. Man sah eben nur das unleid-<lb break="no"/>
@@ -105,8 +120,9 @@ geniale Journalist, die Gesammterscheinung<lb/>
 »Lavater« wie eine persönliche Beleidigung<lb/>
 empfand und wider dessen Theosophie<lb/>
 und Physiognomik in witzhaften Schriften</p>
-</cell><cell>
-<p rend="no-intend">reagierte. Wenn ein Mensch mit einem<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">reagierte. Wenn ein Mensch mit einem<lb/>
 Menschen zusammentrifft, und es gibt<lb/>
 nur einen Witz, trägt zumeist wohl<lb/>
 der Witzelnde die Schuld daran — so<lb/>
@@ -128,13 +144,13 @@ edlen Feind des Alltags verehrte und<lb/>
 anfänglich sogar als Mitarbeiter seiner<lb/>
 »Physiognomischen Fragmente« thätig<lb/>
 war, zu dem zweideutigen Xenion hinreißen:</p>
-<milestone unit="untyped-start"/>
-<p>Schade, dass die Natur nur <hi rend="text-spaced">einen</hi> Menschen<lb/>
+                     <milestone unit="untyped-start"/>
+                     <p>Schade, dass die Natur nur <hi rend="text-spaced">einen</hi> Menschen<lb/>
 aus dir schuf.<lb/>
 Denn zum <hi rend="text-spaced">würdigen Mann</hi> war und zum<lb/>
-<hi rend="text-spaced">Schelmen</hi> der Stoff.</p>
-<milestone unit="untyped-end"/>
-<p>Allerdings, zum »Schelmen« war in ihm<lb/>
+                        <hi rend="text-spaced">Schelmen</hi> der Stoff.</p>
+                     <milestone unit="untyped-end"/>
+                     <p>Allerdings, zum »Schelmen« war in ihm<lb/>
 der Stoff. Aber zum gütigen Schelmen,<lb/>
 der aus Gutgläubigkeit, aus angeborenem<lb/>
 Hang zur Andacht, aus unstillbarem Be-<lb break="no"/>
@@ -162,7 +178,10 @@ weil sie diese beiden Welten die längste Zeit<lb/>
 ihres Lebens hindurch für identisch halten;<lb/>
 tritt die Spaltung ein, beweist man ihnen,<lb/>
 dass ihre Eigenwelt nicht existiert, dann</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

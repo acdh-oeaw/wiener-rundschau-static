@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-04_n0083.xml"
-     prev="WR-05-04_n0082.xml"
-     next="WR-05-04_n0084.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-04_n0083.xml" prev="WR-05-04_n0082.xml" next="WR-05-04_n0084.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,16 +41,34 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 3</title>
+                  <idno>WR-05-03_n0049.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 5</title>
+                  <idno>WR-05-05_n0097.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">SCHUR: ÜBER HENRY BEYLE-STENDHAL.</fw></fw><table><row><cell>
-<p rend="no-intend">wie Musik von Rossini. Auch diesen liebte<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">SCHUR: ÜBER HENRY BEYLE-STENDHAL.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">wie Musik von Rossini. Auch diesen liebte<lb/>
 Nietzsche.</p>
-<p>Ich verglich Stendhals Schilderungen<lb/>
+                     <p>Ich verglich Stendhals Schilderungen<lb/>
 mit einer Landschaft in der Klarheit<lb/>
 eines Wintermorgens. Diese ist am<lb/>
 schönsten, wenn die Sonne warm darüber<lb/>
@@ -74,22 +89,22 @@ geschieht, geschieht es gleich so gründ-<lb break="no"/>
 lich, dass an ein Gleichmaß gar nicht<lb/>
 zu denken ist. Es brodelt nun alles wüst<lb/>
 durcheinander, es gibt kein Halten mehr.</p>
-<p>Ist eine Erklärung — psychologisch<lb/>
+                     <p>Ist eine Erklärung — psychologisch<lb/>
 und menschlich — nicht besser als Tadel<lb/>
 und willkürliche Anrechnung?</p>
-<milestone unit="asterisk"/>
-<p>In unserer Zeit liebt man nicht die<lb/>
+                     <milestone unit="asterisk"/>
+                     <p>In unserer Zeit liebt man nicht die<lb/>
 Linie; man sucht die Farbe. So ist es auch<lb/>
 die Arbeitsweise des Schriftstellers. Es<lb/>
 siegte auch hier der Impressionismus.</p>
-<p>Henry Beyle ist ein Künstler der Linie,<lb/>
+                     <p>Henry Beyle ist ein Künstler der Linie,<lb/>
 und allen Denen, welche die Reize und<lb/>
 die feinen Geheimnisse der Linie kennen,<lb/>
 die da mitgehen, wo mehr als Empfäng-<lb break="no"/>
 lichkeit für das Ganze als solches ver-<lb break="no"/>
 langt wird, werden ihm Dank wissen. Was<lb/>
 man überall sucht, er hat es: Stil.</p>
-<p>Stil ist zum größten Theile Reinigung.<lb/>
+                     <p>Stil ist zum größten Theile Reinigung.<lb/>
 Die Reinheit seiner Linienführung im<lb/>
 Ganzen ist ebenso bewunderungswürdig,<lb/>
 wie die Ausführung und die Arbeit im<lb/>
@@ -103,8 +118,9 @@ vorläufig unberücksichtigt; er lässt es noch<lb/>
 liegen. Er gehört nicht zu Denen, die<lb/>
 alles auf einmal geben wollen. Er hält<lb/>
 sich gehörig im Zaume und regelt, dämmt</p>
-</cell><cell>
-<p rend="no-intend">seine Kräfte ein. Gerne hat er das Genug<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">seine Kräfte ein. Gerne hat er das Genug<lb/>
 und das Vorläufig. Das bereitet ihm Genuss,<lb/>
 und er ist oft ganz raffiniert dabei. Im<lb/>
 nächsten Capitel fügt er dann ein paar<lb/>
@@ -133,7 +149,7 @@ sehen und die Fülle der Formen. Die<lb/>
 Japaner zeichnen ähnlich; aber nur in<lb/>
 gewisser Hinsicht. Stendhal liebt den<lb/>
 Umriss, das Skelet der Figuren.</p>
-<p>Es muss hervorgehoben werden, wie<lb/>
+                     <p>Es muss hervorgehoben werden, wie<lb/>
 fein Beyle die Grenze innehält, die seiner<lb/>
 Linienkunst gezogen ist. Er hat ein Auge<lb/>
 so scharf und offen, wie Wenige, und<lb/>
@@ -148,7 +164,7 @@ letzten Grunde von dem anderen trennt<lb/>
 und zu seiner Eigenrettung flüchtet.<lb/>
 Diesen Dunstkreis, in dem jeder sein<lb/>
 eigenes Leben lebt. Er sah dies alles.</p>
-<p>Und doch! Neben dieser Fähigkeit<lb/>
+                     <p>Und doch! Neben dieser Fähigkeit<lb/>
 stand eine andere, eine weise und kluge<lb/>
 Bändigerin, die es ihm möglich machte,<lb/>
 einer Stimme, die ihm irgendwoher Halt<lb/>
@@ -158,7 +174,10 @@ große Achtung und ein tiefes Gefühl vor<lb/>
 den Erscheinungen und jenen Ereignissen,<lb/>
 die eigentlich jeder nur für sich selbst<lb/>
 in Bitterkeit und Süße auskostet; er wollte</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

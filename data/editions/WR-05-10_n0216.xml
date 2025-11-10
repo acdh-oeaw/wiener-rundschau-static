@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-10_n0216.xml"
-     prev="WR-05-10_n0215.xml"
-     next="WR-05-10_n0217.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-10_n0216.xml" prev="WR-05-10_n0215.xml" next="WR-05-10_n0217.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 9</title>
+                  <idno>WR-05-09_n0189.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 11</title>
+                  <idno>WR-05-11_n0225.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">JANET: DAS GEFÜHL DER PERSÖNLICHKEIT.</fw></fw><table><row><cell>
-<p rend="no-intend">habe, lehrt mich, dass ich bin, dass ich<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">JANET: DAS GEFÜHL DER PERSÖNLICHKEIT.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">habe, lehrt mich, dass ich bin, dass ich<lb/>
 denke, dass ich will, dass ich fühle, dass<lb/>
 ich leide, doch es lässt mich nicht er-<lb break="no"/>
 kennen, was ich bin, es lehrt mich nicht<lb/>
@@ -77,7 +92,7 @@ des Abbé de Lignac, der in seinem<lb/>
 hauptet, dass wir stets, selbst im tiefsten<lb/>
 Schlummer, unsere unkörperliche Seele<lb/>
 fühlen, wie sie in Wirklichkeit ist.</p>
-<p>Wirklich und wahrhaft ist die Unter-<lb break="no"/>
+                     <p>Wirklich und wahrhaft ist die Unter-<lb break="no"/>
 scheidung, von der wir sprechen, erst<lb/>
 von Kant klar und endgiltig ausge-<lb break="no"/>
 sprochen worden. Unser Denken kann<lb/>
@@ -95,13 +110,14 @@ mittelbare Anschauung, wir lernen sie<lb/>
 nur durch tausend geistige Operationen<lb/>
 kennen, die uns ihre intime Natur ver-<lb break="no"/>
 hüllen.</p>
-<p>Nach Kant ist dieser Gesichtspunkt allge-<lb break="no"/>
+                     <p>Nach Kant ist dieser Gesichtspunkt allge-<lb break="no"/>
 mein angenommen worden. Die deutschen<lb/>
 Philosophen sagen uns mit Hartmann,<lb/>
 dass das Ich eine unfassbare Realität ist,**<lb/>
 mit Herbart, dass die Einheit und die</p>
-</cell><cell>
-<p rend="no-intend">Charaktere der Seele in der Erklärung der<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Charaktere der Seele in der Erklärung der<lb/>
 Einheit des Bewusstseins und der Persön-<lb break="no"/>
 lichkeit gar keine Rolle spielen. Alle eng-<lb break="no"/>
 lischen Philosophen, überzeugte Anhänger<lb/>
@@ -120,7 +136,7 @@ Bewusstseins vorstellen, der an dem uns<lb/>
 bekannten vorüberfließt, d. h. wir müssen<lb/>
 eine Sache nehmen, die wir absolut nicht<lb/>
 kennen, um alle anderen zu erklären.«***</p>
-<p>Die französischen Philosophen haben<lb/>
+                     <p>Die französischen Philosophen haben<lb/>
 fast alle mehr oder weniger deutlich eine<lb/>
 Meinung derselben Art adoptiert. Sogar<lb/>
 Maine de Biran, dem man häufig ganz ent-<lb break="no"/>
@@ -150,13 +166,17 @@ der von allem bekräftigt wird, was man<lb/>
 seitdem gesagt hat, indem man zwei<lb/>
 Dinge unterschied, nämlich: die Erkenntnis<lb/>
 und den Indigo, die lange Zeit miteinander</p>
-</cell></row></table><note type="footnote">
-<p>* Malebranche, Dritte Unterhaltung über die Metaphysik, herausgegeben von Jules Simon.</p>
-<p>** Hartmann, Philosophie des Unbewussten.</p>
-<p>*** W. James, Principles of psychology, <date>1890</date>, I, 347.</p>
-<p>† Maine de Biran, edit. Cousin, II, 374.</p>
-<p>†† Maine de Biran, Th. de Gérard, Fragm. inédit, pagina LXXXIV.</p>
-</note></div>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Malebranche, Dritte Unterhaltung über die Metaphysik, herausgegeben von Jules Simon.</p>
+               <p>** Hartmann, Philosophie des Unbewussten.</p>
+               <p>*** W. James, Principles of psychology, <date>1890</date>, I, 347.</p>
+               <p>† Maine de Biran, edit. Cousin, II, 374.</p>
+               <p>†† Maine de Biran, Th. de Gérard, Fragm. inédit, pagina LXXXIV.</p>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

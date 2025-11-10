@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-04-22_n0400.xml"
-     prev="WR-04-22_n0399.xml"
-     next="WR-04-23_n0401.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-22_n0400.xml" prev="WR-04-22_n0399.xml" next="WR-04-23_n0401.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,29 +41,127 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 5</title>
+                  <idno>WR-05-01_n0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 4, Nr. 21</title>
+                  <idno>WR-04-21_n0363.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 4, Nr. 23</title>
+                  <idno>WR-04-23_n0401.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="advertisement-start"/><p>Für jeden Literatur= und Theaterfreund!</p><p><hi rend="strong">Prof. Carl Weitbrecht: Das Deutsche Drama.</hi></p><p>(Die neueste Zeit mit berücksichtigend.)</p><p>(M. 6.—; in Geschenkband M. 7.50.)</p><p><hi rend="strong">Die Münchener „Allgemeine Zeitung“</hi> brachte eine <hi rend="strong">sieben Spalten lange,</hi> glänzende<lb/>
-Besprechung dieses »epochemachenden Werkes«, das »allen <hi rend="strong">ernster denkenden Gebildeten“</hi><lb/>
-empfohlen wird.</p><p><hi rend="strong">„Der Beobachter“</hi> schreibt: Es ist im allerbesten Sinne des Wortes <hi rend="strong">populär</hi> geschrieben<lb/>
-und <hi rend="strong">sollte in keiner Familienbücherei fehlen!!</hi></p><milestone unit="untyped-end"/><milestone unit="hr"/><milestone unit="advertisement-start"/><p>Dr. <hi rend="strong">Arthur Seidl:</hi> Was ist modern? Vortrag über Kunst, Literatur und Cultur unserer<lb/>
-Zeit. <hi rend="strong">(1 Mark.)</hi></p><milestone unit="untyped-end"/><milestone unit="hr"/><milestone unit="advertisement-start"/><p><hi rend="strong">Kiellands</hi> <hi rend="strong">Romane</hi> und <hi rend="strong">Novellen</hi>. (In tadelloser Ausstattung!) Autorisierte Übersetzung<lb/>
+         <div type="page">
+            <milestone unit="advertisement-start"/>
+            <p>Für jeden Literatur= und Theaterfreund!</p>
+            <p>
+               <hi rend="strong">Prof. Carl Weitbrecht: Das Deutsche Drama.</hi>
+            </p>
+            <p>(Die neueste Zeit mit berücksichtigend.)</p>
+            <p>(M. 6.—; in Geschenkband M. 7.50.)</p>
+            <p>
+               <hi rend="strong">Die Münchener „Allgemeine Zeitung“</hi> brachte eine <hi rend="strong">sieben Spalten lange,</hi> glänzende<lb/>
+Besprechung dieses »epochemachenden Werkes«, das »allen <hi rend="strong">ernster denkenden Gebildeten“</hi>
+               <lb/>
+empfohlen wird.</p>
+            <p>
+               <hi rend="strong">„Der Beobachter“</hi> schreibt: Es ist im allerbesten Sinne des Wortes <hi rend="strong">populär</hi> geschrieben<lb/>
+und <hi rend="strong">sollte in keiner Familienbücherei fehlen!!</hi>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="advertisement-start"/>
+            <p>Dr. <hi rend="strong">Arthur Seidl:</hi> Was ist modern? Vortrag über Kunst, Literatur und Cultur unserer<lb/>
+Zeit. <hi rend="strong">(1 Mark.)</hi>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="advertisement-start"/>
+            <p>
+               <hi rend="strong">Kiellands</hi>
+               <hi rend="strong">Romane</hi> und <hi rend="strong">Novellen</hi>. (In tadelloser Ausstattung!) Autorisierte Übersetzung<lb/>
 von Privatdocenten Dr. Leo Bloch. »Alex. L. Kielland hat einen in der Geschichte<lb/>
-der neueren Literatur beispiellosen Erfolg gehabt.« schreibt <hi rend="strong">Georg Brandes.</hi></p><p>„Treuherz“ und „Karen“. (2 Novellen.) Mit Bild und <hi rend="strong">Biographie</hi> Kiellands. Preis<lb/>
-1 Mark; in Geschenkband Mark 1.50.</p><p><hi rend="strong">Georg Brandes:</hi> »Kielland hat kaum jemals Höheres erreicht, als in diesem kleinen <hi rend="strong">Meisterwerke.</hi></p><p><hi rend="strong">Hartung’sche Zeitung:</hi> »Solche Stücke müssen <hi rend="strong">oft</hi> gelesen werden, wenn man sie ganz<lb/>
-geniessen will.«</p><p><hi rend="strong">Freisinnige Zeitung:</hi> »Ein wahres Meisterstück der Satire! <milestone unit="2dots"/> Von tiefer Poesie erfüllt!«</p><p>„Else“. (Roman.) Preis Mark 1.50; in Geschenkband Mark 2.50.</p><p><hi rend="strong">Berliner Local-Anzeiger:</hi> »Realistische Poesie von unbeschreiblichem Reize.«</p><p><hi rend="strong">Literarisches Echo:</hi> »Das anspruchsloseste und reifste Werk Kiellands.«</p><p>„Jakob“. (Kiellands <hi rend="strong">letzter</hi> Roman.) 3 Mark; in Geschenkband 4 Mark.</p><p><hi rend="strong">Frankfurter Zeitung:</hi> »Man muss sagen, dass die ganze moderne Literatur <hi rend="strong">blass</hi> dagegen<lb/>
-erscheint!«</p><p><hi rend="strong">Brandes:</hi> Ein sehr, sehr geistreiches Buch!</p><p><hi rend="strong">Kölnische Zeitung:</hi> »Ein ganz ausgezeichnetes Buch!«</p><milestone unit="untyped-end"/><milestone unit="hr"/><milestone unit="advertisement-start"/><p>Illustrierte Kataloge gratis und franco von der</p><p><hi rend="strong">Verlagsgesellschaft „Harmonie“, Berlin W., Kronenstr. 68.</hi></p><milestone unit="untyped-end"/><milestone unit="hr"/><milestone unit="editorialStatement-start"/><p><hi rend="strong">Wiener Rundschau</hi></p><p><hi rend="strong">vierter Jahrgang</hi></p><p>Redaction: Wien, I/1 Schreyvogelgasse 3 Administration: Wien, I/1 Wollzeile 13</p><p><hi rend="strong">erscheint in Halbmonats-Heften am 1. und 15. eines jeden Monats.</hi></p><p>Der Abonnementspreis beträgt vierteljährlich 4 Kronen für Österreich-<lb break="no"/>
+der neueren Literatur beispiellosen Erfolg gehabt.« schreibt <hi rend="strong">Georg Brandes.</hi>
+            </p>
+            <p>„Treuherz“ und „Karen“. (2 Novellen.) Mit Bild und <hi rend="strong">Biographie</hi> Kiellands. Preis<lb/>
+1 Mark; in Geschenkband Mark 1.50.</p>
+            <p>
+               <hi rend="strong">Georg Brandes:</hi> »Kielland hat kaum jemals Höheres erreicht, als in diesem kleinen <hi rend="strong">Meisterwerke.</hi>
+            </p>
+            <p>
+               <hi rend="strong">Hartung’sche Zeitung:</hi> »Solche Stücke müssen <hi rend="strong">oft</hi> gelesen werden, wenn man sie ganz<lb/>
+geniessen will.«</p>
+            <p>
+               <hi rend="strong">Freisinnige Zeitung:</hi> »Ein wahres Meisterstück der Satire! <milestone unit="2dots"/> Von tiefer Poesie erfüllt!«</p>
+            <p>„Else“. (Roman.) Preis Mark 1.50; in Geschenkband Mark 2.50.</p>
+            <p>
+               <hi rend="strong">Berliner Local-Anzeiger:</hi> »Realistische Poesie von unbeschreiblichem Reize.«</p>
+            <p>
+               <hi rend="strong">Literarisches Echo:</hi> »Das anspruchsloseste und reifste Werk Kiellands.«</p>
+            <p>„Jakob“. (Kiellands <hi rend="strong">letzter</hi> Roman.) 3 Mark; in Geschenkband 4 Mark.</p>
+            <p>
+               <hi rend="strong">Frankfurter Zeitung:</hi> »Man muss sagen, dass die ganze moderne Literatur <hi rend="strong">blass</hi> dagegen<lb/>
+erscheint!«</p>
+            <p>
+               <hi rend="strong">Brandes:</hi> Ein sehr, sehr geistreiches Buch!</p>
+            <p>
+               <hi rend="strong">Kölnische Zeitung:</hi> »Ein ganz ausgezeichnetes Buch!«</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="advertisement-start"/>
+            <p>Illustrierte Kataloge gratis und franco von der</p>
+            <p>
+               <hi rend="strong">Verlagsgesellschaft „Harmonie“, Berlin W., Kronenstr. 68.</hi>
+            </p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="editorialStatement-start"/>
+            <p>
+               <hi rend="strong">Wiener Rundschau</hi>
+            </p>
+            <p>
+               <hi rend="strong">vierter Jahrgang</hi>
+            </p>
+            <p>Redaction: Wien, I/1 Schreyvogelgasse 3 Administration: Wien, I/1 Wollzeile 13</p>
+            <p>
+               <hi rend="strong">erscheint in Halbmonats-Heften am 1. und 15. eines jeden Monats.</hi>
+            </p>
+            <p>Der Abonnementspreis beträgt vierteljährlich 4 Kronen für Österreich-<lb break="no"/>
 Ungarn, 4 Mark für Deutschland, 6 Francs für die Länder des Welt-<lb break="no"/>
 postvereines. Einzelne Hefte kosten 80 ℎ in Österreich-Ungarn, 80 Pfg.<lb/>
-in Deutschland, 1 Franc in den Ländern des Weltpostvereines.</p><p>Alle Buchhandlungen, Zeitungsverschleißer und Postanstalten des In- und Auslandes, sowie die<lb/>
+in Deutschland, 1 Franc in den Ländern des Weltpostvereines.</p>
+            <p>Alle Buchhandlungen, Zeitungsverschleißer und Postanstalten des In- und Auslandes, sowie die<lb/>
 Administration nehmen Abonnementsbestellungen entgegen. Das Abonnement kann jederzeit<lb/>
 beginnen, muss aber mit Quartalsschluss endigen. Erfolgt nach Ablauf des Abonnements keine<lb/>
-Abbestellung, so gilt das als stillschweigendes Einverständnis zur Verlängerung.</p><p><hi rend="strong">Probehefte unentgeltlich und postfrei</hi> von der Administration.</p><p><hi rend="strong">Leipzig,</hi> in Commission bei <hi rend="strong">Wilhelm Opetz.</hi></p><p>Vertretung für <hi rend="strong">Berlin: Karl Siegismund,</hi> SW. Dessauerstrasse 13.</p><p>Vertretung für <hi rend="strong">München: Franz C. Mickl,</hi> Destouchesstrasse 3.</p><p>☛ In den <hi rend="strong">Wintercurorten</hi> liegt die »<hi rend="text-spaced">Wiener Rundschau</hi>« in jeder<lb/>
-soliden Buchhandlung auf. ☚</p><milestone unit="untyped-end"/><milestone unit="hr"/><milestone unit="imprint-start"/><p>K. k. Hoftheater-Druckerei, Wien, I., Wollzeile 17. (Verantwortlich A. Rimrich.)</p><milestone unit="untyped-end"/><milestone unit="untyped-end"/></div>
+Abbestellung, so gilt das als stillschweigendes Einverständnis zur Verlängerung.</p>
+            <p>
+               <hi rend="strong">Probehefte unentgeltlich und postfrei</hi> von der Administration.</p>
+            <p>
+               <hi rend="strong">Leipzig,</hi> in Commission bei <hi rend="strong">Wilhelm Opetz.</hi>
+            </p>
+            <p>Vertretung für <hi rend="strong">Berlin: Karl Siegismund,</hi> SW. Dessauerstrasse 13.</p>
+            <p>Vertretung für <hi rend="strong">München: Franz C. Mickl,</hi> Destouchesstrasse 3.</p>
+            <p>☛ In den <hi rend="strong">Wintercurorten</hi> liegt die »<hi rend="text-spaced">Wiener Rundschau</hi>« in jeder<lb/>
+soliden Buchhandlung auf. ☚</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="imprint-start"/>
+            <p>K. k. Hoftheater-Druckerei, Wien, I., Wollzeile 17. (Verantwortlich A. Rimrich.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
       </body>
    </text>
 </TEI>

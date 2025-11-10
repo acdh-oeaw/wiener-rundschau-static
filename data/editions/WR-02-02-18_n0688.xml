@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-18_n0688.xml"
-     prev="WR-02-02-18_n0687.xml"
-     next="WR-02-02-18_n0689.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-18_n0688.xml" prev="WR-02-02-18_n0687.xml" next="WR-02-02-18_n0689.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,13 +42,42 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 17</title>
+                  <idno>WR-02-02-17_n0641.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 19</title>
+                  <idno>WR-02-02-19_n0713.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">688</fw><fw type="ctext">MAETERLINCK.</fw></fw><p>Es gleicht noch jenem Verhängnis des Ödipus, und doch ist es<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">688</fw>
+               <fw type="ctext">MAETERLINCK.</fw>
+            </fw>
+            <p>Es gleicht noch jenem Verhängnis des Ödipus, und doch ist es<lb/>
 schon etwas anderes. Man könnte sagen, es ist ein ab intra geschautes<lb/>
 Verhängnis. Es gibt geheime Mächte, die in uns herrschen und mit<lb/>
 den Abenteuern im Einverständnis zu sein scheinen. Wir tragen alle<lb/>
@@ -75,7 +101,9 @@ verlegen, und die ihr wie lästige Bettlerinnen zurückgewiesen habt. Es<lb/>
 waren ja doch schüchterne Schwestern, die euch retten wollten und<lb/>
 die sich dann lautlos entfernt haben, weil sie zu schwach und zu klein<lb/>
 waren, um gegen Dinge zu kämpfen, die in unbekannten Regionen<lb/>
-entschieden wurden <milestone unit="7dots"/></p><p>Kaum hat sich das Unglück vollzogen, so haben wir die seltsame<lb/>
+entschieden wurden <milestone unit="7dots"/>
+            </p>
+            <p>Kaum hat sich das Unglück vollzogen, so haben wir die seltsame<lb/>
 Empfindung, einem ewigen Gesetze gehorcht zu haben, und eine unbe-<lb break="no"/>
 stimmte geheimnisvolle Erleichterung belohnt uns inmitten der grossen<lb/>
 Schmerzen für unseren Gehorsam. Wir gehören uns nie wirklicher<lb/>
@@ -85,7 +113,8 @@ Theil unseres Wesens wiedererobert hätten. Es findet eine seltsame<lb/>
 Linderung statt. Seit vielen Tagen kämpften fast ohne unser Mitwissen<lb/>
 die aufständischen Mächte unserer Seele am Rande des Abgrundes,<lb/>
 während wir dem Menschenantlitz und den Blumen zulächeln konnten<lb/>
-und jetzt, wo wir am Grunde liegen, athmet alles frei.</p><p>So kämpfen sie alle ohne Rast in jeder unserer Seelen; und<lb/>
+und jetzt, wo wir am Grunde liegen, athmet alles frei.</p>
+            <p>So kämpfen sie alle ohne Rast in jeder unserer Seelen; und<lb/>
 wir sehen manchmal, ohne darauf zu achten, — denn wir öffnen die<lb/>
 Augen nur für die bedeutungslosen Dinge — den Schatten dieser<lb/>
 Kämpfe, bei denen unser Wille nicht mitthun kann. Wenn ich mit<lb/>
@@ -95,7 +124,8 @@ plötzlich über das Antlitz des einen gleitet. Ein unbegründetes Schweigen<lb/
 wird plötzlich herrschen: und alle werden unbewusst die Spanne eines<lb/>
 Augenblicks mit den Augen der Seele geschaut haben, worauf das<lb/>
 Lächeln und die Worte, welche wie die erschreckten Frösche in einem<lb/>
-grossen Teiche verschwunden waren, heftiger an die Oberfläche steigen</p></div>
+grossen Teiche verschwunden waren, heftiger an die Oberfläche steigen</p>
+         </div>
       </body>
    </text>
 </TEI>

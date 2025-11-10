@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-11_n0228.xml"
-     prev="WR-05-11_n0227.xml"
-     next="WR-05-11_n0229.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-11_n0228.xml" prev="WR-05-11_n0227.xml" next="WR-05-11_n0229.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 10</title>
+                  <idno>WR-05-10_n0205.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 12</title>
+                  <idno>WR-05-12_n0249.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BRYK: DIE MUSIK UND DIE INSCENIERUNG.</fw></fw><table><row><cell>
-<p>Eigentlich gilt diese Cardinalforde-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BRYK: DIE MUSIK UND DIE INSCENIERUNG.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Eigentlich gilt diese Cardinalforde-<lb break="no"/>
 rung <hi rend="text-spaced">Appias</hi>, die sinnlichen Aus-<lb break="no"/>
 drucksmittel so spärlich als möglich<lb/>
 zur Inscenierung heranzuziehen, schon<lb/>
@@ -76,7 +91,7 @@ Aufführungen, der psychologisch zurück-<lb break="no"/>
 zuführen ist auf eine Verwechslung von<lb/>
 Realismus und Realität der Erschei-<lb break="no"/>
 nungen.</p>
-<p>Mit diesen Bemerkungen soll nun<lb/>
+                     <p>Mit diesen Bemerkungen soll nun<lb/>
 keineswegs gesagt sein, dass der Scene<lb/>
 und der Technik der Inscenierung von nun<lb/>
 an keine nennenswerte Bedeutung mehr<lb/>
@@ -98,11 +113,14 @@ echauffieren. Wir sollen von nun an<lb/>
 davor bewahrt werden, zwei einander<lb/>
 so heterogene Elemente, wie die Trans-<lb break="no"/>
 cendentalkraft der Musik und die<lb/>
-<hi rend="text-spaced">Associationen</hi> der Scene, <hi rend="text-spaced">einfach</hi></p>
-</cell><cell>
-<p rend="no-intend"><hi rend="text-spaced">übereinander</hi> zu bauen und derart<lb/>
+                        <hi rend="text-spaced">Associationen</hi> der Scene, <hi rend="text-spaced">einfach</hi>
+                     </p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">
+                        <hi rend="text-spaced">übereinander</hi> zu bauen und derart<lb/>
 zu vermauern.</p>
-<p>Schließlich handelt es sich um<lb/>
+                     <p>Schließlich handelt es sich um<lb/>
 praktische Reformvorschläge. Jede, von<lb/>
 ehrlichen Prämissen aus entwickelte, in<lb/>
 letzter Linie der fruchtbringenden An-<lb break="no"/>
@@ -119,16 +137,18 @@ zu weit führen. Sie betreffen das<lb/>
 Scenarium, die Darstellung, die Deco-<lb break="no"/>
 ration und in erster Linie die Be-<lb break="no"/>
 leuchtung. In wenigen Worten: Unter-<lb break="no"/>
-drückung der rein <hi rend="text-spaced">analytischen</hi><lb/>
+drückung der rein <hi rend="text-spaced">analytischen</hi>
+                        <lb/>
 Bestimmungsmerkmale, die den Begriff<lb/>
 angeben, und Betonung des <hi rend="text-spaced">Tonalen</hi>,<lb/>
 das den Empfindungszustand betrifft.*</p>
-<p>Die vermittelnde Rolle für diese Orga-<lb break="no"/>
+                     <p>Die vermittelnde Rolle für diese Orga-<lb break="no"/>
 nisierung des Inhomogenen spielt — wie<lb/>
 in der Natur — das Licht. Aber nicht<lb/>
 das Licht der Decoration, des Effectcs,<lb/>
 der Rampe, sondern ein Licht, welches<lb/>
-in engster tonaler <hi rend="text-spaced">Verwandtschaft</hi><lb/>
+in engster tonaler <hi rend="text-spaced">Verwandtschaft</hi>
+                        <lb/>
 steht mit der Dynamik, also mit dem<lb/>
 musikalischen und psychischen Rhyth-<lb break="no"/>
 mus. Wagner selbst hat so oft darauf<lb/>
@@ -148,13 +168,17 @@ Gedanken nachzuweisen, seinem Werke<lb/>
 einige Tafeln beigefügt, welche zunächst<lb/>
 als Reformierungsversuche betrachtet<lb/>
 werden sollen, denen aber auch unab-</p>
-</cell></row></table><note type="footnote">
-<p>* »Die <hi rend="text-spaced">Malerei</hi> muss — wenn auch nicht thatsächlich, so doch dem Anscheine nach<lb/>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* »Die <hi rend="text-spaced">Malerei</hi> muss — wenn auch nicht thatsächlich, so doch dem Anscheine nach<lb/>
 — <hi rend="text-spaced">auf ihre Vorherrschaft verzichten</hi>. <hi rend="text-spaced">Die Beleuchtung</hi> wird dem Rechnung<lb/>
 tragen, indem sie sich eines großen Theiles ihrer bisherigen Verpflichtungen der Malerei<lb/>
 gegenüber entledigt und dafür der Entwicklung und Vervollkommnung ihrer Apparate um ihrer<lb/>
 eigenen Wirkungs- und Ausdrucksfähigkeit willen die allergrößte Sorgfalt widmet <milestone unit="4dots"/>«</p>
-</note></div>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

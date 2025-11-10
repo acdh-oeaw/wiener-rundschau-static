@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-04-07_n0167.xml"
-     prev="WR-04-07_n0166.xml"
-     next="WR-04-07_n0168.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-07_n0167.xml" prev="WR-04-07_n0166.xml" next="WR-04-07_n0168.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,15 +41,38 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 5</title>
+                  <idno>WR-05-01_n0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 4, Nr. 6</title>
+                  <idno>WR-04-06_n0125.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 4, Nr. 8</title>
+                  <idno>WR-04-08_n0175.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>DIE RENAISSANCE DES KELTENTHUMS.<lb/>
-Von <rs type="person" key="">HARALD GRAEVELL VAN JOSTENOODE</rs> (Lüttich).</title></ab><table><row><cell>
-<p>Im Rayon der Pariser Weltausstellung<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIE RENAISSANCE DES KELTENTHUMS.<lb/>
+Von <rs type="person" key="">HARALD GRAEVELL VAN JOSTENOODE</rs> (Lüttich).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Im Rayon der Pariser Weltausstellung<lb/>
 will man einen großen Menhir, einen<lb/>
 heiligen Stein der alten Druiden von der<lb/>
 Bretagne, aufstellen, der gewiss eine Haupt-<lb break="no"/>
@@ -68,7 +88,7 @@ Abkunft erinnern. Es wäre nicht zu ver-<lb break="no"/>
 wundern, wenn sie sich vom nächsten<lb/>
 Jahrhundert an nicht mehr Franzosen,<lb/>
 sondern Gaulois nennen würden.</p>
-<p>Auch in anderen Ländern, wo das<lb/>
+                     <p>Auch in anderen Ländern, wo das<lb/>
 keltische Blut noch reiner geblieben ist,<lb/>
 fängt man an, der keltischen Zusammen-<lb break="no"/>
 gehörigkeit zu gedenken, ja, man hat in<lb/>
@@ -98,8 +118,9 @@ Rassenhader geschwächt wird, so leidet<lb/>
 nicht allein die wirtschaftliche Entwicklung,<lb/>
 sondern das Volk wird schließlich unfähig<lb/>
 zu einer großen Actionspolitik. Es war</p>
-</cell><cell>
-<p rend="no-intend">das Unglück Deutschlands, dass es jahr-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">das Unglück Deutschlands, dass es jahr-<lb break="no"/>
 hundertelang keine wirtschaftliche Einheit<lb/>
 bildete. Daher konnten die ethnographischen<lb/>
 Gegensätze so scharf werden. Jeder weiß<lb/>
@@ -110,13 +131,14 @@ slavisierten Osten und dem verhältnismäßig<lb/>
 rein germanischen Nordwesten wäre ohne<lb/>
 die wirtschaftliche und daraus sich er-<lb break="no"/>
 gebende politische Einigung des Jahres<lb/>
-<date>1870</date> noch größer geworden.</p>
-<p>Man vergesse nicht, dass die Sprache<lb/>
+                        <date>1870</date> noch größer geworden.</p>
+                     <p>Man vergesse nicht, dass die Sprache<lb/>
 sowenig wie die Literatur einen so<lb/>
 großen Einfluss ausübt, als es unsere<lb/>
 Schulmeister aufzustellen pflegen. Die<lb/>
 Masse des Volkes bleibt davon unberührt.<lb/>
-Sie lässt sich vom angeborenen <hi rend="text-spaced">Charakter</hi><lb/>
+Sie lässt sich vom angeborenen <hi rend="text-spaced">Charakter</hi>
+                        <lb/>
 leiten, aber nicht von den schönen Phrasen<lb/>
 der Zeitungsschreiber. Der Charakter ist<lb/>
 das Entscheidende und der geht auf die<lb/>
@@ -131,7 +153,7 @@ Das keltische Blut in seinen Adern sagt<lb/>
 ihm, dass er Helvetier ist, dass er daher<lb/>
 anders fühlt und denkt, als ein reiner<lb/>
 Germane.</p>
-<p>Wenn nun Volks-Einheiten vorhanden<lb/>
+                     <p>Wenn nun Volks-Einheiten vorhanden<lb/>
 sind, welche einer politischen Nation ein-<lb break="no"/>
 verleibt sind, ohne derselben ethnographisch<lb/>
 anzugehören, so können sie bei dem so-<lb break="no"/>
@@ -144,7 +166,10 @@ die Angelsachsen, und selbst die bis vor<lb/>
 kurzem so ruhigen Walliser fangen an,<lb/>
 sich der angelsächsischen Vorherrschaft<lb/>
 entgegenzustemmen.</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

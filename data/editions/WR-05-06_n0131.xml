@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-06_n0131.xml"
-     prev="WR-05-06_n0130.xml"
-     next="WR-05-06_n0132.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-06_n0131.xml" prev="WR-05-06_n0130.xml" next="WR-05-06_n0132.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 5</title>
+                  <idno>WR-05-05_n0097.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 7</title>
+                  <idno>WR-05-07_n0141.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">HARTMANN: DIE GEHEIME BEDEUTUNG DES KREUZES.</fw></fw><table><row><cell>
-<p rend="no-intend">Seite 832): »Und du, <hi rend="text-spaced">eine göttliche<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">HARTMANN: DIE GEHEIME BEDEUTUNG DES KREUZES.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Seite 832): »Und du, <hi rend="text-spaced">eine göttliche<lb/>
 Seele unter Dämonen</hi>, <hi rend="text-spaced">die als<lb/>
 erdgeborene natürlich feindlich<lb/>
 gesinnt sind</hi>, wenn einer fremde Ge-<lb break="no"/>
@@ -62,7 +77,7 @@ Dienst erfüllst</hi>. Du musst kämpfen,<lb/>
 nicht nur gegen andere, sondern der<lb/>
 schwerste Kampf ist mit dem unver-<lb break="no"/>
 nünftigen Theil der Seele« u. s. w.</p>
-<p>Der Pessimismus des Individualisten<lb/>
+                     <p>Der Pessimismus des Individualisten<lb/>
 ist <hi rend="text-spaced">heroisch</hi>, er kann dies nur sein<lb/>
 in jenem <hi rend="text-spaced">transcendentalen Opti-<lb break="no"/>
 mismus</hi>, der auch einem Schopenhauer<lb/>
@@ -77,22 +92,23 @@ behaglich und vergnüglich aus, während<lb/>
 auf den hohen Stirnen der Bevorzugten<lb/>
 häufig der Unmuth thront. Es ist, als ob<lb/>
 jene fühlten, das Erdenlos sei eben ihren</p>
-</cell><cell>
-<p rend="no-intend">Verdiensten angemessen — <hi rend="text-spaced">diese</hi> hin<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Verdiensten angemessen — <hi rend="text-spaced">diese</hi> hin<lb/>
 gegen, sie <hi rend="text-spaced">seien wohl eines besseren<lb/>
 wert</hi>« — fügt er in § 329 sofort hinzu:</p>
-<p>»Hebbel sagt in einem seiner allemanni-<lb break="no"/>
+                     <p>»Hebbel sagt in einem seiner allemanni-<lb break="no"/>
 schen Gedichte: »<hi rend="text-spaced">Es muss irgend eine<lb/>
 bessere Zukunft sein</hi>, <hi rend="text-spaced">sonst wäre<lb/>
 das Abendroth nicht so schön</hi>.«</p>
-<p>Den eigentlichen Schlüssel aber zur<lb/>
+                     <p>Den eigentlichen Schlüssel aber zur<lb/>
 Lösung der Antinomie bietet die von<lb/>
 Schopenhauer durchaus congenial erfasste<lb/>
 platonische <hi rend="text-spaced">Ideenlehre</hi>; sie ist es, die eine<lb/>
 individualistische Ausprägung nach unserer<lb/>
 Ansicht nicht nur zulässt, sondern sogar<lb/>
 fordert, allerdings eine solche in durchaus<lb/>
-<hi rend="text-spaced">aristokratischem</hi> Sinne. Bevor wir in<lb/>
+                        <hi rend="text-spaced">aristokratischem</hi> Sinne. Bevor wir in<lb/>
 einem anderen Aufsatz auf diese Begründung<lb/>
 eingehen, verweisen wir den freundlichen<lb/>
 Leser auf das Studium des § 26, Buch II<lb/>
@@ -104,9 +120,20 @@ stufe des Willens eine <hi rend="text-spaced">Idee</hi>, eine durch<lb/>
 ihren <hi rend="text-spaced">Sonderwert</hi> gerechtfertigte, übri-<lb break="no"/>
 gens grundlose und also ewige Selbst-<lb break="no"/>
 darstellung sein kann.</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/><milestone unit="untyped-start"/><ab><title>DIE GEHEIME BEDEUTUNG DES KREUZES.<lb/>
-Von <rs type="person" key="">FRANZ HARTMANN</rs> (Florenz).</title></ab><table><row><cell>
-<p>Es gibt keinen wirklichen Mystiker<lb/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIE GEHEIME BEDEUTUNG DES KREUZES.<lb/>
+Von <rs type="person" key="">FRANZ HARTMANN</rs> (Florenz).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Es gibt keinen wirklichen Mystiker<lb/>
 und wohl auch keinen gebildeten »Geist-<lb break="no"/>
 lichen«, der nicht weiß, dass hinter der<lb/>
 gewöhnlich angenommenen, äußerlichen<lb/>
@@ -125,15 +152,16 @@ Blut die ganze Menschheit erlöst werden<lb/>
 könne? Wie viele hat schon dieser<lb/>
 Zweifel gequält, wenn sie auch sich vor<lb/>
 ihm gefürchtet und ihm, als angeblich</p>
-</cell><cell>
-<p rend="no-intend">sündhaft, ausgewichen sind, und trotzdem<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">sündhaft, ausgewichen sind, und trotzdem<lb/>
 ist er immer wieder gekommen; denn die<lb/>
 Vernunft sträubt sich nicht gegen das,<lb/>
 was über ihr ist und was sie nicht fassen<lb/>
 kann, wohl aber gegen das, was wider<lb/>
 die Vernunft und gegen alle bekannten<lb/>
 Naturgesetze ist.</p>
-<p>Geschichtliche Forschungen haben<lb/>
+                     <p>Geschichtliche Forschungen haben<lb/>
 diese Zweifel noch vermehrt und die<lb/>
 Wissenschaft zwar nicht mit der wahren<lb/>
 Religion, wohl aber mit dem religiösen<lb/>
@@ -145,7 +173,10 @@ steigen des <hi rend="text-spaced">Logos</hi> in das Materielle (das<lb/>
 »Fleisch«) und dessen Wiederauferstehung<lb/>
 nicht eine Episode in der Geschichte des<lb/>
 Judenthums, sondern eine ewige Wahr-</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

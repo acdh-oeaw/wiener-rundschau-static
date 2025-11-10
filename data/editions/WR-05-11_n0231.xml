@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-11_n0231.xml"
-     prev="WR-05-11_n0230.xml"
-     next="WR-05-11_n0232.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-11_n0231.xml" prev="WR-05-11_n0230.xml" next="WR-05-11_n0232.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,16 +41,35 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 10</title>
+                  <idno>WR-05-10_n0205.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 12</title>
+                  <idno>WR-05-12_n0249.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>DIALOG ÜBER ESOTERISCHEN BUDDHISMUS.<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIALOG ÜBER ESOTERISCHEN BUDDHISMUS.<lb/>
 Von <rs type="person" key="">CARL BLEIBTREU</rs>.<lb/>
-(Schluss.)</title></ab><table><row><cell>
-<p>Der Begriff des vom heiligen Geiste<lb/>
+(Schluss.)</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Der Begriff des vom heiligen Geiste<lb/>
 erfüllten Gott-Menschen, der seine Kraft<lb/>
 aus steter Beziehung zum »Vater im All«<lb/>
 (»der du bist in den Himmeln«) ziehen<lb/>
@@ -97,8 +113,9 @@ Ein so hervorragend edler »Schacher«<lb/>
 gieng naturgemäß ins Reich der Erlösung<lb/>
 ein, wie die Pharisäer an den Ort, »wo<lb/>
 da ist Heulen und Zähneklappern«, die</p>
-</cell><cell>
-<p>ewige Wiedergeburt heuchlerischen Schein-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p>ewige Wiedergeburt heuchlerischen Schein-<lb break="no"/>
 lebens. Irgendwelche Verschiedenheit<lb/>
 zwischen dem Ethischen der Evangelien<lb/>
 und des Buddhismus lässt sich höchstens<lb/>
@@ -131,7 +148,7 @@ Die »Sündenvergebung« wird, abgesehen<lb/>
 vom Gegensatz zum Pharisäerthum, nur<lb/>
 deshalb in allgemeine Aussicht gestellt,<lb/>
 weil der unfreie Wille »<hi rend="text-spaced">nicht weiß</hi>,<lb/>
-<hi rend="text-spaced">was er thut</hi>« (echte Karma-Lehre) und<lb/>
+                        <hi rend="text-spaced">was er thut</hi>« (echte Karma-Lehre) und<lb/>
 die Motiv-Gesinnung (»ihr ist viel ver-<lb break="no"/>
 geben, denn sie hat viel geliebt«), sowie<lb/>
 das Relative (»wer sich rein fühlt« u. s. w.)<lb/>
@@ -140,11 +157,16 @@ werden, und zugleich, im Gegensatz zum<lb/>
 beschränkten Jehovah, die allweise All-Liebe<lb/>
 Gottes. Im übrigen predigen Jesus und<lb/>
 Paulus durchaus nur die Selbst-Erlösung.<lb/>
-Nicht an ihn, sondern an seine <hi rend="text-spaced">Lehre</hi><lb/>
+Nicht an ihn, sondern an seine <hi rend="text-spaced">Lehre</hi>
+                        <lb/>
 soll man glauben, sie allein macht selig,</p>
-</cell></row></table><note type="footnote">
-<p>* Hievor ist ein Passus weggefallen.</p>
-</note></div>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Hievor ist ein Passus weggefallen.</p>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

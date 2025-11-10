@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-18_n0681.xml"
-     prev="WR-02-02-18_n0680.xml"
-     next="WR-02-02-18_n0682.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-18_n0681.xml" prev="WR-02-02-18_n0680.xml" next="WR-02-02-18_n0682.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,20 +42,50 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 17</title>
+                  <idno>WR-02-02-17_n0641.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 19</title>
+                  <idno>WR-02-02-19_n0713.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">MAX STIRNERS LEBEN UND WERK.</fw><fw type="pn">681</fw></fw><p rend="no-intend">Wissen von sich selbst oder falls dieses deutlicher scheint, ein Wissen<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MAX STIRNERS LEBEN UND WERK.</fw>
+               <fw type="pn">681</fw>
+            </fw>
+            <p rend="no-intend">Wissen von sich selbst oder falls dieses deutlicher scheint, ein Wissen<lb/>
 der <hi rend="text-spaced">Idee</hi>, ein Selbstbewusstsein des Geistes geworden ist. Dann ver-<lb break="no"/>
 kehrt es sich, sozusagen in den Trieb, den Instinct des Geistes, in ein<lb/>
-<hi rend="text-spaced">bewusstloses Wissen</hi>, von dem sich jeder wenigstens eine Vor-<lb break="no"/>
+               <hi rend="text-spaced">bewusstloses Wissen</hi>, von dem sich jeder wenigstens eine Vor-<lb break="no"/>
 stellung zu machen vermag, wenn er es damit vergleicht, wie so<lb/>
 viele und umfassende Erfahrungen bei ihm selbst in das einfache<lb/>
 Gefühl sublimiert werden, das man <hi rend="text-spaced">Takt</hi> nennt: alles aus jener<lb/>
-Erfahrung gezogene, weitläufige Wissen ist in ein <hi rend="text-spaced">augenblickliches</hi><lb/>
+Erfahrung gezogene, weitläufige Wissen ist in ein <hi rend="text-spaced">augenblickliches</hi>
+               <lb/>
 Wissen concentriert, wodurch er im Nu sein Handeln bestimmt. Dahin<lb/>
 aber, zu dieser Immaterialität muss das Wissen durchdringen, indem<lb/>
 es seine sterblichen Theile opfert und als Unsterbliches — Wille<lb/>
@@ -67,19 +94,22 @@ nach welchem Ziele unsere Zeit zu steuern hat, so liesse sich der<lb/>
 nothwendige Untergang der willenlosen Wissenschaft und der Aufgang<lb/>
 des selbstbewussten Willens, welcher sich im Sonnenglanz der freien<lb/>
 Person vollendet, etwa folgendermassen fassen: das <hi rend="text-spaced">Wissen</hi> muss<lb/>
-sterben, um als <hi rend="text-spaced">Wille</hi> wieder aufzuerstehen, und als freie <hi rend="text-spaced">Person</hi><lb/>
+sterben, um als <hi rend="text-spaced">Wille</hi> wieder aufzuerstehen, und als freie <hi rend="text-spaced">Person</hi>
+               <lb/>
 sich täglich neu zu schaffen«<milestone unit="4dots"/> Man sieht, dass Stirner in diesen<lb/>
 letzten Sätzen eigentlich das Wesen des Genies und der Intuition<lb/>
 bezeichnet und kann daraus ermessen, an welche Höhen der Menschheits-<lb break="no"/>
 entwicklung er gedacht haben musste, um diese Grundsätze der<lb/>
-<hi rend="text-spaced">allgemeinen</hi> Erziehung anzuempfehlen<milestone unit="4dots"/> Von gleicher Tiefe und<lb/>
-Klarheit ist der Essay »<hi rend="text-spaced">Kunst und Religion</hi>«, ebenfalls im Jahre <date>1842</date><lb/>
+               <hi rend="text-spaced">allgemeinen</hi> Erziehung anzuempfehlen<milestone unit="4dots"/> Von gleicher Tiefe und<lb/>
+Klarheit ist der Essay »<hi rend="text-spaced">Kunst und Religion</hi>«, ebenfalls im Jahre <date>1842</date>
+               <lb/>
 veröffentlicht. Er geht davon aus, <hi rend="text-spaced">dass der Mensch in sich selbst ein<lb/>
 Jenseits habe</hi>; d. h. dass er im thierischen und natürlichen Zustande<lb/>
 sich nicht genüge, sondern ein anderer werden müsse, für den <hi rend="text-spaced">gegen-<lb break="no"/>
 wärtigen</hi> Menschen sei aber wohl der <hi rend="text-spaced">andere</hi>, der er werden soll, ein<lb/>
 Zukünftiger, ein <hi rend="text-spaced">Jenseitiger</hi>. Diese Entzweiung des Menschen in einen<lb/>
-Seienden und in einen Jenseitigen ist der Beginn seiner Entwicklung.</p><p>Die Kunst schafft Entzweiung, indem sie dem Menschen das<lb/>
+Seienden und in einen Jenseitigen ist der Beginn seiner Entwicklung.</p>
+            <p>Die Kunst schafft Entzweiung, indem sie dem Menschen das<lb/>
 Ideal entgegenstellt, der Anblick des Ideales aber, der so lange dauert,<lb/>
 bis vom unverwandten, gierigen Auge das Ideal wieder eingesogen<lb/>
 und verschlungen worden, heisst Religion. Darum weil sie ein Anblicken<lb/>
@@ -96,7 +126,8 @@ aber der Geist an ein Object gebunden ist und alles Mass seiner Be-<lb break="no
 wegung ihm von eben diesem Objecte bestimmt wird, wo der Geist<lb/>
 von einem Objecte abhängig ist, das er zu erklären, zu erforschen,<lb/>
 zu fühlen, zu lieben u. s. w. sucht, da ist er nicht frei, und, weil<lb/>
-Freiheit die Bedingung der Genialität, auch nicht genial. Eine geniale</p></div>
+Freiheit die Bedingung der Genialität, auch nicht genial. Eine geniale</p>
+         </div>
       </body>
    </text>
 </TEI>

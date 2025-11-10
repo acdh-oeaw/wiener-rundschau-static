@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-22_n0849.xml"
-     prev="WR-02-02-22_n0848.xml"
-     next="WR-02-02-22_n0850.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-22_n0849.xml" prev="WR-02-02-22_n0848.xml" next="WR-02-02-22_n0850.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,24 +42,58 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 21</title>
+                  <idno>WR-02-02-21_n0785.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 23</title>
+                  <idno>WR-02-02-23_n0865.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">WENN ICH GOTT WÄRE.</fw><fw type="pn">849</fw></fw><p rend="no-intend">wollte, eine Religion der Liebe, eine mächtige Brüdergemeinde der<lb/>
-Liebenden und der Liebenswerthen.«</p><p>»Du meinst also, dass diese Liebe Gottes eine mystische Offen-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">WENN ICH GOTT WÄRE.</fw>
+               <fw type="pn">849</fw>
+            </fw>
+            <p rend="no-intend">wollte, eine Religion der Liebe, eine mächtige Brüdergemeinde der<lb/>
+Liebenden und der Liebenswerthen.«</p>
+            <p>»Du meinst also, dass diese Liebe Gottes eine mystische Offen-<lb break="no"/>
 barung ist, welche durch keine Anstrengung der Verstandeskraft erfasst<lb/>
-werden kann?«</p><p>»Würde die Verstandeskraft hinreichen, die Offenbarung zu<lb/>
+werden kann?«</p>
+            <p>»Würde die Verstandeskraft hinreichen, die Offenbarung zu<lb/>
 gewinnen, welche ich, vielleicht mit Unrecht, mit einer so viel höheren,<lb/>
-transcendentalen Liebe verglichen habe?«</p><p>»Würde überhaupt eine Bemühung zu dieser Offenbarung<lb/>
-verhelfen?«</p><p>»Nur was ich eine Bemühung des Herzens nennen möchte,<lb/>
+transcendentalen Liebe verglichen habe?«</p>
+            <p>»Würde überhaupt eine Bemühung zu dieser Offenbarung<lb/>
+verhelfen?«</p>
+            <p>»Nur was ich eine Bemühung des Herzens nennen möchte,<lb/>
 eine bescheiden abwartende Haltung, ein <hi rend="text-spaced">Horchen der Seele</hi>. Der<lb/>
 Intellect allein ist dem Leben gegenüber mehr blind als sehend. Das<lb/>
 Herz und selbst die Sinne — wenn unter richtiger Leitung — sind<lb/>
 ein besserer Führer. Unsere einfachsten Einfalle sind unsere wahrsten,<lb/>
-unsere plötzlichen Impulse unsere edelsten — oder verwerflichsten.</p><p>»Du, ich weiss es, hast manchmal ein Gefühl, als müsstest Du<lb/>
+unsere plötzlichen Impulse unsere edelsten — oder verwerflichsten.</p>
+            <p>»Du, ich weiss es, hast manchmal ein Gefühl, als müsstest Du<lb/>
 niederknien zum Gebet, aber hundert hochfliegende Gedanken ver-<lb break="no"/>
 drängen und beschämen diese Regung. Du nennst sie selbst die Macht<lb/>
 alter Erinnerungen und nicht ein Bedürfnis Deines Herzens; oder Du<lb/>
@@ -74,11 +105,15 @@ der nicht mitknien will. Bis nicht das ganze Wesen niederkniet, gibt es kein<lb/
 Gebet. Das Herz kann sich Gott nicht öffnen, solange noch im Kopfe<lb/>
 ein Gedanke ist, der es verschliesst. Aber lass das Herz sich nur ein<lb/>
 klein wenig öffnen, und augenblicklich wird es von Licht und einem<lb/>
-wundervollen Tönen überfluthet sein.«</p><p>»Wenn nun aber das Herz blind geboren ist?« fragte der Mann.</p><p>»Ich glaube nicht, dass jemals Herzen ganz blind geboren sind;<lb/>
+wundervollen Tönen überfluthet sein.«</p>
+            <p>»Wenn nun aber das Herz blind geboren ist?« fragte der Mann.</p>
+            <p>»Ich glaube nicht, dass jemals Herzen ganz blind geboren sind;<lb/>
 wenn es aber solche gibt, so ist das auch eines der Geheimnisse<lb/>
-Gottes.«</p><p>»Die Geheimnisse Gottes! Damit möchtest Du alles Böse aus<lb/>
+Gottes.«</p>
+            <p>»Die Geheimnisse Gottes! Damit möchtest Du alles Böse aus<lb/>
 der Welt erklären. Ist das nicht eine zu leichte Erklärung so vieler,<lb/>
-schwieriger Probleme?«</p><p>»<hi rend="text-spaced">Nein</hi>; sie ist manchmal <hi rend="text-spaced">sehr schwer</hi>; aber Du darfst nicht<lb/>
+schwieriger Probleme?«</p>
+            <p>»<hi rend="text-spaced">Nein</hi>; sie ist manchmal <hi rend="text-spaced">sehr schwer</hi>; aber Du darfst nicht<lb/>
 vergessen, dass wir uns den Mysterien der göttlichen Liebe anzu-<lb break="no"/>
 vertrauen gelernt haben. Und ich möchte glauben, dass selbst einer,<lb/>
 der das Leben ansieht wie Du, viel darin erblickt haben müsste, das<lb/>
@@ -86,8 +121,10 @@ für die Liebe Gottes Zeugnis ablegt. Wenn alles, was wir sind und<lb/>
 haben, von Gott stammt, so sind wir ihm doch wohl mehr als eine<lb/>
 blosse Kritik des Lebens schuldig, das wir nicht ergründen können;<lb/>
 zumindest Dankbarkeit für die vielfachen Wunder des Daseins — für<lb/>
-die Offenbarung der Schönheit zum Beispiel.«</p><p>»Ich möchte es wissen,« grübelte der Mann <milestone unit="3dots"/> »im Leben ist<lb/>
-ja gewiss vieles süss, aber es ist so spitzfindig mit dem Schrecklichen ver-</p></div>
+die Offenbarung der Schönheit zum Beispiel.«</p>
+            <p>»Ich möchte es wissen,« grübelte der Mann <milestone unit="3dots"/> »im Leben ist<lb/>
+ja gewiss vieles süss, aber es ist so spitzfindig mit dem Schrecklichen ver-</p>
+         </div>
       </body>
    </text>
 </TEI>

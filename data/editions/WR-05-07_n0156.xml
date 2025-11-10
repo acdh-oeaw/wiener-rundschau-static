@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-07_n0156.xml"
-     prev="WR-05-07_n0155.xml"
-     next="WR-05-07_n0157.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-07_n0156.xml" prev="WR-05-07_n0155.xml" next="WR-05-07_n0157.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,24 +41,42 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 6</title>
+                  <idno>WR-05-06_n0115.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 8</title>
+                  <idno>WR-05-08_n0159.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BRIDIER: WIE VERSETZT MAN SICH IN DIE PERSÖNLICHKEIT EINES ANDEREN?</fw></fw><table><row><cell>
-<p rend="no-intend">cation, eine Verschmelzung mit der anderen<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BRIDIER: WIE VERSETZT MAN SICH IN DIE PERSÖNLICHKEIT EINES ANDEREN?</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">cation, eine Verschmelzung mit der anderen<lb/>
 Persönlichkeit, und zwar umso vollkom-<lb break="no"/>
 mener, als die Nachahmung des fremden<lb/>
 Ausdruckes an Gründlichkeit und Ver-<lb break="no"/>
 tiefung zunimmt.</p>
-<p>Anknüpfend an diese Gedankenreihe<lb/>
+                     <p>Anknüpfend an diese Gedankenreihe<lb/>
 sei Campanella erwähnt (und andere Diplo-<lb break="no"/>
 maten), welcher das Mienenspiel derjenigen<lb/>
 nachahmte, deren Ergründung ihm am<lb/>
 Herzen lag.</p>
-<p>Gutes und böses Beispiel, Angewohn-<lb break="no"/>
+                     <p>Gutes und böses Beispiel, Angewohn-<lb break="no"/>
 heiten, verschiedene Gebiete des Snobismus,<lb/>
 gewisse nervöse Krankheiten, einschließ-<lb break="no"/>
 lich der sich jedermann aufdrängenden Noth-<lb break="no"/>
@@ -70,8 +85,10 @@ die sich häufig seiner Wahrnehmung auf-<lb break="no"/>
 drängen: dies alles sind ebensoviele<lb/>
 Postulate der Sympathie oder der psycho-<lb break="no"/>
 motorischen Induction.</p>
-<ab><title>V.</title></ab>
-<p>Das mich am ersprießlichsten dünkende<lb/>
+                     <ab>
+                        <title>V.</title>
+                     </ab>
+                     <p>Das mich am ersprießlichsten dünkende<lb/>
 Verfahren, um sich in das Seelenleben<lb/>
 und den Gemüthszustand eines Schreibers<lb/>
 zu versetzen, schreibt sich ebenfalls vom<lb/>
@@ -90,7 +107,7 @@ der dem Telephon zugrunde liegenden<lb/>
 Gesetze entsprungen, wie ein sich nicht<lb/>
 klar davon Rechenschaft gebender Schrift-<lb break="no"/>
 steller irrthürmlich behauptet hat.</p>
-<p>Für den Schriftdeuter gipfelt dies Ver-<lb break="no"/>
+                     <p>Für den Schriftdeuter gipfelt dies Ver-<lb break="no"/>
 fahren einzig und allein in dem Bestreben,<lb/>
 seine Persönlichkeit derjenigen des Ur-<lb break="no"/>
 hebers (Verfassers) eines zu ergründenden<lb/>
@@ -102,8 +119,9 @@ der Lupe stattgefunden, setzt sich zum<lb/>
 Ziel, gewissermaßen das Maß des Schrei-<lb break="no"/>
 bers zu nehmen und sich klar zu werden<lb/>
 über den Grad der Leichtigkeit, mit dem</p>
-</cell><cell>
-<p rend="no-intend">die Anpassung, die Identification ins Werk<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">die Anpassung, die Identification ins Werk<lb/>
 gesetzt werden kann; eine genaue Zer-<lb break="no"/>
 gliederung der Schrift verstärkt augen-<lb break="no"/>
 scheinlich den auf den Graphologen hervor-<lb break="no"/>
@@ -112,13 +130,13 @@ nicht, wo es sich darum handelt, diesen<lb/>
 Eindruck möglichst intensiv und concret<lb/>
 zu gestalten, um in die Bewusstseins-Tiefen<lb/>
 hinabzusteigen.</p>
-<p>Häufig gelangt man hiezu mit Leichtig-<lb break="no"/>
+                     <p>Häufig gelangt man hiezu mit Leichtig-<lb break="no"/>
 keit, indem man, wie Crépieux-Janun dies<lb/>
 zu wiederholtenmalen gethan hat, mit der<lb/>
 Geduld eines Fälschers die zu ergründende<lb/>
 Schrift, zumindest in ihren wesentlichen<lb/>
 Grundzügen, nachahmt.</p>
-<p>Bei jedem Experiment, fährt Crépieux-<lb break="no"/>
+                     <p>Bei jedem Experiment, fährt Crépieux-<lb break="no"/>
 Janun fort, befrage man sich gewissenhaft,<lb/>
 welchen Widerhall die schriftliche Geberde<lb/>
 innerhalb unseres Bewusstseins auf unser<lb/>
@@ -129,8 +147,10 @@ bestimmen, so ist man zu einer befriedi-<lb break="no"/>
 genden Antwort gelangt, es ist uns ge-<lb break="no"/>
 lungen, uns in die Haut des lieben Näch-<lb break="no"/>
 sten zu versetzen.</p>
-<ab><title>VI.</title></ab>
-<p>Dies ist, in des Wortes verwegenster<lb/>
+                     <ab>
+                        <title>VI.</title>
+                     </ab>
+                     <p>Dies ist, in des Wortes verwegenster<lb/>
 Bedeutung, eine graphologische Auto-<lb break="no"/>
 suggestion, welcher der Graphologe nicht<lb/>
 entrathen kann, so oft er sich vor eine<lb/>
@@ -142,7 +162,7 @@ wenn er im Verlauf eines Gutachtens vor<lb/>
 Gericht oder in einer graphologischen<lb/>
 Analyse mit irgendeiner schwierigen<lb/>
 Deutung zu ringen hat.</p>
-<p>Im obigen Paragraphen ist die prak-<lb break="no"/>
+                     <p>Im obigen Paragraphen ist die prak-<lb break="no"/>
 tische Anwendung des betreffenden Ver-<lb break="no"/>
 fahrens enthalten und klar und bündig<lb/>
 ausgesprochen. Aber es will uns ein-<lb break="no"/>
@@ -155,7 +175,10 @@ sondere Begabung, Fähigkeiten, wie man<lb/>
 sie bei guten Kunststechern antrifft: Wissen-<lb break="no"/>
 schaft, Übung, Routine, deren Aneignung<lb/>
 mit vielen Schwierigkeiten verknüpft ist.</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

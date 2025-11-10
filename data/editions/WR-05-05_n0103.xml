@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-05_n0103.xml"
-     prev="WR-05-05_n0102.xml"
-     next="WR-05-05_n0104.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-05_n0103.xml" prev="WR-05-05_n0102.xml" next="WR-05-05_n0104.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,19 +41,38 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 4</title>
+                  <idno>WR-05-04_n0077.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 6</title>
+                  <idno>WR-05-06_n0115.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BRYK: DIE BEIDEN PFADE.</fw></fw><table><row><cell>
-<p rend="no-intend">die sich nicht Abmessen oder abzählen<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BRYK: DIE BEIDEN PFADE.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">die sich nicht Abmessen oder abzählen<lb/>
 lassen. Denn, beim Zeus! was sollten<lb/>
 wir wohl mit diesen beginnen?</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Kosmotheoros</hi>: Wohl gesprochen,<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Kosmotheoros</hi>: Wohl gesprochen,<lb/>
 Lieber! Und eine herrliche Lehre dünkt<lb/>
 mich die, so du eben entwickelt; würdig<lb/>
 des Schweißes der Tüchtigsten und der<lb/>
@@ -69,9 +85,10 @@ im Sinne? Ich bitte dich, verhehl’ es mir<lb/>
 nicht: denn mich quälet am tiefsten die<lb/>
 Frage, weshalb, und nicht die, wonach<lb/>
 ihr suchet.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Philarithmos</hi>: Dieses nun will ich<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Philarithmos</hi>: Dieses nun will ich<lb/>
 dir nach der Wahrheit verkünden. Vieles<lb/>
 in der Welt ist uns willkommen, vieles<lb/>
 verhasst. Dies erklären wir aber, wie ich<lb/>
@@ -82,10 +99,12 @@ wie seine Art sei und sein Bau, und<lb/>
 welcher Art die Bahn seiner kleinsten<lb/>
 Stoff-Theilchen, so können wir diese auch<lb/>
 nach Belieben ändern und derart Leiden<lb/>
-in Freude verwandeln, Tod in Leben <milestone unit="3dots"/></p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Kosmotheoros</hi>: Wie? Den Schritt<lb/>
+in Freude verwandeln, Tod in Leben <milestone unit="3dots"/>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Kosmotheoros</hi>: Wie? Den Schritt<lb/>
 der Ate glaubst du hemmen zu können?<lb/>
 Sind wir doch alle nur da durch sie; du<lb/>
 und ich und die unendlichen Geschlechter<lb/>
@@ -93,9 +112,10 @@ der Menschen — und werden nicht sein,<lb/>
 wenn unsere Zeit gewesen sein wird. Wie<lb/>
 glaubst du nun, die Bahnen der Noth-<lb break="no"/>
 wendigkeit zu durchkreuzen?</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Philarithmos</hi>: Schon sprichst du<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Philarithmos</hi>: Schon sprichst du<lb/>
 wieder von der Ate, von der Noth-<lb break="no"/>
 wendigkeit, von dem Schicksal und der-<lb break="no"/>
 artigem, das ich wenig liebe. Dennoch<lb/>
@@ -107,31 +127,35 @@ hoffen dürfen, so tief einzudringen, um<lb/>
 alles Leid aus der Welt schaffen zu<lb/>
 können. Aber manches können wir<lb/>
 ändern, und dies ist unser Stolz.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Kosmotheoros</hi>: Mit Recht seid ihr<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Kosmotheoros</hi>: Mit Recht seid ihr<lb/>
 hierauf stolz; denn hoch zu stellen ist,<lb/>
 wer das Leid auch nur um ein weniges<lb/>
 zu verkürzen weiß. Aber verkünde mir<lb/>
 noch dieses: Wenn es die Aufgabe und</p>
-</cell><cell>
-<p rend="no-intend">der Zweck der Lehre ist, das Leid der<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">der Zweck der Lehre ist, das Leid der<lb/>
 Welt zu verringern, ist es dann nicht<lb/>
 gleichwertig, durch welcherlei Mittel man<lb/>
 hiezu gelangt? Und dieses: Kommt es<lb/>
 überall nicht so sehr auf die Klarheit an,<lb/>
 als auf das Abzählbare?</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Philarithmos</hi>: Das erste will ich dir<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Philarithmos</hi>: Das erste will ich dir<lb/>
 wohl zugestehen; das zweite aber kann<lb/>
 ich nicht begreifen. Liegt doch die höchste<lb/>
 Klarheit im Abzählbaren. Und ich wüsste<lb/>
 auch nicht, wie etwas klar sein könnte,<lb/>
 das sich nicht ausrechnen lässt.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Kosmotheoros</hi>: Hinsichtlich der Klar-<lb break="no"/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Kosmotheoros</hi>: Hinsichtlich der Klar-<lb break="no"/>
 heit wollen wir noch mehreres bedenken.<lb/>
 Klar wirst du etwas wohl dann ausgedrückt<lb/>
 nennen, wenn man aus der Beschreibung<lb/>
@@ -139,12 +163,14 @@ des Dinges, von dem Einer redet, das<lb/>
 Ding selbst genau erkennt, und nicht<lb/>
 Spielraum gelassen ist für das Mit-Vor-<lb break="no"/>
 stellen anderer ähnlicher Dinge.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Philarithmos</hi>: So ist es.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Kosmotheoros</hi>: Dann muss wohl<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Philarithmos</hi>: So ist es.</p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Kosmotheoros</hi>: Dann muss wohl<lb/>
 auch die Art der Klarheit dem betreffen-<lb break="no"/>
 den Dinge angemessen sein, und wird<lb/>
 Einer wohl ein Bild durch Farben klar<lb/>
@@ -155,13 +181,15 @@ meinen wird Menschliches durch Mensch-<lb break="no"/>
 liches, Irdisches durch Irdisches, Thierisches<lb/>
 durch Thierisches und Göttliches durch<lb/>
 Göttliches klar ausgedrückt werden können.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Philarithmos</hi>: Hier kann ich dir nicht<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Philarithmos</hi>: Hier kann ich dir nicht<lb/>
 mehr gut folgen, aber fahre nur fort.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Kosmotheoros</hi>: Ferner wird man<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Kosmotheoros</hi>: Ferner wird man<lb/>
 alles, was sich auf Maß und Zahl zurück-<lb break="no"/>
 führen lässt, durch Maß und Zahl klar<lb/>
 und genau beschreiben können; wessen<lb/>
@@ -169,21 +197,26 @@ Wesen aber nicht durch Maß und Zahl<lb/>
 erschöpft wird, das muss wohl durch<lb/>
 andere Elemente dem Verstande klarge-<lb break="no"/>
 macht werden.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Philarithmos</hi>: Zugestanden. Doch<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Philarithmos</hi>: Zugestanden. Doch<lb/>
 haben derlei Dinge deshalb wenig Wert,<lb/>
 weil sie nichts mit dem zu thun haben,<lb/>
 das sich ändern lässt, sei es aus diesem<lb/>
 oder einem anderen Grunde.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Kosmotheoros</hi>: Doch hast du schon<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Kosmotheoros</hi>: Doch hast du schon<lb/>
 früher erklärt, Freund, dass ihr Weisen<lb/>
 nur manches — und dieses sei nicht viel<lb/>
 — zu verändern vermöget. Und so glaube<lb/>
 ich mit Recht sagen zu dürfen, dass nur</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

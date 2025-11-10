@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-17_n0328.xml"
-     prev="WR-05-17_n0327.xml"
-     next="WR-05-17_n0329.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-17_n0328.xml" prev="WR-05-17_n0327.xml" next="WR-05-17_n0329.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,141 +41,191 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 16</title>
+                  <idno>WR-05-16_n0313.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 18</title>
+                  <idno>WR-05-18_n0343.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">SWINBURNE: MELEAGERS TOD.</fw></fw><table><row><cell>
-<milestone unit="speech-start"/>
-<p>CHOR.</p>
-<lg><l>Wohin nun von dannen</l>
-<l>Wirst du entführt,</l>
-<l>Jählings von wannen</l>
-<l>So heimlich berührt,</l>
-<l>Dass Jeder dein Leiden am eigenen</l>
-<l>Leibe spürt?</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p>MELEAGER.</p>
-<lg><l>Mein Herz glimmt in Bränden,</l>
-<l>Zu Asche verzehrt,</l>
-<l>Wer mich sah enden</l>
-<l>Ohne Leier und Schwert,</l>
-<l>Dem sei mein trübes Gedächtnis in</l>
-<l>Liedern wert.</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p>CHOR.</p>
-<lg><l>Wie wirst du enthoben</l>
-<l>Dem Tod und der Schmach?</l>
-<l>Wer ist, dich zu loben</l>
-<l>Nicht hilflos und schwach?</l>
-<l>Wer trägt in ferne Lande dein</l>
-<l>Ungemach?</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p>MELEAGER.</p>
-<lg><l>Doch du, die Gesichten</l>
-<l>Vertrauend, beschloss,</l>
-<l>Mich zu vernichten —</l>
-<l>Entspringt deinem Schoß,</l>
-<l>Wenn mit Schatten ich wandle, ein</l>
-<l>andrer Spross?</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p>OENEUS.</p>
-<lg><l>Da dieser mir schwindet,</l>
-<l>Wie wird mir Entgelt!</l>
-<l>Im Helden wo findet</l>
-<l>Sich solch’ Sohn und solch’ Held,</l>
-<l>Der mein Licht war, und mit dem</l>
-<l>zugleich mein Leben zerfällt?</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p>CHOR.</p>
-<lg><l>Du warst froh mit den Frohen</l>
-<l>Und schön über Preis.</l>
-<l>Bei Niedern und Hohen</l>
-<l>Galt dein Wort als Geheiß.</l>
-<l>Zum liebenden Sohne wurdest du</l>
-<l>jedem Greis.</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p>MELEAGER.</p>
-<lg><l>Wenngleich du wie Feuer,</l>
-<l>Aus sich selber genährt,</l>
-<l>Mein Wunsch ist doch scheuer,</l>
-<l>Der deiner begehrt,</l>
-<l>„Wie der sanfte Hauch, den mir deine</l>
-<l>Lippe gewährt.</l></lg>
-<milestone unit="untyped-end"/>
-</cell><cell>
-<milestone unit="speech-start"/>
-<p>ATALANTA.</p>
-<lg><l>O, dass in den Rinnen</l>
-<l>Der Adern mein Blut</l>
-<l>Erstarrte tief innen,</l>
-<l>Wie Winters die Flut,</l>
-<l>Ehe mein Blick auf deiner Umnachtung</l>
-<l>ruht!</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p>CHOR.</p>
-<lg><l>Als du triebst Thraciens Heer</l>
-<l>Aus den Heimatsgauen,</l>
-<l>Nie kehrte es mehr,</l>
-<l>Noch ertrug es, zu schauen</l>
-<l>Dein Antlitz, das schrecklich war vom</l>
-<l>Schlachtengrauen.</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p>OENEUS.</p>
-<lg><l>O stürbst du im Wetter</l>
-<l>Und Tosen der Schlacht,</l>
-<l>Im Ohr das Geschmetter</l>
-<l>Der siegenden Macht,</l>
-<l>Im Blitzen der Schwerter, geblendet</l>
-<l>von Pracht!</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p>CHOR.</p>
-<lg><l>Der Welt ist’s verkündet</l>
-<l>Im Lied und im Wort,</l>
-<l>Dein Ruhm ist begründet</l>
-<l>Und leuchtet fort</l>
-<l>Von des Nordens Gebirgen zum fernsten</l>
-<l>Port.</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p>MELEAGER.</p>
-<lg><l>O trüget Ihr mich,</l>
-<l>Und häuftet Sand</l>
-<l>Bei dem Meeresstrich</l>
-<l>Auf thrakischem Strand,</l>
-<l>Der in den Pontus sich windet als</l>
-<l>Band!</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p>OENEUS.</p>
-<lg><l>O lasse dich halten</l>
-<l>Von heimischer Gruft,</l>
-<l>In den tiefen Falten</l>
-<l>Von Bergschlucht und Kluft,</l>
-<l>Die deinen Namen vielfältig weiter-</l>
-<l>ruft!</l></lg>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p>MELEAGER.</p>
-<lg><l>Den Todten nichts bindet,</l>
-<l>Weit besser zerschäumen,</l>
-<l>Wo keiner ihn findet</l>
-<l>Im Wogenbäumen,</l>
-<l>Dass die Strudel ihn wie ein Gewand</l>
-<l>umsäumen.</l></lg>
-<milestone unit="untyped-end"/>
-</cell></row></table></div>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">SWINBURNE: MELEAGERS TOD.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="speech-start"/>
+                     <p>CHOR.</p>
+                     <lg>
+                        <l>Wohin nun von dannen</l>
+                        <l>Wirst du entführt,</l>
+                        <l>Jählings von wannen</l>
+                        <l>So heimlich berührt,</l>
+                        <l>Dass Jeder dein Leiden am eigenen</l>
+                        <l>Leibe spürt?</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>MELEAGER.</p>
+                     <lg>
+                        <l>Mein Herz glimmt in Bränden,</l>
+                        <l>Zu Asche verzehrt,</l>
+                        <l>Wer mich sah enden</l>
+                        <l>Ohne Leier und Schwert,</l>
+                        <l>Dem sei mein trübes Gedächtnis in</l>
+                        <l>Liedern wert.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>CHOR.</p>
+                     <lg>
+                        <l>Wie wirst du enthoben</l>
+                        <l>Dem Tod und der Schmach?</l>
+                        <l>Wer ist, dich zu loben</l>
+                        <l>Nicht hilflos und schwach?</l>
+                        <l>Wer trägt in ferne Lande dein</l>
+                        <l>Ungemach?</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>MELEAGER.</p>
+                     <lg>
+                        <l>Doch du, die Gesichten</l>
+                        <l>Vertrauend, beschloss,</l>
+                        <l>Mich zu vernichten —</l>
+                        <l>Entspringt deinem Schoß,</l>
+                        <l>Wenn mit Schatten ich wandle, ein</l>
+                        <l>andrer Spross?</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>OENEUS.</p>
+                     <lg>
+                        <l>Da dieser mir schwindet,</l>
+                        <l>Wie wird mir Entgelt!</l>
+                        <l>Im Helden wo findet</l>
+                        <l>Sich solch’ Sohn und solch’ Held,</l>
+                        <l>Der mein Licht war, und mit dem</l>
+                        <l>zugleich mein Leben zerfällt?</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>CHOR.</p>
+                     <lg>
+                        <l>Du warst froh mit den Frohen</l>
+                        <l>Und schön über Preis.</l>
+                        <l>Bei Niedern und Hohen</l>
+                        <l>Galt dein Wort als Geheiß.</l>
+                        <l>Zum liebenden Sohne wurdest du</l>
+                        <l>jedem Greis.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>MELEAGER.</p>
+                     <lg>
+                        <l>Wenngleich du wie Feuer,</l>
+                        <l>Aus sich selber genährt,</l>
+                        <l>Mein Wunsch ist doch scheuer,</l>
+                        <l>Der deiner begehrt,</l>
+                        <l>„Wie der sanfte Hauch, den mir deine</l>
+                        <l>Lippe gewährt.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+                  <cell>
+                     <milestone unit="speech-start"/>
+                     <p>ATALANTA.</p>
+                     <lg>
+                        <l>O, dass in den Rinnen</l>
+                        <l>Der Adern mein Blut</l>
+                        <l>Erstarrte tief innen,</l>
+                        <l>Wie Winters die Flut,</l>
+                        <l>Ehe mein Blick auf deiner Umnachtung</l>
+                        <l>ruht!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>CHOR.</p>
+                     <lg>
+                        <l>Als du triebst Thraciens Heer</l>
+                        <l>Aus den Heimatsgauen,</l>
+                        <l>Nie kehrte es mehr,</l>
+                        <l>Noch ertrug es, zu schauen</l>
+                        <l>Dein Antlitz, das schrecklich war vom</l>
+                        <l>Schlachtengrauen.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>OENEUS.</p>
+                     <lg>
+                        <l>O stürbst du im Wetter</l>
+                        <l>Und Tosen der Schlacht,</l>
+                        <l>Im Ohr das Geschmetter</l>
+                        <l>Der siegenden Macht,</l>
+                        <l>Im Blitzen der Schwerter, geblendet</l>
+                        <l>von Pracht!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>CHOR.</p>
+                     <lg>
+                        <l>Der Welt ist’s verkündet</l>
+                        <l>Im Lied und im Wort,</l>
+                        <l>Dein Ruhm ist begründet</l>
+                        <l>Und leuchtet fort</l>
+                        <l>Von des Nordens Gebirgen zum fernsten</l>
+                        <l>Port.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>MELEAGER.</p>
+                     <lg>
+                        <l>O trüget Ihr mich,</l>
+                        <l>Und häuftet Sand</l>
+                        <l>Bei dem Meeresstrich</l>
+                        <l>Auf thrakischem Strand,</l>
+                        <l>Der in den Pontus sich windet als</l>
+                        <l>Band!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>OENEUS.</p>
+                     <lg>
+                        <l>O lasse dich halten</l>
+                        <l>Von heimischer Gruft,</l>
+                        <l>In den tiefen Falten</l>
+                        <l>Von Bergschlucht und Kluft,</l>
+                        <l>Die deinen Namen vielfältig weiter-</l>
+                        <l>ruft!</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>MELEAGER.</p>
+                     <lg>
+                        <l>Den Todten nichts bindet,</l>
+                        <l>Weit besser zerschäumen,</l>
+                        <l>Wo keiner ihn findet</l>
+                        <l>Im Wogenbäumen,</l>
+                        <l>Dass die Strudel ihn wie ein Gewand</l>
+                        <l>umsäumen.</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

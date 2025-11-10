@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-02_n0054.xml"
-     prev="WR-02-01-02_n0053.xml"
-     next="WR-02-01-02_n0055.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-02_n0054.xml" prev="WR-02-01-02_n0053.xml" next="WR-02-01-02_n0055.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,17 +42,48 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 1</title>
+                  <idno>WR-02-01-01_n0001.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 3</title>
+                  <idno>WR-02-01-03_n0081.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">54</fw><fw type="ctext">PANIZZA.</fw></fw><p rend="no-intend">krümmten Hand. Lautlose, steinern-harte Stille herrschte jetzt in dem<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">54</fw>
+               <fw type="ctext">PANIZZA.</fw>
+            </fw>
+            <p rend="no-intend">krümmten Hand. Lautlose, steinern-harte Stille herrschte jetzt in dem<lb/>
 gelben Saal. Es war wie Pfingstfeier, als sollte der heilige Geist her-<lb break="no"/>
 niederstürzen in gelben, flammenden Zungen. Und so lagen sie dort<lb/>
-die gekrümmten schwarzen Gestalten zwischen den gelben Bänken.</p><p>Nur der Fremdling blieb hartnäckig hocken auf seinem Platz;<lb/>
-denn er war ja ein <hi rend="italics">Commis voyageur</hi>.</p><p>Und nun begann’s. Eine nach der Andern, in schluchzend-hände-<lb break="no"/>
+die gekrümmten schwarzen Gestalten zwischen den gelben Bänken.</p>
+            <p>Nur der Fremdling blieb hartnäckig hocken auf seinem Platz;<lb/>
+denn er war ja ein <hi rend="italics">Commis voyageur</hi>.</p>
+            <p>Und nun begann’s. Eine nach der Andern, in schluchzend-hände-<lb break="no"/>
 ringendem Ton, ausströmende Gefühle in bitter-bussfertigem Ton zu<lb/>
 bekennen. Wie aus geöffneten, stark duftenden, gelben Blumenkelchen<lb/>
 quoll hier die Sünde wie Safran und erfüllte den ganzen Raum. Hun-<lb break="no"/>
@@ -64,26 +92,38 @@ vergessnen Thaten und vergebnen Sünden. Und dieses Schluchzen<lb/>
 und Stöhnen! Und »Jaah!« accompagnirte immer der Chor bei den<lb/>
 ergreifendsten Stellen. »Jaah!« wie Schäfchen meckern, wie Kinder<lb/>
 stammeln, »Jaah!« als hätten sie Alle das Bekannte durchmachen müssen,<lb/>
-die Busse erleiden müssen, als wären sie Alle krank und zermartert.</p><p>Und dann kam wieder eine Andere. Sie schlug einen tieferen,<lb/>
+die Busse erleiden müssen, als wären sie Alle krank und zermartert.</p>
+            <p>Und dann kam wieder eine Andere. Sie schlug einen tieferen,<lb/>
 dunkleren, stammelnderen Ton an wie eine Oboe, die in tausend<lb/>
 Aengsten wimmert, ein gelbes Holz-Blasinstrument, das Sünde blutet,<lb/>
 mit gequälten Flaschonett-Tönen und gestopften Lauten. Und seufzend<lb/>
-echote der Chor und betheiligte sich an der Busse.</p><p>So lagen sie drinnen zwischen den gelben Bänken, die geknickten<lb/>
+echote der Chor und betheiligte sich an der Busse.</p>
+            <p>So lagen sie drinnen zwischen den gelben Bänken, die geknickten<lb/>
 Gestalten, wie geköpfte Mohnblumen zwischen gelben Maisfeldern. Und<lb/>
-des Jammerns war kein Ende.</p><p>Jetzt schaute der <hi rend="italics">Commis voyageur</hi> auf seine Uhr.</p><p>»Unser Glück! Retten Sie sich! Retten Sie Ihre Seele!« rief die<lb/>
-schwarze Gestalt neben ihm.</p><p>Aber der <hi rend="italics">Commis</hi> erhob sich in seiner ganzen <hi rend="italics">Voyageur</hi>-Grösse,<lb/>
+des Jammerns war kein Ende.</p>
+            <p>Jetzt schaute der <hi rend="italics">Commis voyageur</hi> auf seine Uhr.</p>
+            <p>»Unser Glück! Retten Sie sich! Retten Sie Ihre Seele!« rief die<lb/>
+schwarze Gestalt neben ihm.</p>
+            <p>Aber der <hi rend="italics">Commis</hi> erhob sich in seiner ganzen <hi rend="italics">Voyageur</hi>-Grösse,<lb/>
 denn er hatte um 9 Uhr <hi rend="italics">Rendez-vous</hi>, und es war jetzt 10 Minuten<lb/>
-auf Neun.</p><p>»Bleiben Sie!« rief sein schwarzer Mentor mit den flehenden<lb/>
-Augen. »Bleiben Sie bei uns! Bleiben Sie bei unserem Glück!«</p><p>Aber der junge Mann, bei dem der Seelenprocess schon abge-<lb break="no"/>
-laufen war, sagte mit seiner ganzen <hi rend="italics">Commis-voyageur</hi>-Impertinenz: »<hi rend="text-spaced">Ich</hi><lb/>
+auf Neun.</p>
+            <p>»Bleiben Sie!« rief sein schwarzer Mentor mit den flehenden<lb/>
+Augen. »Bleiben Sie bei uns! Bleiben Sie bei unserem Glück!«</p>
+            <p>Aber der junge Mann, bei dem der Seelenprocess schon abge-<lb break="no"/>
+laufen war, sagte mit seiner ganzen <hi rend="italics">Commis-voyageur</hi>-Impertinenz: »<hi rend="text-spaced">Ich</hi>
+               <lb/>
 bedauere sehr — aber ich habe um 9 Uhr <hi rend="italics">Rendez-vous</hi>, und jetzt ist<lb/>
-es 10 Minuten auf Neun.«</p><p>Sie aber bat, und Andere kamen und hingen sich an ihn und<lb/>
+es 10 Minuten auf Neun.«</p>
+            <p>Sie aber bat, und Andere kamen und hingen sich an ihn und<lb/>
 baten mit ihren verweinten Augen und verwelkten Brüsten: »<hi rend="text-spaced">Ach</hi>,<lb/>
 bleiben Sie! Bleiben Sie bei uns!« — »Jaah!« raisonnirte der Chor mit<lb/>
 stammelnden Lauten wie verheissendes Kinderglück, und bitterlich<lb/>
-schluchzten die schwarzen Blumen zwischen den gelben Bänken.</p><p>»Ich bedauere sehr,« rief wiederum der <hi rend="italics">Commis</hi>, »aber bei mir<lb/>
-ist die Sache vorbei.«</p><p>»Ach, ach, ach!« rief nun Alles zusammen, und man versperrte<lb/>
-ihm den Weg. Und hinten fingen die Jüngsten wieder an zu jubiliren,</p></div>
+schluchzten die schwarzen Blumen zwischen den gelben Bänken.</p>
+            <p>»Ich bedauere sehr,« rief wiederum der <hi rend="italics">Commis</hi>, »aber bei mir<lb/>
+ist die Sache vorbei.«</p>
+            <p>»Ach, ach, ach!« rief nun Alles zusammen, und man versperrte<lb/>
+ihm den Weg. Und hinten fingen die Jüngsten wieder an zu jubiliren,</p>
+         </div>
       </body>
    </text>
 </TEI>

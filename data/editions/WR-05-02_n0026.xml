@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-02_n0026.xml"
-     prev="WR-05-02_n0025.xml"
-     next="WR-05-02_n0027.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-02_n0026.xml" prev="WR-05-02_n0025.xml" next="WR-05-02_n0027.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 1</title>
+                  <idno>WR-05-01_n0001.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 3</title>
+                  <idno>WR-05-03_n0049.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">LEVERTIN: MEMLING.</fw></fw><table><row><cell>
-<p rend="no-intend">theil als wohlbestallten Bürger in Brügge,<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">LEVERTIN: MEMLING.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">theil als wohlbestallten Bürger in Brügge,<lb/>
 berühmt nicht nur als einer der vortreff-<lb break="no"/>
 lichsten Maler Flanderns, sondern der<lb/>
 ganzen Christenheit. Aber wie dem auch<lb/>
@@ -59,7 +74,7 @@ sein mag, ist doch auf jeden Fall das<lb/>
 Johannesspital noch heute Memlings eigent-<lb break="no"/>
 liches Heim, der Ort, wo man den reich-<lb break="no"/>
 sten Stimmungseindruck seiner Kunst hat.</p>
-<p>Das Hospital ist bemerkenswert alter-<lb break="no"/>
+                     <p>Das Hospital ist bemerkenswert alter-<lb break="no"/>
 thümlich, es liegt im ältesten Straßenwinkel<lb/>
 Brügges. Um zu dem kleinen Museum zu<lb/>
 kommen, geht man durch den Garten des<lb/>
@@ -79,8 +94,9 @@ greller Opferfarbe, und die Kresse rändert<lb/>
 das Ganze mit bleichgelben und hochrothen<lb/>
 Kelchen, gleich und ungleich wie Men-<lb break="no"/>
 schenschicksale, alle mit ihrer Bitter-<lb break="no"/>
-nis <milestone unit="5dots"/></p>
-<p>In dem kleinen Memling-Museum an<lb/>
+nis <milestone unit="5dots"/>
+                     </p>
+                     <p>In dem kleinen Memling-Museum an<lb/>
 diesem gothischen Garten finden sich nicht<lb/>
 weniger als sechs Werke von des Meisters<lb/>
 Hand, und unter ihnen in erster Linie der<lb/>
@@ -105,8 +121,9 @@ Jungfrauen, von himmlischen Visionen<lb/>
 geleitet. Über Köln und Basel gelangt sie<lb/>
 in die Stadt Petri und mit ihrer Begeiste-<lb break="no"/>
 rung reißt sie selbst Cyriacus, den alten</p>
-</cell><cell>
-<p rend="no-intend">Kirchenvater, so mit, dass er beschließt,<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Kirchenvater, so mit, dass er beschließt,<lb/>
 mit ihr auszuziehen und die gute Saat<lb/>
 auszustreuen. Aber sie kommen nicht<lb/>
 weiter, als bis nach Köln, wo die Hunnen<lb/>
@@ -141,7 +158,7 @@ Engel spielen stille, und Johannes der Täufer<lb/>
 und Johannes der Apostel stehen als<lb/>
 stumme, ernste Zeugen an den Säulen um<lb/>
 den Thronhimmel der Madonna.</p>
-<p>Da gibt es weiter bezaubernde Dar-<lb break="no"/>
+                     <p>Da gibt es weiter bezaubernde Dar-<lb break="no"/>
 stellungen der Geburt, der Anbetung der<lb/>
 drei Weisen, der Kreuzabnahme, ferner Por-<lb break="no"/>
 träts, darunter das herrliche Bild des jungen<lb/>
@@ -151,7 +168,7 @@ Händen dasteht, versunken in den Ernst<lb/>
 seiner Morgenandacht, während die frühe<lb/>
 Morgenluft von Brügges Gassen durch das<lb/>
 geöffnete Fenster hereinspielt.</p>
-<p>Je länger man unter diesen Werken<lb/>
+                     <p>Je länger man unter diesen Werken<lb/>
 weilt, desto tiefer wird das Wesen von<lb/>
 ihrer Harmonie durchdrungen. Sie besitzen<lb/>
 den vollen Zusammenklang, der die Schön-<lb break="no"/>
@@ -160,7 +177,10 @@ drucks ist. Es ist eine Harmonie, zu deren<lb/>
 Ausformung es Generationen bedarf; eine<lb/>
 so seltene, verletzliche Pflanze ist sie. Wie<lb/>
 auf einem Grenzland zwischen zwei</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

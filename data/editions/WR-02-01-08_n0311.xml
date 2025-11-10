@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-08_n0311.xml"
-     prev="WR-02-01-08_n0310.xml"
-     next="WR-02-01-08_n0312.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-08_n0311.xml" prev="WR-02-01-08_n0310.xml" next="WR-02-01-08_n0312.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,41 +42,87 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 7</title>
+                  <idno>WR-02-01-07_n0241.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 9</title>
+                  <idno>WR-02-01-09_n0321.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="verse-start"/><ab><title>EIN SHILLING PRO TAG.<lb/>
+         <div type="page">
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>EIN SHILLING PRO TAG.<lb/>
 (Der Ausgediente.)<lb/>
 Aus den »Barrak-Room-Ballads« von <rs type="person" key="">Rudyard Kipling</rs>.<lb/>
-Aus dem Englischen übersetzt von <rs type="person" key="">Otto Sachs</rs>.</title></ab><lg><l><hi rend="initial">Ich</hi> heisse O’Kell’, und ich hört’ die Reveill’</l>
-<l>Von Birr bis Bareill’, von Leeds bis Lahore,</l>
-<l>In Hongkong und Peshawur,</l>
-<l>Lucknow und Etawah,</l>
-<l>Was weiss ich, in Johore und noch tausenden »pore«.</l>
-<l>Manche Cholerazeit; und ach! tief und oh! breit,</l>
-<l>Die Krankheit, das Leid auf dem Wege uns lag,</l>
-<l>Alt und hin bin ich schon,</l>
-<l>Man jagt’ mich davon —</l>
-<l>Und ein Shilling mein Lohn. — Ei! Ein Shilling pro Tag!</l></lg><lg><l><hi rend="text-spaced">Chor</hi>: Shilling pro Tag!</l>
-<l>Potz Blitz und Schlag!</l>
-<l>Glücklich wer’s hat — einen Shilling pro Tag!</l></lg><lg><l>Oh! Es macht mich halb toll, wenn ich’s sagen Euch soll,</l>
-<l>Wie der Kriegsruf erscholl von den Ghazi’s einmal,</l>
-<l>Wie wir ritten und stritten, und was wir auch litten,</l>
-<l>Ob wir lebten, ob starben, war den Herren egal.</l>
-<l>Doch, was nützt’s alte Leiern? Mein Weib, das geht scheuern,</l>
-<l>Und ich darf nicht feiern — als Dienstmann drum lauf ich.</l>
-<l>Habt Ihr nichts zu besorgen?</l>
-<l>Seit frühestem Morgen.</l>
-<l>In Hunger und Sorgen und Frieren wart’ drauf ich.</l></lg><lg><l><hi rend="text-spaced">Voller Chor</hi>: Gebt ihm den Brief,</l>
-<l>Sonst geht’s mit ihm schief,</l>
-<l>Arm’ alter Wachtmeister, rennt mit dem Brief t</l>
-<l>Denkt doch an ihn,</l>
-<l>Wie stolz er einst schien,</l>
-<l>Denkt, was er jetzt ist, und</l>
-<l>God save the Queen!</l></lg><milestone unit="untyped-end"/><milestone unit="hr"/></div>
+Aus dem Englischen übersetzt von <rs type="person" key="">Otto Sachs</rs>.</title>
+            </ab>
+            <lg>
+               <l>
+                  <hi rend="initial">Ich</hi> heisse O’Kell’, und ich hört’ die Reveill’</l>
+               <l>Von Birr bis Bareill’, von Leeds bis Lahore,</l>
+               <l>In Hongkong und Peshawur,</l>
+               <l>Lucknow und Etawah,</l>
+               <l>Was weiss ich, in Johore und noch tausenden »pore«.</l>
+               <l>Manche Cholerazeit; und ach! tief und oh! breit,</l>
+               <l>Die Krankheit, das Leid auf dem Wege uns lag,</l>
+               <l>Alt und hin bin ich schon,</l>
+               <l>Man jagt’ mich davon —</l>
+               <l>Und ein Shilling mein Lohn. — Ei! Ein Shilling pro Tag!</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi rend="text-spaced">Chor</hi>: Shilling pro Tag!</l>
+               <l>Potz Blitz und Schlag!</l>
+               <l>Glücklich wer’s hat — einen Shilling pro Tag!</l>
+            </lg>
+            <lg>
+               <l>Oh! Es macht mich halb toll, wenn ich’s sagen Euch soll,</l>
+               <l>Wie der Kriegsruf erscholl von den Ghazi’s einmal,</l>
+               <l>Wie wir ritten und stritten, und was wir auch litten,</l>
+               <l>Ob wir lebten, ob starben, war den Herren egal.</l>
+               <l>Doch, was nützt’s alte Leiern? Mein Weib, das geht scheuern,</l>
+               <l>Und ich darf nicht feiern — als Dienstmann drum lauf ich.</l>
+               <l>Habt Ihr nichts zu besorgen?</l>
+               <l>Seit frühestem Morgen.</l>
+               <l>In Hunger und Sorgen und Frieren wart’ drauf ich.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi rend="text-spaced">Voller Chor</hi>: Gebt ihm den Brief,</l>
+               <l>Sonst geht’s mit ihm schief,</l>
+               <l>Arm’ alter Wachtmeister, rennt mit dem Brief t</l>
+               <l>Denkt doch an ihn,</l>
+               <l>Wie stolz er einst schien,</l>
+               <l>Denkt, was er jetzt ist, und</l>
+               <l>God save the Queen!</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
       </body>
    </text>
 </TEI>

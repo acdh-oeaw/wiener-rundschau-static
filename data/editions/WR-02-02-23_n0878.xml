@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-23_n0878.xml"
-     prev="WR-02-02-23_n0877.xml"
-     next="WR-02-02-23_n0879.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-23_n0878.xml" prev="WR-02-02-23_n0877.xml" next="WR-02-02-23_n0879.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,13 +42,42 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 22</title>
+                  <idno>WR-02-02-22_n0825.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 24</title>
+                  <idno>WR-02-02-24_n0905.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">878</fw><fw type="ctext">MAETERLINCK.</fw></fw><p rend="no-intend">sie wahrnimmt und auffasst, sich bei ihr in Gedanken, in Gefühle, in<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">878</fw>
+               <fw type="ctext">MAETERLINCK.</fw>
+            </fw>
+            <p rend="no-intend">sie wahrnimmt und auffasst, sich bei ihr in Gedanken, in Gefühle, in<lb/>
 nachsichtige Liebe, in Anbetung und Bewunderung des Lebens ver-<lb break="no"/>
 wandelt. Was liegt daran, ob ein Ereignis auf unser Dach oder das des<lb/>
 Nachbars fällt? Das Wasser, das eine Wolke spendet, gehört dem, der<lb/>
@@ -83,7 +109,8 @@ meinem Denken, nicht wie ein Vergnügen, nicht mehr, als ich mir<lb/>
 selber immer ein Vergnügen bin; ich liebe ihn nicht, weil er mir schön<lb/>
 erscheint, sondern weil <hi rend="text-spaced">er mehr Ich ist als mein ganzes Ich</hi>; und<lb/>
 aus welchem Stoffe auch unsere Seelen gemacht sein mögen, seine<lb/>
-und meine Seele sind nur eine und dieselbe Seele <milestone unit="4dots"/>«</p><p>Sie geht um die äusseren Thatsachen der Liebe mit einer Un-<lb break="no"/>
+und meine Seele sind nur eine und dieselbe Seele <milestone unit="4dots"/>«</p>
+            <p>Sie geht um die äusseren Thatsachen der Liebe mit einer Un-<lb break="no"/>
 schuld herum, die uns lächeln machen kann; aber woher hat sie diese<lb/>
 inneren Thatsachen, die all das Tiefste, Unlogischeste, Unerwarteteste,<lb/>
 Unwahrscheinlichste und ewig Wahrste berühren, was die Leidenschaft<lb/>
@@ -96,7 +123,9 @@ Bewegungen der Sanftmut, die leiden machen, und der Grausamkeit, die<lb/>
 beglücken möchte, der Glückseligkeit, die den Tod verlangt, und der Trost-<lb break="no"/>
 losigkeit, die sich an das Leben klammert, der Abweisung, die verlangt,<lb/>
 und des trunkenen Verlangens nach Abweisung, der hasserfüllten Liebe<lb/>
-und des Hasses, der unter der Schwere der Liebe wankt <milestone unit="4dots"/></p></div>
+und des Hasses, der unter der Schwere der Liebe wankt <milestone unit="4dots"/>
+            </p>
+         </div>
       </body>
    </text>
 </TEI>

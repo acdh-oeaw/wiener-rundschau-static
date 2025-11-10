@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-08_n0310.xml"
-     prev="WR-02-01-08_n0309.xml"
-     next="WR-02-01-08_n0311.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-08_n0310.xml" prev="WR-02-01-08_n0309.xml" next="WR-02-01-08_n0311.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,17 +42,47 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 7</title>
+                  <idno>WR-02-01-07_n0241.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 9</title>
+                  <idno>WR-02-01-09_n0321.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">310</fw><fw type="ctext">MESSER.</fw></fw><p>Ja, jetzt hatte sie schöne Kleider und ein reichliches Leben. Der<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">310</fw>
+               <fw type="ctext">MESSER.</fw>
+            </fw>
+            <p>Ja, jetzt hatte sie schöne Kleider und ein reichliches Leben. Der<lb/>
 Mann war nach der Hochzeit streng und rücksichtslos mit ihr wie mit<lb/>
 einer Magd. Nur wenn Fremde da waren, zeigte er sich höflich und<lb/>
 liebenswürdig. Anfangs hatte sie auf ein Kind gehofft, dann liesse sich<lb/>
-ja Alles leichter ertragen. Aber es kam nicht.</p><p>Ella hatte sie oft getröstet: »Du liebst ihn nicht. Warum wehrst<lb/>
+ja Alles leichter ertragen. Aber es kam nicht.</p>
+            <p>Ella hatte sie oft getröstet: »Du liebst ihn nicht. Warum wehrst<lb/>
 du dich nicht gegen ihn?« Nein, das konnte sie nicht Das war es<lb/>
 eben, sie war ewig an ihn gebunden. Sie konnte ihm nicht einmal<lb/>
 widersprechen. Sie musste ihm gehorchen. Lächerlich, sich gegen seinen<lb/>
@@ -64,7 +91,8 @@ Jemand befohlen, das arme, ungebildete Mädchen zu nehmen? Er<lb/>
 konnte jede Andere und Bessere bekommen. Und war nicht die Marie,<lb/>
 die in ihren Mann so wahnsinnig verliebt gewesen, noch weit schlechter<lb/>
 daran? Der kam nicht mehr in die Wohnung, liess Frau und Kinder<lb/>
-fast verhungern, warf sein Geld an eine Geliebte weg!</p><p>Nein, sie musste ihm dankbar sein und ihm dienen. Einmal<lb/>
+fast verhungern, warf sein Geld an eine Geliebte weg!</p>
+            <p>Nein, sie musste ihm dankbar sein und ihm dienen. Einmal<lb/>
 würde sie ja doch frei sein, sie war ja um die Hälfte jünger <milestone unit="3dots"/> Gott,<lb/>
 was für ein Gedanke? War es schon so weit mit ihr? Sie bat ihn im<lb/>
 Stillen um Verzeihung. Das verdiente er doch nicht. Manchmal war er<lb/>
@@ -72,21 +100,28 @@ besser gegen sie, nur musste er die Laune haben. Mit dem Wirth-<lb break="no"/>
 schaftsgelde knauserte er nie. Sie konnte sich kaufen, was sie wollte.<lb/>
 Ob er ihr jetzt das Geld für das neue Kleid geben würde? Es musste<lb/>
 aus braunem Seidenstoff sein, und gelbe Spitzen würden wunderbar<lb/>
-dazu passen <milestone unit="3dots"/></p><p>Sie ging leise vom Fenster; ganz leise legte sie sich in ihr Bett.<lb/>
+dazu passen <milestone unit="3dots"/>
+            </p>
+            <p>Sie ging leise vom Fenster; ganz leise legte sie sich in ihr Bett.<lb/>
 Er athmete ruhig und fest. Das Stehen hatte sie ordentlich müde ge-<lb break="no"/>
 macht. Wie kam sie eigentlich auf den Gedanken, zum Fenster zu<lb/>
 gehen? Wenn sie sich nur nicht verkühlte, das Schlafen wäre doch<lb/>
-gescheiter gewesen.</p><p>Uebermorgen musste sie in die Stadt fahren. Die Schneiderin verlangt<lb/>
+gescheiter gewesen.</p>
+            <p>Uebermorgen musste sie in die Stadt fahren. Die Schneiderin verlangt<lb/>
 zwar dreissig Gulden Façon. Aber elegant wird es sein. Schliesslich<lb/>
 ist es nicht gar so theuer. Er wird es schon zahlen. Nein, er ist nicht<lb/>
 so schlecht. Man muss ihm nur nachgeben und sorgfältig jeden Wunsch<lb/>
-erfüllen, den er äusserte. Dazu war sie doch seine Frau.</p><p>Es war gegen Sonnenaufgang, als sie einschlief. Das graue Morgen-<lb break="no"/>
+erfüllen, den er äusserte. Dazu war sie doch seine Frau.</p>
+            <p>Es war gegen Sonnenaufgang, als sie einschlief. Das graue Morgen-<lb break="no"/>
 licht, das durch die Gardinen drang, schien auf zwei Menschen, die,<lb/>
 sich den Rücken zukehrend, dalagen und ruhig schliefen. Die gold-<lb break="no"/>
 blonden Haare der Frau fielen über das Polster auf die Bettkante. Er<lb/>
 weckte sie um acht Uhr und liess sich von ihr ankleiden. Sie sah<lb/>
 gelb aus, und ihr Gesicht hatte viele Falten. Er konnte sie gar nicht<lb/>
-ansehen, als sie gähnend vor ihm kniete und ihm die Schuhe anzog.</p><milestone unit="untyped-end"/><milestone unit="hr"/></div>
+ansehen, als sie gähnend vor ihm kniete und ihm die Schuhe anzog.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
       </body>
    </text>
 </TEI>

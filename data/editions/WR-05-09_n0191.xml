@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-09_n0191.xml"
-     prev="WR-05-09_n0190.xml"
-     next="WR-05-09_n0192.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-09_n0191.xml" prev="WR-05-09_n0190.xml" next="WR-05-09_n0192.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,20 +41,38 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 8</title>
+                  <idno>WR-05-08_n0159.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 10</title>
+                  <idno>WR-05-10_n0205.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">MALLARMÉ: AUF DEM JAHRMARKT.</fw></fw><table><row><cell>
-<p rend="no-intend">sam neugierigen Blickes die Reihe der<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MALLARMÉ: AUF DEM JAHRMARKT.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">sam neugierigen Blickes die Reihe der<lb/>
 Schaubuden, welche die Jahrmärkte in<lb/>
 zwei Lager des gleichen Rummels<lb/>
 theilt und der Menge gestattet, für<lb/>
 eine Weile das ganze Weltall darein<lb/>
 einzuschließen.</p>
-<p>Durch irgendeine Ungeheuerlich-<lb break="no"/>
+                     <p>Durch irgendeine Ungeheuerlich-<lb break="no"/>
 keit zeitweilig heiter unserem lässigen<lb/>
 Schlendern entrissen und abgelenkt<lb/>
 vom Anblick der Dämmerung auf<lb/>
@@ -68,7 +83,7 @@ ein menschlich ergreifendes Bild: des<lb/>
 buntbemalten Rahmens und der grellen<lb/>
 Aufschrift bar, eine augenscheinlich<lb/>
 leere Schaubude.</p>
-<p>Wem auch dieser aufgeschnürte<lb/>
+                     <p>Wem auch dieser aufgeschnürte<lb/>
 Ballen gehören mochte, dessen Inhalt<lb/>
 hier — wie zu allen Zeiten, in allen<lb/>
 Tempeln die Schleier — dazu dienen<lb/>
@@ -105,8 +120,9 @@ das Publicum fesseln sollte, war im<lb/>
 letzten Augenblick ausgeblieben, wie<lb/>
 das ja öfters im menschlichen Leben<lb/>
 zu geschehen pflegt.</p>
-</cell><cell>
-<p>»Schlagt die Pauke!« befahl mit<lb/>
+                  </cell>
+                  <cell>
+                     <p>»Schlagt die Pauke!« befahl mit<lb/>
 fürstlicher Hoheit Madame ... — Du<lb/>
 allein weißt, wer — und wies auf eine<lb/>
 alte Trommel, von der sich ein Greis<lb/>
@@ -132,7 +148,7 @@ hereinspaziert, meine Herrschaften! Es<lb/>
 kostet bloß einen Sou; wer mit der<lb/>
 Aufführung nicht zufrieden ist, bekommt<lb/>
 sein Geld zurück!« übertönte.</p>
-<p>Da der zerlumpte Greis die ver-<lb break="no"/>
+                     <p>Da der zerlumpte Greis die ver-<lb break="no"/>
 witterten, leeren Hände dankend faltete,<lb/>
 so griff ich nach der Fahne, schwang<lb/>
 sie als weithin sichtbares Zeichen und<lb/>
@@ -141,7 +157,7 @@ Menge Trotz zu bieten, im Bewusstsein<lb/>
 dessen, was der Einfall einer Genossin<lb/>
 unserer Abendfreuden aus diesem nüch-<lb break="no"/>
 ternen Raum zu machen gewusst.</p>
-<p>Bis zu den Knien ragte sie, auf<lb/>
+                     <p>Bis zu den Knien ragte sie, auf<lb/>
 einem Tische stehend, über die hunderte<lb/>
 von Köpfen heraus. So hell, wie der<lb/>
 elektrische Strahl, der sie, von ander-<lb break="no"/>
@@ -160,7 +176,10 @@ und dass man der Enttäuschung dieser<lb/>
 Schaulustigen nur mit Hilfe einer an-<lb break="no"/>
 erkannten Macht, wie es eine Metapher<lb/>
 ist, wirksam begegnen könne. Also</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

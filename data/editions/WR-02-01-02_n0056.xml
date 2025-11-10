@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-02_n0056.xml"
-     prev="WR-02-01-02_n0055.xml"
-     next="WR-02-01-02_n0057.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-02_n0056.xml" prev="WR-02-01-02_n0055.xml" next="WR-02-01-02_n0057.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,17 +42,53 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 1</title>
+                  <idno>WR-02-01-01_n0001.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 3</title>
+                  <idno>WR-02-01-03_n0081.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>ZU <hi rend="strong">HEINRICH HEINE’S</hi> HUNDERTJÄHRIGEM<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>ZU <hi rend="strong">HEINRICH HEINE’S</hi> HUNDERTJÄHRIGEM<lb/>
 GEBURTSTAGE.1)<lb/>
 (<date>13. December 1797</date>.)<lb/>
-<hi rend="text-spaced">Von <rs type="person" key="">Richard Schaukal</rs></hi>.</title></ab><milestone unit="verse-start"/><lg><l>Nennt man die besten Namen,</l>
-<l>So wird auch der meine genannt.</l></lg><p>(Lieder der »Heimkehr«.)</p><milestone unit="untyped-end"/><p>Man kehrt so gerne zurück! Das Vorwärtsdringen bringt den<lb/>
+                  <hi rend="text-spaced">Von <rs type="person" key="">Richard Schaukal</rs>
+                  </hi>.</title>
+            </ab>
+            <milestone unit="verse-start"/>
+            <lg>
+               <l>Nennt man die besten Namen,</l>
+               <l>So wird auch der meine genannt.</l>
+            </lg>
+            <p>(Lieder der »Heimkehr«.)</p>
+            <milestone unit="untyped-end"/>
+            <p>Man kehrt so gerne zurück! Das Vorwärtsdringen bringt den<lb/>
 Athemlosen in fremde Umgebungen. Aber glücklich — erschreckt<lb/>
 wendet er sich um, wenn ihn die Vergangenheit rief. Und es ist<lb/>
 Einem so öde, so verlassen zu Muth, wenn hinter den allzu rüstigen<lb/>
@@ -72,21 +105,29 @@ kommen rufen. Aber es blieb uns in der Kehle stecken. Da fassten<lb/>
 wir den Landstreicher unter den Arm und zwangen ihn zur Freude,<lb/>
 die uns fehlte. Und mit rohen Spässen überwanden wir unsere Sehn-<lb break="no"/>
 sucht, die uns unmännlich schien, uns umzusehen. So traten wir ins<lb/>
-Leben, in die Wagnisse.</p><p>So ist ein junger Dichter einst ins Leben getaumelt, verweint,<lb/>
+Leben, in die Wagnisse.</p>
+            <p>So ist ein junger Dichter einst ins Leben getaumelt, verweint,<lb/>
 verbittert und voll Drang, seine Kräfte zu messen. Und trotzig-stolz<lb/>
-lief er ins Land der Reue <milestone unit="3dots"/></p><p>Man kehrt so gerne zurück! Flehende Hände ringen nach dem<lb/>
+lief er ins Land der Reue <milestone unit="3dots"/>
+            </p>
+            <p>Man kehrt so gerne zurück! Flehende Hände ringen nach dem<lb/>
 Verlorenen, dem unwiederbringlich Verwirkten. Das ist die Tragödie<lb/>
-der Jugend: die Tragödie Heinrich Heine’s.</p><p>Der Düsseldorfer Jude, dem eine besorgte Mutter das Höchste<lb/>
+der Jugend: die Tragödie Heinrich Heine’s.</p>
+            <p>Der Düsseldorfer Jude, dem eine besorgte Mutter das Höchste<lb/>
 gönnte, der etwas Besseres werden, herausspringen sollte aus ent-<lb break="no"/>
 würdigenden Schranken, musste an seinem ewigen Jünglingsthume zu-<lb break="no"/>
 grunde gehen <milestone unit="3dots"/> Ich will die Geschichte dieses Unterganges ent-<lb break="no"/>
 werfen als Einer, der sich schuldig fühlt vor einem arg und ungerecht<lb/>
 Verlästerten, als Einer, der einmal wie durch ein Wunder zurückkehrte<lb/>
 zu einem unmässig gescholtenen Liebling, als Einer, der freudig und<lb/>
-dankbar abbittet einem rührenden Menschen.</p><milestone unit="hr"/><note type="footnote">
-<p>1) Bei Fischer &amp; Franke, Berlin, erscheint gleichzeitig von mir ein Heine-<lb break="no"/>
-Breviarium: »Heinrich Heine. Sein Leben in seinen Versen.« <hi rend="italics">R. Sch.</hi></p>
-</note></div>
+dankbar abbittet einem rührenden Menschen.</p>
+            <milestone unit="hr"/>
+            <note type="footnote">
+               <p>1) Bei Fischer &amp; Franke, Berlin, erscheint gleichzeitig von mir ein Heine-<lb break="no"/>
+Breviarium: »Heinrich Heine. Sein Leben in seinen Versen.« <hi rend="italics">R. Sch.</hi>
+               </p>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

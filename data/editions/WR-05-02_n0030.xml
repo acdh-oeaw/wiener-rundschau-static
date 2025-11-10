@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-02_n0030.xml"
-     prev="WR-05-02_n0029.xml"
-     next="WR-05-02_n0031.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-02_n0030.xml" prev="WR-05-02_n0029.xml" next="WR-05-02_n0031.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,33 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 1</title>
+                  <idno>WR-05-01_n0001.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 3</title>
+                  <idno>WR-05-03_n0049.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">SWINBURNE: DIE DICHTUNGEN DES DANTE GABRIEL ROSSETTI.</fw></fw><table><row><cell>
-<p rend="no-intend">ist einer anderen Hand unerreichbar <milestone unit="3dots"/><lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">SWINBURNE: DIE DICHTUNGEN DES DANTE GABRIEL ROSSETTI.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">ist einer anderen Hand unerreichbar <milestone unit="3dots"/>
+                        <lb/>
 Rossettis Dichtung »<hi rend="italics">Jenny</hi>«, die ich be-<lb break="no"/>
 reits mehrmals erwähnte, verdient einen<lb/>
 ganz besonderen Preis. Sie ist voll Kraft,<lb/>
@@ -91,7 +107,7 @@ von alltäglichen und gleichwohl tiefen<lb/>
 Dingen, von Gegenwart und Zukunft, vom<lb/>
 Nichtigen und vom Ewigen, vom wirk-<lb break="no"/>
 lichen und vom geahnten Leben.</p>
-<p>Das ganze thörichte Gerede der<lb/>
+                     <p>Das ganze thörichte Gerede der<lb/>
 Kritikaster über »classische« und »roman-<lb break="no"/>
 tische« Stoffe, »nahegelegene« und »ent-<lb break="no"/>
 ferntere« Themen, Pflicht des Dichters,<lb/>
@@ -105,8 +121,9 @@ ist in dieser Straßen-Episode Rossettis<lb/>
 nicht lauter vernehmbar, als etwa in seinen<lb/>
 heroischen Gedichten »<hi rend="italics">Troy-Town</hi>« und<lb/>
 »<hi rend="italics">Eden Bower</hi>«. Dieses Poem zumal, die</p>
-</cell><cell>
-<p rend="no-intend">Lilith-Sage, ist von höchst lebendiger<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Lilith-Sage, ist von höchst lebendiger<lb/>
 Schönheit. Die alte Legende von dem<lb/>
 ersten Weibe Adams, das Schlangen-<lb break="no"/>
 gestalt annahm, um so die Menschen-<lb break="no"/>
@@ -132,7 +149,7 @@ Kritik hinaus. Ich musste und muss mich<lb/>
 begnügen, den Künstlerrang Rossettis fest-<lb break="no"/>
 zustellen und die Art seines Werkes im<lb/>
 Umriss zu charakterisieren.</p>
-<p>In jeder Epoche pflegt die Frage nach<lb/>
+                     <p>In jeder Epoche pflegt die Frage nach<lb/>
 dem Wert und Unwert, der Kraft und<lb/>
 Schwäche, der »Größe« und »Kleinheit«<lb/>
 ihrer Zeit von müßigen Schwätzern aus-<lb break="no"/>
@@ -160,7 +177,10 @@ bejammerten stets die »kleine Gegenwart«<lb/>
 und sehnten sich nach den »großen« ver-<lb break="no"/>
 gangenen Zeiten. Dem gegenüber muss<lb/>
 mit allem Nachdruck betont werden, dass</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

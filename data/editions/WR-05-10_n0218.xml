@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-10_n0218.xml"
-     prev="WR-05-10_n0217.xml"
-     next="WR-05-10_n0219.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-10_n0218.xml" prev="WR-05-10_n0217.xml" next="WR-05-10_n0219.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 9</title>
+                  <idno>WR-05-09_n0189.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 11</title>
+                  <idno>WR-05-11_n0225.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">JANET: DAS GEFÜHL DER PERSÖNLICHKEIT.</fw></fw><table><row><cell>
-<p>jects ist, und er schlägt als Unterschei-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">JANET: DAS GEFÜHL DER PERSÖNLICHKEIT.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>jects ist, und er schlägt als Unterschei-<lb break="no"/>
 dungs-Charakter den Gegensatz der passiven<lb/>
 Phänomene und der activen Phänomene<lb/>
 vor. Die mit unserer Thätigkeit, mit der<lb/>
@@ -100,8 +115,9 @@ lichkeiten von Phänomenen«, die die Fähig-<lb break="no"/>
 keiten bestimmen; dann zeigt er, wie<lb/>
 diese Begriffe sich präcisieren, so dass<lb/>
 man die Persönlichkeit Peters oder Pauls,</p>
-</cell><cell>
-<p rend="no-intend">die eines Lastträgers und eines Schrift-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">die eines Lastträgers und eines Schrift-<lb break="no"/>
 gelehrten unterscheiden kann.*** Niemand<lb/>
 hat vielleicht mit größerer Brutalität er-<lb break="no"/>
 klärt, das Ich sei eine Zusammensetzung<lb/>
@@ -138,7 +154,7 @@ Synthese seiner Theile bildet. Ich nenne<lb/>
 Reflexionen jene Fähigkeit, durch die der<lb/>
 Geist die gemeinsamen Beziehungen aller<lb/>
 Elemente zu einer Grundeinheit bemerkt <milestone unit="3dots"/> ††</p>
-<p>Herbart beschreibt, wie die Dar-<lb break="no"/>
+                     <p>Herbart beschreibt, wie die Dar-<lb break="no"/>
 stellungen einander bekämpfen, um zum<lb/>
 Lichte zu gelangen und sich zu einer<lb/>
 Persönlichkeit zu combinieren. Hartmann<lb/>
@@ -150,13 +166,17 @@ der Auslegung der Person schwer zu<lb/>
 unterdrücken ist. Indem er die Persön-<lb break="no"/>
 lichkeit von dem Willen in vielleicht zu<lb/>
 beschränkter Weise abhängig sein lässt,</p>
-</cell></row></table><note type="footnote">
-<p>* Spencer, Grundlagen der Psychologie.</p>
-<p>** Taine, Intelligence, II, 211.</p>
-<p>*** Taine, Intelligence, II, 204.</p>
-<p>† W. James, op. cit., I, 292.</p>
-<p>†† Maine de Biran, Oeuvres inédites, II, 225.</p>
-</note></div>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Spencer, Grundlagen der Psychologie.</p>
+               <p>** Taine, Intelligence, II, 211.</p>
+               <p>*** Taine, Intelligence, II, 204.</p>
+               <p>† W. James, op. cit., I, 292.</p>
+               <p>†† Maine de Biran, Oeuvres inédites, II, 225.</p>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

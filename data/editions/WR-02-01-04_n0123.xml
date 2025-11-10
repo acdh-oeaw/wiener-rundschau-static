@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-04_n0123.xml"
-     prev="WR-02-01-04_n0122.xml"
-     next="WR-02-01-04_n0124.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-04_n0123.xml" prev="WR-02-01-04_n0122.xml" next="WR-02-01-04_n0124.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,13 +42,43 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 3</title>
+                  <idno>WR-02-01-03_n0081.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 5</title>
+                  <idno>WR-02-01-05_n0161.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BETRACHTUNGEN ÜBER DIE ZIELE UNSERER ZEIT.</fw><fw type="pn">123</fw></fw><milestone unit="hr"/><p rend="no-intend">haben sich drei Viertel unserer Kameraden damit beschäftigt. Wenn<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BETRACHTUNGEN ÜBER DIE ZIELE UNSERER ZEIT.</fw>
+               <fw type="pn">123</fw>
+            </fw>
+            <milestone unit="hr"/>
+            <p rend="no-intend">haben sich drei Viertel unserer Kameraden damit beschäftigt. Wenn<lb/>
 wir versucht haben, mit ihnen von anderen Dingen zu reden, so haben<lb/>
 wir sie wenig gestört. Sie sind so beschäftigt mit ihren Zänkereien über<lb/>
 die Verskunst, über die Prosa in Versen oder die Verse in Prosa, es<lb/>
@@ -65,7 +92,8 @@ Ammenmärchen setzen soll? Die moralische Gewichtigkeit des Bücher-<lb break="n
 schreibens lockt Sie und ich zerstöre viel in Ihnen, wenn ich jetzt von<lb/>
 »Charakter« rede und Ihnen rathe, vor Allem diese unerträgliche<lb/>
 Atmosphäre zu verlassen. Haben Sie nicht auch, indem Sie bei diesem<lb/>
-Abscheu anlangen, ein gründliches Gefühl der Aufrichtigkeit?</p><p>Ich bitte Sie, mich nicht misszuverstehen. Ich beschuldige keinen<lb/>
+Abscheu anlangen, ein gründliches Gefühl der Aufrichtigkeit?</p>
+            <p>Ich bitte Sie, mich nicht misszuverstehen. Ich beschuldige keinen<lb/>
 bestimmten Schriftsteller, ich behalte nicht die Menschen im Auge,<lb/>
 sondern die Grundsätze, welche sie bewegen. Ich bestreite, über allen<lb/>
 diesen Individuen, das <hi rend="text-spaced">Lebensprincip</hi> dieser Gruppe. Ich be-<lb break="no"/>
@@ -79,7 +107,8 @@ ins Freie, weil der Lärm der Welt uns Kopfweh verursachen könnte.<lb/>
 Und trotzdem leben und handeln alle Anderen in diesem Lärm! Wagen<lb/>
 wir es, dieser ersten Betäubung zu trotzen, je länger wir es versuchen<lb/>
 werden, umsomehr werden wir aufblühen. Das Bett schwächt den<lb/>
-Kranken, wenn er schon einmal ausgeruht ist!</p><p>Unsere Generation hat gerade so viel Talent wie jede andere,<lb/>
+Kranken, wenn er schon einmal ausgeruht ist!</p>
+            <p>Unsere Generation hat gerade so viel Talent wie jede andere,<lb/>
 vielleicht sogar mehr in vielen Punkten. Sie hat undenkbar viel Mittel<lb/>
 gefunden, welche den jungen Leuten Wege zur Entfaltung ihrer Sensi-<lb break="no"/>
 bilitäten eröffneten, so dass sie sich heute in jeder Weise gehen lassen<lb/>
@@ -95,7 +124,8 @@ ich mit diesem Worte, welches Sie so sehr irritirt? Die fortwährende Offen-<lb 
 barung des Menschen in seinen Schriften, seine fortwährende stumme<lb/>
 Gegenwart in seinen Arbeiten, sein Wesen, welches im Spiel der Kunst<lb/>
 als Einsatz gilt. Sie sagen, dass die Betreffenden sich ohnehin in ihrer<lb/>
-Kunst offenbart hatten? Nein, nicht genug, sonst könnten sie nicht</p></div>
+Kunst offenbart hatten? Nein, nicht genug, sonst könnten sie nicht</p>
+         </div>
       </body>
    </text>
 </TEI>

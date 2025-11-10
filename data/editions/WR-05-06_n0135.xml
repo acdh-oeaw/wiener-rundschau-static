@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-06_n0135.xml"
-     prev="WR-05-06_n0134.xml"
-     next="WR-05-06_n0136.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-06_n0135.xml" prev="WR-05-06_n0134.xml" next="WR-05-06_n0136.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 5</title>
+                  <idno>WR-05-05_n0097.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 7</title>
+                  <idno>WR-05-07_n0141.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">HARTMANN: DIE GEHEIME BEDEUTUNG DES KREUZES.</fw></fw><table><row><cell>
-<p rend="no-intend">Hammer, mit welchem die Nägel im<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">HARTMANN: DIE GEHEIME BEDEUTUNG DES KREUZES.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Hammer, mit welchem die Nägel im<lb/>
 Fleische befestigt werden, ist der Eigen-<lb break="no"/>
 wille des Menschen selbst; die Dornen-<lb break="no"/>
 krone bedeutet die Leiden, welche er sich<lb/>
@@ -60,7 +75,7 @@ u. s. w. Bei einer nur geschichtlichen Dar-<lb break="no"/>
 stellung eines solchen Ereignisses würden<lb/>
 diese Beigaben schwerlich in Betracht<lb/>
 gekommen sein.</p>
-<p>Aber die Darstellung der Kreuzigung<lb/>
+                     <p>Aber die Darstellung der Kreuzigung<lb/>
 hat noch einen anderen, weniger bekannten,<lb/>
 geschichtlichen Grund, dessen Kenntnis<lb/>
 vieles klarmachen wird, was in diesem<lb/>
@@ -86,13 +101,14 @@ häufig die Rede ist, eine Ceremonie, die<lb/>
 noch heutzutage unter den Freimaurern<lb/>
 eine allerdings sehr verzerrte Nachahmung<lb/>
 findet.</p>
-<p>Aus dem Wenigen, was uns durch<lb/>
+                     <p>Aus dem Wenigen, was uns durch<lb/>
 Überlieferungen von der Lebensgeschichte<lb/>
 von Jesus von Nazareth bekannt geworden<lb/>
 ist, geht hervor, dass er ein Mitglied des<lb/>
 religiösen Ordens der Essäer war und in</p>
-</cell><cell>
-<p rend="no-intend">Egypten in die Mysterien eingeweiht<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Egypten in die Mysterien eingeweiht<lb/>
 wurde. Daher wird von ihm mit Recht<lb/>
 behauptet, dass er zur Hölle (der unteren<lb/>
 Astralregion) hinabgestiegen und am dritten<lb/>
@@ -103,7 +119,7 @@ der christlichen Kirche behauptet wird,<lb/>
 beruht theils auf Missverständnissen, theils<lb/>
 auf falschen Übersetzungen der ursprüng-<lb break="no"/>
 lichen Documente.*</p>
-<p>Dass es religiöse Geheimnisse gibt,<lb/>
+                     <p>Dass es religiöse Geheimnisse gibt,<lb/>
 wird jedermann zugeben, und dass für<lb/>
 deren Verständnis noch nicht jeder reif<lb/>
 genug ist, unterliegt auch keinem Zweifel.<lb/>
@@ -131,9 +147,15 @@ mehr behagt, mag vielleicht das Gesagte<lb/>
 ein Fingerzeig sein, dass die Symbole<lb/>
 der Religion sich auf ganz andere Dinge<lb/>
 beziehen, als man gewöhnlich denkt.</p>
-</cell></row></table><note type="footnote">
-<p>* Vgl. Leadbeater: »<hi rend="text-spaced">The Christian creed</hi>«. — London, Theos. Publ. Co.</p>
-</note><milestone unit="untyped-end"/><milestone unit="undefined"/></div>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Vgl. Leadbeater: »<hi rend="text-spaced">The Christian creed</hi>«. — London, Theos. Publ. Co.</p>
+            </note>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
       </body>
    </text>
 </TEI>

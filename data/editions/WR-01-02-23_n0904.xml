@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-01-02-23_n0904.xml"
-     prev="WR-01-02-23_n0903.xml"
-     next="WR-01-02-24_n0905.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-23_n0904.xml" prev="WR-01-02-23_n0903.xml" next="WR-01-02-24_n0905.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,14 +42,41 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 2</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 1, Halbbd. 2, Nr. 22</title>
+                  <idno>WR-01-02-22_n0829.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 1, Halbbd. 2, Nr. 24</title>
+                  <idno>WR-01-02-24_n0905.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">904</fw><fw type="ctext">NOTIZEN.</fw></fw><table><row><cell>
-<p rend="no-intend">Kampf der Religionen« sind die<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">904</fw>
+               <fw type="ctext">NOTIZEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Kampf der Religionen« sind die<lb/>
 Antagonistenrollen an Judas und<lb/>
 Jesus vertheilt. Hier die herrliche,<lb/>
 reine Erscheinung des Erlöser-<lb break="no"/>
@@ -63,9 +87,10 @@ gehen ein Stück des Weges zu-<lb break="no"/>
 sammen — und Jesus wird ver-<lb break="no"/>
 rathen, von ihm, dem Jünger, um<lb/>
 elendes Geld! Silberlinge für das<lb/>
-Leben des edelsten der Männer <milestone unit="3dots"/><lb/>
+Leben des edelsten der Männer <milestone unit="3dots"/>
+                        <lb/>
 Judas ist gerichtet für immer.</p>
-<p>Nein, nicht für immer! Jetzt, wo<lb/>
+                     <p>Nein, nicht für immer! Jetzt, wo<lb/>
 man der Seele dunkle Tiefen zu<lb/>
 erforschen beginnt, ist man auf<lb/>
 unentdecktes Gebiet gestossen, das<lb/>
@@ -91,8 +116,9 @@ der finstere Judas ein durch die<lb/>
 Geschichte schuldlos Verurtheilter,<lb/>
 dessen er sich mit wildem Eifer<lb/>
 annimmt. Hedberg schildert einen</p>
-</cell><cell>
-<p rend="no-intend">andern Judas, als jener elende<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">andern Judas, als jener elende<lb/>
 Verräther ist, eine Gestalt, die<lb/>
 von der edelsten Liebe für Jesus<lb/>
 beseelt wird, einen Menschen, der<lb/>
@@ -120,7 +146,7 @@ Suggestion dem gefürchteten, doch<lb/>
 unentrinnbaren Ziele entgegen rast,<lb/>
 den Tod des geliebtesten Meisters<lb/>
 und Freundes zu verschulden.</p>
-<p>Es liegt viel grosse Kunst in<lb/>
+                     <p>Es liegt viel grosse Kunst in<lb/>
 diesem kleinen Werke: wohl werden<lb/>
 gar manche, die »Judas« lesen,<lb/>
 finden, dass es ein zu schweres Buch<lb/>
@@ -130,9 +156,24 @@ problemen den Dutzendromanen<lb/>
 vorziehen, werden dafür freudig<lb/>
 gestehen, dass es etwas Grosses,<lb/>
 etwas Gewaltiges bedeute.</p>
-<p><rs type="person" key=""><hi rend="italics">A. N.</hi></rs></p>
-<milestone unit="untyped-end"/>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="hr"/><milestone unit="hr"/><milestone unit="imprint-start"/><p>Herausgeber und verantwortlicher Redacteur: <hi rend="text-spaced">Rudolf Strauss</hi>.</p><p>Ch. Reisser &amp; M. Werthner, Wien.</p><milestone unit="untyped-end"/><milestone unit="untyped-end"/></div>
+                     <p>
+                        <rs type="person" key="">
+                           <hi rend="italics">A. N.</hi>
+                        </rs>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="hr"/>
+            <milestone unit="imprint-start"/>
+            <p>Herausgeber und verantwortlicher Redacteur: <hi rend="text-spaced">Rudolf Strauss</hi>.</p>
+            <p>Ch. Reisser &amp; M. Werthner, Wien.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
       </body>
    </text>
 </TEI>

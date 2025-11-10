@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-03_n0068.xml"
-     prev="WR-05-03_n0067.xml"
-     next="WR-05-03_n0069.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-03_n0068.xml" prev="WR-05-03_n0067.xml" next="WR-05-03_n0069.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 2</title>
+                  <idno>WR-05-02_n0023.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 4</title>
+                  <idno>WR-05-04_n0077.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">KUHLENBECK: DIE INDIVIDUALITÄT IST IHR EIGENES GESCHÖPF.</fw></fw><table><row><cell>
-<p rend="no-intend">so unterworfenen Acten, wie es der<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KUHLENBECK: DIE INDIVIDUALITÄT IST IHR EIGENES GESCHÖPF.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">so unterworfenen Acten, wie es der<lb/>
 Begattungsact, <hi rend="text-spaced">rein physiologisch</hi> be-<lb break="no"/>
 trachtet, ist. Nur als <hi rend="text-spaced">Gelegenheitsu</hi>rsache,<lb/>
 als eine dem transcendentalen Individuum<lb/>
@@ -68,7 +83,8 @@ den gewaltigen, generellen Lustfactor, mit<lb/>
 dem sie schon den rein physiologischen<lb/>
 Act, übrigens mehr noch in der ihn vor-<lb break="no"/>
 bereitenden Illusion, als in der Durchführung,<lb/>
-ausstattet. Das <hi rend="text-spaced">individualisierende</hi><lb/>
+ausstattet. Das <hi rend="text-spaced">individualisierende</hi>
+                        <lb/>
 Moment aber, das mit der eigentlichen<lb/>
 Geschlecht<hi rend="text-spaced">sliebe</hi> zu diesem allgemeinen<lb/>
 Begattungstriebe hinzutritt, ist schlechter-<lb break="no"/>
@@ -88,11 +104,12 @@ Natur eben ein nur durch diese<lb/>
 Mischung mögliches Individuum schaffen<lb/>
 will und deshalb den Willen der beiden<lb/>
 Liebenden sich unterwirft.</p>
-<p>Er hat damit aber auf seinen blinden<lb/>
+                     <p>Er hat damit aber auf seinen blinden<lb/>
 Gesammtwillen als metaphysischen Träger<lb/>
 der Individualität verzichtet, vielleicht<lb/>
 ohne es selber zu merken; denn wenn der<lb/>
-Wille blind ist, wie soll er da sich <hi rend="text-spaced">Zwecke</hi><lb/>
+Wille blind ist, wie soll er da sich <hi rend="text-spaced">Zwecke</hi>
+                        <lb/>
 setzen können wie die der Erzeugung<lb/>
 einer bestimmten Individualität? Erst du<lb/>
 Prel hat in seiner »Philosophie der Mystik«<lb/>
@@ -102,8 +119,9 @@ gestellt, und dieser ist der des metaphysischen<lb/>
 Individualismus. Hier ist noch nicht der<lb/>
 Ort, das äußerst anziehende Thema der<lb/>
 Mystik der Geschlechtsliebe eingehender</p>
-</cell><cell>
-<p rend="no-intend">zu erörtern. (Ein später unter der Auf-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">zu erörtern. (Ein später unter der Auf-<lb break="no"/>
 schrift »Kypris« erscheinender Aufsatz wird<lb/>
 sich dieser Aufgabe unterziehen.) Einst-<lb break="no"/>
 weilen mag es genügen, mit du Prel zu<lb/>
@@ -111,13 +129,13 @@ constatieren, dass die biologische Be-<lb break="no"/>
 trachtungsweise, welche die Individualität<lb/>
 nach den physiologischen Gesetzen der<lb/>
 Erblichkeit bestimmt werden lässt, die<lb/>
-<hi rend="text-spaced">transcendentale</hi> Betrachtungsweise nicht<lb/>
+                        <hi rend="text-spaced">transcendentale</hi> Betrachtungsweise nicht<lb/>
 ausschließt, nach welcher das Subject<lb/>
 diese Gesetze der Erblichkeit schon in<lb/>
 Rechnung ziehen kann, ja gerade auf<lb/>
 Grund derselben sich durch bestimmte<lb/>
 Eltern reincarnieren will.</p>
-<p>Dass die rein physiologische Be-<lb break="no"/>
+                     <p>Dass die rein physiologische Be-<lb break="no"/>
 trachtungsweise, welche in dem neuen<lb/>
 Individuum nur ein Additionsproduct der<lb/>
 elterlichen Eigenschaften sieht, abgesehen<lb/>
@@ -147,17 +165,21 @@ struieren möchte, kann nirgends restlos<lb/>
 geführt werden; ein Posten fehlt, ein<lb/>
 ungreifbarer, undefinierbarer.« (Weltreich:<lb/>
 Friedrich Schiller I., S. 9.)</p>
-<p>Dieses nicht aus den phänomenalen<lb/>
+                     <p>Dieses nicht aus den phänomenalen<lb/>
 Voraussetzungen Erklärbare, das dem<lb/>
 genaueren Beobachter sich auch beim<lb/>
 gewöhnlichen Menschen aufdrängt, ist<lb/>
 »demnach der individuelle Wille eines<lb/>
 transcendentalen Subjects, welcher die<lb/>
 irdische Erscheinungsform nicht nur aus</p>
-</cell></row></table><note type="footnote">
-<p>* Vgl. dessen »<hi rend="text-spaced">Metaphysik der Geschlechtsliebe</hi>« (»Welt als Wille und Vor-<lb break="no"/>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Vgl. dessen »<hi rend="text-spaced">Metaphysik der Geschlechtsliebe</hi>« (»Welt als Wille und Vor-<lb break="no"/>
 stellung«) IV e, 44.</p>
-</note></div>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-22_n0838.xml"
-     prev="WR-02-02-22_n0837.xml"
-     next="WR-02-02-22_n0839.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-22_n0838.xml" prev="WR-02-02-22_n0837.xml" next="WR-02-02-22_n0839.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,24 +42,51 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 21</title>
+                  <idno>WR-02-02-21_n0785.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 23</title>
+                  <idno>WR-02-02-23_n0865.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><p rend="no-intend">wir uns über diesem trüben Leben des Scheines ein anderes, besseres,<lb/>
+         <div type="page">
+            <p rend="no-intend">wir uns über diesem trüben Leben des Scheines ein anderes, besseres,<lb/>
 froheres Leben schaffen: das ist die Aufgabe der Kunst. Aber woher<lb/>
 soll der Künstler die Elemente für dies neuzuschaffende, höhere Leben<lb/>
 nehmen? Er muss sie doch wieder jenem untergeordneteren Leben<lb/>
 entnehmen, das wir die Wirklichkeit nennen. Denn den Künstlern<lb/>
 wird ein Werk doch nur dann lebendig vor der Seele stehen, wenn<lb/>
-es sich unter den gewohnten Daseinsformen darstellt.</p><p>Darum ist es die Mission der Kunst, sagt Wyzewa — und<lb/>
+es sich unter den gewohnten Daseinsformen darstellt.</p>
+            <p>Darum ist es die Mission der Kunst, sagt Wyzewa — und<lb/>
 wiederholt damit nur, was Wagner und Mallarmé ihren Jüngern so<lb/>
 oft gepredigt — in vollem Bewusstsein und mittelst äusserer Zeichen<lb/>
 das gesammte Leben des Weltalls nachzuschaffen, d. h. die Seele, in<lb/>
 der das mannigfache Schauspiel des Lebens, das wir Universum<lb/>
-nennen, sich entrollt.</p><p>Nun besteht aber unsere Seele aus zahlreichen Elementen, denen<lb/>
+nennen, sich entrollt.</p>
+            <p>Nun besteht aber unsere Seele aus zahlreichen Elementen, denen<lb/>
 drei verschiedene Formen inneren Lebens entspringen: der Eindruck,<lb/>
 die Erkenntnis und die Empfindung, auf welchen drei Lebensformen<lb/>
 die verschiedenen Künste beruhen. Die sinnlichen Eindrücke dienen<lb/>
@@ -76,7 +100,8 @@ des Herzens wiedergibt. Jene alles umfassende ideale Kunst wird die<lb/>
 höchste Errungenschaft der neuen Zeit sein und wird den menschlichen<lb/>
 Geist bis zu jenem Zustand hellseherischen Träumens erheben, von<lb/>
 dem Richard Wagner in seinem so bedeutenden Brief an Dillot im<lb/>
-Jahre <date>1861</date> schrieb.</p><p>Nun denn, jene neue, herrliche Kunst, die Richard Wagner nur<lb/>
+Jahre <date>1861</date> schrieb.</p>
+            <p>Nun denn, jene neue, herrliche Kunst, die Richard Wagner nur<lb/>
 durch eine innige Vermählung der verschiedenen Kunstformen erreichbar<lb/>
 schien und die er durch das Musik-Drama zu verwirklichen strebte,<lb/>
 ist das Ziel, worauf alle Neuerungen der französischen Dichter unseres<lb/>
@@ -94,7 +119,8 @@ Dichter zu Anfang des Jahrhunderts, dann Flaubert und einige andere<lb/>
 Prosatoren ihre emotionelle und sinnliche Kraft wiederzugeben, die<lb/>
 sie beim Entstehen der Sprache zweifellos besessen. So hörten die<lb/>
 Worte auf, todte, abstracte Zeichen zu sein und wurden wieder<lb/>
-lebendig nach dem schönen Satze des Victor Hugo: »Car le mot,</p></div>
+lebendig nach dem schönen Satze des Victor Hugo: »Car le mot,</p>
+         </div>
       </body>
    </text>
 </TEI>

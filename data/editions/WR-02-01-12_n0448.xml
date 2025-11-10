@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-12_n0448.xml"
-     prev="WR-02-01-12_n0447.xml"
-     next="WR-02-01-12_n0449.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-12_n0448.xml" prev="WR-02-01-12_n0447.xml" next="WR-02-01-12_n0449.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,42 +42,82 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 11</title>
+                  <idno>WR-02-01-11_n0401.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 13</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">448</fw><fw type="ctext">KIPLING.</fw></fw><lg><l>Doch das Alles ist vorüber, weit entfernt und lange her,</l>
-<l>Von der »Bank« nach Indien leider geht kein Omnibusverkehr;</l>
-<l>Und ich weiss warum die Alten immer jammern, immer schrei’n:</l>
-<l>Hat der Osten dich gerufen, kannst du nicht mehr glücklich sein.</l>
-<l>Nein, ich kann nicht glücklich sein,</l>
-<l>Fällt die würzige Luft mir ein</l>
-<l>Und die Palmen und die Glöckchen und der starke Sonnenschein.</l>
-<l>Dort am Weg nach Maudalay u. s. w.</l></lg><lg><l>Ach, wie brennt mir durch die Sohlen hier der rauhe Pflaster-</l>
-<l>stein!</l>
-<l>Ach, wie haucht mir Englands Nebel kaltes Fieber ins Gebein!</l>
-<l>Mit fünfzig Dirnen mindestens am Strand in Chelsea ging</l>
-<l>ich schon,</l>
-<l>Die schwatzten auch von Liebe: doch was verstehen die davon?</l>
-<l>Rindfleischwangen, roth wie Mohn, —</l>
-<l>Ja, was wissen die davon?</l>
-<l>Fern in reinem, grünern Landen fand ich süssern Liebeslohn,</l>
-<l>Dort am Weg nach Maudalay u. s. w.</l></lg><lg><l>Schickt mich ostwärts, über Suez, wo wir alle gleich an Werth,</l>
-<l>Wo nicht zehn Commandos schelten, wo die Sehnsucht auch</l>
-<l>nicht zehrt.</l>
-<l>Horch! Die Tempelglocken rufen — und ich möcht’ gern</l>
-<l>dorten sein,</l>
-<l>Wo der alte Moulmein-Tempel blinzelt trag ins Meer hinein;</l>
-<l>Dort am Weg nach Maudalay,</l>
-<l>Liegt die Flotte Reih’ an Reih’.</l>
-<l>He! Hoiho! Auf Deck die Kranken!</l>
-<l>Denn wir sind in Maudalay.</l>
-<l>O, am Weg nach Maudalay</l>
-<l>Spielt der Flugfisch, jagt der Hai,</l>
-<l>Und der Tag, von China dämmernd, streut ein Blitzen durch</l>
-<l>die Bai.</l></lg><milestone unit="untyped-end"/><milestone unit="hr"/></div>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">448</fw>
+               <fw type="ctext">KIPLING.</fw>
+            </fw>
+            <lg>
+               <l>Doch das Alles ist vorüber, weit entfernt und lange her,</l>
+               <l>Von der »Bank« nach Indien leider geht kein Omnibusverkehr;</l>
+               <l>Und ich weiss warum die Alten immer jammern, immer schrei’n:</l>
+               <l>Hat der Osten dich gerufen, kannst du nicht mehr glücklich sein.</l>
+               <l>Nein, ich kann nicht glücklich sein,</l>
+               <l>Fällt die würzige Luft mir ein</l>
+               <l>Und die Palmen und die Glöckchen und der starke Sonnenschein.</l>
+               <l>Dort am Weg nach Maudalay u. s. w.</l>
+            </lg>
+            <lg>
+               <l>Ach, wie brennt mir durch die Sohlen hier der rauhe Pflaster-</l>
+               <l>stein!</l>
+               <l>Ach, wie haucht mir Englands Nebel kaltes Fieber ins Gebein!</l>
+               <l>Mit fünfzig Dirnen mindestens am Strand in Chelsea ging</l>
+               <l>ich schon,</l>
+               <l>Die schwatzten auch von Liebe: doch was verstehen die davon?</l>
+               <l>Rindfleischwangen, roth wie Mohn, —</l>
+               <l>Ja, was wissen die davon?</l>
+               <l>Fern in reinem, grünern Landen fand ich süssern Liebeslohn,</l>
+               <l>Dort am Weg nach Maudalay u. s. w.</l>
+            </lg>
+            <lg>
+               <l>Schickt mich ostwärts, über Suez, wo wir alle gleich an Werth,</l>
+               <l>Wo nicht zehn Commandos schelten, wo die Sehnsucht auch</l>
+               <l>nicht zehrt.</l>
+               <l>Horch! Die Tempelglocken rufen — und ich möcht’ gern</l>
+               <l>dorten sein,</l>
+               <l>Wo der alte Moulmein-Tempel blinzelt trag ins Meer hinein;</l>
+               <l>Dort am Weg nach Maudalay,</l>
+               <l>Liegt die Flotte Reih’ an Reih’.</l>
+               <l>He! Hoiho! Auf Deck die Kranken!</l>
+               <l>Denn wir sind in Maudalay.</l>
+               <l>O, am Weg nach Maudalay</l>
+               <l>Spielt der Flugfisch, jagt der Hai,</l>
+               <l>Und der Tag, von China dämmernd, streut ein Blitzen durch</l>
+               <l>die Bai.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
       </body>
    </text>
 </TEI>

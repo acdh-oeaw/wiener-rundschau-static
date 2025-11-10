@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-23_n0887.xml"
-     prev="WR-02-02-23_n0886.xml"
-     next="WR-02-02-23_n0888.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-23_n0887.xml" prev="WR-02-02-23_n0886.xml" next="WR-02-02-23_n0888.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,17 +42,47 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 22</title>
+                  <idno>WR-02-02-22_n0825.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 24</title>
+                  <idno>WR-02-02-24_n0905.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">FRIEDRICH NIETZSCHE ALS MENSCH.</fw><fw type="pn">887</fw></fw><p rend="no-intend">Aufmerksamkeit ganz oder grösstentheils vermieden werden können;<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">FRIEDRICH NIETZSCHE ALS MENSCH.</fw>
+               <fw type="pn">887</fw>
+            </fw>
+            <p rend="no-intend">Aufmerksamkeit ganz oder grösstentheils vermieden werden können;<lb/>
 die tieferen nicht. Nietzsche wusste sich nicht zu nähren; sprang von<lb/>
 einem Extrem ins andere und war doch nie beim Essen, sondern bei<lb/>
 der Idee, die ihn gerade beschäftigte. Das hieng natürlich von seinem<lb/>
-Gehirn ab und sein Gehirn war krank, selbst als es noch gesund schien.</p><p>Ich weiss sehr wohl, was Frau Elisabeth Förster-Nietzsche und<lb/>
+Gehirn ab und sein Gehirn war krank, selbst als es noch gesund schien.</p>
+            <p>Ich weiss sehr wohl, was Frau Elisabeth Förster-Nietzsche und<lb/>
 alle diejenigen sagen, welche an die plötzliche Lähmung einer Gehirn-<lb break="no"/>
 schicht glauben; ich weiss aber auch, was mir Irrenärzte <date>1889</date> darüber<lb/>
 schrieben und Dr. Breiting in Genua viele Jahre vor der Erkrankung<lb/>
@@ -64,7 +91,8 @@ was mir der unglückliche Meister <date>1885</date> offen und mehrmals versteckt
 angedeutet hatte: nämlich, dass er auf ein Los, wie es ihm dann<lb/>
 schrecklich zugefallen ist, vorbereitet wäre, ihm aber zuvorzukommen<lb/>
 hoffte. Letzteres hat er nicht vermocht, doch die blosse Hoffnung darauf<lb/>
-liess ihn doppelt verwegen mit dem Leben spielen.</p><p>Denn ein Spiel war es für ihn selber, an dem er mit dem trun-<lb break="no"/>
+liess ihn doppelt verwegen mit dem Leben spielen.</p>
+            <p>Denn ein Spiel war es für ihn selber, an dem er mit dem trun-<lb break="no"/>
 kenen Auge des Heros Gefallen fand, der da glaubte, die letzte List<lb/>
 im Hintergrunde zu haben, um seinem stärkeren Widersacher zu ent-<lb break="no"/>
 gehen, nachdem er sein letztes Geheimnis errathen und offenbart hatte.<lb/>
@@ -74,7 +102,9 @@ heranreifte, so trat ihre Bedeutung um so mehr zurück, als der Ver-<lb break="n
 künder des Uebermenschen in jenem Stadium angelangt war, wo er,<lb/>
 eins mit Zarathustra selber, der Lehrer der ewigen Wiederkunft<lb/>
 wurde. Da verhinderte der Wahn die letzte Vorsicht, der Katastrophe<lb/>
-auszubeugen oder ihr zuvorzukommen.</p><milestone unit="asterismUp"/><p>In Nietzsche war der Dualismus der menschlichen Natur ver-<lb break="no"/>
+auszubeugen oder ihr zuvorzukommen.</p>
+            <milestone unit="asterismUp"/>
+            <p>In Nietzsche war der Dualismus der menschlichen Natur ver-<lb break="no"/>
 schärft worden, als er der Kunst entsagte und unter die Philosophen<lb/>
 gieng. Er hat es nie verschmerzen lernen, das Reich des Trostes<lb/>
 verloren zu haben, in welchem ihn Religion und Kunst wie ein<lb/>
@@ -86,12 +116,14 @@ seines Herzens, das vergeblich ausgedörrt werden sollte. Und weil dies<lb/>
 nicht gieng und immer etwas weiterlebte, kam der Ausbruch des<lb/>
 Hasses in dem giftigen Pamphlet wider den alten Zauberer des »<hi rend="text-spaced">Par-<lb break="no"/>
 sifal</hi>« und die grässlichste Anklage, die je wider einen Gott erhoben<lb/>
-wurde, im »<hi rend="text-spaced">Antichrist</hi>«.</p><p>Hier verräth sich die wunde Stelle des inneren Lebens Nietzsches<lb/>
+wurde, im »<hi rend="text-spaced">Antichrist</hi>«.</p>
+            <p>Hier verräth sich die wunde Stelle des inneren Lebens Nietzsches<lb/>
 und der unversöhnliche Zwiespalt zwischen dem Denker und dem<lb/>
 Menschen. Dieser kann ohne religiöses Gefühl und Musik nicht leben,<lb/>
 jener versucht für sein Leben immer umsonst sie durch die Erkenntnis<lb/>
 ihres Ranges zu berauben. Der Mensch siegt über den Denker, um<lb/>
-dem Fatum zu erliegen.</p></div>
+dem Fatum zu erliegen.</p>
+         </div>
       </body>
    </text>
 </TEI>

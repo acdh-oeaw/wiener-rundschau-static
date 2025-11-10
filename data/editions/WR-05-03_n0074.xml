@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-03_n0074.xml"
-     prev="WR-05-03_n0073.xml"
-     next="WR-05-03_n0075.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-03_n0074.xml" prev="WR-05-03_n0073.xml" next="WR-05-03_n0075.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 2</title>
+                  <idno>WR-05-02_n0023.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 4</title>
+                  <idno>WR-05-04_n0077.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">LINDNER: LAVATER.</fw></fw><table><row><cell>
-<p rend="no-intend">dem Anschein, den Geist der Schwere zu<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">LINDNER: LAVATER.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">dem Anschein, den Geist der Schwere zu<lb/>
 überwinden) den Bequemlichkeitstrieben<lb/>
 unseres Leibes in verderblichstem Maße<lb/>
 schmeicheln; aus den Bequemlichkeits-<lb break="no"/>
@@ -82,7 +97,7 @@ sierender Strömungen und unter der<lb/>
 Tyrannis des »gesunden Menschenver-<lb break="no"/>
 stands« auf durchaus unorganischem Wege,<lb/>
 mit durchaus äußerlichen Mitteln, zu<lb/>
-<hi rend="text-spaced">Cerebral-Automaten</hi> verballhornt<lb/>
+                        <hi rend="text-spaced">Cerebral-Automaten</hi> verballhornt<lb/>
 werden, jede Eigencultur, jedes Innere<lb/>
 Vermögen zu schöpferischer Erkenntnis,<lb/>
 jeden Antrieb zu einheitlicher Geistigkeit<lb/>
@@ -93,8 +108,9 @@ sie ihre beschränkte »Feinsinnigkeit« und<lb/>
 »Differenziertheit« oder ihre hochstap-<lb break="no"/>
 lerische »Modernität«* geflissentlich zur<lb/>
 Schau tragen!</p>
-</cell><cell>
-<p>Mehr denn je zuvor und weitaus ge-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p>Mehr denn je zuvor und weitaus ge-<lb break="no"/>
 schäftiger, als in früheren Epochen, sind also<lb/>
 die genannten zeitpsychologischen Phäno-<lb break="no"/>
 mene, ihre Einflüsse und Wechsel-<lb break="no"/>
@@ -119,7 +135,7 @@ Instincte</hi> allmählich vor, erbt sich wie<lb/>
 eine neue Krankheit fort, erobert sich<lb/>
 Stück um Stück unserer ohnehin schon viel<lb/>
 zu wissend gewordenen Seele.</p>
-<p>Da müssen wir also dankbar sein<lb/>
+                     <p>Da müssen wir also dankbar sein<lb/>
 selbst für das Kleinste, das dieser<lb/>
 schleichenden Schwere zu wehren ver-<lb break="no"/>
 möchte. Drum wäre ein Lavater’scher<lb/>
@@ -134,11 +150,20 @@ Geheimfragen unseres Trieblebens, die<lb/>
 sich durch die Dialectik des Theore-<lb break="no"/>
 tikers nun einmal nicht zerhauen lassen<lb/>
 und mit der exacten Lupe des Flohsecierers<lb/>
-noch weniger zu entwirren sind. <hi rend="italics">Incubus</hi> <milestone unit="2dots"/><lb/>
-<hi rend="italics">Incubus</hi> <milestone unit="2dots"/>Cagliostro, erwache!</p>
-</cell></row></table><note type="footnote">
-<p>* Mit keiner Begriffsflagge wird heute so ausgiebig Missbrauch getrieben, wie mit dieser!</p>
-</note><milestone unit="untyped-end"/><milestone unit="undefined"/></div>
+noch weniger zu entwirren sind. <hi rend="italics">Incubus</hi>
+                        <milestone unit="2dots"/>
+                        <lb/>
+                        <hi rend="italics">Incubus</hi>
+                        <milestone unit="2dots"/>Cagliostro, erwache!</p>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Mit keiner Begriffsflagge wird heute so ausgiebig Missbrauch getrieben, wie mit dieser!</p>
+            </note>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
       </body>
    </text>
 </TEI>

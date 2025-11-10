@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-20_n0775.xml"
-     prev="WR-02-02-20_n0774.xml"
-     next="WR-02-02-20_n0776.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-20_n0775.xml" prev="WR-02-02-20_n0774.xml" next="WR-02-02-20_n0776.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,20 +42,54 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 19</title>
+                  <idno>WR-02-02-19_n0713.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 21</title>
+                  <idno>WR-02-02-21_n0785.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title><hi rend="text-spaced">MASKEN UND GÖTZENBILDER</hi>.<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">MASKEN UND GÖTZENBILDER</hi>.<lb/>
 Von <rs type="person" key="">ELIE RECLUS</rs> (Brüssel).<lb/>
 Übersetzt von <rs type="person" key="">Marie Lang</rs>.<lb/>
-(Schluss.)</title></ab><ab><title>IV.</title></ab><p>Man erinnert sich, dass in dem Friedensvertrage, welcher durch<lb/>
+(Schluss.)</title>
+            </ab>
+            <ab>
+               <title>IV.</title>
+            </ab>
+            <p>Man erinnert sich, dass in dem Friedensvertrage, welcher durch<lb/>
 Vermittlung eines Zauberers zwischen Abgeschiedenen und Lebenden<lb/>
 geschlossen worden war, festgesetzt wurde, dass diese jene zu ernähren,<lb/>
 und der Reliquie und dem Geiste, welcher sie bewohnt, eine Stätte<lb/>
-zu sichern hätten. Sprechen wir nun von dieser Ruhestätte.</p><p>Ohne die Möglichkeit sich zu ändern, behielten die Schatten die<lb/>
+zu sichern hätten. Sprechen wir nun von dieser Ruhestätte.</p>
+            <p>Ohne die Möglichkeit sich zu ändern, behielten die Schatten die<lb/>
 Gewohnheiten bei, welche sie in ihrem ersten Dasein angenommen hatten.<lb/>
 Diejenigen, welche als Jäger oder Fischer in Gemeinschaften gelebt<lb/>
 hatten, hausten nach ihrem Tode in Büschen und Felsspalten oder im<lb/>
@@ -68,7 +99,8 @@ grosse Ahnherr hielt sich in der weiten Höhle des Stammes auf,<lb/>
 die Helden, seine Söhne, auf den dicken Ästen, die Nachkommenschaft<lb/>
 bevölkerte die Zweige, jeder hatte ein Reislein. — Aber bei den acker-<lb break="no"/>
 bautreibenden Völkern wollte jeder einstige Familienvater einen Winkel<lb/>
-Erde haben, der ihm und keinem anderen zugehören sollte.</p><p>Anfänglich kosteten diese Stätten kaum etwas, es waren belaubte<lb/>
+Erde haben, der ihm und keinem anderen zugehören sollte.</p>
+            <p>Anfänglich kosteten diese Stätten kaum etwas, es waren belaubte<lb/>
 Zweige, das Linnen oder ein Stück Stoff, das man dem Sterbenden<lb/>
 über das Gesicht gebreitet hatte, nachdem man es an dem geweihten<lb/>
 Baume aufgehängt hatte. Wenn dieser Baum fehlte, hieng man den<lb/>
@@ -76,7 +108,8 @@ Lappen an einen Pfahl oder pflanzte Stangen auf mit einem Tüchlein<lb/>
 an der Spitze. Frisch und im Winde flatternd, bequem als Beobachtungs-<lb break="no"/>
 posten, benagten diese luftigen Behausungen den Schatten, welche sich<lb/>
 auf den die Meere und Flüsse entlangziehenden Schiffen in Tauen und<lb/>
-Wimpeln schaukeln.</p><p>Aber vor den Tüchern und Stoffen hatte man das Antlitz des<lb/>
+Wimpeln schaukeln.</p>
+            <p>Aber vor den Tüchern und Stoffen hatte man das Antlitz des<lb/>
 Todten mit Baumrindenstücken, dann mit dünnen Holzplatten bedeckt.<lb/>
 Als diese Holzplatten einen deutlicheren Charakter annahmen, gestalteten<lb/>
 sie sich natürlicherweise nach der Grundform dessen, was sie ver-<lb break="no"/>
@@ -85,7 +118,8 @@ gierigen, furchtbaren Augen dreinschaute. Da alle Welt an diese Augen<lb/>
 dachte, zeichnete man sie rund, übermässig gross, beunruhigend und<lb/>
 unheimlich. Derart sieht man sie auf zahlreichen alten, etruskischen<lb/>
 oder griechischen Vasen. Weil der Todte nach Beute schnob, zeichnete<lb/>
-man auf das Brett weit geöffnete Nüstern ein und einen aufgesperrten</p></div>
+man auf das Brett weit geöffnete Nüstern ein und einen aufgesperrten</p>
+         </div>
       </body>
    </text>
 </TEI>

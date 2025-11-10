@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-01-01-07_n0244.xml"
-     prev="WR-01-01-07_n0243.xml"
-     next="WR-01-01-07_n0245.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-01-07_n0244.xml" prev="WR-01-01-07_n0243.xml" next="WR-01-01-07_n0245.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,19 +42,45 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 2</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 1, Halbbd. 1, Nr. 6</title>
+                  <idno>WR-01-01-06_n0201.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 1, Halbbd. 1, Nr. 8</title>
+                  <idno>WR-01-01-08_n0281.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">244</fw><fw type="ctext">LARSEN.</fw></fw><p>In acht Tagen würde es Novemberregen werden.</p><p>Er blieb stehen und schaute in den Hof hinab; da wollte<lb/>
-der Milchwagen eben hinein — ein Knecht läutete.</p><p>Ein Weilchen später vernahm der Oberlehrer es vom<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">244</fw>
+               <fw type="ctext">LARSEN.</fw>
+            </fw>
+            <p>In acht Tagen würde es Novemberregen werden.</p>
+            <p>Er blieb stehen und schaute in den Hof hinab; da wollte<lb/>
+der Milchwagen eben hinein — ein Knecht läutete.</p>
+            <p>Ein Weilchen später vernahm der Oberlehrer es vom<lb/>
 nächsten Hof her — vielleicht würde er es von noch einem<lb/>
 Hof hören können — dieselben dreimal — mit drei Schlägen<lb/>
-zum Schluss.</p><p>Er trank seinen Thee mit den vier Stückchen Zucker<lb/>
-darin, ass ein Ei und zwei Stückchen Weissbrot.</p><p>Dann ging er in die Wohnstube und liess die Thüre<lb/>
-hinter sich offen stehen.</p><p>Das Fenster stand halb offen, wie es auch sollte, vom<lb/>
+zum Schluss.</p>
+            <p>Er trank seinen Thee mit den vier Stückchen Zucker<lb/>
+darin, ass ein Ei und zwei Stückchen Weissbrot.</p>
+            <p>Dann ging er in die Wohnstube und liess die Thüre<lb/>
+hinter sich offen stehen.</p>
+            <p>Das Fenster stand halb offen, wie es auch sollte, vom<lb/>
 Abend, wenn er zu Bett ging; auch die Thür des Kachel-<lb break="no"/>
 ofens stand offen; um die Luft zu ventiliren — im Vorbei-<lb break="no"/>
 gehen stiess er sie mit dem Fusse zu. Das Fenster schloss<lb/>
@@ -71,16 +94,21 @@ kannte die Stimme. Im dritten Stock in dem grauen Hause<lb/>
 gerade gegenüber stand derselbe kleine Junge wie immer<lb/>
 im Fensterrahmen und bewegte den Kopf hin und her und<lb/>
 umklammerte die Stangen des Eisendrahtes, welcher vor den<lb/>
-Scheiben angebracht war.</p><p>Er ging zum Schreibtisch und fing an, die lateinischen<lb/>
+Scheiben angebracht war.</p>
+            <p>Er ging zum Schreibtisch und fing an, die lateinischen<lb/>
 Uebersetzungen der Prima in ein graues Papier einzupacken.<lb/>
 Während er stand und damit beschäftigt war, den Bindfaden<lb/>
 herumzuschnüren, begann im Hof der Leiermann zu spielen<lb/>
 — das war der Donnerstagsmann — und dann war die Uhr<lb/>
-halb neun — der Mann kam das ganze Jahr hindurch.</p><p>Als er den Bindfaden herumgemacht hatte, ging er in<lb/>
+halb neun — der Mann kam das ganze Jahr hindurch.</p>
+            <p>Als er den Bindfaden herumgemacht hatte, ging er in<lb/>
 das Schlafzimmer zurück, um ihm seine fünf Oere herab-<lb break="no"/>
-zuwerfen.</p><p>Der Leiermann grüsste. Er musste ein wenig suchen,<lb/>
+zuwerfen.</p>
+            <p>Der Leiermann grüsste. Er musste ein wenig suchen,<lb/>
 ehe er das Geldstück im Schmutz fand, dann grüsste er<lb/>
-wieder zu dem Oberlehrer hinauf.</p><p>Es fiel von einem der Küchenfenster ein Geldstück herab.</p></div>
+wieder zu dem Oberlehrer hinauf.</p>
+            <p>Es fiel von einem der Küchenfenster ein Geldstück herab.</p>
+         </div>
       </body>
    </text>
 </TEI>

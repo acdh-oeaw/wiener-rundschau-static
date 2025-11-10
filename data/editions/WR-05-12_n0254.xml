@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-12_n0254.xml"
-     prev="WR-05-12_n0253.xml"
-     next="WR-05-12_n0255.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-12_n0254.xml" prev="WR-05-12_n0253.xml" next="WR-05-12_n0255.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,15 +41,34 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 11</title>
+                  <idno>WR-05-11_n0225.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 13</title>
+                  <idno>WR-05-13_n0265.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>RUSSISCHER BRIEF.<lb/>
-Von <rs type="person" key="">JOSEF MELNIK</rs> (St. Petersburg).</title></ab><table><row><cell>
-<p>Zwischen dem selbständigen künst-<lb break="no"/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>RUSSISCHER BRIEF.<lb/>
+Von <rs type="person" key="">JOSEF MELNIK</rs> (St. Petersburg).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Zwischen dem selbständigen künst-<lb break="no"/>
 lerischen Schaffen und der literarischen<lb/>
 Kritik in Russland existiert eine tiefe,<lb/>
 unüberbrückbare Kluft. Sie gehen beide<lb/>
@@ -98,8 +114,9 @@ künstlerischen Geschmack, hatte noch<lb/>
 Geruchsinn, der mit den Jahren abnahm.<lb/>
 Pissarew bekämpfte Puschkin, dieses noch<lb/>
 nie ganz entdeckte, nur von Einzelnen</p>
-</cell><cell>
-<p rend="no-intend">geahnte Genie des russischen Volkes,<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">geahnte Genie des russischen Volkes,<lb/>
 das Europa wie Russland in seiner<lb/>
 ganzen tiefen Einfachheit und genialen<lb/>
 Urselbständigkeit verständlich ist. Dem<lb/>
@@ -118,12 +135,13 @@ Kunst nicht gewachsen, was aber noch<lb/>
 schlimmer ist: Die russische Kritik und<lb/>
 die russischen Kritiker wurden sanctioniert,<lb/>
 als unfehlbar proclamiert.</p>
-<p>Gegen diese parteiische und einseitige<lb/>
+                     <p>Gegen diese parteiische und einseitige<lb/>
 Auffassung der Kunst, gegen diese Ver-<lb break="no"/>
 nachlässigung aller geistigeren Bedürfnisse<lb/>
 und gegen das leichtsinnige Verhältnis<lb/>
 zu den religiösen und weltumfassenden<lb/>
-Neigungen der Seele trat A. <hi rend="text-spaced">Wolinsky</hi><lb/>
+Neigungen der Seele trat A. <hi rend="text-spaced">Wolinsky</hi>
+                        <lb/>
 auf. Sein Buch »Russische Kritiker«, in<lb/>
 dem er alle Kritiker von Bjelinsky bis auf<lb/>
 Michailowsky einer strengen, aber ehr-<lb break="no"/>
@@ -145,7 +163,10 @@ bekämpfen. Er musste den alten Maßstab<lb/>
 als ungiltig und falsch erklären. Dies<lb/>
 geschah auch in seinem Buche »Russische<lb/>
 Kritiker«. Das ist eine Art »Unzeitgemäße</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

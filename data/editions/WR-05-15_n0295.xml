@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-15_n0295.xml"
-     prev="WR-05-14_n0294.xml"
-     next="WR-05-15_n0296.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-15_n0295.xml" prev="WR-05-14_n0294.xml" next="WR-05-15_n0296.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,22 +41,63 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 14</title>
+                  <idno>WR-05-14_n0279.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 16</title>
+                  <idno>WR-05-16_n0313.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="prose-start"/><milestone unit="masthead-start"/><p><hi rend="strong">WIENER<lb/>
-RUNDSCHAU</hi></p><p><hi rend="strong">HERAUSGEGEBEN VON FELIX RAPPAPORT</hi></p><table><row><cell>
-<p><date><hi rend="strong">1. AUGUST 1901</hi></date></p>
-</cell><cell>
-<p><hi rend="strong">V. JAHRGANG, NR. 15</hi></p>
-</cell></row></table><milestone unit="hr"/><milestone unit="untyped-end"/><milestone unit="untyped-start"/><ab><title>DAS WESEN DES OPFERS<lb/>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="strong">WIENER<lb/>
+RUNDSCHAU</hi>
+            </p>
+            <p>
+               <hi rend="strong">HERAUSGEGEBEN VON FELIX RAPPAPORT</hi>
+            </p>
+            <table>
+               <row>
+                  <cell>
+                     <p>
+                        <date>
+                           <hi rend="strong">1. AUGUST 1901</hi>
+                        </date>
+                     </p>
+                  </cell>
+                  <cell>
+                     <p>
+                        <hi rend="strong">V. JAHRGANG, NR. 15</hi>
+                     </p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DAS WESEN DES OPFERS<lb/>
 IM ANSCHLUSSE<lb/>
 AN TH. SCHULTZES »RELIGION DER ZUKUNFT«.<lb/>
-Von <rs type="person" key="">BARON. E. GUMPPENBERG</rs>.</title></ab><table><row><cell>
-<p>Wenn wir dem Verständnis der Ent-<lb break="no"/>
+Von <rs type="person" key="">BARON. E. GUMPPENBERG</rs>.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Wenn wir dem Verständnis der Ent-<lb break="no"/>
 wicklung einer Welt näherkommen wollen,<lb/>
 handelt es sich wohl weniger darum,<lb/>
 bestehende und bestanden habende Reli-<lb break="no"/>
@@ -79,15 +117,16 @@ gionen, die das Theilergebnis solchen<lb/>
 Suchens sind, als etwas anderes zu be-<lb break="no"/>
 zeichnen, als die jeweilige Erscheinungs-<lb break="no"/>
 form einer Wahrheit, die sich offenbaren<lb/>
-<hi rend="text-spaced">muss</hi>, da sich das Urleben offenbarte<lb/>
+                        <hi rend="text-spaced">muss</hi>, da sich das Urleben offenbarte<lb/>
 und so diese Welt der Form entstanden<lb/>
 ist? Wenn ein Mensch bekennt, ein Wahr-<lb break="no"/>
 heitsforscher zu sein, muss er die weit-<lb break="no"/>
 gehendste Toleranz auf sein Panier schreiben<lb/>
 und durchdrungen sein von der Empfindung,<lb/>
 dass <hi rend="text-spaced">absolute</hi> Wahrheit sich schleierlos</p>
-</cell><cell>
-<p rend="no-intend">uns nicht offenbaren <hi rend="text-spaced">kann</hi>, die relativen<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">uns nicht offenbaren <hi rend="text-spaced">kann</hi>, die relativen<lb/>
 Wahrheiten einander nicht befehden lassen,<lb/>
 sondern sie möglichst von den Schleiern des<lb/>
 Exoterischen zu befreien suchen. In der<lb/>
@@ -97,7 +136,7 @@ er, statt lautes Kriegsgeschrei gegen eine<lb/>
 Religion zu erheben, schweigend horchen,<lb/>
 ob er in seinem Innersten vielleicht das<lb/>
 Beta zu vernehmen vermag.</p>
-<p>Ob es uns jemals möglich sein wird,<lb/>
+                     <p>Ob es uns jemals möglich sein wird,<lb/>
 Begriffe zu fassen, für die uns alle<lb/>
 Analogie fehlt, muss eine offene Frage<lb/>
 bleiben. Und welche Beweise können wir<lb/>
@@ -112,9 +151,12 @@ noch Kämpfe führen zu wollen? Sollen wir<lb/>
 unseren endlichen Intellect, der doch nur<lb/>
 Entwicklungsmöglichkeit für uns ist, nicht<lb/>
 lieber zu seinem wahren Zweck verwenden?</p>
-<p>Es befremdet mich, zu hören, dass<lb/>
+                     <p>Es befremdet mich, zu hören, dass<lb/>
 der Verfasser der »Religion der Zukunft«</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

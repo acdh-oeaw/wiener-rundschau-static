@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-03_n0065.xml"
-     prev="WR-05-03_n0064.xml"
-     next="WR-05-03_n0066.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-03_n0065.xml" prev="WR-05-03_n0064.xml" next="WR-05-03_n0066.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 2</title>
+                  <idno>WR-05-02_n0023.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 4</title>
+                  <idno>WR-05-04_n0077.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">KUHLENBECK: DIE INDIVIDUALITÄT IST IHR EIGENES GESCHÖPF.</fw></fw><table><row><cell>
-<p rend="no-intend">durch die Qualification dieses absoluten<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KUHLENBECK: DIE INDIVIDUALITÄT IST IHR EIGENES GESCHÖPF.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">durch die Qualification dieses absoluten<lb/>
 Weltgrundes, den Schopenhauer als blinden<lb/>
 Willen auffasst, während Fichte ihn als<lb/>
 »reines Ich«, als einen unpersönlichen<lb/>
@@ -63,14 +78,14 @@ einzelnen menschlichen Subjecten indivi-<lb break="no"/>
 dualisiert. Beiden <hi rend="text-spaced">fällt die Einheit des<lb/>
 Ich unmittelbar zusammen mit<lb/>
 der All-Einheit</hi>, beide kennen nur<lb/>
-<hi rend="text-spaced">eine</hi> Monade, die <hi rend="text-spaced">Centralm</hi>onade Gior-<lb break="no"/>
+                        <hi rend="text-spaced">eine</hi> Monade, die <hi rend="text-spaced">Centralm</hi>onade Gior-<lb break="no"/>
 dano Brunos. Der dieser Centralmonade<lb/>
 unbegrenzt viele andere Einzelmonaden<lb/>
 unterordnende Individualismus eines Gior-<lb break="no"/>
 dano Bruno und du Prels dagegen ist<lb/>
 vorsichtiger und bescheidener; er behauptet,<lb/>
 dass man in der Analyse des Unbewussten<lb/>
-<hi rend="text-spaced">nicht sofort auf die Weltsub-<lb break="no"/>
+                        <hi rend="text-spaced">nicht sofort auf die Weltsub-<lb break="no"/>
 stanz stößt</hi>, <hi rend="text-spaced">sondern zunächst<lb/>
 auf eine wurzelhafte Verlän-<lb break="no"/>
 gerung</hi>, <hi rend="text-spaced">auf ein transcenden-<lb break="no"/>
@@ -79,14 +94,14 @@ in unserem Selbstbewusstsein<lb/>
 liegenden Ich</hi>, <hi rend="text-spaced">aber auch von der<lb/>
 Weltsubstanz unterschieden ist</hi>.«<lb/>
 (Du Prel: Entdeckung der Seele. S. 205.)</p>
-<p>Offenbar ist der Individualismus, der<lb/>
+                     <p>Offenbar ist der Individualismus, der<lb/>
 darum die Alleinheit der Weltsubstanz<lb/>
 nicht in Frage zu stellen braucht, für den-<lb break="no"/>
 jenigen, der eine heroische Weltanschauung<lb/>
 erstrebt — um Brunos Ausdruck zu ge-<lb break="no"/>
 brauchen —, convenienter, als jener <hi rend="text-spaced">ab-<lb break="no"/>
 stracte</hi> Monismus.</p>
-<p>Ja, er ist auch natürlicher. Denn jener<lb/>
+                     <p>Ja, er ist auch natürlicher. Denn jener<lb/>
 abstracte Monismus verkennt die <hi rend="text-spaced">Stetig-<lb break="no"/>
 keit</hi> der Natur-Entwicklung, er macht von<lb/>
 der gegebenen Erscheinung aus einen<lb/>
@@ -96,7 +111,7 @@ meint, dass Schopenhauer bei eingehen-<lb break="no"/>
 derer Befassung mit gewissen, von ihm<lb/>
 offenbar in seiner späteren Periode wohl<lb/>
 gewürdigten <hi rend="text-spaced">occultistischen</hi> Studien<lb/>
-<hi rend="text-spaced">selbst</hi> dazu gelangt sein würde, sein<lb/>
+                        <hi rend="text-spaced">selbst</hi> dazu gelangt sein würde, sein<lb/>
 System individualistisch zu vertiefen. Ich<lb/>
 glaube, dass ihn auch schon eine genauere<lb/>
 philosophische Würdigung der <hi rend="text-spaced">modernen<lb/>
@@ -105,8 +120,9 @@ haben würde. Rein physiologisch genommen,<lb/>
 ist der Mensch nach dieser Lehre nicht<lb/>
 unmittelbar fertig geschaffen, sondern<lb/>
 erarbeitet oder vielmehr er hat sich selbst</p>
-</cell><cell>
-<p rend="no-intend">erarbeitet, entwickelt im Verlaufe eines<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">erarbeitet, entwickelt im Verlaufe eines<lb/>
 zahllose Generationen oder Zeugungen<lb/>
 umfassenden Zeitraums. Die Entwicklungs-<lb break="no"/>
 lehre müsste also fallen, wenn das Absolute<lb/>
@@ -132,13 +148,14 @@ seine Umfassung durch eine ursprünglichere<lb/>
 und höhere Einheit, die Gattungsseele, mit<lb/>
 nichten ausschließt. Der gegenwärtig noch<lb/>
 materialistisch oder (wenigstens bei Häckel)<lb/>
-<hi rend="text-spaced">abstract</hi> monistisch geartete sogenannte<lb/>
+                        <hi rend="text-spaced">abstract</hi> monistisch geartete sogenannte<lb/>
 Darwinismus muss, wenn er einen zuläng-<lb break="no"/>
 lichen Träger der Vererbung haben will,<lb/>
 den Spuren du Prels folgen, der ja, wie<lb/>
 seine Leser wissen, auch erst vom Dar-<lb break="no"/>
 winismus zum transcendentalen Individua-<lb break="no"/>
-lismus gelangte. Nur eine <hi rend="text-spaced">beharrende</hi><lb/>
+lismus gelangte. Nur eine <hi rend="text-spaced">beharrende</hi>
+                        <lb/>
 Einheit, eine Monade im Sinne Brunos,<lb/>
 ist nämlich als Träger der Vererbung<lb/>
 erworbener Eigenschaften denkbar, wenn<lb/>
@@ -148,7 +165,7 @@ Organismus nicht fordern, wie für das<lb/>
 aus ihm resultierende empirische Bewusst-<lb break="no"/>
 sein (vgl. Jahrgang IV, Nr. 22), richtig<lb/>
 gewesen sind.</p>
-<p>Der Satz: Volo, ergo sum verliert<lb/>
+                     <p>Der Satz: Volo, ergo sum verliert<lb/>
 auch nur bei Annahme eines <hi rend="text-spaced">transcen-<lb break="no"/>
 dentalen Individualismus</hi> die<lb/>
 Paradoxie, die ihm auf den ersten Blick<lb/>
@@ -160,7 +177,10 @@ Münchhausen kann sich nicht am eigenen<lb/>
 Zopfe aus dem Nichts hervorgezogen<lb/>
 haben. Andererseits aber muss doch eine<lb/>
 solche Identität vorliegen, wie beispiels-</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-05_n0114.xml"
-     prev="WR-05-05_n0113.xml"
-     next="WR-05-06_n0115.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-05_n0114.xml" prev="WR-05-05_n0113.xml" next="WR-05-06_n0115.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,17 +41,35 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 4</title>
+                  <idno>WR-05-04_n0077.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 6</title>
+                  <idno>WR-05-06_n0115.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">RUNDSCHAU.</fw></fw><table><row><cell>
-<p rend="no-intend">liche allein zu beschränken. Dieser Riesen-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">RUNDSCHAU.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">liche allein zu beschränken. Dieser Riesen-<lb break="no"/>
 aufgabe unterzieht sich der Autor der vor-<lb break="no"/>
 liegenden Schrift mit Selbstvertrauen.</p>
-<p>Wir erfahren zunächst, dass Wagner<lb/>
+                     <p>Wir erfahren zunächst, dass Wagner<lb/>
 keine Nationalgröße ist, wie Goethe, Bach<lb/>
 oder — Bismarck, und den bekannten<lb/>
 Eichenlaubkranz nicht mit vollem Rechte<lb/>
@@ -76,7 +91,7 @@ vom Schauspieler Wagner fettgedruckt<lb/>
 vor Augen geführt, und dieses Leitmotiv<lb/>
 contrapunktiert gegen den herben Klage-<lb break="no"/>
 gesang des Einsiedlers vom Berge.</p>
-<p>Über den relativen Wert der heroischen<lb/>
+                     <p>Über den relativen Wert der heroischen<lb/>
 und der asketischen Weltbetrachtung kann<lb/>
 man verschiedener Ansicht sein; wie ein<lb/>
 Musikpsychologe sich die Weiter-Ent-<lb break="no"/>
@@ -86,41 +101,45 @@ bleibt dem erkenntnis-theoretisch Ge-<lb break="no"/>
 schulten aber jedenfalls ein Räthsel. Was<lb/>
 hierüber noch weiter zu sagen ist, hat<lb/>
 Wagner in seiner grandiosen Beethoven-<lb break="no"/>
-Studie in stricter Anlehnung an <hi rend="text-spaced">Kant</hi><lb/>
+Studie in stricter Anlehnung an <hi rend="text-spaced">Kant</hi>
+                        <lb/>
 zu Ende gedacht.</p>
-<p>Indem der Autor das rein Musikalische<lb/>
+                     <p>Indem der Autor das rein Musikalische<lb/>
 aus dem Kreise seiner Betrachtungen aus-<lb break="no"/>
 schließt, ist der Recension die Möglichkeit<lb/>
 entzogen, von diesem Standpunkte aus<lb/>
 zu argumentieren. Es wäre sonst möglich,<lb/>
 zu zeigen, dass die Tonwelt Wagners ein<lb/>
 Bewusstsein voraussetzt, das tief in die<lb/>
-<hi rend="text-spaced">gegebene</hi> Erscheinungswelt sich lange<lb/>
+                        <hi rend="text-spaced">gegebene</hi> Erscheinungswelt sich lange<lb/>
 versenkt hat; und wie er nur das Phä-<lb break="no"/>
 nomenale leidverstrickt gefunden hat,<lb/>
 jenseits unserer Anschauungsformen aber<lb/>
-das <hi rend="text-spaced">transcendental Vollkommene</hi><lb/>
+das <hi rend="text-spaced">transcendental Vollkommene</hi>
+                        <lb/>
 des Urwesens: Alberich und die Rhein-<lb break="no"/>
 töchter. — Wie sich solche Dinge im<lb/>
 Rahmen einer kurzen Besprechung nicht<lb/>
 unabweisbar klarlegen lassen, so können</p>
-</cell><cell>
-<p rend="no-intend">sie auch in leicht flatternden »Causerien«<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">sie auch in leicht flatternden »Causerien«<lb/>
 nicht erschöpft werden. <hi rend="text-spaced">Überwindung<lb/>
 des psychologischen Impressionis-<lb break="no"/>
 mus</hi> in der Kritik und Einführung der<lb/>
 naturwissenschaftlichen Methode der mo-<lb break="no"/>
 dernen Erkenntnistheorie fordern wir heute<lb/>
-mit Recht. <rs type="person" key="">o. b.</rs></p>
-<milestone unit="untyped-end"/>
-<milestone unit="asterisk"/>
-<milestone unit="untyped-start"/>
-<p>RUYSBROEK. Die Werke des be-<lb break="no"/>
+mit Recht. <rs type="person" key="">o. b.</rs>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="asterisk"/>
+                     <milestone unit="untyped-start"/>
+                     <p>RUYSBROEK. Die Werke des be-<lb break="no"/>
 kannten Mystikers <hi rend="text-spaced">Johannes van<lb/>
 Ruysbroek</hi> — der 1293 bis 1381 lebte<lb/>
 und als Doctor ecstaticus bekannt war —<lb/>
 sollen ins Deutsche übersetzt werden.</p>
-<p>Ruysbroeks praktische Mystik war von<lb/>
+                     <p>Ruysbroeks praktische Mystik war von<lb/>
 solchem Erfolge begleitet, dass ihm von<lb/>
 der Kirche die Seligsprechung zutheil<lb/>
 wurde. Er wäre sogar heilig gesprochen<lb/>
@@ -129,10 +148,10 @@ ständnis oder absichtliche Intrigue des<lb/>
 Kanzlers Gerson in seinen Schriften gewisse<lb/>
 Lehren gefunden hätte, die dem damaligen<lb/>
 Dogma zuwiderliefen.</p>
-<p>Die Übersetzung ist nach dem Urtheile<lb/>
+                     <p>Die Übersetzung ist nach dem Urtheile<lb/>
 competenter Kritiker mustergiltig und mit<lb/>
 eingehender Sachkenntnis geschrieben.</p>
-<p>Da Ruysbroek in seinem Werke »Die<lb/>
+                     <p>Da Ruysbroek in seinem Werke »Die<lb/>
 Zierde der geistlichen Hochzeit« nicht wie<lb/>
 viele Visionäre problematische Verzückungs-<lb break="no"/>
 Zustände schildert, sondern seine selbst<lb/>
@@ -145,7 +164,7 @@ denen der unerfahrene Jünger ausgesetzt<lb/>
 ist — so ist die Anschaffung des Buches<lb/>
 für jeden Occultisten ungemein empfehlens-<lb break="no"/>
 wert. Das Werk Ruysbroeks (das von<lb/>
-<hi rend="text-spaced">Maeterlinck</hi> ins Französische übersetzt<lb/>
+                        <hi rend="text-spaced">Maeterlinck</hi> ins Französische übersetzt<lb/>
 ist und bereits mehrere Auflagen erlebt<lb/>
 hat) ist ein Hilfsmittel, das nicht nur<lb/>
 Anregung, sondern noch vielmehr praktische<lb/>
@@ -160,8 +179,17 @@ Voraussichtlich kostet das Werk 4 bis<lb/>
 5 Mark. Bestellungen werden auch in der<lb/>
 Administration der »Wiener Rundschau«<lb/>
 entgegengenommen.</p>
-<milestone unit="untyped-end"/>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="hr"/><milestone unit="imprint-start"/><p>Verantwortlicher Redactuer: R. Dworschak. — K. k. Hoftheater-Druckerei, Wien, I., Wollzeile 17. (Verantwortl. A. Rimrich.)</p><milestone unit="untyped-end"/><milestone unit="untyped-end"/></div>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+            <milestone unit="imprint-start"/>
+            <p>Verantwortlicher Redactuer: R. Dworschak. — K. k. Hoftheater-Druckerei, Wien, I., Wollzeile 17. (Verantwortl. A. Rimrich.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
       </body>
    </text>
 </TEI>

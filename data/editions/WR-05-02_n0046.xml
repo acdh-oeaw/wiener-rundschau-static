@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-02_n0046.xml"
-     prev="WR-05-02_n0045.xml"
-     next="WR-05-03_n0049.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-02_n0046.xml" prev="WR-05-02_n0045.xml" next="WR-05-03_n0049.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,33 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 1</title>
+                  <idno>WR-05-01_n0001.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 3</title>
+                  <idno>WR-05-03_n0049.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">DER FALL BÜCHNER.</fw></fw><table><row><cell>
-<p><hi rend="text-spaced">Gottheit</hi>, <hi rend="text-spaced">als einen königlichen<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DER FALL BÜCHNER.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>
+                        <hi rend="text-spaced">Gottheit</hi>, <hi rend="text-spaced">als einen königlichen<lb/>
 Stern der menschlichen Natur</hi>,<lb/>
 als ein Analogo<hi rend="text-spaced">n der unendlich<lb/>
 vollkommeneren prophetischen<lb/>
@@ -63,8 +79,9 @@ Mittel</hi>, <hi rend="text-spaced">diese Exaltation zu be-<lb break="no"/>
 wirken</hi>.« Zu gleicher Zeit vertheidigte ein<lb/>
 anderer Theologus, gleichfalls cagliostrohaft<lb/>
 angehaucht, in einer Unzahl absonderlicher</p>
-</cell><cell>
-<p rend="no-intend">Tractate und in einem sibyllinischen<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Tractate und in einem sibyllinischen<lb/>
 »Heuschreckenstil« (wie er selber sagte)<lb/>
 die unzeitgemäße Erkenntnis, dass der<lb/>
 Aufschwung deutscher Bildung und Lite-<lb break="no"/>
@@ -74,18 +91,28 @@ altete Schulsatzungen, durch Kleingeisterei<lb/>
 und pedantische Gelehrsamkeit, welche<lb/>
 ohne Geist, Charakter und Inspiration sei«.<lb/>
 Es war Hamann, der Magus.*</p>
-<p><rs type="person" key="">ANTON LINDNER</rs>.</p>
-</cell></row></table><note type="footnote">
-<p>* Über Lavaters Hauptthat, die »<hi rend="text-spaced">Physiognomik</hi>«, wird noch eingehend berichtet werden.</p>
-<p>D. RED.</p>
-</note><milestone unit="untyped-end"/><milestone unit="undefined"/><table><row><cell>
-<milestone unit="editorialStatement-start"/>
-<p><hi rend="text-spaced">Der Fall Büchner</hi>. Zum Artikel von<lb/>
+                     <p>
+                        <rs type="person" key="">ANTON LINDNER</rs>.</p>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Über Lavaters Hauptthat, die »<hi rend="text-spaced">Physiognomik</hi>«, wird noch eingehend berichtet werden.</p>
+               <p>D. RED.</p>
+            </note>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="editorialStatement-start"/>
+                     <p>
+                        <hi rend="text-spaced">Der Fall Büchner</hi>. Zum Artikel von<lb/>
 Hans Landsberg, der Bleibtreus Drama »Welt-<lb break="no"/>
 gericht« mit dem »Danton« vergleicht (»W. R.«<lb/>
 V., Nr. 1) erhalten wir folgende Zuschrift:</p>
-<milestone unit="untyped-start"/>
-<p>»Da nicht der Schatten einer Überein-<lb break="no"/>
+                     <milestone unit="untyped-start"/>
+                     <p>»Da nicht der Schatten einer Überein-<lb break="no"/>
 stimmung im äußeren Aufbau meines Werkes,<lb/>
 noch in der Handlung, noch gar in der<lb/>
 Charakteristik der geschichtlichen Figuren<lb/>
@@ -94,24 +121,35 @@ Kopf zerbrochen, was mit dieser Beschuldigung<lb/>
 gemeint sei. Endlich errieth ich’s. Herr Lands-<lb break="no"/>
 berg fasst nämlich gewisse Tiraden Dantons<lb/>
 und St. Justs im dritten Act als »Nachahmung«</p>
-</cell><cell>
-<p rend="no-intend">Büchners auf, ohne zu ahnen, dass sie<lb/>
-<hi rend="text-spaced">historisch</hi> sind und Büchner z. B. eine<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Büchners auf, ohne zu ahnen, dass sie<lb/>
+                        <hi rend="text-spaced">historisch</hi> sind und Büchner z. B. eine<lb/>
 Conventsrede St. Justs fast wörtlich benützte.<lb/>
 Daher die Übereinstimmung: Schöpfen aus<lb/>
 gleicher historischer Quelle! Wäre aber selbst<lb/>
-dies nicht der Fall, so würde doch die <hi rend="text-spaced">absolute</hi><lb/>
+dies nicht der Fall, so würde doch die <hi rend="text-spaced">absolute</hi>
+                        <lb/>
 Verschiedenheit der Umstände und Scenen<lb/>
 schon von vornherein die »Anleihe« illusorisch<lb/>
 machen. <rs type="person" key="">CARL BLEIBTREU</rs>.«</p>
-<milestone unit="untyped-end"/>
-<milestone unit="asterisk"/>
-<milestone unit="editorialStatement-start"/>
-<p>In <hi rend="text-spaced">Rudolf Kassners</hi> Essai (V., Nr. 1) soll<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="asterisk"/>
+                     <milestone unit="editorialStatement-start"/>
+                     <p>In <hi rend="text-spaced">Rudolf Kassners</hi> Essai (V., Nr. 1) soll<lb/>
 es statt »Ästhetiker« richtig überall »<hi rend="text-spaced">Ästhet</hi>«<lb/>
 heißen.</p>
-<milestone unit="untyped-end"/>
-</cell></row></table><milestone unit="undefined"/><milestone unit="hr"/><milestone unit="imprint-start"/><p>Herausgeber: Felix Rappaport. — Verantwortlicher Redacteur: Anton Lindner.</p><milestone unit="untyped-end"/><milestone unit="untyped-end"/></div>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="undefined"/>
+            <milestone unit="hr"/>
+            <milestone unit="imprint-start"/>
+            <p>Herausgeber: Felix Rappaport. — Verantwortlicher Redacteur: Anton Lindner.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-04_n0129.xml"
-     prev="WR-02-01-04_n0128.xml"
-     next="WR-02-01-04_n0130.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-04_n0129.xml" prev="WR-02-01-04_n0128.xml" next="WR-02-01-04_n0130.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,14 +42,43 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 3</title>
+                  <idno>WR-02-01-03_n0081.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 5</title>
+                  <idno>WR-02-01-05_n0161.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>ÜBER DAS KÜSSEN.<lb/>
-Von <rs type="person" key="">Oscar Panizza</rs> (Zürich).</title></ab><p>Wenn das Küssen weiter nichts wäre, als was die materialistische<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>ÜBER DAS KÜSSEN.<lb/>
+Von <rs type="person" key="">Oscar Panizza</rs> (Zürich).</title>
+            </ab>
+            <p>Wenn das Küssen weiter nichts wäre, als was die materialistische<lb/>
 Weltauffassung aus ihm macht: die Contractur des <hi rend="italics">musculus sphincter<lb/>
 oris</hi> unter gegenseitiger Näherung, Berührung und Abschilferung des<lb/>
 in Frage kommenden Lippenpaares, dann stünde es schlecht um diese<lb/>
@@ -61,16 +87,18 @@ es schlimm bestellt um die jungen Mädchen, die einzig und vor Allem<lb/>
 darauf bedacht sind, Kussgelegenheiten zu erfinden und Küsse sich<lb/>
 stehlen zu lassen im Hellen und im Dunkeln; denn zur gegenseitigen<lb/>
 Quetschung und Abschilferung des Schliessmuskels des Mundes, des<lb/>
-<hi rend="italics">musculus sphincter oris</hi>, liesse sich kein Mensch herbei, besonders die-<lb break="no"/>
+               <hi rend="italics">musculus sphincter oris</hi>, liesse sich kein Mensch herbei, besonders die-<lb break="no"/>
 jenigen nicht, die, auch nur für kurze Zeit, von einer Schliessung des<lb/>
 Mundes durchaus nichts wissen wollen, die ewigen Plaudertaschen, die<lb/>
-jungen Mädchen selbst.</p><p>Aber, Gott sei Dank, das Küssen nimmt sich ganz anders aus,<lb/>
+jungen Mädchen selbst.</p>
+            <p>Aber, Gott sei Dank, das Küssen nimmt sich ganz anders aus,<lb/>
 wenn wir von der Epidermis und dem Schliessmuskel des Mundes ab-<lb break="no"/>
 sehen und uns in die Psyche begeben und dort die Scala von Empfin-<lb break="no"/>
 dungen und Ahnungen verfolgen, die mit dem Austausch jenes merk-<lb break="no"/>
 würdigen Symbols und seiner stummen Geberdensprache in uns erzeugt<lb/>
 werden, ja für die eigentlich die Berührung der Lippen nur das äusser·<lb/>
-liehe, oft nebensächliche Begleitzeichen bildet.</p><p>Jede zufällige, unbeabsichtigte, unvorhergesehene Berührung von<lb/>
+liehe, oft nebensächliche Begleitzeichen bildet.</p>
+            <p>Jede zufällige, unbeabsichtigte, unvorhergesehene Berührung von<lb/>
 Fleisch zu Fleisch, von Haut zu Haut, von Epidermis zu Epidermis<lb/>
 bei unseren Nebenmenschen, z. B. im Gedränge, ist uns peinlich und<lb/>
 äusserst zuwider. Fröstelnd ziehen wir uns von solchem Rencontre zu-<lb break="no"/>
@@ -87,7 +115,8 @@ Wohlwollenden, von einem uns Misswollenden, von einem gänzlich<lb/>
 Indifferenten, zu machen wissen, wie viel mehr bei einem so reich aus-<lb break="no"/>
 gestatteten nervösen Endorgan wie der Lippe, die schon mit Rück-<lb break="no"/>
 sicht auf ihre anderweitige Verwendung als Wächterin des Athmungs·<lb/>
-geschäftes und ihre Unabkömmlichkeit im Hinblick auf die Geberden-</p></div>
+geschäftes und ihre Unabkömmlichkeit im Hinblick auf die Geberden-</p>
+         </div>
       </body>
    </text>
 </TEI>

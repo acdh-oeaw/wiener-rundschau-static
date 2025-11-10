@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-01-02-24_n0943.xml"
-     prev="WR-01-02-24_n0942.xml"
-     next="WR-01-02-24_n0944.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-24_n0943.xml" prev="WR-01-02-24_n0942.xml" next="WR-01-02-24_n0944.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,15 +42,43 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 2</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 1, Halbbd. 2, Nr. 23</title>
+                  <idno>WR-01-02-23_n0865.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 0</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title><hi rend="text-spaced">NOTIZEN</hi>.</title></ab><table><row><cell>
-<milestone unit="untyped-start"/>
-<p>Slevogt. Das erste Gefühl<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">NOTIZEN</hi>.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="untyped-start"/>
+                     <p>Slevogt. Das erste Gefühl<lb/>
 beim Betreten des Saales ist ein<lb/>
 gewisses Erstaunen. Es gibt also<lb/>
 doch noch tapfere Männer in<lb/>
@@ -94,8 +119,9 @@ nicht mit der hochgradigen Ver-<lb break="no"/>
 feinerung des Intellects Hand in<lb/>
 Hand geht: daher der Mangel<lb/>
 eines einheitlichen Gepräges und</p>
-</cell><cell>
-<p rend="no-intend">einer deutlichen Physiognomie.<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">einer deutlichen Physiognomie.<lb/>
 Wir finden hier wieder einmal die<lb/>
 verzweifelten Versuche einer un-<lb break="no"/>
 leugbaren Individualität, sich mit<lb/>
@@ -135,9 +161,15 @@ des Schicksals in Deutschland zur<lb/>
 Welt kommen liess. Seither ist er<lb/>
 leider in der Plattheit socialisti-<lb break="no"/>
 scher Tendenzmalerei unterge-<lb break="no"/>
-gangen. <rs type="person" key=""><hi rend="italics">f. r.</hi></rs></p>
-<milestone unit="untyped-end"/>
-</cell></row></table></div>
+gangen. <rs type="person" key="">
+                           <hi rend="italics">f. r.</hi>
+                        </rs>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-12_n0447.xml"
-     prev="WR-02-01-12_n0446.xml"
-     next="WR-02-01-12_n0448.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-12_n0447.xml" prev="WR-02-01-12_n0446.xml" next="WR-02-01-12_n0448.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,43 +42,82 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 11</title>
+                  <idno>WR-02-01-11_n0401.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 13</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="verse-start"/><ab><title>MAUDALAY.<lb/>
+         <div type="page">
+            <milestone unit="verse-start"/>
+            <ab>
+               <title>MAUDALAY.<lb/>
 Aus den »Barrack-Room Ballads« von <rs type="person" key="">Rudyard Kipling</rs>.<lb/>
-Uebersetzt von <rs type="person" key="">Otto Sachs</rs> (<date>1897</date>).</title></ab><lg><l><hi rend="initial">Wo</hi> der alte Moulmein-Tempel ostwärts blinkt ins Meer hinein,</l>
-<l>Sitzt ein braunes Burmamädchen, und ich weiss, sie denkt</l>
-<l>jetzt mein.</l>
-<l>Denn der Wind geht in den Palmen, Tempelglocke singt dabei:</l>
-<l>Komm’ zurück, du Britenkrieger, komm zurück nach Maudalay.</l>
-<l>Komm’ zurück nach Maudalay!</l>
-<l>Von den Schiffen Reih’ an Reih’,</l>
-<l>Hörst du nicht die Ruder rauschen von Rangoon nach</l>
-<l>Maudalay?</l>
-<l>Dort am Weg nach Maudalay</l>
-<l>Spielt der Flugfisch, jagt der Hai;</l>
-<l>Und der Tag, von China dämmernd, streut ein Blitzen durch</l>
-<l>die Bai.</l></lg><lg><l>Und sie trug ein gelbes Röckchen, und ihr Häubchen, das</l>
-<l>war grün,</l>
-<l>Und sie nannt’ sich Lupi-gaw-lat, — grad’ wie Thebaws Königin.</l>
-<l>Eine Pfeife trug sie zierlich, als ich sie zuerst dort fand,</l>
-<l>Und bedeckt mit süssen Küssen eines irdnen Götzen Hand,</l>
-<l>Götzenbild aus Lehm gebrannt,</l>
-<l>Grosser Buddha — Gott genannt.</l>
-<l>Ah! Sie wandte Dir den Rücken, und ich küsst’ sie, wo sie stand.</l>
-<l>Dort am Weg nach Maudalay u. s. w.</l></lg><lg><l>Sank das Dunkel übers Reisfeld, zog die Sonne fort, dann oh,</l>
-<l>Seht, dann glitt sie aus der Hütte, und sie lockt’: Kullalolo!</l>
-<l>Wenn ihr Arm auf meiner Schulter, ihre Wang’ an meiner lag,</l>
-<l>Sah’n wir gern den fernen Dampfern, sah’n den Elephanten nach.</l>
-<l>Sah’n den Elephanten nach</l>
-<l>Patschend durch den schlammigen Bach —</l>
-<l>Pst! Nicht sprechen! ’s ist so ruhig und sonst wird die</l>
-<l>Stille wach.</l>
-<l>Dort am Weg nach Maudalay u. s. w.</l></lg></div>
+Uebersetzt von <rs type="person" key="">Otto Sachs</rs> (<date>1897</date>).</title>
+            </ab>
+            <lg>
+               <l>
+                  <hi rend="initial">Wo</hi> der alte Moulmein-Tempel ostwärts blinkt ins Meer hinein,</l>
+               <l>Sitzt ein braunes Burmamädchen, und ich weiss, sie denkt</l>
+               <l>jetzt mein.</l>
+               <l>Denn der Wind geht in den Palmen, Tempelglocke singt dabei:</l>
+               <l>Komm’ zurück, du Britenkrieger, komm zurück nach Maudalay.</l>
+               <l>Komm’ zurück nach Maudalay!</l>
+               <l>Von den Schiffen Reih’ an Reih’,</l>
+               <l>Hörst du nicht die Ruder rauschen von Rangoon nach</l>
+               <l>Maudalay?</l>
+               <l>Dort am Weg nach Maudalay</l>
+               <l>Spielt der Flugfisch, jagt der Hai;</l>
+               <l>Und der Tag, von China dämmernd, streut ein Blitzen durch</l>
+               <l>die Bai.</l>
+            </lg>
+            <lg>
+               <l>Und sie trug ein gelbes Röckchen, und ihr Häubchen, das</l>
+               <l>war grün,</l>
+               <l>Und sie nannt’ sich Lupi-gaw-lat, — grad’ wie Thebaws Königin.</l>
+               <l>Eine Pfeife trug sie zierlich, als ich sie zuerst dort fand,</l>
+               <l>Und bedeckt mit süssen Küssen eines irdnen Götzen Hand,</l>
+               <l>Götzenbild aus Lehm gebrannt,</l>
+               <l>Grosser Buddha — Gott genannt.</l>
+               <l>Ah! Sie wandte Dir den Rücken, und ich küsst’ sie, wo sie stand.</l>
+               <l>Dort am Weg nach Maudalay u. s. w.</l>
+            </lg>
+            <lg>
+               <l>Sank das Dunkel übers Reisfeld, zog die Sonne fort, dann oh,</l>
+               <l>Seht, dann glitt sie aus der Hütte, und sie lockt’: Kullalolo!</l>
+               <l>Wenn ihr Arm auf meiner Schulter, ihre Wang’ an meiner lag,</l>
+               <l>Sah’n wir gern den fernen Dampfern, sah’n den Elephanten nach.</l>
+               <l>Sah’n den Elephanten nach</l>
+               <l>Patschend durch den schlammigen Bach —</l>
+               <l>Pst! Nicht sprechen! ’s ist so ruhig und sonst wird die</l>
+               <l>Stille wach.</l>
+               <l>Dort am Weg nach Maudalay u. s. w.</l>
+            </lg>
+         </div>
       </body>
    </text>
 </TEI>

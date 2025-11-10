@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-13_n0269.xml"
-     prev="WR-05-13_n0268.xml"
-     next="WR-05-13_n0270.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-13_n0269.xml" prev="WR-05-13_n0268.xml" next="WR-05-13_n0270.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 12</title>
+                  <idno>WR-05-12_n0249.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 14</title>
+                  <idno>WR-05-14_n0279.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">HARTMANN: DIE OCCULTE WISSENSCHAFT.</fw></fw><table><row><cell>
-<p rend="no-intend">umso dichter, je tiefer sie sinkt. In<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">HARTMANN: DIE OCCULTE WISSENSCHAFT.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">umso dichter, je tiefer sie sinkt. In<lb/>
 der Gedankenwelt (<hi rend="text-spaced">Devachan</hi>) hüllt<lb/>
 sie sich instinctiv in die Substanz, aus<lb/>
 welcher die Gedanken bestehen; bei ihrem<lb/>
@@ -63,7 +78,7 @@ sischen Ebene einen noch gröberen mate-<lb break="no"/>
 riellen Körper, in welchem sie nur schwer<lb/>
 sich in ihrer wahren Natur als ein gött-<lb break="no"/>
 liches Wesen erkennt.</p>
-<p>Durch den Tod auf Erden legt sie<lb/>
+                     <p>Durch den Tod auf Erden legt sie<lb/>
 den physischen Körper, durch den Tod<lb/>
 auf der Astralebene den Astralkörper und<lb/>
 durch den Tod in der Himmelswelt den<lb/>
@@ -72,7 +87,7 @@ wieder zu ihrer wahren Selbstheit zurück,<lb/>
 wobei sie alles dasjenige mitbringt, was<lb/>
 sie auf Erden gewonnen hat und was<lb/>
 ihrer wahren Natur angemessen ist.</p>
-<p>Viele bringen nichts, andere Weniges<lb/>
+                     <p>Viele bringen nichts, andere Weniges<lb/>
 mit. Wenn die Seele während ihres Da-<lb break="no"/>
 seins kein höheres Bewusstsein, keine<lb/>
 höhere Erkenntnis erlangt hat, so kehrt<lb/>
@@ -88,7 +103,7 @@ erhebt und ihn zu einem wahren Sohn<lb/>
 Gottes, einem selbstbewussten Bewohner<lb/>
 der himmlischen Regionen macht — nicht<lb/>
 in seiner Phantasie, sondern in Wirklichkeit.</p>
-<p>So steigt der Occultist durch die drei<lb/>
+                     <p>So steigt der Occultist durch die drei<lb/>
 Welten zu Gott empor, auch ohne seinen<lb/>
 physischen Körper abzulegen. Indem sich<lb/>
 sein Astralkörper ausbildet, erlangt er das<lb/>
@@ -105,8 +120,9 @@ auch noch nach Belieben seinen Astral-<lb break="no"/>
 körper zeitweilig abstreifen und ein wahrer<lb/>
 Bewohner der Ideenwelt sein. Da alle äußer-<lb break="no"/>
 lichen Naturerscheinungen die schließlichen</p>
-</cell><cell>
-<p rend="no-intend">Offenbarungen geistiger Gesetze im Welt-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Offenbarungen geistiger Gesetze im Welt-<lb break="no"/>
 all sind, welche er kennt, hat er auch<lb/>
 einen tieferen Einblick in die Ursachen<lb/>
 derselben, als die materielle Wissenschaft,<lb/>
@@ -115,7 +131,7 @@ stehen. Dass es Menschen gibt, welche<lb/>
 diese Fähigkeiten erlangt haben, ist<lb/>
 Jedem, der sich mit diesem Studium ein-<lb break="no"/>
 gehend beschäftigt hat, bekannt.</p>
-<p>Das Endziel alles Daseins ist Vollkom-<lb break="no"/>
+                     <p>Das Endziel alles Daseins ist Vollkom-<lb break="no"/>
 menheit; deshalb ist für den Menschen<lb/>
 alles gut, was ihn erhebt, und alles schlecht,<lb/>
 was ihn erniedrigt. Was ihn erhebt, ist die<lb/>
@@ -141,7 +157,7 @@ ist sein Schutzgeist und Führer, und indem<lb/>
 er sich dieser Gnadensonne nähert, werden<lb/>
 ihm in deren Lichte die göttlichen<lb/>
 Geheimnisse klar.</p>
-<p>Auf diese Weise schafft der Mensch<lb/>
+                     <p>Auf diese Weise schafft der Mensch<lb/>
 die Bedingungen, unter denen er erleuchtet<lb/>
 werden kann; aber das Licht selbst kann<lb/>
 er nicht schaffen. Das Vorhandensein und<lb/>
@@ -158,9 +174,12 @@ sind nur Vorschulen zur Erlangung jener<lb/>
 occulten Erkenntnis, die den Menschen<lb/>
 zum Herrn des Himmels und der Welten<lb/>
 macht.</p>
-<p>Wieviel weiser würden unsere Ärzte<lb/>
+                     <p>Wieviel weiser würden unsere Ärzte<lb/>
 werden, wenn sie mit dem Auge des</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

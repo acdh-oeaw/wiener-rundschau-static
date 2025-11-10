@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-10_n0210.xml"
-     prev="WR-05-10_n0209.xml"
-     next="WR-05-10_n0211.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-10_n0210.xml" prev="WR-05-10_n0209.xml" next="WR-05-10_n0211.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 9</title>
+                  <idno>WR-05-09_n0189.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 11</title>
+                  <idno>WR-05-11_n0225.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BLEIBTREU: DIALOG ÜBER ESOTERISCHEN BUDDHISMUS.</fw></fw><table><row><cell>
-<p>— Sie wissen also nicht einmal, dass<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BLEIBTREU: DIALOG ÜBER ESOTERISCHEN BUDDHISMUS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>— Sie wissen also nicht einmal, dass<lb/>
 der esoterische Buddhismus das Karma<lb/>
 sogar auf die Weltkörper (Planeten) an-<lb break="no"/>
 wendet, die in ihrer Weise geradesogut<lb/>
@@ -67,8 +82,8 @@ zeigt an, dass ein Karma erfüllt war und<lb/>
 ein neues beginnt, ähnlich dem »Tod« des<lb/>
 Individualismus zu baldigem Wiederauf-<lb break="no"/>
 leben in anderer Form.</p>
-<p>— In »anderer« — auch in <hi rend="text-spaced">besserer</hi>?</p>
-<p>— Im allgemeinen ohne Zweifel. Doch<lb/>
+                     <p>— In »anderer« — auch in <hi rend="text-spaced">besserer</hi>?</p>
+                     <p>— Im allgemeinen ohne Zweifel. Doch<lb/>
 die Fortentwicklung kann auch in abstei-<lb break="no"/>
 gender Verschärfung erfolgen. Es wäre<lb/>
 möglich, dass ein menschlicher »Manas«<lb/>
@@ -105,15 +120,16 @@ Elend sich aufraffte. — Diese günstige<lb/>
 Evolution ist von Karma zu Karma durch<lb/>
 Erkenntnis des Leidens verursacht worden,<lb/>
 da das Leiden hauptsächlich den Zweck</p>
-</cell><cell>
-<p rend="no-intend">verfolgt, die eigene Sensitivität zu ver-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">verfolgt, die eigene Sensitivität zu ver-<lb break="no"/>
 feinern, so dass sie instinctiv die allge-<lb break="no"/>
 meine Leidenskette mitfühlt. Der Sinn<lb/>
 des gesammten Karma-Gesetzes und der<lb/>
 Weltordnung buddhistischer Anschauung<lb/>
 besteht eben darin, das <hi rend="text-spaced">isolierte</hi> Ich<lb/>
 deutlicher und immer deutlicher an seine<lb/>
-<hi rend="text-spaced">Nicht-Isolierung</hi> zu erinnern, ihm vom<lb/>
+                        <hi rend="text-spaced">Nicht-Isolierung</hi> zu erinnern, ihm vom<lb/>
 Ahnen bis zum Erkennen die Gewissheit<lb/>
 beizubringen, dass Ich kein eigentliches<lb/>
 Ich, sondern ein Spiegelbild des Du ist<lb/>
@@ -126,11 +142,11 @@ zurückzustreben und freudig darin unter-<lb break="no"/>
 zugehen habe. Dieser »Untergang« ist<lb/>
 gerade das wahre, das »ewige Leben«,<lb/>
 von dem auch Jesus spricht.</p>
-<p>— Jawohl, Nirwana. »Es gibt, ihr<lb/>
+                     <p>— Jawohl, Nirwana. »Es gibt, ihr<lb/>
 Jünger, eine Stätte, wo weder Raum ist<lb/>
 noch Zeit, weder Leben noch Tod« etc.<lb/>
 Wer kann sich solches vorstellen! Phrase!</p>
-<p>— Glauben Sie wirklich, dass in<lb/>
+                     <p>— Glauben Sie wirklich, dass in<lb/>
 Augenblicken religiöser oder dichterischer<lb/>
 Ekstase nicht eine klare Ahnung solches<lb/>
 seligen Zustandes keimt? Lesen Sie doch<lb/>
@@ -154,12 +170,15 @@ rung begeisterte All-Liebe, bis der Stachel<lb/>
 thörichter Selbstliebe erlischt und die<lb/>
 Täuschung des kleinen Ich nicht mehr<lb/>
 empfunden wird.</p>
-<p>— Kleines Ich? »Höchstes Glück der<lb/>
+                     <p>— Kleines Ich? »Höchstes Glück der<lb/>
 Erdenkinder ist doch die Persönlichkeit.«<lb/>
 Auf dem Individuellen ist alles aufgebaut,<lb/>
 und Nietzsche sagt so schön: »Die<lb/>
 Menschen sind nicht gleich.«</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

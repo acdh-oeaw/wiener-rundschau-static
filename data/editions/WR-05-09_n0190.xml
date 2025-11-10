@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-09_n0190.xml"
-     prev="WR-05-09_n0189.xml"
-     next="WR-05-09_n0191.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-09_n0190.xml" prev="WR-05-09_n0189.xml" next="WR-05-09_n0191.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 8</title>
+                  <idno>WR-05-08_n0159.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 10</title>
+                  <idno>WR-05-10_n0205.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">MALLARMÉ: AUF DEM JAHRMARKT.</fw></fw><table><row><cell>
-<p>Metamathematiker Gauß und Weber bis<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MALLARMÉ: AUF DEM JAHRMARKT.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Metamathematiker Gauß und Weber bis<lb/>
 zum Astrophysiker Zöllner. Alle diese<lb/>
 giengen von der Grundthatsache des Be-<lb break="no"/>
 wusstseins aus, welches, entelechistisch,<lb/>
@@ -65,8 +80,9 @@ zierte Äußerungen ein und derselben<lb/>
 Centralkraft. Man gelangt hier endlich<lb/>
 zu einem Standpunkt, von dem aus alles<lb/>
 auf der phänomenalen Sphäre mecha-</p>
-</cell><cell>
-<p rend="no-intend">nistisch Erklärbare als ästhetische Ab-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">nistisch Erklärbare als ästhetische Ab-<lb break="no"/>
 sicht erscheint; hierher gehört u. a. die<lb/>
 musikalische Erfassung astronomischer<lb/>
 Verhältnisse. Das Princip führt anderer-<lb break="no"/>
@@ -80,9 +96,21 @@ die heute übliche ist das Gegentheil<lb/>
 hievon — indem sie das Thema als<lb/>
 den Ursprung und Zweck des Materials<lb/>
 begreift.</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/><milestone unit="untyped-start"/><ab><title><hi rend="text-spaced">AUF DEM JAHRMARKT</hi>.<lb/>
-Von <rs type="person" key="">STEPHAN MALLARMÉ</rs>.</title></ab><table><row><cell>
-<p>Tiefe Stille! Es steht fest, dass die<lb/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">AUF DEM JAHRMARKT</hi>.<lb/>
+Von <rs type="person" key="">STEPHAN MALLARMÉ</rs>.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Tiefe Stille! Es steht fest, dass die<lb/>
 Frau an meiner Seite, träumerisch hin-<lb break="no"/>
 gestreckt, leise eingewiegt vom Schau-<lb break="no"/>
 keln des Wagens, dessen Räder ge-<lb break="no"/>
@@ -109,17 +137,18 @@ von allen Seiten zugleich erklang sinn-<lb break="no"/>
 loses, schrilles Johlen, ein triumphierender<lb/>
 Kesselpauken-Spectakel; kurz, eine<lb/>
 wahre Katzenmusik für das Ohr eines</p>
-</cell><cell>
-<p rend="no-intend">Jeden, der, abseits stehend, zu seinen<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Jeden, der, abseits stehend, zu seinen<lb/>
 Gedanken flüchtet und vor dem Getriebe<lb/>
 des Lebens zurückschreckt.</p>
-<p>»Der Jahrmarkt von H...« und<lb/>
+                     <p>»Der Jahrmarkt von H...« und<lb/>
 mit heller, fröhlicher Stimme nannte<lb/>
 das schöne Kind, das mit mir fuhr,<lb/>
 mir Zerstreuten den Namen irgend-<lb break="no"/>
 eines Vorortes; ich gehorchte und ließ<lb/>
 halten.</p>
-<p>Ohne für dieses unsanfte Erweckt-<lb break="no"/>
+                     <p>Ohne für dieses unsanfte Erweckt-<lb break="no"/>
 werden etwas anderes einzutauschen,<lb/>
 als das lebhafte Verlangen nach einer<lb/>
 einleuchtenden, logischen Erklärung,<lb/>
@@ -137,7 +166,10 @@ war; bereitwillig und ohne die geringste<lb/>
 unseres Programms zu bekunden, legt<lb/>
 sie unbefangen ihren Arm in den<lb/>
 meinen und wir durchwandern gemein-</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

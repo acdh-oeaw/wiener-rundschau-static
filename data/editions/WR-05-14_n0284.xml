@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-14_n0284.xml"
-     prev="WR-05-14_n0283.xml"
-     next="WR-05-14_n0285.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-14_n0284.xml" prev="WR-05-14_n0283.xml" next="WR-05-14_n0285.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 13</title>
+                  <idno>WR-05-13_n0265.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 15</title>
+                  <idno>WR-05-15_n0295.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">KÜHLENBECK: DAS WELTALL UND DAS INDIVIDUUM.</fw></fw><table><row><cell>
-<p rend="no-intend">Ich. Nun ist freilich dieses Moment-Ich,<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KÜHLENBECK: DAS WELTALL UND DAS INDIVIDUUM.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Ich. Nun ist freilich dieses Moment-Ich,<lb/>
 das wir unseren Gedanken nennen, nicht<lb/>
 unser All-Ich, unsere Monas oder wie<lb/>
 immer wir unseren beharrenden Wesens-<lb break="no"/>
@@ -63,7 +78,7 @@ und die Welt-Individualität sind identisch.<lb/>
 Nennen wir letztere Gott oder Gottheit,<lb/>
 so ist die Gottheit in uns Alpha und<lb/>
 Omega aller Mystik.</p>
-<p>Wir sind unsterblich, weil wir sind.<lb/>
+                     <p>Wir sind unsterblich, weil wir sind.<lb/>
 Wir sind unendlich, sobald wir dies er-<lb break="no"/>
 kennen. Die ganze äußere Welt ist nichts<lb/>
 als die unendlich fortwirkende That ihres<lb/>
@@ -72,7 +87,7 @@ unsere innere Welt zusammenhält.<lb/>
 Ich muss hier den Anfang des Capitels:<lb/>
 Epimenides aus Carlyles französischer<lb/>
 Revolution citieren:</p>
-<p>»Wie wahr, dass in dieser Welt nichts<lb/>
+                     <p>»Wie wahr, dass in dieser Welt nichts<lb/>
 todt ist, dass das, was man todt nennt,<lb/>
 nur verändert ist, indem die Kräfte ent-<lb break="no"/>
 gegengesetzt wirken! Das Blatt, das im<lb/>
@@ -105,8 +120,9 @@ kenntlich oder bald für uns verborgen,<lb/>
 für immer wirken und wachsen.« — Ich<lb/>
 erinnere an das indische Karma. Indi-<lb break="no"/>
 viduum sein heißt Karma sein. — »Oder</p>
-</cell><cell>
-<p rend="no-intend">was ist die Unendlichkeit der Dinge selbst,<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">was ist die Unendlichkeit der Dinge selbst,<lb/>
 die man Welt nennt, anders als eine That,<lb/>
 eine Totalsumme von Thaten und Thätig-<lb break="no"/>
 keiten? Die lebendige, fertige Totalsumme<lb/>
@@ -136,7 +152,7 @@ und wogt es um dich her, ja du selbst<lb/>
 bist ein Theil davon in dem Raume, wo<lb/>
 du stehst, in dem Augenblick, den deine<lb/>
 Uhr misst.«</p>
-<p>Freilich nicht mit dem bloßen Verstande<lb/>
+                     <p>Freilich nicht mit dem bloßen Verstande<lb/>
 will die Weltformel Heraklits, den man<lb/>
 nicht den dunklen, sondern den lichten<lb/>
 nennen sollte, erfasst sein. Das hat wohl<lb/>
@@ -158,9 +174,12 @@ so das Wesen des Höchsten und Besten<lb/>
 mehr und mehr erkennen und das Erkannte<lb/>
 zum Gesetze geben in des Geistes mannig-<lb break="no"/>
 faltigen Gebieten.</p>
-<p>Seht ihr nun, warum besonders die<lb/>
+                     <p>Seht ihr nun, warum besonders die<lb/>
 Athener auch ein philosophisches Volk</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-13_n0271.xml"
-     prev="WR-05-13_n0270.xml"
-     next="WR-05-13_n0272.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-13_n0271.xml" prev="WR-05-13_n0270.xml" next="WR-05-13_n0272.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,20 +41,40 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 12</title>
+                  <idno>WR-05-12_n0249.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 14</title>
+                  <idno>WR-05-14_n0279.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>SUGGESTION ALS PSYCHOLOGISCHES HAUPTMOMENT<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>SUGGESTION ALS PSYCHOLOGISCHES HAUPTMOMENT<lb/>
 IN DER KUNST.<lb/>
-Von <rs type="person" key="">W. <hi rend="text-spaced">KUHAUPT</hi></rs> (Berlin).</title></ab><table><row><cell>
-<p>Unter Suggestion verstehen wir die<lb/>
+Von <rs type="person" key="">W. <hi rend="text-spaced">KUHAUPT</hi>
+                  </rs> (Berlin).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Unter Suggestion verstehen wir die<lb/>
 Erweckung von Gefühlen und Vorstellun-<lb break="no"/>
 gen in einem für psychische Übertragungen<lb/>
 zugänglichen Menschen.</p>
-<p>Am deutlichsten tritt uns das Wesen<lb/>
+                     <p>Am deutlichsten tritt uns das Wesen<lb/>
 der Suggestion in der Hypnose entgegen.<lb/>
 Hier werden die eigenen Gedanken und<lb/>
 Empfindungen des im hypnotischen Schlafe<lb/>
@@ -69,7 +86,7 @@ Gedanke wird dadurch isoliert, von den<lb/>
 eigenen Vorstellungen losgelöst und kann<lb/>
 nun mit viel größerer Kraft in Wirkung<lb/>
 treten.</p>
-<p>Während im normalen, im Wach-<lb break="no"/>
+                     <p>Während im normalen, im Wach-<lb break="no"/>
 zustande Gedankenbilder und Gefühle nie-<lb break="no"/>
 mals rein, sondern stets vermischt und<lb/>
 mit anderen verhäkelt auftreten, ist in<lb/>
@@ -83,22 +100,23 @@ ausgeschaltet; er steht unter dem mono-<lb break="no"/>
 ideistischen Einflusse des ihm suggerierten<lb/>
 Gedankens und führt das aus, was der<lb/>
 Hypnotiseur will und verlangt.</p>
-<p>Diese Thatsache ist von höchster Be-<lb break="no"/>
+                     <p>Diese Thatsache ist von höchster Be-<lb break="no"/>
 deutung und gibt uns Aufklärungen über<lb/>
 mancherlei Erscheinungen, die bisher in<lb/>
 den Schleier des Problems gehüllt waren;<lb/>
 sie wirft auch, wie wir sehen werden,<lb/>
 ein helles Schlaglicht auf das künstlerische<lb/>
 Schaffen und den Kunstgenuss.</p>
-<p>Wenn wir nämlich den Begriff der<lb/>
+                     <p>Wenn wir nämlich den Begriff der<lb/>
 Suggestion im weiten Sinne erfassen, so<lb/>
 merken wir bald, dass es auch eine Wach-<lb break="no"/>
 Suggestion gibt, ja dass gerade diese der<lb/>
 mächtigste Factor im geistigen Leben der<lb/>
 Menschheit ist, dass sie die größte Rolle<lb/>
 spielt in den Sitten, Gebräuchen, Moden</p>
-</cell><cell>
-<p rend="no-intend">und in der Erziehung des Menschen.<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">und in der Erziehung des Menschen.<lb/>
 Durch Wort und Beispiel üben wir fort-<lb break="no"/>
 während einen Einfluss auf unsere Um-<lb break="no"/>
 gebung aus; andererseits empfangen wir<lb/>
@@ -106,13 +124,13 @@ durch den suggestiven Einfluss, den die<lb/>
 Umgebung auf uns ausübt, bis zu einem<lb/>
 gewissen Grade unsere körperliche und<lb/>
 geistige Prägung.</p>
-<p>Die Wach-Suggestion ist von der hypno-<lb break="no"/>
+                     <p>Die Wach-Suggestion ist von der hypno-<lb break="no"/>
 tischen nur graduell verschieden. In der<lb/>
 hypnotischen Suggestion haben wir, man<lb/>
 könnte sagen, den tiefsten Contrapunkt-<lb break="no"/>
 ton in der Scala seelischer Zwangsvor-<lb break="no"/>
 stellungen, geistiger Fesselungen.</p>
-<p>Alles, was uns auf unserem Lebens-<lb break="no"/>
+                     <p>Alles, was uns auf unserem Lebens-<lb break="no"/>
 pfade in den Weg tritt, übt einen Einfluss<lb/>
 auf uns aus, ruft eine gewisse Veränderung<lb/>
 in uns hervor. Freilich sind die Wirkungen,<lb/>
@@ -142,7 +160,10 @@ und Empfindungen loszuschälen und zu<lb/>
 isolieren vermag, umso getreuer und<lb/>
 glänzender wird seine künstlerische Dar-<lb break="no"/>
 stellung sein.</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-12_n0259.xml"
-     prev="WR-05-12_n0258.xml"
-     next="WR-05-12_n0260.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-12_n0259.xml" prev="WR-05-12_n0258.xml" next="WR-05-12_n0260.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 11</title>
+                  <idno>WR-05-11_n0225.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 13</title>
+                  <idno>WR-05-13_n0265.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BLEIBTREU: »ARBEIT«.</fw></fw><table><row><cell>
-<p rend="no-intend">liche Züge verrathend. Sie appellieren<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BLEIBTREU: »ARBEIT«.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">liche Züge verrathend. Sie appellieren<lb/>
 nicht nur an unser Mitleid, sondern geben<lb/>
 uns die Zuversicht, dass man ihr sittliches<lb/>
 und geistiges Niveau durch bessere Lebens-<lb break="no"/>
@@ -91,7 +106,7 @@ höherer Zinne, in »Arbeit« mitten in der<lb/>
 Partei, und was dabei herauskam, war ein<lb/>
 unkünstlerisches, tendenziöses, rhetorisches<lb/>
 Parteimanifest.</p>
-<p>Nicht als ob Zolas unvergleichliche<lb/>
+                     <p>Nicht als ob Zolas unvergleichliche<lb/>
 Kunstkräfte an sich gelitten hätten. Die<lb/>
 Anfangsuntermalung der Milieu-Situation<lb/>
 zeugt von der alten, treffsicheren Meister-<lb break="no"/>
@@ -105,8 +120,9 @@ stille Gelehrte Jordan ist durchaus lebens-<lb break="no"/>
 möglich, derlei »Helden der Wissenschaft«<lb/>
 können aber als wirkliche Helden<lb/>
 höchstens den anderen Verlehrten gegen-</p>
-</cell><cell>
-<p>über gelten, die ihren Specialistenkram<lb/>
+                  </cell>
+                  <cell>
+                     <p>über gelten, die ihren Specialistenkram<lb/>
 für den Nabel der Erde und ihre persön-<lb break="no"/>
 liche Eitelkeit für Majestät der Wissen-<lb break="no"/>
 schaft ausgeben. Dass aber ein reicher,<lb/>
@@ -160,7 +176,10 @@ der Regel und kann immerdar »erweckt«<lb/>
 werden, wenn die Zeit erfüllt ist. Hier<lb/>
 aber endet unsere Concession an die Ein-<lb break="no"/>
 bildungskraft des Dichters. Denn was</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

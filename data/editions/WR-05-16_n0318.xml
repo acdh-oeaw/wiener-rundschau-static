@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-16_n0318.xml"
-     prev="WR-05-16_n0317.xml"
-     next="WR-05-16_n0319.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-16_n0318.xml" prev="WR-05-16_n0317.xml" next="WR-05-16_n0319.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 15</title>
+                  <idno>WR-05-15_n0295.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 17</title>
+                  <idno>WR-05-17_n0327.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">GUMPPENBERG: DAS WESEN DES OPFERS.</fw></fw><table><row><cell>
-<p rend="no-intend">Dieses Gefühl der Verpflichtung war aller-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">GUMPPENBERG: DAS WESEN DES OPFERS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Dieses Gefühl der Verpflichtung war aller-<lb break="no"/>
 dings eng mit der Idee verknüpft, dass<lb/>
 ihre Ausübung für sein eigenes Wohlergehen<lb/>
 nothwendig sei und dass der Wunsch nach<lb/>
@@ -70,7 +85,7 @@ Auslieferung von etwas Wertvollem identi-<lb break="no"/>
 ficiert, eine Auslieferung, die einem Gefühl<lb/>
 der Verpflichtung und dem Wunsch nach<lb/>
 gedeihlicher Fortdauer entsprang.</p>
-<p>Die nächste Lection verlegte den Lohn<lb/>
+                     <p>Die nächste Lection verlegte den Lohn<lb/>
 für das Opfer in eine Region jenseits der<lb/>
 physischen Welt. Zuerst war durch ein<lb/>
 Opfer materieller Güter materielles Wohl-<lb break="no"/>
@@ -105,8 +120,9 @@ zu regeln, dass er sie in nützliche Canäle<lb/>
 leitet; er wurde geschult, die Form zu<lb/>
 bezwingen und dem Leben unterthänig zu<lb/>
 machen; den Körper daran zu gewöhnen,</p>
-</cell><cell>
-<p rend="no-intend">sich zu guten und barmherzigen Werken<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">sich zu guten und barmherzigen Werken<lb/>
 herzugeben, im Gehorsam gegen die For-<lb break="no"/>
 derungen des Intellects; selbst dann, wenn<lb/>
 dieser in der Hauptsache von einem Ver-<lb break="no"/>
@@ -136,7 +152,7 @@ schritt, das Hängen an dieser physischen<lb/>
 Form überwunden und die unsichtbare<lb/>
 Welt als so real erkannt zu haben, dass<lb/>
 sie die sichtbare überwog.</p>
-<p>Die nächst höhere Stufe wurde erreicht,<lb/>
+                     <p>Die nächst höhere Stufe wurde erreicht,<lb/>
 als in dem Menschen definitiv das Gefühl<lb/>
 der Pflicht erwachte, als ihm die Über-<lb break="no"/>
 zeugung gekommen war, dass es einfach<lb/>
@@ -160,7 +176,10 @@ wickelnden Leben zu identificieren. Dies<lb/>
 brachte ihn allmählich auf den Standpunkt<lb/>
 der Gleichgiltigkeit gegen jede Thätigkeit<lb/>
 der Form, ausgenommen gegen die, welche</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

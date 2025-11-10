@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-10_n0211.xml"
-     prev="WR-05-10_n0210.xml"
-     next="WR-05-10_n0212.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-10_n0211.xml" prev="WR-05-10_n0210.xml" next="WR-05-10_n0212.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 9</title>
+                  <idno>WR-05-09_n0189.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 11</title>
+                  <idno>WR-05-11_n0225.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BLEIBTREU: DIALOG ÜBER ESOTERISCHEN BUDDHISMUS.</fw></fw><table><row><cell>
-<p>— Es braucht kein Geist vom Irren-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BLEIBTREU: DIALOG ÜBER ESOTERISCHEN BUDDHISMUS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>— Es braucht kein Geist vom Irren-<lb break="no"/>
 hause herzukommen, um das zu sagen.<lb/>
 O Sie unlogischer Logiker! Sehen Sie denn<lb/>
 nicht, dass das, was Goethe meint und<lb/>
@@ -93,7 +108,7 @@ der in ewiger Wiederkehr »gleichen«<lb/>
 Daseinsbedingungen zukommen, d. h. sozu-<lb break="no"/>
 sagen <hi rend="text-spaced">leihweise</hi> mit bestimmter Kün-<lb break="no"/>
 digungsfrist verliehen sind.</p>
-<p>— Ob leihweise oder nicht! Zwar<lb/>
+                     <p>— Ob leihweise oder nicht! Zwar<lb/>
 muss ich zurücknehmen, was ich theore-<lb break="no"/>
 tisch gegen das <hi rend="text-spaced">Princip</hi> des Karma<lb/>
 äußerte, nach Ihrer neuen Auffassung der<lb/>
@@ -105,8 +120,9 @@ ich damit zusammenreimen, dass der<lb/>
 Buddhismus nun dennoch den <hi rend="text-spaced">Abfall<lb/>
 vom Ich</hi>, ja dessen Zerstörung predigt.<lb/>
 Das Ich ist unsere Kraft und Freude.</p>
-</cell><cell>
-<p>— Kraft allerdings! Es ist unser Mittel,<lb/>
+                  </cell>
+                  <cell>
+                     <p>— Kraft allerdings! Es ist unser Mittel,<lb/>
 unsere Waffe zur Evolution unseres Karma,<lb/>
 um höhere Stufen zu erringen und durch<lb/>
 kämpfende Erfahrung immer vielseitiger<lb/>
@@ -158,9 +174,13 @@ der Materie wund, daher sein dauerndes<lb/>
 Unbehagen. Und nun vergleichen Sie damit,<lb/>
 wie der große, unselige Byron sich vom<lb/>
 Ich zu erlösen wusste. Indes die winselnden<lb/>
-Ich-Poeten, Affen <hi rend="text-spaced">seines</hi> echten <hi rend="text-spaced">Welt-</hi><lb/>
+Ich-Poeten, Affen <hi rend="text-spaced">seines</hi> echten <hi rend="text-spaced">Welt-</hi>
+                        <lb/>
 schmerzes, sich fieberisch im Kreise drehen,</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

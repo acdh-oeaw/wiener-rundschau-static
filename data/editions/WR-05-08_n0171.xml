@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-08_n0171.xml"
-     prev="WR-05-08_n0170.xml"
-     next="WR-05-08_n0172.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-08_n0171.xml" prev="WR-05-08_n0170.xml" next="WR-05-08_n0172.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,22 +41,40 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 7</title>
+                  <idno>WR-05-07_n0141.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 9</title>
+                  <idno>WR-05-09_n0189.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">WEISS: ÜBER DEN MODERNEN HOLZSCHNITT.</fw></fw><table><row><cell>
-<p>Jene Zeichnungen waren völlig im<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">WEISS: ÜBER DEN MODERNEN HOLZSCHNITT.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Jene Zeichnungen waren völlig im<lb/>
 Sinn eines Holzschnittes gemacht. An-<lb break="no"/>
 fangs hielt ich sie dafür. Seine Holz-<lb break="no"/>
 schnitte sehen nicht anders aus. Zum<lb/>
 Beispiel das wundervolle große Blatt<lb/>
 im »Germinal«, der großen graphischen<lb/>
 Publication Meier-Graefes.</p>
-<milestone unit="asterisk"/>
-<p>Es gibt heute Viele, die Holzschnitte<lb/>
+                     <milestone unit="asterisk"/>
+                     <p>Es gibt heute Viele, die Holzschnitte<lb/>
 machen. Sie alle kleben an der Dar-<lb break="no"/>
 stellung der Erscheinung. Der Holz-<lb break="no"/>
 schnitt ist einer geschickten Hand<lb/>
@@ -96,7 +111,7 @@ keit den Charakter des Pinselstriches<lb/>
 im Schnitt festhalten, und der Effect<lb/>
 — ist eine gedruckte Pinselzeichnung,<lb/>
 aber kein Holzschnitt.</p>
-<p>Die Holzschnitte in der Publication<lb/>
+                     <p>Die Holzschnitte in der Publication<lb/>
 des William Morris, zumeist von Burne-<lb break="no"/>
 Jones entworfen, sind Federzeichnungen<lb/>
 und ebensowenig Holzschnitte. Kein<lb/>
@@ -104,8 +119,9 @@ Hauch von Kraft, Tiefe, Farbe, deren der<lb/>
 Holzschnitt fähig ist. Reine Strichholz-<lb break="no"/>
 schnitte »sind auch die nach Zeichnungen<lb/>
 von Karel Doudelet in einigen der hüb-</p>
-</cell><cell>
-<p rend="no-intend">schen, von ihm illustrierten Bände. Naive<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">schen, von ihm illustrierten Bände. Naive<lb/>
 Menschen nennen ihn und Minne in<lb/>
 einem Athem. Nichts ist falscher. Dou-<lb break="no"/>
 delet hat einige schöne Zeichnungen<lb/>
@@ -122,8 +138,8 @@ Original-Holzschnitte von ihm. Möglich,<lb/>
 dass ihn in solchen, wenn sie existieren,<lb/>
 der Zwang des Materials heilsam<lb/>
 beeinflusst hat.</p>
-<milestone unit="asterisk"/>
-<p>Jedoch stellen seine Arbeiten über<lb/>
+                     <milestone unit="asterisk"/>
+                     <p>Jedoch stellen seine Arbeiten über<lb/>
 denen eines Anderen, dessen Holz-<lb break="no"/>
 schnitte neuerdings in Deutschland<lb/>
 sich eines gewissen Rufes erfreuen,<lb/>
@@ -158,7 +174,10 @@ das, wenn ich nicht irre, der senil ge-<lb break="no"/>
 wordene »Pan« publiciert hat, kurz vor<lb/>
 seinem Tode. Diese Blätter können auch<lb/>
 in keiner Weise — wenn sie selbst</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

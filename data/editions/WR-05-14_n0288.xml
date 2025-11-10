@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-14_n0288.xml"
-     prev="WR-05-14_n0287.xml"
-     next="WR-05-14_n0289.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-14_n0288.xml" prev="WR-05-14_n0287.xml" next="WR-05-14_n0289.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 13</title>
+                  <idno>WR-05-13_n0265.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 15</title>
+                  <idno>WR-05-15_n0295.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">MAUCLAIR: ÜBER DEN GEGENWÄRTIGEN STAND DER LITERARISCHEN KRITIK.</fw></fw><table><row><cell>
-<p>von unseren Kritikern am meisten, ein<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MAUCLAIR: ÜBER DEN GEGENWÄRTIGEN STAND DER LITERARISCHEN KRITIK.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>von unseren Kritikern am meisten, ein<lb/>
 Essayist von hohem Gedankenfluge, ein<lb/>
 trefflicher Rathgeber mit großmüthiger,<lb/>
 umfassender Weltanschauung zu werden.<lb/>
@@ -105,8 +120,9 @@ Werte geschrieben, die einen der schönsten<lb/>
 Essais bildet, die die französische Litera-<lb break="no"/>
 tur seit dreißig Jahren hervorgebracht<lb/>
 hat. Bourget wird vielleicht seinen »Essais«</p>
-</cell><cell>
-<p rend="no-intend">den bedeutendsten Theil der Achtung ver-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">den bedeutendsten Theil der Achtung ver-<lb break="no"/>
 danken, den ihm die wahrhaft Gebildeten<lb/>
 zollen. Jules de Gaultiers Essai über<lb/>
 Kant verräth eine kritische Gewissen-<lb break="no"/>
@@ -127,7 +143,7 @@ Tradition von Taine, Baudelaire, Emerson<lb/>
 wieder aufzunehmen, die Jury des nationalen<lb/>
 Geisteslebens zu bilden und die fran-<lb break="no"/>
 zösische Kritik neu zu erschaffen.</p>
-<p>Eine wunderbare Aufgabe wäre ihnen<lb/>
+                     <p>Eine wunderbare Aufgabe wäre ihnen<lb/>
 beschieden. Doch sie müssten jede Ver-<lb break="no"/>
 bindung mit den Tageszeitungen abbrechen,<lb/>
 um ihren Stil und ihre Urtheilskraft nicht<lb/>
@@ -160,7 +176,10 @@ druck zu überwinden, könnten in Ruhe<lb/>
 urtheilen und fehlerfrei den genauen Platz<lb/>
 bestimmen, den ein Autor in einer jähr-<lb break="no"/>
 lichen literarischen Bewegung einge-</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

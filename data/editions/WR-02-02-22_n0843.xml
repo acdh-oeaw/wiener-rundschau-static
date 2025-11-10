@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-22_n0843.xml"
-     prev="WR-02-02-22_n0842.xml"
-     next="WR-02-02-22_n0844.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-22_n0843.xml" prev="WR-02-02-22_n0842.xml" next="WR-02-02-22_n0844.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,14 +42,44 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 21</title>
+                  <idno>WR-02-02-21_n0785.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 23</title>
+                  <idno>WR-02-02-23_n0865.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">STÉPHANE MALLARMÉ.</fw><fw type="pn">843</fw></fw><p rend="no-intend">muss dem Leser die Stimmung, die der Dichter auszudrücken gedachte,<lb/>
-suggerieren.</p><p>Sicherlich sind die kleinen Prosadichtungen des Baudelaire<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">STÉPHANE MALLARMÉ.</fw>
+               <fw type="pn">843</fw>
+            </fw>
+            <p rend="no-intend">muss dem Leser die Stimmung, die der Dichter auszudrücken gedachte,<lb/>
+suggerieren.</p>
+            <p>Sicherlich sind die kleinen Prosadichtungen des Baudelaire<lb/>
 im ganzen entzückend, dennoch sind manche darunter allzu weit-<lb break="no"/>
 schweifig und ergehen sich oftmals in ferner liegenden Einzelnheiten,<lb/>
 die ihre Wirkung abschwächen. Ihnen scheinen nur die des Mallarmé<lb/>
@@ -63,12 +90,15 @@ die der belgische Verleger Deman im Jahre <date>1891</date> unter dem Titel:<lb/
 »Pages« vereinigte, bilden in ihrer grossen Klarheit und Verständ-<lb break="no"/>
 lichkeit, einen lebhaften Gegensatz zu Mallarmés sonstigen Werken,<lb/>
 ein Winkelchen, das allen zugänglich ist, an dem sich alle erfreuen<lb/>
-können.</p><p>Aber um den Prosaschriftsteller Mallarmé erschöpfend zu kennen,<lb/>
+können.</p>
+            <p>Aber um den Prosaschriftsteller Mallarmé erschöpfend zu kennen,<lb/>
 ist es nothwendig, nebst seinen kunstkritischen Essays, die unter dem<lb/>
 Namen: »La Musique et les Lettres« vereinigt sind, auch seine Über-<lb break="no"/>
 setzung der poetischen Werke des Edgar Poe, seine Vorreden zu<lb/>
 »Vathek« und seinen Vortrag über Villiers de l’Isle Adam kennen<lb/>
-zu lernen.</p><milestone unit="asterismUp"/><p>Als Schluss dieses Überblickes über die Kunstanschauung des<lb/>
+zu lernen.</p>
+            <milestone unit="asterismUp"/>
+            <p>Als Schluss dieses Überblickes über die Kunstanschauung des<lb/>
 Mallarmé und zur Charakterisierung seines Lebenswerkes, über das<lb/>
 sich heute noch kein Urtheil fällen lässt, das aber jedesfalls Achtung<lb/>
 gebietet, als das Werk, in das ein gewaltiger, vornehmer Künstler<lb/>
@@ -83,7 +113,10 @@ yeux qu’aux intéressés à ne rien voir. Cette oeuvre existe, tout le<lb/>
 monde l’a tentée sans le savoir, il n’est pas un génie ou un pitre,<lb/>
 ayant prononcé une parole, que n’en ait retrouvé un trait sans le<lb/>
 savoir. Montrer cela, et soulever un coin du voile de ce que peut être<lb/>
-pareil poème, est dans un isolement mon plaisir et ma torture.«</p><milestone unit="untyped-end"/><milestone unit="hr"/></div>
+pareil poème, est dans un isolement mon plaisir et ma torture.«</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
       </body>
    </text>
 </TEI>

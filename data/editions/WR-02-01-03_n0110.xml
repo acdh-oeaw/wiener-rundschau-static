@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-03_n0110.xml"
-     prev="WR-02-01-03_n0109.xml"
-     next="WR-02-01-03_n0111.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-03_n0110.xml" prev="WR-02-01-03_n0109.xml" next="WR-02-01-03_n0111.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,14 +42,44 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 2</title>
+                  <idno>WR-02-01-02_n0041.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 4</title>
+                  <idno>WR-02-01-04_n0121.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">110</fw><fw type="ctext">MAETERLINCK.</fw></fw><p rend="no-intend">sie nicht einzuschläfern. Vielleicht ist das Herabsteigen schwerer als<lb/>
-das Sicherheben.</p><p>Ist es nicht schwer, dem Meere oder der Nacht gegenüber nur<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">110</fw>
+               <fw type="ctext">MAETERLINCK.</fw>
+            </fw>
+            <p rend="no-intend">sie nicht einzuschläfern. Vielleicht ist das Herabsteigen schwerer als<lb/>
+das Sicherheben.</p>
+            <p>Ist es nicht schwer, dem Meere oder der Nacht gegenüber nur<lb/>
 an gewöhnliche Dinge zu denken? Und welche Seele weiss nicht, dass<lb/>
 sie immer dem Meere und einer ewigen Nacht gegenübersteht? Wenn<lb/>
 wir weniger Furcht vor der Schönheit hätten, würden wir schliesslich<lb/>
@@ -65,7 +92,8 @@ um uns herum versammelt wie kleine Kinder vor einem wunderbaren Palast.<lb/>
 Sie drängen sich auf der Schwelle, sie flüstern, sie gucken durch die<lb/>
 Spalten, aber sie trauen sich nicht, die Thüre aufzustossen. Sie warten,<lb/>
 bis jemand Grosser sie ihnen öffnen kommt. Aber dieser Grosse kommt<lb/>
-fast nie.</p><p>Und was gehört denn dazu, dieser Grosse, sehnlichst Erhoffte zu<lb/>
+fast nie.</p>
+            <p>Und was gehört denn dazu, dieser Grosse, sehnlichst Erhoffte zu<lb/>
 werden? Fast nichts. Die Seelen sind nicht anspruchsvoll. Ein fast<lb/>
 schöner Gedanke, den ihr nicht aussprecht, und den ihr in einem<lb/>
 gewissen Augenblicke nährt, durchleuchtet euch wie ein durchsichtiges<lb/>
@@ -83,7 +111,8 @@ Gedanke, der alles Schöne und Tiefe leugnet, genügt, <hi rend="text-spaced">um
 Existenz</hi> in der Seele dieser Frau für immer zu vergiften. »Ich<lb/>
 habe,« sagte mir ein Weiser, »nie eine Frau gekannt, die mir nicht<lb/>
 etwas Grosses entgegengebracht hatte.« Vor Allem war <hi rend="text-spaced">er</hi> gross, das<lb/>
-war sein Geheimniss.</p><p>Nur eines verzeiht eine Seele nie: wenn sie eine hässliche That,<lb/>
+war sein Geheimniss.</p>
+            <p>Nur eines verzeiht eine Seele nie: wenn sie eine hässliche That,<lb/>
 einen hässlichen Gedanken, ein hässliches Wort sehen, streifen und<lb/>
 theilen musste. Sie kann es nicht verzeihen, denn verzeihen hiesse<lb/>
 hier, sich selbst verleugnen. Und heisst nicht dennoch klug, stark, ge-<lb break="no"/>
@@ -94,7 +123,8 @@ die Frau, die der Wahrheit noch viel näher ist, fast nie einen Augen-<lb break=
 blick wahrhaften Lebens mit ihnen gemeinsam. Man könnte glauben,<lb/>
 sie haben Furcht, ihre Seele zu treffen; sorgfältig halten sie sich<lb/>
 tausend Meilen weit von ihrer Schönheit. Man sollte im Gegentheil<lb/>
-bemüht sein, vor sich einherzuschreiten. Denket oder saget jetzt Dinge,</p></div>
+bemüht sein, vor sich einherzuschreiten. Denket oder saget jetzt Dinge,</p>
+         </div>
       </body>
    </text>
 </TEI>

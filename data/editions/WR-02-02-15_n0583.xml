@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-15_n0583.xml"
-     prev="WR-02-02-15_n0582.xml"
-     next="WR-02-02-15_n0584.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-15_n0583.xml" prev="WR-02-02-15_n0582.xml" next="WR-02-02-15_n0584.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,14 +42,65 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 14</title>
+                  <idno>WR-02-02-14_n0521.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 16</title>
+                  <idno>WR-02-02-16_n0601.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">SCENE AUS »FANTASIO«.</fw><fw type="pn">583</fw></fw><milestone unit="speech-start"/><p><hi rend="text-spaced">Spark</hi>. Geh’ nach Frankreich.</p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Fantasio</hi>. Es gibt keinen guten Rheinwein in Paris.</p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Spark</hi>. Geh’ nach England.</p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Fantasio</hi>. Ich bin in England. Haben die Engländer ein<lb/>
-Vaterland? Ich seh’ sie hier so gern wie in ihrer Heimat.</p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Spark</hi>. Geh’ also zum Teufel.</p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Fantasio</hi>. Oh! wenn es einen Teufel im Himmel gäbe! Wenn<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">SCENE AUS »FANTASIO«.</fw>
+               <fw type="pn">583</fw>
+            </fw>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Spark</hi>. Geh’ nach Frankreich.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Fantasio</hi>. Es gibt keinen guten Rheinwein in Paris.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Spark</hi>. Geh’ nach England.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Fantasio</hi>. Ich bin in England. Haben die Engländer ein<lb/>
+Vaterland? Ich seh’ sie hier so gern wie in ihrer Heimat.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Spark</hi>. Geh’ also zum Teufel.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Fantasio</hi>. Oh! wenn es einen Teufel im Himmel gäbe! Wenn<lb/>
 es eine Hölle gäbe! Ich würde mir eine Kugel vor den Kopf schiessen,<lb/>
 all das zu schau’n. Welch erbärmliches Ding ist doch der Mensch!<lb/>
 Man kann nicht aus dem Fenster springen, ohne sich die Beine zu<lb/>
@@ -61,17 +109,39 @@ Musiker zu werden! Lernen, um Maler, lernen, um Stallknecht zu<lb/>
 sein! Lernen, um eine Omelette zu bereiten! Weisst Du, Spark, ich<lb/>
 habe Lust, mich auf ein Geländer zu setzen, den fliessenden Strom<lb/>
 zu betrachten und zu zählen: eins, zwei, drei, vier, fünf, sechs, sieben,<lb/>
-und so weiter bis zu meiner Sterbestunde.</p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Spark</hi>. Was Du da sagst, würde viele zum Lachen reizen;<lb/>
+und so weiter bis zu meiner Sterbestunde.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Spark</hi>. Was Du da sagst, würde viele zum Lachen reizen;<lb/>
 mich macht es erbeben: das ist die Geschichte uns’res ganzen Jahr-<lb break="no"/>
 hundertes. Die Ewigkeit ist ein gewaltiger Horst, aus dem alle Jahr-<lb break="no"/>
 hunderte wie junge Adler nacheinander entfliegen, um den Himmel<lb/>
 zu durchkreuzen und zu verschwinden. Auch unser Jahrhundert ist an<lb/>
 den Rand des Horstes gelangt; aber man hat ihm die Flügel beschnitten,<lb/>
 und es erwartet den Tod, die Weite betrachtend, in die es sich nicht<lb/>
-zu schwingen vermag.</p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Fantasio</hi> (singend).</p><milestone unit="song-start"/><lg><l>Du nennst mich Dein Leben, nenn’ mich Deine Seele;</l>
-<l>Denn die Seele blüht ewig, das Leben verweht.</l></lg><milestone unit="untyped-end"/><p>Kennst Du eine göttlichere Romanze als diese, Spark? Es ist eine<lb/>
+zu schwingen vermag.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Fantasio</hi> (singend).</p>
+            <milestone unit="song-start"/>
+            <lg>
+               <l>Du nennst mich Dein Leben, nenn’ mich Deine Seele;</l>
+               <l>Denn die Seele blüht ewig, das Leben verweht.</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <p>Kennst Du eine göttlichere Romanze als diese, Spark? Es ist eine<lb/>
 portugiesische Romanze. Immer wenn sie mir in den Sinn kam, fasste<lb/>
-mich heisse Sehnsucht zu lieben.</p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Spark</hi>. Wen zum Beispiel?</p><milestone unit="untyped-end"/><milestone unit="speech-start"/><p><hi rend="text-spaced">Fantasio</hi>. Wen? Ich weiss es nicht; irgend ein Mädchen, rund<lb/>
+mich heisse Sehnsucht zu lieben.</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Spark</hi>. Wen zum Beispiel?</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="speech-start"/>
+            <p>
+               <hi rend="text-spaced">Fantasio</hi>. Wen? Ich weiss es nicht; irgend ein Mädchen, rund<lb/>
 wie die Frauen des Mieris, süss wie der West, bleich wie die Gefilde<lb/>
 des Mondes, nachdenklich wie die kleinen Mägde auf flämischen Bildern,<lb/>
 welche einem Reisenden den Abschiedstrunk credenzen, der mit seinen<lb/>
@@ -85,7 +155,9 @@ und noch dreissig vor sich. Einen Schluck Brantwein und fort. Die<lb/>
 Nacht ist tief, das Wetter drohend, der Wald gefährlich. Die Blicke<lb/>
 der Frau folgen ihm einen Augenblick, dann entsinkt ihren Lippen,<lb/>
 indem sie zum Feuer zurückkehrt, das erhabene Opfer der Armen, das<lb/>
-Gebet: »Gott möge ihn beschirmen«.</p><milestone unit="untyped-end"/></div>
+Gebet: »Gott möge ihn beschirmen«.</p>
+            <milestone unit="untyped-end"/>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-03_n0063.xml"
-     prev="WR-05-03_n0062.xml"
-     next="WR-05-03_n0064.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-03_n0063.xml" prev="WR-05-03_n0062.xml" next="WR-05-03_n0064.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 2</title>
+                  <idno>WR-05-02_n0023.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 4</title>
+                  <idno>WR-05-04_n0077.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">KUHLENBECK: DIE INDIVIDUALITÄT IST IHR EIGENES GESCHÖPF.</fw></fw><table><row><cell>
-<p>Psychologie! Wunderbar ist die Art, wie<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KUHLENBECK: DIE INDIVIDUALITÄT IST IHR EIGENES GESCHÖPF.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Psychologie! Wunderbar ist die Art, wie<lb/>
 Gide in seinen Büchern und außerhalb<lb/>
 seiner Bücher ist, wunderbar ist, wie alles<lb/>
 Künstliche bei ihm natürlich ist und um-<lb break="no"/>
@@ -64,8 +79,9 @@ Burne-Jones’. Was die Menschen in seinen<lb/>
 Dramen z. B. sagen, ist oft oberflächlich<lb/>
 und selten neu, aber wie sie es sagen<lb/>
 und wie sie einander zuhören im Dialoge,</p>
-</cell><cell>
-<p rend="no-intend">das ist ganz einzig. Als hätten sie das<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">das ist ganz einzig. Als hätten sie das<lb/>
 Gefühl, in einem Drama zu spielen, als<lb/>
 eilten ihre Wesen, ihre Gründe unter<lb/>
 den Worten wie durch Posen dem Ende,<lb/>
@@ -78,11 +94,22 @@ eine Maske der Dichtung, der Phantasie,<lb/>
 und wenn Gide von den Wirklichkeiten<lb/>
 des Lebens spricht, so gibt er eine<lb/>
 esoterische Poetik.</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/><milestone unit="untyped-start"/><ab><title>DIE INDIVIDUALITÄT IST IHR EIGENES GESCHÖPF.<lb/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIE INDIVIDUALITÄT IST IHR EIGENES GESCHÖPF.<lb/>
 Baustein zum Aufbau einer heroischen Weltanschauung.<lb/>
 Von <rs type="person" key="">LUDWIG KUHLENBECK</rs> (Jena).<lb/>
-IV.</title></ab><table><row><cell>
-<p>»Ich will, also bin ich!« Dass<lb/>
+IV.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>»Ich will, also bin ich!« Dass<lb/>
 wir diesen Satz an Stelle des Cartesiani-<lb break="no"/>
 schen: Cogito, ergo sum setzen könnten,<lb/>
 war ein Ergebnis unserer letzten denkeri-<lb break="no"/>
@@ -106,15 +133,18 @@ große Reihe trivialer Tautologien nur um<lb/>
 eine weitere vermehren, um eine bloße<lb/>
 Formel, welche der Gelehrtenpöbel an-<lb break="no"/>
 staunen mag.</p>
-<p>Anders gestaltet sich der Satz, und<lb/>
+                     <p>Anders gestaltet sich der Satz, und<lb/>
 zwar wird er zu einem tiefreichenden<lb/>
 metaphysischen Problem, sobald wir das:<lb/>
 »Ich will, also bin ich!« ontologisch nehmen</p>
-</cell><cell>
-<p rend="no-intend">in dem Sinne, dass unsere <hi rend="text-spaced">Existenz</hi><lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">in dem Sinne, dass unsere <hi rend="text-spaced">Existenz</hi>
+                        <lb/>
 eine That unseres eigenen freien Willens<lb/>
 wäre. Da wir uns einer solchen Selbst-<lb break="no"/>
-schöpfung nicht im mindesten <hi rend="text-spaced">bewusst</hi><lb/>
+schöpfung nicht im mindesten <hi rend="text-spaced">bewusst</hi>
+                        <lb/>
 sind, wird freilich der sogenannte gesunde<lb/>
 Menschenverstand den Satz in diesem<lb/>
 Sinne auf den ersten Blick sehr anstößig<lb/>
@@ -130,20 +160,31 @@ verneinen. In diesem Sinne hat ihn die<lb/>
 praktische Philosophie der Stoa betont,<lb/>
 in deren Geiste zum Beispiel Cassius in<lb/>
 Shakespeares »Julius Cäsar« declamiert:</p>
-<milestone unit="performance-start"/>
-<lg><l>»Den Cassius kann von Knechtschaft Cassius</l>
-<l>lösen,</l>
-<l>Darin, ihr Götter, macht ihr Schwache stark,</l>
-<l>Darin, ihr Götter, höhnet ihr Tyrannen;</l>
-<l>Nicht felsenfeste Burg, noch eh’rne Mauern,</l>
-<l>Noch dumpfe Kerker, noch der Ketten Last</l>
-<l>Sind Hindernisse für des Geistes Stärke;</l>
-<l><hi rend="text-spaced">Das Leben, dieser Erdenschranken</hi></l>
-<l><hi rend="text-spaced">satt</hi>,</l>
-<l><hi rend="text-spaced">Hat stets die Macht, sich selber zu</hi></l>
-<l><hi rend="text-spaced">entlassen</hi>!«</l></lg>
-<milestone unit="untyped-end"/>
-</cell></row></table></div>
+                     <milestone unit="performance-start"/>
+                     <lg>
+                        <l>»Den Cassius kann von Knechtschaft Cassius</l>
+                        <l>lösen,</l>
+                        <l>Darin, ihr Götter, macht ihr Schwache stark,</l>
+                        <l>Darin, ihr Götter, höhnet ihr Tyrannen;</l>
+                        <l>Nicht felsenfeste Burg, noch eh’rne Mauern,</l>
+                        <l>Noch dumpfe Kerker, noch der Ketten Last</l>
+                        <l>Sind Hindernisse für des Geistes Stärke;</l>
+                        <l>
+                           <hi rend="text-spaced">Das Leben, dieser Erdenschranken</hi>
+                        </l>
+                        <l>
+                           <hi rend="text-spaced">satt</hi>,</l>
+                        <l>
+                           <hi rend="text-spaced">Hat stets die Macht, sich selber zu</hi>
+                        </l>
+                        <l>
+                           <hi rend="text-spaced">entlassen</hi>!«</l>
+                     </lg>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

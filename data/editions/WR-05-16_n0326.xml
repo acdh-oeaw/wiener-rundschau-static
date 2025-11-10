@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-16_n0326.xml"
-     prev="WR-05-16_n0325.xml"
-     next="WR-05-17_n0327.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-16_n0326.xml" prev="WR-05-16_n0325.xml" next="WR-05-17_n0327.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,20 +41,39 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 15</title>
+                  <idno>WR-05-15_n0295.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 17</title>
+                  <idno>WR-05-17_n0327.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">RUNDSCHAU.</fw></fw><table><row><cell>
-<p rend="no-intend"><hi rend="italics">phique</hi>“ (<date>Juillet 1901</date>): Aus Gründen des<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">RUNDSCHAU.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">
+                        <hi rend="italics">phique</hi>“ (<date>Juillet 1901</date>): Aus Gründen des<lb/>
 gesteigerten Ausdruckes dürfen in erster<lb/>
 Linie die classischen Stimmführungsgesetze<lb/>
 umgangen oder geradezu durchbrochen<lb/>
 werden. Der Autor citiert hierfür u. a.: eine<lb/>
 Folge von 13 parallelen Quinten bei<lb/>
-<hi rend="text-spaced">Alexandre Georges</hi>; den streng harmo-<lb break="no"/>
+                        <hi rend="text-spaced">Alexandre Georges</hi>; den streng harmo-<lb break="no"/>
 nisch (weil unschön) nicht gestatteten<lb/>
 unvermittelten Übergang aus einer Dur-Ton-<lb break="no"/>
 art in die um zwei Halbtöne höher-<lb break="no"/>
@@ -67,7 +83,7 @@ diesem Beispiele ergibt sich die Noth-<lb break="no"/>
 wendigkeit einer psychologischen Musik-<lb break="no"/>
 theorie neben der heute canonisch gelten-<lb break="no"/>
 den Helmholtz’schen physiologischen.</p>
-<p>Musikstellen, die ein bestimmtes Gefühl<lb/>
+                     <p>Musikstellen, die ein bestimmtes Gefühl<lb/>
 beschreiben, ohne greifbare, ins Bewusst-<lb break="no"/>
 sein fallende Hilfs-Vicariate mögen <hi rend="text-spaced">emo-<lb break="no"/>
 tive</hi> genannt werden (Beispiel: Das Sterben<lb/>
@@ -78,12 +94,13 @@ mit im Basse liegender Tonica der Parallel-<lb break="no"/>
 Dur-Scala). Wird das Gefühl aber <hi rend="text-spaced">associa-<lb break="no"/>
 tiv</hi> hervorgerufen (durch Klang-Vicariate),<lb/>
 so kann man von imitatorischer oder von<lb/>
-<hi rend="text-spaced">beschreibender</hi> Musik sprechen, je<lb/>
+                        <hi rend="text-spaced">beschreibender</hi> Musik sprechen, je<lb/>
 nachdem wirkliche <hi rend="text-spaced">acustische</hi> Folgen<lb/>
 oder bloß <hi rend="text-spaced">optische</hi> Geschehnisse durch<lb/>
 Töne dargestellt werden.</p>
-</cell><cell>
-<p>Diese drei möglichen Arten der Ge-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p>Diese drei möglichen Arten der Ge-<lb break="no"/>
 fühlsschilderung finden sich im Andante<lb/>
 der <hi rend="text-spaced">Pastoral-Symphonie</hi>, das mit<lb/>
 Unrecht als rein beschreibende Musik be-<lb break="no"/>
@@ -99,7 +116,7 @@ Hauptmotiv der Mendelssohn’schen Melu-<lb break="no"/>
 sinen-Ouvertüre. Schubert ist besonders<lb/>
 fruchtbar an derartigen imitatorischen<lb/>
 Bildern (»Forelle«, »Lindenbaum«).</p>
-<p>Die Erscheinung der »<hi rend="italics">Audition<lb/>
+                     <p>Die Erscheinung der »<hi rend="italics">Audition<lb/>
 colorée</hi>«, ist noch zu wenig gewürdigt<lb/>
 und untersucht worden; zwischen der<lb/>
 Perception der Licht- und Tonwerte<lb/>
@@ -114,9 +131,21 @@ innig zusammen. Die moderne Musik-<lb break="no"/>
 Psychologie eröffnet durch derartige Unter-<lb break="no"/>
 suchungen nicht bloß der Ästhetik, sondern<lb/>
 auch der exacten Psychologie neue Wege.</p>
-<p><rs type="person" key="">β</rs></p>
-<milestone unit="untyped-end"/>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/><milestone unit="hr"/><milestone unit="imprint-start"/><p>Verantwortlicher Redakteur: R. Dworschak. — K. k. Hoftheater-Druckerei, Wien, I., Wollzeile 17. (Verantwortl. A. Rimrich.)</p><milestone unit="untyped-end"/><milestone unit="untyped-end"/></div>
+                     <p>
+                        <rs type="person" key="">β</rs>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="hr"/>
+            <milestone unit="imprint-start"/>
+            <p>Verantwortlicher Redakteur: R. Dworschak. — K. k. Hoftheater-Druckerei, Wien, I., Wollzeile 17. (Verantwortl. A. Rimrich.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
       </body>
    </text>
 </TEI>

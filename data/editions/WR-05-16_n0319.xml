@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-16_n0319.xml"
-     prev="WR-05-16_n0318.xml"
-     next="WR-05-16_n0320.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-16_n0319.xml" prev="WR-05-16_n0318.xml" next="WR-05-16_n0320.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 15</title>
+                  <idno>WR-05-15_n0295.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 17</title>
+                  <idno>WR-05-17_n0327.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">GUMPPENBERG: DAS WESEN DES OPFERS.</fw></fw><table><row><cell>
-<p rend="no-intend">»aus Pflichten bestanden, die erfüllt werden<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">GUMPPENBERG: DAS WESEN DES OPFERS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">»aus Pflichten bestanden, die erfüllt werden<lb/>
 mussten«; und dazu, sie alle als bloße<lb/>
 Canäle für die Thätigkeit des Lebens zu<lb/>
 betrachten, die er der Welt schuldig ist,<lb/>
@@ -65,7 +80,7 @@ nun das Rad der Existenz nur darum<lb/>
 weiter, weil es gedreht werden soll und<lb/>
 nicht deshalb, weil dessen Drehung ihm<lb/>
 irgend etwas Wünschenswertes einbringt.</p>
-<p>Die volle Erkenntnis des Gesetzes des<lb/>
+                     <p>Die volle Erkenntnis des Gesetzes des<lb/>
 Opfers jedoch hebt den Menschen über<lb/>
 die mentale Ebene, auf der die Pflicht<lb/>
 als Pflicht erkannt wird, als »etwas, das<lb/>
@@ -105,8 +120,9 @@ in geistige Energie verwandelt, um sich<lb/>
 als geistiges Leben über die Welt auszu-<lb break="no"/>
 gießen. Diese Umwandlung wird durch<lb/>
 den Beweggrund bewirkt, der dann die</p>
-</cell><cell>
-<p rend="no-intend">Ebene bestimmt, auf der die Energie frei<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Ebene bestimmt, auf der die Energie frei<lb/>
 wird. Ist der Beweggrund eines Menschen<lb/>
 der, physische Dinge zu gewinnen, so<lb/>
 wirkt die freigewordene Energie nur auf<lb/>
@@ -145,7 +161,7 @@ Herrn, der die Seligkeit ist, und indem er<lb/>
 die Form zum Dienen verwendet, ohne<lb/>
 an ihr zu hängen, »hat er dem Leid ein<lb/>
 Ende gesetzt«.</p>
-<p>Es lag wohl in der Natur unserer<lb/>
+                     <p>Es lag wohl in der Natur unserer<lb/>
 Entwicklung, dass die christliche Kirche<lb/>
 das Opfer des Blutes Christi zum<lb/>
 Fundament ihrer Lehre machte, und es<lb/>
@@ -160,7 +176,10 @@ durch Leiden zu <hi rend="text-spaced">versöhnenden</hi> Gottes<lb/>
 zu festgewurzelt war, um gleich reinere,<lb/>
 höhere Gottesbegriffe zuzulassen. So blieb<lb/>
 es eben kommenden Zeiten vorbehalten,</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

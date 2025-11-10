@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-06_n0124.xml"
-     prev="WR-05-06_n0123.xml"
-     next="WR-05-06_n0125.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-06_n0124.xml" prev="WR-05-06_n0123.xml" next="WR-05-06_n0125.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,17 +41,37 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 5</title>
+                  <idno>WR-05-05_n0097.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 7</title>
+                  <idno>WR-05-07_n0141.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>SCHOPENHAUER UND DER INDIVIDUALISMUS.<lb/>
-<hi rend="text-spaced">Baustein zum Aufbau einer heroischen Welt-Anschauung</hi><lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>SCHOPENHAUER UND DER INDIVIDUALISMUS.<lb/>
+                  <hi rend="text-spaced">Baustein zum Aufbau einer heroischen Welt-Anschauung</hi>
+                  <lb/>
 Von <rs type="person" key="">LUDWIG KUHLENBECK</rs> (Jena).<lb/>
-V.</title></ab><table><row><cell>
-<p>Nichts kann einer tieferen und klareren<lb/>
+V.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Nichts kann einer tieferen und klareren<lb/>
 Auffassung unseres Individualismus förder-<lb break="no"/>
 licher sein, als eine Auseinandersetzung<lb/>
 mit <hi rend="text-spaced">Schopenhauer</hi>, dem genialsten<lb/>
@@ -72,7 +89,7 @@ behren zu dürfen; der Rest der modernen<lb/>
 Philosophen darf aber auch einer bloßen<lb/>
 Durchschnittsvernunft ohne große Einbusse<lb/>
 quantité négligeable sein.</p>
-<p>Es wäre uns nun, wollten wir mit<lb/>
+                     <p>Es wäre uns nun, wollten wir mit<lb/>
 Autoritätsbeweisen, den schlechtesten von<lb/>
 allen, ein gewissenloses Spiel treiben, ein<lb/>
 Leichtes, eine ganze Reihe von Sätzen<lb/>
@@ -96,14 +113,15 @@ sehr in Verruf gebracht hat, findet gerade in<lb/>
 diesem Denker, der, ähnlich wie Kant,<lb/>
 dadurch für Jahrhunderte hinaus anregend<lb/>
 wirken muss, dass er nicht nur alte Probleme</p>
-</cell><cell>
-<p rend="no-intend">löst, sondern auch tiefe <hi rend="text-spaced">neue</hi> Probleme<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">löst, sondern auch tiefe <hi rend="text-spaced">neue</hi> Probleme<lb/>
 stellt, einen wirksamen Vertreter. Daher<lb/>
 gehört Schopenhauer zu den wenigen<lb/>
 Größen der Philosophie, die nicht »Schüler«,<lb/>
 sondern <hi rend="text-spaced">Selbst-Denker</hi> bilden und<lb/>
 fordern.</p>
-<p>Wenn Individualismus die Überzeugung<lb/>
+                     <p>Wenn Individualismus die Überzeugung<lb/>
 von der Ewigkeit, Wesenhaftigkeit, Selbst-<lb break="no"/>
 herrlichkeit oder Autonomie unseres Selbst<lb/>
 oder Ich ist, und <hi rend="text-spaced">wenn wir dabei<lb/>
@@ -114,32 +132,35 @@ Träger dieses Bewusstseins nehmen, so<lb/>
 wüsste ich keinen entschiedeneren Vertreter<lb/>
 dieser Auffassung zu nennen, als Schopen-<lb break="no"/>
 hauer.</p>
-<p>Unseren letzten Aufsatz über die<lb/>
+                     <p>Unseren letzten Aufsatz über die<lb/>
 »Aseïtät« oder metaphysische Selbständig-<lb break="no"/>
 keit oder auch, wenn man will, immanente<lb/>
 Göttlichkeit der Individualität, hätten wir<lb/>
 auch mit folgendem Satz Schopenhauers<lb/>
 beginnen oder enden können:</p>
-<p>»<hi rend="text-spaced">Aus meiner Lehre folgt aller-<lb break="no"/>
+                     <p>»<hi rend="text-spaced">Aus meiner Lehre folgt aller-<lb break="no"/>
 dings</hi>, <hi rend="text-spaced">dass jedes Wesen sein eigenes<lb/>
 Werk ist</hi>. <hi rend="text-spaced">Die Natur</hi>, <hi rend="text-spaced">die nimmer<lb/>
 lügen kann und naiv ist wie das<lb/>
 Genie</hi>, <hi rend="text-spaced">sagt geradezu dasselbe aus</hi>,<lb/>
-<hi rend="text-spaced">indem jedes Wesen an einem andern</hi>,<lb/>
-<hi rend="text-spaced">genau seinesgleichen</hi>, <hi rend="text-spaced">nur den<lb/>
+                        <hi rend="text-spaced">indem jedes Wesen an einem andern</hi>,<lb/>
+                        <hi rend="text-spaced">genau seinesgleichen</hi>, <hi rend="text-spaced">nur den<lb/>
 Lebensfunken anzündet und dann<lb/>
 vor unseren Augen sich selbst<lb/>
 macht</hi>, <hi rend="text-spaced">den Stoff dazu von außen</hi>,<lb/>
-<hi rend="text-spaced">Form und Bewegung aus sich selbst<lb/>
+                        <hi rend="text-spaced">Form und Bewegung aus sich selbst<lb/>
 nehmend</hi>, <hi rend="text-spaced">welches man Wachsthum<lb/>
 und Entwicklung nennt</hi>. <hi rend="text-spaced">So steht<lb/>
 auch empirisch jedes Wesen als<lb/>
 sein eigenes Werk vor uns</hi>. <hi rend="text-spaced">Aber<lb/>
 man versteht die Sprache der<lb/>
 Natur nicht</hi>, <hi rend="text-spaced">weil sie zu einfach ist</hi>.«</p>
-<p>Entschiedener kann der Kern der Auf-<lb break="no"/>
+                     <p>Entschiedener kann der Kern der Auf-<lb break="no"/>
 fassung, in der wir selbst die wahre Ent-</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

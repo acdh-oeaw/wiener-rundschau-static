@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-04-07_n0170.xml"
-     prev="WR-04-07_n0169.xml"
-     next="WR-04-07_n0171.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-04-07_n0170.xml" prev="WR-04-07_n0169.xml" next="WR-04-07_n0171.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,36 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 5</title>
+                  <idno>WR-05-01_n0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 4, Nr. 6</title>
+                  <idno>WR-04-06_n0125.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 4, Nr. 8</title>
+                  <idno>WR-04-08_n0175.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">GRAEVELL: DIE RENAISSANCE DES KELTENTHUMS.</fw></fw><table><row><cell>
-<p rend="no-intend">so weit, zu behaupten, dass die Politik<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">GRAEVELL: DIE RENAISSANCE DES KELTENTHUMS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">so weit, zu behaupten, dass die Politik<lb/>
 des vorigen Jahrhunderts — in Frankreich<lb/>
 sogar immer! — von den keltischen<lb/>
 Maitressen gemacht worden wäre. Es<lb/>
@@ -73,7 +92,7 @@ heutige Wissenschaft nicht aus. Wir<lb/>
 haben das Studium der Ethnographie ver-<lb break="no"/>
 nachlässigt und müssen das Versäumte<lb/>
 erst nachzuholen suchen.</p>
-<p>Mir scheint die Keltenfrage kurz so<lb/>
+                     <p>Mir scheint die Keltenfrage kurz so<lb/>
 zu liegen: Die Gallier waren ein arisches<lb/>
 Herrenvolk, welches die Kelten, die es<lb/>
 bei der Einwanderung vorfand, knechtete,<lb/>
@@ -99,8 +118,9 @@ reich und England ist natürlich dasselbe<lb/>
 der Fall. Am deutlichsten merkt man dies<lb/>
 in Kunst und Literatur. Das Frivole,<lb/>
 Leichtsinnige, Burleske, Unsittliche der</p>
-</cell><cell>
-<p rend="no-intend">heutigen Décadence-Literatur, das „<hi rend="italics">Fin<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">heutigen Décadence-Literatur, das „<hi rend="italics">Fin<lb/>
 de siècle</hi>“-Auftreten geht auf die schwarze<lb/>
 Ur-Rasse zurück, die durch die demo-<lb break="no"/>
 kratischen Einrichtungen unserer Zeit und<lb/>
@@ -126,7 +146,7 @@ dass ein Auseinanderhalten schwer ist.<lb/>
 Aber relativ rein sind sie zum Theile<lb/>
 noch auf englischem Boden und in der<lb/>
 Bretagne.*</p>
-<p>Vor einigen Monaten stand ich auf<lb/>
+                     <p>Vor einigen Monaten stand ich auf<lb/>
 der <hi rend="text-spaced">Eisteddfod</hi> in Wales, der großen<lb/>
 National-Versammlung, die jedes Jahr vier<lb/>
 Tage lang in einer der wälischen Städte<lb/>
@@ -144,18 +164,22 @@ Ovaten während der Ceremonie einen Fuß<lb/>
 setzten. Inmitten stand der heilige Stein,<lb/>
 der den Mittelpunkt der Welt bedeutet.<lb/>
 Hier saß der Erzpriester der Druiden, der<lb/>
-<hi rend="italics">Hwfa-Môn</hi> (sprich: Houva-Môn), gekleidet<lb/>
+                        <hi rend="italics">Hwfa-Môn</hi> (sprich: Houva-Môn), gekleidet<lb/>
 in eine weiße Robe, auf der Brust ein<lb/>
 Pectorale von mattem Gold, einen Eichen-<lb break="no"/>
 kranz auf dem Haupt. Zu seiner Linken</p>
-</cell></row></table><note type="footnote">
-<p>* Eine Local-Tradition in der Bretagne berichtet, im vorigen Jahrhundert hätten bei<lb/>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Eine Local-Tradition in der Bretagne berichtet, im vorigen Jahrhundert hätten bei<lb/>
 einer feindlichen Landung der Engländer die bretonischen Soldaten mit ihren Landsleuten<lb/>
 fraternisiert, als sie sie ein auch ihnen bekanntes Volkslied hätten singen hören. Dies ist wohl<lb/>
 eine schöne Sage; denn in Wahrheit versteht ein Bretone, wenigstens heute, den Walliser<lb/>
 nicht mehr, und als eine keltische Gesandtschaft zum bedeutendsten keltischen Gelehrten, <hi rend="text-spaced">Renan</hi>,<lb/>
 kam, musste er französisch mit ihr sprechen.</p>
-</note></div>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

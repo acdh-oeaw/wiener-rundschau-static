@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-07_n0142.xml"
-     prev="WR-05-07_n0141.xml"
-     next="WR-05-07_n0143.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-07_n0142.xml" prev="WR-05-07_n0141.xml" next="WR-05-07_n0143.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,16 +41,34 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 6</title>
+                  <idno>WR-05-06_n0115.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 8</title>
+                  <idno>WR-05-08_n0159.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">GIDE: DER TRACTAT VON NARCISS.</fw></fw><table><row><cell>
-<p rend="no-intend">endlich seine ganze Seele einzu-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">GIDE: DER TRACTAT VON NARCISS.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">endlich seine ganze Seele einzu-<lb break="no"/>
 kleiden.</p>
-<p>Am Ufer des Flusses der Zeit hat<lb/>
+                     <p>Am Ufer des Flusses der Zeit hat<lb/>
 Narciss Halt gemacht. Verhängnisvolles<lb/>
 und täuschendes Ufer, an dem die<lb/>
 Jahre vorübergehen und ablaufen. Ein-<lb break="no"/>
@@ -67,7 +82,7 @@ ebener Spiegel. Und nichts machte<lb/>
 dieses graue Wasser sich von seiner<lb/>
 farblosen Umgebung unterscheiden,<lb/>
 wenn man nicht merkte, dass es fließt.</p>
-<p>Von weitem hielt Narciss den Fluss<lb/>
+                     <p>Von weitem hielt Narciss den Fluss<lb/>
 für eine Straße, und da er sich lang-<lb break="no"/>
 weilte in all dem Grau, hat er sich<lb/>
 genähert, um etwas vorübergleiten zu<lb/>
@@ -91,7 +106,7 @@ denn das eine und das andere hält<lb/>
 sich im Gleichgewicht, ob seine Seele<lb/>
 die Flut leitet oder ob es die Flut ist,<lb/>
 die sie führt.</p>
-<p>Wo Narciss schaut, da ist Gegen-<lb break="no"/>
+                     <p>Wo Narciss schaut, da ist Gegen-<lb break="no"/>
 wart. Aus der fernsten Zukunft drängen<lb/>
 sich die noch thatkräftigen Dinge zum<lb/>
 Sein. Narciss sieht sie. Dann gehen<lb/>
@@ -101,17 +116,20 @@ das immer dieselbe Sache ist. Er fragt.<lb/>
 Dann sinnt er nach. Immer dieselben<lb/>
 Formen gehen vorüber. Der Schwung<lb/>
 der Flut allein macht sie verschieden.</p>
-<p>Warum sind’s mehrere? Oder viel-<lb break="no"/>
+                     <p>Warum sind’s mehrere? Oder viel-<lb break="no"/>
 mehr, warum dieselben? — Also sind<lb/>
 sie unvollkommen, da sie immer von<lb/>
 neuem anfangen <milestone unit="3dots"/> und alle, denkt</p>
-</cell><cell>
-<p rend="no-intend">er, mühen sich und streben nach etwas,<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">er, mühen sich und streben nach etwas,<lb/>
 nach einer ersten verlorenen Form —<lb/>
 einer paradiesischen und krystallenen.</p>
-<p>Narciss träumt vom Paradies.</p>
-<ab><title>I.</title></ab>
-<p>Das Paradies war nicht groß. Weil<lb/>
+                     <p>Narciss träumt vom Paradies.</p>
+                     <ab>
+                        <title>I.</title>
+                     </ab>
+                     <p>Das Paradies war nicht groß. Weil<lb/>
 sie vollkommen waren, blühten alle<lb/>
 Formen drin nur einmal, und ein Garten<lb/>
 fasste sie alle. — Ob es war oder nicht<lb/>
@@ -124,18 +142,18 @@ sein musste. Alles blieb unbeweglich,<lb/>
 denn nichts wünschte, besser zu sein.<lb/>
 Einzig die ruhevolle Schwerkraft ließ<lb/>
 langsam das Ganze sich entwickeln.</p>
-<p>Und da kein Aufschwung, weder<lb/>
+                     <p>Und da kein Aufschwung, weder<lb/>
 in der Zukunft, noch in der Vergangen-<lb break="no"/>
 heit, sich verliert, war das Paradies<lb/>
 nicht geworden — es war einfach von<lb/>
 jeher.</p>
-<p>Keusches Eden! Garten! Garten<lb/>
+                     <p>Keusches Eden! Garten! Garten<lb/>
 der Ideen, wo die Formen, rhythmisch<lb/>
 und sicher, ohne Anstrengung ihre<lb/>
 Zahl offenbarten, wo jedes Ding war,<lb/>
 als was es erschien. Denn beweisen<lb/>
 war unnütz.</p>
-<p>Eden! wo die singenden Lüfte in<lb/>
+                     <p>Eden! wo die singenden Lüfte in<lb/>
 vorhergesehenen Kreisen sich wiegten;<lb/>
 wo der Himmel den Azur über den<lb/>
 symmetrischen Grasplan spannte, wo<lb/>
@@ -151,13 +169,16 @@ nach seiner Natur. Der Zusammenhang<lb/>
 der Linien gebar einen Accord. Über<lb/>
 dem Garten lagerte ein gleichtönender<lb/>
 Einklang.</p>
-<p>In der Mitte Edens streckte Ygdrasil,<lb/>
+                     <p>In der Mitte Edens streckte Ygdrasil,<lb/>
 der logarithmische Baum, seine Lebens-<lb break="no"/>
 wurzeln in den Boden und führte über<lb/>
 den Rasenrund den dichten Schatten<lb/>
 seines Laubes, in dem sich die einzige<lb/>
 Nacht breitete. Im Schatten lehnte sich</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

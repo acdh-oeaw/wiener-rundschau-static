@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-13_n0273.xml"
-     prev="WR-05-13_n0272.xml"
-     next="WR-05-13_n0274.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-13_n0273.xml" prev="WR-05-13_n0272.xml" next="WR-05-13_n0274.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 12</title>
+                  <idno>WR-05-12_n0249.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 14</title>
+                  <idno>WR-05-14_n0279.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">KUHAUPT: SUGGESTION ALS PSYCHOLOGISCHES HAUPTMOMENT IN DER KUNST.</fw></fw><table><row><cell>
-<p rend="no-intend">Herrschaft und im Bann der nach Reali-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KUHAUPT: SUGGESTION ALS PSYCHOLOGISCHES HAUPTMOMENT IN DER KUNST.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Herrschaft und im Bann der nach Reali-<lb break="no"/>
 sierung schmachtenden, neuschöpferischen<lb/>
 Idee. Der Zustand des Künstlers ist ein<lb/>
 traumartiger, solange die Idee noch nicht<lb/>
@@ -97,16 +112,17 @@ vor«. Es sei hier auch erinnert an den<lb/>
 Shakespeare’schen Ausspruch vom »holden<lb/>
 Wahnsinn, in dem des Dichters Auge<lb/>
 rollt«.</p>
-<p>Das Verhältnis zwischen Hypnose,<lb/>
+                     <p>Das Verhältnis zwischen Hypnose,<lb/>
 Ekstase des Geschlechtsactes und dem<lb/>
 traumartigen Zustand des Dichters im<lb/>
 ersten Geburtsstadium der neuschöpfe-<lb break="no"/>
 rischen Idee ist somit ein eng verwandt-<lb break="no"/>
 schaftliches.</p>
-<p>In der Hypnose ist es die in Auto-<lb break="no"/>
+                     <p>In der Hypnose ist es die in Auto-<lb break="no"/>
 Suggestion umgesetzte Fremd-Suggestion,</p>
-</cell><cell>
-<p rend="no-intend">die als Monoideismus alle übrigen Vor-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">die als Monoideismus alle übrigen Vor-<lb break="no"/>
 stellungen und Gedankenbilder unter die<lb/>
 Schwelle des bewussten Tageslebens hinab-<lb break="no"/>
 drückt; im Geschlechtsact ist es der aller-<lb break="no"/>
@@ -120,7 +136,7 @@ lers ist es eine durch die Kraft der neuen<lb/>
 Idee hervorgerufene Auto-Suggestion, die<lb/>
 das wache Tagesbewusstsein zu einem<lb/>
 traumartigen herabstimmt.</p>
-<p>Jeder geistig Arbeitende erfährt von<lb/>
+                     <p>Jeder geistig Arbeitende erfährt von<lb/>
 diesem Zustande etwas, wenn er unter<lb/>
 der suggestiven Macht eines neuen Ein-<lb break="no"/>
 falles steht. Der Unterschied zwischen dem<lb/>
@@ -135,7 +151,7 @@ wie sie der Künstler empfängt, sind auch<lb/>
 in ihrer Wirkung plötzlich und haben<lb/>
 eine stark isolierende, andere Gedanken<lb/>
 zurückdrängende Kraft.</p>
-<p>Je plötzlicher und je markanter eine<lb/>
+                     <p>Je plötzlicher und je markanter eine<lb/>
 Idee im Geiste auftaucht, umso stürmi-<lb break="no"/>
 scher strebt sie auch nach Realisierung<lb/>
 — gemäß dem Gesetz: »Jeder psycho-<lb break="no"/>
@@ -146,12 +162,12 @@ Eingebung folgend, eines seiner besten<lb/>
 Lieder in einem Wirtshaus, wo es sehr<lb/>
 lebhaft hergieng, auf einen Speisezettel in<lb/>
 wenigen Minuten niederschrieb.</p>
-<p>Von anderen Künstlern ist bekannt,<lb/>
+                     <p>Von anderen Künstlern ist bekannt,<lb/>
 dass sie mitten in der Nacht aufstanden<lb/>
 und arbeiteten, da sie einer Suggestion,<lb/>
 die sie zum Schaffen drängte, nicht wider-<lb break="no"/>
 stehen konnten.</p>
-<p>Es scheint nun aber, dass nur das<lb/>
+                     <p>Es scheint nun aber, dass nur das<lb/>
 wahrhaft Neue, nämlich das, was nicht<lb/>
 aus der receptiven, sondern aus der spon-<lb break="no"/>
 tanen Thätigkeit des Geistes hervorkommt,<lb/>
@@ -160,7 +176,10 @@ peare als »holden Wahnsinn« bezeichnet<lb/>
 hat, hervorzurufen vermag. Also nur der<lb/>
 wahrhaft zeugende und schaffende, der<lb/>
 wahrhaft geniale Künstler kommt in jenen</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

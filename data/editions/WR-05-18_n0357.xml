@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-18_n0357.xml"
-     prev="WR-05-18_n0356.xml"
-     next="WR-05-18_n0358.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-18_n0357.xml" prev="WR-05-18_n0356.xml" next="WR-05-18_n0358.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,16 +41,30 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 17</title>
+                  <idno>WR-05-17_n0327.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">WEISS: HANS VON MARÉES.</fw></fw><table><row><cell>
-<p rend="no-intend">Plan des Bildes sich durchaus nach<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">WEISS: HANS VON MARÉES.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Plan des Bildes sich durchaus nach<lb/>
 plastischen Bildungsprincipien vollzog.</p>
-<p>Er zeichnet Figurenstudien nach<lb/>
+                     <p>Er zeichnet Figurenstudien nach<lb/>
 der Natur. »Er modificiert ein Blatt<lb/>
 Papier mit möglichst einfachen Mitteln<lb/>
 so, dass es ihm eine verlässliche Er-<lb break="no"/>
@@ -94,8 +105,8 @@ leben untereinander und nur für sich,<lb/>
 zeigen eigentlich nur einen, den ein-<lb break="no"/>
 zigen Mann oder Jüngling, das einzige<lb/>
 Weib, die <hi rend="text-spaced">Idee</hi>.</p>
-<milestone unit="asterisk"/>
-<p>Das Licht, die Atmosphäre, in der<lb/>
+                     <milestone unit="asterisk"/>
+                     <p>Das Licht, die Atmosphäre, in der<lb/>
 seine Menschen leben, ist ebenso<lb/>
 typisch, das heißt ein offenes, blaues<lb/>
 Himmelslicht, ohne Sonne, das alle<lb/>
@@ -103,8 +114,9 @@ Dinge am klarsten als solche zur Er-<lb break="no"/>
 scheinung kommen lässt. Man könnte<lb/>
 sagen, es ist das irdische Licht im<lb/>
 allgemeinsten Sinn, wenn man Himmel</p>
-</cell><cell>
-<p rend="no-intend">und Erde als Gegenüber ansieht, wie<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">und Erde als Gegenüber ansieht, wie<lb/>
 sie sich an schattigen Sommertagen<lb/>
 am ungestörtesten durch vorüber-<lb break="no"/>
 gehende Veränderungen der Jahreszeiten<lb/>
@@ -124,7 +136,7 @@ seine Verwendung zur Erreichung der<lb/>
 vollendetsten plastischen Durchbildung<lb/>
 bestimmt, und daher, wie ich sagte,<lb/>
 ein typisches.</p>
-<p>Hievon machen nur zwei mir<lb/>
+                     <p>Hievon machen nur zwei mir<lb/>
 bekannte Gemälde eine Ausnahme (von<lb/>
 Porträts abgesehen), nämlich »Der heilige<lb/>
 Hubertus« und »Der heilige Martin«.<lb/>
@@ -153,12 +165,16 @@ Die Farbe war ihm auch nur Mittel<lb/>
 dazu, und weil sie dies war, musste<lb/>
 er zu starkfarbigen Tönungen greifen.<lb/>
 Das Resultat war ihm gewiss gerade<lb/>
-in den Ei-Tempera-Farben, was die <hi rend="text-spaced">Kraft</hi><lb/>
+in den Ei-Tempera-Farben, was die <hi rend="text-spaced">Kraft</hi>
+                        <lb/>
 der Erscheinung angeht, nicht genügend,<lb/>
 weshalb er zu den Ölfarben griff, die<lb/>
 ihm erlaubten, die Scala des Hell-<lb break="no"/>
 dunkels auf dem Gemälde außerordent-</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

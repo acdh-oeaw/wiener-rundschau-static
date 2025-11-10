@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-05_n0109.xml"
-     prev="WR-05-05_n0108.xml"
-     next="WR-05-05_n0110.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-05_n0109.xml" prev="WR-05-05_n0108.xml" next="WR-05-05_n0110.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 4</title>
+                  <idno>WR-05-04_n0077.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 6</title>
+                  <idno>WR-05-06_n0115.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">KOMAREK: VOM WESEN DER MUSIK.</fw></fw><table><row><cell>
-<p rend="no-intend">als ein wirres, ungeheures Gewebe der<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KOMAREK: VOM WESEN DER MUSIK.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">als ein wirres, ungeheures Gewebe der<lb/>
 mannigfaltigsten Vorstellungsketten dar.<lb/>
 Diese Wirrnis zu analysieren, Faden für Faden<lb/>
 herauszuheben, die Ausgangs- und Schneide-<lb break="no"/>
@@ -66,30 +81,39 @@ schließlich den Tonfall des Sprechens<lb/>
 nachahmen, so enthält doch der begleitende<lb/>
 Theil desselben alle Nachahmungsarten in<lb/>
 buntem Durcheinander. Es bezeichne:</p>
-<p><hi rend="italics">T</hi> <milestone unit="equals"/> die Darstellung des Tonfalles beim<lb/>
+                     <p>
+                        <hi rend="italics">T</hi>
+                        <milestone unit="equals"/> die Darstellung des Tonfalles beim<lb/>
 Sprechen,</p>
-<p><hi rend="italics">N</hi> <milestone unit="equals"/> die der Naturlaute,</p>
-<p><hi rend="italics">R</hi> <milestone unit="equals"/> die des Rhythmus, und</p>
-<p><hi rend="italics">P</hi> <milestone unit="equals"/> die parallelistische.</p>
-<p>BAU EINES SONATENTHEILES.</p>
-<figure type="image">
-<p>A</p>
-<p>c T + N</p>
-<p>β R</p>
-<p>b R + N</p>
-<p>z T</p>
-<p>a P + R</p>
-<p>A</p>
-<p>R<lb/>
+                     <p>
+                        <hi rend="italics">N</hi>
+                        <milestone unit="equals"/> die der Naturlaute,</p>
+                     <p>
+                        <hi rend="italics">R</hi>
+                        <milestone unit="equals"/> die des Rhythmus, und</p>
+                     <p>
+                        <hi rend="italics">P</hi>
+                        <milestone unit="equals"/> die parallelistische.</p>
+                     <p>BAU EINES SONATENTHEILES.</p>
+                     <figure type="image">
+                        <p>A</p>
+                        <p>c T + N</p>
+                        <p>β R</p>
+                        <p>b R + N</p>
+                        <p>z T</p>
+                        <p>a P + R</p>
+                        <p>A</p>
+                        <p>R<lb/>
 +<lb/>
 P<lb/>
 +<lb/>
 N<lb/>
 +<lb/>
 T</p>
-</figure>
-</cell><cell>
-<p>Eine Melodie <hi rend="italics">A</hi> gebe den Tonfall <hi rend="italics">(T)</hi>,<lb/>
+                     </figure>
+                  </cell>
+                  <cell>
+                     <p>Eine Melodie <hi rend="italics">A</hi> gebe den Tonfall <hi rend="italics">(T)</hi>,<lb/>
 in dem sich etwa die Melancholie<lb/>
 manifestiere; sie erzeugt eine dunkle Vor-<lb break="no"/>
 stellungskette. Um jedoch ihren Gehalt,<lb/>
@@ -114,13 +138,14 @@ Merkmal des Rhythmus für eine Vor-<lb break="no"/>
 stellung sehr charakteristisch ist, mag man<lb/>
 erkennen, dass er dieser bestimmten Vor-<lb break="no"/>
 stellung angehört.</p>
-<p>In diese engverschmolzenen Associa-<lb break="no"/>
+                     <p>In diese engverschmolzenen Associa-<lb break="no"/>
 tionsketten geselle sich auch <hi rend="italics">N</hi> hinzu,<lb/>
 das gleichfalls obigen psychischen Gehalt<lb/>
 auszudrücken bestrebt sei, etwa das heisere<lb/>
 Krächzen der Raben mit seinem schwer-<lb break="no"/>
 müthigen Tonfall. Endlich mag auch<lb/>
-zur plastischeren Gestaltung noch <hi rend="italics">P</hi><lb/>
+zur plastischeren Gestaltung noch <hi rend="italics">P</hi>
+                        <lb/>
 hinzutreten. (Düsteres durch tiefe Ton-<lb break="no"/>
 lagen.) Eine einzelne, alleinstehende<lb/>
 Melodie kann also schon zahlreiche Vor-<lb break="no"/>
@@ -137,9 +162,15 @@ das im einzelnen Fall nicht mehr möglich<lb/>
 wird zu entwirren. Die Musik unterscheidet<lb/>
 sich in dieser Beziehung von den anderen<lb/>
 Künsten nur dadurch, dass bei ihr auch die<lb/>
-Ausgangspunkte <hi rend="italics">A a</hi>, <hi rend="italics">b</hi>, <hi rend="italics">c</hi>, <hi rend="italics">d</hi> <hi rend="text-spaced">unter</hi> der<lb/>
+Ausgangspunkte <hi rend="italics">A a</hi>, <hi rend="italics">b</hi>, <hi rend="italics">c</hi>, <hi rend="italics">d</hi>
+                        <hi rend="text-spaced">unter</hi> der<lb/>
 Schwelle liegen.</p>
-</cell></row></table><p>A Hauptthema. — <milestone unit="undefined"/> Nebenthemen. — <milestone unit="undefined"/> χ, β subsumierte Nebenthemen</p><milestone unit="untyped-end"/></div>
+                  </cell>
+               </row>
+            </table>
+            <p>A Hauptthema. — <milestone unit="undefined"/> Nebenthemen. — <milestone unit="undefined"/> χ, β subsumierte Nebenthemen</p>
+            <milestone unit="untyped-end"/>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-04_n0077.xml"
-     prev="WR-05-03_n0076.xml"
-     next="WR-05-04_n0078.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-04_n0077.xml" prev="WR-05-03_n0076.xml" next="WR-05-04_n0078.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,33 +41,75 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 3</title>
+                  <idno>WR-05-03_n0049.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 5</title>
+                  <idno>WR-05-05_n0097.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="prose-start"/><milestone unit="masthead-start"/><p><hi rend="strong">WIENER<lb/>
-RUNDSCHAU</hi></p><p><hi rend="strong">HERAUSGEGEBEN VON FELIX RAPPAPORT</hi></p><table><row><cell>
-<p><date><hi rend="strong">15. FEBRUAR 1901</hi></date></p>
-</cell><cell>
-<p><hi rend="strong">V. JAHRGANG, NR. 4</hi></p>
-</cell></row></table><milestone unit="hr"/><milestone unit="untyped-end"/><milestone unit="untyped-start"/><ab><title>DIE ÄSTHETISCHE NATURBETRACHTUNG KEPLERS.<lb/>
-Von <rs type="person" key="">OTTO BRYK</rs> (Wien).</title></ab><table><row><cell>
-<p>Im tiefsten Innern unbefriedigt, trotz<lb/>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="strong">WIENER<lb/>
+RUNDSCHAU</hi>
+            </p>
+            <p>
+               <hi rend="strong">HERAUSGEGEBEN VON FELIX RAPPAPORT</hi>
+            </p>
+            <table>
+               <row>
+                  <cell>
+                     <p>
+                        <date>
+                           <hi rend="strong">15. FEBRUAR 1901</hi>
+                        </date>
+                     </p>
+                  </cell>
+                  <cell>
+                     <p>
+                        <hi rend="strong">V. JAHRGANG, NR. 4</hi>
+                     </p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIE ÄSTHETISCHE NATURBETRACHTUNG KEPLERS.<lb/>
+Von <rs type="person" key="">OTTO BRYK</rs> (Wien).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Im tiefsten Innern unbefriedigt, trotz<lb/>
 der täglich sich mehrenden Zahl natur-<lb break="no"/>
 wissenschaftlicher Entdeckungen; wirklich<lb/>
 wertvollen Gedankengängen gegenüber<lb/>
 voreingenommen, infolge der Gleich-<lb break="no"/>
 wertigkeit all dieser erkannten Thatsachen:<lb/>
 hat das gegenwärtige Zeitalter die Fähig-<lb break="no"/>
-keit verloren, auch den <hi rend="text-spaced">subjectiven</hi><lb/>
+keit verloren, auch den <hi rend="text-spaced">subjectiven</hi>
+                        <lb/>
 Gehalt von Natursystemen zu würdigen,<lb/>
 die Architektonik solcher Systeme nicht<lb/>
 bloß nach ihrer physikalischen, sondern<lb/>
 auch nach ihrer ästhetischen Bedeutsam-<lb break="no"/>
 keit aufzunehmen.</p>
-<p>Wohl darf nicht in Abrede gestellt<lb/>
+                     <p>Wohl darf nicht in Abrede gestellt<lb/>
 werden, dass es — im allgemeinen —<lb/>
 um die Naturwissenschaft besser bestellt<lb/>
 ist, wenn sich der einzelne Forscher nur<lb/>
@@ -86,10 +125,11 @@ barkeit des Erschlossenen absieht, und<lb/>
 dem Naturforscher die Freiheit lässt, ohne<lb/>
 jede Rücksicht auf das bereits Erkannte<lb/>
 oder Gefundene, seinen Phantasmen den</p>
-</cell><cell>
-<p rend="no-intend">Charakter objectiv wahrnehmbarer That-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Charakter objectiv wahrnehmbarer That-<lb break="no"/>
 sachen zu verleihen.</p>
-<p>Ganz anders aber verhält es sich,<lb/>
+                     <p>Ganz anders aber verhält es sich,<lb/>
 wenn es einem harmonisch fühlenden<lb/>
 Geiste gelungen ist, die Phänomene in<lb/>
 ihrer einfachen Größe anschaulich zu<lb/>
@@ -116,7 +156,10 @@ die Erklärung des Weltbildes anzuwenden<lb/>
 es, wie sie stark hervorheben, um die<lb/>
 objective Giltigkeit und Controlierbarkeit<lb/>
 allein zu thun ist.</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

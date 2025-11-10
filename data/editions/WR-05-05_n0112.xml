@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-05_n0112.xml"
-     prev="WR-05-05_n0111.xml"
-     next="WR-05-05_n0113.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-05_n0112.xml" prev="WR-05-05_n0111.xml" next="WR-05-05_n0113.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 4</title>
+                  <idno>WR-05-04_n0077.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 6</title>
+                  <idno>WR-05-06_n0115.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">KEUSCHHEIT UND PKODUCTIVITÄT.</fw></fw><table><row><cell>
-<p rend="no-intend">genuss auch die Suggestion eine Rolle<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KEUSCHHEIT UND PKODUCTIVITÄT.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">genuss auch die Suggestion eine Rolle<lb/>
 spielt, dass ein Geschlecht dem andern<lb/>
 zwar gibt, aber auch von ihm nimmt,<lb/>
 dass magnetische Wechselbeziehungen und<lb/>
@@ -60,13 +75,15 @@ Umständen die Quelle alles menschlichen<lb/>
 Daseins, die magnetische Kraft, eine Neu-<lb break="no"/>
 belebung erfahren kann. Aber freilich ist<lb/>
 zu alledem nicht der auf der anderen<lb/>
-Seite lebenszerrüttend wirkende <hi rend="text-spaced">physische</hi><lb/>
+Seite lebenszerrüttend wirkende <hi rend="text-spaced">physische</hi>
+                        <lb/>
 Liebesgenuss nothwendig — vielleicht ist<lb/>
-sogar der nicht-physische, gerade <hi rend="text-spaced">weil</hi><lb/>
+sogar der nicht-physische, gerade <hi rend="text-spaced">weil</hi>
+                        <lb/>
 er nie die körperliche Erfüllung findet,<lb/>
 der viel wirksamere nach der angedeuteten<lb/>
 Richtung.*</p>
-<p>Wir kommen also immer wieder darauf<lb/>
+                     <p>Wir kommen also immer wieder darauf<lb/>
 zurück, dass die geistige Schaffenskraft<lb/>
 die Beschränkung der Bethätigung der<lb/>
 körperlichen Schaffenskraft bedingt. Wohl-<lb break="no"/>
@@ -91,10 +108,13 @@ Kinder der Muse. Und kein Weib dürfte<lb/>
 verwegen genug sein, ihren Platz da ein-<lb break="no"/>
 zunehmen, wohin die Menschheit gehört.<lb/>
 Für den productiven Künstler kann das</p>
-</cell><cell>
-<p rend="no-intend">Weib im besten Falle nur eine Freundin<lb/>
-sein <milestone unit="5dots"/></p>
-<p>Eine andere Frage ist, ob <hi rend="text-spaced">alle</hi><lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Weib im besten Falle nur eine Freundin<lb/>
+sein <milestone unit="5dots"/>
+                     </p>
+                     <p>Eine andere Frage ist, ob <hi rend="text-spaced">alle</hi>
+                        <lb/>
 Menschen sich in dem Genusse der phy-<lb break="no"/>
 sischen Liebe Beschränkungen auferlegen<lb/>
 sollten, um sich ethischen und geistigen<lb/>
@@ -107,8 +127,9 @@ ist, wird diese Frage ebenso unbedingt<lb/>
 bejahen. Es sind schon viele Dinge im<lb/>
 Himmel und auf Erden möglich geworden,<lb/>
 von denen man sich nichts hat träumen<lb/>
-lassen <milestone unit="5dots"/></p>
-<p>Jedenfalls ist es die Keuschheit, welche<lb/>
+lassen <milestone unit="5dots"/>
+                     </p>
+                     <p>Jedenfalls ist es die Keuschheit, welche<lb/>
 den Menschen feinfühlig, sensibel, em-<lb break="no"/>
 pfindsam und empfindungsfähig macht,<lb/>
 welche ihn verinnerlicht, welche sein<lb/>
@@ -122,7 +143,7 @@ dem Einen der physischen Anlage nach<lb/>
 schneller geht als bei dem Anderen. Und<lb/>
 unsere Zeit hat die Keuschheit doppelt<lb/>
 nöthig, weil sie nicht nur direct hinter<lb/>
-<hi rend="text-spaced">der</hi> Zeit steht, welche dem physischen<lb/>
+                        <hi rend="text-spaced">der</hi> Zeit steht, welche dem physischen<lb/>
 Geschlechtsgenuss gewissermaßen Altäre<lb/>
 baute, sondern weil die Menschheit heute<lb/>
 vor der gewerbsmäßigen physischen Liebe<lb/>
@@ -132,14 +153,20 @@ sondern auch geistig. Und nicht nur<lb/>
 moralisch, nicht nur physisch, sondern<lb/>
 auch geistig ist die Keuschheit allein<lb/>
 imstande, den Menschen zu regenerieren.</p>
-</cell></row></table><note type="footnote">
-<p>* Man vergleiche hierzu die Schrift »Kärleken under normal och abnorm Form«.<lb/>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Man vergleiche hierzu die Schrift »Kärleken under normal och abnorm Form«.<lb/>
 Helsingfors, <date>1900</date>, Söderström &amp; Co. Auch dieser Verfasser ist der Ansicht, dass die sexuelle<lb/>
 Energie in geistige Productionskraft umgewandelt werden kann«. Auch in Dr. O. Panizzas<lb/>
 »Züricher Discussionen« ist diese Frage mehrfach behandelt worden. Endlich hat Björnstjerne<lb/>
 Björnson, zum mindesten in jüngeren Jahren, obigen Standpunkt vertreten, dem auch Strindberg<lb/>
 nahesteht.</p>
-</note><milestone unit="untyped-end"/><milestone unit="undefined"/></div>
+            </note>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
       </body>
    </text>
 </TEI>

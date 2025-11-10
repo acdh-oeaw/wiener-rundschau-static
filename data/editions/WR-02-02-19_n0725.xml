@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-19_n0725.xml"
-     prev="WR-02-02-19_n0724.xml"
-     next="WR-02-02-19_n0726.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-19_n0725.xml" prev="WR-02-02-19_n0724.xml" next="WR-02-02-19_n0726.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,20 +42,56 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 18</title>
+                  <idno>WR-02-02-18_n0677.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 20</title>
+                  <idno>WR-02-02-20_n0749.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">EINIGE ERINNERUNGEN AN KARL A. TAVASTSTJERNA.</fw><fw type="pn">725</fw></fw><p rend="no-intend">Reiterei« — jenem ausgelassenen Tanz voller Wehmuth und Übermuth<lb/>
-aus dem dreissigjährigen Krieg — den stolzen Refrain:</p><milestone unit="verse-start"/><lg><l>»Wir tränken uns’re Rosse im kaiserlichen Fluss <milestone unit="4dots"/>«</l></lg><milestone unit="untyped-end"/><p>Nun, in jenem erwähnten Björneborg, als Redacteur eines zweimal<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">EINIGE ERINNERUNGEN AN KARL A. TAVASTSTJERNA.</fw>
+               <fw type="pn">725</fw>
+            </fw>
+            <p rend="no-intend">Reiterei« — jenem ausgelassenen Tanz voller Wehmuth und Übermuth<lb/>
+aus dem dreissigjährigen Krieg — den stolzen Refrain:</p>
+            <milestone unit="verse-start"/>
+            <lg>
+               <l>»Wir tränken uns’re Rosse im kaiserlichen Fluss <milestone unit="4dots"/>«</l>
+            </lg>
+            <milestone unit="untyped-end"/>
+            <p>Nun, in jenem erwähnten Björneborg, als Redacteur eines zweimal<lb/>
 wöchentlich erscheinenden Provinzblättchens, starb also der Erbe von<lb/>
 Topelius’ Dichterlorbeer, erst 38 Jahre alt. Eigentlich war das keine<lb/>
 imposante Lebensstellung für die grösste dichterische Begabung eines<lb/>
 auf seine geistigen Ressourcen so stark angewiesenen Landes gewesen<lb/>
 — insbesondere, wenn man dazu erwägt, dass besagter Tavaststjerna<lb/>
-als Sohn eines Generals und grossen Gutsbesitzers geboren worden.</p><p>Und in seiner Jugend schien es ihm auch gehen zu sollen, wie<lb/>
+als Sohn eines Generals und grossen Gutsbesitzers geboren worden.</p>
+            <p>Und in seiner Jugend schien es ihm auch gehen zu sollen, wie<lb/>
 es dem Sohn eines Generals und grossen Gutsbesitzers in einem<lb/>
 patriotischgesinnten Lande zukommt. Ursprünglich Architekt, wurde er<lb/>
 so früh berühmt, so stark gefeiert, so gut honoriert und mit Geld<lb/>
@@ -71,7 +104,8 @@ andere — ausser den unendlichen russischen Ebenen — sie eingibt,<lb/>
 Theaterstücke mit modernen Geldconflicten, Novellen und Erzählungen<lb/>
 mit mondainen und emancipierten finnländischen Damen, darunter<lb/>
 jene melancholische Geschichte »<hi rend="italics">Kindheitsgespielen</hi>«, wo der Mann<lb/>
-so wild und weich, das Weib so streng und bewusst ist.</p><p>Da er es haben konnte, so reiste er viel, wurde heimisch in<lb/>
+so wild und weich, das Weib so streng und bewusst ist.</p>
+            <p>Da er es haben konnte, so reiste er viel, wurde heimisch in<lb/>
 reicheren und südlicheren Ländern, sein Blick wurde weiter, seine<lb/>
 Begabung tiefer und vielseitiger und sein Gefühl schwoll, je mehr die<lb/>
 Jahre giengen, in immer volleren, beseelteren Rhythmen<milestone unit="4dots"/> Aber je<lb/>
@@ -85,13 +119,16 @@ allein in schlechtem Boot bei Sturm und Wetter zwischen gefährlichen<lb/>
 Scheeren, wo kein gutgekleideter Mensch vor einem anderen gut-<lb break="no"/>
 gekleideten Menschen sich sehen lässt; und eins der Resultate dieses<lb/>
 Kreuzens zwischen Blindscheeren war sein Buch: »<hi rend="text-spaced">Das Geheimnis<lb/>
-der finnischen Bucht</hi>«.</p><p>Aber er reiste auch herum auf dem weiten armen <hi rend="text-spaced">finnischen<lb/>
+der finnischen Bucht</hi>«.</p>
+            <p>Aber er reiste auch herum auf dem weiten armen <hi rend="text-spaced">finnischen<lb/>
 Bauernland</hi>, wo unter strengen Wintern, nach verregneten Sommern,<lb/>
 Hungersnöthe wüthen, wo verlassene Bauernweiber, deren Männer<lb/>
 weit weg auf Arbeit ausgezogen, nicht einmal mehr das Rindenbrot<lb/>
 und den Tropfen Milch für ihre verhungernden Kinder hatten und<lb/>
 bettelnd um die Gutshöfe strichen, in denen die schwedischen Herr-<lb break="no"/>
-schaften ihre eigenen Sorgen und Kümmernisse in den »<hi rend="text-spaced">Harten</hi></p></div>
+schaften ihre eigenen Sorgen und Kümmernisse in den »<hi rend="text-spaced">Harten</hi>
+            </p>
+         </div>
       </body>
    </text>
 </TEI>

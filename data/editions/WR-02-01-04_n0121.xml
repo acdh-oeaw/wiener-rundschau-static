@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-04_n0121.xml"
-     prev="WR-02-01-03_n0120.xml"
-     next="WR-02-01-04_n0122.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-04_n0121.xml" prev="WR-02-01-03_n0120.xml" next="WR-02-01-04_n0122.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,15 +42,57 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 3</title>
+                  <idno>WR-02-01-03_n0081.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 5</title>
+                  <idno>WR-02-01-05_n0161.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="prose-start"/><milestone unit="masthead-start"/><p><hi rend="initial">Wiener</hi> <hi rend="initial">Rundschau</hi>.</p><milestone unit="hr"/><p><hi rend="strong"><date>1. <hi rend="text-spaced">JANUAR</hi> 1898</date>.</hi></p><milestone unit="hr"/><milestone unit="untyped-end"/><milestone unit="untyped-start"/><ab><title>BETRACHTUNGEN ÜBER DIE ZIELE UNSERER ZEIT.<lb/>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="initial">Wiener</hi>
+               <hi rend="initial">Rundschau</hi>.</p>
+            <milestone unit="hr"/>
+            <p>
+               <hi rend="strong">
+                  <date>1. <hi rend="text-spaced">JANUAR</hi> 1898</date>.</hi>
+            </p>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>BETRACHTUNGEN ÜBER DIE ZIELE UNSERER ZEIT.<lb/>
 Von <rs type="person" key="">Camille Mauclair</rs> (Paris).<lb/>
-Autorisirte Uebersetzung von <rs type="person" key="">St. G.</rs></title></ab><p>Eine Studie, die ich jüngst veröffentlichte, hat mir mehrere Briefe<lb/>
+Autorisirte Uebersetzung von <rs type="person" key="">St. G.</rs>
+               </title>
+            </ab>
+            <p>Eine Studie, die ich jüngst veröffentlichte, hat mir mehrere Briefe<lb/>
 von jungen Leuten verschafft. Ich habe in der erwähnten Arbeit aus-<lb break="no"/>
 einandergesetzt, dass nach meiner Meinung unseren Intelligenzen die<lb/>
 Charaktere mangeln, ich betonte die Activität aller Energie und ich<lb/>
@@ -78,8 +117,10 @@ Poet achtet darauf, dass sein Leben seine beste Dichtung sei!« Der<lb/>
 Mensch soll das lebende Symbol seiner Grundsätze sein. Wir aber<lb/>
 haben daran uns gewöhnt, unseren Grundsätzen sehr viel schuldig zu<lb/>
 bleiben und im Nothfall ein paar ironisch fatalistische Entschuldigungen<lb/>
-zu stammeln. Der Fehler liegt darin, dass wir Alles nur mit <hi rend="text-spaced">Worten</hi><lb/>
-bezahlen, dass wir nicht <hi rend="text-spaced">leben</hi> können und uns sehr verschmitzt be-</p></div>
+zu stammeln. Der Fehler liegt darin, dass wir Alles nur mit <hi rend="text-spaced">Worten</hi>
+               <lb/>
+bezahlen, dass wir nicht <hi rend="text-spaced">leben</hi> können und uns sehr verschmitzt be-</p>
+         </div>
       </body>
    </text>
 </TEI>

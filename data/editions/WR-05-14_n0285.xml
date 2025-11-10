@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-14_n0285.xml"
-     prev="WR-05-14_n0284.xml"
-     next="WR-05-14_n0286.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-14_n0285.xml" prev="WR-05-14_n0284.xml" next="WR-05-14_n0286.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 13</title>
+                  <idno>WR-05-13_n0265.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 15</title>
+                  <idno>WR-05-15_n0295.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">KUHLENBECK: DAS WELTALL UND DAS INDIVIDUUM.</fw></fw><table><row><cell>
-<p rend="no-intend">sein mussten? Das konnte der Ägypter<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KUHLENBECK: DAS WELTALL UND DAS INDIVIDUUM.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">sein mussten? Das konnte der Ägypter<lb/>
 nicht. Wer mit dem Himmel und der<lb/>
 Erde nicht in gleicher Liebe und Gegen-<lb break="no"/>
 liebe lebt, wer nicht in diesem Sinne<lb/>
@@ -60,7 +75,7 @@ sich regt, ist von Natur auch nicht mit<lb/>
 sich selbst einig und erfährt die ewige<lb/>
 Schönheit wenigstens nicht so leicht wie<lb/>
 ein Grieche.</p>
-<p>Wie ein prächtiger Despot wirft der<lb/>
+                     <p>Wie ein prächtiger Despot wirft der<lb/>
 orientalische Himmelsstrich seine Bewohner<lb/>
 mit seiner Macht und seinem Glanze<lb/>
 zu Boden, und ehe der Mensch noch<lb/>
@@ -80,7 +95,7 @@ finstere Isis ist sein Erstes und Letztes, eine<lb/>
 leere Unendlichkeit, und da heraus ist nie<lb/>
 Vernünftiges gekommen. Auch aus dem<lb/>
 erhabensten Nichts wird Nichts geboren!</p>
-<p>Der Norden hingegen treibt seine<lb/>
+                     <p>Der Norden hingegen treibt seine<lb/>
 Zöglinge zu früh in sich hinein, und wenn<lb/>
 der Geist des feurigen Ägypters zu reise-<lb break="no"/>
 lustig in die Welt hinauseilt, schickt sich<lb/>
@@ -99,12 +114,13 @@ man nicht in ihm gedeihen und reifen,<lb/>
 ehe er sich bildet und entwickelt. Der<lb/>
 bloße Verstand, die bloße Vernunft sind<lb/>
 immer die Könige des Nordens. Aber</p>
-</cell><cell>
-<p rend="no-intend">aus bloßem Verstand ist nie Verständiges,<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">aus bloßem Verstand ist nie Verständiges,<lb/>
 aus bloßer Vernunft ist nie Vernünftiges<lb/>
 gekommen.« (Vgl. unsere erkenntnistheo-<lb break="no"/>
 retische Ouvertüre in IV, Nr. 13.)</p>
-<p>»Verstand ist ohne Geistesschönheit,<lb/>
+                     <p>»Verstand ist ohne Geistesschönheit,<lb/>
 wie ein dienstbarer Geselle, der den Zaun<lb/>
 aus grobem Holz zimmert wie ihm vor-<lb break="no"/>
 gezeichnet ist und die gezimmerten Pfähle<lb/>
@@ -125,7 +141,7 @@ sieht es fast ungern, wenn es vor sich<lb/>
 geht; denn am Ende hätte er ja nichts<lb/>
 mehr zu treiben und seine Rolle wäre<lb/>
 ausgespielt.</p>
-<p>Aus bloßem Verstande kommt keine<lb/>
+                     <p>Aus bloßem Verstande kommt keine<lb/>
 Philosophie; denn Philosophie ist mehr<lb/>
 als die beschränkte Erkenntnis des Vor-<lb break="no"/>
 handenen. — Aus bloßer Vernunft kommt<lb/>
@@ -137,7 +153,7 @@ Stoffes. Leuchtet aber das Göttliche <lb/>
 , das Ideal der Schön-<lb break="no"/>
 heit der sterbenden Vernunft, so fordert<lb/>
 sie nicht blind, und weiß, was sie fordert.«</p>
-<p>Indem wir diese Worte Hölderlins<lb/>
+                     <p>Indem wir diese Worte Hölderlins<lb/>
 unter unsere Bausteine aufnehmen, erklären<lb/>
 wir zugleich, dass die wahrhaft heroische<lb/>
 Weltanschauung zugleich die wahrhaft<lb/>
@@ -147,7 +163,12 @@ wird zu diesen Worten und zu einem<lb/>
 Gedichte desselben Hölderlin, des »Schick-<lb break="no"/>
 sal«, das wir später mittheilen werden,<lb/>
 nur prosaische Paraphrase sein.</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/></div>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
       </body>
    </text>
 </TEI>

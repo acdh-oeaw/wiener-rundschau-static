@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-12_n0261.xml"
-     prev="WR-05-12_n0260.xml"
-     next="WR-05-12_n0262.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-12_n0261.xml" prev="WR-05-12_n0260.xml" next="WR-05-12_n0262.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 11</title>
+                  <idno>WR-05-11_n0225.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 13</title>
+                  <idno>WR-05-13_n0265.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BLEIBTREU: »ARBEIT«.</fw></fw><table><row><cell>
-<p>wuth geht schon so weit, dass sie die<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BLEIBTREU: »ARBEIT«.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>wuth geht schon so weit, dass sie die<lb/>
 Charakterisierung durch Namen, diese<lb/>
 Eselsbrücke unserer literarischen Urgroß-<lb break="no"/>
 väter, nicht verschmäht und das Fabriks-<lb break="no"/>
@@ -76,7 +91,7 @@ wie eine wohlthuende Brise der Wirk-<lb break="no"/>
 lichkeit die saftige Gemeinheit der klein-<lb break="no"/>
 städtischen Bourgeosie, von der uns eine<lb/>
 Musterkarte zur Auswahl unterbreitet wird.<lb/>
-<hi rend="text-spaced">Diese</hi> Typen des allzu Menschlichen<lb/>
+                        <hi rend="text-spaced">Diese</hi> Typen des allzu Menschlichen<lb/>
 sind ja leider alle, alle echt, aber indem<lb/>
 er sie uns ohne jede Nebenbeilage in<lb/>
 pikanter Sauce vorsetzt, sündigt Zola<lb/>
@@ -105,8 +120,9 @@ das brutal beschränkte Arbeitsautomobil,<lb/>
 das aus soundsoviel Menschenfleisch so-<lb break="no"/>
 undsoviel Francs herausquetscht. Übrigens<lb/>
 verleugnet Zola selbst hier nicht den Ideo-</p>
-</cell><cell>
-<p>logen, indem er den verrückten Gerichts-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p>logen, indem er den verrückten Gerichts-<lb break="no"/>
 präsidenten am Schluss geradezu anarchi-<lb break="no"/>
 stisch denken, d. h. diese Selbstbekehrung<lb/>
 gerade an Angehörigen der unbekehrbarsten<lb/>
@@ -120,7 +136,8 @@ mit crasser Selbstsucht vermählt, wo auch<lb/>
 die staatlich patentierte Culturvertretung<lb/>
 des Gymnasiallehrers ein vollgerüttelt Maß<lb/>
 zornigen Spottes über seinen despotischen<lb/>
-Unfehlbarkeitsdünkel empfängt, steht <hi rend="text-spaced">eine</hi><lb/>
+Unfehlbarkeitsdünkel empfängt, steht <hi rend="text-spaced">eine</hi>
+                        <lb/>
 reinere Gestalt da, in deren rührender<lb/>
 Komik sich die göttliche Wahrheitsliebe<lb/>
 des echten Dichters noch einmal offenbart.<lb/>
@@ -136,7 +153,8 @@ hat der große Mann die Campagne wider<lb/>
 den »Weihwedel« nie im Tonfall seiner<lb/>
 radicalen Genossen mitgemacht. Denn<lb/>
 willst du genau erfahren, was sich schickt,<lb/>
-so frage nur bei edlen Dichtern an <milestone unit="3dots"/><lb/>
+so frage nur bei edlen Dichtern an <milestone unit="3dots"/>
+                        <lb/>
 Ihre Gerechtigkeitsliebe fordert gebieterisch<lb/>
 ein feines Taktgefühl. Wohl griff er den<lb/>
 Clericalismus gewaltig an, wie es sowohl<lb/>
@@ -160,7 +178,10 @@ des Katholicismus. Nun wohl, und da<lb/>
 sollen wir ihm jetzt auf einmal glauben,<lb/>
 dass die Weltmacht schon zu Ende gieng?<lb/>
 Die kurze Scene, wo der einfältige, kleine</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

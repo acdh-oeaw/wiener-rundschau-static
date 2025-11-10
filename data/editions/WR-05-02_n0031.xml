@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-02_n0031.xml"
-     prev="WR-05-02_n0030.xml"
-     next="WR-05-02_n0032.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-02_n0031.xml" prev="WR-05-02_n0030.xml" next="WR-05-02_n0032.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 1</title>
+                  <idno>WR-05-01_n0001.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 3</title>
+                  <idno>WR-05-03_n0049.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">SWINBURNE: DIE DICHTUNGEN DES DANTE GABRIEL ROSSETTI.</fw></fw><table><row><cell>
-<p rend="no-intend">Shakespeares Dramen, an denen des<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">SWINBURNE: DIE DICHTUNGEN DES DANTE GABRIEL ROSSETTI.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Shakespeares Dramen, an denen des<lb/>
 Äschylos, die venetianischen Maler, an den<lb/>
 athenischen Bildern gemessen, weder Fort-<lb break="no"/>
 noch Rückschritt bedeuten. Die Art und<lb/>
@@ -66,7 +81,7 @@ seinen Lebzeiten besessen. Die Gabe hat<lb/>
 sich nicht erst einige Jahrhunderte, nach-<lb break="no"/>
 dem er bestattet war, plötzlich einge-<lb break="no"/>
 stellt.</p>
-<p>Das Werk Dante Gabriel Rossettis<lb/>
+                     <p>Das Werk Dante Gabriel Rossettis<lb/>
 beispielsweise zeichnet sich, abgesehen<lb/>
 von all seinen specifischen Besonderheiten,<lb/>
 die es von allen anderen Meisterwerken<lb/>
@@ -87,8 +102,9 @@ vertändeln würde. Jedes Kunstwerk dieser<lb/>
 Hand trägt die Marke des Meisters. Ein<lb/>
 solches Gleichgewicht zweier großer<lb/>
 Gaben ist wohl bis dahin unerhört. Beide</p>
-</cell><cell>
-<p rend="no-intend">Schwestern dienen ihm in gleicher Weise,<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Schwestern dienen ihm in gleicher Weise,<lb/>
 ohne gegenseitigen Neid, ohne Verwirrung.<lb/>
 Er ist zugleich der glänzendste Maler,<lb/>
 der subtilste Poet. Dabei hat er nie die<lb/>
@@ -124,7 +140,12 @@ seine Erstlinge Liebe, Farben und Klänge<lb/>
 waren: dass aber zwei von diesen Gewalten:<lb/>
 Farben und Klänge, niemals dem Tode<lb/>
 weichen werden.</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/></div>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
       </body>
    </text>
 </TEI>

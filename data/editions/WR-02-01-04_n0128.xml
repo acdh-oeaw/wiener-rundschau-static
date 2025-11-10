@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-04_n0128.xml"
-     prev="WR-02-01-04_n0127.xml"
-     next="WR-02-01-04_n0129.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-04_n0128.xml" prev="WR-02-01-04_n0127.xml" next="WR-02-01-04_n0129.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,13 +42,42 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 3</title>
+                  <idno>WR-02-01-03_n0081.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 5</title>
+                  <idno>WR-02-01-05_n0161.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">128</fw><fw type="ctext">MAUCLAIR.</fw></fw><p rend="no-intend">Nora, Brand, Borkmann denken, und versichere ich Ihnen, das moralische,<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">128</fw>
+               <fw type="ctext">MAUCLAIR.</fw>
+            </fw>
+            <p rend="no-intend">Nora, Brand, Borkmann denken, und versichere ich Ihnen, das moralische,<lb/>
 d. i. das tragische Verhängniss dieser Gestalten ist ihnen völlig im<lb/>
 Dunkeln geblieben. Einer unserer besten Romanciers sprach jüngst in<lb/>
 einem Vorwort von seinem Wunsch, einmal eine rein geistige Emotion<lb/>
@@ -73,7 +99,8 @@ wird? Ich habe gesucht und nichts gefunden. Ich constatire ein gewisses<lb/>
 Interesse für Formen, ein Register von technischen Verfahren, aber<lb/>
 — kein Feuer, wo eine unruhige Seele sich wärmen könnte. Also —<lb/>
 Künstler sein? Aber was ich will, ist: Mensch sein. Und das werden sie<lb/>
-mich nicht lehren, deshalb nehme ich <hi rend="text-spaced">meinen</hi> Weg und suche anderswo.</p><p>Meine Schlussfolgerung: Drücken Sie jetzt Alles durch Ihren<lb/>
+mich nicht lehren, deshalb nehme ich <hi rend="text-spaced">meinen</hi> Weg und suche anderswo.</p>
+            <p>Meine Schlussfolgerung: Drücken Sie jetzt Alles durch Ihren<lb/>
 Charakter aus, wie wenn es Ihnen nicht gegeben wäre, eines Tages<lb/>
 Alles — mit mehr Echo — durch die Literatur auszudrücken. Be-<lb break="no"/>
 trachten Sie sich, wie wenn Sie auf die <hi rend="text-spaced">menschlichen</hi> Mittel<lb/>
@@ -84,7 +111,8 @@ was Sie sein wollten: Ein Mensch, der an sich selbst mit reinen Händen<lb/>
 gearbeitet hat. Ich habe Ihnen gesagt, was ich Ihnen sagen wollte.<lb/>
 Kehren Sie nach Hause zurück, rüsten Sie sich, lieben Sie Ihre Zeit<lb/>
 und erwarten Sie Alles von Ihrem Gewissen und Ihren natürlichen<lb/>
-Fähigkeiten, nichts von den Schulen!«</p><p>Das sind so ziemlich die Gedanken, welche ich einem der Brief-<lb break="no"/>
+Fähigkeiten, nichts von den Schulen!«</p>
+            <p>Das sind so ziemlich die Gedanken, welche ich einem der Brief-<lb break="no"/>
 schreiber, wenn er mir zu Gesicht käme, mittheilen wollte. Es ist un-<lb break="no"/>
 leugbar, dass wir zu viel Bücher fabricirten und zu wenig Menschen<lb/>
 erzogen. Eine Wiedererhebung des Menschen ist nöthig, ein reiches,<lb/>
@@ -93,7 +121,10 @@ Doch nicht flüsternd, klügelnd, indem man sich verschliesst, gelangt<lb/>
 man dahin <milestone unit="4dots"/> Jemand sagte mir: »Ah, Sie suchen Abenteuer? Aber<lb/>
 sind das die Rufe eines Poeten?« Was liegt an den Namen? Ob mein<lb/>
 Ruf der eines Dichter ist, wer kann es wissen? Aber es ist der Schrei<lb/>
-eines Menschen, das weiss ich!</p><milestone unit="untyped-end"/><milestone unit="hr"/></div>
+eines Menschen, das weiss ich!</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="hr"/>
+         </div>
       </body>
    </text>
 </TEI>

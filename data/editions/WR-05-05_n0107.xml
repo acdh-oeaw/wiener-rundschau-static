@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-05_n0107.xml"
-     prev="WR-05-05_n0106.xml"
-     next="WR-05-05_n0108.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-05_n0107.xml" prev="WR-05-05_n0106.xml" next="WR-05-05_n0108.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 4</title>
+                  <idno>WR-05-04_n0077.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 6</title>
+                  <idno>WR-05-06_n0115.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">KOMAREK: VOM WESEN DER MUSIK.</fw></fw><table><row><cell>
-<p>kann wohl des öfteren gesagt werden<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KOMAREK: VOM WESEN DER MUSIK.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>kann wohl des öfteren gesagt werden<lb/>
 können, welche Vorstellungen sich hier<lb/>
 mystisch vereint haben mögen; da jedoch<lb/>
 dies andererseits meist nur subjectiv sein<lb/>
@@ -105,8 +120,9 @@ die Nachahmung des Rhythmus beim Gehen<lb/>
 und Tanzen denselben Anspruch hat, als<lb/>
 die älteste zu gelten; allein der Rhythmus<lb/>
 des Gehens bietet wenig Abwechslung</p>
-</cell><cell>
-<p>und nur schwer eine Melodie; der Tanz,<lb/>
+                  </cell>
+                  <cell>
+                     <p>und nur schwer eine Melodie; der Tanz,<lb/>
 der abwechslungsreicher ist, erfordert jedoch<lb/>
 Erfindung oder eine entstandene Sitte, die<lb/>
 mit den Opferungen, wichtigen Lebens-<lb break="no"/>
@@ -160,7 +176,10 @@ Tonfalles beim Sprechen bestimmt. Je<lb/>
 ausdrucksvoller dieser Tonfall, respective<lb/>
 je tiefer der seelische Gehalt, desto wert-<lb break="no"/>
 voller die Melodie. Fehlt jedoch dieser</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

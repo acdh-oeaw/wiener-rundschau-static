@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-18_n0348.xml"
-     prev="WR-05-18_n0347.xml"
-     next="WR-05-18_n0349.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-18_n0348.xml" prev="WR-05-18_n0347.xml" next="WR-05-18_n0349.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,28 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 17</title>
+                  <idno>WR-05-17_n0327.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BAILLY: DIE MELOMANIE DES DICHTERS VILLIERS DE L’ISLE-ADAM.</fw></fw><table><row><cell>
-<p rend="no-intend">wechselten mit kurzen Worten, ohne dass<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BAILLY: DIE MELOMANIE DES DICHTERS VILLIERS DE L’ISLE-ADAM.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">wechselten mit kurzen Worten, ohne dass<lb/>
 die andächtige Versunkenheit, in der wir<lb/>
 uns gefielen, dadurch gestört worden wäre;<lb/>
 da richtete ich nun plötzlich, ohne Um-<lb break="no"/>
@@ -64,7 +75,7 @@ häuser«, »Lohengrin«, den »Fliegenden<lb/>
 Holländer«, selbst die »Meistersinger« und<lb/>
 »Parsifal« (an den er schon damals dachte)<lb/>
 mit jenem so hohen und eindrucksvollen<lb/>
-<hi rend="text-spaced">Mysticismus</hi> zu füllen, der all diesen<lb/>
+                        <hi rend="text-spaced">Mysticismus</hi> zu füllen, der all diesen<lb/>
 Werken entströmt — ferner: ob er jenseits<lb/>
 von seinem persönlichen Glauben Freigeist<lb/>
 genug und unabhängig genug von seinem<lb/>
@@ -80,20 +91,21 @@ mir ein Ding, das dieser Frage Berech-<lb break="no"/>
 tigung gab, in »Tristan und Isolde« auf-<lb break="no"/>
 gefallen: der Umstand nämlich, dass in<lb/>
 diesem berauschenden Werke, in welchem<lb/>
-die intensivste Liebe <hi rend="text-spaced">geringschätzig</hi><lb/>
+die intensivste Liebe <hi rend="text-spaced">geringschätzig</hi>
+                        <lb/>
 auf die Verblendung durch einen Liebes-<lb break="no"/>
 trank zurückgeführt wird, <hi rend="text-spaced">der Name<lb/>
 Gottes nicht ein einzigesmal<lb/>
 ausgesprochen</hi> erscheint.</p>
-<p>Stets wird mir der Blick in Erinnerung<lb/>
+                     <p>Stets wird mir der Blick in Erinnerung<lb/>
 bleiben, den Wagner aus der Tiefe seiner<lb/>
 ungewöhnlichen blauen Augen nun auf<lb/>
 mich warf.</p>
-<p>»<milestone unit="2dots"/> Aber, wenn ich nicht« — ant-<lb break="no"/>
+                     <p>»<milestone unit="2dots"/> Aber, wenn ich nicht« — ant-<lb break="no"/>
 wortete er lächelnd — »das lebende Licht<lb/>
 und die lebendige Liebe dieses christlichen<lb/>
 Glaubens, von dem Sie sprechen, gefühlt,<lb/>
-<hi rend="text-spaced">in meiner Seele</hi> gefühlt hätte, dann<lb/>
+                        <hi rend="text-spaced">in meiner Seele</hi> gefühlt hätte, dann<lb/>
 wären ja meine Werke, die davon zeugen<lb/>
 und an die ich meinen Geist just so wie<lb/>
 die Frist meines Lebens wende, sie alle<lb/>
@@ -105,8 +117,9 @@ stieren und im Grunde ein Betrug schien?<lb/>
 Meine Kunst ist mein Gebet — und,<lb/>
 glauben Sie mir, kein wirklicher Künstler<lb/>
 singt Anderes, als das, woran er glaubt,</p>
-</cell><cell>
-<p rend="no-intend">spricht über Anderes, als über das, was<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">spricht über Anderes, als über das, was<lb/>
 er liebt, schreibt Anderes, als was er<lb/>
 denkt; denn Jene, welche lügen, verrathen<lb/>
 sich in ihrem Werke, das sich bald als<lb/>
@@ -114,7 +127,7 @@ unfruchtbar und wertlos erweisen muss,<lb/>
 weil niemand ein wirkliches Meisterwerk<lb/>
 ohne Uneigennützigkeit, ohne Aufrichtig-<lb break="no"/>
 keit zustandebringen kann.«</p>
-<p>»Jawohl, wer aus niedrigem Interesse<lb/>
+                     <p>»Jawohl, wer aus niedrigem Interesse<lb/>
 — Erfolg oder Geld — in seinem angeb-<lb break="no"/>
 lichen Kunstwerke mit einem fingierten<lb/>
 Glauben Grimassen schneidet, verräth sich<lb/>
@@ -160,7 +173,10 @@ zunutze machen, die aber beim Austritt<lb/>
 aus dem erleuchteten Nichts ihres Geistes<lb/>
 alsbald verlöschen — so kann doch anderer-<lb break="no"/>
 seits der <hi rend="text-spaced">Glaube allein</hi> nur erhabene</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

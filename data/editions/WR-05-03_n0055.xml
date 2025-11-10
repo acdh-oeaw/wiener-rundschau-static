@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-03_n0055.xml"
-     prev="WR-05-03_n0054.xml"
-     next="WR-05-03_n0056.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-03_n0055.xml" prev="WR-05-03_n0054.xml" next="WR-05-03_n0056.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,23 +41,44 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 2</title>
+                  <idno>WR-05-02_n0023.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 4</title>
+                  <idno>WR-05-04_n0077.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">GIDE: PHILOKTET ODER DER TRACTAT VON DEN DREI LEBENSANSCHAUUNGEN.</fw></fw><table><row><cell>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Philoktet</hi>: Wohin ich auch gehe,<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">GIDE: PHILOKTET ODER DER TRACTAT VON DEN DREI LEBENSANSCHAUUNGEN.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Philoktet</hi>: Wohin ich auch gehe,<lb/>
 immer bin ich ein Sohn Griechenlands.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Ulysses</hi>: Aber du hast ja nieman-<lb break="no"/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Ulysses</hi>: Aber du hast ja nieman-<lb break="no"/>
 den, mit dem du sprechen könntest.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Philoktet</hi>: Ich sagte dir es ja; hast<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Philoktet</hi>: Ich sagte dir es ja; hast<lb/>
 du mich nicht verstanden? Ich drücke<lb/>
 mich besser aus, seitdem ich nicht<lb/>
 mehr zu Menschen spreche. Zwischen<lb/>
@@ -110,64 +128,79 @@ waren so schön, dass ich vor Trauer<lb/>
 aufschluchzte, weil kein Mensch sie<lb/>
 hören konnte. Seine Seele, schien es<lb/>
 mir, hätte müssen anders werden.</p>
-</cell><cell>
-<p rend="no-intend">Horch, Ulysses, horch! Man hat mich<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Horch, Ulysses, horch! Man hat mich<lb/>
 noch nicht gehört.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Ulysses</hi>: Du hast dich, wie ich<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Ulysses</hi>: Du hast dich, wie ich<lb/>
 sehe, gewöhnt, zu sprechen, ohne dass<lb/>
 dich jemand unterbricht. Also, sage den<lb/>
 Vers.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Philoktet</hi> (declamierend): »Unend-<lb break="no"/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Philoktet</hi> (declamierend): »Unend-<lb break="no"/>
 liches Lächeln der Wogen des Meeres <milestone unit="3dots"/>«</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Ulysses</hi> (lächelnd): Aber Philoktet,<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Ulysses</hi> (lächelnd): Aber Philoktet,<lb/>
 das ist ja von Äschylos.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Philoktet</hi>: Vielleicht <milestone unit="3dots"/> das geniert<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Philoktet</hi>: Vielleicht <milestone unit="3dots"/> das geniert<lb/>
 dich <milestone unit="3dots"/>? (Den Vers wieder aufnehmend:)<lb/>
 »Unendliches Schluchzen der Wogen<lb/>
 des Meeres <milestone unit="3dots"/>« (Er schweigt.)</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Ulysses</hi>: Und <milestone unit="3dots"/></p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Philoktet</hi>: Ich weiß nichts mehr<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Ulysses</hi>: Und <milestone unit="3dots"/>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Philoktet</hi>: Ich weiß nichts mehr<lb/>
 weiter <milestone unit="3dots"/> ich bin verwirrt!</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Ulysses</hi>: Umso schlimmer! Ein<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Ulysses</hi>: Umso schlimmer! Ein<lb/>
 anderesmal wirst du es fortsetzen.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Neoptolemos</hi>: O fahre doch fort,<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Neoptolemos</hi>: O fahre doch fort,<lb/>
 Philoktet!</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Ulysses</hi>: Sieh’ nur! Das Kind hat<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Ulysses</hi>: Sieh’ nur! Das Kind hat<lb/>
 dir zugehört!</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Philoktet</hi>: Ich weiß nichts mehr<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Philoktet</hi>: Ich weiß nichts mehr<lb/>
 zu sagen.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Ulysses</hi> (erhebt sich): Ich lasse dich<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Ulysses</hi> (erhebt sich): Ich lasse dich<lb/>
 einen Augenblick, deine Gedanken zu<lb/>
-finden. Gleich bin ich wieder da! <milestone unit="3dots"/><lb/>
+finden. Gleich bin ich wieder da! <milestone unit="3dots"/>
+                        <lb/>
 Aber sage, es gibt doch keine Gefangen-<lb break="no"/>
 schaft, die hart genug wäre, nicht auch<lb/>
 ihre Ruhe, ihr Vergessen, ihren Auf-<lb break="no"/>
 schub zu haben?</p>
-<milestone unit="untyped-end"/>
-<milestone unit="speech-start"/>
-<p><hi rend="text-spaced">Philoktet</hi>: Ja, Ulysses! Einmal<lb/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="speech-start"/>
+                     <p>
+                        <hi rend="text-spaced">Philoktet</hi>: Ja, Ulysses! Einmal<lb/>
 fiel ein Vogel, auf den ich geschossen<lb/>
 hatte; mein Pfeil hatte ihn nur ver-<lb break="no"/>
 wundet, und ich hoffte, ihn wieder zu<lb/>
@@ -181,12 +214,16 @@ sah ihn eine ganze Stunde lang sterben;<lb/>
 um ihn noch einmal zu erwärmen, er-<lb break="no"/>
 stickte ich ihn förmlich mit Küssen und<lb/>
 mit meinem Athem. Er starb, weil er<lb/>
-nicht fliegen konnte <milestone unit="3dots"/></p>
-<p>Ja, Ulysses, es scheint mir sogar,<lb/>
+nicht fliegen konnte <milestone unit="3dots"/>
+                     </p>
+                     <p>Ja, Ulysses, es scheint mir sogar,<lb/>
 als werde selbst der Strom meiner Poesie<lb/>
 zu Eis, sowie er aus meinen Lippen<lb/>
 sich ergossen, und als sterbe er aus</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

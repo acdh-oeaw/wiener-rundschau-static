@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-18_n0679.xml"
-     prev="WR-02-02-18_n0678.xml"
-     next="WR-02-02-18_n0680.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-18_n0679.xml" prev="WR-02-02-18_n0678.xml" next="WR-02-02-18_n0680.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,22 +42,53 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 17</title>
+                  <idno>WR-02-02-17_n0641.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 19</title>
+                  <idno>WR-02-02-19_n0713.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">MAX STIRNERS LEBEN UND WERK.</fw><fw type="pn">679</fw></fw><p rend="no-intend">hat Mackay zu Dank verpflichtet. Denn er gab gleichzeitig mit seiner<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MAX STIRNERS LEBEN UND WERK.</fw>
+               <fw type="pn">679</fw>
+            </fw>
+            <p rend="no-intend">hat Mackay zu Dank verpflichtet. Denn er gab gleichzeitig mit seiner<lb/>
 Biographie eine Sammlung von Stirners noch erhaltenen kleinen Schriften<lb/>
 heraus.*) Die Aufsätze über das »Princip der Erziehung« und über<lb/>
-»Kunst und Religion« verdienen heute noch die vollste Beachtung.</p><p>Über den »Einzigen und sein Eigenthum« ist es in unseren<lb/>
+»Kunst und Religion« verdienen heute noch die vollste Beachtung.</p>
+            <p>Über den »Einzigen und sein Eigenthum« ist es in unseren<lb/>
 Tagen nicht mehr nothwendig, erklärend oder berichtend zu schreiben.<lb/>
 Jedem ist das Buch zugänglich, äusserlich und innerlich. Seine Worte<lb/>
 und Gedanken sind so lutherisch klar und eindringlich, sein Thema von<lb/>
 der <hi rend="text-spaced">Souveränität</hi> des Individuums, seine <hi rend="text-spaced">Unvergleichlichkeit</hi> und<lb/>
-<hi rend="text-spaced">Einzigkeit</hi> ist auf so festen Gründen gebaut, dass eine <hi rend="text-spaced">logische</hi> Weiter-<lb break="no"/>
-erklärung oder logische Bekämpfung von vornherein unmöglich scheint.</p><p>Diesem Buche sollten die beiden Essays über das Princip der<lb/>
+               <hi rend="text-spaced">Einzigkeit</hi> ist auf so festen Gründen gebaut, dass eine <hi rend="text-spaced">logische</hi> Weiter-<lb break="no"/>
+erklärung oder logische Bekämpfung von vornherein unmöglich scheint.</p>
+            <p>Diesem Buche sollten die beiden Essays über das Princip der<lb/>
 Erziehung und über Kunst und Religion als Ebenbürtig-Unvergängliches<lb/>
 angefügt werden. Der erste Essay behandelt die Frage: »bildet man<lb/>
 unsere Anlage, <hi rend="text-spaced">Schöpfer</hi> zu werden gewissenhaft aus oder behandelt<lb/>
@@ -85,18 +113,21 @@ ewigen Juden, <hi rend="text-spaced">unsterblich</hi>, nicht <hi rend="text-spac
 sterben und finden im Tode ihr eigentliches <hi rend="text-spaced">Selbst</hi>; mit ihnen stirbt<lb/>
 die Reformations-Periode, das Zeitalter des Wissens. »Ja, so ist es,<lb/>
 das Wissen selbst muss sterben, um im Tode wieder aufzublühen als<lb/>
-<hi rend="text-spaced">Wille</hi>«<milestone unit="4dots"/> Man bemerkt, dass in diesen Sätzen Stirners der Kern-<lb break="no"/>
+               <hi rend="text-spaced">Wille</hi>«<milestone unit="4dots"/> Man bemerkt, dass in diesen Sätzen Stirners der Kern-<lb break="no"/>
 punkt der Schopenhauer-Wagnerischen Weltanschauung schon enthalten<lb/>
 ist. Hier ist die Idee der Brünhildentragödie in Wagners Werk, der<lb/>
 künstlerischen Symbolik entkleidet. Die weltbewegende, sich und die<lb/>
 Welt erlösende That ist der Allwisserin nur möglich, <hi rend="text-spaced">gegen</hi> das<lb/>
 Wissen entstehend, aus seinem Tode erblühend als Wille<milestone unit="4dots"/> Man<lb/>
 sehe weiter, wie einzelne Grundgedanken Nietzsches und der modernsten<lb/>
-Geistesentwicklung hier klar auftauchen! »Das Wissen und seine Freiheit</p><milestone unit="hr"/><note type="footnote">
-<p>*) Max Stirners kleinere Schriften und seine Entgegnungen auf die<lb/>
+Geistesentwicklung hier klar auftauchen! »Das Wissen und seine Freiheit</p>
+            <milestone unit="hr"/>
+            <note type="footnote">
+               <p>*) Max Stirners kleinere Schriften und seine Entgegnungen auf die<lb/>
 Kritik seines Werkes »Der Einzige und sein Eigenthum«, aus den Jahren<lb/>
 1842—47. Berlin <date>1898</date>. Schuster &amp; Loeffler.</p>
-</note></div>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

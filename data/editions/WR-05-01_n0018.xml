@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-01_n0018.xml"
-     prev="WR-05-01_n0017.xml"
-     next="WR-05-01_n0019.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-01_n0018.xml" prev="WR-05-01_n0017.xml" next="WR-05-01_n0019.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,37 +41,69 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 4, Nr. 24</title>
+                  <idno>WR-04-24_n0421.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 2</title>
+                  <idno>WR-05-02_n0023.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">RUNDSCHAU.</fw></fw><table><row><cell>
-<p rend="no-intend">Stückes, das den <hi rend="text-spaced">Dichter</hi> Hartleben<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">RUNDSCHAU.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Stückes, das den <hi rend="text-spaced">Dichter</hi> Hartleben<lb/>
 nur zum geringsten Theile erkennen lässt,<lb/>
 wäre erklärt.</p>
-<p>Es ist eine seltsame Erscheinung, die<lb/>
+                     <p>Es ist eine seltsame Erscheinung, die<lb/>
 mancherlei zu denken gibt: indes sich<lb/>
 Sudermann in seinem »Johannisfeuer« —<lb/>
 der gallischen Blendspiele überdrüssig —</p>
-</cell><cell>
-<p rend="no-intend">zu der schlichten, großzügigen Art seines<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">zu der schlichten, großzügigen Art seines<lb/>
 »Katzenstegs« (eines hochstehenden Dichter-<lb break="no"/>
 werks) zurückbegibt, landen unsere ehedem<lb/>
 so schlichten und ehrlichen Poeten bei<lb/>
 Sardou oder (man denke an Otto Ernst)<lb/>
 bei Kadelburg und Ludwig Fulda.</p>
-<p><rs type="person" key="">ANT. L.</rs></p>
-<milestone unit="untyped-end"/>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/><milestone unit="untyped-start"/><ab><title>RUNDSCHAU.</title></ab><table><row><cell>
-<milestone unit="untyped-start"/>
-<p>Über Auguste Rodins Zeichnungen<lb/>
+                     <p>
+                        <rs type="person" key="">ANT. L.</rs>
+                     </p>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>RUNDSCHAU.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="untyped-start"/>
+                     <p>Über Auguste Rodins Zeichnungen<lb/>
 sagt Roger Marx u. a. Folgendes: Rodin<lb/>
 bemächtigt sich der Form, verwandelt<lb/>
 sie nach seinem Willen und belebt sie<lb/>
 mit seinem Hauche. Seine Kunst ist Natur<lb/>
-<hi rend="text-spaced">und zugleich Wunder</hi>, weil sich in<lb/>
+                        <hi rend="text-spaced">und zugleich Wunder</hi>, weil sich in<lb/>
 ihr das Spirituelle und Plastische voll-<lb break="no"/>
 ständig durchdringen. Er hat das Werk<lb/>
 Gottes gleichsam von neuem begonnen<lb/>
@@ -93,11 +122,11 @@ von Modellierungen zuzuschreiben, sei es<lb/>
 in Relief, Ton oder Strich. Sie verleiht un-<lb break="no"/>
 endlichen Wert den unmittelbarsten Kund-<lb break="no"/>
 gebungen Rodin’schen Geistes, seinen<lb/>
-<hi rend="text-spaced">Zeichnungen</hi>. Im Verlaufe dieser oft<lb/>
+                        <hi rend="text-spaced">Zeichnungen</hi>. Im Verlaufe dieser oft<lb/>
 flüchtig hingeworfenen Notierungen kenn-<lb break="no"/>
 zeichnen sich keimhaft die zahlreichen<lb/>
 Verheißungen, welche seine Sculptur zu<lb/>
-<hi rend="text-spaced">erfüllen</hi> sucht. Er ist ebensosehr<lb/>
+                        <hi rend="text-spaced">erfüllen</hi> sucht. Er ist ebensosehr<lb/>
 Zeichner als Bildhauer; wenn er einer-<lb break="no"/>
 seits das Körperliche aus der Bewegung<lb/>
 zu entwickeln weiß, beherrscht er auch<lb/>
@@ -107,8 +136,9 @@ und Süßigkeiten des Lichtes, er benützt<lb/>
 es zum Bau der Form, zur Stärkung und<lb/>
 Charakteristik. Schwerlos zeigt uns die<lb/>
 Zeichnung den wahren Rodin, sein rast-</p>
-</cell><cell>
-<p rend="no-intend">loses Suchen und die wunderbaren Ent-<lb break="no"/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">loses Suchen und die wunderbaren Ent-<lb break="no"/>
 deckungen dieses Gehirns, immer schwanger<lb/>
 und im halb Unbewussten der Conception.<lb/>
 Auf diesen Blättern erkennen wir die<lb/>
@@ -137,19 +167,24 @@ Quellen: durch die Darstellung des Ein-<lb break="no"/>
 fachsten, der Haltung und Geste hindurch<lb/>
 bekundet sich in der Rhythmen der Körper-<lb break="no"/>
 lichkeit das Mysterium der Bewegung.</p>
-<milestone unit="untyped-end"/>
-<milestone unit="asterisk"/>
-<milestone unit="untyped-start"/>
-<p><hi rend="text-spaced">Kant contra Haeckel</hi>.* Erkennt-<lb break="no"/>
+                     <milestone unit="untyped-end"/>
+                     <milestone unit="asterisk"/>
+                     <milestone unit="untyped-start"/>
+                     <p>
+                        <hi rend="text-spaced">Kant contra Haeckel</hi>.* Erkennt-<lb break="no"/>
 nistheorie gegen naturwissenschaftlichen<lb/>
 Dogmatismus. Von Prof. Dr. Erich<lb/>
-<hi rend="text-spaced">Adickes</hi> (Kiel). Diese Schrift verdient<lb/>
+                        <hi rend="text-spaced">Adickes</hi> (Kiel). Diese Schrift verdient<lb/>
 ihrer Klarheit wegen aus der Welt-<lb break="no"/>
 räthsel-Literatur hervorgehoben zu werden.<lb/>
 Adickes weist nach, dass die Haeckel’sche</p>
-</cell></row></table><note type="footnote">
-<p>Berlin, Verlag von Reuther &amp; Reichard.</p>
-</note></div>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>Berlin, Verlag von Reuther &amp; Reichard.</p>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

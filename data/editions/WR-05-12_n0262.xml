@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-12_n0262.xml"
-     prev="WR-05-12_n0261.xml"
-     next="WR-05-12_n0263.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-12_n0262.xml" prev="WR-05-12_n0261.xml" next="WR-05-12_n0263.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 11</title>
+                  <idno>WR-05-11_n0225.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 13</title>
+                  <idno>WR-05-13_n0265.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BLEIBTREU: »ARBEIT«.</fw></fw><table><row><cell>
-<p rend="no-intend">Abbé aus seinem Glauben heroischen<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BLEIBTREU: »ARBEIT«.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Abbé aus seinem Glauben heroischen<lb/>
 Aufschwung schöpft — als Einziger in<lb/>
 unserer verfaulten Gesellschaft — und die<lb/>
 einstürzende Kirche ihn begräbt, hat so<lb/>
@@ -70,7 +85,7 @@ und vielleicht traten dem enthusiasmierten<lb/>
 Schöpfer dabei die Thränen in die Augen.<lb/>
 Aber ach, vom Erhabenen zum Lächer-<lb break="no"/>
 lichen ist nur ein Schritt!</p>
-<p>An sich betrachtet, enthält Zolas Zu-<lb break="no"/>
+                     <p>An sich betrachtet, enthält Zolas Zu-<lb break="no"/>
 kunftsbuch einige prachtvolle Einzelheiten<lb/>
 im besten Stil, doch der Mangel an Wahr-<lb break="no"/>
 heit hat sogar sein Talent des Natürlich-<lb break="no"/>
@@ -105,8 +120,9 @@ Stumpf und Stiel ausrotteten. Vorher gieng<lb/>
 Massacre seine Unmöglichkeit darthat und<lb/>
 alle Nationalitäts-Schranken wegräumte.<lb/>
 Aber der Staatssocialismus, der das Privat-</p>
-</cell><cell>
-<p rend="no-intend">eigenthum expropriierte, hatte große Mühe,<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">eigenthum expropriierte, hatte große Mühe,<lb/>
 sich als alleiniger Arbeitgeber mit seinen<lb/>
 »Bons« und Controlbureaus durchzusetzen,<lb/>
 man fiel ins Kasernen-Regimentieren zurück<lb/>
@@ -114,7 +130,7 @@ mit harter Disciplin der Beamten-Officiere,<lb/>
 aber zuletzt wurde doch alles sehr gut,<lb/>
 sobald nur Capital, Handel und Geld-<lb break="no"/>
 münze ausgemerzt waren.</p>
-<p>Und auch die Anarchisten sahen ihre<lb/>
+                     <p>Und auch die Anarchisten sahen ihre<lb/>
 Zerstörung an und siehe da, es war sehr<lb/>
 gut. Sie betrieben sofortige communistische<lb/>
 Theilung, schafften jegliche Staatsform ab,<lb/>
@@ -160,7 +176,10 @@ sehbarem eisernen Militärsystem, sein<lb/>
 armer Abbé nicht der Papst, sein Provinz-<lb break="no"/>
 fabrikant nicht ein Milliarden-Plutokrat.<lb/>
 Deshalb hat es etwas Verbrecherisches,</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

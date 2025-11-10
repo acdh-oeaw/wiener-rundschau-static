@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-24_n0932.xml"
-     prev="WR-02-02-24_n0931.xml"
-     next="WR-02-02-24_n0933.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-24_n0932.xml" prev="WR-02-02-24_n0931.xml" next="WR-02-02-24_n0933.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,18 +42,48 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 23</title>
+                  <idno>WR-02-02-23_n0865.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 3, Halbbd. 1, Nr. 0</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>GASTSPIEL-TOURNÉE.<lb/>
-Von <rs type="person" key="">ADELE SANDROCK</rs> (Wien).</title></ab><p>Von mancher Seite habe ich gegen meinen Entschluss, das<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>GASTSPIEL-TOURNÉE.<lb/>
+Von <rs type="person" key="">ADELE SANDROCK</rs> (Wien).</title>
+            </ab>
+            <p>Von mancher Seite habe ich gegen meinen Entschluss, das<lb/>
 Burgtheater zu verlassen, den Einwand gehört, eine fahrende<lb/>
 Schauspielerin könne leicht Einbussen in ihren künstlerischen<lb/>
 Leistungen erleiden, die nur durch ein fixes, einheitliches En-<lb break="no"/>
-semble förderliche Unterstützung finden.</p><p>Ich muss sagen, dass gerade dieser Einwand mich bestärkt<lb/>
+semble förderliche Unterstützung finden.</p>
+            <p>Ich muss sagen, dass gerade dieser Einwand mich bestärkt<lb/>
 hat, aus dem Burgtheater zu fliehen. In der Mehrzahl der Fälle<lb/>
 habe ich in den Theatern, wo ich auf meinen Reisen spielte, ein<lb/>
 Schauspielermaterial gefunden, das ich nach ernsthaftem Probieren<lb/>
@@ -66,7 +93,8 @@ Collegen derart entgegenzukommen, dass sie sich im Sinne ihrer<lb/>
 Rollen zur Geltung bringen können; hingegen war ich stets in<lb/>
 meinem eigenen Spiel gestört, wenn mich meine Partner durch<lb/>
 feindliche Blicke schon im ersten Acte tödten wollten, obwohl<lb/>
-ich erst am Ende des Stückes zu sterben hatte.</p><p>Ich bin und werde stets eine Ensemble-Schauspielerin bleiben.<lb/>
+ich erst am Ende des Stückes zu sterben hatte.</p>
+            <p>Ich bin und werde stets eine Ensemble-Schauspielerin bleiben.<lb/>
 Gerade deshalb musste ich dem jetzigen Burgtheater entschlüpfen.<lb/>
 Bei jedem Auftreten, selbst bei Wiederholungen des nämlichen<lb/>
 Stückes hatte ich die Empfindung, als ob nie eine Probe vorher-<lb break="no"/>
@@ -78,9 +106,11 @@ einzelne Person die andere in den Grund zu bohren trachtet und<lb/>
 niemand einen Funken Menschengefühl in der Brust hegt. Ich<lb/>
 begegnete stets fragenden Mienen: »Wer bist Du? Wie heisst Du?<lb/>
 Wir sind in jedem Stück ein und dieselben, nur Du bist in jeder<lb/>
-Rolle eine andere; darum kennen wir Dich nicht.«</p><p>Ich gehe auf eine Reise, weil ich nicht in den Burgtheater-<lb break="no"/>
+Rolle eine andere; darum kennen wir Dich nicht.«</p>
+            <p>Ich gehe auf eine Reise, weil ich nicht in den Burgtheater-<lb break="no"/>
 schlaf verfallen will; pecuniäre Interessen stellte ich nie meinen<lb/>
-künstlerischen voran. Ich hoffe, der deutschen Schauspielkunst</p></div>
+künstlerischen voran. Ich hoffe, der deutschen Schauspielkunst</p>
+         </div>
       </body>
    </text>
 </TEI>

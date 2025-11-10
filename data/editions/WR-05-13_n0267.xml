@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-13_n0267.xml"
-     prev="WR-05-13_n0266.xml"
-     next="WR-05-13_n0268.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-13_n0267.xml" prev="WR-05-13_n0266.xml" next="WR-05-13_n0268.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 12</title>
+                  <idno>WR-05-12_n0249.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 14</title>
+                  <idno>WR-05-14_n0279.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">DORIAN: DIE KANZEL DER HEILIGEN GUDULA.</fw></fw><table><row><cell>
-<p rend="no-intend">weiterten Horizonten, den intuitiven<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">DORIAN: DIE KANZEL DER HEILIGEN GUDULA.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">weiterten Horizonten, den intuitiven<lb/>
 Vorstellungen des erhabenen Raubes<lb/>
 sich öffnend? <milestone unit="3dots"/> Wer wagte den Stolz,<lb/>
 die Vorgefühle sicherer Siege zu nennen,<lb/>
@@ -64,10 +79,11 @@ genommen hat, die sie schon als ihr<lb/>
 Eigen fühlt und die sie kühn dem Voll-<lb break="no"/>
 ender der hohen Gotteswerke streitig<lb/>
 macht?</p>
-<p>Und mit ihrer ausgestreckten rechten<lb/>
+                     <p>Und mit ihrer ausgestreckten rechten<lb/>
 Hand scheint sie ihr Reich, das durch<lb/>
 die Jahrhunderte sich vor ihren Schritten<lb/>
-erhebt, zu bezeichnen und zu ergreifen <milestone unit="3dots"/><lb/>
+erhebt, zu bezeichnen und zu ergreifen <milestone unit="3dots"/>
+                        <lb/>
 Mit einer unerhört stolzen Geste über-<lb break="no"/>
 mäßigen Triumphes zeigt sie, nimmt<lb/>
 sie ein, presst sie aus, während sie<lb/>
@@ -77,7 +93,7 @@ Liebesbeharrlichkeit des Verstehens und<lb/>
 des Besitzes! — den wunderbaren Apfel<lb/>
 fest umklammert, den Apfel der Herr-<lb break="no"/>
 schaft!</p>
-<p>Unaussprechlich ist die Herausfor-<lb break="no"/>
+                     <p>Unaussprechlich ist die Herausfor-<lb break="no"/>
 derung, kaiserlich, cynisch ist die glück-<lb break="no"/>
 liche und verächtliche Drohung, die<lb/>
 die Sterbliche gegen Den schleudert,<lb/>
@@ -90,15 +106,16 @@ scheint, den lieblichen Kopf zu packen,<lb/>
 den lachenden Kopf mit den gleich<lb/>
 einer Aufruhrfahne gelösten Haar-<lb break="no"/>
 flechten.</p>
-<p>Mit festem und munterem Fuß ver-<lb break="no"/>
+                     <p>Mit festem und munterem Fuß ver-<lb break="no"/>
 lässt Eva das eisige Paradies der<lb/>
 müßigen, unfruchtbaren und geizigen<lb/>
 Glückseligkeiten, um zu der wollust-<lb break="no"/>
 vollen und verwegenen Hölle der mensch-<lb break="no"/>
 lichen Ekstasen, des perversen Wissens,<lb/>
 der prophetischen Zeugungen zu gehen.</p>
-</cell><cell>
-<p>An ihrer Seite entfaltet der Pfau,<lb/>
+                  </cell>
+                  <cell>
+                     <p>An ihrer Seite entfaltet der Pfau,<lb/>
 der König der freien Auserwählten der<lb/>
 Luft, den Regenbogen seines vielfarbigen<lb/>
 Schweifes, mit kostbaren Augen belegt;<lb/>
@@ -112,16 +129,16 @@ mit einem raschen Dankblick zu Der,<lb/>
 deren Empörung die Ketten der all-<lb break="no"/>
 umfassenden, paradiesischen Sclaverei<lb/>
 gebrochen hat.</p>
-<p>Und die ganze Natur scheint die<lb/>
+                     <p>Und die ganze Natur scheint die<lb/>
 einverstandene Mitschuldige der Befrei-<lb break="no"/>
 erin zu sein, des freiwilligen Opfers,<lb/>
 das der Welt die Liebe gibt und durch<lb/>
 die Liebe die Erlösung erwirbt.</p>
-<p>Denn wenn Eva die Sünde gefürchtet<lb/>
+                     <p>Denn wenn Eva die Sünde gefürchtet<lb/>
 hätte, wäre Gott nicht Mensch geworden,<lb/>
 geboren vom Weib, um seine erhabene<lb/>
 Befleckung abzuwaschen.</p>
-<p>Auf dem Apfelbaum, zur Seite Adams,<lb/>
+                     <p>Auf dem Apfelbaum, zur Seite Adams,<lb/>
 der vor Frost schaudert, sitzend, öffnet<lb/>
 der lächerliche Papagai seinen dicken<lb/>
 Schnabel, um ohne Unterlass den künf-<lb break="no"/>
@@ -137,14 +154,20 @@ same Vernichtung, die von Geschlecht<lb/>
 zu Geschlecht den Mann zum ewigen<lb/>
 seufzenden Sclaven und Märtyrer seiner<lb/>
 Wollüste machen wird.</p>
-<p>Und all das, ich bezeuge es <milestone unit="3dots"/><lb/>
+                     <p>Und all das, ich bezeuge es <milestone unit="3dots"/>
+                        <lb/>
 ist in einem Gedicht aus altem Eichen-<lb break="no"/>
 holz erzählt, sehr eifrig und kundig ge-<lb break="no"/>
 schnitzt von dem geschickten und un-<lb break="no"/>
 endlich weisen Meister H. Verbruggen<lb/>
 zur höchsten Ehre der Kanzel der<lb/>
 heiligen Gudula.</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/></div>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+         </div>
       </body>
    </text>
 </TEI>

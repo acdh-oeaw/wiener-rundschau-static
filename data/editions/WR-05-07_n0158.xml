@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-07_n0158.xml"
-     prev="WR-05-07_n0157.xml"
-     next="WR-05-08_n0159.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-07_n0158.xml" prev="WR-05-07_n0157.xml" next="WR-05-08_n0159.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,33 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 6</title>
+                  <idno>WR-05-06_n0115.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 8</title>
+                  <idno>WR-05-08_n0159.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>NOVALIS.*</title></ab><table><row><cell>
-<p>Das Novalis-Centennar hat eine lange<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>NOVALIS.*</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Das Novalis-Centennar hat eine lange<lb/>
 Reihe von Studien und Essais über den<lb/>
 größten Romantiker zutage gefördert. Als<lb/>
 Beitrag zum Verständnisse der Novalis-<lb break="no"/>
@@ -80,7 +96,7 @@ um sich hier in die Totalität der Erschei-<lb break="no"/>
 nungswelt zu versenken. <hi rend="text-spaced">So</hi> wird der<lb/>
 Ästhetiker zum <hi rend="text-spaced">Naturforscher und<lb/>
 Nachfolger des Giordano Bruno</hi>.</p>
-<p>Heute ist die Naturphilosophie, die<lb/>
+                     <p>Heute ist die Naturphilosophie, die<lb/>
 damals die Geister beherrschte, wieder<lb/>
 im Erwachen. Man erinnert sich wieder<lb/>
 der Systeme der Oken, Baaden, Brown,<lb/>
@@ -92,14 +108,15 @@ ling, in Goethes morphologischen Schriften<lb/>
 und in den <hi rend="text-spaced">Fragmenten</hi> des Novalis<lb/>
 erhebt sich die Naturphilosophie, gestützt<lb/>
 auf Algebra und Naturwissenschaft, zur</p>
-</cell><cell>
-<p rend="no-intend">höchsten Höhe. Diese Einflüsse der geistigen<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">höchsten Höhe. Diese Einflüsse der geistigen<lb/>
 Bewegung um die Jahrhundertwende auf<lb/>
 den Entwicklungsgang des Novalis hat<lb/>
 Heilborn mit Verständnis aufgedeckt von<lb/>
 der Fichte’schen Identitätslehre bis zu<lb/>
-<hi rend="text-spaced">Browns</hi> »polarischer Physiologie«.</p>
-<p>Viele dieser Aphorismen, darunter die,<lb/>
+                        <hi rend="text-spaced">Browns</hi> »polarischer Physiologie«.</p>
+                     <p>Viele dieser Aphorismen, darunter die,<lb/>
 welche das Verhältnis <hi rend="text-spaced">der Form zum<lb/>
 Stoff</hi>— ein nur den Wenigsten zugäng-<lb break="no"/>
 liches Problem — behandeln, wirken wie die<lb/>
@@ -134,9 +151,20 @@ Tod datiert jener Riss zwischen Produc-<lb break="no"/>
 tion und <hi rend="text-spaced">Erkenntnis</hi>, dessen Folgen<lb/>
 das heutige Specialistenthum und anderer-<lb break="no"/>
 seits den Feuilletonismus gezüchtet haben.</p>
-</cell></row></table><note type="footnote">
-<p>* »Novalis, der Romantiker.« Von Ernst Heilborn. Verlag von Georg Reimer, Berlin. <date>1901</date>.</p>
-</note><milestone unit="untyped-end"/><milestone unit="undefined"/><milestone unit="hr"/><milestone unit="imprint-start"/><p>Verantwortl. Redacteur: R. Dworschak. — K. k. Hoftheater-Druckerei, Wien, I., Wollzeile 17. (Verantwortl. A. Rimrich.)</p><milestone unit="untyped-end"/><milestone unit="untyped-end"/></div>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* »Novalis, der Romantiker.« Von Ernst Heilborn. Verlag von Georg Reimer, Berlin. <date>1901</date>.</p>
+            </note>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="hr"/>
+            <milestone unit="imprint-start"/>
+            <p>Verantwortl. Redacteur: R. Dworschak. — K. k. Hoftheater-Druckerei, Wien, I., Wollzeile 17. (Verantwortl. A. Rimrich.)</p>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-end"/>
+         </div>
       </body>
    </text>
 </TEI>

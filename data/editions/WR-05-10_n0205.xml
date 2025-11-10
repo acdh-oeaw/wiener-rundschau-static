@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-10_n0205.xml"
-     prev="WR-05-09_n0204.xml"
-     next="WR-05-10_n0206.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-10_n0205.xml" prev="WR-05-09_n0204.xml" next="WR-05-10_n0206.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,20 +41,62 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 9</title>
+                  <idno>WR-05-09_n0189.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 11</title>
+                  <idno>WR-05-11_n0225.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="prose-start"/><milestone unit="masthead-start"/><p><hi rend="strong">WIENER<lb/>
-RUNDSCHAU</hi></p><p><hi rend="strong">HERAUSGEGEBEN VON FELIX RAPPAPORT</hi></p><table><row><cell>
-<p><date><hi rend="strong">15. MAI 1901</hi></date></p>
-</cell><cell>
-<p><hi rend="strong">V. JAHRGANG, NR. 10</hi></p>
-</cell></row></table><milestone unit="hr"/><milestone unit="untyped-end"/><milestone unit="untyped-start"/><ab><title>DIALOG ÜBER ESOTERISCHEN BUDDHISMUS.<lb/>
-Von <rs type="person" key="">CARL BLEIBTREU</rs> (Wien).</title></ab><table><row><cell>
-<p><hi rend="text-spaced">Der Unerleuchtete</hi>: Ich erkläre<lb/>
+         <div type="page">
+            <milestone unit="prose-start"/>
+            <milestone unit="masthead-start"/>
+            <p>
+               <hi rend="strong">WIENER<lb/>
+RUNDSCHAU</hi>
+            </p>
+            <p>
+               <hi rend="strong">HERAUSGEGEBEN VON FELIX RAPPAPORT</hi>
+            </p>
+            <table>
+               <row>
+                  <cell>
+                     <p>
+                        <date>
+                           <hi rend="strong">15. MAI 1901</hi>
+                        </date>
+                     </p>
+                  </cell>
+                  <cell>
+                     <p>
+                        <hi rend="strong">V. JAHRGANG, NR. 10</hi>
+                     </p>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="hr"/>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>DIALOG ÜBER ESOTERISCHEN BUDDHISMUS.<lb/>
+Von <rs type="person" key="">CARL BLEIBTREU</rs> (Wien).</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>
+                        <hi rend="text-spaced">Der Unerleuchtete</hi>: Ich erkläre<lb/>
 von vorneherein, dass ich den Buddhis-<lb break="no"/>
 mus in Grund und Boden hasse und ver-<lb break="no"/>
 achte. Was die Karma-Lehre betrifft, so ist<lb/>
@@ -71,7 +110,8 @@ finden Sie: Lukas XIII, 1—5, Johannes<lb/>
 IX, 1—3. »Karma« — seelenwandernde<lb/>
 Wiedergeburt als Vergeltung erschien dem<lb/>
 Religionsstifter als ein Aberglaube.</p>
-<p><hi rend="text-spaced">Der Erleuchtete</hi>: Wenn es ihnen<lb/>
+                     <p>
+                        <hi rend="text-spaced">Der Erleuchtete</hi>: Wenn es ihnen<lb/>
 so passt, dient also auch Christus den<lb/>
 Materialisten als Eideshelfer! Doch begreife<lb/>
 ich vollkommen, dass der philosophische<lb/>
@@ -86,8 +126,9 @@ geäußert, wie Sie behaupten. Er hat<lb/>
 vielmehr nur den abscheulichen — von<lb/>
 späteren Christen neu genährten — Wahn<lb/>
 verworfen, als ob materielles Unglück als</p>
-</cell><cell>
-<p>prompte »Strafe« für irgendeine »Sünde«<lb/>
+                  </cell>
+                  <cell>
+                     <p>prompte »Strafe« für irgendeine »Sünde«<lb/>
 des Individuums in <hi rend="text-spaced">diesem</hi> Leben auf-<lb break="no"/>
 gefasst werden müsste, eine dem Egois-<lb break="no"/>
 mus der Welt recht angenehme Schluss-<lb break="no"/>
@@ -116,7 +157,10 @@ Seelenkräfte und blitzartig intuitives Be-<lb break="no"/>
 leuchten occulter Materien, nicht aber<lb/>
 ein zusammenhängendes, philosophisches<lb/>
 System, wie der uralte Brahminismus und</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

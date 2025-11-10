@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-01_n0015.xml"
-     prev="WR-05-01_n0014_b.xml"
-     next="WR-05-01_n0016.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-01_n0015.xml" prev="WR-05-01_n0014_b.xml" next="WR-05-01_n0016.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 4, Nr. 24</title>
+                  <idno>WR-04-24_n0421.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 2</title>
+                  <idno>WR-05-02_n0023.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">THEATER.</fw></fw><table><row><cell>
-<p rend="no-intend">Geistes, und wahrlich, die wüthenden<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">THEATER.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Geistes, und wahrlich, die wüthenden<lb/>
 Feuerstiere und Ringeldrachen oder die<lb/>
 verderblichen Sirenenlieder fehlen auch in<lb/>
 dieser Welt nicht, in der Lynkeus der<lb/>
@@ -84,7 +99,7 @@ vorüberziehen: Gesichte, die noch kein<lb/>
 Muth groß genug war, zu sagen; Träume,<lb/>
 die nicht wieder schlafen giengen; Ge-<lb break="no"/>
 schichte, die sich gleichsam verspätet hat.</p>
-<p>Ganz nüchtern besehen, ist das merk-<lb break="no"/>
+                     <p>Ganz nüchtern besehen, ist das merk-<lb break="no"/>
 würdige Buch, das seinen Autor verbirgt,<lb/>
 eine Sammlung von fast hundert meist<lb/>
 kurzen Geschichten, die sich wie Essenzen<lb/>
@@ -93,8 +108,9 @@ mehr als Shakespeare’sche Verwegenheit<lb/>
 hat diese Phantasien erfunden, die meist<lb/>
 klar wie der Tag beginnen, um oft wie<lb/>
 ein böser Traum blitzartig zu Ende zu</p>
-</cell><cell>
-<p rend="no-intend">kommen. Ein Gil Blas der Seelen deckt<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">kommen. Ein Gil Blas der Seelen deckt<lb/>
 hier die Dächer der Stadt ab, um Scenen<lb/>
 zu gewahren, durch die man in die<lb/>
 unterste Tiefe der menschlichen Natur zu<lb/>
@@ -123,7 +139,7 @@ neuen Gestaden, wo es keine Sünde mehr<lb/>
 gibt, weil es keine Richter und keine<lb/>
 Henker gibt, wo die Unschuld der Natur<lb/>
 und alles Geschehens wieder hergestellt ist.</p>
-<p>Die »Phantasien eines Realisten« literar-<lb break="no"/>
+                     <p>Die »Phantasien eines Realisten« literar-<lb break="no"/>
 historisch einzuschachteln, fühle ich keine<lb/>
 Noth. Turgenjews »Gedichte in Prosa«<lb/>
 und die Divane persischer Mystiker würden<lb/>
@@ -136,22 +152,37 @@ naute dahin kam, wo uralter Weisheits-<lb break="no"/>
 Schatz, von Drachen behütet, schlummert.<lb/>
 Es ist der Griechengeist, der uns in diesem<lb/>
 Buche umwirft, wie einen Stier.</p>
-<p>DR. <rs type="person" key="">MICHAEL HABERLANDT</rs>.</p>
-<milestone unit="untyped-end"/>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="untyped-start"/><ab><title><hi rend="text-spaced">THEATER</hi>.</title></ab><table><row><cell>
-<milestone unit="untyped-start"/>
-<p>BURGTHEATER. — Nach Wilamo-<lb break="no"/>
+                     <p>DR. <rs type="person" key="">MICHAEL HABERLANDT</rs>.</p>
+                     <milestone unit="untyped-end"/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">THEATER</hi>.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="untyped-start"/>
+                     <p>BURGTHEATER. — Nach Wilamo-<lb break="no"/>
 witz-Möllendorff und Aischylos ist der<lb/>
 »<hi rend="text-spaced">Rosenmontag</hi>« in Scene gegangen,<lb/>
 womit die zeitgemäße Linie Triesch —<lb/>
 Schönthan — Koppel-Ellfeld weiter ent-</p>
-</cell><cell>
-<p>wickelt scheint. Die Officiers-Tragödie<lb/>
-<hi rend="text-spaced">Hartlebens</hi> gehört zu den Stücken<lb/>
+                  </cell>
+                  <cell>
+                     <p>wickelt scheint. Die Officiers-Tragödie<lb/>
+                        <hi rend="text-spaced">Hartlebens</hi> gehört zu den Stücken<lb/>
 jener Art, die <hi rend="text-spaced">Goethe</hi> einen »bunten<lb/>
 Augenschmerz« (bitte: Schmerz, nicht<lb/>
 Scherz) genannt hätte. Ein nicht allzu</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

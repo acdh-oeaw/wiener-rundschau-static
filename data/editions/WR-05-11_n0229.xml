@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-11_n0229.xml"
-     prev="WR-05-11_n0228.xml"
-     next="WR-05-11_n0230.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-11_n0229.xml" prev="WR-05-11_n0228.xml" next="WR-05-11_n0230.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 10</title>
+                  <idno>WR-05-10_n0205.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 12</title>
+                  <idno>WR-05-12_n0249.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">BRYK: DIE MUSIK UND DIE INSCENIERUNG.</fw></fw><table><row><cell>
-<p rend="no-intend">hängig hievon bedeutender künstleri-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">BRYK: DIE MUSIK UND DIE INSCENIERUNG.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">hängig hievon bedeutender künstleri-<lb break="no"/>
 scher Wert zukommt. Man findet unter<lb/>
 diesen Tafeln Entwürfe (wie die Nacht-<lb break="no"/>
 studie aus »Tristan« und die Walküren-<lb break="no"/>
@@ -76,7 +91,7 @@ Dreiklängen, die, hier wie dort, die<lb/>
 tonale Bedingung für die Entwicklung<lb/>
 der musikalischen Charakteristik an-<lb break="no"/>
 geben.</p>
-<p>Um diese Studien eingehender zu<lb/>
+                     <p>Um diese Studien eingehender zu<lb/>
 würdigen, muss man sich die Analyse<lb/>
 vor Augen halten, die <hi rend="text-spaced">Appia</hi>, aller-<lb break="no"/>
 dings an <hi rend="text-spaced">Chamberlain</hi> anknüpfend,<lb/>
@@ -103,21 +118,22 @@ an beginnen die Ereignisse des zer-<lb break="no"/>
 spaltenen (Welt-)Willens, das sind die<lb/>
 einander durchkreuzenden Thaten der<lb/>
 Menschen. Von »Siegfried« an darf</p>
-</cell><cell>
-<p rend="no-intend">sich also der Realismus der Inscenierung<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">sich also der Realismus der Inscenierung<lb/>
 bis zum Ende fortwährend steigern»<lb/>
 während die »Walküre« noch durch die<lb/>
 Gegenwart des Gottes motiviert ist<lb/>
 und somit des <hi rend="text-spaced">schematischen<lb/>
 Charakters</hi> einer streng idealisieren-<lb break="no"/>
 den Inscenierung nicht entbehren kann.</p>
-<p>Zweierlei Wege gibt es, durch<lb/>
+                     <p>Zweierlei Wege gibt es, durch<lb/>
 welche eine Inscenierung auf die Höhe<lb/>
 eines idealisierenden Ausdrucksmittels<lb/>
 gebracht werden kann. Erstlich: Unter-<lb break="no"/>
 drückung aller Farbenwerte bis zum<lb/>
 mattgebrochenen Ton oder bis zur<lb/>
-<hi rend="text-spaced">absoluten Ausschließung der<lb/>
+                        <hi rend="text-spaced">absoluten Ausschließung der<lb/>
 Farbe</hi>; sodann: Steigerung der Form-<lb break="no"/>
 Wirkung durch geeignet aufgestellte<lb/>
 Lichtquellen, die an Stelle der Relief-<lb break="no"/>
@@ -126,9 +142,11 @@ zum Ausdruck bringen (eventuell Er-<lb break="no"/>
 setzung der Sichtbarkeit des Sängers<lb/>
 durch Maschinen: parallel zum »<hi rend="text-spaced">un-<lb break="no"/>
 sichtbaren</hi>« <hi rend="text-spaced">Orchester</hi>).</p>
-<ab><title>II.<lb/>
-DIE LICHT-TON-THEORIE.* (<date>1900</date>.)</title></ab>
-<p>Mancher, der einer Reduction<lb/>
+                     <ab>
+                        <title>II.<lb/>
+DIE LICHT-TON-THEORIE.* (<date>1900</date>.)</title>
+                     </ab>
+                     <p>Mancher, der einer Reduction<lb/>
 des farbigen Elementes gerne zu-<lb break="no"/>
 stimmte, wird einer Ersetzung der<lb/>
 landläufigen Decoration durch völlig<lb/>
@@ -136,7 +154,7 @@ farblose Schemata nur mit einem ge-<lb break="no"/>
 wissen Bangen entgegenblicken. Ver-<lb break="no"/>
 suchen wir, die möglichen Einwände<lb/>
 aus dem Wege zu räumen.</p>
-<p>Der Function des Lichtes ist bereits<lb/>
+                     <p>Der Function des Lichtes ist bereits<lb/>
 gedacht worden; es mag hinzugefügt<lb/>
 werden, dass das Licht nicht ganz<lb/>
 allein, aber fast ganz allein die Wahr-<lb break="no"/>
@@ -152,9 +170,13 @@ Von einer Bedeutung für die Darstellung<lb/>
 des inneren Wesens der Erscheinungen<lb/>
 durch die bloße Farbe kann mithin<lb/>
 kaum die Rede sein. Wohl ist das</p>
-</cell></row></table><note type="footnote">
-<p>F. Rappaport, Neun Lichttonbilder. (F. <hi rend="text-spaced">Bruckmann</hi>, München.)</p>
-</note></div>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>F. Rappaport, Neun Lichttonbilder. (F. <hi rend="text-spaced">Bruckmann</hi>, München.)</p>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

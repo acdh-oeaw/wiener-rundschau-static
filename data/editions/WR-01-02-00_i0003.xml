@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-01-02-00_i0003.xml"
-     prev="WR-01-02-00_i0002.xml"
-     next="WR-01-02-00_i0004.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-01-02-00_i0003.xml" prev="WR-01-02-00_i0002.xml" next="WR-01-02-00_i0004.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,106 +42,274 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 2</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 1, Halbbd. 1, Nr. 12</title>
+                  <idno>WR-01-01-12_n0441.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 1, Halbbd. 2, Nr. 13</title>
+                  <idno>WR-01-02-13_n0481.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><ab><title>INHALTS-VERZEICHNISS.</title></ab><milestone unit="hr"/><table>
-<row><cell>
-</cell><cell>Seite
-</cell></row>
-<row><cell><hi rend="text-spaced">Aho</hi>, Juhani, Vom Frühling zum Sommer <milestone unit="dots"/> 
-</cell><cell>Nr. <hi rend="strong">14,</hi> 538
-</cell></row>
-<row><cell><hi rend="text-spaced">Auernheimer</hi>, Raoul, Ihr letzter Ball <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">15,</hi> 564
-</cell></row>
-<row><cell><hi rend="text-spaced">Aufruf</hi>! <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">13,</hi> 481
-</cell></row>
-<row><cell><hi rend="text-spaced">Barrès</hi>, Maurice, Die zwei Frauen des Bürgers von Brügge <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">19,</hi> 717
-</cell></row>
-<row><cell><hi rend="text-spaced">Basedow</hi>, Hans von, Drei Cartons von Sascha Schneider <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">14,</hi> 530
-</cell></row>
-<row><cell><hi rend="text-spaced">Benzmann</hi>, Hans, Der Schwimmer <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">16,</hi> 611
-</cell></row>
-<row><cell><hi rend="text-spaced">Björnson</hi>, Björnstjerne, Der Vater <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">15,</hi> 561
-</cell></row>
-<row><cell><hi rend="text-spaced">Bleibtreu</hi>, Carl, Die »Centenarfeier« des Grössten <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">18,</hi> 708
-</cell></row>
-<row><cell>      <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">19,</hi> 733
-</cell></row>
-<row><cell>      <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">20,</hi> 771
-</cell></row>
-<row><cell>  Was lehrte Jesus? <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">22,</hi> 843
-</cell></row>
-<row><cell><hi rend="text-spaced">Bodman</hi>, Emanuel von, Einklang <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">13,</hi> 495
-</cell></row>
-<row><cell>   Spiel <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">15,</hi> 578
-</cell></row>
-<row><cell>   Die Menschen <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">18,</hi> 695
-</cell></row>
-<row><cell><hi rend="text-spaced">Bornstein</hi>, Dr. Paul, Maurice Maeterlinck <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">19,</hi> 722
-</cell></row>
-<row><cell>     <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">20,</hi> 784
-</cell></row>
-<row><cell>     <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">21,</hi> 808
-</cell></row>
-<row><cell><hi rend="text-spaced">Dantes</hi>, Aus, »Neuem Leben« <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">24,</hi> 905
-</cell></row>
-<row><cell><hi rend="text-spaced">Dix</hi>, Arthur, Die Umwerthung des Schuldbegriffes <milestone unit="dots"/>
-</cell><cell> <hi rend="strong">17,</hi> 672
-</cell></row>
-<row><cell>  Zwischen den Völkern <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">23,</hi> 897
-</cell></row>
-<row><cell>     <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">24,</hi> 936
-</cell></row>
-<row><cell><hi rend="text-spaced">Du Prel</hi>, Dr. Carl, Die magische Vertiefung der modernen Natur-<lb break="no"/>
-wissenschaft <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">14,</hi> 549
-</cell></row>
-<row><cell><hi rend="text-spaced">Du Prel</hi>, Dr. Carl, Die magische Vertiefung der modernen Natur-<lb break="no"/>
+         <div type="page">
+            <ab>
+               <title>INHALTS-VERZEICHNISS.</title>
+            </ab>
+            <milestone unit="hr"/>
+            <table>
+               <row>
+                  <cell>
+</cell>
+                  <cell>Seite
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Aho</hi>, Juhani, Vom Frühling zum Sommer <milestone unit="dots"/>
+                  </cell>
+                  <cell>Nr. <hi rend="strong">14,</hi> 538
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Auernheimer</hi>, Raoul, Ihr letzter Ball <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">15,</hi> 564
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Aufruf</hi>! <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">13,</hi> 481
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Barrès</hi>, Maurice, Die zwei Frauen des Bürgers von Brügge <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">19,</hi> 717
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Basedow</hi>, Hans von, Drei Cartons von Sascha Schneider <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">14,</hi> 530
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Benzmann</hi>, Hans, Der Schwimmer <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">16,</hi> 611
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Björnson</hi>, Björnstjerne, Der Vater <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">15,</hi> 561
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Bleibtreu</hi>, Carl, Die »Centenarfeier« des Grössten <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">18,</hi> 708
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">19,</hi> 733
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">20,</hi> 771
+</cell>
+               </row>
+               <row>
+                  <cell>  Was lehrte Jesus? <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">22,</hi> 843
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Bodman</hi>, Emanuel von, Einklang <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">13,</hi> 495
+</cell>
+               </row>
+               <row>
+                  <cell>   Spiel <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">15,</hi> 578
+</cell>
+               </row>
+               <row>
+                  <cell>   Die Menschen <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">18,</hi> 695
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Bornstein</hi>, Dr. Paul, Maurice Maeterlinck <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">19,</hi> 722
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">20,</hi> 784
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">21,</hi> 808
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Dantes</hi>, Aus, »Neuem Leben« <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">24,</hi> 905
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Dix</hi>, Arthur, Die Umwerthung des Schuldbegriffes <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">17,</hi> 672
+</cell>
+               </row>
+               <row>
+                  <cell>  Zwischen den Völkern <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">23,</hi> 897
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">24,</hi> 936
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Du Prel</hi>, Dr. Carl, Die magische Vertiefung der modernen Natur-<lb break="no"/>
 wissenschaft <milestone unit="dots"/>
-</cell><cell> <hi rend="strong">15,</hi> 589
-</cell></row>
-<row><cell><hi rend="text-spaced">Engel</hi>, Fritz, Eine Berliner Theatersaison <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">18,</hi> 696
-</cell></row>
-<row><cell><hi rend="text-spaced">Evers</hi>, Franz, Spruch <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">13,</hi> 495
-</cell></row>
-<row><cell>  Himmlische Tage <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">15,</hi> 572
-</cell></row>
-<row><cell><hi rend="text-spaced">Ferrero</hi>, Guglielmo, Prof., Das kriegerische Genie <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">13,</hi> 499
-</cell></row>
-<row><cell><hi rend="text-spaced">Ferri</hi>, Prof. Enrico, Die Verbrecher in den decorativen Künsten <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">23,</hi> 891
-</cell></row>
-<row><cell><hi rend="text-spaced">France</hi>, Anatole, Gestas <milestone unit="dots"/> 
-</cell><cell> <hi rend="strong">13,</hi> 490
-</cell></row>
-</table></div>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">14,</hi> 549
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Du Prel</hi>, Dr. Carl, Die magische Vertiefung der modernen Natur-<lb break="no"/>
+wissenschaft <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">15,</hi> 589
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Engel</hi>, Fritz, Eine Berliner Theatersaison <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">18,</hi> 696
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Evers</hi>, Franz, Spruch <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">13,</hi> 495
+</cell>
+               </row>
+               <row>
+                  <cell>  Himmlische Tage <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">15,</hi> 572
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Ferrero</hi>, Guglielmo, Prof., Das kriegerische Genie <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">13,</hi> 499
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">Ferri</hi>, Prof. Enrico, Die Verbrecher in den decorativen Künsten <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">23,</hi> 891
+</cell>
+               </row>
+               <row>
+                  <cell>
+                     <hi rend="text-spaced">France</hi>, Anatole, Gestas <milestone unit="dots"/>
+                  </cell>
+                  <cell>
+                     <hi rend="strong">13,</hi> 490
+</cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

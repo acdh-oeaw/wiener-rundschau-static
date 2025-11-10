@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-15_n0585.xml"
-     prev="WR-02-02-15_n0584.xml"
-     next="WR-02-02-15_n0586.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-15_n0585.xml" prev="WR-02-02-15_n0584.xml" next="WR-02-02-15_n0586.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,34 +42,74 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 14</title>
+                  <idno>WR-02-02-14_n0521.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 16</title>
+                  <idno>WR-02-02-16_n0601.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>WARUM SIE DIESES DICHTERS WERKE SO SEHR LIEBT.<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>WARUM SIE DIESES DICHTERS WERKE SO SEHR LIEBT.<lb/>
 PETER ALTENBERG gewidmet.<lb/>
-Von <rs type="person" key="">MOOSMEE</rs> (Wien).</title></ab><p>»Du, wir werden Dir Deine Seele aus dem Leibe reissen<lb/>
+Von <rs type="person" key="">MOOSMEE</rs> (Wien).</title>
+            </ab>
+            <p>»Du, wir werden Dir Deine Seele aus dem Leibe reissen<lb/>
 müssen, Kind. Denn das ist einmal nichts für dieses Leben, ver-<lb break="no"/>
 stehst Du?! Und ein anderes steht uns nicht zu Gebote. Weine<lb/>
-nicht.«</p><p>So sprachen die Menschen, welche es ihr gut meinten und<lb/>
+nicht.«</p>
+            <p>So sprachen die Menschen, welche es ihr gut meinten und<lb/>
 begannen an dieser Seele zu zerren und zu verschieben, obzwar<lb/>
 es ihnen eigentlich leid that, denn es war eine wunderschöne<lb/>
 zarte Seele, wenn auch nicht hierherpassend in dieses Thal der<lb/>
-Arbeit — — —.</p><p>»Ich darf keine Seele haben?! Warum aber einen Magen,<lb/>
-eine Leber, andere Organe?!«</p><p>»Wir wollen nicht philosophieren, Kind. Das sind Ver-<lb break="no"/>
+Arbeit — — —.</p>
+            <p>»Ich darf keine Seele haben?! Warum aber einen Magen,<lb/>
+eine Leber, andere Organe?!«</p>
+            <p>»Wir wollen nicht philosophieren, Kind. Das sind Ver-<lb break="no"/>
 strickungen. Eine Seele?! Das gehört für Kaiserinnen oder<lb/>
 Bettlerinnen. Ist es für Durchschnitts-Menschen?! Nun also. Bitte,<lb/>
-bist Du vielleicht die Georges Sand oder die Staël?!«</p><p>Da löste das junge Mädchen die Seele aus sich heraus und<lb/>
+bist Du vielleicht die Georges Sand oder die Staël?!«</p>
+            <p>Da löste das junge Mädchen die Seele aus sich heraus und<lb/>
 gab dieselbe freiwillig dahin, denn sie spürte, dass sie nicht die<lb/>
 Georges Sand sei oder die Staël, und es auch nimmer werden<lb/>
-würde. In ihrer Nichtigkeit gab sie die Seele hin — — —!</p><p>Dann stand sie da, arm, arm, arm, frierend, hungernd,<lb/>
-bebend, verkommend.</p><p>»Ich war nichts und ich bin nichts,« fühlte sie.</p><p>Und dennoch empfand sie zugleich, dass sie nicht leben<lb/>
-könne ohne ihre Seele und sie gieng, dieselbe zu suchen.</p><p>Sie kam zum Walde und sagte: »Wald, hast Du meine<lb/>
-Seele?!«</p><p>»Nein — —« rauschte der Wald, »ich habe nur meine<lb/>
-eigene, die Waldes-Seele!«</p><p>Zu vielen Dingen und Menschen kam sie fragend. Doch<lb/>
-alle besassen nur ihre eigene Seele — — —.</p></div>
+würde. In ihrer Nichtigkeit gab sie die Seele hin — — —!</p>
+            <p>Dann stand sie da, arm, arm, arm, frierend, hungernd,<lb/>
+bebend, verkommend.</p>
+            <p>»Ich war nichts und ich bin nichts,« fühlte sie.</p>
+            <p>Und dennoch empfand sie zugleich, dass sie nicht leben<lb/>
+könne ohne ihre Seele und sie gieng, dieselbe zu suchen.</p>
+            <p>Sie kam zum Walde und sagte: »Wald, hast Du meine<lb/>
+Seele?!«</p>
+            <p>»Nein — —« rauschte der Wald, »ich habe nur meine<lb/>
+eigene, die Waldes-Seele!«</p>
+            <p>Zu vielen Dingen und Menschen kam sie fragend. Doch<lb/>
+alle besassen nur ihre eigene Seele — — —.</p>
+         </div>
       </body>
    </text>
 </TEI>

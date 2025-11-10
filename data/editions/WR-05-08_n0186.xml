@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-08_n0186.xml"
-     prev="WR-05-08_n0185.xml"
-     next="WR-05-08_n0187.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-08_n0186.xml" prev="WR-05-08_n0185.xml" next="WR-05-08_n0187.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 7</title>
+                  <idno>WR-05-07_n0141.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 9</title>
+                  <idno>WR-05-09_n0189.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">RUNDSCHAU.</fw></fw><table><row><cell>
-<p>Mallarmé wird in der Geschichte des<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">RUNDSCHAU.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p>Mallarmé wird in der Geschichte des<lb/>
 neunzehnten Jahrhunderts, in der seine<lb/>
 starke Eigenart und sein außergewöhn-<lb break="no"/>
 liches Bemühen ihm einen bestimmten<lb/>
@@ -75,8 +90,9 @@ wird man an seinen Endzielen vor-<lb break="no"/>
 über müssen, weil er etwas Absolutes,<lb/>
 etwas Stabiles, etwas keck Zusammen-<lb break="no"/>
 hängendes errichtet hat. Er besitzt den</p>
-</cell><cell>
-<p rend="no-intend">Charakter des Systembegründers, die<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Charakter des Systembegründers, die<lb/>
 Fusion der reinen Vernunft mit der<lb/>
 praktischen Vernunft, die Fähigkeit,<lb/>
 sich in der Abstraction ebenso leicht<lb/>
@@ -99,14 +115,27 @@ Vorläufer eines großen Werkes und<lb/>
 eine der edelsten Gestalten verloren<lb/>
 haben, die der Literatur zur Ehre ge-<lb break="no"/>
 reichten.</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/><milestone unit="untyped-start"/><ab><title><hi rend="text-spaced">RUNDSCHAU</hi>.</title></ab><table><row><cell>
-<milestone unit="untyped-start"/>
-<p><hi rend="text-spaced">Die H-moll-Messe</hi>, jenes Werk,<lb/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">RUNDSCHAU</hi>.</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <milestone unit="untyped-start"/>
+                     <p>
+                        <hi rend="text-spaced">Die H-moll-Messe</hi>, jenes Werk,<lb/>
 in dem Bach die höchste Stufe seiner un-<lb break="no"/>
 endlichen polyphon-metismatischen Kunst<lb/>
 erreicht, erklang seit langer Zeit wieder<lb/>
 einmal im großen Musikvereins-Saale.</p>
-<p>Die Aufführung gestaltete sich der<lb/>
+                     <p>Die Aufführung gestaltete sich der<lb/>
 hohen Aufgabe würdig. Ein Orchester von<lb/>
 Künstlern, das genug Takt besitzt, dem<lb/>
 discreten Charakter der Instrumental-Musik<lb/>
@@ -119,13 +148,14 @@ nisten das Wort lässt. Hiezu ein Publicum,<lb/>
 das den Eindruck — aus welchen Gründen,<lb/>
 ist einerlei — nur selten durch unnöthigen<lb/>
 Beifall abschwächt.</p>
-<p>Im allgemeinen traten die Theile, in<lb/>
+                     <p>Im allgemeinen traten die Theile, in<lb/>
 denen sich die streng-gebundene Produc-<lb break="no"/>
 tivität Bachs zum blendenden, sinnlichen<lb/>
 Glanze steigert, mehr in den Vordergrund,<lb/>
 als die, von der Form nur getragenen,</p>
-</cell><cell>
-<p rend="no-intend">über ihr bergehoch schwebenden, rein<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">über ihr bergehoch schwebenden, rein<lb/>
 mystischen Stellen. Andererseits traten die<lb/>
 Bässe in den »rollenden« Fugen viel zu<lb/>
 wenig schneidend hervor, wodurch ein<lb/>
@@ -135,7 +165,7 @@ liebte und pflegte; während wieder das<lb/>
 ziehenden, das »Incarnatus« mit seiner<lb/>
 träumerisch das Thema umrankenden<lb/>
 Centimo-Figur eine Meisterleistung bildeten.</p>
-<p>Für den Chor in den Bach’schen<lb/>
+                     <p>Für den Chor in den Bach’schen<lb/>
 Oratorien gilt es thatsächlich, sich an<lb/>
 nichts anderes, als die Notenköpfe zu<lb/>
 halten, und nichts Dramatisches in die<lb/>
@@ -148,7 +178,10 @@ kehrt oder »verändert«. Sie besitzt<lb/>
 keine individuelle Daseinsberechtigung.<lb/>
 In fünf-, sechs- oder achtstimmigen<lb/>
 Bündel mit den fest markierten Ein-</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

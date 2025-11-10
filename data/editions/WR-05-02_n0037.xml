@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-02_n0037.xml"
-     prev="WR-05-02_n0036.xml"
-     next="WR-05-02_n0038.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-02_n0037.xml" prev="WR-05-02_n0036.xml" next="WR-05-02_n0038.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 1</title>
+                  <idno>WR-05-01_n0001.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 3</title>
+                  <idno>WR-05-03_n0049.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">NATKOWSKI: DAS TAGEBUCH DER KOWALEWSKA.</fw></fw><table><row><cell>
-<p rend="no-intend">jetzt, da die Liebe fehlte, dass dieses ganze<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">NATKOWSKI: DAS TAGEBUCH DER KOWALEWSKA.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">jetzt, da die Liebe fehlte, dass dieses ganze<lb/>
 mächtige Reich, diese ganze, große Gedanken-<lb break="no"/>
 welt nichts ist: »es war ja alles wertlos, was<lb/>
 er besaß«. Vom Liebesrausch zur geliebten,<lb/>
@@ -74,7 +89,7 @@ welchen mein Ich an den strahlenden Triumph-<lb break="no"/>
 wagen des menschlichen Geistes gebunden ist!«<lb/>
 Der Philosoph opfert hier also der Liebe das<lb/>
 Theuerste, was er besitzt — seine Gedanken.</p>
-<p>Groß ist jedoch die Macht der auserwählten<lb/>
+                     <p>Groß ist jedoch die Macht der auserwählten<lb/>
 Geister im Kampfe mit den Leiden, die sie<lb/>
 niederdrücken; dieser innerliche Kampf ist ein<lb/>
 besseres Zeugnis für die Größe des Menschen,<lb/>
@@ -101,7 +116,7 @@ in der literarischen Schöpfungskraft oder in<lb/>
 der socialen Thätigkeit: dass wir den Schutt<lb/>
 unseres Gefängnisses hinterlassen, wenn wir<lb/>
 erliegen.</p>
-<p>Was für eine Grundlage kann aber in<lb/>
+                     <p>Was für eine Grundlage kann aber in<lb/>
 dieser Hinsicht ein Mensch — ein Mathematiker<lb/>
 — wie die Kowalewska, haben, dessen Arbeit<lb/>
 ganz unpersönlich ist, dessen Individualität,<lb/>
@@ -110,8 +125,9 @@ unveränderlicher kalter, wie Naturgesetze un-<lb break="no"/>
 erbittlicher Formeln der spurlosen Vernichtung<lb/>
 (äußerlich spurlosen) erliegen wird, dessen<lb/>
 Leiden auf die Arbeit nur nachtheilig wirken</p>
-</cell><cell>
-<p rend="no-intend">kann, als ein Factor, welcher die Nüchternheit<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">kann, als ein Factor, welcher die Nüchternheit<lb/>
 und die Energie des Denkens schwächt. Ein<lb/>
 Philosoph, der ein System baut, das in die<lb/>
 genauesten logischen Formen geschlossen ist,<lb/>
@@ -139,7 +155,7 @@ nicht unmittelbar als solche, als »Wärme«<lb/>
 offenbaren; sie verwandelt sich in »Bewegung«,<lb/>
 in einen mechanischen Motor, der den einzigen<lb/>
 Apparat — den des Verstandes — bewegt.</p>
-<p>Es ist also kein Wunder, dass Kowalewska,<lb/>
+                     <p>Es ist also kein Wunder, dass Kowalewska,<lb/>
 diese reiche Individualität, trotz ihrer Liebe<lb/>
 für die Mathematik, sich in diesem Reiche zu<lb/>
 sehr beengt fühlte, dass sie von literarischem<lb/>
@@ -157,7 +173,7 @@ absoluter Theoretiker von allzu feinem Gefühl<lb/>
 wird es nicht ertragen, und kann sogar ein<lb/>
 Opfer des innerlichen Conflictes und Abscheues<lb/>
 werden.</p>
-<p>Was das literarische Schaffen anbetrifft, so<lb/>
+                     <p>Was das literarische Schaffen anbetrifft, so<lb/>
 sind die mathematischen Bande allzu stark in<lb/>
 Kowalewskas Geist eingedrungen und lahmten<lb/>
 ihren Flug in dieser Richtung. Die Mathematik<lb/>
@@ -170,8 +186,11 @@ gewisse Gedankenprocesse, welche die litera-<lb break="no"/>
 rische Arbeit sehr erschweren, sowohl in<lb/>
 formeller (sprachlicher), wie auch in materieller<lb/>
 (inhaltlicher) Hinsicht.</p>
-</cell></row></table><note type="footnote">
-<p>* Damit man mich nicht missverstehe und wegen Ketzerei und Nichtanerkennung der historischen Entwicklung<lb/>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Damit man mich nicht missverstehe und wegen Ketzerei und Nichtanerkennung der historischen Entwicklung<lb/>
 der Mathematik verdächtige, beeile ich mich, zu bemerken, dass ich hier »die Epoche« der allgemeinen Geschichte und<lb/>
 nicht »die Epoche« der mathematischen Geschichte im Sinne habe. Das sind zwei verschiedene Dinge, die unterschieden<lb/>
 werden müssen. Jede Wissenschaft besitzt außer den äußerlichen allgemein-geschichtlichen Factoren ihrer Entwicklung<lb/>
@@ -180,7 +199,8 @@ darin, dass das Gesetz B nicht entdeckt werden kann, bevor das Gesetz A nicht fe
 anderen Wissenschaften die äußerlich-geschichtlichen Einflüsse eine wichtige, zuweilen die wichtigste Rolle spielen,<lb/>
 sinken sie bei der Mathematik in materieller Hinsicht bis auf Null herunter und wirken nur mechanisch, indem sie das<lb/>
 Tempo der inneren Entwicklung beschleunigen oder zurückhalten.</p>
-</note></div>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-17_n0335.xml"
-     prev="WR-05-17_n0334.xml"
-     next="WR-05-17_n0336.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-17_n0335.xml" prev="WR-05-17_n0334.xml" next="WR-05-17_n0336.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 16</title>
+                  <idno>WR-05-16_n0313.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 18</title>
+                  <idno>WR-05-18_n0343.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">KUHLENBECK: DIE GESCHLECHTSLIEBE IM LICHTE DER DESCENDENZ-THEORIE.</fw></fw><table><row><cell>
-<p rend="no-intend">Streiflichter wirft, darauf ansehen, ob er<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KUHLENBECK: DIE GESCHLECHTSLIEBE IM LICHTE DER DESCENDENZ-THEORIE.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">Streiflichter wirft, darauf ansehen, ob er<lb/>
 uns auch über das Wesen der <hi rend="text-spaced">geschlecht-<lb break="no"/>
 lichen</hi> Fortpflanzung, deren geheimnis-<lb break="no"/>
 volle Natur für die Philosophen von Fach<lb/>
@@ -59,10 +74,10 @@ und die Eule der Minerva ein <hi rend="italics">noli me<lb/>
 tangere</hi> gewesen ist, umflattert nur von<lb/>
 girrenden Tauben der Lyrik, eine Auf-<lb break="no"/>
 klärung bietet.</p>
-<p>Da lernen wir denn alsbald, dass die<lb/>
+                     <p>Da lernen wir denn alsbald, dass die<lb/>
 Geschlechtsdifferenz keineswegs an und<lb/>
 für sich eine <hi rend="italics">conditio sine qua non</hi> der<lb/>
-<hi rend="text-spaced">Fortpflanzung</hi> ist, dass es also von<lb/>
+                        <hi rend="text-spaced">Fortpflanzung</hi> ist, dass es also von<lb/>
 vornherein eine Entwürdigung der Kypris<lb/>
 ist, sie lediglich zur <hi rend="text-spaced">Erhalterin</hi> des<lb/>
 Lebens der Gattung zu stempeln, dass<lb/>
@@ -105,8 +120,10 @@ größeren und älteren, seine Identität<lb/>
 wahrenden »Stamm«-Individuums erscheint.<lb/>
 Noch weiter differenziert sich die Fort-<lb break="no"/>
 pflanzung vom Ur-Phänomen des bloßen</p>
-</cell><cell>
-<p rend="no-intend">Wachsthums in der <hi rend="text-spaced">Keimknospen-</hi><lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Wachsthums in der <hi rend="text-spaced">Keimknospen-</hi>
+                        <lb/>
 bildung und der von dieser sich wenig<lb/>
 unterscheidenden <hi rend="text-spaced">Keimzellenb</hi>ildung.<lb/>
 Hier ist es entweder eine kleine Zellen-<lb break="no"/>
@@ -125,7 +142,7 @@ vielzelligen Organismus, welcher durch<lb/>
 Wachsthum und allmähliche Ausbildung<lb/>
 die erblichen Eigenschaften des elterlichen<lb/>
 Organismus wieder erlangt.</p>
-<p>Den Übergang von dieser Fortpflan-<lb break="no"/>
+                     <p>Den Übergang von dieser Fortpflan-<lb break="no"/>
 zungsform zu der bei höheren Pflanzen<lb/>
 und Thieren vorherrschenden <hi rend="text-spaced">geschlecht-<lb break="no"/>
 lichen</hi> Fortpflanzung bildet nun das<lb/>
@@ -133,13 +150,13 @@ Phänomen, dass bei vielen Protisten<lb/>
 die Vermehrung durch Theilung und<lb/>
 Sporenbildung erst erfolgt, nachdem inner-<lb break="no"/>
 halb des elterlichen Organismus eine<lb/>
-<hi rend="text-spaced">Verschmelzung</hi> zweier anfangs ge-<lb break="no"/>
+                        <hi rend="text-spaced">Verschmelzung</hi> zweier anfangs ge-<lb break="no"/>
 trennter Zellen oder Zellengruppen erfolgt<lb/>
 ist (Conjugation oder Copulation). Der<lb/>
 Organismus sondert <hi rend="text-spaced">in sich selbst</hi> zwei<lb/>
 verschiedene Zeugungsstoffe: die Samen-<lb break="no"/>
 zellen und Eizellen, ab. Da hier ein und<lb/>
-<hi rend="text-spaced">dasselbe</hi> Individuum das männliche und<lb/>
+                        <hi rend="text-spaced">dasselbe</hi> Individuum das männliche und<lb/>
 das weibliche Princip in sich vereinigt,<lb/>
 bezeichnet man dieses Stadium als Herma-<lb break="no"/>
 phroditismus (Zwitterbildung). Man fühlt<lb/>
@@ -159,8 +176,11 @@ gangspunkt</hi> auf der stetigen Bahn fort-<lb break="no"/>
 schreitender Arbeitstheilung in der Werk-<lb break="no"/>
 stätte der Natur. Jene ursprüngliche »Intro-<lb break="no"/>
 selection« vervollkommnet sich nun zur<lb/>
-<hi rend="text-spaced">Personal-Selection</hi>, indem allmäh-</p>
-</cell></row></table></div>
+                        <hi rend="text-spaced">Personal-Selection</hi>, indem allmäh-</p>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-01_n0009.xml"
-     prev="WR-05-01_n0008.xml"
-     next="WR-05-01_n0010.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-01_n0009.xml" prev="WR-05-01_n0008.xml" next="WR-05-01_n0010.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,26 +41,44 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 4, Nr. 24</title>
+                  <idno>WR-04-24_n0421.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 2</title>
+                  <idno>WR-05-02_n0023.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">KASSNER: ZUM TODE OSKAR WILDES.</fw></fw><table><row><cell>
-<p rend="no-intend">mir früher. Die Empfindung ist in mir<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">KASSNER: ZUM TODE OSKAR WILDES.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">mir früher. Die Empfindung ist in mir<lb/>
 das Primäre.</p>
-<p>Es gibt außer dem allgemeinen Mensch-<lb break="no"/>
+                     <p>Es gibt außer dem allgemeinen Mensch-<lb break="no"/>
 heitsleben zwei Dinge, die mein Leben<lb/>
 eine geraume Zeit erfüllten und mir das<lb/>
 Schönste gaben, was Menschengabe sein<lb/>
 kann: die japanische Kunst und die Seele<lb/>
 des russischen Volkes.</p>
-<p>Die erste bestärkte die feine Liebe<lb/>
+                     <p>Die erste bestärkte die feine Liebe<lb/>
 zum Kleinsten; die andere gab mir den<lb/>
 unendlichen Horizont der unbewussten<lb/>
 Empfindung.</p>
-<p>Die Naturwissenschaften gaben mir das<lb/>
+                     <p>Die Naturwissenschaften gaben mir das<lb/>
 Verständnis meiner selbst und des Alls und<lb/>
 die Stellung zu einander. Die Naturwissen-<lb break="no"/>
 schaften gaben mir überhaupt die tiefste,<lb/>
@@ -74,10 +89,11 @@ dass für einen großen Künstler die Aus-<lb break="no"/>
 einandersetzung mit der Geschichte der<lb/>
 Entwicklung unerlässlich, ja sittliche Noth-<lb break="no"/>
 wendigkeit ist.</p>
-<p>So merkte ich, dass die verschiedenen<lb/>
+                     <p>So merkte ich, dass die verschiedenen<lb/>
 Aufeinanderfolgen — Denken und Em-</p>
-</cell><cell>
-<p rend="no-intend">pfinden — im Ziel zusammentreffen. Ein<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">pfinden — im Ziel zusammentreffen. Ein<lb/>
 noch nicht klares Gefühl — das letzte<lb/>
 Ergebnis, der Punkt, auf dem ich mich<lb/>
 jetzt befinde — sagt mir, dass dieser<lb/>
@@ -86,27 +102,47 @@ denen Schattierungen der künstlerischen<lb/>
 Erscheinungen sich aus der Art und<lb/>
 Weise der Mischungen dieser Gegensätze<lb/>
 ergeben.</p>
-<p>Und ganz hinten, im letzten Ver-<lb break="no"/>
+                     <p>Und ganz hinten, im letzten Ver-<lb break="no"/>
 schwimmen der äußersten, feinsten Be-<lb break="no"/>
 trachtung eine aufdämmernde Ahnung:</p>
-<p>Der, der den Willen verachtete, ward<lb/>
-<hi rend="text-spaced">Wille</hi>.</p>
-<p>»Trieb« vereinigt sich reinigend mit<lb/>
+                     <p>Der, der den Willen verachtete, ward<lb/>
+                        <hi rend="text-spaced">Wille</hi>.</p>
+                     <p>»Trieb« vereinigt sich reinigend mit<lb/>
 dem »Willen« und wird »Stil«.</p>
-<p>Doch das ist noch zu sehr Entwick-<lb break="no"/>
+                     <p>Doch das ist noch zu sehr Entwick-<lb break="no"/>
 lung und Ahnung. Ich nehme es dank-<lb break="no"/>
 bar an; es ist mir ein neuer Beweis der<lb/>
 Einheit alles Erschaffenen.</p>
-<p>Ich nehme es dankbar an, ahnend,<lb/>
+                     <p>Ich nehme es dankbar an, ahnend,<lb/>
 dass auf diesem Boden der Baum wächst,<lb/>
 der die Menschheit noch einmal beschatten<lb/>
 wird; dass dies der Geist ist, dem die Zu-<lb break="no"/>
 kunft die Krone gibt.</p>
-</cell></row></table><milestone unit="untyped-end"/><milestone unit="undefined"/><milestone unit="untyped-start"/><ab><title><hi rend="text-spaced">ZUM TODE OSKAR WILDES</hi>.<lb/>
+                  </cell>
+               </row>
+            </table>
+            <milestone unit="untyped-end"/>
+            <milestone unit="undefined"/>
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>
+                  <hi rend="text-spaced">ZUM TODE OSKAR WILDES</hi>.<lb/>
 Einiges über das Paradoxe.<lb/>
-Von <rs type="person" key=""><hi rend="text-spaced">RUDOLF KASSNER</hi></rs> (Wien).</title></ab><milestone unit="epigraph-start"/><p>»On peut adorer une femme et aller chaque soir<lb/>
-chez les filles.«</p><p>(Aus <rs type="person" key=""><hi rend="text-spaced">Flauberts</hi></rs> Briefen an Mme. X <milestone unit="3dots"/>)</p><milestone unit="untyped-end"/><table><row><cell>
-<p>Ich will nicht versuchen, von den<lb/>
+Von <rs type="person" key="">
+                     <hi rend="text-spaced">RUDOLF KASSNER</hi>
+                  </rs> (Wien).</title>
+            </ab>
+            <milestone unit="epigraph-start"/>
+            <p>»On peut adorer une femme et aller chaque soir<lb/>
+chez les filles.«</p>
+            <p>(Aus <rs type="person" key="">
+                  <hi rend="text-spaced">Flauberts</hi>
+               </rs> Briefen an Mme. X <milestone unit="3dots"/>)</p>
+            <milestone unit="untyped-end"/>
+            <table>
+               <row>
+                  <cell>
+                     <p>Ich will nicht versuchen, von den<lb/>
 Werken Oskar Wildes zu sprechen, von<lb/>
 seinen Dialogen, seinen Gedichten in Prosa,<lb/>
 von seinen Romanen und Theaterstücken.<lb/>
@@ -119,8 +155,9 @@ zum mindesten curios, seine Theater-<lb break="no"/>
 stücke kenne ich nicht, und den Umstand,<lb/>
 dass sie in England* gespielt werden, lasse<lb/>
 ich mir vorläufig als Einwand gegen sie</p>
-</cell><cell>
-<p rend="no-intend">gelten. Trotz allem — sein Werk ist<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">gelten. Trotz allem — sein Werk ist<lb/>
 noch keine That gewesen, es beweist für<lb/>
 sich selbst wenig und deutet nur vieles an.<lb/>
 Oskar Wilde war eine schöne Möglichkeit.<lb/>
@@ -130,13 +167,17 @@ für <hi rend="text-spaced">viele</hi>. Gerade bei ihm scheint mir<lb/>
 diese Art, den Menschen und sein Werk<lb/>
 wahrzunehmen, die natürlichste und noth-<lb break="no"/>
 wendigste.</p>
-<p>Oskar Wilde war ein Verführer und<lb/>
+                     <p>Oskar Wilde war ein Verführer und<lb/>
 Poseur, genial und kokett, gewissenlos<lb/>
 und immer vorbereitet, ein Träumer und</p>
-</cell></row></table><note type="footnote">
-<p>* Das hervorragendste Werk Wildes, die »<hi rend="text-spaced">Salome</hi>« — hier im Sommer veröffentlicht —<lb/>
+                  </cell>
+               </row>
+            </table>
+            <note type="footnote">
+               <p>* Das hervorragendste Werk Wildes, die »<hi rend="text-spaced">Salome</hi>« — hier im Sommer veröffentlicht —<lb/>
 ist in Paris von der Bernhardt aufgeführt worden.</p>
-</note></div>
+            </note>
+         </div>
       </body>
    </text>
 </TEI>

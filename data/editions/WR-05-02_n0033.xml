@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-02_n0033.xml"
-     prev="WR-05-02_n0032.xml"
-     next="WR-05-02_n0034.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-02_n0033.xml" prev="WR-05-02_n0032.xml" next="WR-05-02_n0034.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,14 +41,32 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 1</title>
+                  <idno>WR-05-01_n0001.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 3</title>
+                  <idno>WR-05-03_n0049.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">NATKOWSKI: DAS TAGEBUCH DER KOWALEWSKA.</fw></fw><table><row><cell>
-<p rend="no-intend">treten sie den Weg wie ein ruhiges Arbeits-<lb break="no"/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">NATKOWSKI: DAS TAGEBUCH DER KOWALEWSKA.</fw>
+            </fw>
+            <table>
+               <row>
+                  <cell>
+                     <p rend="no-intend">treten sie den Weg wie ein ruhiges Arbeits-<lb break="no"/>
 thier, sondern wie ein Held, der in den blutigen<lb/>
 Kampf tritt, mit blitzender Begierde im Auge;<lb/>
 Tollkühnheit schnürt ihm die Kehle zusammen,<lb/>
@@ -59,13 +74,13 @@ durch die sich die gedämpften Worte des<lb/>
 alten schottischen Liedes zu drängen scheinen:<lb/>
 »Meine Standarte muss dort oben leuchten oder<lb/>
 eine Leiche wird auf Bothwell-Hill ruhen <milestone unit="3dots"/>«</p>
-<p>Zur Transmission trugen bei Kowalewska<lb/>
+                     <p>Zur Transmission trugen bei Kowalewska<lb/>
 vier Factoren bei: 1. Vererbung. 2. die häus-<lb break="no"/>
 liche Atmosphäre, 3. die physischen Mängel,<lb/>
 4. die allgemeine Geistesströmung, die allge-<lb break="no"/>
 meine Ideenumgestaltung in der Epoche ihrer<lb/>
 Jugendjahre.</p>
-<p>Jeden dieser Punkte müssen wir hier er-<lb break="no"/>
+                     <p>Jeden dieser Punkte müssen wir hier er-<lb break="no"/>
 wägen. Unter Kowalewkas Ahnen von Seite<lb/>
 der Mutter (Schubert) waren berühmte Mathe-<lb break="no"/>
 matiker; ihr Onkel, den sie kannte, ein all-<lb break="no"/>
@@ -81,7 +96,7 @@ Mathematik ausbildeten, als für eine höhere,<lb/>
 geheimnisvolle Wissenschaft, die ihm eine neue,<lb/>
 wunderbare, gewöhnlichen Sterblichen unzu-<lb break="no"/>
 gängliche Welt eröffnete (Autobiographie).</p>
-<p>Kowalewskas Vater (General Krukowski)<lb/>
+                     <p>Kowalewskas Vater (General Krukowski)<lb/>
 hat in seiner Jugend auch Mathematik studiert<lb/>
 und besaß lithographierte Curse höherer Rechen-<lb break="no"/>
 arbeiten. Der Zufall fügte es, dass man in<lb/>
@@ -100,7 +115,7 @@ ihr berühmter Lehrer bemerkte, dass sie den<lb/>
 Begriff der Grenze und des Derivierens so<lb/>
 schnell verstand, »als wenn sie es schon vor-<lb break="no"/>
 her gewusst hätte«.</p>
-<p>Wie sehr mathematische Studien den<lb/>
+                     <p>Wie sehr mathematische Studien den<lb/>
 Menschen in Anspruch nehmen, wie sehr sie<lb/>
 ihn dem Leben entreißen, entkörpern, durch-<lb break="no"/>
 geistigen, kann nur derjenige begreifen und<lb/>
@@ -118,13 +133,14 @@ die mathematischen Körper, jene leeren Formen<lb/>
 ohne jeden concreten Wert, für ihn zu con-<lb break="no"/>
 cret sein; er wird darnach streben, sie gänz-<lb break="no"/>
 lich durch abstracte Muster zu ersetzen —</p>
-</cell><cell>
-<p rend="no-intend">Geometrie ersetzt er durch Algebra, Geometrie<lb/>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">Geometrie ersetzt er durch Algebra, Geometrie<lb/>
 ohne Figuren — das ist das Ideal und der<lb/>
 Stolz des Mathematikers! Selbst »Hirngespinste«<lb/>
 sind für ihn eine Welt, in der er sich ganz<lb/>
 frei bewegt.</p>
-<p>Aber auch diese Abstractionen sind noch<lb/>
+                     <p>Aber auch diese Abstractionen sind noch<lb/>
 mit irdischem Staub belastet — den drei<lb/>
 Dimensionen; also auch dieser Staub des<lb/>
 Concreten müsste abgeschüttelt werden, Muster<lb/>
@@ -134,7 +150,7 @@ physischen Mathematik müsste man sich zur<lb/>
 metaphysischen Mathematik, zur Meta-Mathe-<lb break="no"/>
 matik, erheben — außerhalb jeder Sinnlichkeit,<lb/>
 jeder Begriffsfähigkeit.</p>
-<p>Auf diese Weise erbaut sich der Mathe-<lb break="no"/>
+                     <p>Auf diese Weise erbaut sich der Mathe-<lb break="no"/>
 matiker eine Welt, die mit dem Leben nichts<lb/>
 gemein hat, die höchste Abstraction ist und<lb/>
 uns einen Schimmer der Unendlichkeit zeigt;<lb/>
@@ -143,7 +159,7 @@ lich sein menschliches Ich, welches sich den<lb/>
 despotischen, eisernen, unzerbrechlichen, alles<lb/>
 ebnenden Gesetzen dieser eigentümlichen<lb/>
 Welt fügen muss.</p>
-<p>Was die physischen Mängel anlangt, so<lb/>
+                     <p>Was die physischen Mängel anlangt, so<lb/>
 lenken diese, wie man es durch viele Lebens-<lb break="no"/>
 bilder bekräftigen könnte, den Menschen sehr<lb/>
 oft vom Leben ab und führen ihn der Idee<lb/>
@@ -166,7 +182,7 @@ dunkelte; »da sie der Schwester in Schönheit<lb/>
 nicht gleichkommen konnte, bemühte sich<lb/>
 Sophia, sie dafür in anderer Richtung zu über-<lb break="no"/>
 treffen«. (Leffler).</p>
-<p>Das genügt nicht: außer obigen, sozusagen<lb/>
+                     <p>Das genügt nicht: außer obigen, sozusagen<lb/>
 localen Factoren, welche Kowalewskas große<lb/>
 (von der Großmutter, die Zigeunerin war, ge-<lb break="no"/>
 erbte) Lebenskraft in den Ideenstrom drängten,<lb/>
@@ -186,7 +202,10 @@ Studien, überhaupt der Arbeit für die Idee<lb/>
 widmen zu können; als der arme, hässliche<lb/>
 Student von der Universität neue Ideen aufs<lb/>
 Land brachte, mit denen er die Magnaten-</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

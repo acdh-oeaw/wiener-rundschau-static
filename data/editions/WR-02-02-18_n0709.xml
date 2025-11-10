@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-02-18_n0709.xml"
-     prev="WR-02-02-18_n0708.xml"
-     next="WR-02-02-18_n0710.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-02-18_n0709.xml" prev="WR-02-02-18_n0708.xml" next="WR-02-02-18_n0710.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,28 +42,64 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 2, Halbbd. 1</title>
+                  <idno>WR-02-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 3, Halbbd. 1</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 17</title>
+                  <idno>WR-02-02-17_n0641.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 2, Nr. 19</title>
+                  <idno>WR-02-02-19_n0713.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="ctext">MASKEN UND GÖTZENBILDER.</fw><fw type="pn">709</fw></fw><p rend="no-intend">es der Zeit, die ihre Umrisse verlöscht, ihre Züge verwischt. Die<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="ctext">MASKEN UND GÖTZENBILDER.</fw>
+               <fw type="pn">709</fw>
+            </fw>
+            <p rend="no-intend">es der Zeit, die ihre Umrisse verlöscht, ihre Züge verwischt. Die<lb/>
 Fähigkeit der Abstraction, welche Algebraikern und Mathematikern<lb/>
 eigen ist, entwickelt sich nur allmählig in unserer Gattung. Weder<lb/>
-Kinder noch Wilde mögen da gerne anbeissen.</p><p>Ebenso wie sieh auf der glatten Fläche eines Teiches die Land-<lb break="no"/>
+Kinder noch Wilde mögen da gerne anbeissen.</p>
+            <p>Ebenso wie sieh auf der glatten Fläche eines Teiches die Land-<lb break="no"/>
 schaft spiegelt, fällt der Schatten der Personen und der Abglanz der<lb/>
 Dinge auf die Retina unseres inneren Auges. Indem sie ins Bewusstsein<lb/>
-treten, werden die Bilder zu Ideen, dann zu Reflexionen.</p><p>»Die Abgötterei«, erklärten Araber dem General Daumas, »ist<lb/>
-dem Schmerze der Lebenden um die Todten entsprossen«.</p><p>Bald vergessen, würden die Verstorbenen in den dunklen Ab-<lb break="no"/>
+treten, werden die Bilder zu Ideen, dann zu Reflexionen.</p>
+            <p>»Die Abgötterei«, erklärten Araber dem General Daumas, »ist<lb/>
+dem Schmerze der Lebenden um die Todten entsprossen«.</p>
+            <p>Bald vergessen, würden die Verstorbenen in den dunklen Ab-<lb break="no"/>
 gründen des Nichtseins verschwinden, wenn nicht irgend ein materielles<lb/>
 Bild, das immaterielle Bild, welches noch in einigen Erinnerungen fort-<lb break="no"/>
 besteht, fortwährend erhalten würde. Das gemeisselte, späterhin ge-<lb break="no"/>
-zeichnete Bildnis setzte die materielle Vision im Intellect fort.</p><p>Mit Recht oder Unrecht halten wir die, wie wir meinen ersten,<lb/>
+zeichnete Bildnis setzte die materielle Vision im Intellect fort.</p>
+            <p>Mit Recht oder Unrecht halten wir die, wie wir meinen ersten,<lb/>
 allen anderen vorangegangenen Darstellungen der menschlichen Gestalt<lb/>
 von höchster Bedeutung. Wie alle Welt sieht auch der Wilde erst<lb/>
 bloss die Form der Dinge, begreift nur durch die Zuhilfenahme eines<lb/>
-Bildes.</p><p>(Schluss folgt)</p><milestone unit="untyped-end"/></div>
+Bildes.</p>
+            <p>(Schluss folgt)</p>
+            <milestone unit="untyped-end"/>
+         </div>
       </body>
    </text>
 </TEI>

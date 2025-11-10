@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-05-14_n0286.xml"
-     prev="WR-05-14_n0285.xml"
-     next="WR-05-14_n0287.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-05-14_n0286.xml" prev="WR-05-14_n0285.xml" next="WR-05-14_n0287.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,23 +41,42 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 4</title>
+                  <idno>WR-04-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 5, Nr. 13</title>
+                  <idno>WR-05-13_n0265.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 5, Nr. 15</title>
+                  <idno>WR-05-15_n0295.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><milestone unit="untyped-start"/><ab><title>ÜBER DEN<lb/>
+         <div type="page">
+            <milestone unit="untyped-start"/>
+            <ab>
+               <title>ÜBER DEN<lb/>
 GEGENWÄRTIGEN STAND DER LITERARISCHEN KRITIK.<lb/>
-<hi rend="text-spaced">Mit besonderer Berücksichtigung Frankreichs</hi>.<lb/>
+                  <hi rend="text-spaced">Mit besonderer Berücksichtigung Frankreichs</hi>.<lb/>
 Von <rs type="person" key="">CAMILLE MAUCLAIR</rs> (Paris).<lb/>
-(Schluss.)</title></ab><table><row><cell>
-<p>Man hat behauptet, nur die Produ-<lb break="no"/>
+(Schluss.)</title>
+            </ab>
+            <table>
+               <row>
+                  <cell>
+                     <p>Man hat behauptet, nur die Produ-<lb break="no"/>
 cierenden wären imstande, das Product<lb/>
 zu bewerten. Das ist nicht richtig, da sie<lb/>
 oft sehr schlechte Beurtheiler sind. Edgar<lb/>
 Allan <hi rend="text-spaced">Poe</hi> war ein miserabler Kritiker,<lb/>
-<hi rend="text-spaced">Baudelaire</hi> dagegen ein Kritiker ersten<lb/>
+                        <hi rend="text-spaced">Baudelaire</hi> dagegen ein Kritiker ersten<lb/>
 Ranges. Über diesen Punkt lässt sich nichts<lb/>
 sagen, das ist Temperamentsache. Man<lb/>
 hat auch gesagt: »Wozu überhaupt kriti-<lb break="no"/>
@@ -82,7 +98,7 @@ nicht die geringste Veränderung hervor-<lb break="no"/>
 rufen. Die Rolle des wirklichen Kritikers<lb/>
 kann eine ganz andere, und zwar eine sehr<lb/>
 schöne sein.</p>
-<p>Den Producierenden fehlt der weite<lb/>
+                     <p>Den Producierenden fehlt der weite<lb/>
 Blick für die Beurtheilung ihrer Schöpfungen<lb/>
 und ebenso für die Wirkungen, die sie auf<lb/>
 ihre Zeitgenossen hervorbringen wollten.<lb/>
@@ -95,9 +111,12 @@ brauchen niemand, der das Publicum ver-<lb break="no"/>
 anlasst, sie zu lesen, dazu genügt die<lb/>
 Reclame. Dagegen muss jemand da sein,<lb/>
 der dem Publicum und dem Autor klar<lb/>
-und deutlich sagt: »<hi rend="text-spaced">Hier berühren</hi></p>
-</cell><cell>
-<p rend="no-intend"><hi rend="text-spaced">sich eure Geister und eure Seelen</hi>.<lb/>
+und deutlich sagt: »<hi rend="text-spaced">Hier berühren</hi>
+                     </p>
+                  </cell>
+                  <cell>
+                     <p rend="no-intend">
+                        <hi rend="text-spaced">sich eure Geister und eure Seelen</hi>.<lb/>
 Du bist geschaffen, zu säen, du, zu ernten.<lb/>
 Da der eine geneigt ist, zu producieren,<lb/>
 und der andere, sich bessern zu lassen,<lb/>
@@ -109,7 +128,8 @@ Gedanken, und du widerstrebe nicht;<lb/>
 keiner von beiden aber lasse sich vom<lb/>
 Vorurtheil zurückschrecken.« <hi rend="text-spaced">Das ist die<lb/>
 wahre Rolle des Kritikers</hi>. Er kann<lb/>
-in der <hi rend="text-spaced">Zusammenwirkung der Ideen</hi><lb/>
+in der <hi rend="text-spaced">Zusammenwirkung der Ideen</hi>
+                        <lb/>
 unschätzbare Dienste erweisen und sich<lb/>
 sogar zu einer Aufgabe von wirklicher<lb/>
 Größe erheben! Wer aber behaupten wollte,<lb/>
@@ -120,7 +140,7 @@ geistiges Niveau, wo die <hi rend="text-spaced">Entdeckung<lb/>
 der Hauptgründe der Gedanken-<lb break="no"/>
 association</hi> ebenso hoch zu bewerten<lb/>
 ist, als das Schaffen selbst.</p>
-<p>Was ist ein Dichter? Ein Mann, der<lb/>
+                     <p>Was ist ein Dichter? Ein Mann, der<lb/>
 imstande ist, zwischen den Formen und<lb/>
 Bildern der Natur Analogien und abstracte<lb/>
 Verbindungen zu finden, von denen man<lb/>
@@ -138,7 +158,10 @@ Gedankenverbindungen befähigt ist, kann,<lb/>
 wenn er sich darauf beschränkt, ein-<lb break="no"/>
 einfacher Literat bleiben, sich aber<lb/>
 auch, wenn er will, zu einem wirklichen</p>
-</cell></row></table></div>
+                  </cell>
+               </row>
+            </table>
+         </div>
       </body>
    </text>
 </TEI>

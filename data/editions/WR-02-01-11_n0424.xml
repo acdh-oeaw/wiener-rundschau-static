@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="WR-02-01-11_n0424.xml"
-     prev="WR-02-01-11_n0423.xml"
-     next="WR-02-01-11_n0425.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="WR-02-01-11_n0424.xml" prev="WR-02-01-11_n0423.xml" next="WR-02-01-11_n0425.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -45,20 +42,50 @@
                   <biblScope unit="page">-</biblScope>
                   <idno/>
                </bibl>
+               <bibl n="previous volume">
+                  <title>Bd. 1</title>
+                  <idno>WR-01-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next volume">
+                  <title>Bd. 3</title>
+                  <idno>WR-03-01-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="previous halbband">
+                  <title>Bd. 1, Halbbd. 2</title>
+                  <idno>WR-01-02-00_i0001.xml</idno>
+               </bibl>
+               <bibl n="next halbband">
+                  <title>Bd. 2, Halbbd. 2</title>
+                  <idno>WR-02-02-13_n0481.xml</idno>
+               </bibl>
+               <bibl n="previous issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 10</title>
+                  <idno>WR-02-01-10_n0361.xml</idno>
+               </bibl>
+               <bibl n="next issue">
+                  <title>Bd. 2, Halbbd. 1, Nr. 12</title>
+                  <idno>WR-02-01-12_n0441.xml</idno>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="page"><fw type="hd"><fw type="pn">424</fw><fw type="ctext">SCHAUKAL.</fw></fw><p>Wir sollen vielmehr recht betrübt in unsere Einsamkeit blicken<lb/>
+         <div type="page">
+            <fw type="hd">
+               <fw type="pn">424</fw>
+               <fw type="ctext">SCHAUKAL.</fw>
+            </fw>
+            <p>Wir sollen vielmehr recht betrübt in unsere Einsamkeit blicken<lb/>
 und unsere »Stamm«-Losigkeit beklagen, die uns (die geborenen Inter-<lb break="no"/>
 viewer fremder »Völkerschaften«) an dem Strande des Menschheits-<lb break="no"/>
-rneeres als seltsame, einsame Wesen liess.</p><p>Der Engländer tritt dir als <hi rend="text-spaced">sein Volk</hi> entgegen. Ihm gehört<lb/>
+rneeres als seltsame, einsame Wesen liess.</p>
+            <p>Der Engländer tritt dir als <hi rend="text-spaced">sein Volk</hi> entgegen. Ihm gehört<lb/>
 das Meer, London, »<hi rend="text-spaced">die Stadt</hi>« (wie einst <hi rend="text-spaced">urbs</hi> dem Erdkreis Rom<lb/>
 bedeutete). Der gemeinste Kerl, der tabakkauend, mit breiten Nasen-<lb break="no"/>
 löchern, schwarzgebrannt, schmutzig am Strande strolcht, ist »<hi rend="text-spaced">der</hi>«<lb/>
-<hi rend="text-spaced">Engländer</hi>, ein Theil seines mächtigen Volkes. Englische, auch die<lb/>
+               <hi rend="text-spaced">Engländer</hi>, ein Theil seines mächtigen Volkes. Englische, auch die<lb/>
 überseeische Politik ist dem Stiefelputzer des Boardinghouse wohl be-<lb break="no"/>
 kannt. Er liest seine Zeitung und ist »Anhänger« mit Emphase. Und<lb/>
 sozusagen einen »Hieb« vom Gentleman hat jeder Kellner, der seine<lb/>
@@ -68,21 +95,25 @@ kennen und hassen lernen als im Lande der »freien Bewegung«. Aber<lb/>
 wenn ein Engländer seine Beine an den Tisch stemmt, dass die Bretter<lb/>
 krachen, und in der Nase schaufelt, dass sich Erbarmen zum Ekel<lb/>
 drängt — er thut es gewissermassen »berechtigt«. Er ist »<hi rend="text-spaced">somebody</hi>«;<lb/>
-<hi rend="text-spaced">e</hi>r hat einen Millionenhandel und »<hi rend="text-spaced">seine</hi>« Königin hat das »jubilee«<lb/>
+               <hi rend="text-spaced">e</hi>r hat einen Millionenhandel und »<hi rend="text-spaced">seine</hi>« Königin hat das »jubilee«<lb/>
 gefeiert. Man will ihm gedemüthigt vergeben. Aber ärgern dürfen<lb/>
-wir uns.</p><p>»Are you very fond of music?« Die läppische Frage wird dir<lb/>
+wir uns.</p>
+            <p>»Are you very fond of music?« Die läppische Frage wird dir<lb/>
 zehnmal des Tages gestellt. So recht eine ausgehungerte, mühselige<lb/>
-und staubbeladene Phrase. Und nun höre man den <hi rend="text-spaced">musikalischen</hi><lb/>
+und staubbeladene Phrase. Und nun höre man den <hi rend="text-spaced">musikalischen</hi>
+               <lb/>
 Engländer an! Die Geschmacklosigkeit auf der Höhe. Jedes halbwegs<lb/>
 lebensfähige Individuum spielt und singt. Ein Abend im drawing-room<lb/>
 bietet die reichste Auswahl unter wetteifernden musikalischen Mördern.<lb/>
 Sie sind alle so fürchterlich sentimental in ihren endlosen Liedern.<lb/>
-Und so bereit, einander nimmermüde abzulösen.</p><p>Wie wohlthuend ist dagegen die wirkliche tiefe Verehrung des<lb/>
+Und so bereit, einander nimmermüde abzulösen.</p>
+            <p>Wie wohlthuend ist dagegen die wirkliche tiefe Verehrung des<lb/>
 Volkes für seine Zierden. In einem Londoner »Variété«-Theater konnte<lb/>
 ein »Künstler« unter dem Jubel des Publicums Charaktere aus »David<lb/>
 Copperfield« mimen, und als er zum Schlusse den »Great novellist<lb/>
 himself« in markanter Pose zeigte, brach ein Freudensturm in allen<lb/>
-Räumen los. Man sollte so etwas bei uns probiren!</p><p>Eine »music-hall« ist überhaupt sehr lehrreich für den Fremden.<lb/>
+Räumen los. Man sollte so etwas bei uns probiren!</p>
+            <p>Eine »music-hall« ist überhaupt sehr lehrreich für den Fremden.<lb/>
 Was »die Stadt« an Typen aufweist, kommt auf die Bühne, und ge-<lb break="no"/>
 schmeichelt klatscht das Volk Zustimmung. Das Geld spielt eine grosse<lb/>
 Rolle in der »Kunst«. Ich kann mich keines deutschen oder französi-<lb break="no"/>
@@ -93,7 +124,8 @@ das »business«. Es ist schon ekelhaft, wie selbstgefällig sich diese<lb/>
 Krämer geberden. Bei uns, dem Lande der falschen Scham und des<lb/>
 schüchternen Snobismus, wo jeder Handlungsgehilfe den »Cavalier«<lb/>
 spielt, wenn ihn zufällig der Nächstsitzende nicht kennt, will man mit<lb/>
-dem Rocke den Tagesmenschen ausziehen, man eilt, der Geschäfte los</p></div>
+dem Rocke den Tagesmenschen ausziehen, man eilt, der Geschäfte los</p>
+         </div>
       </body>
    </text>
 </TEI>
