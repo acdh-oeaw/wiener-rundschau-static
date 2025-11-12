@@ -40,7 +40,7 @@
                                     <br/>
                                     <span class="display-6">1910–1954</span>
                                 </h1>
-                                <p class="text-end">herausgegeben vom Austrian Centre for Digital Humanities and Cultural Heritage <a href="https://www.oeaw.ac.at/acdh/">(ACDH-CH)</a></p>
+                                <p class="text-end">herausgegeben vom Austrian Centre for Digital Humanities <a href="https://www.oeaw.ac.at/acdh/">(ACDH)</a></p>
                                 <p class="lead">
                                     Eine digitale Edition der Wiener Rundschau: Zeitschrift für Cultur und Kunst / hrsg. von Constantin Christomanos und Felix Rappaport, ergänzt um eine Text- und Autor*Innenverzeichnis. 
                                 </p>
