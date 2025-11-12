@@ -28,7 +28,11 @@
     <xsl:variable name="doc_title">
         <xsl:value-of select=".//tei:titleStmt/tei:title[@level='a']/text()"/>
     </xsl:variable>
-
+    <xsl:variable name="archeUrl" select="'https://id.acdh.oeaw.ac.at/wiener-rundschau/'"/>
+    <xsl:variable name="facsUrl" select="$archeUrl||replace($teiSource, '.xml', '.tif')"/>
+<!--    <xsl:variable name="facsUrl" select="'https://id.acdh.oeaw.ac.at/ODeeg/Collections/AT-Vienna-KHM/KHM-ANSA-IV1/Photos/KHM-ANSA-IV1_im01.tif?format=image%2Fpng.'"/>-->
+        
+    
 
     <xsl:template match="/">
         <html class="h-100" lang="{$default_lang}">
@@ -162,7 +166,18 @@
                                 </xsl:for-each>
                             </div>
                         </div>
-                        <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
+                        <div class="row">
+                            <div class="col" id="facs-container">
+                                <h2 class="visually-hidden">Faksimile</h2>
+                                <div style="width: 100%; height: 800px" id="osd_viewer"/>
+                                <figcaption class="figure-caption text-center"><xsl:value-of select="$doc_title"/></figcaption>
+                            </div>
+                            <div class="col">
+                                <h2 class="visually-hidden">Text</h2>
+                                <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
+                            </div>
+                        </div>
+                        
                         
                             
 
@@ -179,9 +194,11 @@
                             <xsl:apply-templates/>
                         </div>
                     </xsl:for-each>
+                    <span id="url" class="visually-hidden" aria-hidden="true"><xsl:value-of select="$facsUrl"/></span>
                 </main>
                 <xsl:call-template name="html_footer"/>
                 <script src="vendor/openseadragon-bin-4.1.1/openseadragon.min.js"/>
+                <script src="js/facs.js"/>
             </body>
         </html>
     </xsl:template>
