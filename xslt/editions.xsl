@@ -30,7 +30,7 @@
     </xsl:variable>
     <xsl:variable name="archeUrl" select="'https://id.acdh.oeaw.ac.at/wiener-rundschau/'"/>
     <xsl:variable name="facsUrl" select="$archeUrl||replace($teiSource, '.xml', '.tif')"/>
-<!--    <xsl:variable name="facsUrl" select="'https://id.acdh.oeaw.ac.at/ODeeg/Collections/AT-Vienna-KHM/KHM-ANSA-IV1/Photos/KHM-ANSA-IV1_im01.tif?format=image%2Fpng.'"/>-->
+    <xsl:variable name="aacXmlUrl" select="$archeUrl||$teiSource||'?format=raw'"/>
         
     
 
@@ -171,6 +171,9 @@
                                 <h2 class="visually-hidden">Faksimile</h2>
                                 <div style="width: 100%; height: 800px" id="osd_viewer"/>
                                 <figcaption class="figure-caption text-center"><xsl:value-of select="$doc_title"/></figcaption>
+                                <div class="text-center">
+                                    <a href="{$aacXmlUrl}">original AAC-XML</a>
+                                </div>
                             </div>
                             <div class="col">
                                 <h2 class="visually-hidden">Text</h2>
