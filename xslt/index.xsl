@@ -38,7 +38,7 @@
                                     <br/>
                                     <span class="display-4">Wiener Rundschau</span>
                                     <br/>
-                                    <span class="display-6">1910–1954</span>
+                                    <span class="display-6">1896–1901</span>
                                 </h1>
                                 <p class="text-end">herausgegeben vom Austrian Centre for Digital Humanities <a href="https://www.oeaw.ac.at/acdh/">(ACDH)</a></p>
                                 <p class="lead">
