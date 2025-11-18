@@ -9,8 +9,8 @@
                 <xsl:for-each select="./tei:author">
                     <dd>
                         <xsl:choose>
-                            <xsl:when test="@key">
-                                <a href="{@key}.html">
+                            <xsl:when test="@ref">
+                                <a href="{replace(@ref, '#', '')}.html">
                                     <xsl:value-of select="string-join(.//text())"/>
                                 </a>
                             </xsl:when>
