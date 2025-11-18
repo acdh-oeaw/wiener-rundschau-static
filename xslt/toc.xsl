@@ -61,8 +61,8 @@
                                 </tr>
                             </thead>
                             <tbody>
-                                <xsl:for-each
-                                    select="collection('../data/editions?select=*.xml')//tei:TEI">
+                                <xsl:for-each select="collection('../data/editions?select=*.xml')//tei:TEI">
+                                    <xsl:sort select="@xml:id"></xsl:sort>
                                     <xsl:variable name="id">
                                         <xsl:value-of select="@xml:id"/>
                                     </xsl:variable>
