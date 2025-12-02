@@ -42,70 +42,21 @@
                         </h1>
                         <div class="container-fluid d-md-px-5 pb-4">
                             <div id="noske-search"></div>
-                            <div id="hitsbox-test"></div>
+                            <div class="text-center p-2">
+                                <a href="noske-search.html" class="btn btn-primary">Reset</a>
+                            </div>
+                            <div id="noske-stats"></div>
+                            <div id="hitsbox"></div>
                             <div>
-                                <div id="noske-pagination-test"></div>
-                                <div id="noske-stats"></div>
+                                <div id="noske-pagination"></div>
+                                
                             </div>
                         </div>
                     </div>
                 </main>
                 <xsl:call-template name="html_footer"/>
-                <script type="module">
-    import { NoskeSearch } from "./vendor/acdh-noske-search/index.js";
-    const search = new NoskeSearch({
-      container: "noske-search",
-      autocomplete: false,
-      wordlistattr: [
-        "word",
-        "lemma",
-        "pos",
-        "id",
-        "placeName",
-        "persName",
-        "pbId",
-        "landingPageURI"
-      ],
-    });
-
-    search.minQueryLength = 2;
-    search.search({
-      debug: false,
-      client: {
-        base: "https://corpus-search.acdh.oeaw.ac.at/",
-        corpname: "wienerrundschau",
-        attrs: "word,lemma,pos,landingPageURI",
-        structs: "sen",
-        refs: "doc.id,doc.title",
-      },
-      hits: {
-        id: "hitsbox-test",
-        css: {
-          div: "grid grid-cols-5 gap-4",
-        },
-      },
-      pagination: {
-        id: "noske-pagination-test",
-      },
-      searchInput: {
-        id: "noske-input",
-        placeholder:
-          "Suche nach Wörter, Phrase oder CQL-Query (Regex erlaubt)",
-        button: "Suchen",
-      },
-      config: {
-        tableView: true,
-        customUrlTransform: function(lines) {
-          let kwic_attr = lines.kwic_attr?.split("/");
-          let doc_id = kwic_attr[kwic_attr.length - 1];
-          return doc_id;
-        },
-      },
-      stats: {
-        id: "noske-stats",
-      },
-    });
-   </script>
+                <script src="js/noske-search.js" type="module"></script>
+    
             </body>
         </html>
     </xsl:template>
