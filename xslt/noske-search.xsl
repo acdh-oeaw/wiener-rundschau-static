@@ -42,15 +42,12 @@
                         </h1>
                         <div class="container-fluid d-md-px-5 pb-4">
                             <div id="noske-search"></div>
-                            <div class="text-center p-2">
+                            <div class="text-center p-2" id="reset-button">
                                 <a href="noske-search.html" class="btn btn-primary">Reset</a>
                             </div>
                             <div id="noske-stats"></div>
                             <div id="hitsbox"></div>
-                            <div>
-                                <div id="noske-pagination"></div>
-                                
-                            </div>
+                            <div id="noske-pagination" class="p-3"></div>
                         </div>
                     </div>
                 </main>
